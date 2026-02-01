@@ -1,0 +1,1418 @@
+# NYC Fuel Gas Code 2022 - Chapter 8
+
+New York City Fuel Gas Code 2022
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Chapter 4 Gas Piping Installations
+
+---
+
+Chapter 5 Chimneys and Vents
+
+---
+
+Chapter 6 Specific Appliances
+
+---
+
+Chapter 7 Gaseous Hydrogen Systems
+
+---
+
+Chapter 8 Referenced Standards
+
+---
+
+801 General
+
+---
+
+802 Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Reserved
+
+---
+
+Appendix D Reserved
+
+---
+
+Appendix E Meters and Gas Service Piping
+
+---
+
+Appendix F Reserved
+
+---
+
+Appendix G High Pressure Natural Gas Installations
+
+---
+
+Chapter 8 Referenced Standards
+
+---
+
+Section 801 General
+
+---
+
+## Section 801.1: General
+
+801.1 General
+This chapter lists the standards that are referenced in various sections of this document. The standards are listed herein by the promulgating agency of the standard, the standard
+identification
+, the effective date and
+title
+and the section or sections of this document that reference the standard.
+
+---
+
+This chapter lists the standards that are referenced in various sections of this document. The standards are listed herein by the promulgating agency of the standard, the standard
+identification
+, the effective date and
+title
+and the section or sections of this document that reference the standard.
+
+---
+
+## Section 801.2: Subsequent Additions, Modifications or Deletions
+
+801.2 Subsequent Additions, Modifications or Deletions
+Refer to the rules of the department for any subsequent additions, modifications or deletions that may have been made to these standards in accordance with Section 28-103.19 of the
+Administrative Code
+.
+
+---
+
+Refer to the rules of the department for any subsequent additions, modifications or deletions that may have been made to these standards in accordance with Section 28-103.19 of the
+Administrative Code
+.
+
+---
+
+## Section 801.3: Applicability
+
+801.3 Applicability
+The application of the referenced standards shall be as specified in
+Section 102.8
+
+---
+
+The application of the referenced standards shall be as specified in
+Section 102.8
+
+---
+
+Section 802 Standards
+ANSI
+American National Standards Institute
+25 West 43rd Street, Fourth Floor
+New York, NY 10036
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+ANSI/CSA
+America FC1—
+2012
+Stationery Fuel Cell
+Power
+Systems
+633.1
+NSF/ANSI 169 —
+2016
+Special Purpose Food
+Equipment
+and Devices
+411.1.1
+B109.1 —19
+Diaphragm-Type Gas Displacement
+Meters
+(Under 500
+Cubic Feet
+Per Hour Capacity)
+401.1.2
+B109.2—00
+(R2008)
+Diaphragm Type Gas Displacement
+Meters
+(500
+Cubic Feet
+per Hour Capacity and over)
+401.1.2
+B109.3—19
+Rotary-Type Gas Displacement
+Meters
+401.1.2
+Z21.1—2010
+Household Cooking Gas
+Appliances
+623.1
+Z21.5.1/CSA
+7.1—2017
+Gas
+Clothes Dryers
+, Volume I,
+Type 1
+Clothes Dryers
+613.1
+Z21.5.2/CSA
+7.2—2016
+Gas
+Clothes Dryers
+, Volume II,
+Type 2
+Clothes Dryers
+613.1
+, 614.3
+Z21.8—94
+(R2002)
+Installation of Domestic Gas
+Conversion Burners
+619.1
+Z21.10.1/CSA
+4.1—2013
+Gas
+Water Heaters
+- Volume I, Storage
+Water Heaters
+with Input Ratings Of 75,000 Btu Per Hour Or Less
+624.1
+Z21.10.3/CSA
+4.3—2011
+Gas
+Water Heaters
+- Volume III - Storage,
+Water Heaters
+with Input Ratings Above 75,000 Btu per hour, Circulating and Instantaneous
+624.1
+Z21.13/CSA 4.9—2014
+Gas-fired Low Pressure Steam And Hot Water Boilers
+631.1
+Z21.15/CGA
+9.1—09
+Manually Operated Gas
+Valves
+for
+Appliances
+,
+Appliance Connector
+Valves
+and Hose End
+Valves
+Table 409.1.1
+Z21.18/CSA 6.3—2007 (R2016)
+Gas
+Appliance
+Pressure Regulators
+410.3
+Z21.19/CSA 1.4—02 (R2007)
+Refrigerators Using Gas (R1999) Fuel
+625.1
+Z21.21/CSA 6.5—
+05
+Automatic
+Valves
+for Gas
+Appliances
+603.2
+Z21.24/CGA
+6.10—06
+Connectors for Gas
+Appliances
+411.1
+,
+411.3
+Z21.40.1/CGA
+2.9—96 (R2017)
+Gas-fired, Heat Activated
+Air Conditioning
+and Heat Pump
+Appliances
+627.1
+Z21.40.2/CGA
+2.92—96 (R2017)
+Gas-fired, Work Activated
+Air-Conditioning
+and Heat Pump
+Appliances
+(Internal
+Combustion
+)
+627.1
+Z21.42—2013 (R2018)
+Gas-fired Illuminating
+Appliances
+628.1
+Z21.47/CSA 2.3—
+2012
+Gas-fired
+Central Furnaces
+618.1
+Z21.50/CSA
+2.22—2012
+Vented Gas
+Fireplaces
+601.2
+,
+604.1
+Z21.54—2002 (R2007) & Addenda 2009
+Gas Hose Connectors For Portable Outdoor Gas-Fired
+Appliances
+411.1
+Z21.56/CSA 4.7—
+2013
+Gas-fired Pool Heaters
+617.1
+Z21.58/CSA 1.6—
+2015
+Outdoor Cooking Gas
+Appliances
+623.1
+Z21.60/CSA
+2.26—2012
+Decorative Gas
+Appliances
+for Installation in Solid-fuel Burning
+Fireplaces
+601.2
+,
+602.1
+Z21.69/CSA
+6.16—09
+Connectors for Movable Gas
+Appliances
+411.1.1
+,
+411.1.4
+Z21.75/CSA
+6.27—07
+Connectors for Outdoor Gas
+Appliances
+and Manufactured Homes
+411.1
+,
+411.2
+Z21.80/CSA
+6.22—11
+Line
+Pressure Regulators
+410.1
+Z21.84—2012
+Manually-lighted, Natural Gas Decorative Gas
+Appliances
+for Installation in Solid Fuel Burning
+Fireplaces
+602.1
+,
+602.2
+Z21.86/CSA
+2.32—08
+Vented Gas-fired Space Heating
+Appliances
+608.1
+,
+622.1
+Z21.88/CSA
+2.33—2014
+Vented Gas
+Fireplace
+Heaters
+605.1
+Z21.97/CSA
+2.41—2012
+Outdoor Decorative
+Appliances
+636.1
+Z83.4/CSA 3.7—
+2012
+Nonrecirculating Direct-gas-fired Industrial Air Heaters
+611.1
+Z83.8/CSA 2.6—
+09
+Gas
+Unit Heater
+, Gas Packaged Heater, Gas Utility Heaters and Gas-fired
+Duct Furnaces
+610.1
+,
+620.1
+Z83.11/CSA 1.8—
+2016
+Gas Food Service
+Equipment
+623.1
+Z83.18—00
+Recirculating Direct Gas-fired Industrial Air Heaters
+612.1
+Z83.19/CSA
+2.35—01(R2009)
+Gas-fired High-intensity Infrared Heaters
+630.1
+Z83.20/CSA
+2.34—08
+Gas-fired Low-intensity Infrared Heaters
+630.1
+ASME
+American Society of Mechanical Engineers
+Three Park Avenue
+New York, NY 10016-5990
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+A13.1—2015
+Scheme for the
+Identification
+of
+Piping Systems
+401.5
+,
+411.1
+,
+411.2
+,
+G.5.3
+B1.20.1—83
+(Reaffirmed 2006)
+Pipe
+Threads,
+General
+Purpose (inch)
+403.9
+B16.5—R2009
+Pipe
+Flanges and Flanged Fittings: NPS 1/2 through NFPS 24 Metric/Inch Standard
+403.12.2
+B16.20—2017
+Metallic Gaskets for
+Pipe
+Flanges
+403.13.1
+B16.21—2016
+Nonmetallic Flat Gaskets for
+Pipe
+Flanges
+403.13.2
+B16.33—2012
+Manually Operated Metallic Gas
+Valves
+for Use in Gas
+Piping Systems
+up to 125 psig (Sizes
+1
+/
+2
+through 2)
+Table 409.1.1
+B16.42—2011
+Ductile Iron
+Pipe
+Flanges and Flanged Fittings, Classes 150 and 300
+403.12.4
+B16.44—2002
+(Reaffirmed 2007)
+Manually Operated Metallic Gas
+Valves
+for Use in Aboveground
+Piping Systems
+Up to 5 psi
+Table 409.1.1
+B16.47—2011
+Large Diameter Steel Flanges: NPS 26 through NPS 60 Metric/Inch Standard
+403.12.2
+B31.1—12
+Power
+Piping
+Code
+G.5.1
+B36.10M—2004
+Welded and Seamless Wrought-steel
+Pipe
+403.4.2
+B40.100—2013
+Pressure Gauges and Gauge Attachments
+406.4.3
+BPVC—
+2010/2011
+addenda
+ASME
+Boiler
+& Pressure Vessel Code
+404.21.1
+,
+406.1.1.1
+,
+624.2
+,
+631.1
+CSD-1—2012
+Controls
+and Safety Devices for Automatically Fired Boilers
+619.1
+,
+631.1
+ASNT
+American Society for Nondestructive Testing
+PO Box 28518
+1/11 Arlington Lane
+Columbus, OH 43228
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+SNT—TC—1A—2016
+Recommended Practice
+404.21.1
+ASTM
+ASTM International
+100 Barr Harbor Drive
+West Conshohocken, PA 19428
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+A53/A53M—12
+Specification for
+Pipe
+, Steel, Black and Hot Dipped Zinc-coated Welded and Seamless
+403.4.2
+A106/A106M—11
+Specification for Seamless Carbon Steel
+Pipe
+for High-temperature Service
+403.4.2
+C64—72 (1977)
+Withdrawn No Replacement (Specification for Fireclay Brick Refractories for Heavy Duty Stationary Boiler Service)
+503.10.2.5
+C315—07(2011)
+Specification for Clay
+Flue Liners
+and
+Chimney
+Pots
+501.12
+E136—2012
+Standard Test Method for Behavior of Materials in a Vertical Tube
+Furnace
+at 750°C
+202
+(
+Noncombustible materials
+)
+CAN/ULC
+Standards Council of Canada
+270 Albert Street, Suite 200
+Ottawa ON KIP 6N7
+Canada
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+S635—16
+Standard for Lining Systems for Existing Masonry or
+Factory-Built Chimneys
+and
+Vents
+501.12
+,
+501.15.4
+S640—16
+Standard for Lining Systems for New
+Masonry Chimneys
+501.12
+CSA
+CSA Group
+8501 East Pleasant Valley Road
+Cleveland, OH 44131-5516
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+ANSI/CSA America FC1—2012
+Stationary Fuel Cell
+Power
+Systems
+633.1
+MSS
+Manufacturers Standardization Society of the
+Valve
+& Fittings Industry, Inc.
+127 Park Street, N.E.
+Vienna, VA 22180
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+ANSI/SP-58—2009
+Pipe
+Hangers and
+Supports
+—Materials
+Design
+and Manufacture, Selection, Application and Installation
+407.2
+NFPA
+National Fire Protection Association
+1 Batterymarch Park
+Quincy, MA 02169-7471
+Standard
+reference
+number
+Title
+Referenced
+in code section number
+2—16
+Hydrogen Technologies Code
+703.1
+,
+706.2
+30A—15
+Code for Motor Fuel Dispensing Facilities and
+Repair
+Garages
+305.4
+,
+305.10
+37—15
+Standard for the Installation and Use of Stationary
+Combustion
+Engines and Gas Turbines
+616.1
+,
+G.3.1.1
+54—16
+National
+Fuel Gas
+Code
+501.2.2
+,
+609.9
+56PS—12
+Standard for Fire and Explosion Prevention During Cleaning and Purging of Flammable Gas
+Piping Systems
+G.7
+68—07
+Standard for Explosion Protection by Deflagration Venting
+E.2.1
+,
+G.3.1
+69—14
+Standard on Explosion Prevention Systems
+E.2.1, G.2.5.1,
+G.3.2
+72—16*
+*As modified by
+Appendix Q
+of the New York City
+Building Code
+National Fire Alarm and Signaling Code
+G.2.4.3
+82—14
+Incinerators
+, Waste and Linen Handling Systems and
+Equipment
+503.2.5
+,
+Table 503.4
+, 607.1
+85—15
+Boiler and
+Combustion
+Systems Hazards Code
+631.1
+88A—15
+Parking Structures
+305.9
+211—13
+Standard for the
+Chimneys
+,
+Fireplaces
+,
+Vents
+and Solid Fuel-burning
+Appliances
+502.1
+,
+503.5.2
+,
+503.5.3
+,
+503.5.6.1
+,
+503.5.6.3
+409
+—11
+Standard for the Aircraft Hangars
+305.11
+853—15
+Installation of Stationary Fuel Cell
+Power
+Systems
+633.1
+UL
+UL LLC
+333 Pfingsten Road
+Northbrook, IL 60062-2096
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+103
+—2010
+Factory-built Chimneys
+, Residential Type and Building
+Heating
+Appliances
+—with Revisions through July 2012
+506.1
+441—2010
+Gas
+Vents
+502.1
+536—2014
+Flexible Metallic Hose
+405.5
+641—2010
+Type L Low-temperature
+Venting Systems
+—with Revisions
+through May 2013
+502.1
+795—2011
+Commercial-industrial Gas Heating
+Equipment
+610.1
+,
+618.1
+,
+631.1
+959—2010
+Medium Heat
+Appliance
+Factory-built Chimneys
+506.3
+1618—2009
+Wall Protectors, Floor Protectors and Hearth Extensions—
+with Revisions through May 2013
+308.2
+1738—2010
+Venting Systems
+for Gas Burning
+Appliances
+, Categories II,
+III and IV—with Revisions through May 2011
+502.1
+1777—2007
+Standard for
+Chimney
+Liners-with revisions through October
+2015
+501.12
+,
+501.15.4
+2034—2008
+Standard for Single- and Multiple-Station Carbon Monoxide
+Alarm - with Revisions through February 2009
+303.3.1.2
+2075—2013
+Standard for Gas and Vapor Detectors and Sensors
+303.3.1.3
+
+---
+
+ANSI
+American National Standards Institute
+25 West 43rd Street, Fourth Floor
+New York, NY 10036
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+ANSI/CSA
+America FC1—
+2012
+Stationery Fuel Cell
+Power
+Systems
+633.1
+NSF/ANSI 169 —
+2016
+Special Purpose Food
+Equipment
+and Devices
+411.1.1
+B109.1 —19
+Diaphragm-Type Gas Displacement
+Meters
+(Under 500
+Cubic Feet
+Per Hour Capacity)
+401.1.2
+B109.2—00
+(R2008)
+Diaphragm Type Gas Displacement
+Meters
+(500
+Cubic Feet
+per Hour Capacity and over)
+401.1.2
+B109.3—19
+Rotary-Type Gas Displacement
+Meters
+401.1.2
+Z21.1—2010
+Household Cooking Gas
+Appliances
+623.1
+Z21.5.1/CSA
+7.1—2017
+Gas
+Clothes Dryers
+, Volume I,
+Type 1
+Clothes Dryers
+613.1
+Z21.5.2/CSA
+7.2—2016
+Gas
+Clothes Dryers
+, Volume II,
+Type 2
+Clothes Dryers
+613.1
+, 614.3
+Z21.8—94
+(R2002)
+Installation of Domestic Gas
+Conversion Burners
+619.1
+Z21.10.1/CSA
+4.1—2013
+Gas
+Water Heaters
+- Volume I, Storage
+Water Heaters
+with Input Ratings Of 75,000 Btu Per Hour Or Less
+624.1
+Z21.10.3/CSA
+4.3—2011
+Gas
+Water Heaters
+- Volume III - Storage,
+Water Heaters
+with Input Ratings Above 75,000 Btu per hour, Circulating and Instantaneous
+624.1
+Z21.13/CSA 4.9—2014
+Gas-fired Low Pressure Steam And Hot Water Boilers
+631.1
+Z21.15/CGA
+9.1—09
+Manually Operated Gas
+Valves
+for
+Appliances
+,
+Appliance Connector
+Valves
+and Hose End
+Valves
+Table 409.1.1
+Z21.18/CSA 6.3—2007 (R2016)
+Gas
+Appliance
+Pressure Regulators
+410.3
+Z21.19/CSA 1.4—02 (R2007)
+Refrigerators Using Gas (R1999) Fuel
+625.1
+Z21.21/CSA 6.5—
+05
+Automatic
+Valves
+for Gas
+Appliances
+603.2
+Z21.24/CGA
+6.10—06
+Connectors for Gas
+Appliances
+411.1
+,
+411.3
+Z21.40.1/CGA
+2.9—96 (R2017)
+Gas-fired, Heat Activated
+Air Conditioning
+and Heat Pump
+Appliances
+627.1
+Z21.40.2/CGA
+2.92—96 (R2017)
+Gas-fired, Work Activated
+Air-Conditioning
+and Heat Pump
+Appliances
+(Internal
+Combustion
+)
+627.1
+Z21.42—2013 (R2018)
+Gas-fired Illuminating
+Appliances
+628.1
+Z21.47/CSA 2.3—
+2012
+Gas-fired
+Central Furnaces
+618.1
+Z21.50/CSA
+2.22—2012
+Vented Gas
+Fireplaces
+601.2
+,
+604.1
+Z21.54—2002 (R2007) & Addenda 2009
+Gas Hose Connectors For Portable Outdoor Gas-Fired
+Appliances
+411.1
+Z21.56/CSA 4.7—
+2013
+Gas-fired Pool Heaters
+617.1
+Z21.58/CSA 1.6—
+2015
+Outdoor Cooking Gas
+Appliances
+623.1
+Z21.60/CSA
+2.26—2012
+Decorative Gas
+Appliances
+for Installation in Solid-fuel Burning
+Fireplaces
+601.2
+,
+602.1
+Z21.69/CSA
+6.16—09
+Connectors for Movable Gas
+Appliances
+411.1.1
+,
+411.1.4
+Z21.75/CSA
+6.27—07
+Connectors for Outdoor Gas
+Appliances
+and Manufactured Homes
+411.1
+,
+411.2
+Z21.80/CSA
+6.22—11
+Line
+Pressure Regulators
+410.1
+Z21.84—2012
+Manually-lighted, Natural Gas Decorative Gas
+Appliances
+for Installation in Solid Fuel Burning
+Fireplaces
+602.1
+,
+602.2
+Z21.86/CSA
+2.32—08
+Vented Gas-fired Space Heating
+Appliances
+608.1
+,
+622.1
+Z21.88/CSA
+2.33—2014
+Vented Gas
+Fireplace
+Heaters
+605.1
+Z21.97/CSA
+2.41—2012
+Outdoor Decorative
+Appliances
+636.1
+Z83.4/CSA 3.7—
+2012
+Nonrecirculating Direct-gas-fired Industrial Air Heaters
+611.1
+Z83.8/CSA 2.6—
+09
+Gas
+Unit Heater
+, Gas Packaged Heater, Gas Utility Heaters and Gas-fired
+Duct Furnaces
+610.1
+,
+620.1
+Z83.11/CSA 1.8—
+2016
+Gas Food Service
+Equipment
+623.1
+Z83.18—00
+Recirculating Direct Gas-fired Industrial Air Heaters
+612.1
+Z83.19/CSA
+2.35—01(R2009)
+Gas-fired High-intensity Infrared Heaters
+630.1
+Z83.20/CSA
+2.34—08
+Gas-fired Low-intensity Infrared Heaters
+630.1
+ASME
+American Society of Mechanical Engineers
+Three Park Avenue
+New York, NY 10016-5990
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+A13.1—2015
+Scheme for the
+Identification
+of
+Piping Systems
+401.5
+,
+411.1
+,
+411.2
+,
+G.5.3
+B1.20.1—83
+(Reaffirmed 2006)
+Pipe
+Threads,
+General
+Purpose (inch)
+403.9
+B16.5—R2009
+Pipe
+Flanges and Flanged Fittings: NPS 1/2 through NFPS 24 Metric/Inch Standard
+403.12.2
+B16.20—2017
+Metallic Gaskets for
+Pipe
+Flanges
+403.13.1
+B16.21—2016
+Nonmetallic Flat Gaskets for
+Pipe
+Flanges
+403.13.2
+B16.33—2012
+Manually Operated Metallic Gas
+Valves
+for Use in Gas
+Piping Systems
+up to 125 psig (Sizes
+1
+/
+2
+through 2)
+Table 409.1.1
+B16.42—2011
+Ductile Iron
+Pipe
+Flanges and Flanged Fittings, Classes 150 and 300
+403.12.4
+B16.44—2002
+(Reaffirmed 2007)
+Manually Operated Metallic Gas
+Valves
+for Use in Aboveground
+Piping Systems
+Up to 5 psi
+Table 409.1.1
+B16.47—2011
+Large Diameter Steel Flanges: NPS 26 through NPS 60 Metric/Inch Standard
+403.12.2
+B31.1—12
+Power
+Piping
+Code
+G.5.1
+B36.10M—2004
+Welded and Seamless Wrought-steel
+Pipe
+403.4.2
+B40.100—2013
+Pressure Gauges and Gauge Attachments
+406.4.3
+BPVC—
+2010/2011
+addenda
+ASME
+Boiler
+& Pressure Vessel Code
+404.21.1
+,
+406.1.1.1
+,
+624.2
+,
+631.1
+CSD-1—2012
+Controls
+and Safety Devices for Automatically Fired Boilers
+619.1
+,
+631.1
+ASNT
+American Society for Nondestructive Testing
+PO Box 28518
+1/11 Arlington Lane
+Columbus, OH 43228
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+SNT—TC—1A—2016
+Recommended Practice
+404.21.1
+ASTM
+ASTM International
+100 Barr Harbor Drive
+West Conshohocken, PA 19428
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+A53/A53M—12
+Specification for
+Pipe
+, Steel, Black and Hot Dipped Zinc-coated Welded and Seamless
+403.4.2
+A106/A106M—11
+Specification for Seamless Carbon Steel
+Pipe
+for High-temperature Service
+403.4.2
+C64—72 (1977)
+Withdrawn No Replacement (Specification for Fireclay Brick Refractories for Heavy Duty Stationary Boiler Service)
+503.10.2.5
+C315—07(2011)
+Specification for Clay
+Flue Liners
+and
+Chimney
+Pots
+501.12
+E136—2012
+Standard Test Method for Behavior of Materials in a Vertical Tube
+Furnace
+at 750°C
+202
+(
+Noncombustible materials
+)
+CAN/ULC
+Standards Council of Canada
+270 Albert Street, Suite 200
+Ottawa ON KIP 6N7
+Canada
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+S635—16
+Standard for Lining Systems for Existing Masonry or
+Factory-Built Chimneys
+and
+Vents
+501.12
+,
+501.15.4
+S640—16
+Standard for Lining Systems for New
+Masonry Chimneys
+501.12
+CSA
+CSA Group
+8501 East Pleasant Valley Road
+Cleveland, OH 44131-5516
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+ANSI/CSA America FC1—2012
+Stationary Fuel Cell
+Power
+Systems
+633.1
+MSS
+Manufacturers Standardization Society of the
+Valve
+& Fittings Industry, Inc.
+127 Park Street, N.E.
+Vienna, VA 22180
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+ANSI/SP-58—2009
+Pipe
+Hangers and
+Supports
+—Materials
+Design
+and Manufacture, Selection, Application and Installation
+407.2
+NFPA
+National Fire Protection Association
+1 Batterymarch Park
+Quincy, MA 02169-7471
+Standard
+reference
+number
+Title
+Referenced
+in code section number
+2—16
+Hydrogen Technologies Code
+703.1
+,
+706.2
+30A—15
+Code for Motor Fuel Dispensing Facilities and
+Repair
+Garages
+305.4
+,
+305.10
+37—15
+Standard for the Installation and Use of Stationary
+Combustion
+Engines and Gas Turbines
+616.1
+,
+G.3.1.1
+54—16
+National
+Fuel Gas
+Code
+501.2.2
+,
+609.9
+56PS—12
+Standard for Fire and Explosion Prevention During Cleaning and Purging of Flammable Gas
+Piping Systems
+G.7
+68—07
+Standard for Explosion Protection by Deflagration Venting
+E.2.1
+,
+G.3.1
+69—14
+Standard on Explosion Prevention Systems
+E.2.1, G.2.5.1,
+G.3.2
+72—16*
+*As modified by
+Appendix Q
+of the New York City
+Building Code
+National Fire Alarm and Signaling Code
+G.2.4.3
+82—14
+Incinerators
+, Waste and Linen Handling Systems and
+Equipment
+503.2.5
+,
+Table 503.4
+, 607.1
+85—15
+Boiler and
+Combustion
+Systems Hazards Code
+631.1
+88A—15
+Parking Structures
+305.9
+211—13
+Standard for the
+Chimneys
+,
+Fireplaces
+,
+Vents
+and Solid Fuel-burning
+Appliances
+502.1
+,
+503.5.2
+,
+503.5.3
+,
+503.5.6.1
+,
+503.5.6.3
+409
+—11
+Standard for the Aircraft Hangars
+305.11
+853—15
+Installation of Stationary Fuel Cell
+Power
+Systems
+633.1
+UL
+UL LLC
+333 Pfingsten Road
+Northbrook, IL 60062-2096
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+103
+—2010
+Factory-built Chimneys
+, Residential Type and Building
+Heating
+Appliances
+—with Revisions through July 2012
+506.1
+441—2010
+Gas
+Vents
+502.1
+536—2014
+Flexible Metallic Hose
+405.5
+641—2010
+Type L Low-temperature
+Venting Systems
+—with Revisions
+through May 2013
+502.1
+795—2011
+Commercial-industrial Gas Heating
+Equipment
+610.1
+,
+618.1
+,
+631.1
+959—2010
+Medium Heat
+Appliance
+Factory-built Chimneys
+506.3
+1618—2009
+Wall Protectors, Floor Protectors and Hearth Extensions—
+with Revisions through May 2013
+308.2
+1738—2010
+Venting Systems
+for Gas Burning
+Appliances
+, Categories II,
+III and IV—with Revisions through May 2011
+502.1
+1777—2007
+Standard for
+Chimney
+Liners-with revisions through October
+2015
+501.12
+,
+501.15.4
+2034—2008
+Standard for Single- and Multiple-Station Carbon Monoxide
+Alarm - with Revisions through February 2009
+303.3.1.2
+2075—2013
+Standard for Gas and Vapor Detectors and Sensors
+303.3.1.3
+
+---
+

@@ -1,0 +1,2265 @@
+# NYC Building Code 2022 - Chapter 6
+
+New York City Building Code 2022
+
+---
+
+Dedications
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 Use and Occupancy Classification
+
+---
+
+Chapter 4 Special Detailed Requirements Based on Use and Occupancy
+
+---
+
+Chapter 5 General Building Heights and Areas; Separation of Occupancies
+
+---
+
+Chapter 6 Types of Construction
+
+---
+
+BC 601 General
+
+---
+
+BC 602 Construction Classification
+
+---
+
+BC 603 Combustible Material in Types I and II Construction
+
+---
+
+Chapter 7 Fire and Smoke Protection Features
+
+---
+
+Chapter 8 Interior Finishes
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Accessibility
+
+---
+
+Chapter 12 Interior Environment
+
+---
+
+Chapter 13 Energy Efficiency
+
+---
+
+Chapter 14 Exterior Walls
+
+---
+
+Chapter 15 Roof Assemblies and Rooftop Structures
+
+---
+
+Chapter 16 Structural Design
+
+---
+
+Chapter 17 Special Inspections and Tests
+
+---
+
+Chapter 18 Soils and Foundations
+
+---
+
+Chapter 19 Concrete
+
+---
+
+Chapter 20 Aluminum
+
+---
+
+Chapter 21 Masonry
+
+---
+
+Chapter 22 Steel
+
+---
+
+Chapter 23 Wood
+
+---
+
+Chapter 24 Glass and Glazing
+
+---
+
+Chapter 25 Gypsum Board, Gypsum Panel Products and Plaster
+
+---
+
+Chapter 26 Plastic
+
+---
+
+Chapter 27 Electrical
+
+---
+
+Chapter 28 Mechanical Systems
+
+---
+
+Chapter 29 Plumbing Systems
+
+---
+
+Chapter 30 Elevators and Conveying Systems
+
+---
+
+Chapter 31 Special Construction
+
+---
+
+Chapter 32 Encroachments Into the Public Right-of-Way
+
+---
+
+Chapter 33 Safeguards During Construction or Demolition
+
+---
+
+Chapter 34 Reserved
+
+---
+
+Chapter 35 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Reserved
+
+---
+
+Appendix D Fire Districts
+
+---
+
+Appendix E Supplementary Accessibility Requirements
+
+---
+
+Appendix F Rodentproofing
+
+---
+
+Appendix G Flood-Resistant Construction
+
+---
+
+Appendix H Outdoor Signs
+
+---
+
+Appendix I Reserved
+
+---
+
+Appendix J Reserved
+
+---
+
+Appendix K Modified Industry Standards for Elevators and Conveying Systems
+
+---
+
+Appendix L Reserved
+
+---
+
+Appendix M Supplementary Requirements for One- And Two-Family Dwellings
+
+---
+
+Appendix N Assistive Listening Systems Performance Standards
+
+---
+
+Appendix O Reserved
+
+---
+
+Appendix P Reserved
+
+---
+
+Appendix Q Modified National Standards for Automatic Sprinkler, Standpipe, Fire Pump, Fire Alarm, and Smoke Control Systems
+
+---
+
+Appendix R Acoustical Tile and Lay-in Panel Ceiling Suspension Systems
+
+---
+
+Appendix S Supplementary Figures for Luminous Egress Path Markings
+
+---
+
+Appendix U Ancillary Dwelling Units
+
+---
+
+Chapter 6 Types of Construction
+
+---
+
+Section BC 601 General
+TABLE 601
+FIRE-RESISTANCE RATING
+REQUIREMENTS FOR
+BUILDING ELEMENTS
+(HOURS)
+BUILDING ELEMENT
+TYPE I
+TYPE II
+TYPE III
+TYPE IV
+TYPE
+V
+i
+A
+B
+A
+B
+A
+B
+HT
+A
+B
+Primary structural frame
+f
+(see Section 202)
+3
+a
+2
+a, j
+1
+j
+0
+1
+0
+HT
+1
+0
+Bearing
+walls
+Exterior
+e,f,g
+3
+2
+1
+0
+2
+2
+2
+1
+0
+Interior
+3
+a
+2
+a
+1
+0
+1
+0
+1/HT
+1
+0
+Nonbearing
+walls
+and partitions
+Exterior
+See
+Table 602
+Nonbearing
+walls
+and partitions
+Interior
+d
+0
+0
+0
+0
+0
+0
+See Section 602.4.6
+0
+0
+Floor
+construction
+h
+and associated
+secondary members
+(see Section 202)
+2
+2
+1
+0
+1
+0
+HT
+1
+0
+Roof
+construction
+and associated
+secondary members
+(see Section 202)
+1
+1
+/
+2
+b,c
+1
+b,c
+1
+b,c
+0
+c
+1
+b,c
+0
+HT
+1
+b,c
+0
+For SI: 1 foot = 304.8 mm.
+Roof supports:
+Fire-resistance ratings
+of
+primary structural frame
+and bearing
+walls
+are permitted to be reduced by 1 hour where supporting a roof only.
+Except in Group
+F-1
+, H, M and
+S-1
+occupancies, fire protection of structural members in roof
+construction
+shall not be required, including protection of
+primary structural frame
+members within any portion of the roof, roof framing and decking where every part of the roof
+construction
+is
+20
+feet or more above any floor immediately below.
+Fire-retardant-treated wood
+members shall be allowed to be used for such unprotected members.
+Except in
+Group F
+occupancies subject to regulation under Sections 264(1) and 264(2) of the
+New York State Labor Law
+, and in Group
+I-1
+,
+R-1
+, and
+R-2
+occupancies, in Types I and II
+construction
+,
+fire-retardant—treated wood
+shall be allowed in buildings including girders and trusses as part of the roof
+construction
+when the
+building
+is:
+Type II
+construction
+of any
+height
+; or
+Type I construction
+two
+stories
+or less; or when over two
+stories
+, the vertical distance from the upper floor to the roof is 20 feet or more.
+Except in
+Group F
+occupancies subject to regulation under Sections 264(1) and 264(2) of the
+New York State Labor Law,
+and in Group
+I-1
+,
+R-1
+and
+R-2
+occupancies, heavy timber shall be allowed where a 1-hour or less
+fire-resistance rating
+is required.
+Not less than the
+fire-resistance rating
+required by other sections of this code.
+Not less than the
+fire-resistance rating
+based on
+fire separation distance
+(see
+Table 602
+).
+Not less than the
+fire-resistance rating
+as referenced in
+Section 704.10
+.
+See Note g of
+Table 602
+.
+See
+Section 711.2.4
+for additional requirements.
+Type
+V
+construction
+is not permitted inside fire districts except as provided for in
+Section D105.1
+of
+Appendix D
+.
+See
+Section 403.2.1
+for additional requirements for
+high-rise buildings
+and
+fire-resistance rating
+of columns in such buildings.
+
+---
+
+TABLE 601
+FIRE-RESISTANCE RATING
+REQUIREMENTS FOR
+BUILDING ELEMENTS
+(HOURS)
+BUILDING ELEMENT
+TYPE I
+TYPE II
+TYPE III
+TYPE IV
+TYPE
+V
+i
+A
+B
+A
+B
+A
+B
+HT
+A
+B
+Primary structural frame
+f
+(see Section 202)
+3
+a
+2
+a, j
+1
+j
+0
+1
+0
+HT
+1
+0
+Bearing
+walls
+Exterior
+e,f,g
+3
+2
+1
+0
+2
+2
+2
+1
+0
+Interior
+3
+a
+2
+a
+1
+0
+1
+0
+1/HT
+1
+0
+Nonbearing
+walls
+and partitions
+Exterior
+See
+Table 602
+Nonbearing
+walls
+and partitions
+Interior
+d
+0
+0
+0
+0
+0
+0
+See Section 602.4.6
+0
+0
+Floor
+construction
+h
+and associated
+secondary members
+(see Section 202)
+2
+2
+1
+0
+1
+0
+HT
+1
+0
+Roof
+construction
+and associated
+secondary members
+(see Section 202)
+1
+1
+/
+2
+b,c
+1
+b,c
+1
+b,c
+0
+c
+1
+b,c
+0
+HT
+1
+b,c
+0
+For SI: 1 foot = 304.8 mm.
+Roof supports:
+Fire-resistance ratings
+of
+primary structural frame
+and bearing
+walls
+are permitted to be reduced by 1 hour where supporting a roof only.
+Except in Group
+F-1
+, H, M and
+S-1
+occupancies, fire protection of structural members in roof
+construction
+shall not be required, including protection of
+primary structural frame
+members within any portion of the roof, roof framing and decking where every part of the roof
+construction
+is
+20
+feet or more above any floor immediately below.
+Fire-retardant-treated wood
+members shall be allowed to be used for such unprotected members.
+Except in
+Group F
+occupancies subject to regulation under Sections 264(1) and 264(2) of the
+New York State Labor Law
+, and in Group
+I-1
+,
+R-1
+, and
+R-2
+occupancies, in Types I and II
+construction
+,
+fire-retardant—treated wood
+shall be allowed in buildings including girders and trusses as part of the roof
+construction
+when the
+building
+is:
+Type II
+construction
+of any
+height
+; or
+Type I construction
+two
+stories
+or less; or when over two
+stories
+, the vertical distance from the upper floor to the roof is 20 feet or more.
+Except in
+Group F
+occupancies subject to regulation under Sections 264(1) and 264(2) of the
+New York State Labor Law,
+and in Group
+I-1
+,
+R-1
+and
+R-2
+occupancies, heavy timber shall be allowed where a 1-hour or less
+fire-resistance rating
+is required.
+Not less than the
+fire-resistance rating
+required by other sections of this code.
+Not less than the
+fire-resistance rating
+based on
+fire separation distance
+(see
+Table 602
+).
+Not less than the
+fire-resistance rating
+as referenced in
+Section 704.10
+.
+See Note g of
+Table 602
+.
+See
+Section 711.2.4
+for additional requirements.
+Type
+V
+construction
+is not permitted inside fire districts except as provided for in
+Section D105.1
+of
+Appendix D
+.
+See
+Section 403.2.1
+for additional requirements for
+high-rise buildings
+and
+fire-resistance rating
+of columns in such buildings.
+
+---
+
+## Section 601.1: Scope
+
+601.1 Scope
+The provisions of this chapter shall control the classification of buildings as to type of
+construction
+.
+
+---
+
+The provisions of this chapter shall control the classification of buildings as to type of
+construction
+.
+
+---
+
+Section BC 602 Construction Classification
+TABLE 602
+FIRE-RESISTANCE RATING
+REQUIREMENTS FOR
+EXTERIOR WALLS
+BASED ON
+FIRE SEPARATION DISTANCE
+a, e, g, h, j
+FIRE SEPARATION DISTANCE
+= X
+(feet)
+TYPE OF
+CONSTRUCTION
+OCCUPANCY
+GROUP H
+f
+OCCUPANCY
+GROUP
+F-1
+, M,
+S-1
+g,i
+OCCUPANCY
+GROUP A
+, B, E,
+F-2
+, I, R,
+S-2
+, U
+b
+X < 5
+c
+All
+3
+2
+1
+5 ≤ X < 10
+IA
+3
+2
+1
+Others
+2
+1
+1
+10 ≤ X < 30
+IA,IB
+2
+1
+1
+d
+IIB,VB
+1
+0
+0
+Others
+1
+1
+1
+d
+X ≥ 30
+All
+0
+0
+0
+For SI: 1 foot = 304.8 mm.
+Load-bearing
+exterior walls
+shall also comply with the
+fire-resistance rating
+requirements of
+Table 601
+.
+Group U
+when used as accessory to Group
+R-3
+shall not be required to have a
+fire-resistance rating
+where the
+fire separation distance
+is 5 feet or more for free standing
+private garages
+in compliance with
+Section 406.1
+, and when the separation distance is 3 feet or more for other freestanding
+Group U
+buildings. For free standing
+private garages
+where the
+fire separation distance
+is less than 5 feet, refer to
+Section 406.3.4
+for required
+fire-resistance rating
+for
+exterior walls
+.
+See
+Section 706.1.1
+for
+party walls
+.
+Open parking garages
+complying with Section 406 shall not be required to have a
+fire resistance
+rating.
+The
+fire-resistance rating
+of an
+exterior wall
+is determined based upon the
+fire separation distance
+of the
+exterior wall
+and the
+story
+in which the
+wall
+is located.
+For special requirements for
+Group H
+occupancies, see
+Section 415.6
+.
+Inside the fire district, exterior
+load-bearing walls
+of Type II buildings shall have a
+fire-resistance rating
+not less than prescribed below:
+X < 5
+2 hours
+5 ≤ X < 10
+2 hours
+10 ≤ X < 30
+1 hour
+X ≥ 30
+As per Table 602
+Inside the fire district, exterior
+nonload-bearing walls
+of Type II buildings shall have a
+fire-resistance rating
+not less than prescribed below:
+X< 5
+As per Table 602
+5 ≤ X <10
+As per Table 602
+10 ≤ X < 30
+1 hour
+X ≥ 30
+As per Table 602
+For special requirements for
+Group S
+aircraft hangars, see
+Section 412.4.1
+.
+Where
+Table 705.8
+permits nonbearing
+exterior walls
+with unlimited
+area
+of unprotected
+openings
+, the required
+fire-resistance rating
+for the
+exterior walls
+is 0 hours.
+
+---
+
+TABLE 602
+FIRE-RESISTANCE RATING
+REQUIREMENTS FOR
+EXTERIOR WALLS
+BASED ON
+FIRE SEPARATION DISTANCE
+a, e, g, h, j
+FIRE SEPARATION DISTANCE
+= X
+(feet)
+TYPE OF
+CONSTRUCTION
+OCCUPANCY
+GROUP H
+f
+OCCUPANCY
+GROUP
+F-1
+, M,
+S-1
+g,i
+OCCUPANCY
+GROUP A
+, B, E,
+F-2
+, I, R,
+S-2
+, U
+b
+X < 5
+c
+All
+3
+2
+1
+5 ≤ X < 10
+IA
+3
+2
+1
+Others
+2
+1
+1
+10 ≤ X < 30
+IA,IB
+2
+1
+1
+d
+IIB,VB
+1
+0
+0
+Others
+1
+1
+1
+d
+X ≥ 30
+All
+0
+0
+0
+For SI: 1 foot = 304.8 mm.
+Load-bearing
+exterior walls
+shall also comply with the
+fire-resistance rating
+requirements of
+Table 601
+.
+Group U
+when used as accessory to Group
+R-3
+shall not be required to have a
+fire-resistance rating
+where the
+fire separation distance
+is 5 feet or more for free standing
+private garages
+in compliance with
+Section 406.1
+, and when the separation distance is 3 feet or more for other freestanding
+Group U
+buildings. For free standing
+private garages
+where the
+fire separation distance
+is less than 5 feet, refer to
+Section 406.3.4
+for required
+fire-resistance rating
+for
+exterior walls
+.
+See
+Section 706.1.1
+for
+party walls
+.
+Open parking garages
+complying with Section 406 shall not be required to have a
+fire resistance
+rating.
+The
+fire-resistance rating
+of an
+exterior wall
+is determined based upon the
+fire separation distance
+of the
+exterior wall
+and the
+story
+in which the
+wall
+is located.
+For special requirements for
+Group H
+occupancies, see
+Section 415.6
+.
+Inside the fire district, exterior
+load-bearing walls
+of Type II buildings shall have a
+fire-resistance rating
+not less than prescribed below:
+X < 5
+2 hours
+5 ≤ X < 10
+2 hours
+10 ≤ X < 30
+1 hour
+X ≥ 30
+As per Table 602
+Inside the fire district, exterior
+nonload-bearing walls
+of Type II buildings shall have a
+fire-resistance rating
+not less than prescribed below:
+X< 5
+As per Table 602
+5 ≤ X <10
+As per Table 602
+10 ≤ X < 30
+1 hour
+X ≥ 30
+As per Table 602
+For special requirements for
+Group S
+aircraft hangars, see
+Section 412.4.1
+.
+Where
+Table 705.8
+permits nonbearing
+exterior walls
+with unlimited
+area
+of unprotected
+openings
+, the required
+fire-resistance rating
+for the
+exterior walls
+is 0 hours.
+
+---
+
+## Section 602.1: General
+
+602.1 General
+Buildings and structures erected or to be erected, altered or extended in
+height
+or
+area
+shall be classified in one of the five
+construction
+types defined in Sections
+602.2
+through
+602.5
+. The
+building elements
+shall have a
+fire-resistance rating
+not less than that specified in
+Table 601
+and
+exterior walls
+shall have a
+fire-resistance rating
+not less than that specified in
+Table 602
+. Where required to have a
+fire-resistance rating
+by
+Table 601
+,
+building elements
+shall comply with the applicable provisions of
+Section 703.2
+. The protection of
+openings
+,
+ducts and air transfer openings
+in
+building elements
+shall not be required unless required by
+other provisions
+of this code. Buildings constructed or altered inside the fire district shall further comply with
+Appendix D
+.
+UpCodes Diagrams (3)
+Assembly (1)
+
+---
+
+Buildings and structures erected or to be erected, altered or extended in
+height
+or
+area
+shall be classified in one of the five
+construction
+types defined in Sections
+602.2
+through
+602.5
+. The
+building elements
+shall have a
+fire-resistance rating
+not less than that specified in
+Table 601
+and
+exterior walls
+shall have a
+fire-resistance rating
+not less than that specified in
+Table 602
+. Where required to have a
+fire-resistance rating
+by
+Table 601
+,
+building elements
+shall comply with the applicable provisions of
+Section 703.2
+. The protection of
+openings
+,
+ducts and air transfer openings
+in
+building elements
+shall not be required unless required by
+other provisions
+of this code. Buildings constructed or altered inside the fire district shall further comply with
+Appendix D
+.
+
+---
+
+## Section 602.1.1: Minimum Requirements
+
+602.1.1 Minimum Requirements
+A
+building
+or portion thereof shall not be required to conform to the details of a type of
+construction
+higher than that type which meets the minimum requirements based on occupancy even though certain features of such a
+building
+actually conform to a higher type of
+construction
+. Classification shall be that of the minimum requirement unless all of the requirements for the higher type of
+construction
+are met.
+Exception:
+Portions of buildings that cantilever over an adjacent
+building
+or
+tax lot
+shall also comply with the
+fire-resistance ratings
+of
+Section 705.12
+.
+
+---
+
+A
+building
+or portion thereof shall not be required to conform to the details of a type of
+construction
+higher than that type which meets the minimum requirements based on occupancy even though certain features of such a
+building
+actually conform to a higher type of
+construction
+. Classification shall be that of the minimum requirement unless all of the requirements for the higher type of
+construction
+are met.
+Exception:
+Portions of buildings that cantilever over an adjacent
+building
+or
+tax lot
+shall also comply with the
+fire-resistance ratings
+of
+Section 705.12
+.
+
+---
+
+## Section 602.2: Types I and II
+
+602.2 Types I and II
+Types I and II
+construction
+are those types of
+construction
+in which the
+building elements
+listed in
+Table 601
+are of noncombustible
+materials
+, except as permitted in Section 603 and elsewhere in this code.
+UpCodes Diagrams (10)
+Assemblies (33)
+Building products (7)
+
+---
+
+Types I and II
+construction
+are those types of
+construction
+in which the
+building elements
+listed in
+Table 601
+are of noncombustible
+materials
+, except as permitted in Section 603 and elsewhere in this code.
+
+---
+
+## Section 602.3: Type III
+
+602.3 Type III
+Type III
+construction
+is that type of
+construction
+in which the
+exterior walls
+are of noncombustible
+materials
+and the interior
+building elements
+are of any material permitted by this code.
+Fire-retardant-treated wood
+framing complying with
+Section 2303.2
+shall be permitted within
+exterior wall
+assemblies of a 2-hour rating or less.
+Exceptions:
+In Group
+I-1
+,
+R-1
+, and
+R-2
+occupancies, all
+exterior walls
+,
+fire walls
+,
+exit passageways
+, and
+shaft enclosures
+shall be noncombustible.
+In
+Group F
+occupancies subject to Section 270(1) of the
+New York State Labor Law
+, all
+exterior wall
+assemblies and all structural
+elements
+shall meet the requirements for a "fireproof
+building
+" as such term is defined in Section 264 of such law.
+Inside the fire district, exterior
+load-bearing walls
+shall be constructed of noncombustible material.
+Inside the fire district, exterior
+nonload-bearing walls
+may be constructed with
+fire-retardant-treated wood
+complying with
+Section 2303.2
+where the
+building
+is equipped throughout with an
+automatic sprinkler system
+in accordance with Sections
+903.3.1.1
+through
+903.3.1.3
+, unless otherwise prohibited by Exception 1 or 2 above.
+UpCodes Diagrams (3)
+Assemblies (12)
+Building products (20)
+
+---
+
+Type III
+construction
+is that type of
+construction
+in which the
+exterior walls
+are of noncombustible
+materials
+and the interior
+building elements
+are of any material permitted by this code.
+Fire-retardant-treated wood
+framing complying with
+Section 2303.2
+shall be permitted within
+exterior wall
+assemblies of a 2-hour rating or less.
+Exceptions:
+In Group
+I-1
+,
+R-1
+, and
+R-2
+occupancies, all
+exterior walls
+,
+fire walls
+,
+exit passageways
+, and
+shaft enclosures
+shall be noncombustible.
+In
+Group F
+occupancies subject to Section 270(1) of the
+New York State Labor Law
+, all
+exterior wall
+assemblies and all structural
+elements
+shall meet the requirements for a "fireproof
+building
+" as such term is defined in Section 264 of such law.
+Inside the fire district, exterior
+load-bearing walls
+shall be constructed of noncombustible material.
+Inside the fire district, exterior
+nonload-bearing walls
+may be constructed with
+fire-retardant-treated wood
+complying with
+Section 2303.2
+where the
+building
+is equipped throughout with an
+automatic sprinkler system
+in accordance with Sections
+903.3.1.1
+through
+903.3.1.3
+, unless otherwise prohibited by Exception 1 or 2 above.
+
+---
+
+## Section 602.4: Type IV
+
+602.4 Type IV
+Type IV
+construction
+is that type of
+construction
+in which the
+exterior walls
+are of noncombustible
+materials
+or
+other materials
+permitted by
+Section 602.4.1
+or
+602.4.2
+, and the interior
+building elements
+are of
+solid
+wood, glue-laminated timber, heavy timber (HT),
+structural composite lumber
+(SCL), or
+cross-laminated timber
+(
+CLT
+) without
+concealed spaces
+. The
+minimum dimensions
+for permitted
+materials
+including
+solid
+timber, glued-laminated timber, SCL, and
+CLT
+and details of Type IV
+construction
+shall comply with the provisions of
+Section 2304.11
+and this section. Interior
+walls
+and partitions not less than 1-hour
+fire-resistance rating
+or heavy timber complying with
+Section 2304.11.2.2
+shall be permitted. Buildings of Type IV
+construction
+utilizing SCL or CLT shall be equipped throughout with an
+automatic sprinkler system
+where required by
+Section 903.2.13
+. In buildings of Type IV
+construction
+utilizing SCL or
+CLT
+, a fire watch shall be maintained in accordance with
+Section 901.7.2
+of the
+New York City Fire Code
+and
+Section 3303.3
+of this code.
+Exceptions:
+In Group
+I-1
+,
+R-1
+, and
+R-2
+occupancies, all
+exterior walls
+,
+fire walls
+,
+exit passageways
+, and
+shaft enclosures
+shall be noncombustible.
+In
+Group F
+occupancies subject to Section 270(1) of the
+New York State Labor Law
+, all
+exterior wall
+assemblies and all structural
+elements
+shall meet the requirements for a "fireproof
+building
+" as defined in Section 264 of such law.
+Inside the fire district, exterior
+load-bearing walls
+shall be constructed of noncombustible material.
+Inside the fire district, exterior nonbearing
+walls
+may be constructed with
+fire-retardant-treated wood
+complying with
+Section 2303.2
+of this code where the
+building
+is equipped throughout with an
+automatic sprinkler system
+in accordance with Sections
+903.3.1.1
+through
+903.3.1.3
+, unless otherwise prohibited by Exception 1 or 2 above.
+Inside the fire district, exterior nonbearing
+walls
+are permitted to be constructed with
+cross-laminated timber
+(
+CLT
+) complying with
+Section 602.4.2
+of this code, unless otherwise prohibited by Exception 1 or 2 above.
+‡‡‡
+Chapter 6
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+UpCodes Diagrams (3)
+Assemblies (2)
+Building products (12)
+
+---
+
+Type IV
+construction
+is that type of
+construction
+in which the
+exterior walls
+are of noncombustible
+materials
+or
+other materials
+permitted by
+Section 602.4.1
+or
+602.4.2
+, and the interior
+building elements
+are of
+solid
+wood, glue-laminated timber, heavy timber (HT),
+structural composite lumber
+(SCL), or
+cross-laminated timber
+(
+CLT
+) without
+concealed spaces
+. The
+minimum dimensions
+for permitted
+materials
+including
+solid
+timber, glued-laminated timber, SCL, and
+CLT
+and details of Type IV
+construction
+shall comply with the provisions of
+Section 2304.11
+and this section. Interior
+walls
+and partitions not less than 1-hour
+fire-resistance rating
+or heavy timber complying with
+Section 2304.11.2.2
+shall be permitted. Buildings of Type IV
+construction
+utilizing SCL or CLT shall be equipped throughout with an
+automatic sprinkler system
+where required by
+Section 903.2.13
+. In buildings of Type IV
+construction
+utilizing SCL or
+CLT
+, a fire watch shall be maintained in accordance with
+Section 901.7.2
+of the
+New York City Fire Code
+and
+Section 3303.3
+of this code.
+Exceptions:
+In Group
+I-1
+,
+R-1
+, and
+R-2
+occupancies, all
+exterior walls
+,
+fire walls
+,
+exit passageways
+, and
+shaft enclosures
+shall be noncombustible.
+In
+Group F
+occupancies subject to Section 270(1) of the
+New York State Labor Law
+, all
+exterior wall
+assemblies and all structural
+elements
+shall meet the requirements for a "fireproof
+building
+" as defined in Section 264 of such law.
+Inside the fire district, exterior
+load-bearing walls
+shall be constructed of noncombustible material.
+Inside the fire district, exterior nonbearing
+walls
+may be constructed with
+fire-retardant-treated wood
+complying with
+Section 2303.2
+of this code where the
+building
+is equipped throughout with an
+automatic sprinkler system
+in accordance with Sections
+903.3.1.1
+through
+903.3.1.3
+, unless otherwise prohibited by Exception 1 or 2 above.
+Inside the fire district, exterior nonbearing
+walls
+are permitted to be constructed with
+cross-laminated timber
+(
+CLT
+) complying with
+Section 602.4.2
+of this code, unless otherwise prohibited by Exception 1 or 2 above.
+‡‡‡
+Chapter 6
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+## Section 602.4.1: Fire-Retardant-Treated Wood in Exterior Walls
+
+602.4.1 Fire-Retardant-Treated Wood in Exterior Walls
+Fire-retardant-treated wood
+framing and
+sheathing complying with
+Section 2303.2
+shall be permitted within
+exterior wall
+assemblies not
+less than 6 inches (152.4 mm) in thickness with a 2-hour rating or less.
+
+---
+
+Fire-retardant-treated wood
+framing and
+sheathing complying with
+Section 2303.2
+shall be permitted within
+exterior wall
+assemblies not
+less than 6 inches (152.4 mm) in thickness with a 2-hour rating or less.
+
+---
+
+## Section 602.4.2: Cross-Laminated Timber in Exterior Walls
+
+602.4.2 Cross-Laminated Timber in Exterior Walls
+Cross-laminated timber
+(
+CLT
+) complying with
+Section 2303.1.4
+shall be permitted within
+exterior wall
+assemblies not less than 6 inches (152.4 mm) in thickness with a 2-hour rating or less, provided the exterior surface of the
+cross-laminated timber
+(
+CLT
+) is protected by one of the following:
+Fire-retardant-treated wood
+sheathing complying with
+Section 2303.2
+and not less than
+15
+/
+32
+inch (11.9 mm) thick;
+Type X
+gypsum board
+not less than
+5
+/
+8
+inch (15.9 mm) thick; or
+A noncombustible material.
+
+---
+
+Cross-laminated timber
+(
+CLT
+) complying with
+Section 2303.1.4
+shall be permitted within
+exterior wall
+assemblies not less than 6 inches (152.4 mm) in thickness with a 2-hour rating or less, provided the exterior surface of the
+cross-laminated timber
+(
+CLT
+) is protected by one of the following:
+Fire-retardant-treated wood
+sheathing complying with
+Section 2303.2
+and not less than
+15
+/
+32
+inch (11.9 mm) thick;
+Type X
+gypsum board
+not less than
+5
+/
+8
+inch (15.9 mm) thick; or
+A noncombustible material.
+
+---
+
+## Section 602.4.3: Exterior Structural Members
+
+602.4.3 Exterior Structural Members
+Where a horizontal separation of 20 feet (6096 mm) or more is provided, wood columns and arches conforming to heavy timber
+sizes
+in accordance with
+Section 2304.11
+shall be permitted to be used externally.
+Exception:
+Where prohibited by Exceptions 1, 2 or 3 of
+Section 602.4
+.
+UpCodes Diagram (1)
+
+---
+
+Where a horizontal separation of 20 feet (6096 mm) or more is provided, wood columns and arches conforming to heavy timber
+sizes
+in accordance with
+Section 2304.11
+shall be permitted to be used externally.
+Exception:
+Where prohibited by Exceptions 1, 2 or 3 of
+Section 602.4
+.
+
+---
+
+## Section 602.5: Type V
+
+602.5 Type V
+Type
+V
+construction
+is that type of
+construction
+in which the structural
+elements
+,
+exterior walls
+and interior
+walls
+are of any
+materials
+permitted by this code. Type
+V
+construction
+shall not be permitted inside the fire district unless otherwise permitted by
+Section D105.1
+.
+Exception:
+In
+Group F
+occupancies subject to Section 270(1) of the
+New York State Labor Law
+, all
+exterior wall
+assemblies and all structural
+elements
+shall meet the requirements for a "fireproof
+building
+" as defined in Section 264 of such law.
+UpCodes Diagram (1)
+Assemblies (41)
+Building products (9)
+
+---
+
+Type
+V
+construction
+is that type of
+construction
+in which the structural
+elements
+,
+exterior walls
+and interior
+walls
+are of any
+materials
+permitted by this code. Type
+V
+construction
+shall not be permitted inside the fire district unless otherwise permitted by
+Section D105.1
+.
+Exception:
+In
+Group F
+occupancies subject to Section 270(1) of the
+New York State Labor Law
+, all
+exterior wall
+assemblies and all structural
+elements
+shall meet the requirements for a "fireproof
+building
+" as defined in Section 264 of such law.
+
+---
+
+Section BC 603 Combustible Material in Types I and II Construction
+
+---
+
+## Section 603.1: Allowable Materials
+
+603.1 Allowable Materials
+Combustible
+materials
+shall be permitted in buildings of Type I or II
+construction
+in the following
+applications
+and in accordance with Sections
+603.1.1
+through
+603.1.3
+:
+Fire-retardant-treated wood
+, complying with
+Section 2303.2
+, shall be permitted in:
+Nonbearing interior partitions where the required
+fire-resistance rating
+is 1 hour or less.
+Exception:
+Public corridors
+and
+exits
+shall be constructed of noncombustible
+materials
+.
+Roof
+construction
+as permitted in
+Table 601
+, Note b.
+Thermal and acoustical insulation, other than
+foam plastics
+, having a
+flame spread index
+of not more than
+25
+.
+Exceptions:
+Insulation placed between two layers of noncombustible
+materials
+without an intervening airspace shall be allowed to have a
+flame spread index
+of not more than 100.
+Insulation installed between a finished floor and
+solid
+decking without intervening airspace shall be allowed to have a
+flame spread index
+of not more than 200.
+Foam plastics
+in accordance with
+Chapter 26
+.
+Roof coverings
+that have an A or B classification as defined in Section 1505.
+Interior floor finish
+and floor covering
+materials
+installed in accordance with Section 804.
+Millwork such as doors, door frames, window sashes and frames.
+Interior wall and ceiling finishes
+installed in accordance with Sections 801 and 803.
+Trim
+installed in accordance with Section 806.
+Where not installed greater than 15 feet (4572 mm) above
+grade
+, show
+windows
+,
+nailing
+or furring strips and wooden
+bulkheads
+below show
+windows
+, including their frames, aprons and show cases.
+Finish flooring installed in accordance with Section 805.
+Partitions dividing portions of stores, offices or similar places occupied by one tenant only and that do not establish a
+corridor
+serving an
+occupant load
+of 30 or more shall be permitted to be constructed of
+fire-retardant-treated wood
+, 1-hour
+fire-resistance
+-rated
+construction
+or of wood
+panels
+or similar light
+construction
+up to 6 feet (1828.8 mm) in
+height
+.
+Stages
+and
+platforms
+constructed in accordance with Sections
+410.3
+and
+410.4
+, respectively.
+Combustible
+exterior wall coverings
+, balconies and similar projections and bay or oriel
+windows
+in accordance with
+Chapter 14
+.
+Blocking such as for
+handrails
+, millwork, cabinets and window and door frames.
+Light-transmitting
+plastics
+as permitted by
+Chapter 26
+.
+Mastics and caulking
+materials
+applied to provide flexible seals between components of
+exterior wall
+construction
+.
+Exterior
+plastic
+veneer
+installed in accordance with
+Section 2605.2
+.
+Nailing
+or furring strips as permitted by
+Section 803.13
+.
+Heavy timber as permitted by Note c to
+Table 601
+and
+Section 602.4.3
+.
+Aggregates, component
+materials
+and admixtures as permitted by
+Section 703.2.2
+.
+Sprayed fire-resistant materials
+and intumescent and
+mastic fire-resistant coatings
+, determined on the basis of
+fire resistance
+tests in accordance with
+Section 703.2
+and installed in accordance with Sections
+1705.14
+and
+1705.15
+, respectively.
+Materials
+used to protect
+penetrations
+in
+fire-resistance
+-rated assemblies in accordance with Section 714.
+Materials
+used to protect
+joints
+in
+fire-resistance
+-rated assemblies in accordance with Section 715.
+Materials
+allowed in the
+concealed spaces
+of buildings of Types I and II
+construction
+in accordance with
+Section 718.5
+.
+Materials
+exposed within plenums complying with
+Section 602
+of the
+New York City Mechanical Code
+.
+Bleachers
+,
+grandstands
+, and
+folding and telescopic seating
+within an
+assembly space
+in accordance with
+Section 1029.1.1
+of this code.
+UpCodes Diagrams (2)
+Building products (14)
+
+---
+
+Combustible
+materials
+shall be permitted in buildings of Type I or II
+construction
+in the following
+applications
+and in accordance with Sections
+603.1.1
+through
+603.1.3
+:
+Fire-retardant-treated wood
+, complying with
+Section 2303.2
+, shall be permitted in:
+Nonbearing interior partitions where the required
+fire-resistance rating
+is 1 hour or less.
+Exception:
+Public corridors
+and
+exits
+shall be constructed of noncombustible
+materials
+.
+Roof
+construction
+as permitted in
+Table 601
+, Note b.
+Thermal and acoustical insulation, other than
+foam plastics
+, having a
+flame spread index
+of not more than
+25
+.
+Exceptions:
+Insulation placed between two layers of noncombustible
+materials
+without an intervening airspace shall be allowed to have a
+flame spread index
+of not more than 100.
+Insulation installed between a finished floor and
+solid
+decking without intervening airspace shall be allowed to have a
+flame spread index
+of not more than 200.
+Foam plastics
+in accordance with
+Chapter 26
+.
+Roof coverings
+that have an A or B classification as defined in Section 1505.
+Interior floor finish
+and floor covering
+materials
+installed in accordance with Section 804.
+Millwork such as doors, door frames, window sashes and frames.
+Interior wall and ceiling finishes
+installed in accordance with Sections 801 and 803.
+Trim
+installed in accordance with Section 806.
+Where not installed greater than 15 feet (4572 mm) above
+grade
+, show
+windows
+,
+nailing
+or furring strips and wooden
+bulkheads
+below show
+windows
+, including their frames, aprons and show cases.
+Finish flooring installed in accordance with Section 805.
+Partitions dividing portions of stores, offices or similar places occupied by one tenant only and that do not establish a
+corridor
+serving an
+occupant load
+of 30 or more shall be permitted to be constructed of
+fire-retardant-treated wood
+, 1-hour
+fire-resistance
+-rated
+construction
+or of wood
+panels
+or similar light
+construction
+up to 6 feet (1828.8 mm) in
+height
+.
+Stages
+and
+platforms
+constructed in accordance with Sections
+410.3
+and
+410.4
+, respectively.
+Combustible
+exterior wall coverings
+, balconies and similar projections and bay or oriel
+windows
+in accordance with
+Chapter 14
+.
+Blocking such as for
+handrails
+, millwork, cabinets and window and door frames.
+Light-transmitting
+plastics
+as permitted by
+Chapter 26
+.
+Mastics and caulking
+materials
+applied to provide flexible seals between components of
+exterior wall
+construction
+.
+Exterior
+plastic
+veneer
+installed in accordance with
+Section 2605.2
+.
+Nailing
+or furring strips as permitted by
+Section 803.13
+.
+Heavy timber as permitted by Note c to
+Table 601
+and
+Section 602.4.3
+.
+Aggregates, component
+materials
+and admixtures as permitted by
+Section 703.2.2
+.
+Sprayed fire-resistant materials
+and intumescent and
+mastic fire-resistant coatings
+, determined on the basis of
+fire resistance
+tests in accordance with
+Section 703.2
+and installed in accordance with Sections
+1705.14
+and
+1705.15
+, respectively.
+Materials
+used to protect
+penetrations
+in
+fire-resistance
+-rated assemblies in accordance with Section 714.
+Materials
+used to protect
+joints
+in
+fire-resistance
+-rated assemblies in accordance with Section 715.
+Materials
+allowed in the
+concealed spaces
+of buildings of Types I and II
+construction
+in accordance with
+Section 718.5
+.
+Materials
+exposed within plenums complying with
+Section 602
+of the
+New York City Mechanical Code
+.
+Bleachers
+,
+grandstands
+, and
+folding and telescopic seating
+within an
+assembly space
+in accordance with
+Section 1029.1.1
+of this code.
+
+---
+
+## Section 603.1.1: Ducts
+
+603.1.1 Ducts
+The use of nonmetallic ducts shall be permitted where installed in accordance with the
+limitations
+of the
+New York City Mechanical Code
+.
+
+---
+
+The use of nonmetallic ducts shall be permitted where installed in accordance with the
+limitations
+of the
+New York City Mechanical Code
+.
+
+---
+
+## Section 603.1.2: Piping
+
+603.1.2 Piping
+The use of combustible piping
+materials
+shall be permitted where installed in accordance with the
+limitations
+of the
+New York City Mechanical Code
+and the
+New York City Plumbing Code
+.
+
+---
+
+The use of combustible piping
+materials
+shall be permitted where installed in accordance with the
+limitations
+of the
+New York City Mechanical Code
+and the
+New York City Plumbing Code
+.
+
+---
+
+## Section 603.1.3: Electrical
+
+603.1.3 Electrical
+The use of electrical wiring methods with combustible insulation, tubing, raceways and related components shall be permitted where installed in accordance with the
+limitations
+of the
+New York City Electrical Code
+.
+
+---
+
+The use of electrical wiring methods with combustible insulation, tubing, raceways and related components shall be permitted where installed in accordance with the
+limitations
+of the
+New York City Electrical Code
+.
+
+---
+

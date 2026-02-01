@@ -1,0 +1,4219 @@
+# NYC Fuel Gas Code 2022 - Chapter 6
+
+New York City Fuel Gas Code 2022
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Chapter 4 Gas Piping Installations
+
+---
+
+Chapter 5 Chimneys and Vents
+
+---
+
+Chapter 6 Specific Appliances
+
+---
+
+601 General
+
+---
+
+602 Decorative Gas-Fired Appliances for Installation in Fireplaces
+
+---
+
+603 Log Lighters
+
+---
+
+604 Vented Gas Fireplaces (Decorative Appliances)
+
+---
+
+605 Vented Gas Fireplace Heaters
+
+---
+
+606 Reserved
+
+---
+
+607 Commercial-Industrial Incinerators and Crematories
+
+---
+
+608 Vented Wall Furnaces
+
+---
+
+609 Floor Furnaces
+
+---
+
+610 Duct Furnaces
+
+---
+
+611 Nonrecirculating Direct-Fired Industrial Air Heaters
+
+---
+
+612 Recirculating Direct-Fired Industrial Air Heaters
+
+---
+
+613 Clothes Dryers
+
+---
+
+614 Clothes Dryer Exhaust
+
+---
+
+615 Sauna Heaters
+
+---
+
+616 Engine and Gas Turbine-Powered Equipment and Appliances
+
+---
+
+617 Pool and Spa Heaters
+
+---
+
+618 Forced-Air Warm-Air Furnaces
+
+---
+
+619 Conversion Burners
+
+---
+
+620 Unit Heaters
+
+---
+
+621 Unvented Room Heaters
+
+---
+
+622 Vented Room Heaters
+
+---
+
+623 Cooking Appliances
+
+---
+
+624 Water Heaters
+
+---
+
+625 Refrigerators
+
+---
+
+626 Gas-Fired Toilets
+
+---
+
+627 Air Conditioning Appliances
+
+---
+
+628 Illuminating Appliances
+
+---
+
+629 Ceramic Kilns
+
+---
+
+630 Infrared Radiant Heaters
+
+---
+
+631 Boilers
+
+---
+
+632 Equipment Installed in Existing Unlisted Boilers
+
+---
+
+633 Stationary Fuel Cell Power Systems
+
+---
+
+634 Chimney Damper Opening Area
+
+---
+
+635 Gaseous Hydrogen Systems
+
+---
+
+636 Outdoor Decorative Appliances
+
+---
+
+Chapter 7 Gaseous Hydrogen Systems
+
+---
+
+Chapter 8 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Reserved
+
+---
+
+Appendix D Reserved
+
+---
+
+Appendix E Meters and Gas Service Piping
+
+---
+
+Appendix F Reserved
+
+---
+
+Appendix G High Pressure Natural Gas Installations
+
+---
+
+Chapter 6 Specific Appliances
+
+---
+
+Section 601 General
+
+---
+
+## Section 601.1: Scope
+
+601.1 Scope
+This chapter shall govern the approval,
+design
+, installation, construction, maintenance, alteration and
+repair
+of the
+appliances
+and
+equipment
+specifically identified herein. The approval,
+design
+, installation, construction, maintenance, alteration and
+repair
+of nongas-fired
+appliances
+shall be regulated by the
+New York City Mechanical Code
+.
+
+---
+
+This chapter shall govern the approval,
+design
+, installation, construction, maintenance, alteration and
+repair
+of the
+appliances
+and
+equipment
+specifically identified herein. The approval,
+design
+, installation, construction, maintenance, alteration and
+repair
+of nongas-fired
+appliances
+shall be regulated by the
+New York City Mechanical Code
+.
+
+---
+
+## Section 601.2: Fireplaces
+
+601.2 Fireplaces
+Fireplaces
+(solid fuel type or ANSI Z21.50/CSA 2.22) shall be installed with tight-fitting noncombustible
+fireplace
+doors to
+control
+infiltration losses in construction type listed here:
+Masonry or
+factory-built fireplaces
+designed to allow an open burn.
+Whenever a
+decorative appliance
+(ANSI Standard Z21.60/CSA 2.26 gas-log style unit) is installed in a vented solid fuel
+fireplace
+.
+Vented decorative gas
+fireplace
+appliances
+(ANSI Standard Z21.50/CSA 2.22 units).
+Fireplaces
+shall be provided with a source of
+combustion air
+as required by the
+fireplace
+construction provisions of the
+New York City Building Code
+.
+
+---
+
+Fireplaces
+(solid fuel type or ANSI Z21.50/CSA 2.22) shall be installed with tight-fitting noncombustible
+fireplace
+doors to
+control
+infiltration losses in construction type listed here:
+Masonry or
+factory-built fireplaces
+designed to allow an open burn.
+Whenever a
+decorative appliance
+(ANSI Standard Z21.60/CSA 2.26 gas-log style unit) is installed in a vented solid fuel
+fireplace
+.
+Vented decorative gas
+fireplace
+appliances
+(ANSI Standard Z21.50/CSA 2.22 units).
+Fireplaces
+shall be provided with a source of
+combustion air
+as required by the
+fireplace
+construction provisions of the
+New York City Building Code
+.
+
+---
+
+## Section 601.3: Flame Safeguard Device
+
+601.3 Flame Safeguard Device
+All
+fuel gas
+space-heating
+appliances
+installed or used in a building occupied as a residence shall be equipped with an
+automatic
+flame safeguard
+device that shall shut off the fuel supply to the
+main burner
+or group of
+burners
+when the flame or
+pilot
+light thereof is extinguished.
+
+---
+
+All
+fuel gas
+space-heating
+appliances
+installed or used in a building occupied as a residence shall be equipped with an
+automatic
+flame safeguard
+device that shall shut off the fuel supply to the
+main burner
+or group of
+burners
+when the flame or
+pilot
+light thereof is extinguished.
+
+---
+
+Section 602 Decorative Gas-Fired Appliances for Installation in Fireplaces
+
+---
+
+## Section 602.1: General
+
+602.1 General
+Decorative
+appliances
+for installation in approved solid fuel-burning
+fireplaces
+shall be tested in accordance with ANSI Z21.60/CSA 2.26 and shall be installed in accordance with the manufacturer's instructions. Manually lighted natural gas decorative
+appliances
+shall be tested in accordance with ANSI Z21.84.
+
+---
+
+Decorative
+appliances
+for installation in approved solid fuel-burning
+fireplaces
+shall be tested in accordance with ANSI Z21.60/CSA 2.26 and shall be installed in accordance with the manufacturer's instructions. Manually lighted natural gas decorative
+appliances
+shall be tested in accordance with ANSI Z21.84.
+
+---
+
+## Section 602.2: Flame Safeguard Device
+
+602.2 Flame Safeguard Device
+Decorative
+appliances
+for installation in approved solid fuel-burning
+fireplaces
+, with the exception of those tested in accordance with ANSI Z21.84, shall utilize a direct ignition device, an ignitor or a
+pilot
+flame to ignite the fuel at the
+main burner
+, and shall be equipped with a
+flame safeguard device
+. The
+flame safeguard device
+shall automatically shut off the fuel supply to a
+main burner
+or group of
+burners
+when the means of ignition of such
+burners
+becomes inoperative.
+
+---
+
+Decorative
+appliances
+for installation in approved solid fuel-burning
+fireplaces
+, with the exception of those tested in accordance with ANSI Z21.84, shall utilize a direct ignition device, an ignitor or a
+pilot
+flame to ignite the fuel at the
+main burner
+, and shall be equipped with a
+flame safeguard device
+. The
+flame safeguard device
+shall automatically shut off the fuel supply to a
+main burner
+or group of
+burners
+when the means of ignition of such
+burners
+becomes inoperative.
+
+---
+
+## Section 602.3: Prohibited Installations
+
+602.3 Prohibited Installations
+Decorative
+appliances
+for installation in
+fireplaces
+shall not be installed where prohibited by
+Section 303.3
+.
+
+---
+
+Decorative
+appliances
+for installation in
+fireplaces
+shall not be installed where prohibited by
+Section 303.3
+.
+
+---
+
+Section 603 Log Lighters
+
+---
+
+## Section 603.1: General
+
+603.1 General
+Log lighters
+shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Log lighters
+shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 603.2: Automatic Valves
+
+603.2 Automatic Valves
+Automatic
+valves
+or semiautomatic
+valves
+shall be provided and shall comply with the applicable provisions of ANSI Z21.21/CSA 6.5.
+
+---
+
+Automatic
+valves
+or semiautomatic
+valves
+shall be provided and shall comply with the applicable provisions of ANSI Z21.21/CSA 6.5.
+
+---
+
+Section 604 Vented Gas Fireplaces (Decorative Appliances)
+
+---
+
+## Section 604.1: General
+
+604.1 General
+Vented gas
+fireplaces
+shall be tested in accordance with ANSI Z21.50/CSA 2.22, shall be installed in accordance with the manufacturer's instructions and shall be designed and equipped as specified in
+Section 602.2
+.
+
+---
+
+Vented gas
+fireplaces
+shall be tested in accordance with ANSI Z21.50/CSA 2.22, shall be installed in accordance with the manufacturer's instructions and shall be designed and equipped as specified in
+Section 602.2
+.
+
+---
+
+## Section 604.2: Access
+
+604.2 Access
+Panels, grilles and
+access
+doors that are required to be removed for normal servicing operations shall not be attached to the building.
+
+---
+
+Panels, grilles and
+access
+doors that are required to be removed for normal servicing operations shall not be attached to the building.
+
+---
+
+Section 605 Vented Gas Fireplace Heaters
+
+---
+
+## Section 605.1: General
+
+605.1 General
+Vented gas
+fireplace
+heaters shall be installed in accordance with the manufacturer's instructions, shall be tested in accordance with ANSI Z21.88/CSA 2.33 and shall be designed and equipped as specified in
+Section 602.2
+. The installation of unvented gas fired space heaters, gas stoves, gas logs, gas
+fireplaces
+and gas
+fireplace
+inserts is prohibited.
+
+---
+
+Vented gas
+fireplace
+heaters shall be installed in accordance with the manufacturer's instructions, shall be tested in accordance with ANSI Z21.88/CSA 2.33 and shall be designed and equipped as specified in
+Section 602.2
+. The installation of unvented gas fired space heaters, gas stoves, gas logs, gas
+fireplaces
+and gas
+fireplace
+inserts is prohibited.
+
+---
+
+## Section 605.2: Separate Flues
+
+605.2 Separate Flues
+Separate
+flues
+shall be provided for every
+fireplace
+and
+fireplace
+stove.
+
+---
+
+Separate
+flues
+shall be provided for every
+fireplace
+and
+fireplace
+stove.
+
+---
+
+## Section 605.3: Combustion Air Supply
+
+605.3 Combustion Air Supply
+The requirements of the
+New York City Energy Conservation Code
+concerning
+combustion air
+supply shall be followed.
+
+---
+
+The requirements of the
+New York City Energy Conservation Code
+concerning
+combustion air
+supply shall be followed.
+
+---
+
+Section 606 Reserved
+
+---
+
+Section 607 Commercial-Industrial Incinerators and Crematories
+
+---
+
+## Section 607.1: Incinerators and Crematories, Commercial-Industrial
+
+607.1 Incinerators and Crematories, Commercial-Industrial
+Commercial-industrial-type
+incinerators
+and crematories shall be constructed and installed in accordance with NFPA 82.
+
+---
+
+Commercial-industrial-type
+incinerators
+and crematories shall be constructed and installed in accordance with NFPA 82.
+
+---
+
+## Section 607.2: Compliance
+
+607.2 Compliance
+All new and existing refuse disposal systems shall be installed, altered and maintained in buildings in conformity with the applicable provisions of the
+Administrative Code
+and the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+All new and existing refuse disposal systems shall be installed, altered and maintained in buildings in conformity with the applicable provisions of the
+Administrative Code
+and the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+Section 608 Vented Wall Furnaces
+
+---
+
+## Section 608.1: General
+
+608.1 General
+Vented wall furnaces
+shall be tested in accordance with ANSI Z21.86/CSA 2.32 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Vented wall furnaces
+shall be tested in accordance with ANSI Z21.86/CSA 2.32 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 608.2: Venting
+
+608.2 Venting
+Vented wall furnaces
+shall be vented in accordance with
+Section 503
+.
+
+---
+
+Vented wall furnaces
+shall be vented in accordance with
+Section 503
+.
+
+---
+
+## Section 608.3: Location
+
+608.3 Location
+Vented wall furnaces
+shall be located so as not to cause a fire hazard to walls, floors, combustible furnishings or doors.
+Vented wall furnaces
+installed between bathrooms and adjoining rooms shall not circulate air from bathrooms to other parts of the building.
+
+---
+
+Vented wall furnaces
+shall be located so as not to cause a fire hazard to walls, floors, combustible furnishings or doors.
+Vented wall furnaces
+installed between bathrooms and adjoining rooms shall not circulate air from bathrooms to other parts of the building.
+
+---
+
+## Section 608.4: Door Swing
+
+608.4 Door Swing
+Vented wall furnaces
+shall be located so that a door cannot swing within 12 inches (304.8 mm) of an
+air
+inlet or
+air
+outlet
+of such
+furnace
+measured at right angles to the opening. Doorstops or door closers shall not be installed to obtain this
+clearance
+.
+
+---
+
+Vented wall furnaces
+shall be located so that a door cannot swing within 12 inches (304.8 mm) of an
+air
+inlet or
+air
+outlet
+of such
+furnace
+measured at right angles to the opening. Doorstops or door closers shall not be installed to obtain this
+clearance
+.
+
+---
+
+## Section 608.5: Ducts Prohibited
+
+608.5 Ducts Prohibited
+Ducts
+shall not be attached to wall
+furnaces
+. Casing extension boots shall not be installed unless listed as part of the
+appliance
+.
+
+---
+
+Ducts
+shall not be attached to wall
+furnaces
+. Casing extension boots shall not be installed unless listed as part of the
+appliance
+.
+
+---
+
+## Section 608.6: Access
+
+608.6 Access
+Vented wall furnaces
+shall be provided with
+access
+for cleaning of heating surfaces, removal of
+burners
+, replacement of sections, motors,
+controls
+, filters and other working parts, and for adjustments and lubrication of parts requiring such attention. Panels, grilles and
+access
+doors that are required to be removed for normal servicing operations shall not be attached to the building construction.
+
+---
+
+Vented wall furnaces
+shall be provided with
+access
+for cleaning of heating surfaces, removal of
+burners
+, replacement of sections, motors,
+controls
+, filters and other working parts, and for adjustments and lubrication of parts requiring such attention. Panels, grilles and
+access
+doors that are required to be removed for normal servicing operations shall not be attached to the building construction.
+
+---
+
+Section 609 Floor Furnaces
+
+---
+
+## Section 609.1: General
+
+609.1 General
+Floor furnaces
+shall be tested in accordance with ANSI Z21.86/CSA 2.32 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Floor furnaces
+shall be tested in accordance with ANSI Z21.86/CSA 2.32 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 609.2: Placement
+
+609.2 Placement
+The following provisions apply to
+floor furnaces
+:
+Floors.
+Floor furnaces
+shall not be installed in the floor of any doorway, stairway landing, aisle or passageway of any enclosure, public or private, or in a means of egress from any such room or space.
+Walls and corners.
+The register of a
+floor furnace
+with a horizontal warm-air
+outlet
+shall not be placed closer than 6 inches (152.4 mm) to the nearest wall. A distance of not less than 18 inches (457.2 mm) from two adjoining sides of the
+floor furnace
+register to walls shall be provided to eliminate the necessity of occupants walking over the warm-air discharge. The remaining sides shall be permitted to be placed not closer than 6 inches (152.4 mm) to a wall. Wall-register models shall not be placed closer than 6 inches (152.4 mm) to a corner.
+Draperies.
+The
+furnace
+shall be placed so that a door, drapery or similar object cannot be nearer than 12 inches (304.8 mm) to any portion of the register of the
+furnace
+.
+Floor construction.
+Floor furnaces
+shall be located so as to be readily accessible. Means shall be provided for supporting the
+furnace
+when the grille is removed.
+Floor furnaces
+shall be installed only on floors of noncombustible construction having at least a 2-hour fire rating, except that
+floor furnace
+enclosures in one- and two-family
+dwellings
+shall be constructed of
+noncombustible materials
+with a fire-resistance rating not less than 1 hour.
+Thermostat
+.
+The controlling
+thermostat
+for a
+floor furnace
+shall be located within the same room or space as the
+floor furnace
+or shall be located in an adjacent room or space that is permanently open to the room or space containing the
+floor furnace
+.
+
+---
+
+The following provisions apply to
+floor furnaces
+:
+Floors.
+Floor furnaces
+shall not be installed in the floor of any doorway, stairway landing, aisle or passageway of any enclosure, public or private, or in a means of egress from any such room or space.
+Walls and corners.
+The register of a
+floor furnace
+with a horizontal warm-air
+outlet
+shall not be placed closer than 6 inches (152.4 mm) to the nearest wall. A distance of not less than 18 inches (457.2 mm) from two adjoining sides of the
+floor furnace
+register to walls shall be provided to eliminate the necessity of occupants walking over the warm-air discharge. The remaining sides shall be permitted to be placed not closer than 6 inches (152.4 mm) to a wall. Wall-register models shall not be placed closer than 6 inches (152.4 mm) to a corner.
+Draperies.
+The
+furnace
+shall be placed so that a door, drapery or similar object cannot be nearer than 12 inches (304.8 mm) to any portion of the register of the
+furnace
+.
+Floor construction.
+Floor furnaces
+shall be located so as to be readily accessible. Means shall be provided for supporting the
+furnace
+when the grille is removed.
+Floor furnaces
+shall be installed only on floors of noncombustible construction having at least a 2-hour fire rating, except that
+floor furnace
+enclosures in one- and two-family
+dwellings
+shall be constructed of
+noncombustible materials
+with a fire-resistance rating not less than 1 hour.
+Thermostat
+.
+The controlling
+thermostat
+for a
+floor furnace
+shall be located within the same room or space as the
+floor furnace
+or shall be located in an adjacent room or space that is permanently open to the room or space containing the
+floor furnace
+.
+
+---
+
+## Section 609.3: Bracing
+
+609.3 Bracing
+The floor around the
+furnace
+shall be braced and headed with a
+support
+framework designed in accordance with the
+New York City Building Code
+.
+
+---
+
+The floor around the
+furnace
+shall be braced and headed with a
+support
+framework designed in accordance with the
+New York City Building Code
+.
+
+---
+
+## Section 609.4: Clearance
+
+609.4 Clearance
+The lowest portion of the
+floor furnace
+shall have not less than a 6-inch (152.4 mm)
+clearance
+from the grade level; except where the lower 6 inch (152.4 mm) portion of the
+floor furnace
+is sealed by the manufacturer to prevent entrance of water, the minimum
+clearance
+shall be not less than 2 inches (50.8 mm). Where such
+clearances
+cannot be provided, the ground below and to the sides shall be excavated to form a pit under the
+furnace
+so that the required
+clearance
+is provided beneath the lowest portion of the
+furnace
+. A 12 inch (304.8 mm) minimum
+clearance
+shall be provided on all sides except the
+control
+side, which shall have an 18 inch (457.2 mm) minimum
+clearance
+.
+
+---
+
+The lowest portion of the
+floor furnace
+shall have not less than a 6-inch (152.4 mm)
+clearance
+from the grade level; except where the lower 6 inch (152.4 mm) portion of the
+floor furnace
+is sealed by the manufacturer to prevent entrance of water, the minimum
+clearance
+shall be not less than 2 inches (50.8 mm). Where such
+clearances
+cannot be provided, the ground below and to the sides shall be excavated to form a pit under the
+furnace
+so that the required
+clearance
+is provided beneath the lowest portion of the
+furnace
+. A 12 inch (304.8 mm) minimum
+clearance
+shall be provided on all sides except the
+control
+side, which shall have an 18 inch (457.2 mm) minimum
+clearance
+.
+
+---
+
+## Section 609.5: Reserved
+
+609.5 Reserved
+
+---
+
+## Section 609.6: Reserved
+
+609.6 Reserved
+
+---
+
+## Section 609.7: Enclosures
+
+609.7 Enclosures
+Enclosures of
+floor furnaces
+shall be constructed entirely of
+noncombustible materials
+with a fire-resistance rating of at least 1-hour and the enclosure shall be provided with adequate outdoor
+air
+to ensure proper
+combustion
+. The enclosure shall be provided with adequate means of
+access
+for servicing the
+furnace
+.
+
+---
+
+Enclosures of
+floor furnaces
+shall be constructed entirely of
+noncombustible materials
+with a fire-resistance rating of at least 1-hour and the enclosure shall be provided with adequate outdoor
+air
+to ensure proper
+combustion
+. The enclosure shall be provided with adequate means of
+access
+for servicing the
+furnace
+.
+
+---
+
+## Section 609.8: Duct Temperature
+
+609.8 Duct Temperature
+The
+outlet
+duct temperature of warm-air heating
+furnaces
+shall not be greater than 250°F (121.1°C).
+
+---
+
+The
+outlet
+duct temperature of warm-air heating
+furnaces
+shall not be greater than 250°F (121.1°C).
+
+---
+
+## Section 609.9: One- And Two-Family Dwellings
+
+609.9 One- And Two-Family Dwellings
+Floor furnace
+enclosures shall be constructed of
+noncombustible materials
+with a fire-resistance rating of at least 1-hour. Means shall be provided for supporting the
+furnace
+when the grille is removed.
+Clearances
+shall be provided as per NFPA 54.
+
+---
+
+Floor furnace
+enclosures shall be constructed of
+noncombustible materials
+with a fire-resistance rating of at least 1-hour. Means shall be provided for supporting the
+furnace
+when the grille is removed.
+Clearances
+shall be provided as per NFPA 54.
+
+---
+
+Section 610 Duct Furnaces
+
+---
+
+## Section 610.1: General
+
+610.1 General
+Duct furnaces
+shall be tested in accordance with ANSI Z83.8/CSA 2.6 or UL 795 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Duct furnaces
+shall be tested in accordance with ANSI Z83.8/CSA 2.6 or UL 795 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 610.2: Access Panels
+
+610.2 Access Panels
+Ducts
+connected to
+duct furnaces
+shall have removable
+access
+panels on both the upstream and downstream sides of the
+furnace
+.
+
+---
+
+Ducts
+connected to
+duct furnaces
+shall have removable
+access
+panels on both the upstream and downstream sides of the
+furnace
+.
+
+---
+
+## Section 610.3: Location of Draft Hood and Controls
+
+610.3 Location of Draft Hood and Controls
+The
+controls
+,
+combustion air
+inlets and
+draft hoods
+for
+duct furnaces
+shall be located outside of the
+ducts
+. The
+draft hood
+shall be located in the same enclosure from which
+combustion air
+is taken.
+
+---
+
+The
+controls
+,
+combustion air
+inlets and
+draft hoods
+for
+duct furnaces
+shall be located outside of the
+ducts
+. The
+draft hood
+shall be located in the same enclosure from which
+combustion air
+is taken.
+
+---
+
+## Section 610.4: Circulating Air
+
+610.4 Circulating Air
+Where a
+duct furnace
+is installed so that supply
+ducts
+convey air to areas outside the space containing the
+furnace
+, the return air shall be conveyed by a duct(s) sealed to the
+furnace
+casing and terminating outside the space containing the
+furnace
+. The
+duct furnace
+shall be installed on the
+positive pressure
+side of the circulating air blower.
+
+---
+
+Where a
+duct furnace
+is installed so that supply
+ducts
+convey air to areas outside the space containing the
+furnace
+, the return air shall be conveyed by a duct(s) sealed to the
+furnace
+casing and terminating outside the space containing the
+furnace
+. The
+duct furnace
+shall be installed on the
+positive pressure
+side of the circulating air blower.
+
+---
+
+## Section 610.5: Unvented Duct Furnaces
+
+610.5 Unvented Duct Furnaces
+Unvented
+duct furnaces
+are prohibited.
+
+---
+
+Unvented
+duct furnaces
+are prohibited.
+
+---
+
+Section 611 Nonrecirculating Direct-Fired Industrial Air Heaters
+
+---
+
+## Section 611.1: General
+
+611.1 General
+Nonrecirculating direct-fired industrial air heaters
+shall be listed to ANSI Z83.4/CSA 3.7 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Nonrecirculating direct-fired industrial air heaters
+shall be listed to ANSI Z83.4/CSA 3.7 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 611.2: Installation
+
+611.2 Installation
+Nonrecirculating direct-fired industrial air heaters
+shall not be used to supply any area containing sleeping quarters.
+Nonrecirculating direct-fired industrial air heaters
+shall be installed only in industrial or commercial occupancies.
+Nonrecirculating direct-fired industrial air heaters
+shall be permitted to provide ventilation air.
+
+---
+
+Nonrecirculating direct-fired industrial air heaters
+shall not be used to supply any area containing sleeping quarters.
+Nonrecirculating direct-fired industrial air heaters
+shall be installed only in industrial or commercial occupancies.
+Nonrecirculating direct-fired industrial air heaters
+shall be permitted to provide ventilation air.
+
+---
+
+## Section 611.3: Clearance From Combustible Materials
+
+611.3 Clearance From Combustible Materials
+Nonrecirculating direct-fired industrial air heaters
+shall be installed with a
+clearance
+from
+combustible materials
+of not less than that shown on the rating plate and in the manufacturer's instructions.
+
+---
+
+Nonrecirculating direct-fired industrial air heaters
+shall be installed with a
+clearance
+from
+combustible materials
+of not less than that shown on the rating plate and in the manufacturer's instructions.
+
+---
+
+## Section 611.4: Supply Air
+
+611.4 Supply Air
+All air handled by a nonrecirculating direct-fired industrial
+air
+heater, including
+combustion air
+, shall be ducted directly from the outdoors.
+
+---
+
+All air handled by a nonrecirculating direct-fired industrial
+air
+heater, including
+combustion air
+, shall be ducted directly from the outdoors.
+
+---
+
+## Section 611.5: Outdoor Air Louvers
+
+611.5 Outdoor Air Louvers
+If outdoor
+air
+louvers of either the manual or
+automatic
+type are used, such devices shall be proven to be in the open position prior to allowing the
+main burners
+to operate.
+
+---
+
+If outdoor
+air
+louvers of either the manual or
+automatic
+type are used, such devices shall be proven to be in the open position prior to allowing the
+main burners
+to operate.
+
+---
+
+## Section 611.6: Atmospheric Vents and Gas Reliefs or Bleeds
+
+611.6 Atmospheric Vents and Gas Reliefs or Bleeds
+Nonrecirculating direct-fired industrial air heaters
+with
+valve
+train components equipped with atmospheric
+vents
+or gas
+reliefs
+or bleeds shall have their atmospheric
+vent
+lines or gas
+reliefs
+or bleeds lead to the outdoors. Means shall be employed on these lines to prevent water from entering and to prevent blockage by insects and foreign matter. An atmospheric
+vent
+line shall not be required to be provided on a
+valve
+train component equipped with a listed
+vent
+limiter.
+
+---
+
+Nonrecirculating direct-fired industrial air heaters
+with
+valve
+train components equipped with atmospheric
+vents
+or gas
+reliefs
+or bleeds shall have their atmospheric
+vent
+lines or gas
+reliefs
+or bleeds lead to the outdoors. Means shall be employed on these lines to prevent water from entering and to prevent blockage by insects and foreign matter. An atmospheric
+vent
+line shall not be required to be provided on a
+valve
+train component equipped with a listed
+vent
+limiter.
+
+---
+
+## Section 611.7: Relief Opening
+
+611.7 Relief Opening
+The
+design
+of the installation shall include provisions to permit
+nonrecirculating direct-fired industrial air heaters
+to operate at rated capacity without overpressurizing the space served by the heaters by taking into account the structure's designed infiltration rate, providing properly designed
+relief openings
+or an interlocked
+power
+exhaust
+system, or a combination of these methods. The structure's designed infiltration rate and the size of
+relief openings
+shall be determined by approved engineering methods.
+Relief openings
+shall be permitted to be louvers or counterbalanced gravity
+dampers
+. Motorized
+dampers
+or closable louvers shall be permitted to be used, provided they are verified to be in their full open position prior to
+main burner
+operation.
+
+---
+
+The
+design
+of the installation shall include provisions to permit
+nonrecirculating direct-fired industrial air heaters
+to operate at rated capacity without overpressurizing the space served by the heaters by taking into account the structure's designed infiltration rate, providing properly designed
+relief openings
+or an interlocked
+power
+exhaust
+system, or a combination of these methods. The structure's designed infiltration rate and the size of
+relief openings
+shall be determined by approved engineering methods.
+Relief openings
+shall be permitted to be louvers or counterbalanced gravity
+dampers
+. Motorized
+dampers
+or closable louvers shall be permitted to be used, provided they are verified to be in their full open position prior to
+main burner
+operation.
+
+---
+
+## Section 611.8: Access
+
+611.8 Access
+Nonrecirculating direct-fired industrial air heaters
+shall be provided with
+access
+for removal of
+burners
+; replacement of motors,
+controls
+, filters and other working parts; and for adjustment and lubrication of parts requiring maintenance.
+
+---
+
+Nonrecirculating direct-fired industrial air heaters
+shall be provided with
+access
+for removal of
+burners
+; replacement of motors,
+controls
+, filters and other working parts; and for adjustment and lubrication of parts requiring maintenance.
+
+---
+
+## Section 611.9: Purging
+
+611.9 Purging
+Inlet ducting, where used, shall be purged by not less than four air changes prior to an ignition attempt.
+
+---
+
+Inlet ducting, where used, shall be purged by not less than four air changes prior to an ignition attempt.
+
+---
+
+## Section 611.10: Controls
+
+611.10 Controls
+Direct-fired make-up air heaters shall be equipped with airflow-sensing devices, safety shutoff devices, operating temperature
+controls
+and thermally actuated temperature
+limit controls
+in accordance with the terms of their listing.
+
+---
+
+Direct-fired make-up air heaters shall be equipped with airflow-sensing devices, safety shutoff devices, operating temperature
+controls
+and thermally actuated temperature
+limit controls
+in accordance with the terms of their listing.
+
+---
+
+Section 612 Recirculating Direct-Fired Industrial Air Heaters
+
+---
+
+## Section 612.1: General
+
+612.1 General
+Recirculating direct-fired industrial air heaters
+shall be listed to ANSI Z83.18 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Recirculating direct-fired industrial air heaters
+shall be listed to ANSI Z83.18 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 612.2: Location
+
+612.2 Location
+Recirculating direct-fired industrial air heaters
+shall be installed only in industrial and commercial occupancies. Recirculating direct-fired air heaters shall not serve any area containing sleeping quarters.
+Recirculating direct-fired industrial air heaters
+shall not be installed in
+hazardous locations
+or in buildings that contain flammable solids, liquids or gases, explosive materials or substances that can become toxic when exposed to flame or heat.
+
+---
+
+Recirculating direct-fired industrial air heaters
+shall be installed only in industrial and commercial occupancies. Recirculating direct-fired air heaters shall not serve any area containing sleeping quarters.
+Recirculating direct-fired industrial air heaters
+shall not be installed in
+hazardous locations
+or in buildings that contain flammable solids, liquids or gases, explosive materials or substances that can become toxic when exposed to flame or heat.
+
+---
+
+## Section 612.3: Installation
+
+612.3 Installation
+Direct-fired industrial air heaters shall be permitted to be installed in accordance with their listing and the manufacturer's instructions. Direct-fired industrial air heaters shall be installed only in industrial or commercial occupancies. Direct-fired
+industrial air heaters
+shall be permitted to provide fresh
+air
+ventilation.
+
+---
+
+Direct-fired industrial air heaters shall be permitted to be installed in accordance with their listing and the manufacturer's instructions. Direct-fired industrial air heaters shall be installed only in industrial or commercial occupancies. Direct-fired
+industrial air heaters
+shall be permitted to provide fresh
+air
+ventilation.
+
+---
+
+## Section 612.4: Clearance From Combustible Materials
+
+612.4 Clearance From Combustible Materials
+Direct-fired industrial air heaters shall be installed with a
+clearance
+from
+combustible material
+of not less than that shown on the label and in the manufacturer's instructions.
+
+---
+
+Direct-fired industrial air heaters shall be installed with a
+clearance
+from
+combustible material
+of not less than that shown on the label and in the manufacturer's instructions.
+
+---
+
+## Section 612.5: Air Supply
+
+612.5 Air Supply
+Air
+to direct-fired
+industrial air heaters
+shall be taken from the building, ducted directly from outdoors, or a combination of both. Direct-fired industrial
+air
+heaters shall incorporate a means to supply outside ventilation air to the space at a rate of not less than 4
+cubic feet
+per minute per 1,000 Btu per hour (0.38 m
+3
+per min per kW) of rated input of the heater. If a separate means is used to supply ventilation air, an
+interlock
+shall be provided so as to lock out the
+main burner
+operation until the mechanical means is verified. Where outside air
+dampers
+or closing louvers are used, they shall be verified to be in the open position prior to
+main burner
+operation.
+
+---
+
+Air
+to direct-fired
+industrial air heaters
+shall be taken from the building, ducted directly from outdoors, or a combination of both. Direct-fired industrial
+air
+heaters shall incorporate a means to supply outside ventilation air to the space at a rate of not less than 4
+cubic feet
+per minute per 1,000 Btu per hour (0.38 m
+3
+per min per kW) of rated input of the heater. If a separate means is used to supply ventilation air, an
+interlock
+shall be provided so as to lock out the
+main burner
+operation until the mechanical means is verified. Where outside air
+dampers
+or closing louvers are used, they shall be verified to be in the open position prior to
+main burner
+operation.
+
+---
+
+## Section 612.6: Atmospheric Vents, Gas Reliefs or Bleeds
+
+612.6 Atmospheric Vents, Gas Reliefs or Bleeds
+Direct-fired industrial air heaters with
+valve
+train components equipped with atmospheric
+vents
+, gas
+reliefs
+or bleeds shall have their atmospheric
+vent
+lines and gas
+reliefs
+or bleeds lead to the outdoors.
+Means shall be employed on these lines to prevent water from entering and to prevent blockage by insects and foreign matter. An atmospheric
+vent
+line shall not be required to be provided on a
+valve
+train component equipped with a listed
+vent
+limiter.
+
+---
+
+Direct-fired industrial air heaters with
+valve
+train components equipped with atmospheric
+vents
+, gas
+reliefs
+or bleeds shall have their atmospheric
+vent
+lines and gas
+reliefs
+or bleeds lead to the outdoors.
+Means shall be employed on these lines to prevent water from entering and to prevent blockage by insects and foreign matter. An atmospheric
+vent
+line shall not be required to be provided on a
+valve
+train component equipped with a listed
+vent
+limiter.
+
+---
+
+## Section 612.7: Relief Opening
+
+612.7 Relief Opening
+The
+design
+of the installation shall include adequate provision to permit direct-fired industrial air heaters to operate at rated capacity by taking into account the structure's designed infiltration rate, providing properly designed
+relief openings
+or an interlocked
+power
+exhaust
+system, or a combination of these methods. The structure's designed infiltration rate and the size of
+relief openings
+shall be determined by a registered
+design
+professional.
+Relief openings
+shall be permitted to be louvers or counterbalanced gravity
+dampers
+. Motorized
+dampers
+or closable louvers shall be permitted to be used, provided they are verified to be in their full open position prior to
+main burner
+operation.
+
+---
+
+The
+design
+of the installation shall include adequate provision to permit direct-fired industrial air heaters to operate at rated capacity by taking into account the structure's designed infiltration rate, providing properly designed
+relief openings
+or an interlocked
+power
+exhaust
+system, or a combination of these methods. The structure's designed infiltration rate and the size of
+relief openings
+shall be determined by a registered
+design
+professional.
+Relief openings
+shall be permitted to be louvers or counterbalanced gravity
+dampers
+. Motorized
+dampers
+or closable louvers shall be permitted to be used, provided they are verified to be in their full open position prior to
+main burner
+operation.
+
+---
+
+## Section 612.8: Controls
+
+612.8 Controls
+Recirculating direct-fired air heaters shall be equipped with airflow-sensing devices, safety shutoff devices, operating temperature
+controls
+and thermally actuated temperature
+limit controls
+in accordance with the terms of their listing.
+
+---
+
+Recirculating direct-fired air heaters shall be equipped with airflow-sensing devices, safety shutoff devices, operating temperature
+controls
+and thermally actuated temperature
+limit controls
+in accordance with the terms of their listing.
+
+---
+
+Section 613 Clothes Dryers
+
+---
+
+## Section 613.1: General
+
+613.1 General
+Clothes dryers
+shall be tested in accordance with ANSI Z21.5.1/CSA 7.1 or ANSI Z21.5.2/CSA 7.2, and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Clothes dryers
+shall be tested in accordance with ANSI Z21.5.1/CSA 7.1 or ANSI Z21.5.2/CSA 7.2, and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Section 614 Clothes Dryer Exhaust
+UpCodes Diagram (1)
+
+---
+
+## Section 614.1: Clothes Dryer Exhaust
+
+614.1 Clothes Dryer Exhaust
+Clothes dryer
+exhaust
+shall be in accordance with
+Section 504
+of the
+New York City Mechanical
+Code
+.
+
+---
+
+Clothes dryer
+exhaust
+shall be in accordance with
+Section 504
+of the
+New York City Mechanical
+Code
+.
+
+---
+
+Section 615 Sauna Heaters
+
+---
+
+## Section 615.1: General
+
+615.1 General
+Sauna heaters shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Sauna heaters shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 615.2: Location and Protection
+
+615.2 Location and Protection
+Sauna heaters shall be located so as to minimize the possibility of accidental contact by a person in the room.
+
+---
+
+Sauna heaters shall be located so as to minimize the possibility of accidental contact by a person in the room.
+
+---
+
+## Section 615.2.1: Guards
+
+615.2.1 Guards
+Sauna heaters shall be protected from accidental contact by an approved guard or barrier of material having a low coefficient of thermal conductivity. The guard shall not substantially affect the transfer of heat from the heater to the room.
+
+---
+
+Sauna heaters shall be protected from accidental contact by an approved guard or barrier of material having a low coefficient of thermal conductivity. The guard shall not substantially affect the transfer of heat from the heater to the room.
+
+---
+
+## Section 615.3: Access
+
+615.3 Access
+Panels, grilles and
+access
+doors that are required to be removed for normal servicing operations shall not be attached to the building.
+
+---
+
+Panels, grilles and
+access
+doors that are required to be removed for normal servicing operations shall not be attached to the building.
+
+---
+
+## Section 615.4: Combustion and Dilution Air Intakes
+
+615.4 Combustion and Dilution Air Intakes
+Sauna heaters of other than the direct-
+vent
+type shall be installed with the
+draft hood
+and
+combustion air
+intake located outside the sauna room. Where the
+combustion air
+inlet and the
+draft hood
+are in a dressing room adjacent to the sauna room, there shall be provisions to prevent physically blocking the
+combustion air
+inlet and the
+draft hood
+inlet, and to prevent physical contact with the
+draft hood
+and
+vent
+assembly, or warning notices shall be posted to avoid such contact. Any warning notice shall be easily readable, shall contrast with its background and the wording shall be in letters not less than
+1
+/
+4
+inch (6.4 mm) high.
+
+---
+
+Sauna heaters of other than the direct-
+vent
+type shall be installed with the
+draft hood
+and
+combustion air
+intake located outside the sauna room. Where the
+combustion air
+inlet and the
+draft hood
+are in a dressing room adjacent to the sauna room, there shall be provisions to prevent physically blocking the
+combustion air
+inlet and the
+draft hood
+inlet, and to prevent physical contact with the
+draft hood
+and
+vent
+assembly, or warning notices shall be posted to avoid such contact. Any warning notice shall be easily readable, shall contrast with its background and the wording shall be in letters not less than
+1
+/
+4
+inch (6.4 mm) high.
+
+---
+
+## Section 615.5: Combustion and Ventilation Air
+
+615.5 Combustion and Ventilation Air
+Combustion air
+shall not be taken from inside the sauna room.
+Combustion
+and ventilation air for a sauna heater not of the direct-
+vent
+type shall be provided to the area in which the
+combustion air
+inlet and
+draft hood
+are located in accordance with
+Section 304
+.
+
+---
+
+Combustion air
+shall not be taken from inside the sauna room.
+Combustion
+and ventilation air for a sauna heater not of the direct-
+vent
+type shall be provided to the area in which the
+combustion air
+inlet and
+draft hood
+are located in accordance with
+Section 304
+.
+
+---
+
+## Section 615.6: Heat and Time Controls
+
+615.6 Heat and Time Controls
+Sauna heaters shall be equipped with a
+thermostat
+which will limit room temperature to 194°F (90°C). If the
+thermostat
+is not an integral part of the sauna heater, the heat-sensing element shall be located within 6 inches (152.4 mm) of the ceiling. If the heat-sensing element is a capillary tube and bulb, the assembly shall be attached to the wall or other
+support
+, and shall be protected against physical damage.
+
+---
+
+Sauna heaters shall be equipped with a
+thermostat
+which will limit room temperature to 194°F (90°C). If the
+thermostat
+is not an integral part of the sauna heater, the heat-sensing element shall be located within 6 inches (152.4 mm) of the ceiling. If the heat-sensing element is a capillary tube and bulb, the assembly shall be attached to the wall or other
+support
+, and shall be protected against physical damage.
+
+---
+
+## Section 615.6.1: Timers
+
+615.6.1 Timers
+A timer, if provided to
+control
+main burner
+operation, shall have a maximum operating time of 1 hour. The
+control
+for the timer shall be located outside the sauna room.
+
+---
+
+A timer, if provided to
+control
+main burner
+operation, shall have a maximum operating time of 1 hour. The
+control
+for the timer shall be located outside the sauna room.
+
+---
+
+## Section 615.7: Sauna Room
+
+615.7 Sauna Room
+A ventilation opening into the sauna room shall be provided. The opening shall be not less than 4 inches by 8 inches (101.6 mm by 203.2 mm) located near the top of the door into the sauna room.
+
+---
+
+A ventilation opening into the sauna room shall be provided. The opening shall be not less than 4 inches by 8 inches (101.6 mm by 203.2 mm) located near the top of the door into the sauna room.
+
+---
+
+## Section 615.7.1: Warning Notice
+
+615.7.1 Warning Notice
+The following permanent notice, constructed of approved material, shall be mechanically attached to the sauna room on the outside:
+WARNING: DO NOT EXCEED 30 MINUTES IN SAUNA. EXCESSIVE EXPOSURE CAN BE HARMFUL TO HEALTH. ANY PERSON WITH POOR HEALTH SHOULD CONSULT A PHYSICIAN BEFORE USING SAUNA.
+The words shall contrast with the background and the wording shall be in letters not less than
+1
+/
+4
+inch (6.4 mm) high.
+Exception:
+This section shall not apply to one- and two-family
+dwellings
+.
+
+---
+
+The following permanent notice, constructed of approved material, shall be mechanically attached to the sauna room on the outside:
+WARNING: DO NOT EXCEED 30 MINUTES IN SAUNA. EXCESSIVE EXPOSURE CAN BE HARMFUL TO HEALTH. ANY PERSON WITH POOR HEALTH SHOULD CONSULT A PHYSICIAN BEFORE USING SAUNA.
+The words shall contrast with the background and the wording shall be in letters not less than
+1
+/
+4
+inch (6.4 mm) high.
+Exception:
+This section shall not apply to one- and two-family
+dwellings
+.
+
+---
+
+Section 616 Engine and Gas Turbine-Powered Equipment and Appliances
+
+---
+
+## Section 616.1: Powered Equipment
+
+616.1 Powered Equipment
+Permanently installed
+equipment
+powered by internal
+combustion
+engines and turbines shall be installed in accordance with the manufacturer's instructions and
+NFPA 37
+. Stationary engine generator assemblies shall meet the requirements of UL 2200.
+
+---
+
+Permanently installed
+equipment
+powered by internal
+combustion
+engines and turbines shall be installed in accordance with the manufacturer's instructions and
+NFPA 37
+. Stationary engine generator assemblies shall meet the requirements of UL 2200.
+
+---
+
+## Section 616.2: Gas Supply Connection
+
+616.2 Gas Supply Connection
+Equipment
+powered by internal
+combustion
+engines and turbines shall not be rigidly connected to the gas supply
+piping
+.
+
+---
+
+Equipment
+powered by internal
+combustion
+engines and turbines shall not be rigidly connected to the gas supply
+piping
+.
+
+---
+
+Section 617 Pool and Spa Heaters
+
+---
+
+## Section 617.1: General
+
+617.1 General
+Pool and spa heaters shall be tested in accordance with ANSI Z21.56/CSA 4.7 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Pool and spa heaters shall be tested in accordance with ANSI Z21.56/CSA 4.7 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Section 618 Forced-Air Warm-Air Furnaces
+
+---
+
+## Section 618.1: General
+
+618.1 General
+Forced-
+air
+warm-
+air
+furnaces
+shall be tested in accordance with ANSI Z21.47/CSA 2.3 or UL 795 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Forced-
+air
+warm-
+air
+furnaces
+shall be tested in accordance with ANSI Z21.47/CSA 2.3 or UL 795 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 618.2: Forced-Air Furnaces
+
+618.2 Forced-Air Furnaces
+The minimum unobstructed total area of outdoor and return
+air
+ducts
+or openings to a forced-
+air
+warm-
+air
+furnace
+shall be not less than 2 square inches for each 1,000 Btu/h (4402 mm
+2
+/W) output rating capacity of the
+furnace
+and not less than that specified in the
+furnace
+manufacturer's instructions. The minimum unobstructed total area of supply
+ducts
+from a forced-
+air
+warm-
+air
+furnace
+shall be not less than 2 square inches (1290.32 mm
+2
+) for each 1,000 Btu/h (4402 mm
+2
+/W) output rating capacity of the
+furnace
+and not less than that specified in the
+furnace
+manufacturer's instructions.
+Exception:
+The total area of supply
+air
+ducts
+and outdoor and return
+air
+ducts
+shall not be required to be larger than the minimum size required by the
+furnace
+manufacturer's instructions.
+
+---
+
+The minimum unobstructed total area of outdoor and return
+air
+ducts
+or openings to a forced-
+air
+warm-
+air
+furnace
+shall be not less than 2 square inches for each 1,000 Btu/h (4402 mm
+2
+/W) output rating capacity of the
+furnace
+and not less than that specified in the
+furnace
+manufacturer's instructions. The minimum unobstructed total area of supply
+ducts
+from a forced-
+air
+warm-
+air
+furnace
+shall be not less than 2 square inches (1290.32 mm
+2
+) for each 1,000 Btu/h (4402 mm
+2
+/W) output rating capacity of the
+furnace
+and not less than that specified in the
+furnace
+manufacturer's instructions.
+Exception:
+The total area of supply
+air
+ducts
+and outdoor and return
+air
+ducts
+shall not be required to be larger than the minimum size required by the
+furnace
+manufacturer's instructions.
+
+---
+
+## Section 618.3: Dampers
+
+618.3 Dampers
+Volume
+dampers
+shall not be placed in the air inlet to a
+furnace
+in a manner that will reduce the required air to the
+furnace
+.
+
+---
+
+Volume
+dampers
+shall not be placed in the air inlet to a
+furnace
+in a manner that will reduce the required air to the
+furnace
+.
+
+---
+
+## Section 618.4: Prohibited Sources
+
+618.4 Prohibited Sources
+Outdoor or return
+air
+for forced-
+air
+heating or forced-
+air
+heating and cooling systems shall not be taken from the following locations:
+Closer than 10 feet (3048 mm) from an
+appliance
+vent
+outlet
+, a
+vent
+opening from a plumbing drainage system or the discharge
+outlet
+of an
+exhaust
+fan, unless the
+outlet
+is 3 feet (914.4 mm) above the outside air inlet.
+Where there is the presence of objectionable odors, fumes or flammable vapors; or where located less than 10 feet (3048 mm) above the surface of any abutting public way or driveway; or where located at grade level by a sidewalk, street, alley or driveway.
+A hazardous or insanitary location or a refrigeration machinery room as defined in the
+New York City Mechanical Code
+.
+A room or space, the volume of which is less than 25 percent of the entire volume served by such system. Where connected by a permanent opening having an area sized in accordance with
+Section 618.2
+, adjoining rooms or spaces shall be considered as a single room or space for the purpose of determining the volume of such rooms or spaces.
+Exception:
+The minimum volume requirement shall not apply where the amount of return air taken from a room or space is less than or equal to the amount of supply air delivered to such room or space.
+A room or space containing an
+appliance
+where such a room or space serves as the sole source of return air.
+Exception:
+This shall not apply where:
+The
+appliance
+is a direct-
+vent
+appliance
+or an
+appliance
+not requiring a
+vent
+in accordance with
+Section 501.8
+.
+The room or space complies with the following requirements:
+The return air shall be taken from a room or space having a volume exceeding 1
+cubic foot
+for each 10 Btu/h (9.6 L/W) of combined input rating of all fuel-burning
+appliances
+therein.
+The volume of supply air discharged back into the same space shall be approximately equal to the volume of return
+air
+taken from the space.
+Return-
+air
+inlets shall not be located within 10 feet (3048 mm) of a
+draft hood
+in the same room or space or the
+combustion chamber
+of any atmospheric
+burner
+appliance
+in the same room or space.
+Rooms or spaces containing solid fuel-burning
+appliances
+, provided that return-air inlets are located not less than 10 feet (3048 mm) from the firebox of such
+appliances
+.
+A closet, bathroom, toilet room, kitchen, garage,
+boiler
+room,
+furnace
+room or unconditioned attic.
+Exceptions:
+Where return air intakes are located not less than 10 feet (3048 mm) from cooking
+appliances
+and serve only the kitchen area, taking return air from a kitchen area shall not be prohibited.
+Dedicated forced-air systems serving only a garage shall not be prohibited from obtaining return air from the garage.
+A crawl space by means of direct connection to the return side of a forced-
+air
+system. Transfer openings in the crawl space enclosure shall not be prohibited.
+
+---
+
+Outdoor or return
+air
+for forced-
+air
+heating or forced-
+air
+heating and cooling systems shall not be taken from the following locations:
+Closer than 10 feet (3048 mm) from an
+appliance
+vent
+outlet
+, a
+vent
+opening from a plumbing drainage system or the discharge
+outlet
+of an
+exhaust
+fan, unless the
+outlet
+is 3 feet (914.4 mm) above the outside air inlet.
+Where there is the presence of objectionable odors, fumes or flammable vapors; or where located less than 10 feet (3048 mm) above the surface of any abutting public way or driveway; or where located at grade level by a sidewalk, street, alley or driveway.
+A hazardous or insanitary location or a refrigeration machinery room as defined in the
+New York City Mechanical Code
+.
+A room or space, the volume of which is less than 25 percent of the entire volume served by such system. Where connected by a permanent opening having an area sized in accordance with
+Section 618.2
+, adjoining rooms or spaces shall be considered as a single room or space for the purpose of determining the volume of such rooms or spaces.
+Exception:
+The minimum volume requirement shall not apply where the amount of return air taken from a room or space is less than or equal to the amount of supply air delivered to such room or space.
+A room or space containing an
+appliance
+where such a room or space serves as the sole source of return air.
+Exception:
+This shall not apply where:
+The
+appliance
+is a direct-
+vent
+appliance
+or an
+appliance
+not requiring a
+vent
+in accordance with
+Section 501.8
+.
+The room or space complies with the following requirements:
+The return air shall be taken from a room or space having a volume exceeding 1
+cubic foot
+for each 10 Btu/h (9.6 L/W) of combined input rating of all fuel-burning
+appliances
+therein.
+The volume of supply air discharged back into the same space shall be approximately equal to the volume of return
+air
+taken from the space.
+Return-
+air
+inlets shall not be located within 10 feet (3048 mm) of a
+draft hood
+in the same room or space or the
+combustion chamber
+of any atmospheric
+burner
+appliance
+in the same room or space.
+Rooms or spaces containing solid fuel-burning
+appliances
+, provided that return-air inlets are located not less than 10 feet (3048 mm) from the firebox of such
+appliances
+.
+A closet, bathroom, toilet room, kitchen, garage,
+boiler
+room,
+furnace
+room or unconditioned attic.
+Exceptions:
+Where return air intakes are located not less than 10 feet (3048 mm) from cooking
+appliances
+and serve only the kitchen area, taking return air from a kitchen area shall not be prohibited.
+Dedicated forced-air systems serving only a garage shall not be prohibited from obtaining return air from the garage.
+A crawl space by means of direct connection to the return side of a forced-
+air
+system. Transfer openings in the crawl space enclosure shall not be prohibited.
+
+---
+
+## Section 618.5: Screen
+
+618.5 Screen
+Required outdoor
+air
+inlets for residential portions of a building shall be covered with a screen having
+1
+/
+4
+-inch (6.4 mm) openings. Required outdoor
+air
+inlets serving a nonresidential portion of a building shall be covered with screen having openings larger than
+1
+/
+4
+inch (6.4 mm) and not larger than 1 inch (25.4 mm).
+
+---
+
+Required outdoor
+air
+inlets for residential portions of a building shall be covered with a screen having
+1
+/
+4
+-inch (6.4 mm) openings. Required outdoor
+air
+inlets serving a nonresidential portion of a building shall be covered with screen having openings larger than
+1
+/
+4
+inch (6.4 mm) and not larger than 1 inch (25.4 mm).
+
+---
+
+## Section 618.6: Return-Air Limitation
+
+618.6 Return-Air Limitation
+Return air from one
+dwelling unit
+shall not be discharged into another
+dwelling unit
+.
+
+---
+
+Return air from one
+dwelling unit
+shall not be discharged into another
+dwelling unit
+.
+
+---
+
+## Section 618.7: Furnace Plenums and Air Ducts
+
+618.7 Furnace Plenums and Air Ducts
+Where a
+furnace
+is installed so that supply
+ducts
+carry air circulated by the
+furnace
+to areas outside of the space containing the
+furnace
+, the return air shall be handled by a duct(s) sealed to the
+furnace
+casing and terminating outside of the space containing the
+furnace
+.
+
+---
+
+Where a
+furnace
+is installed so that supply
+ducts
+carry air circulated by the
+furnace
+to areas outside of the space containing the
+furnace
+, the return air shall be handled by a duct(s) sealed to the
+furnace
+casing and terminating outside of the space containing the
+furnace
+.
+
+---
+
+Section 619 Conversion Burners
+
+---
+
+## Section 619.1: Conversion Burners
+
+619.1 Conversion Burners
+The installation of
+conversion burners
+shall conform to ANSI Z21.8 and ASME CSD-1, including
+Appendix C
+.
+
+---
+
+The installation of
+conversion burners
+shall conform to ANSI Z21.8 and ASME CSD-1, including
+Appendix C
+.
+
+---
+
+Section 620 Unit Heaters
+
+---
+
+## Section 620.1: General
+
+620.1 General
+Unit heaters
+shall be tested in accordance with ANSI Z83.8/CSA 2.6 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Unit heaters
+shall be tested in accordance with ANSI Z83.8/CSA 2.6 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 620.2: Support
+
+620.2 Support
+Suspended-type
+unit heaters
+shall be supported by elements that are designed and constructed to accommodate the weight and dynamic loads. Hangers and brackets shall be of noncombustible material.
+
+---
+
+Suspended-type
+unit heaters
+shall be supported by elements that are designed and constructed to accommodate the weight and dynamic loads. Hangers and brackets shall be of noncombustible material.
+
+---
+
+## Section 620.3: Ductwork
+
+620.3 Ductwork
+Ducts
+shall not be connected to a
+unit heater
+unless the heater is listed for such installation.
+
+---
+
+Ducts
+shall not be connected to a
+unit heater
+unless the heater is listed for such installation.
+
+---
+
+## Section 620.4: Clearance
+
+620.4 Clearance
+Suspended-type
+unit heaters
+shall be installed with
+clearances
+to
+combustible materials
+of not less than 18 inches (457.2 mm) at the sides, 12 inches (304.8 mm) at the bottom and 6 inches (152.4 mm) above the top where the
+unit heater
+has an internal
+draft hood
+or 1 inch (25.4 mm) above the top of the sloping side of the vertical
+draft hood
+.
+Floor-mounted-type
+unit heaters
+shall be installed with
+clearances
+to
+combustible materials
+at the back and one side only of not less than 6 inches (152.4 mm). Where the
+flue gases
+are vented horizontally, the 6-inch (152.4 mm)
+clearance
+shall be measured from the
+draft hood
+or
+vent
+instead of the rear wall of the
+unit heater
+. Floor-mounted-type
+unit heaters
+shall not be installed on combustible floors unless listed for such installation.
+Clearances
+for servicing all
+unit heaters
+shall be in accordance with the manufacturer's instructions.
+Exception:
+Unit heaters
+listed for reduced
+clearance
+shall be permitted to be installed with such
+clearances
+in accordance with their listing and the manufacturer's instructions and as approved by the department.
+
+---
+
+Suspended-type
+unit heaters
+shall be installed with
+clearances
+to
+combustible materials
+of not less than 18 inches (457.2 mm) at the sides, 12 inches (304.8 mm) at the bottom and 6 inches (152.4 mm) above the top where the
+unit heater
+has an internal
+draft hood
+or 1 inch (25.4 mm) above the top of the sloping side of the vertical
+draft hood
+.
+Floor-mounted-type
+unit heaters
+shall be installed with
+clearances
+to
+combustible materials
+at the back and one side only of not less than 6 inches (152.4 mm). Where the
+flue gases
+are vented horizontally, the 6-inch (152.4 mm)
+clearance
+shall be measured from the
+draft hood
+or
+vent
+instead of the rear wall of the
+unit heater
+. Floor-mounted-type
+unit heaters
+shall not be installed on combustible floors unless listed for such installation.
+Clearances
+for servicing all
+unit heaters
+shall be in accordance with the manufacturer's instructions.
+Exception:
+Unit heaters
+listed for reduced
+clearance
+shall be permitted to be installed with such
+clearances
+in accordance with their listing and the manufacturer's instructions and as approved by the department.
+
+---
+
+## Section 620.5: Installation in Commercial Garages and Aircraft Hangars
+
+620.5 Installation in Commercial Garages and Aircraft Hangars
+Unit heaters
+installed in garages for more than three motor vehicles or in aircraft hangars shall be installed in accordance with Sections
+305.9
+,
+305.10
+and
+305.11
+.
+
+---
+
+Unit heaters
+installed in garages for more than three motor vehicles or in aircraft hangars shall be installed in accordance with Sections
+305.9
+,
+305.10
+and
+305.11
+.
+
+---
+
+Section 621 Unvented Room Heaters
+Assembly (1)
+
+---
+
+## Section 621.1: General
+
+621.1 General
+The installation of
+unvented room heaters
+is prohibited.
+
+---
+
+The installation of
+unvented room heaters
+is prohibited.
+
+---
+
+## Section 621.2: Reserved
+
+621.2 Reserved
+
+---
+
+## Section 621.3: Reserved
+
+621.3 Reserved
+
+---
+
+## Section 621.4: Reserved
+
+621.4 Reserved
+
+---
+
+## Section 621.5: Reserved
+
+621.5 Reserved
+
+---
+
+## Section 621.6: Reserved
+
+621.6 Reserved
+
+---
+
+## Section 621.7: Reserved
+
+621.7 Reserved
+
+---
+
+Section 622 Vented Room Heaters
+
+---
+
+## Section 622.1: General
+
+622.1 General
+Vented room heaters
+shall be tested in accordance with ANSI Z21.86/CSA 2.32, installed in accordance with the manufacturer's instructions, and shall be designed and equipped as specified
+in
+Section 602.2
+of this code.
+
+---
+
+Vented room heaters
+shall be tested in accordance with ANSI Z21.86/CSA 2.32, installed in accordance with the manufacturer's instructions, and shall be designed and equipped as specified
+in
+Section 602.2
+of this code.
+
+---
+
+Section 623 Cooking Appliances
+
+---
+
+## Section 623.1: Cooking Appliances
+
+623.1 Cooking Appliances
+Cooking
+appliances
+that are designed for permanent installation, including ranges, ovens, stoves,
+broilers
+, grills, fryers, griddles, hot plates and barbecues, shall be tested in accordance with ANSI Z21.1/CSA 6.5, ANSI Z21.58/CSA 1.6 or ANSI Z83.11/CSA 1.8 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Cooking
+appliances
+that are designed for permanent installation, including ranges, ovens, stoves,
+broilers
+, grills, fryers, griddles, hot plates and barbecues, shall be tested in accordance with ANSI Z21.1/CSA 6.5, ANSI Z21.58/CSA 1.6 or ANSI Z83.11/CSA 1.8 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 623.1.1: LPG
+
+623.1.1 LPG
+Except as may be permitted by the
+New York City Fire Code
+, cooking
+appliances
+using LPG are prohibited.
+
+---
+
+Except as may be permitted by the
+New York City Fire Code
+, cooking
+appliances
+using LPG are prohibited.
+
+---
+
+## Section 623.2: Prohibited Location
+
+623.2 Prohibited Location
+Cooking
+appliances
+designed, tested,
+listed and labeled
+for use in commercial occupancies shall not be installed within
+dwelling units
+or within any area where domestic cooking operations occur.
+Exception:
+Appliances
+that are also listed as domestic cooking
+appliances
+.
+
+---
+
+Cooking
+appliances
+designed, tested,
+listed and labeled
+for use in commercial occupancies shall not be installed within
+dwelling units
+or within any area where domestic cooking operations occur.
+Exception:
+Appliances
+that are also listed as domestic cooking
+appliances
+.
+
+---
+
+## Section 623.2.1: Barbeque Grills
+
+623.2.1 Barbeque Grills
+Barbeque grills piped to natural gas shall not be installed or operated within 10 feet (3048 mm) of any combustible waste or
+combustible material
+including combustible building surfaces, balconies and decks.
+
+---
+
+Barbeque grills piped to natural gas shall not be installed or operated within 10 feet (3048 mm) of any combustible waste or
+combustible material
+including combustible building surfaces, balconies and decks.
+
+---
+
+## Section 623.3: Domestic Appliances
+
+623.3 Domestic Appliances
+Cooking
+appliances
+installed within
+dwelling units
+and within areas where domestic cooking operations occur shall be
+listed and labeled
+as household-type
+appliances
+for domestic use.
+
+---
+
+Cooking
+appliances
+installed within
+dwelling units
+and within areas where domestic cooking operations occur shall be
+listed and labeled
+as household-type
+appliances
+for domestic use.
+
+---
+
+## Section 623.4: Domestic Range Installation
+
+623.4 Domestic Range Installation
+Domestic ranges installed on combustible floors shall be set on their own bases or legs and shall be installed with
+clearances
+of not less than that shown on the label.
+
+---
+
+Domestic ranges installed on combustible floors shall be set on their own bases or legs and shall be installed with
+clearances
+of not less than that shown on the label.
+
+---
+
+## Section 623.5: Open-Top Broiler Unit Hoods
+
+623.5 Open-Top Broiler Unit Hoods
+A ventilating hood shall be provided above a domestic open-top
+broiler
+unit, unless otherwise listed for forced down
+draft
+ventilation.
+
+---
+
+A ventilating hood shall be provided above a domestic open-top
+broiler
+unit, unless otherwise listed for forced down
+draft
+ventilation.
+
+---
+
+## Section 623.5.1: Clearances
+
+623.5.1 Clearances
+A minimum
+clearance
+of 24 inches (609.6 mm) shall be maintained between the cooking top and
+combustible material
+above the hood. The hood shall be at least as wide as the open-top
+broiler
+unit and be centered over the unit.
+
+---
+
+A minimum
+clearance
+of 24 inches (609.6 mm) shall be maintained between the cooking top and
+combustible material
+above the hood. The hood shall be at least as wide as the open-top
+broiler
+unit and be centered over the unit.
+
+---
+
+## Section 623.6: Commercial Cooking Appliance Venting
+
+623.6 Commercial Cooking Appliance Venting
+Commercial cooking
+appliances
+, other than those exempted by
+Section 501.8
+, shall be vented by connecting the
+appliance
+to a
+vent
+or
+chimney
+in accordance with this code and the
+appliance
+manufacturer's instructions or the
+appliance
+shall be vented in accordance with
+Section 505.1.1
+.
+
+---
+
+Commercial cooking
+appliances
+, other than those exempted by
+Section 501.8
+, shall be vented by connecting the
+appliance
+to a
+vent
+or
+chimney
+in accordance with this code and the
+appliance
+manufacturer's instructions or the
+appliance
+shall be vented in accordance with
+Section 505.1.1
+.
+
+---
+
+## Section 623.7: Domestic Ventilation
+
+623.7 Domestic Ventilation
+When a hood is provided for a domestic cooking
+appliance
+, the
+exhaust
+and make-up
+air
+systems shall be properly engineered and designed in accordance with
+Chapter 5
+of this code and the
+New York City Mechanical Code
+. Household cooking
+appliances
+shall have a vertical
+clearance
+above the cooking top of not less than 30 inches (760 mm) to
+combustible material
+and metal cabinets. A minimum
+clearance
+of 24 inches (609.6 mm), measured to the underside of the above cabinet or
+combustible material
+, is permitted where one of the following is installed:
+The underside of the
+combustible material
+or metal cabinet above the cooking top is protected with not less than
+1
+/
+4
+-inch (6.4 mm) insulating millboard covered with sheet metal not less than 0.0122 inch (0.3 mm) thick.
+A metal ventilating hood constructed of sheet metal not less than 0.0122 inch (0.3 mm) thick is installed above the cooking top with a
+clearance
+of not less than
+1
+/
+4
+inch (6.4 mm) between the hood and the underside of the
+combustible material
+or metal cabinet. The hood shall have a width not less than the width of the
+appliance
+and shall be centered over the
+appliance
+.
+A listed cooking
+appliance
+or microwave oven is installed over a listed cooking
+appliance
+and in compliance with the terms of the manufacturer's installation instructions for the upper
+appliance
+.
+
+---
+
+When a hood is provided for a domestic cooking
+appliance
+, the
+exhaust
+and make-up
+air
+systems shall be properly engineered and designed in accordance with
+Chapter 5
+of this code and the
+New York City Mechanical Code
+. Household cooking
+appliances
+shall have a vertical
+clearance
+above the cooking top of not less than 30 inches (760 mm) to
+combustible material
+and metal cabinets. A minimum
+clearance
+of 24 inches (609.6 mm), measured to the underside of the above cabinet or
+combustible material
+, is permitted where one of the following is installed:
+The underside of the
+combustible material
+or metal cabinet above the cooking top is protected with not less than
+1
+/
+4
+-inch (6.4 mm) insulating millboard covered with sheet metal not less than 0.0122 inch (0.3 mm) thick.
+A metal ventilating hood constructed of sheet metal not less than 0.0122 inch (0.3 mm) thick is installed above the cooking top with a
+clearance
+of not less than
+1
+/
+4
+inch (6.4 mm) between the hood and the underside of the
+combustible material
+or metal cabinet. The hood shall have a width not less than the width of the
+appliance
+and shall be centered over the
+appliance
+.
+A listed cooking
+appliance
+or microwave oven is installed over a listed cooking
+appliance
+and in compliance with the terms of the manufacturer's installation instructions for the upper
+appliance
+.
+
+---
+
+Section 624 Water Heaters
+
+---
+
+## Section 624.1: General
+
+624.1 General
+Water heaters
+shall be tested in accordance with ANSI Z21.10.1/CSA 4.1 and ANSI Z21.10.3/CSA 4.3 and shall be installed in accordance with the manufacturer's instructions.
+Water heaters
+utilizing fuels other than
+fuel gas
+shall be regulated by the
+New York City Mechanical Code
+. Approval for
+water heaters
+350,000 Btu/h input (
+102.6
+kW) and above shall be obtained from the New York City Department of Environmental Protection.
+
+---
+
+Water heaters
+shall be tested in accordance with ANSI Z21.10.1/CSA 4.1 and ANSI Z21.10.3/CSA 4.3 and shall be installed in accordance with the manufacturer's instructions.
+Water heaters
+utilizing fuels other than
+fuel gas
+shall be regulated by the
+New York City Mechanical Code
+. Approval for
+water heaters
+350,000 Btu/h input (
+102.6
+kW) and above shall be obtained from the New York City Department of Environmental Protection.
+
+---
+
+## Section 624.1.1: Installation Requirements
+
+624.1.1 Installation Requirements
+The requirements for
+water heaters
+relative to sizing,
+relief valves
+, drain pans and scald protection shall be in accordance with the
+New York City Plumbing Code
+and the following:
+No person shall install or maintain in any
+dwelling unit
+a gas fuel-fired
+water heater
+unless the heater obtains
+combustion air
+directly from the outside of the building.
+No person shall install or maintain a gas-fueled
+water heater
+in a room occupied for sleeping purposes, or cause or permit to be occupied for sleeping purposes any room in which a gas-fueled heater is installed.
+Each heater shall be connected to a
+flue
+or
+outlet
+pipe
+.
+
+---
+
+The requirements for
+water heaters
+relative to sizing,
+relief valves
+, drain pans and scald protection shall be in accordance with the
+New York City Plumbing Code
+and the following:
+No person shall install or maintain in any
+dwelling unit
+a gas fuel-fired
+water heater
+unless the heater obtains
+combustion air
+directly from the outside of the building.
+No person shall install or maintain a gas-fueled
+water heater
+in a room occupied for sleeping purposes, or cause or permit to be occupied for sleeping purposes any room in which a gas-fueled heater is installed.
+Each heater shall be connected to a
+flue
+or
+outlet
+pipe
+.
+
+---
+
+## Section 624.2: Water Heaters Utilized for Space Heating
+
+624.2 Water Heaters Utilized for Space Heating
+Water heaters
+utilized both to supply potable hot water and provide hot water for space-heating applications shall be
+listed and labeled
+for such applications by the manufacturer, and shall be built in accordance with Section IV of the ASME
+Boiler
+and Pressure Vessel Code with an "H" code stamp. They shall be installed in accordance with the manufacturer's instructions, the ASME
+Boiler
+and Pressure Vessel Code and the
+New York City Plumbing Code
+.
+
+---
+
+Water heaters
+utilized both to supply potable hot water and provide hot water for space-heating applications shall be
+listed and labeled
+for such applications by the manufacturer, and shall be built in accordance with Section IV of the ASME
+Boiler
+and Pressure Vessel Code with an "H" code stamp. They shall be installed in accordance with the manufacturer's instructions, the ASME
+Boiler
+and Pressure Vessel Code and the
+New York City Plumbing Code
+.
+
+---
+
+Section 625 Refrigerators
+
+---
+
+## Section 625.1: General
+
+625.1 General
+Refrigerators shall be tested in accordance with ANSI Z21.19/CSA 1.4 and shall be installed in accordance with the manufacturer's instructions.
+Refrigerators shall be provided with adequate
+clearances
+for ventilation at the top and back, and shall be installed in accordance with the manufacturer's instructions. If such instructions are not available, not less than 2 inches (50.8 mm) shall be provided between the back of the refrigerator and the wall and not less than 12 inches (304.8 mm) above the top.
+
+---
+
+Refrigerators shall be tested in accordance with ANSI Z21.19/CSA 1.4 and shall be installed in accordance with the manufacturer's instructions.
+Refrigerators shall be provided with adequate
+clearances
+for ventilation at the top and back, and shall be installed in accordance with the manufacturer's instructions. If such instructions are not available, not less than 2 inches (50.8 mm) shall be provided between the back of the refrigerator and the wall and not less than 12 inches (304.8 mm) above the top.
+
+---
+
+Section 626 Gas-Fired Toilets
+
+---
+
+## Section 626.1: General
+
+626.1 General
+Gas-fired toilets are not approved for use in New York City.
+
+---
+
+Gas-fired toilets are not approved for use in New York City.
+
+---
+
+## Section 626.2: Reserved
+
+626.2 Reserved
+
+---
+
+Section 627 Air Conditioning Appliances
+
+---
+
+## Section 627.1: General
+
+627.1 General
+Gas-fired
+air-conditioning
+appliances
+shall be tested in accordance with ANSI Z21.40.1/CGA 2.91 or ANSI Z21.40.2/CGA 2.92 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Gas-fired
+air-conditioning
+appliances
+shall be tested in accordance with ANSI Z21.40.1/CGA 2.91 or ANSI Z21.40.2/CGA 2.92 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 627.2: Independent Piping
+
+627.2 Independent Piping
+Gas piping
+serving heating
+appliances
+shall be permitted to also serve cooling
+appliances
+where such heating and cooling
+appliances
+cannot be operated simultaneously (see
+Section 402
+).
+
+---
+
+Gas piping
+serving heating
+appliances
+shall be permitted to also serve cooling
+appliances
+where such heating and cooling
+appliances
+cannot be operated simultaneously (see
+Section 402
+).
+
+---
+
+## Section 627.3: Connection of Gas Engine-Powered Air Conditioners
+
+627.3 Connection of Gas Engine-Powered Air Conditioners
+To protect against the effects of normal vibration in service, gas engines shall not be rigidly connected to the gas supply
+piping
+. Where units are powered by internal
+combustion
+engines and turbines, installation shall comply with
+Section 616.1
+.
+
+---
+
+To protect against the effects of normal vibration in service, gas engines shall not be rigidly connected to the gas supply
+piping
+. Where units are powered by internal
+combustion
+engines and turbines, installation shall comply with
+Section 616.1
+.
+
+---
+
+## Section 627.4: Clearances for Indoor Installation
+
+627.4 Clearances for Indoor Installation
+Air-conditioning
+appliances
+installed in rooms other
+than alcoves and closets shall be installed with
+clearances
+not less than those specified in Section
+308.3
+.
+Exceptions:
+Air-conditioning
+appliances
+listed for installation at lesser
+clearances
+than those specified
+in
+Section 308.3
+shall be permitted to be installed in accordance with such listing and the
+manufacturer's instructions.
+Air-conditioning
+appliances
+installed
+in rooms other than alcoves and closets shall be permitted to be installed with reduced
+clearances
+to
+combustible material
+, provided that the
+combustible material
+is protected in
+accordance with
+Table 308.2
+.
+Air-conditioning
+appliances
+listed for installation at greater
+clearances
+than those specified
+in
+Section 308.3
+shall be installed in accordance with such listing and the manufacturer's
+instructions.
+
+---
+
+Air-conditioning
+appliances
+installed in rooms other
+than alcoves and closets shall be installed with
+clearances
+not less than those specified in Section
+308.3
+.
+Exceptions:
+Air-conditioning
+appliances
+listed for installation at lesser
+clearances
+than those specified
+in
+Section 308.3
+shall be permitted to be installed in accordance with such listing and the
+manufacturer's instructions.
+Air-conditioning
+appliances
+installed
+in rooms other than alcoves and closets shall be permitted to be installed with reduced
+clearances
+to
+combustible material
+, provided that the
+combustible material
+is protected in
+accordance with
+Table 308.2
+.
+Air-conditioning
+appliances
+listed for installation at greater
+clearances
+than those specified
+in
+Section 308.3
+shall be installed in accordance with such listing and the manufacturer's
+instructions.
+
+---
+
+## Section 627.5: Alcove and Closet Installation
+
+627.5 Alcove and Closet Installation
+Air-conditioning
+appliances
+installed in spaces such as alcoves and closets shall be specifically listed for such installation and installed in accordance with the terms of such listing. The installation
+clearances
+for
+air-conditioning
+appliances
+in alcoves and closets shall not be reduced by the protection methods described in
+Table 308.2
+.
+
+---
+
+Air-conditioning
+appliances
+installed in spaces such as alcoves and closets shall be specifically listed for such installation and installed in accordance with the terms of such listing. The installation
+clearances
+for
+air-conditioning
+appliances
+in alcoves and closets shall not be reduced by the protection methods described in
+Table 308.2
+.
+
+---
+
+## Section 627.6: Installation
+
+627.6 Installation
+Air-conditioning
+appliances
+shall be installed in accordance with the manufacturer's instructions. Unless the
+appliance
+is listed for installation on a combustible surface such as a floor or roof, or unless the surface is protected in an approved manner, the
+appliance
+shall be installed on a surface of noncombustible construction with noncombustible material and surface finish and with no
+combustible material
+against the underside thereof.
+
+---
+
+Air-conditioning
+appliances
+shall be installed in accordance with the manufacturer's instructions. Unless the
+appliance
+is listed for installation on a combustible surface such as a floor or roof, or unless the surface is protected in an approved manner, the
+appliance
+shall be installed on a surface of noncombustible construction with noncombustible material and surface finish and with no
+combustible material
+against the underside thereof.
+
+---
+
+## Section 627.7: Plenums and Air Ducts
+
+627.7 Plenums and Air Ducts
+A plenum supplied as a part of the
+air-conditioning
+appliance
+shall be installed in accordance with the
+appliance
+manufacturer's instructions. Where a plenum is not supplied with the
+appliance
+, such plenum shall be installed in accordance with the fabrication and installation instructions provided by the plenum and
+appliance
+manufacturer. The method of connecting supply and return
+ducts
+shall facilitate proper circulation of
+air
+.
+Where the
+air-conditioning
+appliance
+is installed within a space separated from the spaces served by the
+appliance
+, the air circulated by the
+appliance
+shall be conveyed by
+ducts
+that are sealed to the casing of the
+appliance
+and that separate the circulating
+air
+from the
+combustion
+and ventilation
+air
+.
+
+---
+
+A plenum supplied as a part of the
+air-conditioning
+appliance
+shall be installed in accordance with the
+appliance
+manufacturer's instructions. Where a plenum is not supplied with the
+appliance
+, such plenum shall be installed in accordance with the fabrication and installation instructions provided by the plenum and
+appliance
+manufacturer. The method of connecting supply and return
+ducts
+shall facilitate proper circulation of
+air
+.
+Where the
+air-conditioning
+appliance
+is installed within a space separated from the spaces served by the
+appliance
+, the air circulated by the
+appliance
+shall be conveyed by
+ducts
+that are sealed to the casing of the
+appliance
+and that separate the circulating
+air
+from the
+combustion
+and ventilation
+air
+.
+
+---
+
+## Section 627.8: Refrigeration Coils
+
+627.8 Refrigeration Coils
+A refrigeration coil shall not be installed in conjunction with a forced-
+air
+furnace
+where circulation of cooled
+air
+is provided by the
+furnace
+blower, unless the blower has sufficient capacity to overcome the external static resistance imposed by the
+duct system
+and cooling coil at the air throughput necessary for heating or cooling, whichever is greater.
+Furnaces
+shall not be located upstream from cooling units, unless the cooling unit is designed or equipped so as not to develop excessive temperature or pressure. Refrigeration coils shall be installed in parallel with or on the downstream side of
+central furnaces
+to avoid condensation in the heating element, unless the
+furnace
+has been specifically listed for downstream installation. With a parallel flow arrangement, the
+dampers
+or other means used to
+control
+flow of air shall be sufficiently tight to prevent any circulation of cooled air through the
+furnace
+.
+Means shall be provided for disposal of
+condensate
+and to prevent dripping of
+condensate
+onto the heating element.
+
+---
+
+A refrigeration coil shall not be installed in conjunction with a forced-
+air
+furnace
+where circulation of cooled
+air
+is provided by the
+furnace
+blower, unless the blower has sufficient capacity to overcome the external static resistance imposed by the
+duct system
+and cooling coil at the air throughput necessary for heating or cooling, whichever is greater.
+Furnaces
+shall not be located upstream from cooling units, unless the cooling unit is designed or equipped so as not to develop excessive temperature or pressure. Refrigeration coils shall be installed in parallel with or on the downstream side of
+central furnaces
+to avoid condensation in the heating element, unless the
+furnace
+has been specifically listed for downstream installation. With a parallel flow arrangement, the
+dampers
+or other means used to
+control
+flow of air shall be sufficiently tight to prevent any circulation of cooled air through the
+furnace
+.
+Means shall be provided for disposal of
+condensate
+and to prevent dripping of
+condensate
+onto the heating element.
+
+---
+
+## Section 627.9: Cooling Units Used With Heating Boilers
+
+627.9 Cooling Units Used With Heating Boilers
+Boilers, where used in conjunction with refrigeration systems, shall be installed so that the chilled medium is piped in parallel with the heating boiler with appropriate
+valves
+to prevent the chilled medium from entering the heating
+boiler
+. Where
+hot water heating boilers
+are connected to heating coils located in
+air-handling units
+where they might be exposed to refrigerated air circulation, such boiler
+piping systems
+shall be equipped with flow
+control
+valves
+or other
+automatic
+means to prevent gravity circulation of the
+boiler
+water during the cooling cycle.
+
+---
+
+Boilers, where used in conjunction with refrigeration systems, shall be installed so that the chilled medium is piped in parallel with the heating boiler with appropriate
+valves
+to prevent the chilled medium from entering the heating
+boiler
+. Where
+hot water heating boilers
+are connected to heating coils located in
+air-handling units
+where they might be exposed to refrigerated air circulation, such boiler
+piping systems
+shall be equipped with flow
+control
+valves
+or other
+automatic
+means to prevent gravity circulation of the
+boiler
+water during the cooling cycle.
+
+---
+
+## Section 627.10: Switches in Electrical Supply Line
+
+627.10 Switches in Electrical Supply Line
+Means for interrupting the electrical supply to the
+air-conditioning
+appliance
+and to its associated cooling tower (if supplied and installed in a location remote from the
+air conditioner
+) shall be provided within sight of and not over 50 feet (15 240 mm) from the
+air conditioner
+and cooling tower.
+
+---
+
+Means for interrupting the electrical supply to the
+air-conditioning
+appliance
+and to its associated cooling tower (if supplied and installed in a location remote from the
+air conditioner
+) shall be provided within sight of and not over 50 feet (15 240 mm) from the
+air conditioner
+and cooling tower.
+
+---
+
+Section 628 Illuminating Appliances
+
+---
+
+## Section 628.1: General
+
+628.1 General
+Illuminating
+appliances
+shall be tested in accordance with ANSI Z21.42 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Illuminating
+appliances
+shall be tested in accordance with ANSI Z21.42 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 628.2: Mounting on Buildings
+
+628.2 Mounting on Buildings
+Illuminating
+appliances
+designed for wall or ceiling mounting shall be securely attached to substantial structures in such a manner that they are not dependent on the
+gas piping
+for
+support
+.
+
+---
+
+Illuminating
+appliances
+designed for wall or ceiling mounting shall be securely attached to substantial structures in such a manner that they are not dependent on the
+gas piping
+for
+support
+.
+
+---
+
+## Section 628.3: Mounting on Posts
+
+628.3 Mounting on Posts
+Illuminating
+appliances
+designed for post mounting shall be securely and rigidly attached to a post. Posts shall be rigidly mounted in accordance with the requirements of the
+New York City Building Code
+. Drain openings shall be provided near the base of posts where there is a possibility of water collecting inside them.
+
+---
+
+Illuminating
+appliances
+designed for post mounting shall be securely and rigidly attached to a post. Posts shall be rigidly mounted in accordance with the requirements of the
+New York City Building Code
+. Drain openings shall be provided near the base of posts where there is a possibility of water collecting inside them.
+
+---
+
+## Section 628.4: Appliance Pressure Regulators
+
+628.4 Appliance Pressure Regulators
+Where an
+appliance
+pressure regulator
+is not supplied with an illuminating
+appliance
+and the service line is not equipped with a
+service pressure regulator
+, an
+appliance
+pressure regulator
+shall be installed in the line to the illuminating
+appliance
+. For multiple installations, one
+regulator
+of adequate capacity shall be permitted to serve more than one illuminating
+appliance
+.
+
+---
+
+Where an
+appliance
+pressure regulator
+is not supplied with an illuminating
+appliance
+and the service line is not equipped with a
+service pressure regulator
+, an
+appliance
+pressure regulator
+shall be installed in the line to the illuminating
+appliance
+. For multiple installations, one
+regulator
+of adequate capacity shall be permitted to serve more than one illuminating
+appliance
+.
+
+---
+
+Section 629 Ceramic Kilns
+
+---
+
+## Section 629.1: General
+
+629.1 General
+Kilns shall be listed and
+labeled unless otherwise approved in accordance with
+Section 105.1
+. Electric kilns shall comply
+with UL 499. The approval of unlisted
+appliances
+in accordance with
+Section 105.1
+shall be based
+on an approved engineering evaluation.
+
+---
+
+Kilns shall be listed and
+labeled unless otherwise approved in accordance with
+Section 105.1
+. Electric kilns shall comply
+with UL 499. The approval of unlisted
+appliances
+in accordance with
+Section 105.1
+shall be based
+on an approved engineering evaluation.
+
+---
+
+Section 630 Infrared Radiant Heaters
+
+---
+
+## Section 630.1: General
+
+630.1 General
+Infrared radiant heaters
+shall be tested in accordance with ANSI Z83.19/CSA 2.35 or ANSI Z83.20/CSA 2.34 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Infrared radiant heaters
+shall be tested in accordance with ANSI Z83.19/CSA 2.35 or ANSI Z83.20/CSA 2.34 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 630.2: Support
+
+630.2 Support
+Infrared radiant heaters
+shall be safely and adequately fixed in an approved position independent of gas and electric supply lines. Hangers and brackets shall be of noncombustible material.
+
+---
+
+Infrared radiant heaters
+shall be safely and adequately fixed in an approved position independent of gas and electric supply lines. Hangers and brackets shall be of noncombustible material.
+
+---
+
+## Section 630.3: Combustion and Ventilation Air
+
+630.3 Combustion and Ventilation Air
+Where unvented infrared heaters are installed, natural or mechanical means shall provide outdoor ventilation
+air
+at a rate of not less than 4 cfm per 1,000 Btu/h (0.38 m
+3
+/min/kW) of the aggregate input rating of all such heaters installed in the space.
+Exhaust
+openings for removing
+flue
+products shall be above the level of the heaters.
+
+---
+
+Where unvented infrared heaters are installed, natural or mechanical means shall provide outdoor ventilation
+air
+at a rate of not less than 4 cfm per 1,000 Btu/h (0.38 m
+3
+/min/kW) of the aggregate input rating of all such heaters installed in the space.
+Exhaust
+openings for removing
+flue
+products shall be above the level of the heaters.
+
+---
+
+## Section 630.4: Installation in Commercial Garages and Air-Craft Hangars
+
+630.4 Installation in Commercial Garages and Air-Craft Hangars
+Overhead infrared heaters installed in garages for more than three motor vehicles or in aircraft hangars shall be installed in accordance with Sections
+305.9
+,
+305.10
+and
+305.11
+.
+
+---
+
+Overhead infrared heaters installed in garages for more than three motor vehicles or in aircraft hangars shall be installed in accordance with Sections
+305.9
+,
+305.10
+and
+305.11
+.
+
+---
+
+Section 631 Boilers
+
+---
+
+## Section 631.1: Standards
+
+631.1 Standards
+Boilers shall be listed in accordance with the requirements of ANSI Z21.13/CSA 4.9 or UL 795. If applicable, the boiler shall be designed and constructed in accordance with the requirements of ASME CSD-1 and as applicable, the
+ASME
+Boiler
+and Pressure Vessel Code
+, Sections I, II, IV , V, VI and IX and NFPA 85.
+Low-pressure boilers
+shall conform to the requirements of 12 NYCRR Part 4 and
+high-pressure boilers
+shall conform to the requirements of 12 NYCRR Part 14.
+
+---
+
+Boilers shall be listed in accordance with the requirements of ANSI Z21.13/CSA 4.9 or UL 795. If applicable, the boiler shall be designed and constructed in accordance with the requirements of ASME CSD-1 and as applicable, the
+ASME
+Boiler
+and Pressure Vessel Code
+, Sections I, II, IV , V, VI and IX and NFPA 85.
+Low-pressure boilers
+shall conform to the requirements of 12 NYCRR Part 4 and
+high-pressure boilers
+shall conform to the requirements of 12 NYCRR Part 14.
+
+---
+
+## Section 631.2: Installation
+
+631.2 Installation
+In addition to the requirements of this code, the installation of boilers shall be in accordance with the manufacturer's instructions and the
+New York City Mechanical Code
+. Operating instructions of a permanent type shall be attached to the boiler. Spill switches must be installed on all
+flue
+gas
+draft
+openings and interlocked with all
+vented appliances
+. Boilers shall have all
+controls
+set, adjusted and tested by the installer. A complete
+control
+diagram together with complete boiler operating instructions shall be furnished by the installer. The manufacturer's rating data and the nameplate shall be attached to the boiler.
+
+---
+
+In addition to the requirements of this code, the installation of boilers shall be in accordance with the manufacturer's instructions and the
+New York City Mechanical Code
+. Operating instructions of a permanent type shall be attached to the boiler. Spill switches must be installed on all
+flue
+gas
+draft
+openings and interlocked with all
+vented appliances
+. Boilers shall have all
+controls
+set, adjusted and tested by the installer. A complete
+control
+diagram together with complete boiler operating instructions shall be furnished by the installer. The manufacturer's rating data and the nameplate shall be attached to the boiler.
+
+---
+
+## Section 631.3: Clearance to Combustible Materials
+
+631.3 Clearance to Combustible Materials
+Clearances
+to
+combustible materials
+shall be in accordance with
+Section 308.4
+.
+
+---
+
+Clearances
+to
+combustible materials
+shall be in accordance with
+Section 308.4
+.
+
+---
+
+Section 632 Equipment Installed in Existing Unlisted Boilers
+
+---
+
+## Section 632.1: General
+
+632.1 General
+Gas
+equipment
+installed in existing
+unlisted boilers
+shall comply with
+Section 631.1
+and shall be installed in accordance with the manufacturer's instructions and the
+New York City Mechanical Code
+.
+
+---
+
+Gas
+equipment
+installed in existing
+unlisted boilers
+shall comply with
+Section 631.1
+and shall be installed in accordance with the manufacturer's instructions and the
+New York City Mechanical Code
+.
+
+---
+
+Section 633 Stationary Fuel Cell Power Systems
+
+---
+
+## Section 633.1: General
+
+633.1 General
+Stationary fuel cell
+power
+systems having a
+power
+output not exceeding 10 MW shall be tested in accordance with ANSI/CSA America FC 1 and shall be installed in accordance with the manufacturer's instructions, NFPA 853, the
+New York City Building Code
+,
+the
+New York City Fire Code
+and the
+New York City Electrical Code
+. Indoor stationary fuel cell
+power
+systems used in hydrogen generating systems shall be located in accordance with the requirements of
+Section 706
+of this code.
+
+---
+
+Stationary fuel cell
+power
+systems having a
+power
+output not exceeding 10 MW shall be tested in accordance with ANSI/CSA America FC 1 and shall be installed in accordance with the manufacturer's instructions, NFPA 853, the
+New York City Building Code
+,
+the
+New York City Fire Code
+and the
+New York City Electrical Code
+. Indoor stationary fuel cell
+power
+systems used in hydrogen generating systems shall be located in accordance with the requirements of
+Section 706
+of this code.
+
+---
+
+Section 634 Chimney Damper Opening Area
+
+---
+
+## Section 634.1: Free Opening Area of Chimney Dampers
+
+634.1 Free Opening Area of Chimney Dampers
+Where an unlisted
+decorative appliance
+for installation in a vented
+fireplace
+is installed, the
+fireplace
+damper
+shall have a permanent free opening equal to or greater than specified in Table 634.1.
+TABLE 634.1
+FREE OPENING AREA OF
+CHIMNEY
+DAMPER
+FOR VENTING
+FLUE GASES
+FROM UNLISTED
+DECORATIVE APPLIANCES FOR INSTALLATION IN VENTED FIREPLACES
+CHIMNEY
+HEIGHT
+(feet)
+MINIMUM PERMANENT FREE OPENING (square inches)
+a
+8
+13
+20
+29
+39
+51
+64
+Appliance
+input rating (Btu per hour)
+6
+7,800
+14,000
+23,200
+34,000
+46,400
+62,400
+80,000
+8
+8,400
+15,200
+25,200
+37,000
+50,400
+68,000
+86,000
+10
+9,000
+16,800
+27,600
+40,400
+55,800
+74,400
+96,400
+15
+9,800
+18,200
+30,200
+44,600
+62,400
+84,000
+108,800
+20
+10,600
+20,200
+32,600
+50,400
+68,400
+94,000
+122,200
+30
+11,200
+21,600
+36,600
+55,200
+76,800
+105,800
+138,600
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm, 1 square inch = 645.16m
+2
+, 1 British thermal unit per hour = 0.2931 W.
+The first six minimum permanent free openings (8 to 51 square inches) correspond approximately to the cross-sectional areas of
+chimneys
+having diameters of 3 through 8 inches, respectively. The 64-square-inch opening corresponds to the cross-sectional area of standard 8-inch by 8-inch
+chimney
+tile.
+
+---
+
+Where an unlisted
+decorative appliance
+for installation in a vented
+fireplace
+is installed, the
+fireplace
+damper
+shall have a permanent free opening equal to or greater than specified in Table 634.1.
+TABLE 634.1
+FREE OPENING AREA OF
+CHIMNEY
+DAMPER
+FOR VENTING
+FLUE GASES
+FROM UNLISTED
+DECORATIVE APPLIANCES FOR INSTALLATION IN VENTED FIREPLACES
+CHIMNEY
+HEIGHT
+(feet)
+MINIMUM PERMANENT FREE OPENING (square inches)
+a
+8
+13
+20
+29
+39
+51
+64
+Appliance
+input rating (Btu per hour)
+6
+7,800
+14,000
+23,200
+34,000
+46,400
+62,400
+80,000
+8
+8,400
+15,200
+25,200
+37,000
+50,400
+68,000
+86,000
+10
+9,000
+16,800
+27,600
+40,400
+55,800
+74,400
+96,400
+15
+9,800
+18,200
+30,200
+44,600
+62,400
+84,000
+108,800
+20
+10,600
+20,200
+32,600
+50,400
+68,400
+94,000
+122,200
+30
+11,200
+21,600
+36,600
+55,200
+76,800
+105,800
+138,600
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm, 1 square inch = 645.16m
+2
+, 1 British thermal unit per hour = 0.2931 W.
+The first six minimum permanent free openings (8 to 51 square inches) correspond approximately to the cross-sectional areas of
+chimneys
+having diameters of 3 through 8 inches, respectively. The 64-square-inch opening corresponds to the cross-sectional area of standard 8-inch by 8-inch
+chimney
+tile.
+
+---
+
+Section 635 Gaseous Hydrogen Systems
+
+---
+
+## Section 635.1: Installation
+
+635.1 Installation
+The installation of gaseous hydrogen systems shall be in accordance with the applicable requirements of the
+New York City Fire Code
+, the
+New York City Building Code
+, and
+Chapter 7
+of this code.
+
+---
+
+The installation of gaseous hydrogen systems shall be in accordance with the applicable requirements of the
+New York City Fire Code
+, the
+New York City Building Code
+, and
+Chapter 7
+of this code.
+
+---
+
+Section 636 Outdoor Decorative Appliances
+
+---
+
+## Section 636.1: General
+
+636.1 General
+Permanently fixed-in-place outdoor decorative
+appliances
+shall be tested in
+accordance with ANSI Z21.97/CSA 2.41 and shall be installed in accordance with the
+manufacturer's instructions.
+
+---
+
+Permanently fixed-in-place outdoor decorative
+appliances
+shall be tested in
+accordance with ANSI Z21.97/CSA 2.41 and shall be installed in accordance with the
+manufacturer's instructions.
+
+---
+

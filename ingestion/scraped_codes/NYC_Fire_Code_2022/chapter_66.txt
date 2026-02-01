@@ -1,0 +1,994 @@
+# NYC Fire Code 2022 - Chapter 66
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+6601 General
+
+---
+
+6602 Definitions
+
+---
+
+6603 General Requirements
+
+---
+
+6604 Storage
+
+---
+
+6605 Handling and Use
+
+---
+
+6606 Manufacturing Restrictions
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Section 6601 General
+
+---
+
+## Section 6601.1: Scope
+
+6601.1 Scope
+This chapter shall govern the manufacture, storage,
+handling
+and use of unstable (reactive) materials, except for the display and storage of unstable (reactive) materials in
+Group M
+and storage of unstable (reactive) materials in
+Group S
+occupancies
+complying with the requirements of
+FC5003.11
+.
+
+---
+
+This chapter shall govern the manufacture, storage,
+handling
+and use of unstable (reactive) materials, except for the display and storage of unstable (reactive) materials in
+Group M
+and storage of unstable (reactive) materials in
+Group S
+occupancies
+complying with the requirements of
+FC5003.11
+.
+
+---
+
+## Section 6601.2: Permits
+
+6601.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 6601.3: General
+
+6601.3 General
+Unstable (reactive) materials shall be manufactured, stored, handled and used in accordance with this chapter. Unstable (reactive) materials that are compressed gases shall additionally comply with the requirements of
+FC Chapter 53
+.
+
+---
+
+Unstable (reactive) materials shall be manufactured, stored, handled and used in accordance with this chapter. Unstable (reactive) materials that are compressed gases shall additionally comply with the requirements of
+FC Chapter 53
+.
+
+---
+
+## Section 6601.4: Prohibited Manufacture, Storage, Handling and Use
+
+6601.4 Prohibited Manufacture, Storage, Handling and Use
+It shall be unlawful to manufacture, store, handle and/or use detonable unstable (reactive) materials except as specifically authorized by
+FC Chapter 56
+.
+
+---
+
+It shall be unlawful to manufacture, store, handle and/or use detonable unstable (reactive) materials except as specifically authorized by
+FC Chapter 56
+.
+
+---
+
+## Section 6601.5: Supervision
+
+6601.5 Supervision
+The
+handling
+and use of unstable (reactive) materials in quantities requiring a
+permit
+shall be under the
+personal supervision
+of a
+certificate of fitness
+holder. The storage of unstable (reactive) materials in quantities requiring a
+permit
+shall be under the
+general supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+The
+handling
+and use of unstable (reactive) materials in quantities requiring a
+permit
+shall be under the
+personal supervision
+of a
+certificate of fitness
+holder. The storage of unstable (reactive) materials in quantities requiring a
+permit
+shall be under the
+general supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+Section 6602 Definitions
+
+---
+
+## Section 6602.1: Definition
+
+6602.1 Definition
+The following term shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+UNSTABLE (REACTIVE) MATERIAL
+.
+
+---
+
+The following term shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+UNSTABLE (REACTIVE) MATERIAL
+.
+
+---
+
+Section 6603 General Requirements
+
+---
+
+## Section 6603.1: Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+
+6603.1 Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+The storage,
+handling
+and use of unstable (reactive) materials in amounts not exceeding the
+maximum allowable quantity per control area
+indicated in
+FC5003.1
+shall be in accordance with
+FC 5001
+,
+5003
+,
+6601
+,
+6603
+and 6606.
+
+---
+
+The storage,
+handling
+and use of unstable (reactive) materials in amounts not exceeding the
+maximum allowable quantity per control area
+indicated in
+FC5003.1
+shall be in accordance with
+FC 5001
+,
+5003
+,
+6601
+,
+6603
+and 6606.
+
+---
+
+## Section 6603.1.1: Prohibited Indoor Storage, Handling and Use by Occupancy
+
+6603.1.1 Prohibited Indoor Storage, Handling and Use by Occupancy
+It shall be unlawful to store, handle or use:
+Class 3 and 4 unstable (reactive) materials in
+Group A
+, E, I, R or U
+occupancies
+.
+Class 3 and 4 unstable (reactive) materials in offices in
+Group B
+, F, M or S
+occupancies
+, or any other areas of such
+occupancies
+that are accessible to the public.
+
+---
+
+It shall be unlawful to store, handle or use:
+Class 3 and 4 unstable (reactive) materials in
+Group A
+, E, I, R or U
+occupancies
+.
+Class 3 and 4 unstable (reactive) materials in offices in
+Group B
+, F, M or S
+occupancies
+, or any other areas of such
+occupancies
+that are accessible to the public.
+
+---
+
+## Section 6603.2: Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+
+6603.2 Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+The storage,
+handling
+and use of unstable (reactive) materials in amounts exceeding the
+maximum allowable quantity per control area
+indicated in
+FC5003.1
+shall be in accordance with
+FC Chapter 50
+and this chapter.
+
+---
+
+The storage,
+handling
+and use of unstable (reactive) materials in amounts exceeding the
+maximum allowable quantity per control area
+indicated in
+FC5003.1
+shall be in accordance with
+FC Chapter 50
+and this chapter.
+
+---
+
+## Section 6603.3: Multiple Hazard Sign
+
+6603.3 Multiple Hazard Sign
+Where two or more classes of unstable (reactive) materials are stored in immediate proximity to one another, such area shall be provided with hazard identification signs pursuant to
+FC Chapter 50
+for the most severe class present.
+
+---
+
+Where two or more classes of unstable (reactive) materials are stored in immediate proximity to one another, such area shall be provided with hazard identification signs pursuant to
+FC Chapter 50
+for the most severe class present.
+
+---
+
+## Section 6603.4: Multiple Class Storage
+
+6603.4 Multiple Class Storage
+Except as otherwise specifically provided in this code, where more than one class of unstable (reactive) materials is stored in the same
+control area
+, the maximum quantity allowed of each
+unstable (reactive) material
+shall be limited as follows: the maximum quantity shall be reduced by multiplying the maximum allowable quantity for each such material by the proportion that such material bears to the total quantity of
+unstable (reactive) material
+stored in the
+control area
+. The total of the proportional amounts shall not exceed 100 percent.
+
+---
+
+Except as otherwise specifically provided in this code, where more than one class of unstable (reactive) materials is stored in the same
+control area
+, the maximum quantity allowed of each
+unstable (reactive) material
+shall be limited as follows: the maximum quantity shall be reduced by multiplying the maximum allowable quantity for each such material by the proportion that such material bears to the total quantity of
+unstable (reactive) material
+stored in the
+control area
+. The total of the proportional amounts shall not exceed 100 percent.
+
+---
+
+## Section 6603.5: Temperature-Sensitive Material
+
+6603.5 Temperature-Sensitive Material
+Where the required storage temperature range, as specified by the manufacturer, extends beyond normal ambient temperatures, high or low temperature limit switches, as applicable, shall be provided in addition to normal temperature controls. These limit switches shall activate an alarm in a supervised area to ensure reporting to the
+fire
+department
+.
+
+---
+
+Where the required storage temperature range, as specified by the manufacturer, extends beyond normal ambient temperatures, high or low temperature limit switches, as applicable, shall be provided in addition to normal temperature controls. These limit switches shall activate an alarm in a supervised area to ensure reporting to the
+fire
+department
+.
+
+---
+
+Section 6604 Storage
+
+---
+
+## Section 6604.1: Indoor Storage
+
+6604.1 Indoor Storage
+Indoor
+storage of unstable (reactive) materials in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(1)
+shall be in accordance with
+FC 5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+Indoor
+storage of unstable (reactive) materials in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(1)
+shall be in accordance with
+FC 5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+## Section 6604.1.1: Detached Storage
+
+6604.1.1 Detached Storage
+Storage of unstable (reactive) materials shall be in a
+detached building
+when required in
+FC5003.8.2
+.
+
+---
+
+Storage of unstable (reactive) materials shall be in a
+detached building
+when required in
+FC5003.8.2
+.
+
+---
+
+## Section 6604.1.2: Explosion Control
+
+6604.1.2 Explosion Control
+Indoor
+storage rooms, areas and buildings containing Class 3 or 4 unstable (reactive) materials shall be provided with
+explosion
+control in accordance with
+FC911
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Indoor
+storage rooms, areas and buildings containing Class 3 or 4 unstable (reactive) materials shall be provided with
+explosion
+control in accordance with
+FC911
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 6604.1.3: Liquid-Tight Floor
+
+6604.1.3 Liquid-Tight Floor
+In addition to
+FC5004.12
+, floors of storage areas for
+liquids
+and
+solids
+shall be of
+liquid-tight construction
+.
+
+---
+
+In addition to
+FC5004.12
+, floors of storage areas for
+liquids
+and
+solids
+shall be of
+liquid-tight construction
+.
+
+---
+
+## Section 6604.1.4: Storage Configuration
+
+6604.1.4 Storage Configuration
+Unstable (reactive) materials stored in quantities greater than 500 cubic feet (14 m
+3
+) shall be separated into piles, each not larger than 500 cubic feet (14 m
+3
+). Aisle width shall not be less than the height of the piles or 4 feet (1219 mm), whichever is greater.
+Exception:
+Materials stored in
+tanks
+.
+
+---
+
+Unstable (reactive) materials stored in quantities greater than 500 cubic feet (14 m
+3
+) shall be separated into piles, each not larger than 500 cubic feet (14 m
+3
+). Aisle width shall not be less than the height of the piles or 4 feet (1219 mm), whichever is greater.
+Exception:
+Materials stored in
+tanks
+.
+
+---
+
+## Section 6604.1.5: Location
+
+6604.1.5 Location
+Unstable (reactive) materials shall not be stored in basements or other areas below grade.
+
+---
+
+Unstable (reactive) materials shall not be stored in basements or other areas below grade.
+
+---
+
+## Section 6604.1.6: Smoke and Heat Venting
+
+6604.1.6 Smoke and Heat Venting
+Smoke and heat venting shall be provided in accordance with
+FC910
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Smoke and heat venting shall be provided in accordance with
+FC910
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 6604.2: Outdoor Storage
+
+6604.2 Outdoor Storage
+Outdoor storage of unstable (reactive) materials in amounts exceeding the maximum allowable quantities per
+control area
+indicated in FC
+Table 5003.1.1(3)
+shall be in accordance with
+FC 5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+Outdoor storage of unstable (reactive) materials in amounts exceeding the maximum allowable quantities per
+control area
+indicated in FC
+Table 5003.1.1(3)
+shall be in accordance with
+FC 5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+## Section 6604.2.1: Distance to Exposures From Class 3 and 4 (Detonable) Material Outdoor Storage Areas
+
+6604.2.1 Distance to Exposures From Class 3 and 4 (Detonable) Material Outdoor Storage Areas
+Outdoor storage of Class 3 (detonable) or 4
+unstable (reactive) material
+shall be in accordance with FC
+Table 5604.5.2(3)
+. The number of pounds of material listed in the table shall be the
+net weight
+of the material present. Alternatively, the number of pounds of material shall be based on a trinitrotoluene (TNT) equivalent weight.
+
+---
+
+Outdoor storage of Class 3 (detonable) or 4
+unstable (reactive) material
+shall be in accordance with FC
+Table 5604.5.2(3)
+. The number of pounds of material listed in the table shall be the
+net weight
+of the material present. Alternatively, the number of pounds of material shall be based on a trinitrotoluene (TNT) equivalent weight.
+
+---
+
+## Section 6604.2.2: Distance to Exposures From Class 3 (Deflagratable) Material Outdoor Storage Areas
+
+6604.2.2 Distance to Exposures From Class 3 (Deflagratable) Material Outdoor Storage Areas
+Outdoor storage of deflagratable Class
+3
+unstable (reactive) materials shall be in accordance with FC
+Table 5604.5.2(4)
+. The number of pounds of material listed shall be the
+net weight
+of the material present.
+
+---
+
+Outdoor storage of deflagratable Class
+3
+unstable (reactive) materials shall be in accordance with FC
+Table 5604.5.2(4)
+. The number of pounds of material listed shall be the
+net weight
+of the material present.
+
+---
+
+## Section 6604.2.3: Distance to Exposures From Class 1 and 2 Material Outdoor Storage Areas
+
+6604.2.3 Distance to Exposures From Class 1 and 2 Material Outdoor Storage Areas
+Outdoor storage of Class 1 or 2 unstable (reactive) materials shall not be within 20 feet (6096 mm) of buildings not associated with the manufacture or distribution of such materials, lot lines,
+public streets
+,
+private roads
+or
+means of egress
+. The minimum required distance shall not apply when
+fire
+barriers that have no openings or penetrations and have a minimum
+fire
+-resistance rating of 2 hours interrupt the line of sight between the storage and the exposure. The
+fire
+barrier shall either be an independent structure, or the exterior wall of the building adjacent to the storage area.
+Assemblies (2)
+
+---
+
+Outdoor storage of Class 1 or 2 unstable (reactive) materials shall not be within 20 feet (6096 mm) of buildings not associated with the manufacture or distribution of such materials, lot lines,
+public streets
+,
+private roads
+or
+means of egress
+. The minimum required distance shall not apply when
+fire
+barriers that have no openings or penetrations and have a minimum
+fire
+-resistance rating of 2 hours interrupt the line of sight between the storage and the exposure. The
+fire
+barrier shall either be an independent structure, or the exterior wall of the building adjacent to the storage area.
+
+---
+
+## Section 6604.2.4: Storage Configuration
+
+6604.2.4 Storage Configuration
+Piles of unstable (reactive) materials shall not exceed 1,000 cubic feet (28 m
+3
+).
+
+---
+
+Piles of unstable (reactive) materials shall not exceed 1,000 cubic feet (28 m
+3
+).
+
+---
+
+## Section 6604.2.5: Aisle Widths
+
+6604.2.5 Aisle Widths
+Aisle widths between piles shall not be less than one-half the height of the pile or 10 feet (3048 mm), whichever is greater.
+
+---
+
+Aisle widths between piles shall not be less than one-half the height of the pile or 10 feet (3048 mm), whichever is greater.
+
+---
+
+Section 6605 Handling and Use
+
+---
+
+## Section 6605.1: General
+
+6605.1 General
+Unstable (reactive) materials in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(1)
+or
+5003.1.1(3)
+shall be handled and used in accordance with
+FC 5001
+,
+5003
+,
+5005
+and this chapter.
+
+---
+
+Unstable (reactive) materials in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(1)
+or
+5003.1.1(3)
+shall be handled and used in accordance with
+FC 5001
+,
+5003
+,
+5005
+and this chapter.
+
+---
+
+Section 6606 Manufacturing Restrictions
+
+---
+
+## Section 6606.1: Unstable (Reactive) Material Classified as a Class IV Material
+
+6606.1 Unstable (Reactive) Material Classified as a Class IV Material
+Unstable (reactive) material
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+may be utilized in manufacturing processes or other production in manufacturing districts only when authorized by a special
+permit
+pursuant to Section 42-276 of the
+Zoning Resolution
+.
+
+---
+
+Unstable (reactive) material
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+may be utilized in manufacturing processes or other production in manufacturing districts only when authorized by a special
+permit
+pursuant to Section 42-276 of the
+Zoning Resolution
+.
+
+---
+
+## Section 6606.1.1: Manufacture of Unstable (Reactive) Material Classified as a Class IV Material
+
+6606.1.1 Manufacture of Unstable (Reactive) Material Classified as a Class IV Material
+It is unlawful to manufacture
+unstable (reactive) material
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+.
+
+---
+
+It is unlawful to manufacture
+unstable (reactive) material
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+.
+
+---
+
+## Section 6606.1.2: Storage of Unstable (Reactive) Materials Classified as a Class IV Material
+
+6606.1.2 Storage of Unstable (Reactive) Materials Classified as a Class IV Material
+It shall be unlawful to store
+unstable (reactive) material
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+, except that accessory storage authorized by a special
+permit
+pursuant to Section 42-276 of the
+Zoning Resolution
+shall be allowed.
+
+---
+
+It shall be unlawful to store
+unstable (reactive) material
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+, except that accessory storage authorized by a special
+permit
+pursuant to Section 42-276 of the
+Zoning Resolution
+shall be allowed.
+
+---
+

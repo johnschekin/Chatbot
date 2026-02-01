@@ -1,0 +1,2449 @@
+# NYC Building Code 2022 - Chapter 22
+
+New York City Building Code 2022
+
+---
+
+Dedications
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 Use and Occupancy Classification
+
+---
+
+Chapter 4 Special Detailed Requirements Based on Use and Occupancy
+
+---
+
+Chapter 5 General Building Heights and Areas; Separation of Occupancies
+
+---
+
+Chapter 6 Types of Construction
+
+---
+
+Chapter 7 Fire and Smoke Protection Features
+
+---
+
+Chapter 8 Interior Finishes
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Accessibility
+
+---
+
+Chapter 12 Interior Environment
+
+---
+
+Chapter 13 Energy Efficiency
+
+---
+
+Chapter 14 Exterior Walls
+
+---
+
+Chapter 15 Roof Assemblies and Rooftop Structures
+
+---
+
+Chapter 16 Structural Design
+
+---
+
+Chapter 17 Special Inspections and Tests
+
+---
+
+Chapter 18 Soils and Foundations
+
+---
+
+Chapter 19 Concrete
+
+---
+
+Chapter 20 Aluminum
+
+---
+
+Chapter 21 Masonry
+
+---
+
+Chapter 22 Steel
+
+---
+
+BC 2201 General
+
+---
+
+BC 2202 Definitions
+
+---
+
+BC 2203 Identification and Protection of Steel for Structural Purposes
+
+---
+
+BC 2204 Connections
+
+---
+
+BC 2205 Structural Steel
+
+---
+
+BC 2206 Composite Structural Steel and Concrete Structures
+
+---
+
+BC 2207 Steel Joists
+
+---
+
+BC 2208 Steel Cable Structures
+
+---
+
+BC 2209 Steel Storage Racks
+
+---
+
+BC 2210 Cold-Formed Steel
+
+---
+
+BC 2211 Cold-Formed Steel Light-Frame Construction
+
+---
+
+BC 2212 Minimum Thickness of Metal
+
+---
+
+BC 2213 Structural Integrity Requirements
+
+---
+
+Chapter 23 Wood
+
+---
+
+Chapter 24 Glass and Glazing
+
+---
+
+Chapter 25 Gypsum Board, Gypsum Panel Products and Plaster
+
+---
+
+Chapter 26 Plastic
+
+---
+
+Chapter 27 Electrical
+
+---
+
+Chapter 28 Mechanical Systems
+
+---
+
+Chapter 29 Plumbing Systems
+
+---
+
+Chapter 30 Elevators and Conveying Systems
+
+---
+
+Chapter 31 Special Construction
+
+---
+
+Chapter 32 Encroachments Into the Public Right-of-Way
+
+---
+
+Chapter 33 Safeguards During Construction or Demolition
+
+---
+
+Chapter 34 Reserved
+
+---
+
+Chapter 35 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Reserved
+
+---
+
+Appendix D Fire Districts
+
+---
+
+Appendix E Supplementary Accessibility Requirements
+
+---
+
+Appendix F Rodentproofing
+
+---
+
+Appendix G Flood-Resistant Construction
+
+---
+
+Appendix H Outdoor Signs
+
+---
+
+Appendix I Reserved
+
+---
+
+Appendix J Reserved
+
+---
+
+Appendix K Modified Industry Standards for Elevators and Conveying Systems
+
+---
+
+Appendix L Reserved
+
+---
+
+Appendix M Supplementary Requirements for One- And Two-Family Dwellings
+
+---
+
+Appendix N Assistive Listening Systems Performance Standards
+
+---
+
+Appendix O Reserved
+
+---
+
+Appendix P Reserved
+
+---
+
+Appendix Q Modified National Standards for Automatic Sprinkler, Standpipe, Fire Pump, Fire Alarm, and Smoke Control Systems
+
+---
+
+Appendix R Acoustical Tile and Lay-in Panel Ceiling Suspension Systems
+
+---
+
+Appendix S Supplementary Figures for Luminous Egress Path Markings
+
+---
+
+Appendix U Ancillary Dwelling Units
+
+---
+
+Chapter 22 Steel
+UpCodes Diagrams (3)
+
+---
+
+Section BC 2201 General
+
+---
+
+## Section 2201.1: Scope
+
+2201.1 Scope
+The provisions of this chapter govern the quality,
+design
+, fabrication and
+erection
+of
+steel construction
+.
+
+---
+
+The provisions of this chapter govern the quality,
+design
+, fabrication and
+erection
+of
+steel construction
+.
+
+---
+
+## Section 2201.2: Special Inspection
+
+2201.2 Special Inspection
+Steel shall be subject to the requirements of
+special inspection
+in accordance with
+Chapter 17
+.
+
+---
+
+Steel shall be subject to the requirements of
+special inspection
+in accordance with
+Chapter 17
+.
+
+---
+
+Section BC 2202 Definitions
+
+---
+
+## Section 2202.1: Definitions
+
+2202.1 Definitions
+The following terms are defined in
+Chapter 2
+.
+STEEL CONSTRUCTION, COLD-FORMED
+.
+STEEL ELEMENT, STRUCTURAL
+.
+STEEL JOIST
+.
+
+---
+
+The following terms are defined in
+Chapter 2
+.
+STEEL CONSTRUCTION, COLD-FORMED
+.
+STEEL ELEMENT, STRUCTURAL
+.
+STEEL JOIST
+.
+
+---
+
+Section BC 2203 Identification and Protection of Steel for Structural Purposes
+
+---
+
+## Section 2203.1: Identification
+
+2203.1 Identification
+Identification of
+structural steel elements
+shall be in accordance with the requirements contained in AISC 303. Identification of cold-formed steel members shall be in accordance with the requirements contained in AISI S100. Identification of cold-formed steel
+light-frame construction
+shall also comply with the requirements contained in AISI S240 or AISI S220, as applicable. Other steel furnished for structural load-carrying purposes shall be properly identified for conformity to the ordered grade in accordance with the specified ASTM standard or other specification and the provisions of this chapter. Where the steel grade is not readily identifiable from marking and test records, the steel shall be tested to determine conformity to such standards.
+
+---
+
+Identification of
+structural steel elements
+shall be in accordance with the requirements contained in AISC 303. Identification of cold-formed steel members shall be in accordance with the requirements contained in AISI S100. Identification of cold-formed steel
+light-frame construction
+shall also comply with the requirements contained in AISI S240 or AISI S220, as applicable. Other steel furnished for structural load-carrying purposes shall be properly identified for conformity to the ordered grade in accordance with the specified ASTM standard or other specification and the provisions of this chapter. Where the steel grade is not readily identifiable from marking and test records, the steel shall be tested to determine conformity to such standards.
+
+---
+
+## Section 2203.2: Protection
+
+2203.2 Protection
+Coating of
+structural steel elements
+shall be in accordance with
+AISC 360
+. Coating of open-web
+steel joists
+and joist girders shall be in accordance with SJI 100 and SJI 200. Individual structural members and assembled
+panels
+of
+cold-formed steel construction
+shall be protected against corrosion in accordance with the requirements contained in AISI S100. Protection of cold-formed steel
+light-frame construction
+shall be in accordance with AISI S240 or AISI S220, as applicable.
+
+---
+
+Coating of
+structural steel elements
+shall be in accordance with
+AISC 360
+. Coating of open-web
+steel joists
+and joist girders shall be in accordance with SJI 100 and SJI 200. Individual structural members and assembled
+panels
+of
+cold-formed steel construction
+shall be protected against corrosion in accordance with the requirements contained in AISI S100. Protection of cold-formed steel
+light-frame construction
+shall be in accordance with AISI S240 or AISI S220, as applicable.
+
+---
+
+Section BC 2204 Connections
+
+---
+
+## Section 2204.1: Welding
+
+2204.1 Welding
+The details of
+design
+, workmanship and technique for welding and qualification of welding procedures and personnel shall in accordance with the specifications listed in Sections 2205, 2206, 2207, 2208, 2210 and 2211. For
+special inspection
+of welding, see
+Section 1705.2
+.
+
+---
+
+The details of
+design
+, workmanship and technique for welding and qualification of welding procedures and personnel shall in accordance with the specifications listed in Sections 2205, 2206, 2207, 2208, 2210 and 2211. For
+special inspection
+of welding, see
+Section 1705.2
+.
+
+---
+
+‡‡‡ 2204.2 Bolting
+The
+design
+,
+installation
+and
+inspection
+of bolts shall be in accordance with the requirements of Sections 2205, 2206, 2207, 2210 and 2211. For
+special inspection
+of the
+installation
+of high-
+strength
+bolts, see
+Section 1705.2
+.
+‡‡‡
+Chapter 22
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+The
+design
+,
+installation
+and
+inspection
+of bolts shall be in accordance with the requirements of Sections 2205, 2206, 2207, 2210 and 2211. For
+special inspection
+of the
+installation
+of high-
+strength
+bolts, see
+Section 1705.2
+.
+‡‡‡
+Chapter 22
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+## Section 2204.3: Anchor Rods
+
+2204.3 Anchor Rods
+Anchor rods shall be set in accordance with the approved
+construction documents
+. The protrusion of the threaded ends through the connected material shall fully engage the
+threads
+of the nuts. The entire projection of the rod beyond the connected material shall be fully threaded.
+
+---
+
+Anchor rods shall be set in accordance with the approved
+construction documents
+. The protrusion of the threaded ends through the connected material shall fully engage the
+threads
+of the nuts. The entire projection of the rod beyond the connected material shall be fully threaded.
+
+---
+
+Section BC 2205 Structural Steel
+
+---
+
+## Section 2205.1: General
+
+2205.1 General
+The
+design
+, fabrication and
+erection
+of
+structural steel elements
+in buildings, including
+materials
+used for such elements, shall be in accordance with
+AISC 360
+.
+
+---
+
+The
+design
+, fabrication and
+erection
+of
+structural steel elements
+in buildings, including
+materials
+used for such elements, shall be in accordance with
+AISC 360
+.
+
+---
+
+## Section 2205.1.1: Structural Steel
+
+2205.1.1 Structural Steel
+Material for
+use
+as structural steel not listed in
+AISC 360
+may be used in accordance with
+AISC 360
+when approved by the commissioner for such use. Refer to Section 28-113.2.2 of the
+Administrative Code
+for provisions relating to approval of alternative
+materials
+.
+
+---
+
+Material for
+use
+as structural steel not listed in
+AISC 360
+may be used in accordance with
+AISC 360
+when approved by the commissioner for such use. Refer to Section 28-113.2.2 of the
+Administrative Code
+for provisions relating to approval of alternative
+materials
+.
+
+---
+
+## Section 2205.2: Seismic Design and Detailing
+
+2205.2 Seismic Design and Detailing
+Where required, a
+building
+'s
+seismic design
+, detailing, material, fabrication and
+erection
+shall be in accordance with
+Section 2205.2.1
+or
+2205.2.2
+, as applicable.
+
+---
+
+Where required, a
+building
+'s
+seismic design
+, detailing, material, fabrication and
+erection
+shall be in accordance with
+Section 2205.2.1
+or
+2205.2.2
+, as applicable.
+
+---
+
+## Section 2205.2.1: Structural Steel Seismic Force-Resisting Systems
+
+2205.2.1 Structural Steel Seismic Force-Resisting Systems
+The
+design
+, detailing, fabrication and
+erection
+of
+structural steel
+seismic force-resisting systems
+, and the material used for such systems, shall be in accordance with the provisions of
+Section 2205.2.1.1
+or
+2205.2.1.2
+, as applicable.
+
+---
+
+The
+design
+, detailing, fabrication and
+erection
+of
+structural steel
+seismic force-resisting systems
+, and the material used for such systems, shall be in accordance with the provisions of
+Section 2205.2.1.1
+or
+2205.2.1.2
+, as applicable.
+
+---
+
+## Section 2205.2.1.1: Seismic Design Category B or C
+
+2205.2.1.1 Seismic Design Category B or C
+Structures assigned to
+Seismic Design Category
+B or C shall be of any
+construction
+permitted in Section 2205. Where a response modification coefficient,
+R
+, in accordance with
+Table 1613.5
+, is used for the
+design
+of structures assigned to
+Seismic Design Category
+B or C, the structures shall be designed and detailed in accordance with the requirements of
+AISC 341
+.
+Exception:
+The response modification coefficient,
+R
+, designated for "Steel systems not specifically detailed for seismic resistance, excluding cantilever column systems" in
+Table 1613.5
+, shall be permitted for systems designed and detailed in accordance with
+AISC 360
+, and need not be designed and detailed in accordance with
+AISC 341
+.
+
+---
+
+Structures assigned to
+Seismic Design Category
+B or C shall be of any
+construction
+permitted in Section 2205. Where a response modification coefficient,
+R
+, in accordance with
+Table 1613.5
+, is used for the
+design
+of structures assigned to
+Seismic Design Category
+B or C, the structures shall be designed and detailed in accordance with the requirements of
+AISC 341
+.
+Exception:
+The response modification coefficient,
+R
+, designated for "Steel systems not specifically detailed for seismic resistance, excluding cantilever column systems" in
+Table 1613.5
+, shall be permitted for systems designed and detailed in accordance with
+AISC 360
+, and need not be designed and detailed in accordance with
+AISC 341
+.
+
+---
+
+## Section 2205.2.1.2: Seismic Design Category D
+
+2205.2.1.2 Seismic Design Category D
+Structures assigned to
+Seismic Design Category
+D shall be designed and detailed in accordance with
+AISC 341
+, except as specified in
+Table 1613.5
+.
+
+---
+
+Structures assigned to
+Seismic Design Category
+D shall be designed and detailed in accordance with
+AISC 341
+, except as specified in
+Table 1613.5
+.
+
+---
+
+## Section 2205.2.2: Structural Steel Elements
+
+2205.2.2 Structural Steel Elements
+The
+design
+, detailing, fabrication and
+erection
+of
+structural steel elements
+in
+seismic force-resisting systems
+other than those covered in
+Section 2205.2.1
+, including struts,
+collectors
+, chords and foundation elements, shall be in accordance with
+AISC 341
+where either of the following applies:
+The structure is assigned to
+Seismic Design Category
+D except as specified in
+Table 1613.5
+.
+A response modification coefficient,
+R
+, greater than 3 in accordance with
+Table 1613.5
+, is used for the
+design
+of the structure assigned to
+Seismic Design Category
+B or C.
+
+---
+
+The
+design
+, detailing, fabrication and
+erection
+of
+structural steel elements
+in
+seismic force-resisting systems
+other than those covered in
+Section 2205.2.1
+, including struts,
+collectors
+, chords and foundation elements, shall be in accordance with
+AISC 341
+where either of the following applies:
+The structure is assigned to
+Seismic Design Category
+D except as specified in
+Table 1613.5
+.
+A response modification coefficient,
+R
+, greater than 3 in accordance with
+Table 1613.5
+, is used for the
+design
+of the structure assigned to
+Seismic Design Category
+B or C.
+
+---
+
+## Section 2205.3: Fabrication, Erection and Quality Control
+
+2205.3 Fabrication, Erection and Quality Control
+In addition to the provisions for fabrication,
+erection
+and quality control in
+AISC 360
+, the following provisions shall be used.
+
+---
+
+In addition to the provisions for fabrication,
+erection
+and quality control in
+AISC 360
+, the following provisions shall be used.
+
+---
+
+## Section 2205.3.1: Shop Drawings
+
+2205.3.1 Shop Drawings
+Shop drawings shall include the location of oversized, short slotted and long slotted holes, and shall comply with AISC 303.
+
+---
+
+Shop drawings shall include the location of oversized, short slotted and long slotted holes, and shall comply with AISC 303.
+
+---
+
+## Section 2205.3.2: Field Connections
+
+2205.3.2 Field Connections
+Field connections shall meet the requirements for corresponding types of shop connections described in
+AISC 360
+. No holes, copes or cuts of any type, or alterations to anchor rods, shall be made to facilitate
+erection
+unless specifically shown on the shop or
+erection
+drawings or authorized in writing by the registered
+design
+professional of record for the structural
+design
+.
+
+---
+
+Field connections shall meet the requirements for corresponding types of shop connections described in
+AISC 360
+. No holes, copes or cuts of any type, or alterations to anchor rods, shall be made to facilitate
+erection
+unless specifically shown on the shop or
+erection
+drawings or authorized in writing by the registered
+design
+professional of record for the structural
+design
+.
+
+---
+
+## Section 2205.3.3: Structural Steel Erection
+
+2205.3.3 Structural Steel Erection
+The requirements of
+Section 3305.2
+shall apply.
+
+---
+
+The requirements of
+Section 3305.2
+shall apply.
+
+---
+
+Section BC 2206 Composite Structural Steel and Concrete Structures
+
+---
+
+## Section 2206.1: General
+
+2206.1 General
+Systems of
+structural steel elements
+acting compositely with reinforced
+concrete
+shall be designed in accordance with
+AISC 360
+and
+ACI 318
+, excluding
+ACI 318
+Chapter 14
+.
+
+---
+
+Systems of
+structural steel elements
+acting compositely with reinforced
+concrete
+shall be designed in accordance with
+AISC 360
+and
+ACI 318
+, excluding
+ACI 318
+Chapter 14
+.
+
+---
+
+## Section 2206.2: Seismic Design
+
+2206.2 Seismic Design
+Where required, the
+seismic design
+,
+materials
+, fabrication and
+erection
+of composite steel and
+concrete
+systems shall be in accordance with
+Section 2206.2.1
+.
+
+---
+
+Where required, the
+seismic design
+,
+materials
+, fabrication and
+erection
+of composite steel and
+concrete
+systems shall be in accordance with
+Section 2206.2.1
+.
+
+---
+
+## Section 2206.2.1: Seismic Requirements for Composite Structural Steel and Concrete Construction
+
+2206.2.1 Seismic Requirements for Composite Structural Steel and Concrete Construction
+Where a response modification coefficient,
+R
+, in accordance with
+Table 1613.5
+, is used for the
+design
+of systems of
+structural steel
+acting compositely with reinforced
+concrete
+, the structures shall be designed and detailed in accordance with the requirements of
+AISC 341
+.
+
+---
+
+Where a response modification coefficient,
+R
+, in accordance with
+Table 1613.5
+, is used for the
+design
+of systems of
+structural steel
+acting compositely with reinforced
+concrete
+, the structures shall be designed and detailed in accordance with the requirements of
+AISC 341
+.
+
+---
+
+## Section 2206.3: Fabrication, Erection and Quality Control
+
+2206.3 Fabrication, Erection and Quality Control
+The fabrication,
+erection
+and quality control of composite
+structural steel
+and
+concrete
+construction
+shall comply with the applicable requirements of Sections 2205 and 3305, and
+Chapter 19
+of this code,
+AISC 360
+,
+AISC 341
+and
+ACI 318
+.
+
+---
+
+The fabrication,
+erection
+and quality control of composite
+structural steel
+and
+concrete
+construction
+shall comply with the applicable requirements of Sections 2205 and 3305, and
+Chapter 19
+of this code,
+AISC 360
+,
+AISC 341
+and
+ACI 318
+.
+
+---
+
+## Section 2206.4: Concrete-Filled Steel Columns
+
+2206.4 Concrete-Filled Steel Columns
+Concrete
+-filled steel columns shall comply with
+Section 2206.4.1
+through
+2206.4.5
+and shall be filled with
+concrete
+so placed and manipulated as to secure maximum density and to ensure complete filling of the steel without voids.
+
+---
+
+Concrete
+-filled steel columns shall comply with
+Section 2206.4.1
+through
+2206.4.5
+and shall be filled with
+concrete
+so placed and manipulated as to secure maximum density and to ensure complete filling of the steel without voids.
+
+---
+
+## Section 2206.4.1: Design
+
+2206.4.1 Design
+The safe supporting capacity of
+concrete
+-filled steel columns shall be computed in accordance with
+AISC 360
+or as determined by a test approved by the commissioner.
+
+---
+
+The safe supporting capacity of
+concrete
+-filled steel columns shall be computed in accordance with
+AISC 360
+or as determined by a test approved by the commissioner.
+
+---
+
+## Section 2206.4.2: Connections
+
+2206.4.2 Connections
+Caps, base plates and connections shall be in accordance with
+AISC 360
+and shall be positively attached to the shell and anchored to the
+concrete
+core. Welding of brackets without mechanical anchorage is prohibited. Where the pipe is slotted to accommodate webs of brackets or other connections, the integrity of the shell shall be restored by welding to ensure hooping action of the composite section.
+
+---
+
+Caps, base plates and connections shall be in accordance with
+AISC 360
+and shall be positively attached to the shell and anchored to the
+concrete
+core. Welding of brackets without mechanical anchorage is prohibited. Where the pipe is slotted to accommodate webs of brackets or other connections, the integrity of the shell shall be restored by welding to ensure hooping action of the composite section.
+
+---
+
+## Section 2206.4.3: Reinforcement
+
+2206.4.3 Reinforcement
+Steel
+reinforcement
+shall be in the form of rods, structural shapes or pipe embedded in the
+concrete
+core in accordance with
+AISC 360
+with sufficient clearance to ensure the composite action of the section, but not nearer than 1 inch (25 mm) to the exterior steel shell. Structural shapes used as
+reinforcement
+shall be milled to ensure bearing on cap and base plates.
+
+---
+
+Steel
+reinforcement
+shall be in the form of rods, structural shapes or pipe embedded in the
+concrete
+core in accordance with
+AISC 360
+with sufficient clearance to ensure the composite action of the section, but not nearer than 1 inch (25 mm) to the exterior steel shell. Structural shapes used as
+reinforcement
+shall be milled to ensure bearing on cap and base plates.
+
+---
+
+## Section 2206.4.4: Fire-Resistance-Rating Protection of Concrete Filled Columns
+
+2206.4.4 Fire-Resistance-Rating Protection of Concrete Filled Columns
+Concrete
+-filled steel columns shall comply with the required
+fire-resistance ratings
+specified in
+Table 601
+. Where an outer steel shell is used to enclose the fire protective covering, the shell shall not be included in the calculations for
+strength
+of the column section. The minimum diameter of steel columns shall be 4 inches (102 mm) except that in structures of Type
+V
+construction
+not exceeding three
+stories
+or 40 feet (12 192 mm) above
+grade plane
+, steel columns used in
+basements
+and as secondary steel members shall have a minimum diameter of 3 inches (76 mm).
+
+---
+
+Concrete
+-filled steel columns shall comply with the required
+fire-resistance ratings
+specified in
+Table 601
+. Where an outer steel shell is used to enclose the fire protective covering, the shell shall not be included in the calculations for
+strength
+of the column section. The minimum diameter of steel columns shall be 4 inches (102 mm) except that in structures of Type
+V
+construction
+not exceeding three
+stories
+or 40 feet (12 192 mm) above
+grade plane
+, steel columns used in
+basements
+and as secondary steel members shall have a minimum diameter of 3 inches (76 mm).
+
+---
+
+## Section 2206.4.4.1: Vent Holes
+
+2206.4.4.1 Vent Holes
+Concrete
+-filled steel columns shall have a minimum of four
+1
+/
+2
+in. (12.7 mm) diameter holes that shall be placed opposite each other with two at the top and two at the bottom of the column. The two bottom holes shall be rotated 90° relative to the two top holes.
+
+---
+
+Concrete
+-filled steel columns shall have a minimum of four
+1
+/
+2
+in. (12.7 mm) diameter holes that shall be placed opposite each other with two at the top and two at the bottom of the column. The two bottom holes shall be rotated 90° relative to the two top holes.
+
+---
+
+## Section 2206.4.5: Approvals
+
+2206.4.5 Approvals
+Details of column connections and
+splices
+shall be shop-fabricated in accordance with
+AISC 360
+.
+Concrete
+-filled steel columns shall be inspected by an
+approved agency
+pursuant to
+Chapter 17
+of this code.
+
+---
+
+Details of column connections and
+splices
+shall be shop-fabricated in accordance with
+AISC 360
+.
+Concrete
+-filled steel columns shall be inspected by an
+approved agency
+pursuant to
+Chapter 17
+of this code.
+
+---
+
+Section BC 2207 Steel Joists
+
+---
+
+## Section 2207.1: General
+
+2207.1 General
+The
+design
+, manufacture and use of open-web
+steel joists
+and joist girders shall be in accordance with SJI 100 or SJI 200, as applicable.
+
+---
+
+The
+design
+, manufacture and use of open-web
+steel joists
+and joist girders shall be in accordance with SJI 100 or SJI 200, as applicable.
+
+---
+
+## Section 2207.1.1: Seismic Design
+
+2207.1.1 Seismic Design
+Where required, the seismic
+design
+of buildings shall be in accordance with the additional provisions of
+Section 2205.2
+or
+2211.1.1
+.
+
+---
+
+Where required, the seismic
+design
+of buildings shall be in accordance with the additional provisions of
+Section 2205.2
+or
+2211.1.1
+.
+
+---
+
+## Section 2207.2: Design
+
+2207.2 Design
+The registered
+design
+professional of record shall indicate on the
+construction documents
+the
+steel joist
+and
+steel joist
+girder designations from the specifications listed in
+Section 2207.1
+; and shall indicate the requirements for joist and joist girder
+design
+, layout, end supports, anchorage, bridging
+design
+that differs from the SJI specifications listed in
+Section 2207.1
+, bridging termination connections and bearing connection
+design
+to resist uplift and lateral
+loads
+. These documents shall indicate special requirements
+as follows
+:
+Special loads
+including:
+Concentrated
+loads
+.
+Nonuniform
+loads
+.
+Net uplift
+loads
+.
+Axial
+loads
+.
+End moments.
+Transfer forces.
+Connection forces.
+Special considerations including:
+Profiles for joist and joist girder configurations that differ from those defined by the SJI specifications listed in
+Section 2207.1
+.
+Oversized or other nonstandard web
+openings
+.
+Extended ends.
+Live and total load deflection
+criteria
+for joists and joist girder configurations that differ from those defined by the SJI specifications listed in
+Section 2207.1
+.
+
+---
+
+The registered
+design
+professional of record shall indicate on the
+construction documents
+the
+steel joist
+and
+steel joist
+girder designations from the specifications listed in
+Section 2207.1
+; and shall indicate the requirements for joist and joist girder
+design
+, layout, end supports, anchorage, bridging
+design
+that differs from the SJI specifications listed in
+Section 2207.1
+, bridging termination connections and bearing connection
+design
+to resist uplift and lateral
+loads
+. These documents shall indicate special requirements
+as follows
+:
+Special loads
+including:
+Concentrated
+loads
+.
+Nonuniform
+loads
+.
+Net uplift
+loads
+.
+Axial
+loads
+.
+End moments.
+Transfer forces.
+Connection forces.
+Special considerations including:
+Profiles for joist and joist girder configurations that differ from those defined by the SJI specifications listed in
+Section 2207.1
+.
+Oversized or other nonstandard web
+openings
+.
+Extended ends.
+Live and total load deflection
+criteria
+for joists and joist girder configurations that differ from those defined by the SJI specifications listed in
+Section 2207.1
+.
+
+---
+
+## Section 2207.3: Calculations
+
+2207.3 Calculations
+The
+steel joist
+and joist girder manufacturer shall
+design
+the
+steel joists
+and
+steel joist
+girders in accordance with the SJI specifications listed in
+Section 2207.1
+to support the load requirements of
+Section 2207.2
+. The registered
+design
+professional of record shall be permitted to require submission of the
+steel joist
+and joist girder calculations as prepared by a registered
+design
+professional responsible for the product
+design
+. Where requested by the registered
+design
+professional of record, the
+steel joist
+manufacturer shall submit
+design
+calculations with a cover letter bearing the seal and signature of the joist manufacturer's registered
+design
+professional. In addition to the
+design
+calculations submitted under seal and signature, the following shall be included:
+Bridging
+design
+that differs from the SJI specifications listed in
+Section 2207.1
+, such as cantilevered conditions and net uplift.
+Connection
+design
+for:
+Connections that differ from the SJI specifications listed in
+Section 2207.1
+, such as flush-framed or framed connections.
+Field
+splices
+.
+Joist headers.
+
+---
+
+The
+steel joist
+and joist girder manufacturer shall
+design
+the
+steel joists
+and
+steel joist
+girders in accordance with the SJI specifications listed in
+Section 2207.1
+to support the load requirements of
+Section 2207.2
+. The registered
+design
+professional of record shall be permitted to require submission of the
+steel joist
+and joist girder calculations as prepared by a registered
+design
+professional responsible for the product
+design
+. Where requested by the registered
+design
+professional of record, the
+steel joist
+manufacturer shall submit
+design
+calculations with a cover letter bearing the seal and signature of the joist manufacturer's registered
+design
+professional. In addition to the
+design
+calculations submitted under seal and signature, the following shall be included:
+Bridging
+design
+that differs from the SJI specifications listed in
+Section 2207.1
+, such as cantilevered conditions and net uplift.
+Connection
+design
+for:
+Connections that differ from the SJI specifications listed in
+Section 2207.1
+, such as flush-framed or framed connections.
+Field
+splices
+.
+Joist headers.
+
+---
+
+## Section 2207.4: Steel Joist Drawings
+
+2207.4 Steel Joist Drawings
+Steel joist
+placement plans shall be provided to show the
+steel joist
+products as specified on the approved
+construction documents
+and are to be utilized for field
+installation
+in accordance with specific project requirements as stated in
+Section 2207.2
+.
+Steel joist
+placement plans shall include, at a minimum, the following:
+Listing of applicable
+loads
+as stated in
+Section 2207.2
+and used in the
+design
+of the
+steel joists
+and joist girders as specified in the approved
+construction documents
+.
+Profiles for joist and joist girder configurations that differ from those defined by the SJI specifications listed in
+Section 2207.1
+.
+Connection requirements for:
+Joist supports.
+Joist girder supports.
+Field
+splices
+.
+Bridging attachments.
+Live and total load deflection
+criteria
+for joists and joist girder configurations that differ from those defined by the SJI specifications listed in
+Section 2207.1
+.
+Size, location and connections for bridging.
+Joist headers.
+Steel joist
+placement plans do not require the seal and signature of the joist manufacturer's registered
+design
+professional.
+
+---
+
+Steel joist
+placement plans shall be provided to show the
+steel joist
+products as specified on the approved
+construction documents
+and are to be utilized for field
+installation
+in accordance with specific project requirements as stated in
+Section 2207.2
+.
+Steel joist
+placement plans shall include, at a minimum, the following:
+Listing of applicable
+loads
+as stated in
+Section 2207.2
+and used in the
+design
+of the
+steel joists
+and joist girders as specified in the approved
+construction documents
+.
+Profiles for joist and joist girder configurations that differ from those defined by the SJI specifications listed in
+Section 2207.1
+.
+Connection requirements for:
+Joist supports.
+Joist girder supports.
+Field
+splices
+.
+Bridging attachments.
+Live and total load deflection
+criteria
+for joists and joist girder configurations that differ from those defined by the SJI specifications listed in
+Section 2207.1
+.
+Size, location and connections for bridging.
+Joist headers.
+Steel joist
+placement plans do not require the seal and signature of the joist manufacturer's registered
+design
+professional.
+
+---
+
+‡‡‡ 2207.5 Certification
+Open web
+steel joists
+shall comply with
+Section 1704.2
+for
+special inspection
+requirements or Section
+1704.2.2
+when an
+approved fabricator
+is used in lieu of
+special inspections
+.
+‡‡‡
+Chapter 22
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Open web
+steel joists
+shall comply with
+Section 1704.2
+for
+special inspection
+requirements or Section
+1704.2.2
+when an
+approved fabricator
+is used in lieu of
+special inspections
+.
+‡‡‡
+Chapter 22
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+## Section 2207.6: Limitations of Use
+
+2207.6 Limitations of Use
+Open web
+steel joists
+shall be prohibited in
+high-rise buildings
+until the commissioner promulgates rules establishing minimum acceptable fireproofing methods.
+
+---
+
+Open web
+steel joists
+shall be prohibited in
+high-rise buildings
+until the commissioner promulgates rules establishing minimum acceptable fireproofing methods.
+
+---
+
+Section BC 2208 Steel Cable Structures
+
+---
+
+## Section 2208.1: General
+
+2208.1 General
+The
+design
+, fabrication and
+erection
+including related connections, and protective coatings of steel cables for buildings shall be in accordance with ASCE 19.
+
+---
+
+The
+design
+, fabrication and
+erection
+including related connections, and protective coatings of steel cables for buildings shall be in accordance with ASCE 19.
+
+---
+
+Section BC 2209 Steel Storage Racks
+
+---
+
+## Section 2209.1: Storage Racks
+
+2209.1 Storage Racks
+The
+design
+, testing and utilization of
+storage
+racks made of cold-formed or hot-rolled steel structural members shall be in accordance with RMI ANSI/MH 16.1. Where required by ASCE 7, the
+seismic design
+of
+storage
+racks shall be in accordance with Section 15.5.3 of ASCE 7.
+
+---
+
+The
+design
+, testing and utilization of
+storage
+racks made of cold-formed or hot-rolled steel structural members shall be in accordance with RMI ANSI/MH 16.1. Where required by ASCE 7, the
+seismic design
+of
+storage
+racks shall be in accordance with Section 15.5.3 of ASCE 7.
+
+---
+
+## Section 2209.2: Cantilevered Steel Storage Racks
+
+2209.2 Cantilevered Steel Storage Racks
+The
+design
+, testing, and utilization of cantilevered
+storage
+racks made of cold-formed or hot-rolled steel structural members shall be in accordance with RMI ANSI/MH 16.3 Where required by ASCE 7, the
+seismic design
+of cantilevered steel
+storage
+racks shall be in accordance with Section 15.5.3 of ASCE 7.
+
+---
+
+The
+design
+, testing, and utilization of cantilevered
+storage
+racks made of cold-formed or hot-rolled steel structural members shall be in accordance with RMI ANSI/MH 16.3 Where required by ASCE 7, the
+seismic design
+of cantilevered steel
+storage
+racks shall be in accordance with Section 15.5.3 of ASCE 7.
+
+---
+
+Section BC 2210 Cold-Formed Steel
+
+---
+
+## Section 2210.1: General
+
+2210.1 General
+The
+design
+of cold-formed carbon and low-alloy steel structural members shall be in accordance with AISI S100. The
+design
+of cold-formed stainless-steel structural members shall be in accordance with ASCE 8. Cold-formed steel
+light-frame construction
+shall comply with Section 2211. Where required, the
+seismic design
+of cold-formed steel structures shall be in accordance with the additional provisions of
+Section 2210.2
+.‡
+
+---
+
+The
+design
+of cold-formed carbon and low-alloy steel structural members shall be in accordance with AISI S100. The
+design
+of cold-formed stainless-steel structural members shall be in accordance with ASCE 8. Cold-formed steel
+light-frame construction
+shall comply with Section 2211. Where required, the
+seismic design
+of cold-formed steel structures shall be in accordance with the additional provisions of
+Section 2210.2
+.‡
+
+---
+
+## Section 2210.1.1: Steel Decks
+
+2210.1.1 Steel Decks
+The
+design
+and
+construction
+of cold-formed steel
+decks
+shall be in accordance with this section.
+UpCodes Diagrams (2)
+Assembly (1)
+
+---
+
+The
+design
+and
+construction
+of cold-formed steel
+decks
+shall be in accordance with this section.
+
+---
+
+## Section 2210.1.1.1: Noncomposite Steel Floor Decks
+
+2210.1.1.1 Noncomposite Steel Floor Decks
+Noncomposite steel floor
+decks
+shall be permitted to be designed and constructed in accordance with ANSI/SDI-NC.
+
+---
+
+Noncomposite steel floor
+decks
+shall be permitted to be designed and constructed in accordance with ANSI/SDI-NC.
+
+---
+
+## Section 2210.1.1.2: Steel Roof Deck
+
+2210.1.1.2 Steel Roof Deck
+Steel
+roof decks
+shall be permitted to be designed and constructed in accordance with ANSI/SDI-RD.
+
+---
+
+Steel
+roof decks
+shall be permitted to be designed and constructed in accordance with ANSI/SDI-RD.
+
+---
+
+## Section 2210.1.1.3: Composite Slabs on Steel Decks
+
+2210.1.1.3 Composite Slabs on Steel Decks
+Composite slabs of
+concrete
+and steel
+deck
+shall be permitted to be designed and constructed in accordance with SDI-C.
+
+---
+
+Composite slabs of
+concrete
+and steel
+deck
+shall be permitted to be designed and constructed in accordance with SDI-C.
+
+---
+
+## Section 2210.2: Seismic Requirements for Cold-Formed Steel Structures
+
+2210.2 Seismic Requirements for Cold-Formed Steel Structures
+Where a response modification coefficient,
+R
+, in accordance with
+Table 1613.5
+, is used for the
+design
+of cold-formed steel structures, the structures shall be designed and detailed in accordance with the requirements of AISI S100, ASCE 8, or, for cold-formed steel special-bolted moment frames, AISI S400.
+
+---
+
+Where a response modification coefficient,
+R
+, in accordance with
+Table 1613.5
+, is used for the
+design
+of cold-formed steel structures, the structures shall be designed and detailed in accordance with the requirements of AISI S100, ASCE 8, or, for cold-formed steel special-bolted moment frames, AISI S400.
+
+---
+
+Section BC 2211 Cold-Formed Steel Light-Frame Construction
+
+---
+
+## Section 2211.1: Structural Framing
+
+2211.1 Structural Framing
+For cold-formed steel
+light-frame construction
+, the
+design
+and
+installation
+of the following structural framing systems, including their members and connections, shall be in accordance with AISI S240, and Sections 2211.1.1 through
+2211.1.3
+, as applicable:
+Floor and roof systems.
+Structural
+walls
+.
+Shear walls
+, strap-braced
+walls
+and
+diaphragms
+that resist in-plane lateral
+loads
+.
+Trusses.
+
+---
+
+For cold-formed steel
+light-frame construction
+, the
+design
+and
+installation
+of the following structural framing systems, including their members and connections, shall be in accordance with AISI S240, and Sections 2211.1.1 through
+2211.1.3
+, as applicable:
+Floor and roof systems.
+Structural
+walls
+.
+Shear walls
+, strap-braced
+walls
+and
+diaphragms
+that resist in-plane lateral
+loads
+.
+Trusses.
+
+---
+
+## Section 2211.1.1: Seismic Requirements for Cold-Formed Steel Structural Systems
+
+2211.1.1 Seismic Requirements for Cold-Formed Steel Structural Systems
+The
+design
+of cold-formed steel
+light-frame construction
+to resist seismic forces shall be in accordance with the provisions of
+Section 2211.1.1.1
+or
+2211.1.1.2
+, as applicable.
+
+---
+
+The
+design
+of cold-formed steel
+light-frame construction
+to resist seismic forces shall be in accordance with the provisions of
+Section 2211.1.1.1
+or
+2211.1.1.2
+, as applicable.
+
+---
+
+## Section 2211.1.1.1: Seismic Design Categories B and C
+
+2211.1.1.1 Seismic Design Categories B and C
+Where a response modification coefficient,
+R
+, in accordance with
+Table 1613.5
+is used for the
+design
+of cold-formed steel
+light-frame construction
+assigned to
+Seismic Design Category
+B or C, the
+seismic force-resisting system
+shall be designed and detailed in accordance with the requirements of AISI S400.
+Exception:
+The response modification coefficient,
+R
+, designated for "Steel systems not specifically detailed for seismic resistance, excluding cantilever column systems" in
+Table 1613.5
+shall be permitted for systems designed and detailed in accordance with AISI S240 and need not be designed and detailed in accordance with AISI S400.
+
+---
+
+Where a response modification coefficient,
+R
+, in accordance with
+Table 1613.5
+is used for the
+design
+of cold-formed steel
+light-frame construction
+assigned to
+Seismic Design Category
+B or C, the
+seismic force-resisting system
+shall be designed and detailed in accordance with the requirements of AISI S400.
+Exception:
+The response modification coefficient,
+R
+, designated for "Steel systems not specifically detailed for seismic resistance, excluding cantilever column systems" in
+Table 1613.5
+shall be permitted for systems designed and detailed in accordance with AISI S240 and need not be designed and detailed in accordance with AISI S400.
+
+---
+
+## Section 2211.1.1.2: Seismic Design Categories D
+
+2211.1.1.2 Seismic Design Categories D
+In cold-formed steel
+light-frame construction
+assigned to
+Seismic Design Category
+D, the
+seismic force-resisting system
+shall be designed and detailed in accordance with AISI S400.
+
+---
+
+In cold-formed steel
+light-frame construction
+assigned to
+Seismic Design Category
+D, the
+seismic force-resisting system
+shall be designed and detailed in accordance with AISI S400.
+
+---
+
+## Section 2211.1.2: Prescriptive Framing
+
+2211.1.2 Prescriptive Framing
+Detached one- and
+two-family dwellings
+and
+townhouses
+, less than or equal to three
+stories above grade plane
+, shall be permitted to be constructed in accordance with AISI S230 subject to the
+limitations
+therein.
+
+---
+
+Detached one- and
+two-family dwellings
+and
+townhouses
+, less than or equal to three
+stories above grade plane
+, shall be permitted to be constructed in accordance with AISI S230 subject to the
+limitations
+therein.
+
+---
+
+## Section 2211.1.3: Truss Design
+
+2211.1.3 Truss Design
+Cold-formed steel trusses shall comply with the additional provisions of Sections
+2211.1.3.1
+. through
+2211.1.3.3
+.
+
+---
+
+Cold-formed steel trusses shall comply with the additional provisions of Sections
+2211.1.3.1
+. through
+2211.1.3.3
+.
+
+---
+
+## Section 2211.1.3.1: Truss Design Drawings
+
+2211.1.3.1 Truss Design Drawings
+The truss
+design
+drawings shall conform to the requirements of Section I1 of AISI S202 and shall be provided with the shipment of trusses delivered to the job
+site
+. The truss
+design
+drawings shall include the details of permanent individual truss member restraint/bracing in accordance with Section I1.6 of AISI S202 where these methods are utilized to provide restraint/bracing.
+
+---
+
+The truss
+design
+drawings shall conform to the requirements of Section I1 of AISI S202 and shall be provided with the shipment of trusses delivered to the job
+site
+. The truss
+design
+drawings shall include the details of permanent individual truss member restraint/bracing in accordance with Section I1.6 of AISI S202 where these methods are utilized to provide restraint/bracing.
+
+---
+
+## Section 2211.1.3.2: Trusses Spanning 60 Feet or Greater
+
+2211.1.3.2 Trusses Spanning 60 Feet or Greater
+The owner or the owner's authorized agent shall contract with a registered
+design
+professional for the
+design
+of the temporary
+installation
+restraint/bracing and the permanent individual truss member restraint/bracing for trusses with clear spans 60 feet (18 288 mm) or greater.
+Special inspection
+of trusses over 60 feet (18 288 mm) in length shall be in accordance with
+Section 1705.2
+.
+
+---
+
+The owner or the owner's authorized agent shall contract with a registered
+design
+professional for the
+design
+of the temporary
+installation
+restraint/bracing and the permanent individual truss member restraint/bracing for trusses with clear spans 60 feet (18 288 mm) or greater.
+Special inspection
+of trusses over 60 feet (18 288 mm) in length shall be in accordance with
+Section 1705.2
+.
+
+---
+
+## Section 2211.1.3.3: Truss Quality Assurance
+
+2211.1.3.3 Truss Quality Assurance
+Trusses not part of a manufacturing process that provides requirements for quality control done under the supervision of a third-party quality control agency in accordance with AISI S240 Chapter D shall be fabricated in compliance with Sections
+1704.2.2
+and
+1705.2
+, as applicable.
+
+---
+
+Trusses not part of a manufacturing process that provides requirements for quality control done under the supervision of a third-party quality control agency in accordance with AISI S240 Chapter D shall be fabricated in compliance with Sections
+1704.2.2
+and
+1705.2
+, as applicable.
+
+---
+
+## Section 2211.2: Nonstructural Members
+
+2211.2 Nonstructural Members
+For cold-formed steel
+light-frame construction
+, the
+design
+and
+installation
+of non-structural members and connections shall be in accordance with AISI S220.
+
+---
+
+For cold-formed steel
+light-frame construction
+, the
+design
+and
+installation
+of non-structural members and connections shall be in accordance with AISI S220.
+
+---
+
+Section BC 2212 Minimum Thickness of Metal
+
+---
+
+## Section 2212.1: General
+
+2212.1 General
+All steel of
+Chapter 22
+shall conform to the minimum thickness of metal in accordance with
+Section 2212.2
+.
+
+---
+
+All steel of
+Chapter 22
+shall conform to the minimum thickness of metal in accordance with
+Section 2212.2
+.
+
+---
+
+## Section 2212.2: Exterior Members
+
+2212.2 Exterior Members
+All exterior
+structural steel
+members exposed to weather shall have a minimum thickness of metal of 0.23 inches (5.8 mm).
+Exceptions:
+When an approved type of atmospheric corrosion-resistant steel is used.
+Exposed surfaces are zinc coated with a minimum weight of coating of approximately 0.6 ounces per square foot (0.00156 kg/m
+2
+) of exposed surface and covered with a protective coating as required by
+Section 2203.2
+.
+Exposed surfaces are protected by other means approved by the commissioner.
+Temporary construction installations
+that will be in place for a period of 1 year or less, provided that all surfaces which are exposed to the weather shall have a protective coating as required by
+Section 2203.2
+.
+Joists or purlins that are exposed to the weather but which do not support more than 200 square feet (19 m
+2
+) of floor or roof
+area
+, and which have a protective coating as required by
+Section 2203.2
+.
+
+---
+
+All exterior
+structural steel
+members exposed to weather shall have a minimum thickness of metal of 0.23 inches (5.8 mm).
+Exceptions:
+When an approved type of atmospheric corrosion-resistant steel is used.
+Exposed surfaces are zinc coated with a minimum weight of coating of approximately 0.6 ounces per square foot (0.00156 kg/m
+2
+) of exposed surface and covered with a protective coating as required by
+Section 2203.2
+.
+Exposed surfaces are protected by other means approved by the commissioner.
+Temporary construction installations
+that will be in place for a period of 1 year or less, provided that all surfaces which are exposed to the weather shall have a protective coating as required by
+Section 2203.2
+.
+Joists or purlins that are exposed to the weather but which do not support more than 200 square feet (19 m
+2
+) of floor or roof
+area
+, and which have a protective coating as required by
+Section 2203.2
+.
+
+---
+
+Section BC 2213 Structural Integrity Requirements
+
+---
+
+## Section 2213.1: General
+
+2213.1 General
+Steel structures shall be designed to meet all of the requirements of this section. However, details provided for gravity, seismic and wind forces and for other purposes may be regarded as forming part of, or the whole of, these requirements. Detailing provided for one requirement may be counted towards the other requirements.
+Exceptions:
+One-
+story
+structures less than 5,000 square feet (465 m
+2
+) not to exceed 15 feet (4572 mm) in
+height
+.
+Structures containing only Group
+R-3
+occupancy not more than three
+stories
+in
+height
+.
+
+---
+
+Steel structures shall be designed to meet all of the requirements of this section. However, details provided for gravity, seismic and wind forces and for other purposes may be regarded as forming part of, or the whole of, these requirements. Detailing provided for one requirement may be counted towards the other requirements.
+Exceptions:
+One-
+story
+structures less than 5,000 square feet (465 m
+2
+) not to exceed 15 feet (4572 mm) in
+height
+.
+Structures containing only Group
+R-3
+occupancy not more than three
+stories
+in
+height
+.
+
+---
+
+## Section 2213.2: Continuity and Ties
+
+2213.2 Continuity and Ties
+The following requirements shall be met:
+All bolted connections shall have at least two bolts.
+Bolted connections of all columns, beams, braces and other structural
+elements
+that are part of the lateral load resisting system shall be designed as bearing-type connections with pretensioned bolts or as slip critical connections.
+End connections of all beams and girders shall have a minimum available tensile
+strength
+equal to the larger of the required vertical shear
+strength
+of the connections at either end, but not less than 10 kips (45 kN)(LRFD) and 6.7 kips (30kN)(ASD). For the
+design
+of the connections, the shear force and this axial tensile force need not be considered to act simultaneously. For the purpose of this provision, a connection shall be considered compliant if it meets the following requirements:
+For single-plate shear connections, the available tensile
+strength
+shall be determined only for the
+limit state
+of bolt bearing on the plate and beam web.
+For single angle and double angle shear connections, the available tensile
+strength
+shall be determined for the
+limit states
+of bolt bearing on the angles and beam web and for tension yielding on the gross area of the angles.
+All other connections shall be designed for the required tension force noted above in accordance with the provisions of
+AISC 360
+.
+For the purpose of satisfying these integrity provisions only, bearing bolts in connections with short-slotted holes parallel to the direction of the tension force and inelastic deformation are permitted. Elements and their connections that brace compression members shall have a minimum available tensile
+strength
+equal to at least 2 percent of the required compressive
+strength
+of the member being braced, but not less than 10 kips (45 kN)(LRFD) and 6.7 kips (30kN)(ASD). For
+design
+of these bracing connections, the shear force and the tensile force need not be considered to act simultaneously. Where more than one
+element
+braces a compression member at a point in one direction, all
+elements
+and connections shall have a minimum available tensile
+strength
+equal to at least 1 percent of the required compressive
+strength
+of the member being braced but not less than 10 kips (45 kN)(LRFD) and 6.7 kips (30kN)(ASD).
+
+---
+
+The following requirements shall be met:
+All bolted connections shall have at least two bolts.
+Bolted connections of all columns, beams, braces and other structural
+elements
+that are part of the lateral load resisting system shall be designed as bearing-type connections with pretensioned bolts or as slip critical connections.
+End connections of all beams and girders shall have a minimum available tensile
+strength
+equal to the larger of the required vertical shear
+strength
+of the connections at either end, but not less than 10 kips (45 kN)(LRFD) and 6.7 kips (30kN)(ASD). For the
+design
+of the connections, the shear force and this axial tensile force need not be considered to act simultaneously. For the purpose of this provision, a connection shall be considered compliant if it meets the following requirements:
+For single-plate shear connections, the available tensile
+strength
+shall be determined only for the
+limit state
+of bolt bearing on the plate and beam web.
+For single angle and double angle shear connections, the available tensile
+strength
+shall be determined for the
+limit states
+of bolt bearing on the angles and beam web and for tension yielding on the gross area of the angles.
+All other connections shall be designed for the required tension force noted above in accordance with the provisions of
+AISC 360
+.
+For the purpose of satisfying these integrity provisions only, bearing bolts in connections with short-slotted holes parallel to the direction of the tension force and inelastic deformation are permitted. Elements and their connections that brace compression members shall have a minimum available tensile
+strength
+equal to at least 2 percent of the required compressive
+strength
+of the member being braced, but not less than 10 kips (45 kN)(LRFD) and 6.7 kips (30kN)(ASD). For
+design
+of these bracing connections, the shear force and the tensile force need not be considered to act simultaneously. Where more than one
+element
+braces a compression member at a point in one direction, all
+elements
+and connections shall have a minimum available tensile
+strength
+equal to at least 1 percent of the required compressive
+strength
+of the member being braced but not less than 10 kips (45 kN)(LRFD) and 6.7 kips (30kN)(ASD).
+
+---
+
+## Section 2213.2.1: Vertical Ties
+
+2213.2.1 Vertical Ties
+Column slices shall have an available tensile
+strength
+at least equal to the largest
+design
+gravity
+load
+reaction applied to the column at any floor level located within four floors below the
+splice
+.
+
+---
+
+Column slices shall have an available tensile
+strength
+at least equal to the largest
+design
+gravity
+load
+reaction applied to the column at any floor level located within four floors below the
+splice
+.
+
+---
+
+## Section 2213.3: Composite Construction
+
+2213.3 Composite Construction
+For steel framing members and/or decking acting compositely with
+concrete
+slabs of roofs or floors, the following requirements shall be met:
+Shear studs shall not be less than
+1
+/
+2
+inch (12.7 mm) in diameter. The spacing of shear studs shall not be greater than one every 12 inches (305 mm) averaged over the length of the beam.
+Connections at the discontinuous edges of permanent metal decking to supporting members shall have a minimum connection
+strength
+in the direction parallel to the rib of the
+deck
+equal to the shear
+strength
+of a
+3
+/
+4
+-inch (19.1 mm) puddle weld every 12 inches (305 mm) on center.
+Side lap connections of permanent metal decking shall have a minimum
+strength
+equal to the
+strength
+of a button punch every 24 inches (610 mm) on center.
+Welded wire fabric
+reinforcement
+in
+concrete
+slabs shall be continuous over all supports and in all spans. Minimum area of continuous
+reinforcement
+in each direction shall be 0.0015 times the gross
+area
+of
+concrete
+. The welded wire fabric
+reinforcement
+shall have tension
+splices
+and be anchored at discontinuous edges, and shall not be substituted with alternative
+materials
+including but not limited to fibers.
+
+---
+
+For steel framing members and/or decking acting compositely with
+concrete
+slabs of roofs or floors, the following requirements shall be met:
+Shear studs shall not be less than
+1
+/
+2
+inch (12.7 mm) in diameter. The spacing of shear studs shall not be greater than one every 12 inches (305 mm) averaged over the length of the beam.
+Connections at the discontinuous edges of permanent metal decking to supporting members shall have a minimum connection
+strength
+in the direction parallel to the rib of the
+deck
+equal to the shear
+strength
+of a
+3
+/
+4
+-inch (19.1 mm) puddle weld every 12 inches (305 mm) on center.
+Side lap connections of permanent metal decking shall have a minimum
+strength
+equal to the
+strength
+of a button punch every 24 inches (610 mm) on center.
+Welded wire fabric
+reinforcement
+in
+concrete
+slabs shall be continuous over all supports and in all spans. Minimum area of continuous
+reinforcement
+in each direction shall be 0.0015 times the gross
+area
+of
+concrete
+. The welded wire fabric
+reinforcement
+shall have tension
+splices
+and be anchored at discontinuous edges, and shall not be substituted with alternative
+materials
+including but not limited to fibers.
+
+---
+

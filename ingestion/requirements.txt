@@ -1,0 +1,14 @@
+# PDF Processing
+docling>=2.0.0
+
+# OpenAI for embeddings
+openai>=1.0.0
+
+# PostgreSQL connection
+psycopg2-binary>=2.9.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Progress bars
+tqdm>=4.0.0

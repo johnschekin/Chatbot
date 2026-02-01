@@ -1,0 +1,1565 @@
+# NYC Fire Code 2022 - Chapter 8
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+801 General
+
+---
+
+802 Definitions
+
+---
+
+803 Upholstered Furniture and Mattresses
+
+---
+
+804 Decorative Vegetation
+
+---
+
+805 Decorations and Scenery
+
+---
+
+806 Interior Finishes
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Section 801 General
+
+---
+
+## Section 801.1: Scope
+
+801.1 Scope
+This chapter shall govern
+furnishings
+, decorative
+vegetation
+,
+decorations
+and
+scenery
+in buildings and structures.
+
+---
+
+This chapter shall govern
+furnishings
+, decorative
+vegetation
+,
+decorations
+and
+scenery
+in buildings and structures.
+
+---
+
+## Section 801.2: General
+
+801.2 General
+The
+furnishings
+, decorative
+vegetation
+,
+decorations
+and
+scenery
+governed by this chapter shall be designed, stored, handled and used in accordance with this chapter.
+
+---
+
+The
+furnishings
+, decorative
+vegetation
+,
+decorations
+and
+scenery
+governed by this chapter shall be designed, stored, handled and used in accordance with this chapter.
+
+---
+
+## Section 801.3: Flame-Retardant Treatments
+
+801.3 Flame-Retardant Treatments
+When a material or item is treated with a flame-retardant
+chemical
+to meet the requirements of this chapter for a
+flame-resistant material
+, such
+chemical
+and its method of
+application
+shall be
+approved
+.
+Flame-retardant treatments
+shall be maintained so as to retain the effectiveness of the treatment under conditions encountered in actual use.
+
+---
+
+When a material or item is treated with a flame-retardant
+chemical
+to meet the requirements of this chapter for a
+flame-resistant material
+, such
+chemical
+and its method of
+application
+shall be
+approved
+.
+Flame-retardant treatments
+shall be maintained so as to retain the effectiveness of the treatment under conditions encountered in actual use.
+
+---
+
+## Section 801.4: Fire-Retardant Coating
+
+801.4 Fire-Retardant Coating
+When a material or item is coated with a
+fire-retardant coating
+to meet the requirements of this chapter for a
+flame-resistant material
+, such coating and its method of
+application
+shall be
+approved
+. Flame-retardant coatings shall be maintained so as to retain the effectiveness of the coating under conditions encountered in actual use.
+
+---
+
+When a material or item is coated with a
+fire-retardant coating
+to meet the requirements of this chapter for a
+flame-resistant material
+, such coating and its method of
+application
+shall be
+approved
+. Flame-retardant coatings shall be maintained so as to retain the effectiveness of the coating under conditions encountered in actual use.
+
+---
+
+## Section 801.5: Prohibited Decorative Vegetation, Decorations and Scenery
+
+801.5 Prohibited Decorative Vegetation, Decorations and Scenery
+It shall be unlawful in
+Group A
+, E and I
+occupancies
+to store or use decorative
+vegetation
+,
+decorations
+or
+scenery
+that consists of or is coated with pyroxylin or similarly hazardous base.
+
+---
+
+It shall be unlawful in
+Group A
+, E and I
+occupancies
+to store or use decorative
+vegetation
+,
+decorations
+or
+scenery
+that consists of or is coated with pyroxylin or similarly hazardous base.
+
+---
+
+## Section 801.6: Obstructions
+
+801.6 Obstructions
+The required width of any portion of a
+means of egress
+shall not be obstructed by any
+furnishing
+, decorative
+vegetation
+,
+decoration
+or
+scenery
+nor shall such
+furnishing
+, decorative
+vegetation
+,
+decoration
+or
+scenery
+obstruct any
+exit
+or the visibility thereof.
+
+---
+
+The required width of any portion of a
+means of egress
+shall not be obstructed by any
+furnishing
+, decorative
+vegetation
+,
+decoration
+or
+scenery
+nor shall such
+furnishing
+, decorative
+vegetation
+,
+decoration
+or
+scenery
+obstruct any
+exit
+or the visibility thereof.
+
+---
+
+## Section 801.7: Supervision
+
+801.7 Supervision
+Compliance with flame resistance standards shall be under the
+supervision
+of a
+certificate of fitness
+holder in accordance with
+FC 801.7.1
+and
+801.7.2
+.
+
+---
+
+Compliance with flame resistance standards shall be under the
+supervision
+of a
+certificate of fitness
+holder in accordance with
+FC 801.7.1
+and
+801.7.2
+.
+
+---
+
+## Section 801.7.1: Application of Flame-Retardant Chemical
+
+801.7.1 Application of Flame-Retardant Chemical
+When a material or item is treated with a flame-retardant
+chemical
+to meet the requirements of this chapter for a
+flame-resistant material
+, the
+application
+of the
+chemical
+shall be conducted by or under the
+personal supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+When a material or item is treated with a flame-retardant
+chemical
+to meet the requirements of this chapter for a
+flame-resistant material
+, the
+application
+of the
+chemical
+shall be conducted by or under the
+personal supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+## Section 801.7.2: Certification of Compliance
+
+801.7.2 Certification of Compliance
+Certification of compliance with the requirements of this section shall be prepared by a
+certificate of fitness
+holder and made available to
+department
+representatives in accordance with the
+rules
+or upon request of any
+department
+representative, provided, however, that a manufacturer's certification, in a form acceptable to the
+department
+, may be presented for an article that is inherently flame-resistant.
+
+---
+
+Certification of compliance with the requirements of this section shall be prepared by a
+certificate of fitness
+holder and made available to
+department
+representatives in accordance with the
+rules
+or upon request of any
+department
+representative, provided, however, that a manufacturer's certification, in a form acceptable to the
+department
+, may be presented for an article that is inherently flame-resistant.
+
+---
+
+## Section 801.8: Certificate of Approval
+
+801.8 Certificate of Approval
+Any flame-retardant
+chemical
+used to render a material flame-resistant to meet the requirements of this chapter shall be of a type for which a
+certificate of approval
+has been issued in accordance with
+FC112
+and the
+rules
+.
+
+---
+
+Any flame-retardant
+chemical
+used to render a material flame-resistant to meet the requirements of this chapter shall be of a type for which a
+certificate of approval
+has been issued in accordance with
+FC112
+and the
+rules
+.
+
+---
+
+Section 802 Definitions
+
+---
+
+## Section 802.1: Definitions
+
+802.1 Definitions
+The following terms shall, for the purposes of this chapter and used elsewhere in this code, have the meanings set forth in
+FC202
+.
+CONIFER
+.
+DECORATION
+.
+FIRE-RETARDANT COATING
+.
+FLAME-RESISTANT MATERIAL
+.
+FLAME-RETARDANT TREATMENT
+.
+FLAME SPREAD
+.
+FURNISHING
+.
+INTERIOR FINISH
+.
+NATURAL DECORATIVE GREEN
+.
+NATURAL TREE
+.
+NATURAL
+VEGETATION
+.
+SCENERY
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and used elsewhere in this code, have the meanings set forth in
+FC202
+.
+CONIFER
+.
+DECORATION
+.
+FIRE-RETARDANT COATING
+.
+FLAME-RESISTANT MATERIAL
+.
+FLAME-RETARDANT TREATMENT
+.
+FLAME SPREAD
+.
+FURNISHING
+.
+INTERIOR FINISH
+.
+NATURAL DECORATIVE GREEN
+.
+NATURAL TREE
+.
+NATURAL
+VEGETATION
+.
+SCENERY
+.
+
+---
+
+Section 803 Upholstered Furniture and Mattresses
+
+---
+
+## Section 803.1: Upholstered Furniture
+
+803.1 Upholstered Furniture
+Upholstered furniture newly introduced in
+Occupancy
+Groups I-1, I-2, I-3 and R-1 college and university dormitories after the effective date of this section shall comply with the resistance to ignition by cigarettes and maximum heat release rate requirements of this section.
+
+---
+
+Upholstered furniture newly introduced in
+Occupancy
+Groups I-1, I-2, I-3 and R-1 college and university dormitories after the effective date of this section shall comply with the resistance to ignition by cigarettes and maximum heat release rate requirements of this section.
+
+---
+
+## Section 803.1.1: Ignition by Cigarettes
+
+803.1.1 Ignition by Cigarettes
+Newly-introduced upholstered furniture in
+Occupancy
+Groups I-1, I-2, I-3 and R-1 college and university dormitories shall be shown to resist ignition by cigarettes as determined by tests conducted in accordance with one of the following standards:
+Mocked-up composites of the upholstered furniture shall have a char length not exceeding 1
+1
+/
+2
+inches (38 mm) when tested in accordance with NFPA 261.
+The components of the upholstered furniture shall meet the requirements for Class I when tested in accordance with NFPA 260.
+Exception:
+The requirements of FC 803.1.1(1) and 803.1.1(2) shall not apply to upholstered furniture owned by the resident of a
+Group I
+-2
+occupancy
+, provided such furniture is located in the sleeping room of the resident and such sleeping room is provided with a
+smoke detector
+in accordance with the requirements of the
+Building Code
+.
+
+---
+
+Newly-introduced upholstered furniture in
+Occupancy
+Groups I-1, I-2, I-3 and R-1 college and university dormitories shall be shown to resist ignition by cigarettes as determined by tests conducted in accordance with one of the following standards:
+Mocked-up composites of the upholstered furniture shall have a char length not exceeding 1
+1
+/
+2
+inches (38 mm) when tested in accordance with NFPA 261.
+The components of the upholstered furniture shall meet the requirements for Class I when tested in accordance with NFPA 260.
+Exception:
+The requirements of FC 803.1.1(1) and 803.1.1(2) shall not apply to upholstered furniture owned by the resident of a
+Group I
+-2
+occupancy
+, provided such furniture is located in the sleeping room of the resident and such sleeping room is provided with a
+smoke detector
+in accordance with the requirements of the
+Building Code
+.
+
+---
+
+## Section 803.1.2: Heat Release Rate
+
+803.1.2 Heat Release Rate
+Newly-introduced upholstered furniture in
+Occupancy
+Groups I-1, I-2, I-3 and R-1 college and university dormitories shall have limited rates of heat release when tested in accordance with California Technical Bulletins 116 and 117.
+
+---
+
+Newly-introduced upholstered furniture in
+Occupancy
+Groups I-1, I-2, I-3 and R-1 college and university dormitories shall have limited rates of heat release when tested in accordance with California Technical Bulletins 116 and 117.
+
+---
+
+## Section 803.1.3: Listing and Labeling
+
+803.1.3 Listing and Labeling
+Upholstered furniture shall be listed and
+labeled
+in compliance with the requirements of
+FC 803.1.1
+and
+803.1.2
+.
+
+---
+
+Upholstered furniture shall be listed and
+labeled
+in compliance with the requirements of
+FC 803.1.1
+and
+803.1.2
+.
+
+---
+
+## Section 803.2: Mattresses
+
+803.2 Mattresses
+Mattresses newly introduced in
+Occupancy
+Groups I-1, I-2, I-3 and R-1 college and university dormitories after the effective date of this section shall comply with the resistance to ignition by cigarettes and maximum heat release rate requirements of this section.
+
+---
+
+Mattresses newly introduced in
+Occupancy
+Groups I-1, I-2, I-3 and R-1 college and university dormitories after the effective date of this section shall comply with the resistance to ignition by cigarettes and maximum heat release rate requirements of this section.
+
+---
+
+## Section 803.2.1: Ignition by Cigarettes
+
+803.2.1 Ignition by Cigarettes
+Newly-introduced mattresses in
+Occupancy
+Groups I-1, I-2, I-3, and R-1 college and university dormitories shall be shown to resist ignition by cigarettes as determined by tests conducted in accordance with 16 CFR Part 1632 and shall have a char length not exceeding 2 inches (51 mm).
+
+---
+
+Newly-introduced mattresses in
+Occupancy
+Groups I-1, I-2, I-3, and R-1 college and university dormitories shall be shown to resist ignition by cigarettes as determined by tests conducted in accordance with 16 CFR Part 1632 and shall have a char length not exceeding 2 inches (51 mm).
+
+---
+
+## Section 803.2.2: Heat Release Rate
+
+803.2.2 Heat Release Rate
+Newly-introduced mattresses shall have limited rates of heat release when tested in accordance with ASTM E1590 or California Technical Bulletin 129, as follows:
+The peak rate of heat release for the single mattress shall not exceed 100 kW, except mattresses in rooms or spaces protected throughout by a
+sprinkler system
+.
+The total energy released by the mattress during the first 10 minutes of the test shall not exceed 25 MJ, except mattresses in rooms or spaces protected throughout by a
+sprinkler system
+.
+Exception:
+The exceptions set forth in FC 803.2.2(1) and 803.2.2(2) for mattresses in rooms or spaces protected throughout by a
+sprinkler system
+shall not apply to
+Occupancy
+Group I
+-3.
+
+---
+
+Newly-introduced mattresses shall have limited rates of heat release when tested in accordance with ASTM E1590 or California Technical Bulletin 129, as follows:
+The peak rate of heat release for the single mattress shall not exceed 100 kW, except mattresses in rooms or spaces protected throughout by a
+sprinkler system
+.
+The total energy released by the mattress during the first 10 minutes of the test shall not exceed 25 MJ, except mattresses in rooms or spaces protected throughout by a
+sprinkler system
+.
+Exception:
+The exceptions set forth in FC 803.2.2(1) and 803.2.2(2) for mattresses in rooms or spaces protected throughout by a
+sprinkler system
+shall not apply to
+Occupancy
+Group I
+-3.
+
+---
+
+## Section 803.2.3: Listing and Labeling
+
+803.2.3 Listing and Labeling
+Mattresses shall be listed and
+labeled
+in compliance with the requirements of
+FC 803.2.1
+and
+803.2.2
+.
+
+---
+
+Mattresses shall be listed and
+labeled
+in compliance with the requirements of
+FC 803.2.1
+and
+803.2.2
+.
+
+---
+
+Section 804 Decorative Vegetation
+
+---
+
+## Section 804.1: Natural Trees and Cut Natural Trees
+
+804.1 Natural Trees and Cut Natural Trees
+Natural trees
+and cut
+natural trees
+shall be stored, sold, displayed and maintained in accordance with
+FC 804.1.1
+through
+804.1.6
+.
+
+---
+
+Natural trees
+and cut
+natural trees
+shall be stored, sold, displayed and maintained in accordance with
+FC 804.1.1
+through
+804.1.6
+.
+
+---
+
+## Section 804.1.1: Indoor Display of Cut Natural Trees
+
+804.1.1 Indoor Display of Cut Natural Trees
+Cut
+natural trees
+may be displayed in a building, except in
+Group A
+, B, E, I, M, R-1 and R-2
+occupancies
+and any building or structure used for a public gathering. Notwithstanding the foregoing
+occupancy
+restrictions, cut
+natural trees
+may be displayed in houses of worship and dwelling units in
+Group R
+-2 apartment house
+occupancies
+.
+
+---
+
+Cut
+natural trees
+may be displayed in a building, except in
+Group A
+, B, E, I, M, R-1 and R-2
+occupancies
+and any building or structure used for a public gathering. Notwithstanding the foregoing
+occupancy
+restrictions, cut
+natural trees
+may be displayed in houses of worship and dwelling units in
+Group R
+-2 apartment house
+occupancies
+.
+
+---
+
+## Section 804.1.2: Indoor Storage of Cut Natural Trees
+
+804.1.2 Indoor Storage of Cut Natural Trees
+It shall be unlawful to store cut
+natural trees
+in any building, except in connection with a display allowed under
+FC804.1.1
+.
+
+---
+
+It shall be unlawful to store cut
+natural trees
+in any building, except in connection with a display allowed under
+FC804.1.1
+.
+
+---
+
+## Section 804.1.3: Indoor Storage and Display of Natural Trees
+
+804.1.3 Indoor Storage and Display of Natural Trees
+Natural trees
+, except
+conifers
+, may be stored and displayed in a building, provided they are maintained in a healthy condition and are not allowed to become dry. It shall be unlawful to store or display
+natural trees
+that are
+conifers
+in any building.
+
+---
+
+Natural trees
+, except
+conifers
+, may be stored and displayed in a building, provided they are maintained in a healthy condition and are not allowed to become dry. It shall be unlawful to store or display
+natural trees
+that are
+conifers
+in any building.
+
+---
+
+## Section 804.1.4: Support Devices
+
+804.1.4 Support Devices
+Cut
+natural trees
+for display in any building shall have the trunk bottoms cut off at least
+1
+/
+2
+inch (12.7 mm) above the original cut and shall be placed in a support device. The support device shall be of a type that is stable, holds the tree in an upright position and meets all of the following criteria:
+The device shall hold the tree securely and be of adequate size to avoid tipping over of the tree.
+The device shall be capable of containing a minimum 2-day supply of water.
+The water level, when full, shall cover the tree stem at least 2 inches (51 mm). The water level shall be maintained above the fresh cut and checked at least once daily.
+
+---
+
+Cut
+natural trees
+for display in any building shall have the trunk bottoms cut off at least
+1
+/
+2
+inch (12.7 mm) above the original cut and shall be placed in a support device. The support device shall be of a type that is stable, holds the tree in an upright position and meets all of the following criteria:
+The device shall hold the tree securely and be of adequate size to avoid tipping over of the tree.
+The device shall be capable of containing a minimum 2-day supply of water.
+The water level, when full, shall cover the tree stem at least 2 inches (51 mm). The water level shall be maintained above the fresh cut and checked at least once daily.
+
+---
+
+## Section 804.1.5: Dryness
+
+804.1.5 Dryness
+Natural trees
+and cut
+natural trees
+shall be removed from the building whenever the needles or leaves fall off readily when a tree branch is shaken or if the needles are brittle and break when bent between the thumb and index finger. Trees shall be checked daily for dryness.
+
+---
+
+Natural trees
+and cut
+natural trees
+shall be removed from the building whenever the needles or leaves fall off readily when a tree branch is shaken or if the needles are brittle and break when bent between the thumb and index finger. Trees shall be checked daily for dryness.
+
+---
+
+## Section 804.1.6: Retail Sale of Cut Natural Trees
+
+804.1.6 Retail Sale of Cut Natural Trees
+Merchants of cut
+natural trees
+, including Christmas trees, shall, at the time of retail sale of each such tree, attach to the tree a printed tag containing appropriate instructions for its safe and lawful display and disposal.
+
+---
+
+Merchants of cut
+natural trees
+, including Christmas trees, shall, at the time of retail sale of each such tree, attach to the tree a printed tag containing appropriate instructions for its safe and lawful display and disposal.
+
+---
+
+## Section 804.2: Natural Vegetation
+
+804.2 Natural Vegetation
+Natural vegetation
+shall be maintained in a healthy condition to prevent the
+vegetation
+from becoming dry and ignitable.
+Natural vegetation
+that has become dry and readily ignitable shall be promptly removed from the
+premises
+.
+Natural vegetation
+shall be regularly pruned to prevent the
+vegetation
+from becoming overgrown and expanding beyond the space designated for it.
+
+---
+
+Natural vegetation
+shall be maintained in a healthy condition to prevent the
+vegetation
+from becoming dry and ignitable.
+Natural vegetation
+that has become dry and readily ignitable shall be promptly removed from the
+premises
+.
+Natural vegetation
+shall be regularly pruned to prevent the
+vegetation
+from becoming overgrown and expanding beyond the space designated for it.
+
+---
+
+## Section 804.3: Open Flames
+
+804.3 Open Flames
+Candles and other
+open flames
+shall not be used or maintained on or near decorative
+vegetation
+. Natural cut trees shall be kept a distance at least equal to the height of the tree from heat sources, including fireplaces, portable heaters and vents, and
+open-flame
+or heat-producing devices.
+
+---
+
+Candles and other
+open flames
+shall not be used or maintained on or near decorative
+vegetation
+. Natural cut trees shall be kept a distance at least equal to the height of the tree from heat sources, including fireplaces, portable heaters and vents, and
+open-flame
+or heat-producing devices.
+
+---
+
+## Section 804.3.1: Electrical Fixtures and Wiring
+
+804.3.1 Electrical Fixtures and Wiring
+Electrical
+wiring and
+lighting
+used on natural cut trees and decorative
+vegetation
+shall be listed. It shall be unlawful to use
+electrical
+wiring and
+lighting
+on metal artificial trees.
+
+---
+
+Electrical
+wiring and
+lighting
+used on natural cut trees and decorative
+vegetation
+shall be listed. It shall be unlawful to use
+electrical
+wiring and
+lighting
+on metal artificial trees.
+
+---
+
+## Section 804.4: Artificial Vegetation
+
+804.4 Artificial Vegetation
+Artificial decorative
+vegetation
+, including artificial trees, shall be made of
+flame-resistant material
+in the buildings and
+occupancies
+set forth in FC805.1. Alternatively, artificial decorative
+vegetation
+shall have a maximum heat release rate of 100 kW when tested in accordance with NFPA 289, using a 20 kW ignition source.
+
+---
+
+Artificial decorative
+vegetation
+, including artificial trees, shall be made of
+flame-resistant material
+in the buildings and
+occupancies
+set forth in FC805.1. Alternatively, artificial decorative
+vegetation
+shall have a maximum heat release rate of 100 kW when tested in accordance with NFPA 289, using a 20 kW ignition source.
+
+---
+
+## Section 804.5: Natural Decorative Greens
+
+804.5 Natural Decorative Greens
+Natural decorative greens
+shall be stored and displayed in a building in accordance with
+FC 804.5.1
+through
+804.5.4
+.
+
+---
+
+Natural decorative greens
+shall be stored and displayed in a building in accordance with
+FC 804.5.1
+through
+804.5.4
+.
+
+---
+
+## Section 804.5.1: Storage
+
+804.5.1 Storage
+It shall be unlawful to store
+natural decorative greens
+in any building, except merchandise for sale or displayed for sale which does not contain
+conifers
+.
+
+---
+
+It shall be unlawful to store
+natural decorative greens
+in any building, except merchandise for sale or displayed for sale which does not contain
+conifers
+.
+
+---
+
+## Section 804.5.2: Display
+
+804.5.2 Display
+Natural decorative greens
+may be displayed in buildings on a temporary basis. The display of
+natural decorative greens
+in
+Group A
+, E, I, and M
+occupancies
+, in common areas of
+Group R
+-1, R-2 and B
+occupancies
+, and any building or structure used for a public gathering, except display of works of art in museums and houses of worship, shall comply with the restrictions set forth in
+FC804.5.3
+.
+
+---
+
+Natural decorative greens
+may be displayed in buildings on a temporary basis. The display of
+natural decorative greens
+in
+Group A
+, E, I, and M
+occupancies
+, in common areas of
+Group R
+-1, R-2 and B
+occupancies
+, and any building or structure used for a public gathering, except display of works of art in museums and houses of worship, shall comply with the restrictions set forth in
+FC804.5.3
+.
+
+---
+
+## Section 804.5.3: Restrictions on Display
+
+804.5.3 Restrictions on Display
+It shall be unlawful to display in any building
+natural decorative greens
+that:
+Contain pitch, such as hemlock, balsam, pine or Spanish moss.
+Are displayed at a location less than 3 feet (914 mm) from upholstered furniture, rugs, or other combustible material or contain combustible
+decorations
+.
+Are on a combustible framework or displayed in conjunction with combustible material unless such material is flame resistant.
+
+---
+
+It shall be unlawful to display in any building
+natural decorative greens
+that:
+Contain pitch, such as hemlock, balsam, pine or Spanish moss.
+Are displayed at a location less than 3 feet (914 mm) from upholstered furniture, rugs, or other combustible material or contain combustible
+decorations
+.
+Are on a combustible framework or displayed in conjunction with combustible material unless such material is flame resistant.
+
+---
+
+## Section 804.5.4: Dryness
+
+804.5.4 Dryness
+Any
+natural decorative green
+shall be removed from a building at the first sign of deterioration or dryness.
+Natural decorative greens
+shall be checked at least daily for dryness.
+
+---
+
+Any
+natural decorative green
+shall be removed from a building at the first sign of deterioration or dryness.
+Natural decorative greens
+shall be checked at least daily for dryness.
+
+---
+
+Section 805 Decorations and Scenery
+
+---
+
+## Section 805.1: Decorations
+
+805.1 Decorations
+Except as otherwise specifically provided in this chapter,
+decorations
+shall be made of
+flame-resistant material
+in
+Group A
+, E, I and M
+occupancies
+,
+Group R
+-1 college and university dormitories, common areas in
+Group B
+, R-1 and R-2
+occupancies
+, and any building or structure used as a place of public gathering.
+Exceptions:
+Acoustical or other decorative materials consisting of foam plastics with a maximum heat release rate of 100 kW when tested in accordance with UL 1975.
+Artwork in a museum or art gallery.
+Artwork on the walls of building hallway corridors in
+Group B
+office and
+Group R
+-2
+occupancies
+, provided that the wall area covered by such artwork does not exceed 20 percent of any wall in any
+occupancy
+not protected throughout by a
+sprinkler system
+or 50 percent of any wall in any
+occupancy
+protected throughout by a
+sprinkler system
+, and the artwork is affixed in a manner that prevents it from moving freely.
+Artwork and educational materials in classrooms in
+Group E
+and I-4
+occupancies
+, and on the walls of corridors in such
+occupancies
+, provided that the corridor wall area covered by such artwork and materials does not exceed 20 percent of any wall, and the artwork and materials are affixed in a manner that prevents them from moving freely.
+Curtains, draperies, hangings and other decorative materials suspended from walls of sleeping units and dwelling units in
+Occupancy
+Group R
+-1 dormitories protected throughout by a
+sprinkler system
+, where the total amount of such materials does not exceed 25 percent of the aggregate area of walls.
+Decorations
+displayed for sale.
+Guest rooms in hotels and motels.
+Decorations
+in houses of worship, including wood used for screening or ornamental purposes.
+Decorations
+in private offices in commercial buildings.
+
+---
+
+Except as otherwise specifically provided in this chapter,
+decorations
+shall be made of
+flame-resistant material
+in
+Group A
+, E, I and M
+occupancies
+,
+Group R
+-1 college and university dormitories, common areas in
+Group B
+, R-1 and R-2
+occupancies
+, and any building or structure used as a place of public gathering.
+Exceptions:
+Acoustical or other decorative materials consisting of foam plastics with a maximum heat release rate of 100 kW when tested in accordance with UL 1975.
+Artwork in a museum or art gallery.
+Artwork on the walls of building hallway corridors in
+Group B
+office and
+Group R
+-2
+occupancies
+, provided that the wall area covered by such artwork does not exceed 20 percent of any wall in any
+occupancy
+not protected throughout by a
+sprinkler system
+or 50 percent of any wall in any
+occupancy
+protected throughout by a
+sprinkler system
+, and the artwork is affixed in a manner that prevents it from moving freely.
+Artwork and educational materials in classrooms in
+Group E
+and I-4
+occupancies
+, and on the walls of corridors in such
+occupancies
+, provided that the corridor wall area covered by such artwork and materials does not exceed 20 percent of any wall, and the artwork and materials are affixed in a manner that prevents them from moving freely.
+Curtains, draperies, hangings and other decorative materials suspended from walls of sleeping units and dwelling units in
+Occupancy
+Group R
+-1 dormitories protected throughout by a
+sprinkler system
+, where the total amount of such materials does not exceed 25 percent of the aggregate area of walls.
+Decorations
+displayed for sale.
+Guest rooms in hotels and motels.
+Decorations
+in houses of worship, including wood used for screening or ornamental purposes.
+Decorations
+in private offices in commercial buildings.
+
+---
+
+## Section 805.1.1: Fabric Partitions
+
+805.1.1 Fabric Partitions
+In
+Group B
+and M
+occupancies
+, fabric partitions suspended from the ceiling and not supported by the floor shall be
+flame-resistant material
+.
+
+---
+
+In
+Group B
+and M
+occupancies
+, fabric partitions suspended from the ceiling and not supported by the floor shall be
+flame-resistant material
+.
+
+---
+
+## Section 805.1.2: Trim and Decorative Materials
+
+805.1.2 Trim and Decorative Materials
+The type and quantity of interior trim allowed shall be as set forth in
+Chapter 8
+of the
+Building Code
+. The quantity of flame resistant materials used in
+decorations
+when combined with combustible trim shall not exceed 10 percent of the specific wall or ceiling area to which it is attached.
+
+---
+
+The type and quantity of interior trim allowed shall be as set forth in
+Chapter 8
+of the
+Building Code
+. The quantity of flame resistant materials used in
+decorations
+when combined with combustible trim shall not exceed 10 percent of the specific wall or ceiling area to which it is attached.
+
+---
+
+## Section 805.1.3: Reserved
+
+805.1.3 Reserved
+
+---
+
+## Section 805.1.4: Motion Picture Screens
+
+805.1.4 Motion Picture Screens
+Motion picture screens and supporting construction shall comply with the requirements of
+FC306.3
+.
+
+---
+
+Motion picture screens and supporting construction shall comply with the requirements of
+FC306.3
+.
+
+---
+
+## Section 805.2: Scenery
+
+805.2 Scenery
+All
+scenery
+in
+Group A
+occupancies
+shall be made of materials that are inherently flame-resistant, have a Class A
+flame-spread
+rating, or rendered flame resistant by the
+application
+of a
+fire-retardant coating
+, except that the
+commissioner
+may authorize the use of
+scenery
+not complying with any of the above requirements where provision is made to ensure an equivalent level of
+fire
+safety. Foam plastic materials used for
+scenery
+shall have a maximum heat release rate of 100 kW when tested in accordance with UL 1975, or when tested in accordance with NFPA 289 using the 20 kW ignition source.
+
+---
+
+All
+scenery
+in
+Group A
+occupancies
+shall be made of materials that are inherently flame-resistant, have a Class A
+flame-spread
+rating, or rendered flame resistant by the
+application
+of a
+fire-retardant coating
+, except that the
+commissioner
+may authorize the use of
+scenery
+not complying with any of the above requirements where provision is made to ensure an equivalent level of
+fire
+safety. Foam plastic materials used for
+scenery
+shall have a maximum heat release rate of 100 kW when tested in accordance with UL 1975, or when tested in accordance with NFPA 289 using the 20 kW ignition source.
+
+---
+
+## Section 805.3: Outdoor Decorative Installations
+
+805.3 Outdoor Decorative Installations
+In an outdoor
+place of assembly
+, outdoor place of public gathering or other outdoor common area in a building or
+occupancy
+set forth in
+FC805.1
+, any decorative installation that is freestanding, more than 4 feet (1219 mm) in height, and under, through or around which the public or
+building occupants
+can enter or pass, shall be
+flame-resistant material
+, except as otherwise authorized by the
+department
+.
+
+---
+
+In an outdoor
+place of assembly
+, outdoor place of public gathering or other outdoor common area in a building or
+occupancy
+set forth in
+FC805.1
+, any decorative installation that is freestanding, more than 4 feet (1219 mm) in height, and under, through or around which the public or
+building occupants
+can enter or pass, shall be
+flame-resistant material
+, except as otherwise authorized by the
+department
+.
+
+---
+
+Section 806 Interior Finishes
+
+---
+
+## Section 806.1: General
+
+806.1 General
+The quantity and type of
+interior finishes
+shall comply with the requirements of
+Chapter 8
+of the
+Building Code
+.
+
+---
+
+The quantity and type of
+interior finishes
+shall comply with the requirements of
+Chapter 8
+of the
+Building Code
+.
+
+---
+
+## Section 806.2: Foam Plastic Signs
+
+806.2 Foam Plastic Signs
+Foam plastic signs that are not
+interior finishes
+shall have a maximum heat release rate of 150 kW when tested in accordance with UL 1975, or when tested in accordance with NFPA 289 using the 20 kW ignition source.
+
+---
+
+Foam plastic signs that are not
+interior finishes
+shall have a maximum heat release rate of 150 kW when tested in accordance with UL 1975, or when tested in accordance with NFPA 289 using the 20 kW ignition source.
+
+---
+

@@ -1,0 +1,829 @@
+# NYC Fire Code 2022 - Chapter 28
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+2801 General
+
+---
+
+2802 Definitions
+
+---
+
+2803 General Requirements
+
+---
+
+2804 Through and Including Section 2807 Reserved
+
+---
+
+2808 Outdoor Storage of Wood Chips and Other Wood Waste Materials
+
+---
+
+2809 Outdoor Storage of Finished Lumber Products
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Section 2801 General
+
+---
+
+## Section 2801.1: Scope
+
+2801.1 Scope
+This chapter shall govern the manufacture, storage and
+handling
+of lumber, wood products and wood waste material.
+
+---
+
+This chapter shall govern the manufacture, storage and
+handling
+of lumber, wood products and wood waste material.
+
+---
+
+## Section 2801.2: Permit
+
+2801.2 Permit
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 2801.3: General
+
+2801.3 General
+Lumber and wood waste materials shall be stored and handled in accordance with this chapter.
+Facilities
+used for such purposes shall be designed, installed, operated and maintained in accordance with this chapter.
+
+---
+
+Lumber and wood waste materials shall be stored and handled in accordance with this chapter.
+Facilities
+used for such purposes shall be designed, installed, operated and maintained in accordance with this chapter.
+
+---
+
+## Section 2801.4: Manufacturing Prohibited
+
+2801.4 Manufacturing Prohibited
+The manufacture of lumber, including plywood and other manufactured wood sheets, from trees and other natural wood materials, is prohibited, except as
+approved
+by the
+commissioner
+.
+
+---
+
+The manufacture of lumber, including plywood and other manufactured wood sheets, from trees and other natural wood materials, is prohibited, except as
+approved
+by the
+commissioner
+.
+
+---
+
+Section 2802 Definitions
+
+---
+
+## Section 2802.1: Terms Defined in FC Chapter 2
+
+2802.1 Terms Defined in FC Chapter 2
+Terms used in this chapter and defined in
+FC202
+shall have the meanings set forth therein.
+
+---
+
+Terms used in this chapter and defined in
+FC202
+shall have the meanings set forth therein.
+
+---
+
+Section 2803 General Requirements
+
+---
+
+## Section 2803.1: Open Yards
+
+2803.1 Open Yards
+Open yards required by the
+construction codes
+, including the
+Building Code
+, shall be maintained around buildings and other structures in which lumber and wood waste are stored and handled.
+
+---
+
+Open yards required by the
+construction codes
+, including the
+Building Code
+, shall be maintained around buildings and other structures in which lumber and wood waste are stored and handled.
+
+---
+
+## Section 2803.2: Dust Control
+
+2803.2 Dust Control
+Indoor
+installations that generate
+combustible dust
+shall be provided with
+explosion
+protection and other
+combustible dust
+mitigation measures in accordance with
+FC Chapter 22
+and the
+construction codes
+.
+
+---
+
+Indoor
+installations that generate
+combustible dust
+shall be provided with
+explosion
+protection and other
+combustible dust
+mitigation measures in accordance with
+FC Chapter 22
+and the
+construction codes
+.
+
+---
+
+## Section 2803.3: Housekeeping
+
+2803.3 Housekeeping
+Lumber yards,
+woodworking facilities
+and other locations at which lumber is cut or otherwise processed and/or wood waste materials generated, shall be cleaned at the end of each workday, to collect and remove from the
+premises
+sawdust and other waste materials.
+
+---
+
+Lumber yards,
+woodworking facilities
+and other locations at which lumber is cut or otherwise processed and/or wood waste materials generated, shall be cleaned at the end of each workday, to collect and remove from the
+premises
+sawdust and other waste materials.
+
+---
+
+## Section 2803.4: Reserved
+
+2803.4 Reserved
+
+---
+
+## Section 2803.5: Control of Ignition Sources
+
+2803.5 Control of Ignition Sources
+Protection shall be provided from ignition sources in accordance with
+FC Chapter 3
+and
+FC 2803.5.1
+through
+2803.5.3
+.
+
+---
+
+Protection shall be provided from ignition sources in accordance with
+FC Chapter 3
+and
+FC 2803.5.1
+through
+2803.5.3
+.
+
+---
+
+## Section 2803.5.1: Hot Work
+
+2803.5.1 Hot Work
+Hot work
+shall comply with the requirements of
+FC Chapter 35
+.
+
+---
+
+Hot work
+shall comply with the requirements of
+FC Chapter 35
+.
+
+---
+
+## Section 2803.5.2: Static Electricity
+
+2803.5.2 Static Electricity
+Static electricity shall be prevented from accumulating on equipment and
+systems
+subject to static electricity buildup by permanent grounding and bonding wires or other
+approved
+means.
+
+---
+
+Static electricity shall be prevented from accumulating on equipment and
+systems
+subject to static electricity buildup by permanent grounding and bonding wires or other
+approved
+means.
+
+---
+
+## Section 2803.5.3: Smoking
+
+2803.5.3 Smoking
+It shall be unlawful to smoke in a lumber yard, woodworking
+facility
+or other
+facility
+in which wood or wood waste materials are manufactured, stored or handled.
+
+---
+
+It shall be unlawful to smoke in a lumber yard, woodworking
+facility
+or other
+facility
+in which wood or wood waste materials are manufactured, stored or handled.
+
+---
+
+Section 2804 Through and Including Section 2807 Reserved
+
+---
+
+Section 2808 Outdoor Storage of Wood Chips and Other Wood Waste Materials
+
+---
+
+## Section 2808.1: General
+
+2808.1 General
+Wood chips and other wood waste materials shall be stored and handled in accordance with this section.
+
+---
+
+Wood chips and other wood waste materials shall be stored and handled in accordance with this section.
+
+---
+
+## Section 2808.2: Storage Areas
+
+2808.2 Storage Areas
+Storage areas shall be level and on
+solid
+ground or other all-weather surface. Storage areas shall be thoroughly cleaned before transferring wood products to the area.
+
+---
+
+Storage areas shall be level and on
+solid
+ground or other all-weather surface. Storage areas shall be thoroughly cleaned before transferring wood products to the area.
+
+---
+
+## Section 2808.3: Size of Piles
+
+2808.3 Size of Piles
+Piles shall not exceed 25 feet (7620 mm) in height, 150 feet (45 720 mm) in width and 250 feet (76 200 mm) in length.
+Exception:
+The
+commissioner
+may authorize increased pile sizes provided that adequate
+fire
+safety is ensured by installing additional
+fire
+protection in accordance with
+FC Chapter 9
+and the
+construction codes
+, including the
+Building Code
+. The increase shall be based upon the capabilities of the
+system
+installed.
+
+---
+
+Piles shall not exceed 25 feet (7620 mm) in height, 150 feet (45 720 mm) in width and 250 feet (76 200 mm) in length.
+Exception:
+The
+commissioner
+may authorize increased pile sizes provided that adequate
+fire
+safety is ensured by installing additional
+fire
+protection in accordance with
+FC Chapter 9
+and the
+construction codes
+, including the
+Building Code
+. The increase shall be based upon the capabilities of the
+system
+installed.
+
+---
+
+## Section 2808.4: Pile Separation
+
+2808.4 Pile Separation
+Piles shall be separated from adjacent piles by
+approved
+fire apparatus access roads
+.
+
+---
+
+Piles shall be separated from adjacent piles by
+approved
+fire apparatus access roads
+.
+
+---
+
+## Section 2808.5: Combustible Waste
+
+2808.5 Combustible Waste
+The storage of wood chips or other wood waste materials, the accumulation and
+handling
+of combustible materials, the control of
+vegetation
+and the disposal of
+combustible waste
+shall comply with the requirements of
+FC Chapter 3
+.
+
+---
+
+The storage of wood chips or other wood waste materials, the accumulation and
+handling
+of combustible materials, the control of
+vegetation
+and the disposal of
+combustible waste
+shall comply with the requirements of
+FC Chapter 3
+.
+
+---
+
+## Section 2808.6: Pile Protection
+
+2808.6 Pile Protection
+Piles of wood chips or other wood waste materials shall be monitored by an
+approved
+means to measure internal temperatures within the piles. Internal pile temperatures shall be measured and recorded weekly.
+
+---
+
+Piles of wood chips or other wood waste materials shall be monitored by an
+approved
+means to measure internal temperatures within the piles. Internal pile temperatures shall be measured and recorded weekly.
+
+---
+
+## Section 2808.7: Reserved
+
+2808.7 Reserved
+
+---
+
+## Section 2808.8: Fire Protection
+
+2808.8 Fire Protection
+The
+commissioner
+may require that a yard hydrant
+system
+and/or monitor nozzles connected to a fixed water supply be installed upon the
+premises
+where the
+facility
+arrangement, pile arrangement, pile heights, number of piles or total volume of piles would hamper the effectiveness of hose streams to control or extinguish a
+fire
+. Portable
+fire
+extinguishers in compliance with the requirements of
+FC906
+and with a minimum rating of 4-A:60-B:C shall be readily available throughout the
+premises
+.
+
+---
+
+The
+commissioner
+may require that a yard hydrant
+system
+and/or monitor nozzles connected to a fixed water supply be installed upon the
+premises
+where the
+facility
+arrangement, pile arrangement, pile heights, number of piles or total volume of piles would hamper the effectiveness of hose streams to control or extinguish a
+fire
+. Portable
+fire
+extinguishers in compliance with the requirements of
+FC906
+and with a minimum rating of 4-A:60-B:C shall be readily available throughout the
+premises
+.
+
+---
+
+## Section 2808.9: Material-Handling Equipment
+
+2808.9 Material-Handling Equipment
+Approved
+material-
+handling
+equipment shall be available for moving wood chips and other wood waste materials during firefighting operations.
+
+---
+
+Approved
+material-
+handling
+equipment shall be available for moving wood chips and other wood waste materials during firefighting operations.
+
+---
+
+Section 2809 Outdoor Storage of Finished Lumber Products
+
+---
+
+## Section 2809.1: General
+
+2809.1 General
+Finished lumber products shall be stored in accordance with this section.
+
+---
+
+Finished lumber products shall be stored in accordance with this section.
+
+---
+
+## Section 2809.2: Size of Piles
+
+2809.2 Size of Piles
+Outdoor lumber storage shall be arranged to form stable piles with a maximum height of 20 feet (6096 mm). Piles shall not exceed 150,000 cubic feet (4248 m
+3
+) in volume.
+
+---
+
+Outdoor lumber storage shall be arranged to form stable piles with a maximum height of 20 feet (6096 mm). Piles shall not exceed 150,000 cubic feet (4248 m
+3
+) in volume.
+
+---
+
+## Section 2809.3: Fire Apparatus Access Roads
+
+2809.3 Fire Apparatus Access Roads
+Fire apparatus access roads
+in accordance with
+FC503
+and the
+construction codes
+, including the
+Building Code
+, shall be located so that a maximum grid
+system
+unit of 50 feet by 150 feet (15 240 mm by 45 720 mm) is established.
+
+---
+
+Fire apparatus access roads
+in accordance with
+FC503
+and the
+construction codes
+, including the
+Building Code
+, shall be located so that a maximum grid
+system
+unit of 50 feet by 150 feet (15 240 mm by 45 720 mm) is established.
+
+---
+
+## Section 2809.4: Security
+
+2809.4 Security
+Permanent outdoor lumber storage areas shall be surrounded with an
+approved
+fence.
+
+---
+
+Permanent outdoor lumber storage areas shall be surrounded with an
+approved
+fence.
+
+---
+
+## Section 2809.5: Fire Protection
+
+2809.5 Fire Protection
+The
+commissioner
+may require that the yard hydrant
+system
+specified in
+FC507.2.3
+to include monitor nozzles connected to the fixed water supply where the
+facility
+arrangement, pile arrangement, pile heights, number of piles or total volume of piles would hamper the effectiveness of hose streams to control or extinguish a
+fire
+. Portable
+fire
+extinguishers shall be provided in accordance with
+FC906
+for extra-high hazards and located so that the travel distance to the nearest portable
+fire
+extinguisher does not exceed 75 feet (22 860 mm).
+
+---
+
+The
+commissioner
+may require that the yard hydrant
+system
+specified in
+FC507.2.3
+to include monitor nozzles connected to the fixed water supply where the
+facility
+arrangement, pile arrangement, pile heights, number of piles or total volume of piles would hamper the effectiveness of hose streams to control or extinguish a
+fire
+. Portable
+fire
+extinguishers shall be provided in accordance with
+FC906
+for extra-high hazards and located so that the travel distance to the nearest portable
+fire
+extinguisher does not exceed 75 feet (22 860 mm).
+
+---
+

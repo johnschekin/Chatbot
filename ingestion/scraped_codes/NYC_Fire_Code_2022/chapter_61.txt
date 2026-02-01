@@ -1,0 +1,2514 @@
+# NYC Fire Code 2022 - Chapter 61
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+6101 General
+
+---
+
+6102 Definitions
+
+---
+
+6103 Installation of Equipment
+
+---
+
+6104 Reserved
+
+---
+
+6105 Prohibited Storage, Handling and Use of LPG
+
+---
+
+6106 Dispensing and Filling
+
+---
+
+6107 Safety Precautions and Devices
+
+---
+
+6108 Portable Fire Extinguishers
+
+---
+
+6109 Storage of Portable LPG Containers
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+## Section 6101: General
+
+6101 General
+
+---
+
+## Section 6101.1: Scope
+
+6101.1 Scope
+This chapter shall govern the manufacture, storage,
+handling
+and use of
+LPG
+and the installation and operation of
+LPG
+equipment relating to such
+systems
+.
+Exceptions:
+Use of
+LPG
+or
+LPG
+mixtures as a
+refrigerant
+in a
+refrigerating system
+regulated by the
+construction codes
+, including the
+Mechanical Code
+, and FC606.
+Storage and use of LPG in connection with
+special effects
+.
+Outdoor storage and use for private, noncommercial barbecues within the lot line of a
+Group R
+-3
+occupancy
+, as set forth in
+FC307
+.
+
+---
+
+This chapter shall govern the manufacture, storage,
+handling
+and use of
+LPG
+and the installation and operation of
+LPG
+equipment relating to such
+systems
+.
+Exceptions:
+Use of
+LPG
+or
+LPG
+mixtures as a
+refrigerant
+in a
+refrigerating system
+regulated by the
+construction codes
+, including the
+Mechanical Code
+, and FC606.
+Storage and use of LPG in connection with
+special effects
+.
+Outdoor storage and use for private, noncommercial barbecues within the lot line of a
+Group R
+-3
+occupancy
+, as set forth in
+FC307
+.
+
+---
+
+## Section 6101.2: Permits
+
+6101.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 6101.2.1: Deliveries
+
+6101.2.1 Deliveries
+Distributors shall not deliver
+LPG
+containers
+to any location in quantities requiring a
+permit
+unless a
+permit
+for such installation, storage or use has been issued for that location.
+
+---
+
+Distributors shall not deliver
+LPG
+containers
+to any location in quantities requiring a
+permit
+unless a
+permit
+for such installation, storage or use has been issued for that location.
+
+---
+
+## Section 6101.3: Design and Installation Documents
+
+6101.3 Design and Installation Documents
+Design and installation documents
+for LPG storage
+facilities
+and stationary installations shall be submitted to and
+approved
+by the
+department
+in accordance with
+FC105.4
+.
+
+---
+
+Design and installation documents
+for LPG storage
+facilities
+and stationary installations shall be submitted to and
+approved
+by the
+department
+in accordance with
+FC105.4
+.
+
+---
+
+## Section 6101.4: General
+
+6101.4 General
+LPG
+shall be stored, handled and used, and devices, equipment and
+systems
+utilizing
+LPG
+shall be designed, installed, operated and maintained, in accordance with this chapter, the
+rules
+and NFPA 58.
+
+---
+
+LPG
+shall be stored, handled and used, and devices, equipment and
+systems
+utilizing
+LPG
+shall be designed, installed, operated and maintained, in accordance with this chapter, the
+rules
+and NFPA 58.
+
+---
+
+## Section 6101.5: Supervision
+
+6101.5 Supervision
+The storage,
+handling
+and use of
+LPG
+shall be supervised in accordance with
+FC 6101.5.1
+through
+6101.5.9
+.
+
+---
+
+The storage,
+handling
+and use of
+LPG
+shall be supervised in accordance with
+FC 6101.5.1
+through
+6101.5.9
+.
+
+---
+
+## Section 6101.5.1: Connecting and Disconnecting of LPG Containers
+
+6101.5.1 Connecting and Disconnecting of LPG Containers
+The connecting and disconnecting of LPG
+containers
+with a capacity greater than 16.4 ounces (0.465 kg) shall be conducted by a person holding a
+certificate of fitness
+.
+
+---
+
+The connecting and disconnecting of LPG
+containers
+with a capacity greater than 16.4 ounces (0.465 kg) shall be conducted by a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 6101.5.2: Tar Kettles
+
+6101.5.2 Tar Kettles
+The storage,
+handling
+and use of a
+tar kettle
+that requires a
+permit
+shall be under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+The storage,
+handling
+and use of a
+tar kettle
+that requires a
+permit
+shall be under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 6101.5.3: Torch Operations
+
+6101.5.3 Torch Operations
+Torch operations using LPG
+containers
+with a capacity greater than 16.4 ounces (0.465 kg)
+LPG
+shall be performed by a person holding a
+certificate of fitness
+.
+
+---
+
+Torch operations using LPG
+containers
+with a capacity greater than 16.4 ounces (0.465 kg)
+LPG
+shall be performed by a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 6101.5.4: Curing Concrete, Drying Plaster and Similar Applications
+
+6101.5.4 Curing Concrete, Drying Plaster and Similar Applications
+The use of LPG for curing concrete, drying plaster and similar
+applications
+shall be under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+The use of LPG for curing concrete, drying plaster and similar
+applications
+shall be under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 6101.5.5: Manhole Operations
+
+6101.5.5 Manhole Operations
+The storage,
+handling
+and use of
+LPG
+at manhole operations shall be under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+The storage,
+handling
+and use of
+LPG
+at manhole operations shall be under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 6101.5.6: Street Fairs and Similar Outdoor Gatherings
+
+6101.5.6 Street Fairs and Similar Outdoor Gatherings
+The storage,
+handling
+and use of LPG at street fairs and similar outdoor gatherings shall be under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+The storage,
+handling
+and use of LPG at street fairs and similar outdoor gatherings shall be under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 6101.5.7: Hot Air Balloon Tethering Operation
+
+6101.5.7 Hot Air Balloon Tethering Operation
+The storage,
+handling
+and use of
+LPG
+for hot air balloon tethering operations shall be under the
+personal supervision
+of a person holding a
+certificate of fitness
+and a United States Federal Aviation Administration license, except as may otherwise be provided in the
+rules
+.
+
+---
+
+The storage,
+handling
+and use of
+LPG
+for hot air balloon tethering operations shall be under the
+personal supervision
+of a person holding a
+certificate of fitness
+and a United States Federal Aviation Administration license, except as may otherwise be provided in the
+rules
+.
+
+---
+
+## Section 6101.5.8: Outdoor Storage for Sale
+
+6101.5.8 Outdoor Storage for Sale
+Except for
+automated container exchange systems
+subject to
+FC6109.15.1
+, outdoor storage of
+LPG
+for sale at mercantile establishments shall be under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+Except for
+automated container exchange systems
+subject to
+FC6109.15.1
+, outdoor storage of
+LPG
+for sale at mercantile establishments shall be under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 6101.5.9: General Supervision
+
+6101.5.9 General Supervision
+Except as otherwise provided in
+FC 6101.5.1
+through
+6101.5.8
+, the storage and use of
+LPG
+in quantities requiring a
+permit
+shall be under the
+general supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+Except as otherwise provided in
+FC 6101.5.1
+through
+6101.5.8
+, the storage and use of
+LPG
+in quantities requiring a
+permit
+shall be under the
+general supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+Section 6102 Definitions
+
+---
+
+## Section 6102.1: Definitions
+
+6102.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+AUTOMATED CONTAINER EXCHANGE SYSTEM
+.
+LIQUEFIED PETROLEUM GAS
+(
+LPG
+).
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+AUTOMATED CONTAINER EXCHANGE SYSTEM
+.
+LIQUEFIED PETROLEUM GAS
+(
+LPG
+).
+
+---
+
+Section 6103 Installation of Equipment
+
+---
+
+## Section 6103.1: General
+
+6103.1 General
+LPG
+equipment shall be installed in accordance with the
+construction codes
+, including the
+Fuel Gas Code
+, the
+rules
+and NFPA 58, except as otherwise provided in this chapter.
+
+---
+
+LPG
+equipment shall be installed in accordance with the
+construction codes
+, including the
+Fuel Gas Code
+, the
+rules
+and NFPA 58, except as otherwise provided in this chapter.
+
+---
+
+## Section 6103.2: Indoor Storage, Handling and Use of LPG Containers
+
+6103.2 Indoor Storage, Handling and Use of LPG Containers
+The storage,
+handling
+and use of
+LPG
+containers
+indoors
+shall be in accordance with
+FC 6103.2.1
+and
+6103.2.2
+.
+
+---
+
+The storage,
+handling
+and use of
+LPG
+containers
+indoors
+shall be in accordance with
+FC 6103.2.1
+and
+6103.2.2
+.
+
+---
+
+## Section 6103.2.1: Portable Containers
+
+6103.2.1 Portable Containers
+Portable
+LPG
+containers
+, as defined in NFPA 58, shall not be stored, handled or used
+indoors
+except as authorized by the
+commissioner
+, NFPA 58 and
+FC 6103.2.1.1
+through
+6103.2.1.8
+.
+
+---
+
+Portable
+LPG
+containers
+, as defined in NFPA 58, shall not be stored, handled or used
+indoors
+except as authorized by the
+commissioner
+, NFPA 58 and
+FC 6103.2.1.1
+through
+6103.2.1.8
+.
+
+---
+
+## Section 6103.2.1.1: Use in Basement, Pit or Other Area Below Grade
+
+6103.2.1.1 Use in Basement, Pit or Other Area Below Grade
+LPG
+containers
+shall not be used in a cellar, basement, pit or other area below grade where heavier-than-air gas might collect.
+LPG
+containers
+shall not be used in an above-grade underfloor space or basement unless such location is provided with an
+approved
+means of
+ventilation
+.
+Exceptions:
+Use with self-contained torch assemblies in accordance with
+FC6103.2.1.6
+and the
+rules
+.
+Manhole operations in accordance with the
+rules
+.
+
+---
+
+LPG
+containers
+shall not be used in a cellar, basement, pit or other area below grade where heavier-than-air gas might collect.
+LPG
+containers
+shall not be used in an above-grade underfloor space or basement unless such location is provided with an
+approved
+means of
+ventilation
+.
+Exceptions:
+Use with self-contained torch assemblies in accordance with
+FC6103.2.1.6
+and the
+rules
+.
+Manhole operations in accordance with the
+rules
+.
+
+---
+
+## Section 6103.2.1.2: Construction Site Heating
+
+6103.2.1.2 Construction Site Heating
+Portable
+containers
+may be used in buildings, or parts thereof, undergoing construction, in accordance with NFPA 58,
+FC 313.5
+and
+3303
+, and the
+rules
+.
+
+---
+
+Portable
+containers
+may be used in buildings, or parts thereof, undergoing construction, in accordance with NFPA 58,
+FC 313.5
+and
+3303
+, and the
+rules
+.
+
+---
+
+## Section 6103.2.1.3: Group F Occupancies
+
+6103.2.1.3 Group F Occupancies
+Portable
+LPG
+containers
+shall not be stored, handled or used
+indoors
+in
+Group F
+occupancies
+, except as the
+commissioner
+may authorize by rule.
+
+---
+
+Portable
+LPG
+containers
+shall not be stored, handled or used
+indoors
+in
+Group F
+occupancies
+, except as the
+commissioner
+may authorize by rule.
+
+---
+
+## Section 6103.2.1.4: Group E and I Occupancies
+
+6103.2.1.4 Group E and I Occupancies
+Portable
+LPG
+containers
+shall not be allowed in
+Group E
+and I
+occupancies
+, except as set forth in this section and the
+rules
+. In
+Group E
+and I
+occupancies
+, portable LPG
+containers
+are allowed to be used for research purposes. Such
+containers
+shall not be used in classrooms. Such
+containers
+shall not exceed 16.4 ounces (0.465 kg) of
+LPG
+. Where more than one such
+container
+is present in the same room, each
+container
+shall be separated from other
+containers
+by a distance of not less than 20 feet (6096 mm).
+
+---
+
+Portable
+LPG
+containers
+shall not be allowed in
+Group E
+and I
+occupancies
+, except as set forth in this section and the
+rules
+. In
+Group E
+and I
+occupancies
+, portable LPG
+containers
+are allowed to be used for research purposes. Such
+containers
+shall not be used in classrooms. Such
+containers
+shall not exceed 16.4 ounces (0.465 kg) of
+LPG
+. Where more than one such
+container
+is present in the same room, each
+container
+shall be separated from other
+containers
+by a distance of not less than 20 feet (6096 mm).
+
+---
+
+## Section 6103.2.1.5: Group A Occupancies
+
+6103.2.1.5 Group A Occupancies
+Portable LPG
+containers
+may be brought into a building on a temporary basis for use in conducting a demonstration, or in connection with a trade show or other public exhibition. Such use, and incidental storage and
+handling
+, shall be in accordance with the
+rules
+, and the
+containers
+shall be promptly removed from the
+premises
+upon completion of the demonstration or exhibition. Where more than one LPG
+container
+is in use in the same room, and are fueling different devices or equipment, the
+containers
+shall be separated from each other by a distance of not less than 20 feet (6096 mm).
+
+---
+
+Portable LPG
+containers
+may be brought into a building on a temporary basis for use in conducting a demonstration, or in connection with a trade show or other public exhibition. Such use, and incidental storage and
+handling
+, shall be in accordance with the
+rules
+, and the
+containers
+shall be promptly removed from the
+premises
+upon completion of the demonstration or exhibition. Where more than one LPG
+container
+is in use in the same room, and are fueling different devices or equipment, the
+containers
+shall be separated from each other by a distance of not less than 20 feet (6096 mm).
+
+---
+
+## Section 6103.2.1.6: Use With Self-Contained Torch Assemblies
+
+6103.2.1.6 Use With Self-Contained Torch Assemblies
+Portable LPG
+containers
+are allowed to be used to supply
+approved
+self-contained torch assemblies. Such
+containers
+shall not exceed 16.4 ounces (0.465 kg) of
+LPG
+.
+
+---
+
+Portable LPG
+containers
+are allowed to be used to supply
+approved
+self-contained torch assemblies. Such
+containers
+shall not exceed 16.4 ounces (0.465 kg) of
+LPG
+.
+
+---
+
+## Section 6103.2.1.7: Use for Food Preparation
+
+6103.2.1.7 Use for Food Preparation
+Use of LPG for commercial cooking is allowed only when authorized by this code or the
+rules
+.
+
+---
+
+Use of LPG for commercial cooking is allowed only when authorized by this code or the
+rules
+.
+
+---
+
+## Section 6103.2.1.8: Residential Storage
+
+6103.2.1.8 Residential Storage
+LPG
+container
+storage in
+Group R
+-2 and R-3
+occupancies
+shall not exceed four
+containers
+per dwelling unit, each
+container
+having a capacity not exceeding 16.4 ounces (0.465 kg) of
+LPG
+. Storage of such
+LPG
+containers
+in a basement, cellar or other area below grade is prohibited.
+
+---
+
+LPG
+container
+storage in
+Group R
+-2 and R-3
+occupancies
+shall not exceed four
+containers
+per dwelling unit, each
+container
+having a capacity not exceeding 16.4 ounces (0.465 kg) of
+LPG
+. Storage of such
+LPG
+containers
+in a basement, cellar or other area below grade is prohibited.
+
+---
+
+## Section 6103.2.2: Industrial Vehicles
+
+6103.2.2 Industrial Vehicles
+Containers
+on industrial vehicles shall comply with the requirements of
+FC309
+, NFPA 58, and the
+rules
+.
+
+---
+
+Containers
+on industrial vehicles shall comply with the requirements of
+FC309
+, NFPA 58, and the
+rules
+.
+
+---
+
+## Section 6103.3: Location of Equipment and Piping
+
+6103.3 Location of Equipment and Piping
+Equipment and piping shall not be installed in locations where such equipment and piping is prohibited by the
+construction codes
+, including the
+Fuel Gas Code
+, or the
+rules
+.
+
+---
+
+Equipment and piping shall not be installed in locations where such equipment and piping is prohibited by the
+construction codes
+, including the
+Fuel Gas Code
+, or the
+rules
+.
+
+---
+
+Section 6104 Reserved
+
+---
+
+Section 6105 Prohibited Storage, Handling and Use of LPG
+
+---
+
+## Section 6105.1: Unapproved Equipment
+
+6105.1 Unapproved Equipment
+LPG
+shall not be used for the purpose of operating any device, equipment or
+system
+unless such device, equipment or
+system
+is
+approved
+for use with LPG.
+
+---
+
+LPG
+shall not be used for the purpose of operating any device, equipment or
+system
+unless such device, equipment or
+system
+is
+approved
+for use with LPG.
+
+---
+
+## Section 6105.2: Release to the Atmosphere
+
+6105.2 Release to the Atmosphere
+LPG
+shall not be released to the atmosphere except as authorized by the
+commissioner
+.
+
+---
+
+LPG
+shall not be released to the atmosphere except as authorized by the
+commissioner
+.
+
+---
+
+## Section 6105.3: General Prohibitions
+
+6105.3 General Prohibitions
+It shall be unlawful to:
+store, handle or use LPG in any
+container
+with a capacity greater than 100 pounds (45.4 kg) of
+LPG
+.
+store, handle or use
+LPG
+in a basement, cellar or other area below grade, except as authorized by the
+commissioner
+.
+store LPG in any outdoor or
+indoor
+storage
+facility
+, or store, handle or use
+LPG
+for a stationary
+LPG
+installation that has not been
+approved
+.
+store, handle or use LPG without a
+permit
+when such storage,
+handling
+or use exceeds the quantities set forth in
+FC105.6
+.
+store, handle or use in, or bring or allow into, any residential
+occupancy
+, or on any lot containing a building used for a residential
+occupancy
+, any LPG
+container
+with a capacity greater than 16.4 ounces (0.465 kg), except as authorized by the
+commissioner
+.
+store, handle or use in, or bring or allow into, any nonresidential building, any LPG
+container
+with a capacity greater than 16.4 ounces (0.465 kg) LPG, except as authorized by the
+commissioner
+.
+store LPG
+containers
+on the roof of any building.
+handle or use on the roof of any building LPG
+containers
+with a capacity greater than 16.4 ounces (0.465 kg), except as authorized by the
+commissioner
+.
+store, handle or use LPG in or on
+motor vehicles
+, except as temporary storage incidental to transportation, or as a fuel for generating motive power for a
+motor vehicle
+, or as otherwise authorized by the
+commissioner
+.
+store, handle or use
+LPG
+for a stationary
+LPG
+installation in any area where access to
+piped natural gas
+from a public utility is available, except as authorized by the
+commissioner
+.
+store, handle or use LPG in any equipment used or previously used for
+natural gas
+, except as may be authorized by the
+commissioner
+on an emergency basis.
+store, handle or use LPG for space heating or water heating, except as authorized by the
+commissioner
+.
+store, handle or use LPG in or for any appliance that withdraws or utilizes LPG in a
+liquid
+form except as authorized by the
+commissioner
+.
+use nonmetallic pipe, tubing and components for any installation, appliance or equipment using LPG, except as authorized by the
+commissioner
+.
+store LPG
+containers
+with a capacity greater than 16.4 ounces (0.465 kg) LPG
+indoors
+in any residential
+occupancy
+and in any building where an outdoor location for such LPG
+container
+storage is available.
+store or operate a floor
+maintenance
+machine utilizing
+LPG
+indoors
+.
+manufacture
+LPG
+.
+dispense
+LPG
+and fill
+LPG
+containers
+as set forth in
+FC6106
+.
+
+---
+
+It shall be unlawful to:
+store, handle or use LPG in any
+container
+with a capacity greater than 100 pounds (45.4 kg) of
+LPG
+.
+store, handle or use
+LPG
+in a basement, cellar or other area below grade, except as authorized by the
+commissioner
+.
+store LPG in any outdoor or
+indoor
+storage
+facility
+, or store, handle or use
+LPG
+for a stationary
+LPG
+installation that has not been
+approved
+.
+store, handle or use LPG without a
+permit
+when such storage,
+handling
+or use exceeds the quantities set forth in
+FC105.6
+.
+store, handle or use in, or bring or allow into, any residential
+occupancy
+, or on any lot containing a building used for a residential
+occupancy
+, any LPG
+container
+with a capacity greater than 16.4 ounces (0.465 kg), except as authorized by the
+commissioner
+.
+store, handle or use in, or bring or allow into, any nonresidential building, any LPG
+container
+with a capacity greater than 16.4 ounces (0.465 kg) LPG, except as authorized by the
+commissioner
+.
+store LPG
+containers
+on the roof of any building.
+handle or use on the roof of any building LPG
+containers
+with a capacity greater than 16.4 ounces (0.465 kg), except as authorized by the
+commissioner
+.
+store, handle or use LPG in or on
+motor vehicles
+, except as temporary storage incidental to transportation, or as a fuel for generating motive power for a
+motor vehicle
+, or as otherwise authorized by the
+commissioner
+.
+store, handle or use
+LPG
+for a stationary
+LPG
+installation in any area where access to
+piped natural gas
+from a public utility is available, except as authorized by the
+commissioner
+.
+store, handle or use LPG in any equipment used or previously used for
+natural gas
+, except as may be authorized by the
+commissioner
+on an emergency basis.
+store, handle or use LPG for space heating or water heating, except as authorized by the
+commissioner
+.
+store, handle or use LPG in or for any appliance that withdraws or utilizes LPG in a
+liquid
+form except as authorized by the
+commissioner
+.
+use nonmetallic pipe, tubing and components for any installation, appliance or equipment using LPG, except as authorized by the
+commissioner
+.
+store LPG
+containers
+with a capacity greater than 16.4 ounces (0.465 kg) LPG
+indoors
+in any residential
+occupancy
+and in any building where an outdoor location for such LPG
+container
+storage is available.
+store or operate a floor
+maintenance
+machine utilizing
+LPG
+indoors
+.
+manufacture
+LPG
+.
+dispense
+LPG
+and fill
+LPG
+containers
+as set forth in
+FC6106
+.
+
+---
+
+Section 6106 Dispensing and Filling
+
+---
+
+## Section 6106.1: Dispensing and Filling
+
+6106.1 Dispensing and Filling
+It shall be unlawful to dispense
+LPG
+, fill a
+container
+with
+LPG
+, or transfer
+LPG
+in any state from one
+container
+to another.
+
+---
+
+It shall be unlawful to dispense
+LPG
+, fill a
+container
+with
+LPG
+, or transfer
+LPG
+in any state from one
+container
+to another.
+
+---
+
+Section 6107 Safety Precautions and Devices
+
+---
+
+## Section 6107.1: Safety Devices
+
+6107.1 Safety Devices
+Safety devices on
+LPG
+containers
+, equipment and
+systems
+shall not be tampered with or otherwise rendered inoperable and the service unsafe.
+
+---
+
+Safety devices on
+LPG
+containers
+, equipment and
+systems
+shall not be tampered with or otherwise rendered inoperable and the service unsafe.
+
+---
+
+## Section 6107.2: Smoking and Other Sources of Ignition
+
+6107.2 Smoking and Other Sources of Ignition
+"No Smoking" signs complying with the requirements of
+FC310
+shall be posted when required by the
+commissioner
+. Smoking is prohibited in accordance with
+FC Chapter 3
+. Control of other sources of ignition shall comply with the requirements of
+FC Chapter 3
+and NFPA 58.
+
+---
+
+"No Smoking" signs complying with the requirements of
+FC310
+shall be posted when required by the
+commissioner
+. Smoking is prohibited in accordance with
+FC Chapter 3
+. Control of other sources of ignition shall comply with the requirements of
+FC Chapter 3
+and NFPA 58.
+
+---
+
+## Section 6107.3: Clearance to Combustibles
+
+6107.3 Clearance to Combustibles
+LPG
+containers
+shall be kept a minimum of 10 feet (3048 mm) from
+vegetation
+,
+rubbish
+and other
+combustible waste
+and combustible materials.
+
+---
+
+LPG
+containers
+shall be kept a minimum of 10 feet (3048 mm) from
+vegetation
+,
+rubbish
+and other
+combustible waste
+and combustible materials.
+
+---
+
+## Section 6107.4: Protecting Containers From Vehicles
+
+6107.4 Protecting Containers From Vehicles
+Where exposed to vehicular damage due to proximity to alleys, driveways or parking areas or when required by the
+commissioner
+,
+LPG
+containers
+, regulators and piping shall be protected in accordance with
+FC312
+.
+
+---
+
+Where exposed to vehicular damage due to proximity to alleys, driveways or parking areas or when required by the
+commissioner
+,
+LPG
+containers
+, regulators and piping shall be protected in accordance with
+FC312
+.
+
+---
+
+Section 6108 Portable Fire Extinguishers
+
+---
+
+6108.1
+Reserved
+.
+
+---
+
+Reserved
+.
+
+---
+
+## Section 6108.2: Portable Fire Extinguishers
+
+6108.2 Portable Fire Extinguishers
+Portable
+fire
+extinguishers complying with the requirements of
+FC906
+shall be provided as specified in NFPA 58 and the
+rules
+.
+
+---
+
+Portable
+fire
+extinguishers complying with the requirements of
+FC906
+shall be provided as specified in NFPA 58 and the
+rules
+.
+
+---
+
+Section 6109 Storage of Portable LPG Containers
+
+---
+
+## Section 6109.1: General
+
+6109.1 General
+Storage of portable
+LPG
+containers
+shall comply with the requirements of
+FC6109.2
+through
+6109.14
+, and shall be
+approved
+by the
+commissioner
+.
+Exceptions:
+Containers
+that have not previously contained
+LPG
+.
+Containers
+stored for use at
+construction sites
+.
+
+---
+
+Storage of portable
+LPG
+containers
+shall comply with the requirements of
+FC6109.2
+through
+6109.14
+, and shall be
+approved
+by the
+commissioner
+.
+Exceptions:
+Containers
+that have not previously contained
+LPG
+.
+Containers
+stored for use at
+construction sites
+.
+
+---
+
+## Section 6109.2: Exposure Hazards
+
+6109.2 Exposure Hazards
+Containers
+in storage shall be stored in locations that minimize exposure to physical damage, tampering or excessive temperature rise.
+
+---
+
+Containers
+in storage shall be stored in locations that minimize exposure to physical damage, tampering or excessive temperature rise.
+
+---
+
+## Section 6109.3: Position
+
+6109.3 Position
+Containers
+in storage having individual capacity greater than 1 pound (0.454 kg) of
+LPG
+shall be positioned with the pressure relief valve in direct communication with the vapor space of the
+container
+.
+
+---
+
+Containers
+in storage having individual capacity greater than 1 pound (0.454 kg) of
+LPG
+shall be positioned with the pressure relief valve in direct communication with the vapor space of the
+container
+.
+
+---
+
+## Section 6109.4: Separation From Means of Egress
+
+6109.4 Separation From Means of Egress
+Containers
+shall not be stored or left unattended near
+exit access
+doors,
+exits
+, stairways, exit
+discharge areas
+, or other areas designed or used as a
+means of egress
+.
+
+---
+
+Containers
+shall not be stored or left unattended near
+exit access
+doors,
+exits
+, stairways, exit
+discharge areas
+, or other areas designed or used as a
+means of egress
+.
+
+---
+
+## Section 6109.5: Quantity
+
+6109.5 Quantity
+Empty
+containers
+that have been in
+LPG
+service shall be considered as full
+containers
+for the purpose of determining the maximum quantities of LPG allowed in
+FC 6109.9
+and
+6109.11
+.
+
+---
+
+Empty
+containers
+that have been in
+LPG
+service shall be considered as full
+containers
+for the purpose of determining the maximum quantities of LPG allowed in
+FC 6109.9
+and
+6109.11
+.
+
+---
+
+## Section 6109.6: Storage on Roofs
+
+6109.6 Storage on Roofs
+Containers
+shall not be stored, or connected for use in a stationary LPG installation, on the roof of any building or structure.
+
+---
+
+Containers
+shall not be stored, or connected for use in a stationary LPG installation, on the roof of any building or structure.
+
+---
+
+## Section 6109.7: Storage in Basement, Pit or Other Area Below Grade
+
+6109.7 Storage in Basement, Pit or Other Area Below Grade
+LPG
+containers
+shall not be stored in a cellar, basement, pit or other area below grade.
+
+---
+
+LPG
+containers
+shall not be stored in a cellar, basement, pit or other area below grade.
+
+---
+
+## Section 6109.8: Protection of Valves on Containers in Storage
+
+6109.8 Protection of Valves on Containers in Storage
+Container
+valves shall be protected by screw-on-type caps or collars which shall be securely in place on all
+containers
+stored regardless of whether they are full, partially full or empty.
+Container
+outlet valves shall be closed.
+
+---
+
+Container
+valves shall be protected by screw-on-type caps or collars which shall be securely in place on all
+containers
+stored regardless of whether they are full, partially full or empty.
+Container
+outlet valves shall be closed.
+
+---
+
+## Section 6109.9: Storage Within Buildings Accessible to the Public
+
+6109.9 Storage Within Buildings Accessible to the Public
+LPG
+containers
+constructed in accordance with the United States
+Department
+of Transportation (
+DOTn
+) specifications with a maximum capacity of 16.4 ounces (0.465 kg) of LPG used in completely self-contained hand
+torches
+and similar devices are allowed to be stored for sale or displayed in a building accessible to the public. Buildings shall be protected by a
+sprinkler system
+in storage and display areas when quantities exceed
+permit
+amounts. The quantity of
+LPG
+shall not exceed 200 pounds (91 kg).
+
+---
+
+LPG
+containers
+constructed in accordance with the United States
+Department
+of Transportation (
+DOTn
+) specifications with a maximum capacity of 16.4 ounces (0.465 kg) of LPG used in completely self-contained hand
+torches
+and similar devices are allowed to be stored for sale or displayed in a building accessible to the public. Buildings shall be protected by a
+sprinkler system
+in storage and display areas when quantities exceed
+permit
+amounts. The quantity of
+LPG
+shall not exceed 200 pounds (91 kg).
+
+---
+
+## Section 6109.10: Storage Within Buildings Not Accessible to the Public
+
+6109.10 Storage Within Buildings Not Accessible to the Public
+The quantity of LPG
+containers
+allowed in one storage location in a building not accessible to the public, such as an industrial building, shall not exceed a maximum capacity of 300 pounds (136 kg) of
+LPG
+. Where
+LPG
+containers
+are stored in more than one location on the same floor of a building, the storage areas shall be separated by a minimum of 300 feet (91 440 mm).
+Exception:
+Storage of
+LPG
+at
+construction sites
+shall be in accordance with the
+rules
+.
+
+---
+
+The quantity of LPG
+containers
+allowed in one storage location in a building not accessible to the public, such as an industrial building, shall not exceed a maximum capacity of 300 pounds (136 kg) of
+LPG
+. Where
+LPG
+containers
+are stored in more than one location on the same floor of a building, the storage areas shall be separated by a minimum of 300 feet (91 440 mm).
+Exception:
+Storage of
+LPG
+at
+construction sites
+shall be in accordance with the
+rules
+.
+
+---
+
+6109.11
+Reserved
+.
+
+---
+
+Reserved
+.
+
+---
+
+## Section 6109.12: Location of Outdoor Storage
+
+6109.12 Location of Outdoor Storage
+Outdoor storage, including storage of
+containers
+for sale and
+containers
+connected for use, shall be located not less than 20 feet (6096 mm) from building openings, 20 feet (6096 mm) from any
+motor vehicle
+fuel dispenser and 10 feet (3048 mm) from any combustible material and, as applicable, in accordance with FC Table 6109.12. Outdoor storage of
+LPG
+shall be limited to not more than 400 pounds (181.6 kg) of
+LPG
+and shall be located at or above grade level.
+Exception:
+Storage of
+LPG
+at
+construction sites
+shall be in accordance with the
+rules
+.
+FC
+TABLE 6109.12
+DISTANCES FROM OUTDOOR LPG STORAGE AREA TO EXPOSURES
+TYPE OF OUTDOOR EXPOSURE
+LPG
+STORAGE AREA MORE THAN 100 POUNDS
+LPG
+UP TO MAXIMUM 400 POUNDS
+LPG
+MINIMUM DISTANCE TO EXPOSURE (FEET)
+Building or structure of combustible construction
+10
+Subway entrance,
+exit
+or other opening
+25
+Flammable and
+combustible liquids
+Aboveground — 1,000 gallons or less
+10
+a
+Flammable and
+combustible liquids
+Aboveground — in excess of 1,000 gallons
+20
+a
+Flammable and
+combustible liquids
+Below ground
+tank
+— 1,000 gallons or less
+10
+a
+Flammable and
+combustible liquids
+Below ground
+tank
+— 1,000 gallons or less
+Vent or fill opening of
+tank
+15
+a
+Flammable and
+combustible liquids
+Below ground
+tank
+— in excess of 1,000 gallons
+15
+a
+Flammable and
+combustible liquids
+Below ground
+tank
+— in excess of 1,000 gallons
+Vent or fill opening of
+tank
+15
+a
+Flammable gas
+storage area, 1,500
+SCF
+or less
+10
+a
+Flammable gas
+storage area,
+More than 1,500
+SCF
+up to maximum 3,500 SCF
+20
+a
+Oxygen storage — 20,000 SCF or less
+In accordance with NFPA 51
+a
+Oxygen storage — in excess of 20,000 SCF
+In accordance with NFPA 55
+a
+Fast-burning
+solids
+, such as ordinary lumber, excelsior or paper
+10
+a
+Slow-burning
+solids
+, such as heavy timber or coal
+10
+a
+Air compressor intakes or inlets to heating, ventilating or air-conditioning equipment
+5
+Group A
+occupancies
+and public gathering places
+25
+Public sidewalks and parked
+motor vehicles
+10
+Public streets
+,
+private roads
+and lot lines
+10
+a
+For SI: 1 foot = 304.8 mm, 1 cubic foot = 0.02832 m
+3
+, 1 gallon = 3.785 L.
+The minimum required distances may be reduced to 5 feet when protective structures having a minimum
+fire
+-resistance rating of 2 hours interrupt the line of sight between the
+container
+and the exposure. The protective structure shall be at least 5 feet from the exposure. The configuration of the protective structure shall be designed to allow natural
+ventilation
+to prevent the accumulation of hazardous gas concentrations.
+
+---
+
+Outdoor storage, including storage of
+containers
+for sale and
+containers
+connected for use, shall be located not less than 20 feet (6096 mm) from building openings, 20 feet (6096 mm) from any
+motor vehicle
+fuel dispenser and 10 feet (3048 mm) from any combustible material and, as applicable, in accordance with FC Table 6109.12. Outdoor storage of
+LPG
+shall be limited to not more than 400 pounds (181.6 kg) of
+LPG
+and shall be located at or above grade level.
+Exception:
+Storage of
+LPG
+at
+construction sites
+shall be in accordance with the
+rules
+.
+FC
+TABLE 6109.12
+DISTANCES FROM OUTDOOR LPG STORAGE AREA TO EXPOSURES
+TYPE OF OUTDOOR EXPOSURE
+LPG
+STORAGE AREA MORE THAN 100 POUNDS
+LPG
+UP TO MAXIMUM 400 POUNDS
+LPG
+MINIMUM DISTANCE TO EXPOSURE (FEET)
+Building or structure of combustible construction
+10
+Subway entrance,
+exit
+or other opening
+25
+Flammable and
+combustible liquids
+Aboveground — 1,000 gallons or less
+10
+a
+Flammable and
+combustible liquids
+Aboveground — in excess of 1,000 gallons
+20
+a
+Flammable and
+combustible liquids
+Below ground
+tank
+— 1,000 gallons or less
+10
+a
+Flammable and
+combustible liquids
+Below ground
+tank
+— 1,000 gallons or less
+Vent or fill opening of
+tank
+15
+a
+Flammable and
+combustible liquids
+Below ground
+tank
+— in excess of 1,000 gallons
+15
+a
+Flammable and
+combustible liquids
+Below ground
+tank
+— in excess of 1,000 gallons
+Vent or fill opening of
+tank
+15
+a
+Flammable gas
+storage area, 1,500
+SCF
+or less
+10
+a
+Flammable gas
+storage area,
+More than 1,500
+SCF
+up to maximum 3,500 SCF
+20
+a
+Oxygen storage — 20,000 SCF or less
+In accordance with NFPA 51
+a
+Oxygen storage — in excess of 20,000 SCF
+In accordance with NFPA 55
+a
+Fast-burning
+solids
+, such as ordinary lumber, excelsior or paper
+10
+a
+Slow-burning
+solids
+, such as heavy timber or coal
+10
+a
+Air compressor intakes or inlets to heating, ventilating or air-conditioning equipment
+5
+Group A
+occupancies
+and public gathering places
+25
+Public sidewalks and parked
+motor vehicles
+10
+Public streets
+,
+private roads
+and lot lines
+10
+a
+For SI: 1 foot = 304.8 mm, 1 cubic foot = 0.02832 m
+3
+, 1 gallon = 3.785 L.
+The minimum required distances may be reduced to 5 feet when protective structures having a minimum
+fire
+-resistance rating of 2 hours interrupt the line of sight between the
+container
+and the exposure. The protective structure shall be at least 5 feet from the exposure. The configuration of the protective structure shall be designed to allow natural
+ventilation
+to prevent the accumulation of hazardous gas concentrations.
+
+---
+
+## Section 6109.12.1: Proximity to Hazards
+
+6109.12.1 Proximity to Hazards
+Storage shall not be located where the stored
+LPG
+would be exposed to the following hazards in the event of the failure of their structure or
+containment systems
+:
+Electric power lines.
+Piping containing flammable or
+combustible liquids
+.
+Piping containing flammable gases.
+Piping containing oxidizing materials.
+
+---
+
+Storage shall not be located where the stored
+LPG
+would be exposed to the following hazards in the event of the failure of their structure or
+containment systems
+:
+Electric power lines.
+Piping containing flammable or
+combustible liquids
+.
+Piping containing flammable gases.
+Piping containing oxidizing materials.
+
+---
+
+## Section 6109.13: Protection of Containers
+
+6109.13 Protection of Containers
+Containers
+shall be stored within a suitable enclosure or otherwise protected against tampering. Vehicular protection shall be provided as required by the
+commissioner
+.
+
+---
+
+Containers
+shall be stored within a suitable enclosure or otherwise protected against tampering. Vehicular protection shall be provided as required by the
+commissioner
+.
+
+---
+
+## Section 6109.14: Electrical Equipment
+
+6109.14 Electrical Equipment
+Except as otherwise provided in NFPA 58,
+electrical equipment
+within 3 feet (914 mm) in any direction of an outdoor
+LPG
+facility
+shall comply with the Class I, Division 2 wiring requirements of the
+Electrical Code
+for hazardous locations, unless
+electrical equipment
+is separated from such area by a wall or other
+solid
+partition having no openings.
+
+---
+
+Except as otherwise provided in NFPA 58,
+electrical equipment
+within 3 feet (914 mm) in any direction of an outdoor
+LPG
+facility
+shall comply with the Class I, Division 2 wiring requirements of the
+Electrical Code
+for hazardous locations, unless
+electrical equipment
+is separated from such area by a wall or other
+solid
+partition having no openings.
+
+---
+
+## Section 6109.15: LPG Container Storage for Sale
+
+6109.15 LPG Container Storage for Sale
+Outdoor storage of LPG for sale at mercantile establishments, including LPG
+container
+exchange stations, in areas accessible to the public, shall comply with the following requirements:
+Each storage
+facility
+shall store no more than 400 pounds (181.6 kg) of propane, with individual
+container
+capacity of no more than 20 pounds (9.1 kg).
+Containers
+shall be secured in a locked, fenced enclosure, ventilated listed cabinet or other
+approved
+location in accordance with the
+rules
+, or an
+automated container exchange system
+pursuant to
+FC6109.15.1
+.
+Containers
+shall be accessible only by
+certificate of fitness
+holders or by use of an automated exchange
+system
+in accordance with
+FC6109.15.1
+.
+A sign shall be posted at or near each entrance to the mercantile establishment stating "DO NOT BRING LPG
+CONTAINERS
+INTO THE BUILDING" or similar
+approved
+wording.
+A durable sign shall be conspicuously posted at or near the cylinder storage enclosure or cabinet identifying the
+vendor
+/supplier of the LPG
+containers
+and providing emergency contact information for the
+vendor
+/supplier.
+
+---
+
+Outdoor storage of LPG for sale at mercantile establishments, including LPG
+container
+exchange stations, in areas accessible to the public, shall comply with the following requirements:
+Each storage
+facility
+shall store no more than 400 pounds (181.6 kg) of propane, with individual
+container
+capacity of no more than 20 pounds (9.1 kg).
+Containers
+shall be secured in a locked, fenced enclosure, ventilated listed cabinet or other
+approved
+location in accordance with the
+rules
+, or an
+automated container exchange system
+pursuant to
+FC6109.15.1
+.
+Containers
+shall be accessible only by
+certificate of fitness
+holders or by use of an automated exchange
+system
+in accordance with
+FC6109.15.1
+.
+A sign shall be posted at or near each entrance to the mercantile establishment stating "DO NOT BRING LPG
+CONTAINERS
+INTO THE BUILDING" or similar
+approved
+wording.
+A durable sign shall be conspicuously posted at or near the cylinder storage enclosure or cabinet identifying the
+vendor
+/supplier of the LPG
+containers
+and providing emergency contact information for the
+vendor
+/supplier.
+
+---
+
+## Section 6109.15.1: Automated Container Exchange Systems
+
+6109.15.1 Automated Container Exchange Systems
+An
+automated container exchange system
+shall comply with the following additional requirements:
+The
+system
+shall operate only during
+regular business hours
+under the
+general supervision
+of authorized personnel holding a
+certificate of fitness
+.
+The
+system
+shall be designed and located with a full, unobstructed view of the
+system
+from within the mercantile establishment, either directly or with the use of mirrors or an
+approved
+closed-circuit television installation. The
+owner
+of the mercantile establishment shall take reasonable steps to ensure that
+system
+is monitored to prevent tampering or misuse.
+The
+system
+shall only allow access to a single
+container
+per transaction.
+The
+systems
+shall be designed such that
+containers
+can be placed inside only when they are oriented in the upright position.
+The
+system
+'s
+electrical
+components and all other
+electrical equipment
+within 3 feet (914 mm) of the
+system
+shall comply with the requirements for Class I, Division 2 equipment set forth in the
+Electrical Code
+.
+The
+system
+shall be equipped with a manual override control that enables authorized personnel to access the stored
+containers
+and/or disable the
+system
+from automated
+container
+exchange. The
+system
+shall not be capable of returning to automated operation after a manual override until the
+system
+has been inspected and reset by a trained and knowledgeable person employed by the company supplying and servicing the
+system
+.
+The
+system
+shall be inspected by a trained and knowledgeable person on a regular basis, but at least once a day, to confirm that there is no odor or other evidence of a gas leak, all compartments are closed and locked, and the
+system
+appears to be in good working order. If the
+system
+is not in good working order, the
+certificate of fitness
+holder and the company supplying and servicing the
+system
+shall be immediately notified and prompt corrective action shall be taken. Gas leaks shall be reported to the
+department
+by calling 911.
+
+---
+
+An
+automated container exchange system
+shall comply with the following additional requirements:
+The
+system
+shall operate only during
+regular business hours
+under the
+general supervision
+of authorized personnel holding a
+certificate of fitness
+.
+The
+system
+shall be designed and located with a full, unobstructed view of the
+system
+from within the mercantile establishment, either directly or with the use of mirrors or an
+approved
+closed-circuit television installation. The
+owner
+of the mercantile establishment shall take reasonable steps to ensure that
+system
+is monitored to prevent tampering or misuse.
+The
+system
+shall only allow access to a single
+container
+per transaction.
+The
+systems
+shall be designed such that
+containers
+can be placed inside only when they are oriented in the upright position.
+The
+system
+'s
+electrical
+components and all other
+electrical equipment
+within 3 feet (914 mm) of the
+system
+shall comply with the requirements for Class I, Division 2 equipment set forth in the
+Electrical Code
+.
+The
+system
+shall be equipped with a manual override control that enables authorized personnel to access the stored
+containers
+and/or disable the
+system
+from automated
+container
+exchange. The
+system
+shall not be capable of returning to automated operation after a manual override until the
+system
+has been inspected and reset by a trained and knowledgeable person employed by the company supplying and servicing the
+system
+.
+The
+system
+shall be inspected by a trained and knowledgeable person on a regular basis, but at least once a day, to confirm that there is no odor or other evidence of a gas leak, all compartments are closed and locked, and the
+system
+appears to be in good working order. If the
+system
+is not in good working order, the
+certificate of fitness
+holder and the company supplying and servicing the
+system
+shall be immediately notified and prompt corrective action shall be taken. Gas leaks shall be reported to the
+department
+by calling 911.
+
+---
+

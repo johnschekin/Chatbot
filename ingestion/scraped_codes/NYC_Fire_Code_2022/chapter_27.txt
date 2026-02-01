@@ -1,0 +1,3911 @@
+# NYC Fire Code 2022 - Chapter 27
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+2701 General
+
+---
+
+2702 Definitions
+
+---
+
+2703 General Safety Provisions
+
+---
+
+2704 Storage
+
+---
+
+2705 Handling and Use
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Section 2701 General
+
+---
+
+## Section 2701.1: Scope
+
+2701.1 Scope
+This chapter shall govern the design, installation, operation and
+maintenance
+of
+semiconductor fabrication facilities
+and comparable research and development
+facilities
+classified as
+Group H
+-5
+occupancies
+, and the storage,
+handling
+and use of
+hazardous materials
+therein.
+
+---
+
+This chapter shall govern the design, installation, operation and
+maintenance
+of
+semiconductor fabrication facilities
+and comparable research and development
+facilities
+classified as
+Group H
+-5
+occupancies
+, and the storage,
+handling
+and use of
+hazardous materials
+therein.
+
+---
+
+## Section 2701.2: Application
+
+2701.2 Application
+The requirements set forth in this chapter are requirements specific only to
+Group H
+-5 and shall be applied as exceptions or additions to applicable requirements set forth elsewhere in this code.
+
+---
+
+The requirements set forth in this chapter are requirements specific only to
+Group H
+-5 and shall be applied as exceptions or additions to applicable requirements set forth elsewhere in this code.
+
+---
+
+## Section 2701.3: Multiple Hazards
+
+2701.3 Multiple Hazards
+Where a material poses multiple hazards, all hazards shall be addressed in accordance with
+FC5001.1
+.
+
+---
+
+Where a material poses multiple hazards, all hazards shall be addressed in accordance with
+FC5001.1
+.
+
+---
+
+## Section 2701.4: General
+
+2701.4 General
+Semiconductor fabrication facilities
+and comparable research and development
+facilities
+classified as
+Group H
+-5
+occupancies
+shall be designed, installed, operated and maintained in accordance with this chapter. Such
+facilities
+and
+hazardous materials
+shall additionally comply with the requirements of the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Semiconductor fabrication facilities
+and comparable research and development
+facilities
+classified as
+Group H
+-5
+occupancies
+shall be designed, installed, operated and maintained in accordance with this chapter. Such
+facilities
+and
+hazardous materials
+shall additionally comply with the requirements of the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2701.5: Permits
+
+2701.5 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Section 2702 Definitions
+
+---
+
+## Section 2702.1: Definitions
+
+2702.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+CONTINUOUS GAS DETECTION SYSTEM
+.
+EMERGENCY CONTROL STATION
+.
+FABRICATION AREA
+.
+HAZARDOUS PRODUCTION MATERIAL (HPM)
+.
+HPM
+FLAMMABLE LIQUID
+.
+HPM ROOM
+.
+PASS-THROUGH
+.
+SEMICONDUCTOR FABRICATION
+FACILITY
+.
+SERVICE CORRIDOR
+.
+TOOL
+.
+WORKSTATION
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+CONTINUOUS GAS DETECTION SYSTEM
+.
+EMERGENCY CONTROL STATION
+.
+FABRICATION AREA
+.
+HAZARDOUS PRODUCTION MATERIAL (HPM)
+.
+HPM
+FLAMMABLE LIQUID
+.
+HPM ROOM
+.
+PASS-THROUGH
+.
+SEMICONDUCTOR FABRICATION
+FACILITY
+.
+SERVICE CORRIDOR
+.
+TOOL
+.
+WORKSTATION
+.
+
+---
+
+Section 2703 General Safety Provisions
+
+---
+
+## Section 2703.1: Emergency Control Station
+
+2703.1 Emergency Control Station
+An
+emergency control station
+shall be maintained in accordance with
+FC 2703.1.1
+through
+2703.1.3
+.
+
+---
+
+An
+emergency control station
+shall be maintained in accordance with
+FC 2703.1.1
+through
+2703.1.3
+.
+
+---
+
+## Section 2703.1.1: Location
+
+2703.1.1 Location
+The
+emergency control station
+shall be located on the
+premises
+at an
+approved
+location outside of the
+fabrication area
+.
+
+---
+
+The
+emergency control station
+shall be located on the
+premises
+at an
+approved
+location outside of the
+fabrication area
+.
+
+---
+
+## Section 2703.1.2: Staffing
+
+2703.1.2 Staffing
+Trained personnel shall continuously staff the
+emergency control station
+.
+
+---
+
+Trained personnel shall continuously staff the
+emergency control station
+.
+
+---
+
+## Section 2703.1.3: Signals
+
+2703.1.3 Signals
+The
+emergency control station
+shall monitor signals from emergency equipment and alarm and detection
+systems
+, including the following
+systems
+, whether required by this code or the
+construction codes
+or voluntarily installed:
+Sprinkler system
+alarm and monitoring
+systems
+.
+Manual
+fire alarm systems
+.
+Emergency alarm systems
+.
+Continuous-gas detection
+systems
+.
+Smoke detection
+systems
+.
+Emergency power
+systems
+.
+Automatic
+detection and alarm
+systems
+for pyrophoric
+liquids
+and Class 3 water-reactive
+liquids
+required by
+FC2705.2.3.4
+.
+Exhaust
+ventilation
+flow alarm devices for pyrophoric
+liquids
+and Class 3 water-reactive
+liquids
+cabinet exhaust
+ventilation
+systems
+required by
+FC2705.2.3.4
+.
+
+---
+
+The
+emergency control station
+shall monitor signals from emergency equipment and alarm and detection
+systems
+, including the following
+systems
+, whether required by this code or the
+construction codes
+or voluntarily installed:
+Sprinkler system
+alarm and monitoring
+systems
+.
+Manual
+fire alarm systems
+.
+Emergency alarm systems
+.
+Continuous-gas detection
+systems
+.
+Smoke detection
+systems
+.
+Emergency power
+systems
+.
+Automatic
+detection and alarm
+systems
+for pyrophoric
+liquids
+and Class 3 water-reactive
+liquids
+required by
+FC2705.2.3.4
+.
+Exhaust
+ventilation
+flow alarm devices for pyrophoric
+liquids
+and Class 3 water-reactive
+liquids
+cabinet exhaust
+ventilation
+systems
+required by
+FC2705.2.3.4
+.
+
+---
+
+## Section 2703.2: Devices, Equipment and Systems
+
+2703.2 Devices, Equipment and Systems
+Devices, equipment and
+systems
+including,
+containers
+, piping, tubing, valves and fittings shall comply with the requirements of this section, FC5003.2, and other applicable provisions of this code, and the
+construction codes
+, including the
+Building Code
+and the
+Mechanical Code
+.
+
+---
+
+Devices, equipment and
+systems
+including,
+containers
+, piping, tubing, valves and fittings shall comply with the requirements of this section, FC5003.2, and other applicable provisions of this code, and the
+construction codes
+, including the
+Building Code
+and the
+Mechanical Code
+.
+
+---
+
+## Section 2703.2.1: Additional Regulations for HPM Supply Piping and Tubing
+
+2703.2.1 Additional Regulations for HPM Supply Piping and Tubing
+The requirements set forth in
+FC5003.2.2.2
+shall apply to supply piping and tubing for HPM gases and
+liquids
+. Supply piping and tubing for HPM gases and
+liquids
+having a
+health-hazard
+ranking of 3 or 4 shall be welded throughout, except for connections located within a ventilated enclosure if the material is a gas, or an
+approved
+method of drainage or containment is provided for connections if the material is a
+liquid
+.
+
+---
+
+The requirements set forth in
+FC5003.2.2.2
+shall apply to supply piping and tubing for HPM gases and
+liquids
+. Supply piping and tubing for HPM gases and
+liquids
+having a
+health-hazard
+ranking of 3 or 4 shall be welded throughout, except for connections located within a ventilated enclosure if the material is a gas, or an
+approved
+method of drainage or containment is provided for connections if the material is a
+liquid
+.
+
+---
+
+## Section 2703.3: Design and Installation Requirements
+
+2703.3 Design and Installation Requirements
+Semiconductor fabrication facilities
+shall be designed and installed in accordance with
+FC 2703.3.1
+through
+2703.3.9
+.
+
+---
+
+Semiconductor fabrication facilities
+shall be designed and installed in accordance with
+FC 2703.3.1
+through
+2703.3.9
+.
+
+---
+
+## Section 2703.3.1: Fabrication Areas
+
+2703.3.1 Fabrication Areas
+Design, installation and location of
+fabrication areas
+shall comply with the requirements of the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Design, installation and location of
+fabrication areas
+shall comply with the requirements of the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2703.3.2: Pass-Throughs in Exit Access Corridors
+
+2703.3.2 Pass-Throughs in Exit Access Corridors
+Pass-throughs
+in
+exit access
+corridors shall be constructed in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Pass-throughs
+in
+exit access
+corridors shall be constructed in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2703.3.3: Liquid Storage Rooms
+
+2703.3.3 Liquid Storage Rooms
+Liquid storage rooms
+shall comply with the requirements of
+FC Chapter 57
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Liquid storage rooms
+shall comply with the requirements of
+FC Chapter 57
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2703.3.4: HPM Rooms
+
+2703.3.4 HPM Rooms
+HPM rooms
+shall comply with the requirements of the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+HPM rooms
+shall comply with the requirements of the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2703.3.5: Gas Cabinets
+
+2703.3.5 Gas Cabinets
+Gas cabinets
+shall comply with the requirements of
+FC5003.8.6
+.
+
+---
+
+Gas cabinets
+shall comply with the requirements of
+FC5003.8.6
+.
+
+---
+
+## Section 2703.3.6: Exhausted Enclosures
+
+2703.3.6 Exhausted Enclosures
+Exhausted enclosures
+shall comply with the requirements of
+FC5003.8.5
+.
+
+---
+
+Exhausted enclosures
+shall comply with the requirements of
+FC5003.8.5
+.
+
+---
+
+## Section 2703.3.7: Gas Rooms
+
+2703.3.7 Gas Rooms
+Gas rooms
+shall comply with the requirements of
+FC5003.8.4
+.
+
+---
+
+Gas rooms
+shall comply with the requirements of
+FC5003.8.4
+.
+
+---
+
+## Section 2703.3.8: Service Corridors
+
+2703.3.8 Service Corridors
+Service corridors
+shall comply with the requirements of
+FC2705.3.3
+and the
+Building Code
+.
+
+---
+
+Service corridors
+shall comply with the requirements of
+FC2705.3.3
+and the
+Building Code
+.
+
+---
+
+## Section 2703.3.9: Cabinets Containing Pyrophoric Liquids or Water-Reactive Class 3 Liquids
+
+2703.3.9 Cabinets Containing Pyrophoric Liquids or Water-Reactive Class 3 Liquids
+Cabinets in
+fabrication areas
+containing pyrophoric
+liquids
+or Class 3 water-reactive
+liquids
+in
+containers
+or in amounts greater than
+1
+/
+2
+gallon (2 L) shall comply with
+FC2705.2.3.4
+.
+
+---
+
+Cabinets in
+fabrication areas
+containing pyrophoric
+liquids
+or Class 3 water-reactive
+liquids
+in
+containers
+or in amounts greater than
+1
+/
+2
+gallon (2 L) shall comply with
+FC2705.2.3.4
+.
+
+---
+
+## Section 2703.4: Emergency Plan
+
+2703.4 Emergency Plan
+An emergency preparedness plan shall be prepared in accordance with
+FC Chapter 4
+.
+
+---
+
+An emergency preparedness plan shall be prepared in accordance with
+FC Chapter 4
+.
+
+---
+
+## Section 2703.5: Maintenance of Devices, Equipment, Systems and Processes
+
+2703.5 Maintenance of Devices, Equipment, Systems and Processes
+Maintenance
+of devices, equipment,
+systems
+and processes shall comply with the requirements of
+FC5003.2.6
+.
+
+---
+
+Maintenance
+of devices, equipment,
+systems
+and processes shall comply with the requirements of
+FC5003.2.6
+.
+
+---
+
+## Section 2703.6: Reserved
+
+2703.6 Reserved
+
+---
+
+## Section 2703.7: Electrical Wiring and Equipment
+
+2703.7 Electrical Wiring and Equipment
+Electrical
+wiring and equipment in HPM
+facilities
+shall comply with the requirements of
+FC 2703.7.1
+through
+2703.7.3
+.
+
+---
+
+Electrical
+wiring and equipment in HPM
+facilities
+shall comply with the requirements of
+FC 2703.7.1
+through
+2703.7.3
+.
+
+---
+
+## Section 2703.7.1: Fabrication Areas
+
+2703.7.1 Fabrication Areas
+Electrical
+wiring and equipment in
+fabrication areas
+shall comply with the requirements of the
+Building Code
+and
+Electrical Code
+.
+
+---
+
+Electrical
+wiring and equipment in
+fabrication areas
+shall comply with the requirements of the
+Building Code
+and
+Electrical Code
+.
+
+---
+
+## Section 2703.7.2: Workstations
+
+2703.7.2 Workstations
+Electrical equipment
+and devices within 5 feet (1524 mm) of
+workstations
+in which flammable or pyrophoric gases or
+flammable liquids
+are used shall comply with the requirements of the
+Electrical Code
+for Class I, Division 2 hazardous locations.
+Workstations
+shall not be energized without adequate exhaust
+ventilation
+in accordance with
+FC2703.14
+.
+Exception:
+Class I, Division 2 hazardous
+electrical equipment
+is not required when the air removal from the
+workstation
+or dilution will prevent the accumulation of flammable vapors and fumes on a continuous basis.
+
+---
+
+Electrical equipment
+and devices within 5 feet (1524 mm) of
+workstations
+in which flammable or pyrophoric gases or
+flammable liquids
+are used shall comply with the requirements of the
+Electrical Code
+for Class I, Division 2 hazardous locations.
+Workstations
+shall not be energized without adequate exhaust
+ventilation
+in accordance with
+FC2703.14
+.
+Exception:
+Class I, Division 2 hazardous
+electrical equipment
+is not required when the air removal from the
+workstation
+or dilution will prevent the accumulation of flammable vapors and fumes on a continuous basis.
+
+---
+
+## Section 2703.7.3: Hazardous Production Material (HPM) Rooms, Gas Rooms and Liquid Storage Rooms
+
+2703.7.3 Hazardous Production Material (HPM) Rooms, Gas Rooms and Liquid Storage Rooms
+Electrical
+wiring and equipment in
+HPM rooms
+,
+gas rooms
+and
+liquid storage rooms
+shall comply with the requirements of the
+Electrical Code
+.
+
+---
+
+Electrical
+wiring and equipment in
+HPM rooms
+,
+gas rooms
+and
+liquid storage rooms
+shall comply with the requirements of the
+Electrical Code
+.
+
+---
+
+## Section 2703.8: Reserved
+
+2703.8 Reserved
+
+---
+
+## Section 2703.9: Reserved
+
+2703.9 Reserved
+
+---
+
+## Section 2703.10: Sprinkler System
+
+2703.10 Sprinkler System
+A
+sprinkler system
+shall be provided in accordance with
+FC 2703.10.1
+through
+2703.10.5
+,
+FC Chapter 9
+and the
+Building Code
+.
+
+---
+
+A
+sprinkler system
+shall be provided in accordance with
+FC 2703.10.1
+through
+2703.10.5
+,
+FC Chapter 9
+and the
+Building Code
+.
+
+---
+
+## Section 2703.10.1: Workstations and Tools
+
+2703.10.1 Workstations and Tools
+The design of the
+sprinkler system
+in the area shall take into consideration the spray pattern and the effect on the equipment.
+
+---
+
+The design of the
+sprinkler system
+in the area shall take into consideration the spray pattern and the effect on the equipment.
+
+---
+
+## Section 2703.10.1.1: Combustible Workstations
+
+2703.10.1.1 Combustible Workstations
+A sprinkler head shall be installed within each branch exhaust connection or individual plenums of
+workstations
+of combustible construction. The sprinkler head in the exhaust connection or plenum shall be located not more than 2 feet (610 mm) from the point of the duct connection or the connection to the plenum. When necessary to prevent corrosion, the sprinkler head and connecting piping in the duct shall be coated with
+approved
+or listed corrosion-resistant materials. The sprinkler head shall be accessible for
+periodic inspection
+in accordance with
+FC Chapter 9
+.
+Exceptions:
+Alternative
+fire extinguishing systems
+shall be allowed where
+approved
+. Activation of such
+systems
+shall deactivate the related processing equipment.
+Process equipment that operates at temperatures exceeding 932°F (500°C) and has
+automatic
+shutdown capabilities that will interrupt HPM flow for
+hazardous materials
+.
+Exhaust ducts 10 inches (254 mm) or less in diameter from
+flammable gas
+storage cabinets that are part of a
+workstation
+.
+Ducts listed or
+approved
+for use without internal sprinkler protection.
+
+---
+
+A sprinkler head shall be installed within each branch exhaust connection or individual plenums of
+workstations
+of combustible construction. The sprinkler head in the exhaust connection or plenum shall be located not more than 2 feet (610 mm) from the point of the duct connection or the connection to the plenum. When necessary to prevent corrosion, the sprinkler head and connecting piping in the duct shall be coated with
+approved
+or listed corrosion-resistant materials. The sprinkler head shall be accessible for
+periodic inspection
+in accordance with
+FC Chapter 9
+.
+Exceptions:
+Alternative
+fire extinguishing systems
+shall be allowed where
+approved
+. Activation of such
+systems
+shall deactivate the related processing equipment.
+Process equipment that operates at temperatures exceeding 932°F (500°C) and has
+automatic
+shutdown capabilities that will interrupt HPM flow for
+hazardous materials
+.
+Exhaust ducts 10 inches (254 mm) or less in diameter from
+flammable gas
+storage cabinets that are part of a
+workstation
+.
+Ducts listed or
+approved
+for use without internal sprinkler protection.
+
+---
+
+## Section 2703.10.1.2: Combustible Tools
+
+2703.10.1.2 Combustible Tools
+Where the horizontal surface of a combustible
+tool
+is obstructed from ceiling sprinkler discharge, sprinkler protection that covers the horizontal surface of the
+tool
+shall be provided.
+Exceptions:
+A gaseous
+fire
+extinguishing local surface
+application
+system
+shall be allowed as an alternative to sprinklers when
+approved
+. Gaseous
+fire extinguishing systems
+shall be actuated by infrared (IR) or ultraviolet/infrared (UVIR) optical detectors.
+Tools
+constructed of materials that are listed as Class 1 or Class 2 in accordance with UL 2360 or
+approved
+for use without internal
+fire extinguishing system
+protection.
+
+---
+
+Where the horizontal surface of a combustible
+tool
+is obstructed from ceiling sprinkler discharge, sprinkler protection that covers the horizontal surface of the
+tool
+shall be provided.
+Exceptions:
+A gaseous
+fire
+extinguishing local surface
+application
+system
+shall be allowed as an alternative to sprinklers when
+approved
+. Gaseous
+fire extinguishing systems
+shall be actuated by infrared (IR) or ultraviolet/infrared (UVIR) optical detectors.
+Tools
+constructed of materials that are listed as Class 1 or Class 2 in accordance with UL 2360 or
+approved
+for use without internal
+fire extinguishing system
+protection.
+
+---
+
+## Section 2703.10.2: Gas Cabinets and Exhausted Enclosures
+
+2703.10.2 Gas Cabinets and Exhausted Enclosures
+A
+sprinkler system
+shall be provided in
+gas cabinets
+and
+exhausted enclosures
+containing HPM compressed gases.
+Exception:
+Gas cabinets
+located in a
+HPM room
+other than those cabinets containing pyrophoric gases.
+
+---
+
+A
+sprinkler system
+shall be provided in
+gas cabinets
+and
+exhausted enclosures
+containing HPM compressed gases.
+Exception:
+Gas cabinets
+located in a
+HPM room
+other than those cabinets containing pyrophoric gases.
+
+---
+
+## Section 2703.10.3: Pass-Throughs in Exit Access Corridors
+
+2703.10.3 Pass-Throughs in Exit Access Corridors
+Pass-throughs
+in
+exit access
+corridors shall be protected throughout by a
+sprinkler system
+.
+
+---
+
+Pass-throughs
+in
+exit access
+corridors shall be protected throughout by a
+sprinkler system
+.
+
+---
+
+## Section 2703.10.4: Exhaust Ducts for HPM
+
+2703.10.4 Exhaust Ducts for HPM
+A
+sprinkler system
+shall be provided in exhaust ducts conveying gases, vapors, fumes, mists or dusts generated from HPM in accordance with this section and the
+Mechanical Code
+and the
+Building Code
+.
+
+---
+
+A
+sprinkler system
+shall be provided in exhaust ducts conveying gases, vapors, fumes, mists or dusts generated from HPM in accordance with this section and the
+Mechanical Code
+and the
+Building Code
+.
+
+---
+
+## Section 2703.10.4.1: Metallic and Noncombustible Nonmetallic Exhaust Ducts
+
+2703.10.4.1 Metallic and Noncombustible Nonmetallic Exhaust Ducts
+A
+sprinkler system
+shall be provided in metallic and noncombustible nonmetallic exhaust ducts when the following conditions apply:
+The largest cross-sectional diameter is equal to or greater than 10 inches (254 mm).
+The ducts are within the building.
+The ducts are conveying flammable gases, vapors or fumes.
+
+---
+
+A
+sprinkler system
+shall be provided in metallic and noncombustible nonmetallic exhaust ducts when the following conditions apply:
+The largest cross-sectional diameter is equal to or greater than 10 inches (254 mm).
+The ducts are within the building.
+The ducts are conveying flammable gases, vapors or fumes.
+
+---
+
+## Section 2703.10.4.2: Combustible Nonmetallic Exhaust Ducts
+
+2703.10.4.2 Combustible Nonmetallic Exhaust Ducts
+A
+sprinkler system
+shall be provided in combustible nonmetallic exhaust ducts when the largest cross-sectional diameter of the duct is equal to or greater than 10 inches (254 mm).
+Exceptions:
+Ducts listed or
+approved
+for
+applications
+without
+sprinkler system
+protection.
+Ducts not more than 12 feet (3658 mm) in length installed below ceiling level.
+
+---
+
+A
+sprinkler system
+shall be provided in combustible nonmetallic exhaust ducts when the largest cross-sectional diameter of the duct is equal to or greater than 10 inches (254 mm).
+Exceptions:
+Ducts listed or
+approved
+for
+applications
+without
+sprinkler system
+protection.
+Ducts not more than 12 feet (3658 mm) in length installed below ceiling level.
+
+---
+
+## Section 2703.10.4.3: Exhaust Connections and Plenums of Combustible Workstations
+
+2703.10.4.3 Exhaust Connections and Plenums of Combustible Workstations
+Fire extinguishing system
+protection for exhaust connections and plenums of combustible
+workstations
+shall comply with the requirements of
+FC2703.10.1.1
+.
+
+---
+
+Fire extinguishing system
+protection for exhaust connections and plenums of combustible
+workstations
+shall comply with the requirements of
+FC2703.10.1.1
+.
+
+---
+
+## Section 2703.10.4.4: Exhaust Duct Sprinkler System Requirements
+
+2703.10.4.4 Exhaust Duct Sprinkler System Requirements
+Sprinkler systems
+installed in exhaust duct
+systems
+shall be hydraulically designed to provide
+1
+/
+2
+gallon per minute (gpm) (1.9 L/min) over an area derived by multiplying the distance between the sprinklers in a horizontal duct by the width of the duct. Minimum discharge shall be 20 gpm (76 L/min) per sprinkler from the five hydraulically most remote sprinklers.
+
+---
+
+Sprinkler systems
+installed in exhaust duct
+systems
+shall be hydraulically designed to provide
+1
+/
+2
+gallon per minute (gpm) (1.9 L/min) over an area derived by multiplying the distance between the sprinklers in a horizontal duct by the width of the duct. Minimum discharge shall be 20 gpm (76 L/min) per sprinkler from the five hydraulically most remote sprinklers.
+
+---
+
+## Section 2703.10.4.4.1: Sprinkler Head Locations
+
+2703.10.4.4.1 Sprinkler Head Locations
+Sprinkler heads shall be installed at 12-foot (3658 mm) intervals in horizontal ducts and at changes in direction. In vertical runs, sprinkler heads shall be installed at the top and at alternate floor levels.
+
+---
+
+Sprinkler heads shall be installed at 12-foot (3658 mm) intervals in horizontal ducts and at changes in direction. In vertical runs, sprinkler heads shall be installed at the top and at alternate floor levels.
+
+---
+
+## Section 2703.10.4.4.2: Control Valve
+
+2703.10.4.4.2 Control Valve
+A separate indicating control valve shall be provided for sprinkler heads installed in exhaust ducts.
+
+---
+
+A separate indicating control valve shall be provided for sprinkler heads installed in exhaust ducts.
+
+---
+
+## Section 2703.10.4.4.3: Drainage
+
+2703.10.4.4.3 Drainage
+Drainage shall be provided to remove sprinkler water discharged in exhaust ducts.
+
+---
+
+Drainage shall be provided to remove sprinkler water discharged in exhaust ducts.
+
+---
+
+## Section 2703.10.4.4.4: Corrosive Atmospheres
+
+2703.10.4.4.4 Corrosive Atmospheres
+Where corrosive atmospheres exist, exhaust duct sprinkler heads and pipe fittings shall be manufactured of corrosion-resistant materials or coated with
+approved
+materials.
+
+---
+
+Where corrosive atmospheres exist, exhaust duct sprinkler heads and pipe fittings shall be manufactured of corrosion-resistant materials or coated with
+approved
+materials.
+
+---
+
+## Section 2703.10.4.4.5: Maintenance and Inspection
+
+2703.10.4.4.5 Maintenance and Inspection
+Sprinkler heads in exhaust ducts shall be accessible for inspection and
+maintenance
+and shall be inspected and maintained on not less than an annual basis.
+
+---
+
+Sprinkler heads in exhaust ducts shall be accessible for inspection and
+maintenance
+and shall be inspected and maintained on not less than an annual basis.
+
+---
+
+## Section 2703.10.5: Sprinkler Alarms and Supervision
+
+2703.10.5 Sprinkler Alarms and Supervision
+Sprinkler systems
+shall be electrically supervised and provided with alarms in accordance with the
+construction codes
+, including the
+Building Code
+.
+Sprinkler system
+alarm and
+supervisory signals
+shall be transmitted to the
+emergency control station
+.
+
+---
+
+Sprinkler systems
+shall be electrically supervised and provided with alarms in accordance with the
+construction codes
+, including the
+Building Code
+.
+Sprinkler system
+alarm and
+supervisory signals
+shall be transmitted to the
+emergency control station
+.
+
+---
+
+## Section 2703.11: Manual Fire Alarm System
+
+2703.11 Manual Fire Alarm System
+A manual
+fire alarm system
+shall be installed throughout buildings containing a
+Group H
+-5
+occupancy
+. Activation of the alarm
+system
+shall initiate a local alarm and transmit a signal to the
+emergency control station
+. Manual
+fire alarm systems
+shall be designed and installed in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+A manual
+fire alarm system
+shall be installed throughout buildings containing a
+Group H
+-5
+occupancy
+. Activation of the alarm
+system
+shall initiate a local alarm and transmit a signal to the
+emergency control station
+. Manual
+fire alarm systems
+shall be designed and installed in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2703.12: Emergency Alarm System
+
+2703.12 Emergency Alarm System
+Emergency alarm systems
+shall be provided in accordance with this section,
+FC5004.9
+and
+FC5005.4.4
+. The
+maximum allowable quantity per control area
+provisions of
+FC5004.1
+shall not apply to
+emergency alarm systems
+required for HPM.
+
+---
+
+Emergency alarm systems
+shall be provided in accordance with this section,
+FC5004.9
+and
+FC5005.4.4
+. The
+maximum allowable quantity per control area
+provisions of
+FC5004.1
+shall not apply to
+emergency alarm systems
+required for HPM.
+
+---
+
+## Section 2703.12.1: Where Required
+
+2703.12.1 Where Required
+Emergency alarm systems
+shall be provided in the areas indicated in
+FC 2703.12.1.1
+through
+2703.12.1.3
+.
+
+---
+
+Emergency alarm systems
+shall be provided in the areas indicated in
+FC 2703.12.1.1
+through
+2703.12.1.3
+.
+
+---
+
+## Section 2703.12.1.1: Service Corridors
+
+2703.12.1.1 Service Corridors
+An
+approved
+emergency alarm system
+shall be provided in
+service corridors
+, with at least one alarm device in the
+service corridor
+.
+
+---
+
+An
+approved
+emergency alarm system
+shall be provided in
+service corridors
+, with at least one alarm device in the
+service corridor
+.
+
+---
+
+## Section 2703.12.1.2: Exit Access Corridors and Exit Enclosures
+
+2703.12.1.2 Exit Access Corridors and Exit Enclosures
+Emergency alarms for
+exit access
+corridors and
+exit
+enclosures shall comply with the requirements of
+FC5005.4.4
+.
+
+---
+
+Emergency alarms for
+exit access
+corridors and
+exit
+enclosures shall comply with the requirements of
+FC5005.4.4
+.
+
+---
+
+## Section 2703.12.1.3: Liquid Storage Rooms, HPM Rooms and Gas Rooms
+
+2703.12.1.3 Liquid Storage Rooms, HPM Rooms and Gas Rooms
+Emergency alarms for
+liquid storage rooms
+,
+HPM rooms
+and
+gas rooms
+shall comply with the requirements of
+FC5004.9
+.
+
+---
+
+Emergency alarms for
+liquid storage rooms
+,
+HPM rooms
+and
+gas rooms
+shall comply with the requirements of
+FC5004.9
+.
+
+---
+
+## Section 2703.12.2: Alarm-Initiating Devices
+
+2703.12.2 Alarm-Initiating Devices
+An
+approved
+emergency telephone
+system
+, local alarm manual pull stations, or other
+approved
+alarm-
+initiating devices
+are allowed to be used as emergency alarm-
+initiating devices
+.
+
+---
+
+An
+approved
+emergency telephone
+system
+, local alarm manual pull stations, or other
+approved
+alarm-
+initiating devices
+are allowed to be used as emergency alarm-
+initiating devices
+.
+
+---
+
+## Section 2703.12.3: Alarm Signals
+
+2703.12.3 Alarm Signals
+Activation of the
+emergency alarm system
+shall sound a local alarm and transmit a signal to the
+emergency control station
+.
+
+---
+
+Activation of the
+emergency alarm system
+shall sound a local alarm and transmit a signal to the
+emergency control station
+.
+
+---
+
+## Section 2703.13: Continuous Gas Detection Systems
+
+2703.13 Continuous Gas Detection Systems
+A
+continuous gas detection system
+shall be provided for HPM gases when the physiological warning properties of the gas are at a higher level than the accepted
+permissible exposure limit
+(
+PEL
+) for the gas and for flammable gases in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+A
+continuous gas detection system
+shall be provided for HPM gases when the physiological warning properties of the gas are at a higher level than the accepted
+permissible exposure limit
+(
+PEL
+) for the gas and for flammable gases in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2703.14: Exhaust Ventilation Systems for HPM
+
+2703.14 Exhaust Ventilation Systems for HPM
+Exhaust
+ventilation
+systems
+and materials for exhaust ducts utilized for the exhaust of HPM shall comply with the requirements of this section, other applicable provisions of this code, the
+construction codes
+, including the
+Building Code
+and the
+Mechanical Code
+.
+
+---
+
+Exhaust
+ventilation
+systems
+and materials for exhaust ducts utilized for the exhaust of HPM shall comply with the requirements of this section, other applicable provisions of this code, the
+construction codes
+, including the
+Building Code
+and the
+Mechanical Code
+.
+
+---
+
+## Section 2703.14.1: Where Required
+
+2703.14.1 Where Required
+Exhaust
+ventilation
+systems
+shall be provided in the following locations in accordance with this section and the
+construction codes
+, including the
+Building Code
+:
+Fabrication areas
+: Exhaust
+ventilation
+for
+fabrication areas
+shall comply with the requirements of the
+construction codes
+, including the
+Building Code
+. Additional manual control switches shall be provided as may be required by the
+commissioner
+.
+Workstations
+: A
+ventilation
+system
+shall be provided to capture and exhaust fumes and vapors at
+workstations
+.
+Liquid storage rooms
+: Exhaust
+ventilation
+for
+liquid storage rooms
+shall comply with the requirements of
+FC5004.3.1
+and the
+construction codes
+, including the
+Building Code
+and
+Mechanical Code
+.
+HPM rooms
+: Exhaust
+ventilation
+for
+HPM rooms
+shall comply with the requirements of
+FC5004.3.1
+and the
+construction codes
+, including the
+Building Code
+and the
+Mechanical Code
+.
+Gas cabinets
+: Exhaust
+ventilation
+for
+gas cabinets
+shall comply with the requirements of
+FC5003.8.6.2
+. The
+gas cabinet
+ventilation
+system
+is allowed to connect to a
+workstation
+ventilation
+system
+. Exhaust
+ventilation
+for
+gas cabinets
+containing highly toxic or toxic gases shall additionally comply with the requirements of
+FC Chapter 60
+.
+Exhausted enclosures
+: Exhaust
+ventilation
+for
+exhausted enclosures
+shall comply with the requirements of
+FC5003.8.5.2
+. Exhaust
+ventilation
+for
+exhausted enclosures
+containing highly toxic or toxic gases shall additionally comply with the requirements of
+FC Chapter 60
+.
+Gas rooms
+: Exhaust
+ventilation
+for
+gas rooms
+shall comply with the requirements of
+FC5003.8.4.2
+. Exhaust
+ventilation
+for
+gas rooms
+containing highly toxic or toxic gases shall additionally comply with the requirements of
+FC Chapter 60
+.
+Cabinets containing pyrophoric
+liquids
+or Class 3 water-reactive
+liquids
+: Exhaust
+ventilation
+for cabinets in
+fabrication areas
+containing pyrophoric
+liquids
+or Class 3 water-reactive
+liquids
+shall be as required in
+FC2705.2.3.4
+.
+
+---
+
+Exhaust
+ventilation
+systems
+shall be provided in the following locations in accordance with this section and the
+construction codes
+, including the
+Building Code
+:
+Fabrication areas
+: Exhaust
+ventilation
+for
+fabrication areas
+shall comply with the requirements of the
+construction codes
+, including the
+Building Code
+. Additional manual control switches shall be provided as may be required by the
+commissioner
+.
+Workstations
+: A
+ventilation
+system
+shall be provided to capture and exhaust fumes and vapors at
+workstations
+.
+Liquid storage rooms
+: Exhaust
+ventilation
+for
+liquid storage rooms
+shall comply with the requirements of
+FC5004.3.1
+and the
+construction codes
+, including the
+Building Code
+and
+Mechanical Code
+.
+HPM rooms
+: Exhaust
+ventilation
+for
+HPM rooms
+shall comply with the requirements of
+FC5004.3.1
+and the
+construction codes
+, including the
+Building Code
+and the
+Mechanical Code
+.
+Gas cabinets
+: Exhaust
+ventilation
+for
+gas cabinets
+shall comply with the requirements of
+FC5003.8.6.2
+. The
+gas cabinet
+ventilation
+system
+is allowed to connect to a
+workstation
+ventilation
+system
+. Exhaust
+ventilation
+for
+gas cabinets
+containing highly toxic or toxic gases shall additionally comply with the requirements of
+FC Chapter 60
+.
+Exhausted enclosures
+: Exhaust
+ventilation
+for
+exhausted enclosures
+shall comply with the requirements of
+FC5003.8.5.2
+. Exhaust
+ventilation
+for
+exhausted enclosures
+containing highly toxic or toxic gases shall additionally comply with the requirements of
+FC Chapter 60
+.
+Gas rooms
+: Exhaust
+ventilation
+for
+gas rooms
+shall comply with the requirements of
+FC5003.8.4.2
+. Exhaust
+ventilation
+for
+gas rooms
+containing highly toxic or toxic gases shall additionally comply with the requirements of
+FC Chapter 60
+.
+Cabinets containing pyrophoric
+liquids
+or Class 3 water-reactive
+liquids
+: Exhaust
+ventilation
+for cabinets in
+fabrication areas
+containing pyrophoric
+liquids
+or Class 3 water-reactive
+liquids
+shall be as required in
+FC2705.2.3.4
+.
+
+---
+
+## Section 2703.14.2: Penetrations
+
+2703.14.2 Penetrations
+Exhaust ducts penetrating
+fire
+barrier assemblies shall be contained in a shaft of equivalent
+fire
+-resistance-rated construction. Exhaust ducts shall not penetrate
+fire
+walls.
+Fire
+dampers shall not be installed in exhaust ducts.
+
+---
+
+Exhaust ducts penetrating
+fire
+barrier assemblies shall be contained in a shaft of equivalent
+fire
+-resistance-rated construction. Exhaust ducts shall not penetrate
+fire
+walls.
+Fire
+dampers shall not be installed in exhaust ducts.
+
+---
+
+## Section 2703.14.3: Treatment Systems
+
+2703.14.3 Treatment Systems
+Treatment
+systems
+for highly toxic and toxic gases shall comply with the requirements of
+FC Chapter 60
+.
+
+---
+
+Treatment
+systems
+for highly toxic and toxic gases shall comply with the requirements of
+FC Chapter 60
+.
+
+---
+
+## Section 2703.15: Emergency Power System
+
+2703.15 Emergency Power System
+An
+emergency power
+system
+shall be provided in
+Group H
+-5
+occupancies
+where required by the
+construction codes
+, including the
+Building Code
+. The
+emergency power
+system
+shall be designed to supply power automatically to required
+electrical
+systems
+when the normal supply
+system
+is interrupted.
+
+---
+
+An
+emergency power
+system
+shall be provided in
+Group H
+-5
+occupancies
+where required by the
+construction codes
+, including the
+Building Code
+. The
+emergency power
+system
+shall be designed to supply power automatically to required
+electrical
+systems
+when the normal supply
+system
+is interrupted.
+
+---
+
+## Section 2703.15.1: Required Electrical Systems
+
+2703.15.1 Required Electrical Systems
+Emergency power
+shall be provided for electrically operated equipment and connected control circuits as required by
+Chapter 4
+of the
+Building Code
+or this code.
+
+---
+
+Emergency power
+shall be provided for electrically operated equipment and connected control circuits as required by
+Chapter 4
+of the
+Building Code
+or this code.
+
+---
+
+## Section 2703.16: Sub-Atmospheric Pressure Gas Systems
+
+2703.16 Sub-Atmospheric Pressure Gas Systems
+Sub-atmospheric pressure gas
+systems
+(SAGS) shall be designed, installed, operated and maintained in accordance with NFPA 318.
+
+---
+
+Sub-atmospheric pressure gas
+systems
+(SAGS) shall be designed, installed, operated and maintained in accordance with NFPA 318.
+
+---
+
+Section 2704 Storage
+
+---
+
+## Section 2704.1: General
+
+2704.1 General
+Hazardous materials
+shall be stored in
+semiconductor fabrication facilities
+in accordance with this section and the provisions of other applicable chapters of this code.
+
+---
+
+Hazardous materials
+shall be stored in
+semiconductor fabrication facilities
+in accordance with this section and the provisions of other applicable chapters of this code.
+
+---
+
+## Section 2704.2: Fabrication Areas
+
+2704.2 Fabrication Areas
+Hazardous materials
+shall be stored in accordance with
+FC 2704.2.1
+through
+2704.2.2.1
+.
+
+---
+
+Hazardous materials
+shall be stored in accordance with
+FC 2704.2.1
+through
+2704.2.2.1
+.
+
+---
+
+## Section 2704.2.1: Location of HPM Storage in Fabrication Areas
+
+2704.2.1 Location of HPM Storage in Fabrication Areas
+Storage of
+HPM
+in
+fabrication areas
+shall be within
+approved
+or listed storage
+cabinets, gas
+cabinets or within a
+workstation
+as follows:
+Flammable and
+combustible liquid
+storage cabinets shall comply with the requirements of
+FC Chapter 57
+.
+Hazardous materials
+storage cabinets shall comply with the requirements of
+FC5003.8.7
+.
+Gas cabinets
+shall comply with the requirements of
+FC5003.8.6
+.
+Gas cabinets
+for highly toxic or toxic gases shall additionally comply with the requirements of
+FC6004.1.2
+.
+Exhausted enclosures
+shall comply with
+FC5003.8.5
+.
+Exhausted enclosures
+for highly toxic or toxic gases shall also comply with
+FC6004.1.3
+.
+Workstations
+shall comply with the requirements of
+FC2705.2.3
+.
+
+---
+
+Storage of
+HPM
+in
+fabrication areas
+shall be within
+approved
+or listed storage
+cabinets, gas
+cabinets or within a
+workstation
+as follows:
+Flammable and
+combustible liquid
+storage cabinets shall comply with the requirements of
+FC Chapter 57
+.
+Hazardous materials
+storage cabinets shall comply with the requirements of
+FC5003.8.7
+.
+Gas cabinets
+shall comply with the requirements of
+FC5003.8.6
+.
+Gas cabinets
+for highly toxic or toxic gases shall additionally comply with the requirements of
+FC6004.1.2
+.
+Exhausted enclosures
+shall comply with
+FC5003.8.5
+.
+Exhausted enclosures
+for highly toxic or toxic gases shall also comply with
+FC6004.1.3
+.
+Workstations
+shall comply with the requirements of
+FC2705.2.3
+.
+
+---
+
+## Section 2704.2.2: Maximum Aggregate Quantities in Fabrication Areas
+
+2704.2.2 Maximum Aggregate Quantities in Fabrication Areas
+The aggregate quantities of
+hazardous materials
+stored, handled and used in a single
+fabrication area
+shall be limited as specified in this section.
+Exception:
+Fabrication areas
+containing quantities of
+hazardous materials
+not exceeding the maximum allowable quantities per
+control area
+established by
+FC 5003.1.1
+,
+5704.3.4
+and
+5704.3.5
+.
+
+---
+
+The aggregate quantities of
+hazardous materials
+stored, handled and used in a single
+fabrication area
+shall be limited as specified in this section.
+Exception:
+Fabrication areas
+containing quantities of
+hazardous materials
+not exceeding the maximum allowable quantities per
+control area
+established by
+FC 5003.1.1
+,
+5704.3.4
+and
+5704.3.5
+.
+
+---
+
+## Section 2704.2.2.1: Storage and Use in Fabrication Areas
+
+2704.2.2.1 Storage and Use in Fabrication Areas
+The maximum quantities of
+hazardous materials
+stored in a single
+fabrication area
+shall not exceed the quantities set forth in FC Table 2704.2.2.1.
+FC
+TABLE 2704.2.2.1
+QUANTITY LIMITS FOR
+HAZARDOUS MATERIALS
+IN A SINGLE
+FABRICATION AREA
+IN
+GROUP H
+-5
+a
+HAZARD CATEGORY
+SOLIDS
+(pounds/square foot)
+LIQUIDS
+(gallons/square foot)
+GAS
+(
+SCF
+/square foot)
+PHYSICAL-HAZARD MATERIALS
+Combustible dust
+Note b
+Not Applicable
+Not Applicable
+Combustible fiber
+Not Applicable
+Not Applicable
+Loose
+Note b
+Baled
+Notes b, c
+Combustible liquid
+Not Applicable
+Not Applicable
+Class II
+0.01
+Class IIIA
+0.02
+Class IIIB
+Not Limited
+Combination Class I, II and IIIA
+0.04
+Cryogenic gas
+Not Applicable
+Not Applicable
+Flammable
+Note d
+Oxidizing
+1.25
+Explosives
+Note b
+Note b
+Note b
+Flammable gas
+Not Applicable
+Not Applicable
+Gaseous
+Note d
+Liquefied
+Note d
+Flammable liquid
+Not Applicable
+Not Applicable
+Class IA
+0.0025
+Class IB
+0.025
+Class IC
+0.025
+Combination Class IA, IB and IC
+0.025
+Combination Class I, II and IIIA
+0.04
+Flammable solid
+0.001
+Not Applicable
+Not Applicable
+Organic peroxide
+Not Applicable
+Not Applicable
+Unclassified detonable
+Note b
+Class I
+Note b
+Class II
+0.025
+Class III
+0.1
+Class IV
+Not Limited
+Class V
+Not Limited
+Oxidizing gas
+Not Applicable
+Not Applicable
+Gaseous
+1.25
+Liquefied
+1.25
+Combination of Gaseous and Liquefied
+1.25
+Oxidizer
+Not Applicable
+Class 4
+Note b
+Note b
+Class 3
+0.003
+0.03
+Class 2
+0.003
+0.03
+Class 1
+0.003
+0.03
+Combination
+oxidizer
+Class 1, 2, 3
+0.003
+0.03
+Pyrophoric
+Note b
+0.00125
+Notes d
+and e
+Unstable reactive
+Class 4
+Note b
+Note b
+Note b
+Class 3
+0.025
+0.0025
+Note b
+Class 2
+0.1
+0.01
+Note b
+Class 1
+Not Limited
+Not Limited
+Not Limited
+Water reactive
+Not Applicable
+Class 3
+Note b
+0.00125
+Class 2
+0.25
+0.025
+Class 1
+Not Limited
+Not Limited
+HEALTH-HAZARD
+MATERIALS
+Corrosives
+Not Limited
+Not Limited
+Not Limited
+Highly toxics
+Not Limited
+Not Limited
+Note d
+Toxics
+Not Limited
+Not Limited
+Note d
+For SI: 1 pound per square foot = 4.882 kg/m
+2
+, 1 gallon per square foot = 0.025 L/m
+2
+, 1 cubic foot = 0.02832 m
+3
+.
+Hazardous materials
+within piping shall not be included in the calculated quantities.
+Quantity of
+hazardous materials
+in a single
+fabrication area
+shall not exceed the maximum allowable quantities per
+control area
+in FC
+Tables 5003.1.1(1)
+and
+5003.1.1(2)
+.
+Densely packed baled cotton
+that complies with the packing requirements of ISO 8115 shall not be included in this material class.
+The aggregate quantity of flammable, pyrophoric, toxic and highly toxic gases shall not exceed 9,000 SCF.
+The aggregate quantity of pyrophoric gases in the building shall not exceed the amounts set forth in FC
+Table 5003.8.2
+.
+
+---
+
+The maximum quantities of
+hazardous materials
+stored in a single
+fabrication area
+shall not exceed the quantities set forth in FC Table 2704.2.2.1.
+FC
+TABLE 2704.2.2.1
+QUANTITY LIMITS FOR
+HAZARDOUS MATERIALS
+IN A SINGLE
+FABRICATION AREA
+IN
+GROUP H
+-5
+a
+HAZARD CATEGORY
+SOLIDS
+(pounds/square foot)
+LIQUIDS
+(gallons/square foot)
+GAS
+(
+SCF
+/square foot)
+PHYSICAL-HAZARD MATERIALS
+Combustible dust
+Note b
+Not Applicable
+Not Applicable
+Combustible fiber
+Not Applicable
+Not Applicable
+Loose
+Note b
+Baled
+Notes b, c
+Combustible liquid
+Not Applicable
+Not Applicable
+Class II
+0.01
+Class IIIA
+0.02
+Class IIIB
+Not Limited
+Combination Class I, II and IIIA
+0.04
+Cryogenic gas
+Not Applicable
+Not Applicable
+Flammable
+Note d
+Oxidizing
+1.25
+Explosives
+Note b
+Note b
+Note b
+Flammable gas
+Not Applicable
+Not Applicable
+Gaseous
+Note d
+Liquefied
+Note d
+Flammable liquid
+Not Applicable
+Not Applicable
+Class IA
+0.0025
+Class IB
+0.025
+Class IC
+0.025
+Combination Class IA, IB and IC
+0.025
+Combination Class I, II and IIIA
+0.04
+Flammable solid
+0.001
+Not Applicable
+Not Applicable
+Organic peroxide
+Not Applicable
+Not Applicable
+Unclassified detonable
+Note b
+Class I
+Note b
+Class II
+0.025
+Class III
+0.1
+Class IV
+Not Limited
+Class V
+Not Limited
+Oxidizing gas
+Not Applicable
+Not Applicable
+Gaseous
+1.25
+Liquefied
+1.25
+Combination of Gaseous and Liquefied
+1.25
+Oxidizer
+Not Applicable
+Class 4
+Note b
+Note b
+Class 3
+0.003
+0.03
+Class 2
+0.003
+0.03
+Class 1
+0.003
+0.03
+Combination
+oxidizer
+Class 1, 2, 3
+0.003
+0.03
+Pyrophoric
+Note b
+0.00125
+Notes d
+and e
+Unstable reactive
+Class 4
+Note b
+Note b
+Note b
+Class 3
+0.025
+0.0025
+Note b
+Class 2
+0.1
+0.01
+Note b
+Class 1
+Not Limited
+Not Limited
+Not Limited
+Water reactive
+Not Applicable
+Class 3
+Note b
+0.00125
+Class 2
+0.25
+0.025
+Class 1
+Not Limited
+Not Limited
+HEALTH-HAZARD
+MATERIALS
+Corrosives
+Not Limited
+Not Limited
+Not Limited
+Highly toxics
+Not Limited
+Not Limited
+Note d
+Toxics
+Not Limited
+Not Limited
+Note d
+For SI: 1 pound per square foot = 4.882 kg/m
+2
+, 1 gallon per square foot = 0.025 L/m
+2
+, 1 cubic foot = 0.02832 m
+3
+.
+Hazardous materials
+within piping shall not be included in the calculated quantities.
+Quantity of
+hazardous materials
+in a single
+fabrication area
+shall not exceed the maximum allowable quantities per
+control area
+in FC
+Tables 5003.1.1(1)
+and
+5003.1.1(2)
+.
+Densely packed baled cotton
+that complies with the packing requirements of ISO 8115 shall not be included in this material class.
+The aggregate quantity of flammable, pyrophoric, toxic and highly toxic gases shall not exceed 9,000 SCF.
+The aggregate quantity of pyrophoric gases in the building shall not exceed the amounts set forth in FC
+Table 5003.8.2
+.
+
+---
+
+## Section 2704.3: Indoor Storage Outside of Fabrication Areas
+
+2704.3 Indoor Storage Outside of Fabrication Areas
+The
+indoor
+storage of
+hazardous materials
+outside of
+fabrication areas
+shall be in accordance with
+FC 2704.3.1
+through
+2704.3.3
+.
+
+---
+
+The
+indoor
+storage of
+hazardous materials
+outside of
+fabrication areas
+shall be in accordance with
+FC 2704.3.1
+through
+2704.3.3
+.
+
+---
+
+## Section 2704.3.1: HPM Storage
+
+2704.3.1 HPM Storage
+The
+indoor
+storage of HPM in quantities greater than those listed in FC 5003.1.1 and 5704.3.4 shall be in a room complying with the requirements of the
+construction codes
+, including the
+Building Code
+, and this code for a
+liquid storage room
+,
+HPM room
+or
+gas room
+as appropriate for the materials stored.
+
+---
+
+The
+indoor
+storage of HPM in quantities greater than those listed in FC 5003.1.1 and 5704.3.4 shall be in a room complying with the requirements of the
+construction codes
+, including the
+Building Code
+, and this code for a
+liquid storage room
+,
+HPM room
+or
+gas room
+as appropriate for the materials stored.
+
+---
+
+## Section 2704.3.2: Other Hazardous Materials Storage
+
+2704.3.2 Other Hazardous Materials Storage
+The
+indoor
+storage of other
+hazardous materials
+shall comply with the requirements of
+FC 5001
+,
+5003
+and
+5004
+and other applicable provisions of this code.
+
+---
+
+The
+indoor
+storage of other
+hazardous materials
+shall comply with the requirements of
+FC 5001
+,
+5003
+and
+5004
+and other applicable provisions of this code.
+
+---
+
+## Section 2704.3.3: Separation of Incompatible Hazardous Materials
+
+2704.3.3 Separation of Incompatible Hazardous Materials
+Incompatible
+hazardous materials
+in storage shall be separated from each other in accordance with
+FC5003.9.8
+.
+
+---
+
+Incompatible
+hazardous materials
+in storage shall be separated from each other in accordance with
+FC5003.9.8
+.
+
+---
+
+## Section 2704.4: Exit Access Corridors and Exit Enclosures
+
+2704.4 Exit Access Corridors and Exit Enclosures
+Hazardous materials
+shall not be stored in
+exit access
+corridors or
+exit access
+enclosures.
+
+---
+
+Hazardous materials
+shall not be stored in
+exit access
+corridors or
+exit access
+enclosures.
+
+---
+
+Section 2705 Handling and Use
+
+---
+
+## Section 2705.1: General
+
+2705.1 General
+Hazardous materials
+shall be handled and used in accordance with this section,
+FC2703
+and other applicable provisions of this code.
+
+---
+
+Hazardous materials
+shall be handled and used in accordance with this section,
+FC2703
+and other applicable provisions of this code.
+
+---
+
+## Section 2705.2: Fabrication Areas
+
+2705.2 Fabrication Areas
+The use of
+hazardous materials
+in
+fabrication areas
+shall be in accordance with
+FC 2705.2.1
+through
+2705.2.3.4
+.
+
+---
+
+The use of
+hazardous materials
+in
+fabrication areas
+shall be in accordance with
+FC 2705.2.1
+through
+2705.2.3.4
+.
+
+---
+
+## Section 2705.2.1: Location of HPM in Use in Fabrication Areas
+
+2705.2.1 Location of HPM in Use in Fabrication Areas
+Hazardous production materials
+in use in
+fabrication areas
+shall be within
+approved
+or listed
+gas cabinets
+,
+exhausted enclosures
+or within a
+workstation
+, in accordance with
+FC Chapter 50
+.
+
+---
+
+Hazardous production materials
+in use in
+fabrication areas
+shall be within
+approved
+or listed
+gas cabinets
+,
+exhausted enclosures
+or within a
+workstation
+, in accordance with
+FC Chapter 50
+.
+
+---
+
+## Section 2705.2.2: Maximum Aggregate Quantities in Fabrication Areas
+
+2705.2.2 Maximum Aggregate Quantities in Fabrication Areas
+The aggregate quantities of
+hazardous materials
+in a single
+fabrication area
+shall comply with the requirements of
+FC2704.2.2
+, and FC
+Table 2704.2.2.1
+. The quantity of
+HPM
+in use at a
+workstation
+shall not exceed the quantities listed in FC Table 2705.2.2.
+FC
+TABLE 2705.2.2
+MAXIMUM QUANTITIES OF HPM AT A
+WORKSTATION
+d
+HPM CLASSIFICATION
+STATE
+MAXIMUM QUANTITY
+Flammable, highly toxic, pyrophoric and toxic combined
+Gas
+Combined aggregate volume of all
+containers
+at a
+workstation
+shall not exceed an internal
+container
+volume of 39.6 gallons or 5.29 cubic feet
+Flammable
+Liquid
+15 gallons
+a, b
+Solid
+5 pounds
+a, b
+Corrosive
+Gas
+Combined aggregate volume of all
+containers
+at a
+workstation
+shall not exceed an internal
+container
+volume of 39.6 gallons or 5.29 cubic feet
+Liquid
+Use-
+Open System
+: 25 gallons
+b
+Use-
+Closed System
+: 150 gallons
+b, e
+Solid
+20 pounds
+a, b
+Highly toxic
+Liquid
+15 gallons
+a
+Solid
+5 pounds
+a
+Oxidizer
+Gas
+Combined aggregate volume of all
+containers
+at a
+workstation
+shall not exceed an internal
+container
+volume of 39.6 gallons or 5.29 cubic feet
+Liquid
+Use-
+open system
+: 12 gallons
+b
+Use-
+closed system
+: 60 gallons
+b
+Solid
+20 pounds
+a, b
+Pyrophoric
+Liquid
+1
+/
+2
+gallon
+c, f
+Solid
+See FC
+Table 2704.2.2.1
+Toxic
+Liquid
+Use-
+open system
+: 15 gallons
+b
+Use-
+closed system
+: 60 gallons
+b
+Solid
+5 pounds
+a, b
+Unstable reactive
+Class
+3
+Liquid
+1
+/
+2
+gallon
+a, b
+Solid
+5 pounds
+a, b
+Water-reactive Class 3
+Liquid
+1
+/
+2
+gallon
+c, f
+Solid
+See FC
+Table 2704.2.2.1
+For SI: 1 pound = 0.454 kg, 1 gallon = 3.785 L.
+Maximum allowable quantities may be increased 100 percent for
+closed systems
+operations. When Note b applies, the quantities increased may be as set forth in both notes.
+Quantities may be increased 100 percent when
+workstations
+are internally protected throughout by a
+fire extinguishing system
+complying with the requirements of
+FC Chapter 9
+. When Note a applies, the quantities increased may be as set forth in both notes. When Note e applies, the maximum increase authorized by both Notes b and e shall not exceed 100 percent.
+Allowed only in
+workstations
+that are internally protected throughout by a
+fire extinguishing system
+compatible with the reactivity of materials in use at the
+workstation
+.
+The quantity limits apply only to materials classified as HPM.
+Quantities may be increased 100 percent for nonflammable, noncombustible corrosive
+liquids
+when the materials of construction for
+workstations
+are listed or
+approved
+for use without internal
+fire extinguishing system
+protection. When Note b applies, the maximum increase authorized by both Notes b and e shall not exceed 100 percent.
+A maximum quantity of 5.3 gallons shall be allowed at a
+workstation
+when in accordance with
+FC2705.2.3.4
+.
+
+---
+
+The aggregate quantities of
+hazardous materials
+in a single
+fabrication area
+shall comply with the requirements of
+FC2704.2.2
+, and FC
+Table 2704.2.2.1
+. The quantity of
+HPM
+in use at a
+workstation
+shall not exceed the quantities listed in FC Table 2705.2.2.
+FC
+TABLE 2705.2.2
+MAXIMUM QUANTITIES OF HPM AT A
+WORKSTATION
+d
+HPM CLASSIFICATION
+STATE
+MAXIMUM QUANTITY
+Flammable, highly toxic, pyrophoric and toxic combined
+Gas
+Combined aggregate volume of all
+containers
+at a
+workstation
+shall not exceed an internal
+container
+volume of 39.6 gallons or 5.29 cubic feet
+Flammable
+Liquid
+15 gallons
+a, b
+Solid
+5 pounds
+a, b
+Corrosive
+Gas
+Combined aggregate volume of all
+containers
+at a
+workstation
+shall not exceed an internal
+container
+volume of 39.6 gallons or 5.29 cubic feet
+Liquid
+Use-
+Open System
+: 25 gallons
+b
+Use-
+Closed System
+: 150 gallons
+b, e
+Solid
+20 pounds
+a, b
+Highly toxic
+Liquid
+15 gallons
+a
+Solid
+5 pounds
+a
+Oxidizer
+Gas
+Combined aggregate volume of all
+containers
+at a
+workstation
+shall not exceed an internal
+container
+volume of 39.6 gallons or 5.29 cubic feet
+Liquid
+Use-
+open system
+: 12 gallons
+b
+Use-
+closed system
+: 60 gallons
+b
+Solid
+20 pounds
+a, b
+Pyrophoric
+Liquid
+1
+/
+2
+gallon
+c, f
+Solid
+See FC
+Table 2704.2.2.1
+Toxic
+Liquid
+Use-
+open system
+: 15 gallons
+b
+Use-
+closed system
+: 60 gallons
+b
+Solid
+5 pounds
+a, b
+Unstable reactive
+Class
+3
+Liquid
+1
+/
+2
+gallon
+a, b
+Solid
+5 pounds
+a, b
+Water-reactive Class 3
+Liquid
+1
+/
+2
+gallon
+c, f
+Solid
+See FC
+Table 2704.2.2.1
+For SI: 1 pound = 0.454 kg, 1 gallon = 3.785 L.
+Maximum allowable quantities may be increased 100 percent for
+closed systems
+operations. When Note b applies, the quantities increased may be as set forth in both notes.
+Quantities may be increased 100 percent when
+workstations
+are internally protected throughout by a
+fire extinguishing system
+complying with the requirements of
+FC Chapter 9
+. When Note a applies, the quantities increased may be as set forth in both notes. When Note e applies, the maximum increase authorized by both Notes b and e shall not exceed 100 percent.
+Allowed only in
+workstations
+that are internally protected throughout by a
+fire extinguishing system
+compatible with the reactivity of materials in use at the
+workstation
+.
+The quantity limits apply only to materials classified as HPM.
+Quantities may be increased 100 percent for nonflammable, noncombustible corrosive
+liquids
+when the materials of construction for
+workstations
+are listed or
+approved
+for use without internal
+fire extinguishing system
+protection. When Note b applies, the maximum increase authorized by both Notes b and e shall not exceed 100 percent.
+A maximum quantity of 5.3 gallons shall be allowed at a
+workstation
+when in accordance with
+FC2705.2.3.4
+.
+
+---
+
+## Section 2705.2.3: Workstations
+
+2705.2.3 Workstations
+Workstations
+in
+fabrication areas
+shall be in accordance with
+FC 2705.2.3.1
+through
+2705.2.3.4
+.
+
+---
+
+Workstations
+in
+fabrication areas
+shall be in accordance with
+FC 2705.2.3.1
+through
+2705.2.3.4
+.
+
+---
+
+## Section 2705.2.3.1: Construction
+
+2705.2.3.1 Construction
+Workstations
+in
+fabrication areas
+shall be constructed of materials compatible with the materials stored and used at the
+workstation
+. The portion of the
+workstation
+that serves as a cabinet for
+HPM
+gases and
+flammable liquids
+shall be noncombustible and, if of metal, shall not be less than 0.0478-inch (1.2-mm) (18 gauge)
+steel
+.
+
+---
+
+Workstations
+in
+fabrication areas
+shall be constructed of materials compatible with the materials stored and used at the
+workstation
+. The portion of the
+workstation
+that serves as a cabinet for
+HPM
+gases and
+flammable liquids
+shall be noncombustible and, if of metal, shall not be less than 0.0478-inch (1.2-mm) (18 gauge)
+steel
+.
+
+---
+
+## Section 2705.2.3.2: Protection of Vessels
+
+2705.2.3.2 Protection of Vessels
+Vessels
+containing
+hazardous materials
+located in or connected to a
+workstation
+shall be protected as follows:
+HPM
+:
+Vessels
+containing
+HPM
+shall be protected from physical damage and shall not project from the
+workstation
+.
+Hazardous
+cryogenic fluids
+, gases and
+liquids
+: Hazardous
+cryogenic fluids
+, gases and
+liquid
+vessels
+located within a
+workstation
+shall be protected from seismic forces in an
+approved
+manner in accordance with the
+construction codes
+, including the
+Building Code
+.
+Compressed gases: Protection for compressed gases shall additionally comply with the requirements of
+FC5303.3
+.
+Cryogenic fluids
+: Protection for
+cryogenic fluid
+vessels
+shall additionally comply with
+FC5503.5
+.
+
+---
+
+Vessels
+containing
+hazardous materials
+located in or connected to a
+workstation
+shall be protected as follows:
+HPM
+:
+Vessels
+containing
+HPM
+shall be protected from physical damage and shall not project from the
+workstation
+.
+Hazardous
+cryogenic fluids
+, gases and
+liquids
+: Hazardous
+cryogenic fluids
+, gases and
+liquid
+vessels
+located within a
+workstation
+shall be protected from seismic forces in an
+approved
+manner in accordance with the
+construction codes
+, including the
+Building Code
+.
+Compressed gases: Protection for compressed gases shall additionally comply with the requirements of
+FC5303.3
+.
+Cryogenic fluids
+: Protection for
+cryogenic fluid
+vessels
+shall additionally comply with
+FC5503.5
+.
+
+---
+
+## Section 2705.2.3.3: Drainage and Containment for HPM Liquids
+
+2705.2.3.3 Drainage and Containment for HPM Liquids
+Each
+workstation
+utilizing
+HPM
+liquids
+shall be provided with all of the following:
+Drainage piping
+systems
+connected to a compatible
+system
+for disposition of such
+liquids
+.
+The work surface provided with a slope or other means for directing spilled materials to the containment or drainage
+system
+.
+An
+approved
+means of containing or directing spilled or leaked
+liquids
+to the drainage
+system
+.
+
+---
+
+Each
+workstation
+utilizing
+HPM
+liquids
+shall be provided with all of the following:
+Drainage piping
+systems
+connected to a compatible
+system
+for disposition of such
+liquids
+.
+The work surface provided with a slope or other means for directing spilled materials to the containment or drainage
+system
+.
+An
+approved
+means of containing or directing spilled or leaked
+liquids
+to the drainage
+system
+.
+
+---
+
+## Section 2705.2.3.4: Pyrophoric Liquids and Class 3 Water-Reactive Liquids
+
+2705.2.3.4 Pyrophoric Liquids and Class 3 Water-Reactive Liquids
+Pyrophoric
+liquids
+and Class 3 water-reactive
+liquids
+in
+containers
+of greater than
+1
+/
+2
+-gallon (2-L) but not more than 5.3-gallon (20-L) capacity shall be allowed at
+workstations
+when located inside cabinets and the following conditions are met:
+Maximum amount per cabinet: The maximum amount per cabinet shall be limited to 5.3 gallons (20 L).
+Cabinet construction: Cabinets shall be constructed in accordance with the following:
+Cabinets shall be constructed of not less than 0.097-inch (2.5-mm) (12 gauge)
+steel
+.
+Cabinets shall be allowed to have self-closing limited access ports or noncombustible windows that provide access to equipment controls.
+Cabinets shall be provided with self- or manual-closing doors. Manual-closing doors shall be equipped with a door switch that will initiate local audible and visual alarms when the door is in the open position.
+Cabinet exhaust
+ventilation
+system
+: An exhaust
+ventilation
+system
+shall be provided for cabinets and shall comply with the following:
+The
+system
+shall be designed to operate at a negative pressure in relation to the surrounding area.
+The
+system
+shall be equipped with a pressure monitor and a flow switch alarm monitored at the on-site
+emergency control station
+.
+Cabinet spill containment: Spill containment shall be provided in each cabinet, with the spill containment capable of holding the contents of the aggregate amount of
+liquids
+in
+containers
+in each cabinet.
+Valves: Valves in supply piping between the product
+containers
+in the cabinet and the
+workstation
+served by the
+containers
+shall fail in the closed position upon power failure, loss of exhaust
+ventilation
+and upon actuation of the
+fire
+control
+system
+.
+Fire
+detection
+system
+: Each cabinet shall be equipped with an
+automatic
+fire
+detection
+system
+complying with the following conditions:
+Automatic
+detection
+system
+: UV/IR, high-sensitivity smoke detection (HSSD) or other
+approved
+detection
+systems
+shall be provided inside each cabinet.
+Automatic
+shutoff: Activation of the detection
+system
+shall automatically close the shutoff valves at the source on the
+liquid
+supply.
+Alarms and signals: Activation of the detection
+system
+shall initiate a local alarm within the
+fabrication area
+and transmit a signal to the
+emergency control station
+. The alarms and signals shall be both visual and audible.
+
+---
+
+Pyrophoric
+liquids
+and Class 3 water-reactive
+liquids
+in
+containers
+of greater than
+1
+/
+2
+-gallon (2-L) but not more than 5.3-gallon (20-L) capacity shall be allowed at
+workstations
+when located inside cabinets and the following conditions are met:
+Maximum amount per cabinet: The maximum amount per cabinet shall be limited to 5.3 gallons (20 L).
+Cabinet construction: Cabinets shall be constructed in accordance with the following:
+Cabinets shall be constructed of not less than 0.097-inch (2.5-mm) (12 gauge)
+steel
+.
+Cabinets shall be allowed to have self-closing limited access ports or noncombustible windows that provide access to equipment controls.
+Cabinets shall be provided with self- or manual-closing doors. Manual-closing doors shall be equipped with a door switch that will initiate local audible and visual alarms when the door is in the open position.
+Cabinet exhaust
+ventilation
+system
+: An exhaust
+ventilation
+system
+shall be provided for cabinets and shall comply with the following:
+The
+system
+shall be designed to operate at a negative pressure in relation to the surrounding area.
+The
+system
+shall be equipped with a pressure monitor and a flow switch alarm monitored at the on-site
+emergency control station
+.
+Cabinet spill containment: Spill containment shall be provided in each cabinet, with the spill containment capable of holding the contents of the aggregate amount of
+liquids
+in
+containers
+in each cabinet.
+Valves: Valves in supply piping between the product
+containers
+in the cabinet and the
+workstation
+served by the
+containers
+shall fail in the closed position upon power failure, loss of exhaust
+ventilation
+and upon actuation of the
+fire
+control
+system
+.
+Fire
+detection
+system
+: Each cabinet shall be equipped with an
+automatic
+fire
+detection
+system
+complying with the following conditions:
+Automatic
+detection
+system
+: UV/IR, high-sensitivity smoke detection (HSSD) or other
+approved
+detection
+systems
+shall be provided inside each cabinet.
+Automatic
+shutoff: Activation of the detection
+system
+shall automatically close the shutoff valves at the source on the
+liquid
+supply.
+Alarms and signals: Activation of the detection
+system
+shall initiate a local alarm within the
+fabrication area
+and transmit a signal to the
+emergency control station
+. The alarms and signals shall be both visual and audible.
+
+---
+
+## Section 2705.2.4: Exit Access Corridors and Exit Enclosures
+
+2705.2.4 Exit Access Corridors and Exit Enclosures
+Hazardous materials
+shall not be used in
+exit access
+corridors or
+exit access
+enclosures.
+
+---
+
+Hazardous materials
+shall not be used in
+exit access
+corridors or
+exit access
+enclosures.
+
+---
+
+## Section 2705.2.5: Service Corridors
+
+2705.2.5 Service Corridors
+Hazardous materials
+shall not be used in
+service corridors
+.
+
+---
+
+Hazardous materials
+shall not be used in
+service corridors
+.
+
+---
+
+## Section 2705.3: Handling
+
+2705.3 Handling
+The
+handling
+of
+hazardous materials
+shall comply with the requirements of this section and other applicable provisions of this code.
+
+---
+
+The
+handling
+of
+hazardous materials
+shall comply with the requirements of this section and other applicable provisions of this code.
+
+---
+
+## Section 2705.3.1: Exit Corridors Access and Exit Enclosures
+
+2705.3.1 Exit Corridors Access and Exit Enclosures
+Exit access
+corridors and
+exit
+enclosures shall not contain HPM except as allowed for
+exit access
+corridors by the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Exit access
+corridors and
+exit
+enclosures shall not contain HPM except as allowed for
+exit access
+corridors by the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2705.3.2: Reserved
+
+2705.3.2 Reserved
+
+---
+
+## Section 2705.3.3: Service Corridors
+
+2705.3.3 Service Corridors
+A
+service corridor
+shall be provided where it is necessary to move
+HPM
+during
+handling
+from a
+liquid storage room
+, HPM
+room, gas
+room or from the outdoors to the perimeter wall of a
+fabrication area
+.
+Service corridors
+shall be designed and constructed in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+A
+service corridor
+shall be provided where it is necessary to move
+HPM
+during
+handling
+from a
+liquid storage room
+, HPM
+room, gas
+room or from the outdoors to the perimeter wall of a
+fabrication area
+.
+Service corridors
+shall be designed and constructed in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2705.3.4: Carts and Hand Trucks
+
+2705.3.4 Carts and Hand Trucks
+Carts and hand trucks used to move HPM during
+handling
+in
+exit access
+corridors and
+exit
+enclosures shall comply with the requirements of
+FC5003.10.3
+.
+
+---
+
+Carts and hand trucks used to move HPM during
+handling
+in
+exit access
+corridors and
+exit
+enclosures shall comply with the requirements of
+FC5003.10.3
+.
+
+---
+
+## Section 2705.3.4.1: Identification
+
+2705.3.4.1 Identification
+Carts and hand trucks shall be marked to indicate the contents.
+
+---
+
+Carts and hand trucks shall be marked to indicate the contents.
+
+---
+

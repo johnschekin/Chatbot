@@ -1,0 +1,2468 @@
+# NYC Fire Code 2022 - Chapter 63
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+6301 General
+
+---
+
+6302 Definitions
+
+---
+
+6303 General Requirements
+
+---
+
+6304 Storage
+
+---
+
+6305 Handling and Use
+
+---
+
+6306 Liquid Oxygen for Residential Health Care Use
+
+---
+
+6307 Manufacturing Restrictions
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Section 6301 General
+
+---
+
+## Section 6301.1: Scope
+
+6301.1 Scope
+This chapter shall govern the manufacture, storage,
+handling
+and use of
+solid
+and
+liquid
+oxidizers
+,
+oxidizing gases
+and
+oxidizing cryogenic fluids
+.
+Exceptions:
+Display and storage in
+Group M
+and storage in
+Group S
+occupancies
+in accordance with
+FC5003.11
+.
+Storage,
+handling
+and use of
+liquid
+oxygen in a residential or residential health care setting in a
+Group I
+-1, I-4 or R
+occupancy
+in accordance with
+FC6306
+.
+
+---
+
+This chapter shall govern the manufacture, storage,
+handling
+and use of
+solid
+and
+liquid
+oxidizers
+,
+oxidizing gases
+and
+oxidizing cryogenic fluids
+.
+Exceptions:
+Display and storage in
+Group M
+and storage in
+Group S
+occupancies
+in accordance with
+FC5003.11
+.
+Storage,
+handling
+and use of
+liquid
+oxygen in a residential or residential health care setting in a
+Group I
+-1, I-4 or R
+occupancy
+in accordance with
+FC6306
+.
+
+---
+
+## Section 6301.2: Permits
+
+6301.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 6301.3: General
+
+6301.3 General
+Oxidizers
+shall be manufactured, stored, handled and used in accordance with this chapter and
+FC Chapter 50
+.
+
+---
+
+Oxidizers
+shall be manufactured, stored, handled and used in accordance with this chapter and
+FC Chapter 50
+.
+
+---
+
+## Section 6301.3.1: Oxidizing Gases
+
+6301.3.1 Oxidizing Gases
+Oxidizing gases shall additionally comply with the requirements of
+FC Chapter 53
+.
+
+---
+
+Oxidizing gases shall additionally comply with the requirements of
+FC Chapter 53
+.
+
+---
+
+## Section 6301.3.2: Ammonium Nitrate
+
+6301.3.2 Ammonium Nitrate
+Oxidizers
+containing
+ammonium nitrate
+shall additionally comply with the requirements of NFPA 400.
+
+---
+
+Oxidizers
+containing
+ammonium nitrate
+shall additionally comply with the requirements of NFPA 400.
+
+---
+
+## Section 6301.3.3: Bulk Oxygen Systems
+
+6301.3.3 Bulk Oxygen Systems
+Bulk oxygen systems
+at industrial and institutional consumer sites shall additionally comply with the requirements of NFPA 55.
+
+---
+
+Bulk oxygen systems
+at industrial and institutional consumer sites shall additionally comply with the requirements of NFPA 55.
+
+---
+
+## Section 6301.3.4: Bulk Nitrous Oxide Systems
+
+6301.3.4 Bulk Nitrous Oxide Systems
+Bulk nitrous oxide systems
+at industrial and institutional consumer sites shall additionally comply with the requirements of CGA G-8.1.
+
+---
+
+Bulk nitrous oxide systems
+at industrial and institutional consumer sites shall additionally comply with the requirements of CGA G-8.1.
+
+---
+
+## Section 6301.3.5: Oxidizing Cryogenic Fluids
+
+6301.3.5 Oxidizing Cryogenic Fluids
+Oxidizing cryogenic fluids
+shall additionally comply with the requirements of
+FC Chapter 55
+.
+
+---
+
+Oxidizing cryogenic fluids
+shall additionally comply with the requirements of
+FC Chapter 55
+.
+
+---
+
+## Section 6301.4: Supervision
+
+6301.4 Supervision
+The
+handling
+and use of
+oxidizers
+in quantities requiring a
+permit
+shall be under the
+personal supervision
+of a
+certificate of fitness
+holder. The storage of
+oxidizers
+in quantities requiring a
+permit
+shall be under the
+general supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+The
+handling
+and use of
+oxidizers
+in quantities requiring a
+permit
+shall be under the
+personal supervision
+of a
+certificate of fitness
+holder. The storage of
+oxidizers
+in quantities requiring a
+permit
+shall be under the
+general supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+Section 6302 Definitions
+
+---
+
+## Section 6302.1: Definitions
+
+6302.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+BULK NITROUS OXIDE SYSTEM
+.
+BULK OXYGEN
+SYSTEM
+.
+LIQUID
+OXYGEN AMBULATORY
+CONTAINER
+.
+LIQUID
+OXYGEN HOME CARE
+CONTAINER
+.
+OXIDIZER
+.
+Class 1.
+Class 2.
+Class 3.
+Class 4.
+OXIDIZING CRYOGENIC FLUID
+.
+OXIDIZING GAS
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+BULK NITROUS OXIDE SYSTEM
+.
+BULK OXYGEN
+SYSTEM
+.
+LIQUID
+OXYGEN AMBULATORY
+CONTAINER
+.
+LIQUID
+OXYGEN HOME CARE
+CONTAINER
+.
+OXIDIZER
+.
+Class 1.
+Class 2.
+Class 3.
+Class 4.
+OXIDIZING CRYOGENIC FLUID
+.
+OXIDIZING GAS
+.
+
+---
+
+Section 6303 General Requirements
+
+---
+
+## Section 6303.1: Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+
+6303.1 Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+The storage,
+handling
+and use of
+oxidizers
+in amounts not exceeding the
+maximum allowable quantity per control area
+indicated in
+FC5003.1
+shall be in accordance with
+FC 5001
+,
+5003
+,
+6301
+,
+6303
+, and 6307 and with FC Chapters
+53
+and
+55
+, as applicable.
+
+---
+
+The storage,
+handling
+and use of
+oxidizers
+in amounts not exceeding the
+maximum allowable quantity per control area
+indicated in
+FC5003.1
+shall be in accordance with
+FC 5001
+,
+5003
+,
+6301
+,
+6303
+, and 6307 and with FC Chapters
+53
+and
+55
+, as applicable.
+
+---
+
+## Section 6303.1.1: Prohibited Indoor Storage, Handling and Use by Occupancy
+
+6303.1.1 Prohibited Indoor Storage, Handling and Use by Occupancy
+It shall be unlawful to store, handle or use:
+Class 4
+oxidizers
+in
+Group A
+, E, I, R or U
+occupancies
+.
+Class 4
+liquid
+and
+solid
+oxidizers
+in offices in
+Group B
+, F, M or S
+occupancies
+, and any areas of such
+occupancies
+that are accessible to the public.
+Oxidizing gases
+in portable
+containers
+exceeding an individual capacity of 250 SCF (7 m
+3
+) for
+maintenance
+purposes, patient care or operation of equipment in
+Group A
+and E
+occupancies
+;
+Group B
+occupancy
+offices; and
+Group I
+and R
+occupancies
+, except as authorized by 6306.
+
+---
+
+It shall be unlawful to store, handle or use:
+Class 4
+oxidizers
+in
+Group A
+, E, I, R or U
+occupancies
+.
+Class 4
+liquid
+and
+solid
+oxidizers
+in offices in
+Group B
+, F, M or S
+occupancies
+, and any areas of such
+occupancies
+that are accessible to the public.
+Oxidizing gases
+in portable
+containers
+exceeding an individual capacity of 250 SCF (7 m
+3
+) for
+maintenance
+purposes, patient care or operation of equipment in
+Group A
+and E
+occupancies
+;
+Group B
+occupancy
+offices; and
+Group I
+and R
+occupancies
+, except as authorized by 6306.
+
+---
+
+## Section 6303.1.2: Emergency Shutoff
+
+6303.1.2 Emergency Shutoff
+Oxidizing gas
+piping
+systems
+shall be provided with
+approved
+manual or
+automatic emergency shutoff valves
+that can be activated at each point of use and each source.
+
+---
+
+Oxidizing gas
+piping
+systems
+shall be provided with
+approved
+manual or
+automatic emergency shutoff valves
+that can be activated at each point of use and each source.
+
+---
+
+## Section 6303.1.2.1: Shutoff at Source
+
+6303.1.2.1 Shutoff at Source
+A manual or
+automatic
+fail-safe
+emergency shutoff valve
+shall be installed on supply piping at the
+container
+or other source of supply. Manual or
+automatic
+valves on the
+containers
+supplying the
+oxidizing gas
+may serve as the
+emergency shutoff valve
+when the
+containers
+are the sole source of supply and are not manifolded.
+
+---
+
+A manual or
+automatic
+fail-safe
+emergency shutoff valve
+shall be installed on supply piping at the
+container
+or other source of supply. Manual or
+automatic
+valves on the
+containers
+supplying the
+oxidizing gas
+may serve as the
+emergency shutoff valve
+when the
+containers
+are the sole source of supply and are not manifolded.
+
+---
+
+## Section 6303.1.2.2: Shutoff at Point of Use
+
+6303.1.2.2 Shutoff at Point of Use
+A manual or
+automatic emergency shutoff valve
+shall be installed on the supply piping at the point of use or at a point where the equipment using the gas is connected to the supply
+system
+.
+
+---
+
+A manual or
+automatic emergency shutoff valve
+shall be installed on the supply piping at the point of use or at a point where the equipment using the gas is connected to the supply
+system
+.
+
+---
+
+## Section 6303.1.3: Ignition Source Control
+
+6303.1.3 Ignition Source Control
+Ignition sources in areas containing
+oxidizing gases
+shall be controlled in accordance with
+FC5003.7
+.
+
+---
+
+Ignition sources in areas containing
+oxidizing gases
+shall be controlled in accordance with
+FC5003.7
+.
+
+---
+
+## Section 6303.2: Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+
+6303.2 Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+The storage,
+handling
+and use of
+oxidizers
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in
+FC5003.1
+shall be in accordance with
+FC Chapter 50
+and this chapter.
+
+---
+
+The storage,
+handling
+and use of
+oxidizers
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in
+FC5003.1
+shall be in accordance with
+FC Chapter 50
+and this chapter.
+
+---
+
+## Section 6303.3: Multiple Hazard Sign
+
+6303.3 Multiple Hazard Sign
+Where more than one class of
+oxidizer
+is stored in immediate proximity to one another, such area shall be provided with hazard identification signs pursuant to
+FC Chapter 50
+for the most severe class present.
+
+---
+
+Where more than one class of
+oxidizer
+is stored in immediate proximity to one another, such area shall be provided with hazard identification signs pursuant to
+FC Chapter 50
+for the most severe class present.
+
+---
+
+## Section 6303.4: Multiple Class Storage
+
+6303.4 Multiple Class Storage
+Except as otherwise specifically provided in this code, where more than one class of
+oxidizer
+is stored in the same
+control area
+, the maximum quantity allowed of each
+oxidizer
+shall be limited as follows: the maximum quantity shall be reduced by multiplying the maximum allowable quantity for each such material by the proportional amount that such material bears to the total quantity of
+oxidizer
+stored in the
+control area
+. The total of the proportional amounts shall not exceed 100 percent.
+
+---
+
+Except as otherwise specifically provided in this code, where more than one class of
+oxidizer
+is stored in the same
+control area
+, the maximum quantity allowed of each
+oxidizer
+shall be limited as follows: the maximum quantity shall be reduced by multiplying the maximum allowable quantity for each such material by the proportional amount that such material bears to the total quantity of
+oxidizer
+stored in the
+control area
+. The total of the proportional amounts shall not exceed 100 percent.
+
+---
+
+## Section 6303.5: Filling of Portable Containers
+
+6303.5 Filling of Portable Containers
+Portable
+containers
+of
+oxidizing gases
+shall be filled at a
+compressed gas
+dispensing
+facility
+, except that:
+liquid oxygen home care containers
+alternatively may be filled outdoors from a
+cargo tank
+designed to supply such
+containers
+. When a
+liquid oxygen home care container
+is filled from a
+cargo tank
+on an asphalt or combustible surface, a drip pan compatible with
+liquid
+oxygen shall be provided under home care
+container
+fill and vent connections during the filling process to minimize the risk of ignition of the combustible surface; and
+liquid oxygen ambulatory containers
+alternatively may be filled in the residence or residential health care setting from the
+liquid oxygen home care container
+designed for such purpose, in accordance with the manufacturer's instructions.
+
+---
+
+Portable
+containers
+of
+oxidizing gases
+shall be filled at a
+compressed gas
+dispensing
+facility
+, except that:
+liquid oxygen home care containers
+alternatively may be filled outdoors from a
+cargo tank
+designed to supply such
+containers
+. When a
+liquid oxygen home care container
+is filled from a
+cargo tank
+on an asphalt or combustible surface, a drip pan compatible with
+liquid
+oxygen shall be provided under home care
+container
+fill and vent connections during the filling process to minimize the risk of ignition of the combustible surface; and
+liquid oxygen ambulatory containers
+alternatively may be filled in the residence or residential health care setting from the
+liquid oxygen home care container
+designed for such purpose, in accordance with the manufacturer's instructions.
+
+---
+
+## Section 6303.5.1: Smoking Prohibited
+
+6303.5.1 Smoking Prohibited
+Smoking shall be prohibited in rooms or areas where
+liquid
+oxygen
+containers
+are filled.
+
+---
+
+Smoking shall be prohibited in rooms or areas where
+liquid
+oxygen
+containers
+are filled.
+
+---
+
+Section 6304 Storage
+
+---
+
+## Section 6304.1: Indoor Storage
+
+6304.1 Indoor Storage
+Indoor
+storage of
+oxidizers
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(1)
+shall be in accordance with
+FC 5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+Indoor
+storage of
+oxidizers
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(1)
+shall be in accordance with
+FC 5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+## Section 6304.1.1: Detached Storage
+
+6304.1.1 Detached Storage
+Storage of
+liquid
+and
+solid
+oxidizers
+shall be in a
+detached building
+when required by
+FC5003.8.2
+.
+
+---
+
+Storage of
+liquid
+and
+solid
+oxidizers
+shall be in a
+detached building
+when required by
+FC5003.8.2
+.
+
+---
+
+## Section 6304.1.2: Distance From Detached Storage Buildings to Exposures
+
+6304.1.2 Distance From Detached Storage Buildings to Exposures
+In addition to the requirements of the
+construction codes
+, including the
+Building Code
+, detached storage buildings shall be located in accordance with FC Table 6304.1.2.
+FC
+TABLE 6304.1.2
+OXIDIZER
+(
+LIQUIDS
+AND
+SOLIDS
+)—DISTANCE FROM DETACHED STORAGE BUILDINGS AND OUTDOOR STORAGE AREAS TO EXPOSURES
+OXIDIZER
+CLASS
+WEIGHT (pounds)
+MINIMUM DISTANCE TO BUILDINGS, LOT LINES,
+PUBLIC STREETS
+,
+PRIVATE ROADS
+OR BUILDING
+EXITS
+(feet)
+1
+Note a
+Not Required
+2
+Note a
+35
+3
+Note a
+50
+4
+Up to 10
+50
+greater than 10 up to 100
+75
+greater than 100 up to 500
+100
+greater than 500 up to 1,000
+125
+greater than 1,000 up to 3,000
+200
+greater than 3,000 up to 5,000
+300
+greater than 5,000 up to 10,000
+400
+over 10,000
+As required by the
+commissioner
+For SI: 1 foot = 304.8 mm, 1 pound = 0.454 kg.
+Any quantity over the amount required for detached storage in accordance with
+FC5003.8.2
+, or over the outdoor maximum allowable quantity for
+outdoor control areas
+.
+
+---
+
+In addition to the requirements of the
+construction codes
+, including the
+Building Code
+, detached storage buildings shall be located in accordance with FC Table 6304.1.2.
+FC
+TABLE 6304.1.2
+OXIDIZER
+(
+LIQUIDS
+AND
+SOLIDS
+)—DISTANCE FROM DETACHED STORAGE BUILDINGS AND OUTDOOR STORAGE AREAS TO EXPOSURES
+OXIDIZER
+CLASS
+WEIGHT (pounds)
+MINIMUM DISTANCE TO BUILDINGS, LOT LINES,
+PUBLIC STREETS
+,
+PRIVATE ROADS
+OR BUILDING
+EXITS
+(feet)
+1
+Note a
+Not Required
+2
+Note a
+35
+3
+Note a
+50
+4
+Up to 10
+50
+greater than 10 up to 100
+75
+greater than 100 up to 500
+100
+greater than 500 up to 1,000
+125
+greater than 1,000 up to 3,000
+200
+greater than 3,000 up to 5,000
+300
+greater than 5,000 up to 10,000
+400
+over 10,000
+As required by the
+commissioner
+For SI: 1 foot = 304.8 mm, 1 pound = 0.454 kg.
+Any quantity over the amount required for detached storage in accordance with
+FC5003.8.2
+, or over the outdoor maximum allowable quantity for
+outdoor control areas
+.
+
+---
+
+## Section 6304.1.3: Explosion Control
+
+6304.1.3 Explosion Control
+Any room or other area in which Class 4
+liquid
+or
+solid
+oxidizers
+are stored shall be provided with
+explosion
+control in accordance with
+FC911
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Any room or other area in which Class 4
+liquid
+or
+solid
+oxidizers
+are stored shall be provided with
+explosion
+control in accordance with
+FC911
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 6304.1.4: Sprinkler System
+
+6304.1.4 Sprinkler System
+Solid
+and
+liquid
+oxidizer
+storage areas shall be protected by a
+sprinkler system
+in accordance with NFPA 400.
+
+---
+
+Solid
+and
+liquid
+oxidizer
+storage areas shall be protected by a
+sprinkler system
+in accordance with NFPA 400.
+
+---
+
+## Section 6304.1.5: Liquid-Tight Floor
+
+6304.1.5 Liquid-Tight Floor
+In addition to
+FC5004.12
+, floors of storage areas for
+liquid
+and
+solid
+oxidizers
+shall be of
+liquid-tight construction
+.
+
+---
+
+In addition to
+FC5004.12
+, floors of storage areas for
+liquid
+and
+solid
+oxidizers
+shall be of
+liquid-tight construction
+.
+
+---
+
+## Section 6304.1.6: Smoke Detection
+
+6304.1.6 Smoke Detection
+An
+approved
+supervised smoke detection
+system
+in accordance with the
+construction codes
+, including the
+Building Code
+shall be installed in
+liquid
+and
+solid
+oxidizer
+storage areas. Such smoke detection
+system
+shall be monitored by an
+approved
+central station
+.
+Exception:
+Detached storage buildings protected by a
+fire extinguishing system
+.
+
+---
+
+An
+approved
+supervised smoke detection
+system
+in accordance with the
+construction codes
+, including the
+Building Code
+shall be installed in
+liquid
+and
+solid
+oxidizer
+storage areas. Such smoke detection
+system
+shall be monitored by an
+approved
+central station
+.
+Exception:
+Detached storage buildings protected by a
+fire extinguishing system
+.
+
+---
+
+## Section 6304.1.6.1: Smoke and Heat Venting
+
+6304.1.6.1 Smoke and Heat Venting
+Smoke and heat venting shall be provided in accordance with
+FC910
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Smoke and heat venting shall be provided in accordance with
+FC910
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 6304.1.7: Storage Conditions
+
+6304.1.7 Storage Conditions
+The maximum quantity of
+oxidizers
+that may be stored in a detached storage building shall not exceed the quantities set forth in FC Tables 6304.1.7(1) through 6304.1.7(4).
+FC
+TABLE 6304.1.7(1)
+STORAGE REQUIREMENTS FOR CLASS 1
+OXIDIZER
+(
+LIQUIDS
+AND
+SOLIDS
+) IN COMBUSTIBLE
+CONTAINERS
+a
+STORAGE CONFIGURATION
+LIMITS (feet)
+Piles
+Maximum length
+No Limit
+Maximum width
+50
+Maximum height
+20
+Minimum distance to next pile
+3
+Minimum distance to walls
+2
+Maximum quantity per pile
+No Limit
+Maximum quantity per building
+No Limit
+For SI: 1 foot = 304.8 mm.
+Storage in noncombustible
+containers
+or in bulk in detached storage buildings is not limited as to quantity or arrangement.
+FC
+TABLE 6304.1.7(2)
+STORAGE REQUIREMENTS FOR CLASS 2
+OXIDIZER
+(
+LIQUIDS
+AND
+SOLIDS
+)
+a,b
+STORAGE CONFIGURATION
+LIMITS
+Segregated storage
+Cutoff storage rooms
+c
+Detached building
+Piles
+Maximum width
+16 feet
+25 feet
+25 feet
+Maximum height
+10 feet
+12 feet
+12 feet
+Minimum distance to next pile
+Note d
+Note d
+Note d
+Minimum distance to walls
+2 feet
+2 feet
+2 feet
+Maximum quantity per pile
+20 tons
+50 tons
+200 tons
+Maximum quantity per building
+200 tons
+500 tons
+No Limit
+For SI: 1 foot = 204.8 mm, 1 ton = 0.907185 metric ton.
+Storage in noncombustible
+containers
+is not limited as to quantity or arrangement, except that piles shall be at least 2 feet from walls in buildings protected throughout by a
+sprinkler system
+and 4 feet from walls in buildings not protected throughout by a
+sprinkler system
+; the distance between piles shall not be less than the pile height.
+Quantity limits shall be reduced by 50 percent in buildings or portions of buildings used for retail sales.
+Cutoff storage rooms shall be separated from the remainder of the building by 2-hour
+fire
+barriers.
+Aisle width shall not be less than the pile height.
+FC
+TABLE 6304.1.7(3)
+STORAGE REQUIREMENTS FOR CLASS 3
+OXIDIZER
+(
+LIQUIDS
+AND
+SOLIDS
+)
+a,b
+STORAGE CONFIGURATION
+LIMITS
+Segregated storage
+Cutoff storage rooms
+c
+Detached building
+Piles
+Maximum width
+12 feet
+16 feet
+20 feet
+Maximum height
+8 feet
+10 feet
+10 feet
+Minimum distance to next pile
+Note d
+Note d
+Note d
+Minimum distance to walls
+4 feet
+4 feet
+4 feet
+Maximum quantity per pile
+20 tons
+30 tons
+150 tons
+Maximum quantity per building
+100 tons
+500 tons
+No Limit
+For SI: 1 foot = 204.8 mm, 1 ton = 0.907185 metric ton.
+Storage in noncombustible
+containers
+is not limited as to quantity or arrangement, except that piles shall be at least 2 feet from walls in sprinklered buildings and 4 feet from walls in nonsprinklered buildings; the distance between piles shall not be less than the pile height.
+Quantity limits shall be reduced by 50 percent in buildings or portions of buildings used for retail sales.
+Cutoff storage rooms shall be separated from the remainder of the building by 2-hour
+fire
+barriers.
+Aisle width shall not be less than the pile height.
+FC
+TABLE 6304.1.7(4)
+STORAGE REQUIREMENTS FOR CLASS 4
+OXIDIZER
+(
+LIQUIDS
+AND
+SOLIDS
+)
+STORAGE CONFIGURATION
+LIMITS (feet)
+Piles
+Maximum length
+10
+Maximum width
+4
+Maximum height
+8
+Minimum distance to next pile
+8
+Maximum quantity per building
+No Limit
+For SI: 1 foot = 304.8 mm.
+
+---
+
+The maximum quantity of
+oxidizers
+that may be stored in a detached storage building shall not exceed the quantities set forth in FC Tables 6304.1.7(1) through 6304.1.7(4).
+FC
+TABLE 6304.1.7(1)
+STORAGE REQUIREMENTS FOR CLASS 1
+OXIDIZER
+(
+LIQUIDS
+AND
+SOLIDS
+) IN COMBUSTIBLE
+CONTAINERS
+a
+STORAGE CONFIGURATION
+LIMITS (feet)
+Piles
+Maximum length
+No Limit
+Maximum width
+50
+Maximum height
+20
+Minimum distance to next pile
+3
+Minimum distance to walls
+2
+Maximum quantity per pile
+No Limit
+Maximum quantity per building
+No Limit
+For SI: 1 foot = 304.8 mm.
+Storage in noncombustible
+containers
+or in bulk in detached storage buildings is not limited as to quantity or arrangement.
+FC
+TABLE 6304.1.7(2)
+STORAGE REQUIREMENTS FOR CLASS 2
+OXIDIZER
+(
+LIQUIDS
+AND
+SOLIDS
+)
+a,b
+STORAGE CONFIGURATION
+LIMITS
+Segregated storage
+Cutoff storage rooms
+c
+Detached building
+Piles
+Maximum width
+16 feet
+25 feet
+25 feet
+Maximum height
+10 feet
+12 feet
+12 feet
+Minimum distance to next pile
+Note d
+Note d
+Note d
+Minimum distance to walls
+2 feet
+2 feet
+2 feet
+Maximum quantity per pile
+20 tons
+50 tons
+200 tons
+Maximum quantity per building
+200 tons
+500 tons
+No Limit
+For SI: 1 foot = 204.8 mm, 1 ton = 0.907185 metric ton.
+Storage in noncombustible
+containers
+is not limited as to quantity or arrangement, except that piles shall be at least 2 feet from walls in buildings protected throughout by a
+sprinkler system
+and 4 feet from walls in buildings not protected throughout by a
+sprinkler system
+; the distance between piles shall not be less than the pile height.
+Quantity limits shall be reduced by 50 percent in buildings or portions of buildings used for retail sales.
+Cutoff storage rooms shall be separated from the remainder of the building by 2-hour
+fire
+barriers.
+Aisle width shall not be less than the pile height.
+FC
+TABLE 6304.1.7(3)
+STORAGE REQUIREMENTS FOR CLASS 3
+OXIDIZER
+(
+LIQUIDS
+AND
+SOLIDS
+)
+a,b
+STORAGE CONFIGURATION
+LIMITS
+Segregated storage
+Cutoff storage rooms
+c
+Detached building
+Piles
+Maximum width
+12 feet
+16 feet
+20 feet
+Maximum height
+8 feet
+10 feet
+10 feet
+Minimum distance to next pile
+Note d
+Note d
+Note d
+Minimum distance to walls
+4 feet
+4 feet
+4 feet
+Maximum quantity per pile
+20 tons
+30 tons
+150 tons
+Maximum quantity per building
+100 tons
+500 tons
+No Limit
+For SI: 1 foot = 204.8 mm, 1 ton = 0.907185 metric ton.
+Storage in noncombustible
+containers
+is not limited as to quantity or arrangement, except that piles shall be at least 2 feet from walls in sprinklered buildings and 4 feet from walls in nonsprinklered buildings; the distance between piles shall not be less than the pile height.
+Quantity limits shall be reduced by 50 percent in buildings or portions of buildings used for retail sales.
+Cutoff storage rooms shall be separated from the remainder of the building by 2-hour
+fire
+barriers.
+Aisle width shall not be less than the pile height.
+FC
+TABLE 6304.1.7(4)
+STORAGE REQUIREMENTS FOR CLASS 4
+OXIDIZER
+(
+LIQUIDS
+AND
+SOLIDS
+)
+STORAGE CONFIGURATION
+LIMITS (feet)
+Piles
+Maximum length
+10
+Maximum width
+4
+Maximum height
+8
+Minimum distance to next pile
+8
+Maximum quantity per building
+No Limit
+For SI: 1 foot = 304.8 mm.
+
+---
+
+## Section 6304.1.7.1: Liquid and Solid Oxidizers
+
+6304.1.7.1 Liquid and Solid Oxidizers
+The storage configuration for
+liquid
+and
+solid
+oxidizers
+shall be as set forth in FC
+Tables 6304.1.7(1)
+through
+6304.1.7(4)
+.
+
+---
+
+The storage configuration for
+liquid
+and
+solid
+oxidizers
+shall be as set forth in FC
+Tables 6304.1.7(1)
+through
+6304.1.7(4)
+.
+
+---
+
+## Section 6304.1.7.2: Class 2 Oxidizers
+
+6304.1.7.2 Class 2 Oxidizers
+Class 2
+oxidizers
+shall not be stored in basements, cellars or other areas below grade, except when such storage is in
+stationary tanks
+.
+
+---
+
+Class 2
+oxidizers
+shall not be stored in basements, cellars or other areas below grade, except when such storage is in
+stationary tanks
+.
+
+---
+
+## Section 6304.1.7.3: Class 3 and 4 Oxidizers
+
+6304.1.7.3 Class 3 and 4 Oxidizers
+Class 3 and 4
+oxidizers
+in amounts exceeding the
+maximum allowable quantity per control area
+set forth in
+FC5003.1
+shall be stored on the ground floor only.
+
+---
+
+Class 3 and 4
+oxidizers
+in amounts exceeding the
+maximum allowable quantity per control area
+set forth in
+FC5003.1
+shall be stored on the ground floor only.
+
+---
+
+## Section 6304.1.8: Separation of Class 4 Oxidizers From Other Materials
+
+6304.1.8 Separation of Class 4 Oxidizers From Other Materials
+In addition to the requirements in
+FC5003.9.8
+, Class 4
+oxidizer
+liquids
+and
+solids
+shall be separated from other
+hazardous materials
+by not less than a 1-hour
+fire
+barrier or stored in
+hazardous materials
+storage cabinets. Detached storage buildings for Class 4
+oxidizer
+liquids
+and
+solids
+shall be located a minimum of 50 feet (15 240 mm) from other
+hazardous materials
+storage.
+Assemblies (2)
+
+---
+
+In addition to the requirements in
+FC5003.9.8
+, Class 4
+oxidizer
+liquids
+and
+solids
+shall be separated from other
+hazardous materials
+by not less than a 1-hour
+fire
+barrier or stored in
+hazardous materials
+storage cabinets. Detached storage buildings for Class 4
+oxidizer
+liquids
+and
+solids
+shall be located a minimum of 50 feet (15 240 mm) from other
+hazardous materials
+storage.
+
+---
+
+## Section 6304.1.9: Contamination
+
+6304.1.9 Contamination
+Liquid
+and
+solid
+oxidizers
+shall not be stored on or against combustible surfaces.
+Liquid
+and
+solid
+oxidizers
+shall be stored in a manner to prevent contamination.
+
+---
+
+Liquid
+and
+solid
+oxidizers
+shall not be stored on or against combustible surfaces.
+Liquid
+and
+solid
+oxidizers
+shall be stored in a manner to prevent contamination.
+
+---
+
+## Section 6304.2: Outdoor Storage
+
+6304.2 Outdoor Storage
+Outdoor storage of
+oxidizers
+in amounts exceeding the maximum allowable quantities per
+control area
+set forth in FC
+Table 5003.1.1(3)
+shall be in accordance with
+FC 5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+Outdoor storage of
+oxidizers
+in amounts exceeding the maximum allowable quantities per
+control area
+set forth in FC
+Table 5003.1.1(3)
+shall be in accordance with
+FC 5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+## Section 6304.2.1: Distance From Storage to Exposures for Liquid and Solid Oxidizers
+
+6304.2.1 Distance From Storage to Exposures for Liquid and Solid Oxidizers
+Outdoor storage areas for
+liquid
+and
+solid
+oxidizers
+shall be located in accordance with FC
+Table 6304.1.2
+.
+
+---
+
+Outdoor storage areas for
+liquid
+and
+solid
+oxidizers
+shall be located in accordance with FC
+Table 6304.1.2
+.
+
+---
+
+## Section 6304.2.2: Distance From Storage to Exposures for Oxidizing Gases
+
+6304.2.2 Distance From Storage to Exposures for Oxidizing Gases
+Outdoor storage areas for
+oxidizing gases
+shall be located in accordance with FC Table 6304.2.2.
+FC
+TABLE 6304.2.2
+OXIDIZING GASES
+—DISTANCE FROM STORAGE TO EXPOSURES
+a
+QUANTITY OF GAS STORED
+SCF
+DISTANCE TO A BUILDING NOT ASSOCIATED WITH THE
+MANUFACTURE OR DISTRIBUTION OF
+OXIDIZING GASES
+OR
+PUBLIC STREET
+,
+PRIVATE ROAD
+OR LOT LINE (feet)
+DISTANCE BETWEEN STORAGE
+AREAS
+(feet)
+greater than 3,000 up to 50,000
+5
+5
+greater than 50,000 up to 100,000
+10
+10
+greater than 100,000
+15
+15
+For SI: 1 foot = 304.8 mm, 1 cubic foot = 0.02832 m
+3
+.
+The distances do not apply when protective structures having a minimum
+fire
+-resistance rating of 2 hours interrupt the line of sight between the storage
+container
+and the exposure. The protective structure shall be at least 5 feet from the exposure. The configuration of the protective structure shall be designed to allow natural
+ventilation
+to prevent the accumulation of hazardous gas concentrations.
+
+---
+
+Outdoor storage areas for
+oxidizing gases
+shall be located in accordance with FC Table 6304.2.2.
+FC
+TABLE 6304.2.2
+OXIDIZING GASES
+—DISTANCE FROM STORAGE TO EXPOSURES
+a
+QUANTITY OF GAS STORED
+SCF
+DISTANCE TO A BUILDING NOT ASSOCIATED WITH THE
+MANUFACTURE OR DISTRIBUTION OF
+OXIDIZING GASES
+OR
+PUBLIC STREET
+,
+PRIVATE ROAD
+OR LOT LINE (feet)
+DISTANCE BETWEEN STORAGE
+AREAS
+(feet)
+greater than 3,000 up to 50,000
+5
+5
+greater than 50,000 up to 100,000
+10
+10
+greater than 100,000
+15
+15
+For SI: 1 foot = 304.8 mm, 1 cubic foot = 0.02832 m
+3
+.
+The distances do not apply when protective structures having a minimum
+fire
+-resistance rating of 2 hours interrupt the line of sight between the storage
+container
+and the exposure. The protective structure shall be at least 5 feet from the exposure. The configuration of the protective structure shall be designed to allow natural
+ventilation
+to prevent the accumulation of hazardous gas concentrations.
+
+---
+
+## Section 6304.2.2.1: Oxidizing Cryogenic Fluids
+
+6304.2.2.1 Oxidizing Cryogenic Fluids
+Outdoor storage areas for
+oxidizing cryogenic fluids
+shall be located in accordance with
+FC Chapter 55
+.
+
+---
+
+Outdoor storage areas for
+oxidizing cryogenic fluids
+shall be located in accordance with
+FC Chapter 55
+.
+
+---
+
+## Section 6304.2.3: Storage Configuration for Liquid and Solid Oxidizers
+
+6304.2.3 Storage Configuration for Liquid and Solid Oxidizers
+Storage configuration for
+liquid
+and
+solid
+oxidizers
+shall be in accordance with FC
+Tables 6304.1.7(1)
+through
+6304.1.7(4)
+.
+
+---
+
+Storage configuration for
+liquid
+and
+solid
+oxidizers
+shall be in accordance with FC
+Tables 6304.1.7(1)
+through
+6304.1.7(4)
+.
+
+---
+
+## Section 6304.2.4: Storage Configuration for Oxidizing Gases
+
+6304.2.4 Storage Configuration for Oxidizing Gases
+Storage configuration for
+oxidizing gases
+shall be in accordance with FC
+Table 6304.2.2
+.
+
+---
+
+Storage configuration for
+oxidizing gases
+shall be in accordance with FC
+Table 6304.2.2
+.
+
+---
+
+Section 6305 Handling and Use
+
+---
+
+## Section 6305.1: Scope
+
+6305.1 Scope
+Oxidizers
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(1)
+or
+5003.1.1(3)
+shall be handled and used in accordance with
+FC 5001
+,
+5003
+,
+5005
+and this chapter.
+
+---
+
+Oxidizers
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(1)
+or
+5003.1.1(3)
+shall be handled and used in accordance with
+FC 5001
+,
+5003
+,
+5005
+and this chapter.
+
+---
+
+Section 6306 Liquid Oxygen for Residential Health Care Use
+
+---
+
+## Section 6306.1: General
+
+6306.1 General
+Liquid oxygen home care containers
+and
+liquid oxygen ambulatory containers
+used for medical purposes in residential health care settings in
+Group I
+-1, I-4 and R
+occupancies
+shall be stored, handled and used in accordance with the manufacturer's instructions and labeling and in compliance with the requirements of this section. Storage,
+handling
+and use of
+liquid
+oxygen, including
+liquid oxygen home care containers
+and
+liquid oxygen ambulatory containers
+, in
+Group I
+-1, I-4 and R
+occupancies
+, other than in dwelling units and sleeping rooms, shall be in accordance with
+FC 6301
+through
+6305
+and
+FC Chapter 50
+.
+
+---
+
+Liquid oxygen home care containers
+and
+liquid oxygen ambulatory containers
+used for medical purposes in residential health care settings in
+Group I
+-1, I-4 and R
+occupancies
+shall be stored, handled and used in accordance with the manufacturer's instructions and labeling and in compliance with the requirements of this section. Storage,
+handling
+and use of
+liquid
+oxygen, including
+liquid oxygen home care containers
+and
+liquid oxygen ambulatory containers
+, in
+Group I
+-1, I-4 and R
+occupancies
+, other than in dwelling units and sleeping rooms, shall be in accordance with
+FC 6301
+through
+6305
+and
+FC Chapter 50
+.
+
+---
+
+## Section 6306.2: Supplier Requirements
+
+6306.2 Supplier Requirements
+Persons engaged in the business of supplying
+liquid oxygen home care containers
+and
+liquid oxygen ambulatory containers
+shall provide to the person who will be using the
+liquid
+oxygen:
+the manufacturer's instructions, and informational materials detailing the safe storage,
+handling
+and use of the
+containers
+in accordance with this section, including the
+prohibition
+set forth in
+FC6306.3.4
+relating to LPG storage,
+handling
+and use;
+unless the person who will be using the
+liquid
+oxygen is already in possession of such a device suitable for the
+container
+being supplied, a base, hand truck or other device or devices designed to support the
+container
+in an upright or other
+approved
+position, to secure the
+container
+from movement, and to enable the
+container
+to be safely handled; and
+two signs that read, "OXYGEN — NO SMOKING," and instruct the person who will be using the
+liquid
+oxygen to conspicuously post one sign in the living area of the dwelling unit and one in the person's sleeping room, to remind all occupants of the dwelling unit and all visitors of the danger of
+fire
+associated with smoking near an oxygen supply.
+
+---
+
+Persons engaged in the business of supplying
+liquid oxygen home care containers
+and
+liquid oxygen ambulatory containers
+shall provide to the person who will be using the
+liquid
+oxygen:
+the manufacturer's instructions, and informational materials detailing the safe storage,
+handling
+and use of the
+containers
+in accordance with this section, including the
+prohibition
+set forth in
+FC6306.3.4
+relating to LPG storage,
+handling
+and use;
+unless the person who will be using the
+liquid
+oxygen is already in possession of such a device suitable for the
+container
+being supplied, a base, hand truck or other device or devices designed to support the
+container
+in an upright or other
+approved
+position, to secure the
+container
+from movement, and to enable the
+container
+to be safely handled; and
+two signs that read, "OXYGEN — NO SMOKING," and instruct the person who will be using the
+liquid
+oxygen to conspicuously post one sign in the living area of the dwelling unit and one in the person's sleeping room, to remind all occupants of the dwelling unit and all visitors of the danger of
+fire
+associated with smoking near an oxygen supply.
+
+---
+
+## Section 6306.3: Storage, Handling and Use Requirements
+
+6306.3 Storage, Handling and Use Requirements
+Liquid oxygen home care containers
+and
+liquid oxygen ambulatory containers
+shall be stored, handled and used in residential dwelling units and residential health care dwelling units or sleeping rooms in
+Group I
+-1, I-4 and R
+occupancies
+in compliance with the requirements of
+FC 6306.3.1
+through
+6306.3.4
+.
+
+---
+
+Liquid oxygen home care containers
+and
+liquid oxygen ambulatory containers
+shall be stored, handled and used in residential dwelling units and residential health care dwelling units or sleeping rooms in
+Group I
+-1, I-4 and R
+occupancies
+in compliance with the requirements of
+FC 6306.3.1
+through
+6306.3.4
+.
+
+---
+
+## Section 6306.3.1: Quantity Limits
+
+6306.3.1 Quantity Limits
+The maximum aggregate quantity of
+liquid
+oxygen that may be stored, handled and used in a residential dwelling unit or residential health care dwelling unit or sleeping room shall be limited to 31.6 gallons (120 L).
+
+---
+
+The maximum aggregate quantity of
+liquid
+oxygen that may be stored, handled and used in a residential dwelling unit or residential health care dwelling unit or sleeping room shall be limited to 31.6 gallons (120 L).
+
+---
+
+## Section 6306.3.2: Storage and Use Locations
+
+6306.3.2 Storage and Use Locations
+Containers
+shall not be stored or used in any location in the dwelling unit or sleeping room where they obstruct egress from the room; can be struck by a door or falling object; are exposed to a heat source, including a radiator, baseboard heater, steam pipe, portable electric heater, or halogen lamp; or are exposed to any
+open flame
+or other ignition source, including a stove or torch.
+
+---
+
+Containers
+shall not be stored or used in any location in the dwelling unit or sleeping room where they obstruct egress from the room; can be struck by a door or falling object; are exposed to a heat source, including a radiator, baseboard heater, steam pipe, portable electric heater, or halogen lamp; or are exposed to any
+open flame
+or other ignition source, including a stove or torch.
+
+---
+
+## Section 6306.3.3: Securing and Handling Containers
+
+6306.3.3 Securing and Handling Containers
+Liquid oxygen home care containers
+and
+liquid oxygen ambulatory containers
+shall be kept in an upright or other
+approved
+position, secured from movement, and handled in accordance with the manufacturer's instructions, using the base, hand truck or other device or devices supplied for such purpose or other suitable device.
+Liquid oxygen ambulatory containers
+may be hand carried.
+
+---
+
+Liquid oxygen home care containers
+and
+liquid oxygen ambulatory containers
+shall be kept in an upright or other
+approved
+position, secured from movement, and handled in accordance with the manufacturer's instructions, using the base, hand truck or other device or devices supplied for such purpose or other suitable device.
+Liquid oxygen ambulatory containers
+may be hand carried.
+
+---
+
+## Section 6306.3.4: Prohibition
+
+6306.3.4 Prohibition
+LPG
+containers
+shall not be stored, handled or used in any room in the dwelling unit or sleeping room in which
+liquid oxygen home care containers
+and
+liquid oxygen ambulatory containers
+are being stored or are in use.
+
+---
+
+LPG
+containers
+shall not be stored, handled or used in any room in the dwelling unit or sleeping room in which
+liquid oxygen home care containers
+and
+liquid oxygen ambulatory containers
+are being stored or are in use.
+
+---
+
+## Section 6306.4: Filling of Containers
+
+6306.4 Filling of Containers
+Liquid oxygen home care containers
+and
+liquid oxygen ambulatory containers
+shall be filled in accordance with
+FC6303.5
+.
+
+---
+
+Liquid oxygen home care containers
+and
+liquid oxygen ambulatory containers
+shall be filled in accordance with
+FC6303.5
+.
+
+---
+
+## Section 6306.5: Smoking Prohibited
+
+6306.5 Smoking Prohibited
+Smoking shall be prohibited in rooms or areas where
+liquid
+oxygen is in use.
+
+---
+
+Smoking shall be prohibited in rooms or areas where
+liquid
+oxygen is in use.
+
+---
+
+## Section 6306.6: Signage
+
+6306.6 Signage
+Where required by the
+department
+, an
+approved
+sign shall be affixed to a lower quadrant of the public corridor side of the door, within 12 inches (305 mm) from the bottom of the door, indicating the presence of
+liquid oxygen home care containers
+within the dwelling unit or sleeping room.
+
+---
+
+Where required by the
+department
+, an
+approved
+sign shall be affixed to a lower quadrant of the public corridor side of the door, within 12 inches (305 mm) from the bottom of the door, indicating the presence of
+liquid oxygen home care containers
+within the dwelling unit or sleeping room.
+
+---
+
+Section 6307 Manufacturing Restrictions
+
+---
+
+## Section 6307.1: Oxidizers Classified as a Class IV Material
+
+6307.1 Oxidizers Classified as a Class IV Material
+Oxidizers
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+may be utilized in manufacturing processes or other production in manufacturing districts only when authorized by a special
+permit
+pursuant to Section 42-276 of the
+Zoning Resolution
+.
+
+---
+
+Oxidizers
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+may be utilized in manufacturing processes or other production in manufacturing districts only when authorized by a special
+permit
+pursuant to Section 42-276 of the
+Zoning Resolution
+.
+
+---
+
+## Section 6307.1.1: Manufacture of Oxidizers Classified as a Class IV Material
+
+6307.1.1 Manufacture of Oxidizers Classified as a Class IV Material
+It shall be unlawful to manufacture
+oxidizers
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+.
+
+---
+
+It shall be unlawful to manufacture
+oxidizers
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+.
+
+---
+
+## Section 6307.1.2: Storage of Oxidizers Classified as a Class IV Material
+
+6307.1.2 Storage of Oxidizers Classified as a Class IV Material
+It shall be unlawful to store
+oxidizers
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+, except that accessory storage authorized by a special
+permit
+pursuant to Section 42-276 of the
+Zoning Resolution
+shall be allowed.
+
+---
+
+It shall be unlawful to store
+oxidizers
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+, except that accessory storage authorized by a special
+permit
+pursuant to Section 42-276 of the
+Zoning Resolution
+shall be allowed.
+
+---
+

@@ -1,0 +1,1513 @@
+# NYC Fire Code 2022 - Chapter 29
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+2901 General
+
+---
+
+2902 Definitions
+
+---
+
+2903 General Precautions
+
+---
+
+2904 Electrical Equipment and Protection
+
+---
+
+2905 Process Structures
+
+---
+
+2906 Process Mills and Kettles
+
+---
+
+2907 Process Piping
+
+---
+
+2908 Raw Materials in Process Areas
+
+---
+
+2909 Raw Materials and Finished Products
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Section 2901 General
+
+---
+
+## Section 2901.1: Scope
+
+2901.1 Scope
+This chapter shall govern
+facilities
+and processes where flammable and
+combustible liquids
+are used for the manufacture of
+organic coatings
+, other than
+facilities
+and processes using nonflammable coatings and operations applying coating materials.
+
+---
+
+This chapter shall govern
+facilities
+and processes where flammable and
+combustible liquids
+are used for the manufacture of
+organic coatings
+, other than
+facilities
+and processes using nonflammable coatings and operations applying coating materials.
+
+---
+
+## Section 2901.2: Permits
+
+2901.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 2901.3: Maintenance
+
+2901.3 Maintenance
+Service equipment within a building, structure or
+premises
+shall be maintained in accordance with this code and NFPA 35.
+
+---
+
+Service equipment within a building, structure or
+premises
+shall be maintained in accordance with this code and NFPA 35.
+
+---
+
+## Section 2901.4: General
+
+2901.4 General
+Organic coating
+manufacturing
+facilities
+and processes shall be designed, installed, operated and maintained in accordance with this chapter.
+
+---
+
+Organic coating
+manufacturing
+facilities
+and processes shall be designed, installed, operated and maintained in accordance with this chapter.
+
+---
+
+## Section 2901.5: Prohibited Organic Coatings
+
+2901.5 Prohibited Organic Coatings
+It shall be unlawful to use nitrocellulose in the manufacture of an
+organic coating
+.
+
+---
+
+It shall be unlawful to use nitrocellulose in the manufacture of an
+organic coating
+.
+
+---
+
+Section 2902 Definitions
+
+---
+
+## Section 2902.1: Definition
+
+2902.1 Definition
+The following term shall, for the purposes of this chapter and as used elsewhere in this code, have the meaning set forth in
+FC202
+.
+ORGANIC COATING
+.
+
+---
+
+The following term shall, for the purposes of this chapter and as used elsewhere in this code, have the meaning set forth in
+FC202
+.
+ORGANIC COATING
+.
+
+---
+
+Section 2903 General Precautions
+
+---
+
+## Section 2903.1: Building Design
+
+2903.1 Building Design
+Manufacturing of
+organic coatings
+shall be conducted only in buildings or structures that do not have pits, basements or other areas below grade.
+
+---
+
+Manufacturing of
+organic coatings
+shall be conducted only in buildings or structures that do not have pits, basements or other areas below grade.
+
+---
+
+## Section 2903.2: Location
+
+2903.2 Location
+Organic coating
+manufacturing operations and operations incidental to or connected with
+organic coating
+manufacturing shall not be located in buildings having other
+occupancies
+.
+
+---
+
+Organic coating
+manufacturing operations and operations incidental to or connected with
+organic coating
+manufacturing shall not be located in buildings having other
+occupancies
+.
+
+---
+
+## Section 2903.2.1: Location Restrictions
+
+2903.2.1 Location Restrictions
+It shall be unlawful to manufacture
+organic coatings
+in any building that is located within 50 feet (15 240 mm) of a building occupied as a multiple dwelling, school, hospital, theater, or other
+place of assembly
+.
+
+---
+
+It shall be unlawful to manufacture
+organic coatings
+in any building that is located within 50 feet (15 240 mm) of a building occupied as a multiple dwelling, school, hospital, theater, or other
+place of assembly
+.
+
+---
+
+## Section 2903.3: Firefighting Access
+
+2903.3 Firefighting Access
+Organic coating
+manufacturing operations shall be accessible from at least one side for the purpose of
+fire
+control.
+Approved
+aisles shall be maintained for the unobstructed movement of personnel and
+fire
+suppression equipment.
+
+---
+
+Organic coating
+manufacturing operations shall be accessible from at least one side for the purpose of
+fire
+control.
+Approved
+aisles shall be maintained for the unobstructed movement of personnel and
+fire
+suppression equipment.
+
+---
+
+## Section 2903.4: Fire Protection Systems
+
+2903.4 Fire Protection Systems
+It shall be unlawful to manufacture an
+organic coating
+in any building unless the building is protected throughout by a
+fire extinguishing system
+.
+Fire protection systems
+shall be designed, installed, operated and maintained, including performing all required tests and inspections, in accordance with
+FC Chapter 9
+and the
+Building Code
+.
+
+---
+
+It shall be unlawful to manufacture an
+organic coating
+in any building unless the building is protected throughout by a
+fire extinguishing system
+.
+Fire protection systems
+shall be designed, installed, operated and maintained, including performing all required tests and inspections, in accordance with
+FC Chapter 9
+and the
+Building Code
+.
+
+---
+
+## Section 2903.5: Portable Fire Extinguishers
+
+2903.5 Portable Fire Extinguishers
+A minimum of one portable
+fire
+extinguisher complying with the requirements of
+FC906
+for extra hazard shall be provided in
+organic coating
+areas.
+
+---
+
+A minimum of one portable
+fire
+extinguisher complying with the requirements of
+FC906
+for extra hazard shall be provided in
+organic coating
+areas.
+
+---
+
+## Section 2903.6: Open Flames
+
+2903.6 Open Flames
+Open flames
+and
+open-flame devices
+are prohibited in areas where flammable vapor-air mixtures exist.
+
+---
+
+Open flames
+and
+open-flame devices
+are prohibited in areas where flammable vapor-air mixtures exist.
+
+---
+
+## Section 2903.7: Smoking
+
+2903.7 Smoking
+It shall be unlawful to smoke in any
+organic coating
+manufacturing
+facility
+.
+
+---
+
+It shall be unlawful to smoke in any
+organic coating
+manufacturing
+facility
+.
+
+---
+
+## Section 2903.8: Power Equipment
+
+2903.8 Power Equipment
+Power-operated equipment and industrial trucks shall be of a type
+approved
+for the location.
+
+---
+
+Power-operated equipment and industrial trucks shall be of a type
+approved
+for the location.
+
+---
+
+## Section 2903.9: Tank Maintenance
+
+2903.9 Tank Maintenance
+The cleaning of
+tanks
+that have contained flammable or
+combustible liquids
+shall be performed under the
+supervision
+of a person trained in and knowledgeable about the
+fire
+and
+explosion
+potential.
+
+---
+
+The cleaning of
+tanks
+that have contained flammable or
+combustible liquids
+shall be performed under the
+supervision
+of a person trained in and knowledgeable about the
+fire
+and
+explosion
+potential.
+
+---
+
+## Section 2903.9.1: Repairs
+
+2903.9.1 Repairs
+Where necessary to make repairs involving
+hot work
+, the work shall be conducted in accordance with
+FC Chapter 35
+.
+
+---
+
+Where necessary to make repairs involving
+hot work
+, the work shall be conducted in accordance with
+FC Chapter 35
+.
+
+---
+
+## Section 2903.9.2: Reserved
+
+2903.9.2 Reserved
+
+---
+
+## Section 2903.10: Drainage
+
+2903.10 Drainage
+Drainage shall be provided to direct flammable and
+combustible liquid
+leakage and
+fire
+protection water to an
+approved
+location away from the building, any other structure, storage area or adjoining
+premises
+.
+
+---
+
+Drainage shall be provided to direct flammable and
+combustible liquid
+leakage and
+fire
+protection water to an
+approved
+location away from the building, any other structure, storage area or adjoining
+premises
+.
+
+---
+
+## Section 2903.11: Alarm System
+
+2903.11 Alarm System
+An
+approved
+fire alarm system
+shall be provided in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+An
+approved
+fire alarm system
+shall be provided in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Section 2904 Electrical Equipment and Protection
+
+---
+
+## Section 2904.1: Wiring and Equipment
+
+2904.1 Wiring and Equipment
+Electrical
+wiring and equipment shall be designed, installed, operated and maintained in accordance with this chapter and the
+Electrical Code
+.
+
+---
+
+Electrical
+wiring and equipment shall be designed, installed, operated and maintained in accordance with this chapter and the
+Electrical Code
+.
+
+---
+
+## Section 2904.2: Hazardous Locations
+
+2904.2 Hazardous Locations
+Where Class I
+liquids
+are exposed to the air, the
+facility
+, including all equipment and the
+ventilation
+system
+, shall be designed in a manner that limits Class I, Division 1, locations to the following:
+Piping trenches.
+Within the equipment.
+The immediate vicinity of pumps or equipment locations, such as
+dispensing
+stations, open centrifuges, plate and frame filters, opened vacuum filters, change cans and the surfaces of open equipment. The immediate vicinity shall include a zone extending from the vapor liberation point 5 feet (1524 mm) horizontally in all directions and vertically from the floor to a
+level 3
+feet (914 mm) above the highest point of vapor liberation.
+
+---
+
+Where Class I
+liquids
+are exposed to the air, the
+facility
+, including all equipment and the
+ventilation
+system
+, shall be designed in a manner that limits Class I, Division 1, locations to the following:
+Piping trenches.
+Within the equipment.
+The immediate vicinity of pumps or equipment locations, such as
+dispensing
+stations, open centrifuges, plate and frame filters, opened vacuum filters, change cans and the surfaces of open equipment. The immediate vicinity shall include a zone extending from the vapor liberation point 5 feet (1524 mm) horizontally in all directions and vertically from the floor to a
+level 3
+feet (914 mm) above the highest point of vapor liberation.
+
+---
+
+## Section 2904.2.1: Other Locations
+
+2904.2.1 Other Locations
+Locations within the confines of the manufacturing room where Class I
+liquids
+are handled shall be Class I, Division 2, except locations indicated in
+FC2904.2
+.
+
+---
+
+Locations within the confines of the manufacturing room where Class I
+liquids
+are handled shall be Class I, Division 2, except locations indicated in
+FC2904.2
+.
+
+---
+
+## Section 2904.2.2: Ordinary Equipment
+
+2904.2.2 Ordinary Equipment
+Ordinary
+electrical equipment
+, including switchgear, is prohibited except where installed in a room maintained under positive pressure with respect to the hazardous area. The air or other media utilized for pressurization shall be obtained from a source that will not cause any amount or type of flammable vapor to be introduced into the room.
+
+---
+
+Ordinary
+electrical equipment
+, including switchgear, is prohibited except where installed in a room maintained under positive pressure with respect to the hazardous area. The air or other media utilized for pressurization shall be obtained from a source that will not cause any amount or type of flammable vapor to be introduced into the room.
+
+---
+
+## Section 2904.3: Bonding
+
+2904.3 Bonding
+In any area of the
+facility
+in which an ignitable mixture may be present in the atmosphere, equipment, including, but not limited to,
+tanks
+, machinery and piping, shall be bonded and connected to a ground.
+
+---
+
+In any area of the
+facility
+in which an ignitable mixture may be present in the atmosphere, equipment, including, but not limited to,
+tanks
+, machinery and piping, shall be bonded and connected to a ground.
+
+---
+
+## Section 2904.3.1: Piping
+
+2904.3.1 Piping
+Electrically isolated sections of metallic piping or equipment shall be grounded or bonded to the other grounded portions of the
+system
+.
+
+---
+
+Electrically isolated sections of metallic piping or equipment shall be grounded or bonded to the other grounded portions of the
+system
+.
+
+---
+
+## Section 2904.3.2: Vehicles
+
+2904.3.2 Vehicles
+Cargo tanks
+loaded or unloaded through open connections shall be grounded and bonded to the receiving
+system
+.
+
+---
+
+Cargo tanks
+loaded or unloaded through open connections shall be grounded and bonded to the receiving
+system
+.
+
+---
+
+## Section 2904.3.3: Containers
+
+2904.3.3 Containers
+Where a flammable mixture is transferred from one portable
+container
+to another, a bond shall be provided between the two
+containers
+, and one shall be grounded.
+
+---
+
+Where a flammable mixture is transferred from one portable
+container
+to another, a bond shall be provided between the two
+containers
+, and one shall be grounded.
+
+---
+
+## Section 2904.4: Ground
+
+2904.4 Ground
+Metal framing of buildings shall be grounded with resistance of not more than 5 ohms.
+
+---
+
+Metal framing of buildings shall be grounded with resistance of not more than 5 ohms.
+
+---
+
+Section 2905 Process Structures
+
+---
+
+## Section 2905.1: Design
+
+2905.1 Design
+Process structures shall be designed and constructed in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Process structures shall be designed and constructed in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2905.2: Fire Apparatus Access
+
+2905.2 Fire Apparatus Access
+Fire
+apparatus access complying with the requirements of
+FC503
+shall be provided for the purpose of
+fire
+control to at least one side of
+organic coating
+manufacturing operations.
+
+---
+
+Fire
+apparatus access complying with the requirements of
+FC503
+shall be provided for the purpose of
+fire
+control to at least one side of
+organic coating
+manufacturing operations.
+
+---
+
+## Section 2905.3: Drainage
+
+2905.3 Drainage
+Drainage
+facilities
+shall be provided in accordance with
+FC2903.10
+where topographical conditions are such that flammable and
+combustible liquids
+are capable of flowing from the
+organic coating
+manufacturing operation so as to constitute a
+fire
+hazard to other
+premises
+.
+
+---
+
+Drainage
+facilities
+shall be provided in accordance with
+FC2903.10
+where topographical conditions are such that flammable and
+combustible liquids
+are capable of flowing from the
+organic coating
+manufacturing operation so as to constitute a
+fire
+hazard to other
+premises
+.
+
+---
+
+## Section 2905.4: Explosion Control
+
+2905.4 Explosion Control
+Explosion
+control shall be provided in areas subject to potential
+deflagration
+hazards as set forth in NFPA 35.
+Explosion
+control shall be provided in accordance with
+FC911
+.
+
+---
+
+Explosion
+control shall be provided in areas subject to potential
+deflagration
+hazards as set forth in NFPA 35.
+Explosion
+control shall be provided in accordance with
+FC911
+.
+
+---
+
+## Section 2905.5: Ventilation
+
+2905.5 Ventilation
+Buildings in which Class I
+liquids
+are processed or handled shall be ventilated at a rate of not less than 1 cubic foot per minute per square foot (0.00508 m
+3
+/s/m
+2
+) of
+solid
+floor area.
+Ventilation
+shall be accomplished by exhaust fans that take suction at floor levels and discharge to a safe location outdoors. Noncontaminated intake air shall be introduced in such a manner that all portions of
+solid
+floor areas are provided with continuous uniformly distributed air movement.
+
+---
+
+Buildings in which Class I
+liquids
+are processed or handled shall be ventilated at a rate of not less than 1 cubic foot per minute per square foot (0.00508 m
+3
+/s/m
+2
+) of
+solid
+floor area.
+Ventilation
+shall be accomplished by exhaust fans that take suction at floor levels and discharge to a safe location outdoors. Noncontaminated intake air shall be introduced in such a manner that all portions of
+solid
+floor areas are provided with continuous uniformly distributed air movement.
+
+---
+
+## Section 2905.6: Heating
+
+2905.6 Heating
+Heating provided in hazardous areas shall be by indirect means. Ignition sources such as
+open flames
+or
+electrical
+heating elements, except as provided for in FC2904, are prohibited within the building.
+
+---
+
+Heating provided in hazardous areas shall be by indirect means. Ignition sources such as
+open flames
+or
+electrical
+heating elements, except as provided for in FC2904, are prohibited within the building.
+
+---
+
+Section 2906 Process Mills and Kettles
+
+---
+
+## Section 2906.1: Mills
+
+2906.1 Mills
+Mills, operating with close clearances, which process flammable and heat-sensitive materials shall be located in a
+detached building
+or in a noncombustible structure without other
+occupancies
+. The amount of
+flammable material
+brought into the area shall not be more than the amount required for a batch.
+
+---
+
+Mills, operating with close clearances, which process flammable and heat-sensitive materials shall be located in a
+detached building
+or in a noncombustible structure without other
+occupancies
+. The amount of
+flammable material
+brought into the area shall not be more than the amount required for a batch.
+
+---
+
+## Section 2906.2: Mixers
+
+2906.2 Mixers
+Mixers shall be of the enclosed type or, where of the open type, shall be provided with properly fitted covers. Where flow is by gravity, a shutoff valve shall be installed as close as practical to the mixer, and a control valve shall be provided near the end of the fill pipe.
+
+---
+
+Mixers shall be of the enclosed type or, where of the open type, shall be provided with properly fitted covers. Where flow is by gravity, a shutoff valve shall be installed as close as practical to the mixer, and a control valve shall be provided near the end of the fill pipe.
+
+---
+
+## Section 2906.3: Open Kettles
+
+2906.3 Open Kettles
+Open kettles shall be located in outdoor areas provided with a protective roof; in a separate structure of noncombustible construction; or separated from other areas by a noncombustible wall having a
+fire
+-resistance rating of at least 2 hours.
+Assembly (1)
+
+---
+
+Open kettles shall be located in outdoor areas provided with a protective roof; in a separate structure of noncombustible construction; or separated from other areas by a noncombustible wall having a
+fire
+-resistance rating of at least 2 hours.
+
+---
+
+## Section 2906.4: Closed Kettles
+
+2906.4 Closed Kettles
+Contact-heated kettles containing solvents shall be equipped with safety devices that, in case of a
+fire
+, will turn off the process heat, turn on the cooling medium and inject
+inert gas
+into the kettle.
+
+---
+
+Contact-heated kettles containing solvents shall be equipped with safety devices that, in case of a
+fire
+, will turn off the process heat, turn on the cooling medium and inject
+inert gas
+into the kettle.
+
+---
+
+## Section 2906.4.1: Vaporizer Location
+
+2906.4.1 Vaporizer Location
+The vaporizer section of heat-transfer
+systems
+that heat closed kettles containing solvents shall be remotely located.
+
+---
+
+The vaporizer section of heat-transfer
+systems
+that heat closed kettles containing solvents shall be remotely located.
+
+---
+
+## Section 2906.5: Kettle Controls
+
+2906.5 Kettle Controls
+The kettle and thin-down
+tank
+shall be instrumented, controlled and interlocked so that any failure of the controls will not result in an unsafe condition. The kettle shall be provided with a pressure-rupture disc in addition to the primary vent. The vent piping from the rupture disc shall be of minimum length and shall discharge to an
+approved
+location. The thin-down
+tank
+shall be adequately vented. Thinning operations shall be provided with a vapor removal
+system
+capable of ensuring a safe atmosphere.
+
+---
+
+The kettle and thin-down
+tank
+shall be instrumented, controlled and interlocked so that any failure of the controls will not result in an unsafe condition. The kettle shall be provided with a pressure-rupture disc in addition to the primary vent. The vent piping from the rupture disc shall be of minimum length and shall discharge to an
+approved
+location. The thin-down
+tank
+shall be adequately vented. Thinning operations shall be provided with a vapor removal
+system
+capable of ensuring a safe atmosphere.
+
+---
+
+Section 2907 Process Piping
+
+---
+
+## Section 2907.1: Design
+
+2907.1 Design
+All piping, valves and fittings shall be designed for the working pressures and structural stresses to which the piping, valves and fittings will be subjected, and shall be of
+steel
+or other material
+approved
+for the service intended.
+
+---
+
+All piping, valves and fittings shall be designed for the working pressures and structural stresses to which the piping, valves and fittings will be subjected, and shall be of
+steel
+or other material
+approved
+for the service intended.
+
+---
+
+## Section 2907.2: Valves and Fittings
+
+2907.2 Valves and Fittings
+Valves shall be of an indicating type. Terminal valves on remote pumping
+systems
+shall be of the dead-man type, shutting off both the pump and the flow of solvent. Valves and fittings shall not be constructed of cast iron.
+
+---
+
+Valves shall be of an indicating type. Terminal valves on remote pumping
+systems
+shall be of the dead-man type, shutting off both the pump and the flow of solvent. Valves and fittings shall not be constructed of cast iron.
+
+---
+
+## Section 2907.3: Support
+
+2907.3 Support
+Piping
+systems
+shall be supported and protected against physical damage. Piping shall be pitched to avoid unintentional trapping of
+liquids
+, or
+approved
+drains shall be provided.
+
+---
+
+Piping
+systems
+shall be supported and protected against physical damage. Piping shall be pitched to avoid unintentional trapping of
+liquids
+, or
+approved
+drains shall be provided.
+
+---
+
+## Section 2907.4: Connectors
+
+2907.4 Connectors
+Approved
+flexible connectors shall be installed where vibration exists or frequent movement is necessary. Hoses at
+dispensing
+stations shall be of an
+approved
+type.
+
+---
+
+Approved
+flexible connectors shall be installed where vibration exists or frequent movement is necessary. Hoses at
+dispensing
+stations shall be of an
+approved
+type.
+
+---
+
+## Section 2907.5: Tests
+
+2907.5 Tests
+Before being placed in service, all piping shall be free of leaks when tested for a minimum of 30 minutes at not less than one and one-half times the working pressure or a minimum of 5 pounds per square inch gauge (psig) (35 kPa) at the highest point in the
+system
+.
+
+---
+
+Before being placed in service, all piping shall be free of leaks when tested for a minimum of 30 minutes at not less than one and one-half times the working pressure or a minimum of 5 pounds per square inch gauge (psig) (35 kPa) at the highest point in the
+system
+.
+
+---
+
+Section 2908 Raw Materials in Process Areas
+
+---
+
+## Section 2908.1: Reserved
+
+2908.1 Reserved
+
+---
+
+## Section 2908.2: Organic Peroxides
+
+2908.2 Organic Peroxides
+Organic peroxides
+brought into the process area shall be in the original shipping
+container
+. When in the process area, the
+organic peroxide
+shall not be placed in locations exposed to ignition sources, heat, mechanical shocks or
+flammable liquids
+, except that
+organic peroxide
+may be exposed to
+flammable liquid
+during raw material processing.
+
+---
+
+Organic peroxides
+brought into the process area shall be in the original shipping
+container
+. When in the process area, the
+organic peroxide
+shall not be placed in locations exposed to ignition sources, heat, mechanical shocks or
+flammable liquids
+, except that
+organic peroxide
+may be exposed to
+flammable liquid
+during raw material processing.
+
+---
+
+Section 2909 Raw Materials and Finished Products
+
+---
+
+## Section 2909.1: General
+
+2909.1 General
+The storage,
+handling
+and use of flammable and
+combustible liquids
+in process areas shall be in accordance with
+FC Chapter 57
+. The storage,
+handling
+and use of
+organic peroxides
+shall be in accordance with
+FC Chapter 62
+and the storage,
+handling
+and use of
+oxidizers
+shall be in accordance with
+FC Chapter 63
+.
+
+---
+
+The storage,
+handling
+and use of flammable and
+combustible liquids
+in process areas shall be in accordance with
+FC Chapter 57
+. The storage,
+handling
+and use of
+organic peroxides
+shall be in accordance with
+FC Chapter 62
+and the storage,
+handling
+and use of
+oxidizers
+shall be in accordance with
+FC Chapter 63
+.
+
+---
+
+## Section 2909.2: Tank Storage
+
+2909.2 Tank Storage
+Tanks
+for the storage of flammable and
+combustible liquids
+shall be installed in accordance with
+FC Chapter 57
+. Process equipment storing or using flammable or
+combustible liquids
+and storage in quantities necessary for maintaining the operation is allowed in the process area.
+
+---
+
+Tanks
+for the storage of flammable and
+combustible liquids
+shall be installed in accordance with
+FC Chapter 57
+. Process equipment storing or using flammable or
+combustible liquids
+and storage in quantities necessary for maintaining the operation is allowed in the process area.
+
+---
+
+## Section 2909.3: Loading and Unloading
+
+2909.3 Loading and Unloading
+Tank
+car and
+cargo tank
+loading and unloading stations for Class I
+liquids
+shall be separated from the process area, other
+facility
+structures, the nearest lot line,
+public street
+or
+private road
+by a minimum distance in accordance with
+FC Chapter 57
+.
+
+---
+
+Tank
+car and
+cargo tank
+loading and unloading stations for Class I
+liquids
+shall be separated from the process area, other
+facility
+structures, the nearest lot line,
+public street
+or
+private road
+by a minimum distance in accordance with
+FC Chapter 57
+.
+
+---
+
+## Section 2909.3.1: Loading
+
+2909.3.1 Loading
+Loading and unloading structures and platforms for flammable and
+combustible liquids
+shall be designed and installed in accordance with
+FC Chapter 57
+.
+
+---
+
+Loading and unloading structures and platforms for flammable and
+combustible liquids
+shall be designed and installed in accordance with
+FC Chapter 57
+.
+
+---
+
+## Section 2909.3.2: Safety
+
+2909.3.2 Safety
+Tank
+cars and
+cargo tanks
+for flammable and
+combustible liquids
+shall be loaded and unloaded in accordance with
+FC Chapter 57
+.
+
+---
+
+Tank
+cars and
+cargo tanks
+for flammable and
+combustible liquids
+shall be loaded and unloaded in accordance with
+FC Chapter 57
+.
+
+---
+
+## Section 2909.4: Reserved
+
+2909.4 Reserved
+
+---
+
+## Section 2909.5: Organic Peroxide Storage
+
+2909.5 Organic Peroxide Storage
+The storage of
+organic peroxides
+shall be in accordance with
+FC Chapter 62
+.
+
+---
+
+The storage of
+organic peroxides
+shall be in accordance with
+FC Chapter 62
+.
+
+---
+
+## Section 2909.5.1: Size
+
+2909.5.1 Size
+The size of the package containing
+organic peroxide
+shall be selected so that, as nearly as practical, full packages are utilized at one time. Spilled peroxide shall be promptly removed and disposed of lawfully.
+
+---
+
+The size of the package containing
+organic peroxide
+shall be selected so that, as nearly as practical, full packages are utilized at one time. Spilled peroxide shall be promptly removed and disposed of lawfully.
+
+---
+
+## Section 2909.6: Finished Products
+
+2909.6 Finished Products
+Finished products that are flammable or
+combustible liquids
+shall be stored outdoors, in a separate building, or in a room separate from the process area, in accordance with the
+construction codes
+, including the
+Building Code
+. The storage of finished products shall be in
+tanks
+or
+closed containers
+in accordance with
+FC Chapter 57
+.
+
+---
+
+Finished products that are flammable or
+combustible liquids
+shall be stored outdoors, in a separate building, or in a room separate from the process area, in accordance with the
+construction codes
+, including the
+Building Code
+. The storage of finished products shall be in
+tanks
+or
+closed containers
+in accordance with
+FC Chapter 57
+.
+
+---
+

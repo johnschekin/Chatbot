@@ -1,0 +1,2356 @@
+# NYC Building Code 2022 - Chapter 32
+
+New York City Building Code 2022
+
+---
+
+Dedications
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 Use and Occupancy Classification
+
+---
+
+Chapter 4 Special Detailed Requirements Based on Use and Occupancy
+
+---
+
+Chapter 5 General Building Heights and Areas; Separation of Occupancies
+
+---
+
+Chapter 6 Types of Construction
+
+---
+
+Chapter 7 Fire and Smoke Protection Features
+
+---
+
+Chapter 8 Interior Finishes
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Accessibility
+
+---
+
+Chapter 12 Interior Environment
+
+---
+
+Chapter 13 Energy Efficiency
+
+---
+
+Chapter 14 Exterior Walls
+
+---
+
+Chapter 15 Roof Assemblies and Rooftop Structures
+
+---
+
+Chapter 16 Structural Design
+
+---
+
+Chapter 17 Special Inspections and Tests
+
+---
+
+Chapter 18 Soils and Foundations
+
+---
+
+Chapter 19 Concrete
+
+---
+
+Chapter 20 Aluminum
+
+---
+
+Chapter 21 Masonry
+
+---
+
+Chapter 22 Steel
+
+---
+
+Chapter 23 Wood
+
+---
+
+Chapter 24 Glass and Glazing
+
+---
+
+Chapter 25 Gypsum Board, Gypsum Panel Products and Plaster
+
+---
+
+Chapter 26 Plastic
+
+---
+
+Chapter 27 Electrical
+
+---
+
+Chapter 28 Mechanical Systems
+
+---
+
+Chapter 29 Plumbing Systems
+
+---
+
+Chapter 30 Elevators and Conveying Systems
+
+---
+
+Chapter 31 Special Construction
+
+---
+
+Chapter 32 Encroachments Into the Public Right-of-Way
+
+---
+
+BC 3201 General
+
+---
+
+BC 3202 Encroachments
+
+---
+
+Chapter 33 Safeguards During Construction or Demolition
+
+---
+
+Chapter 34 Reserved
+
+---
+
+Chapter 35 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Reserved
+
+---
+
+Appendix D Fire Districts
+
+---
+
+Appendix E Supplementary Accessibility Requirements
+
+---
+
+Appendix F Rodentproofing
+
+---
+
+Appendix G Flood-Resistant Construction
+
+---
+
+Appendix H Outdoor Signs
+
+---
+
+Appendix I Reserved
+
+---
+
+Appendix J Reserved
+
+---
+
+Appendix K Modified Industry Standards for Elevators and Conveying Systems
+
+---
+
+Appendix L Reserved
+
+---
+
+Appendix M Supplementary Requirements for One- And Two-Family Dwellings
+
+---
+
+Appendix N Assistive Listening Systems Performance Standards
+
+---
+
+Appendix O Reserved
+
+---
+
+Appendix P Reserved
+
+---
+
+Appendix Q Modified National Standards for Automatic Sprinkler, Standpipe, Fire Pump, Fire Alarm, and Smoke Control Systems
+
+---
+
+Appendix R Acoustical Tile and Lay-in Panel Ceiling Suspension Systems
+
+---
+
+Appendix S Supplementary Figures for Luminous Egress Path Markings
+
+---
+
+Appendix U Ancillary Dwelling Units
+
+---
+
+Chapter 32 Encroachments Into the Public Right-of-Way
+
+---
+
+Section BC 3201 General
+
+---
+
+## Section 3201.1: Scope
+
+3201.1 Scope
+The provisions of this chapter shall govern the encroachment of structures into the public right-of-way.
+
+---
+
+The provisions of this chapter shall govern the encroachment of structures into the public right-of-way.
+
+---
+
+## Section 3201.1.1: Encroachments Removable
+
+3201.1.1 Encroachments Removable
+All encroachments permitted beyond the
+street line
+by the provisions of this chapter shall be constructed so that they may be removed at any time without endangering the structural safety or fire safety of the
+building
+except that
+footings
+as permitted under
+Section 3202.1.1
+of this code need not be removable.
+
+---
+
+All encroachments permitted beyond the
+street line
+by the provisions of this chapter shall be constructed so that they may be removed at any time without endangering the structural safety or fire safety of the
+building
+except that
+footings
+as permitted under
+Section 3202.1.1
+of this code need not be removable.
+
+---
+
+## Section 3201.2: Measurement
+
+3201.2 Measurement
+The projection of any structure or portion thereof shall be the distance measured horizontally from the
+lot line
+to the outermost point of the projection.
+
+---
+
+The projection of any structure or portion thereof shall be the distance measured horizontally from the
+lot line
+to the outermost point of the projection.
+
+---
+
+## Section 3201.3: Other Laws
+
+3201.3 Other Laws
+The provisions of this chapter shall not be construed to permit the violation of other laws regulating the use and occupancy of public property.
+
+---
+
+The provisions of this chapter shall not be construed to permit the violation of other laws regulating the use and occupancy of public property.
+
+---
+
+## Section 3201.3.1: Restrictions on Construction and Projections on Certain Streets, Parkways, Boardwalks and Beaches
+
+3201.3.1 Restrictions on Construction and Projections on Certain Streets, Parkways, Boardwalks and Beaches
+Notwithstanding the provisions of this chapter, it shall be unlawful to build, erect, or make
+areaways
+, steps or other encroachments or projections prohibited by Sections 19-131, 19-132, 19-135, 18-109, 18-112 and 18-113 of the
+Administrative Code
+.
+
+---
+
+Notwithstanding the provisions of this chapter, it shall be unlawful to build, erect, or make
+areaways
+, steps or other encroachments or projections prohibited by Sections 19-131, 19-132, 19-135, 18-109, 18-112 and 18-113 of the
+Administrative Code
+.
+
+---
+
+## Section 3201.4: Drainage
+
+3201.4 Drainage
+Drainage water collected from a roof,
+awning
+,
+canopy
+or
+marquee
+, other than canvas and flexible material, and condensate from mechanical
+equipment
+shall not flow over a public walking surface.
+UpCodes Diagram (1)
+
+---
+
+Drainage water collected from a roof,
+awning
+,
+canopy
+or
+marquee
+, other than canvas and flexible material, and condensate from mechanical
+equipment
+shall not flow over a public walking surface.
+
+---
+
+## Section 3201.5: Permission Revocable
+
+3201.5 Permission Revocable
+Any permission, expressed or implied, permitting the
+construction
+of encroachments within the area of the
+street
+under the provisions of this chapter shall be revocable, except
+footings
+as permitted under
+Section 3202.1.1
+.
+
+---
+
+Any permission, expressed or implied, permitting the
+construction
+of encroachments within the area of the
+street
+under the provisions of this chapter shall be revocable, except
+footings
+as permitted under
+Section 3202.1.1
+.
+
+---
+
+## Section 3201.6: Existing Projections
+
+3201.6 Existing Projections
+Any part of a
+building
+that projects beyond a
+street line
+on January 1, 1938, may be maintained as constructed until its removal is directed in accordance with applicable law.
+
+---
+
+Any part of a
+building
+that projects beyond a
+street line
+on January 1, 1938, may be maintained as constructed until its removal is directed in accordance with applicable law.
+
+---
+
+## Section 3201.7: Alteration of Existing Encroachments
+
+3201.7 Alteration of Existing Encroachments
+Alterations to existing encroachments beyond the
+street line
+may be permitted in whole or in part, provided that such alterations conform with the requirements of this chapter.
+
+---
+
+Alterations to existing encroachments beyond the
+street line
+may be permitted in whole or in part, provided that such alterations conform with the requirements of this chapter.
+
+---
+
+## Section 3201.7.1: Fences, Guards and Railings
+
+3201.7.1 Fences, Guards and Railings
+Elements of existing fences,
+guards
+and railings shall not be increased in
+height
+, thickness, spacing or opacity.
+Exceptions:
+Fences,
+guards
+and railings that are required to comply with other requirements of this code, including Chapters
+10
+and
+16
+.
+Buildings or structures designated by the Landmarks Preservation Commission, where such fences,
+guards
+or railings are approved by the Landmarks Preservation Commission.
+
+---
+
+Elements of existing fences,
+guards
+and railings shall not be increased in
+height
+, thickness, spacing or opacity.
+Exceptions:
+Fences,
+guards
+and railings that are required to comply with other requirements of this code, including Chapters
+10
+and
+16
+.
+Buildings or structures designated by the Landmarks Preservation Commission, where such fences,
+guards
+or railings are approved by the Landmarks Preservation Commission.
+
+---
+
+## Section 3201.8: Definitions
+
+3201.8 Definitions
+The following terms are defined in
+Chapter 2
+:
+AREAWAY
+.
+CURB LINE
+.
+FOOTING
+.
+PROJECTING SIGN
+.
+SIGN
+.
+STREET
+.
+STREET LINE
+.
+VAULT
+.
+
+---
+
+The following terms are defined in
+Chapter 2
+:
+AREAWAY
+.
+CURB LINE
+.
+FOOTING
+.
+PROJECTING SIGN
+.
+SIGN
+.
+STREET
+.
+STREET LINE
+.
+VAULT
+.
+
+---
+
+## Section 3201.9: Department of Transportation Approval
+
+3201.9 Department of Transportation Approval
+Any encroachment into the public right-of-way that exceeds the limitation provided for in this chapter shall require the approval of the Department of Transportation.
+
+---
+
+Any encroachment into the public right-of-way that exceeds the limitation provided for in this chapter shall require the approval of the Department of Transportation.
+
+---
+
+Section BC 3202 Encroachments
+
+---
+
+## Section 3202.1: Encroachments Below Grade
+
+3202.1 Encroachments Below Grade
+Encroachments below grade shall comply with Sections
+3202.1.1
+through
+3202.1.6
+.
+
+---
+
+Encroachments below grade shall comply with Sections
+3202.1.1
+through
+3202.1.6
+.
+
+---
+
+## Section 3202.1.1: Footings
+
+3202.1.1 Footings
+Exterior wall
+and column
+footings
+may be constructed to project beyond the
+street line
+not more than 12 inches (305 mm), provided that the top of the
+footing
+is not less than 8 feet (2438 mm) below the ground or sidewalk level. Foundation
+walls
+required to support permitted projections may be constructed to project not more than the permitted projection beyond the
+street line
+.
+
+---
+
+Exterior wall
+and column
+footings
+may be constructed to project beyond the
+street line
+not more than 12 inches (305 mm), provided that the top of the
+footing
+is not less than 8 feet (2438 mm) below the ground or sidewalk level. Foundation
+walls
+required to support permitted projections may be constructed to project not more than the permitted projection beyond the
+street line
+.
+
+---
+
+## Section 3202.1.1.1: Footings for Temporary Barriers or Shields in Flood Hazard Areas or Shaded X-Zones
+
+3202.1.1.1 Footings for Temporary Barriers or Shields in Flood Hazard Areas or Shaded X-Zones
+In
+flood hazard areas
+or
+shaded X-Zones
+, continuous
+footings
+for the support and attachment of temporary, removable
+dry floodproofing
+barriers or shields may be constructed to project beyond the
+street line
+not more than 12 inches (305 mm) both at grade and below grade.
+
+---
+
+In
+flood hazard areas
+or
+shaded X-Zones
+, continuous
+footings
+for the support and attachment of temporary, removable
+dry floodproofing
+barriers or shields may be constructed to project beyond the
+street line
+not more than 12 inches (305 mm) both at grade and below grade.
+
+---
+
+## Section 3202.1.2: Vaults
+
+3202.1.2 Vaults
+Vaults
+may be permitted in accordance with the New York City Charter and
+Title
+19 of the
+Administrative Code
+. Such
+vaults
+shall comply with the provisions of this code and other applicable laws and rules.
+
+---
+
+Vaults
+may be permitted in accordance with the New York City Charter and
+Title
+19 of the
+Administrative Code
+. Such
+vaults
+shall comply with the provisions of this code and other applicable laws and rules.
+
+---
+
+## Section 3202.1.3: Areaways
+
+3202.1.3 Areaways
+Areaways
+shall be protected by grates,
+guards
+or other approved means, subject to approval by the Commissioner of the Department of Transportation.
+
+---
+
+Areaways
+shall be protected by grates,
+guards
+or other approved means, subject to approval by the Commissioner of the Department of Transportation.
+
+---
+
+## Section 3202.1.4: Tunnels Between Buildings
+
+3202.1.4 Tunnels Between Buildings
+Tunnels connecting buildings and projecting beyond
+street lines
+may be constructed subject to the approval of the Commissioner of the Department of Transportation. Such tunnels shall comply with the provisions of this code and other applicable laws and regulations.
+
+---
+
+Tunnels connecting buildings and projecting beyond
+street lines
+may be constructed subject to the approval of the Commissioner of the Department of Transportation. Such tunnels shall comply with the provisions of this code and other applicable laws and regulations.
+
+---
+
+## Section 3202.1.5: Sidewalk Supports
+
+3202.1.5 Sidewalk Supports
+Exterior foundation
+walls
+are permitted to be constructed with a ledge that projects beyond the
+street line
+not more than 4 inches (102 mm) to support sidewalk
+construction
+, provided that:
+the top of the ledge is not more than 8 inches (203 mm) below the ground or sidewalk level; and
+bottom of the ledge is not more than 24 inches (610 mm) below the ground or sidewalk level.
+
+---
+
+Exterior foundation
+walls
+are permitted to be constructed with a ledge that projects beyond the
+street line
+not more than 4 inches (102 mm) to support sidewalk
+construction
+, provided that:
+the top of the ledge is not more than 8 inches (203 mm) below the ground or sidewalk level; and
+bottom of the ledge is not more than 24 inches (610 mm) below the ground or sidewalk level.
+
+---
+
+‡‡‡ 3202.1.6 Insulation
+Insulation shall be permitted to encroach into the public right of way not more than 6 inches (152 mm) beyond the face of the
+structural element
+being insulated, in accordance with the following:
+The insulation is necessary to comply with the New York City Energy Conservation Code; or
+In existing buildings, the
+installation
+of the insulation will reduce greenhouse gas emissions, as demonstrated by achieving not less than a thirty percent reduction of the existing thermal envelope UA (the area-weighted average of assembly u-factors, as defined in the New York City Energy Conservation Code) as compared to the improved thermal envelope UA. For the purposes of calculating the reduction in the thermal envelope UA, the improved thermal envelope UA is the area-weighted average of the proposed opaque U-factor times the alteration area of the opaque
+wall
+assembly compared to the
+area
+-weighted average UA of the existing
+wall
+assembly. The UA calculation shall be performed using a method consistent with the New York City Energy Conservation Code.
+‡‡‡
+Chapter 32
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Insulation shall be permitted to encroach into the public right of way not more than 6 inches (152 mm) beyond the face of the
+structural element
+being insulated, in accordance with the following:
+The insulation is necessary to comply with the New York City Energy Conservation Code; or
+In existing buildings, the
+installation
+of the insulation will reduce greenhouse gas emissions, as demonstrated by achieving not less than a thirty percent reduction of the existing thermal envelope UA (the area-weighted average of assembly u-factors, as defined in the New York City Energy Conservation Code) as compared to the improved thermal envelope UA. For the purposes of calculating the reduction in the thermal envelope UA, the improved thermal envelope UA is the area-weighted average of the proposed opaque U-factor times the alteration area of the opaque
+wall
+assembly compared to the
+area
+-weighted average UA of the existing
+wall
+assembly. The UA calculation shall be performed using a method consistent with the New York City Energy Conservation Code.
+‡‡‡
+Chapter 32
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+## Section 3202.2: Encroachments Above Grade
+
+3202.2 Encroachments Above Grade
+Encroachments into the public right-of-way above grade shall be prohibited except as provided for in Sections
+3202.2.1
+through
+3202.2.5
+.
+UpCodes Diagram (1)
+
+---
+
+Encroachments into the public right-of-way above grade shall be prohibited except as provided for in Sections
+3202.2.1
+through
+3202.2.5
+.
+
+---
+
+## Section 3202.2.1: Encroachments Subject to the Area Limitations
+
+3202.2.1 Encroachments Subject to the Area Limitations
+Encroachments that are subject to area
+limitations
+are those elements listed in Sections
+3202.2.1.1
+through
+3202.2.1.9
+, generally of an architectural character, that form an integral part of the
+building
+facade. The aggregate
+area
+of all such elements constructed to extend beyond the
+street line
+shall not exceed 10 square feet (0.93 m
+2
+) within any 10 feet (3048 mm) by 10 feet (3048 mm) square
+area
+of
+wall
+. The
+area
+of any such projection shall be measured at that vertical plane, parallel to the
+wall
+, in which the
+area
+of the projection is greatest. This plane of
+measurement
+may be at the
+street line
+, the line of maximum projection or any point in between. For the purpose of measuring the projected area of a balcony, air spaces of less than 6 inches (152 mm) between closely spaced railing or
+guards
+elements shall contribute to the
+area
+of the projection.
+Exceptions:
+The aggregate
+area
+of all elements subject to
+area
+limitations
+that includes a balcony or associated railings and brackets shall not exceed 24 square feet (2.2 m
+2
+) in any 240 square foot (22.3 m
+2
+)
+area
+on a given
+story
+.
+The aggregate
+area
+of elements on existing buildings or structures designated by the Landmarks Preservation Commission as landmarks or within historic districts shall not be limited provided that such elements are approved by the Landmarks Preservation Commission.
+
+---
+
+Encroachments that are subject to area
+limitations
+are those elements listed in Sections
+3202.2.1.1
+through
+3202.2.1.9
+, generally of an architectural character, that form an integral part of the
+building
+facade. The aggregate
+area
+of all such elements constructed to extend beyond the
+street line
+shall not exceed 10 square feet (0.93 m
+2
+) within any 10 feet (3048 mm) by 10 feet (3048 mm) square
+area
+of
+wall
+. The
+area
+of any such projection shall be measured at that vertical plane, parallel to the
+wall
+, in which the
+area
+of the projection is greatest. This plane of
+measurement
+may be at the
+street line
+, the line of maximum projection or any point in between. For the purpose of measuring the projected area of a balcony, air spaces of less than 6 inches (152 mm) between closely spaced railing or
+guards
+elements shall contribute to the
+area
+of the projection.
+Exceptions:
+The aggregate
+area
+of all elements subject to
+area
+limitations
+that includes a balcony or associated railings and brackets shall not exceed 24 square feet (2.2 m
+2
+) in any 240 square foot (22.3 m
+2
+)
+area
+on a given
+story
+.
+The aggregate
+area
+of elements on existing buildings or structures designated by the Landmarks Preservation Commission as landmarks or within historic districts shall not be limited provided that such elements are approved by the Landmarks Preservation Commission.
+
+---
+
+## Section 3202.2.1.1: Entrance Details
+
+3202.2.1.1 Entrance Details
+Entrance details, including steps and doors when fully open, may be constructed to project beyond the
+street line
+not more than 18 inches (457 mm). Entrance steps that project beyond the
+street line
+shall be guarded at each end by railings at least 3 feet (914 mm) high or by other members of the entrance detail providing equivalent protection.
+
+---
+
+Entrance details, including steps and doors when fully open, may be constructed to project beyond the
+street line
+not more than 18 inches (457 mm). Entrance steps that project beyond the
+street line
+shall be guarded at each end by railings at least 3 feet (914 mm) high or by other members of the entrance detail providing equivalent protection.
+
+---
+
+‡‡‡ 3202.2.1.2 Architectural Details
+Details such as cornices, eaves, bases, sills, headers, band course, opening frames, rustications, applied ornament or sculpture, grilles,
+windows
+when fully open, air conditioning units, and other similar elements may be constructed:
+To project not more than 4 inches (102 mm) beyond the
+street line
+when less than 10 feet (3048 mm) above the ground or sidewalk level.
+To project not more than 10 inches (254 mm) beyond the
+street line
+when more than 10 feet (3048 mm) above the ground or sidewalk level.
+Exceptions:
+Replacement
+or restoration of historical architectural details that are, or were:
+Located more than 10 feet (3048 mm) above the sidewalk and that project more than 10 inches (254 mm), on existing buildings or structures designated by the Landmarks Preservation Commission, may be permitted provided they do not exceed the historic projections and provided that they are approved by the Landmarks Preservation Commission; or
+Located 10 feet (3048 mm) or less above the sidewalk, and that project more than 4 inches (102 mm), on existing buildings or structures designated by the Landmarks Preservation Commission, may be permitted provided they do not exceed the historic projections and provided that they are approved by the Landmarks Preservation Commission, and further provided that if the projection exceeds 18 inches (457 mm), the applicant demonstrates to the Department of Transportation's satisfaction that the
+replacement
+or restoration will not adversely impact the use of the public right of way.
+New architectural details on new or existing buildings, additions or structures subject to the jurisdiction of the Landmarks Preservation Commission, that are more than 10 feet (3048 mm) above the sidewalk and that project more than 10 inches (254 mm) and no more than 3 feet (914 mm), may be permitted provided that the Landmarks Preservation Commission finds that the proposed detail is appropriate to the historic character of the historic district or landmarked
+building
+, structure or
+site
+.
+‡‡‡
+Chapter 32
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Details such as cornices, eaves, bases, sills, headers, band course, opening frames, rustications, applied ornament or sculpture, grilles,
+windows
+when fully open, air conditioning units, and other similar elements may be constructed:
+To project not more than 4 inches (102 mm) beyond the
+street line
+when less than 10 feet (3048 mm) above the ground or sidewalk level.
+To project not more than 10 inches (254 mm) beyond the
+street line
+when more than 10 feet (3048 mm) above the ground or sidewalk level.
+Exceptions:
+Replacement
+or restoration of historical architectural details that are, or were:
+Located more than 10 feet (3048 mm) above the sidewalk and that project more than 10 inches (254 mm), on existing buildings or structures designated by the Landmarks Preservation Commission, may be permitted provided they do not exceed the historic projections and provided that they are approved by the Landmarks Preservation Commission; or
+Located 10 feet (3048 mm) or less above the sidewalk, and that project more than 4 inches (102 mm), on existing buildings or structures designated by the Landmarks Preservation Commission, may be permitted provided they do not exceed the historic projections and provided that they are approved by the Landmarks Preservation Commission, and further provided that if the projection exceeds 18 inches (457 mm), the applicant demonstrates to the Department of Transportation's satisfaction that the
+replacement
+or restoration will not adversely impact the use of the public right of way.
+New architectural details on new or existing buildings, additions or structures subject to the jurisdiction of the Landmarks Preservation Commission, that are more than 10 feet (3048 mm) above the sidewalk and that project more than 10 inches (254 mm) and no more than 3 feet (914 mm), may be permitted provided that the Landmarks Preservation Commission finds that the proposed detail is appropriate to the historic character of the historic district or landmarked
+building
+, structure or
+site
+.
+‡‡‡
+Chapter 32
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+## Section 3202.2.1.3: Balconies
+
+3202.2.1.3 Balconies
+Balconies, including railings and supporting brackets, no parts of which are less than 10 feet (3048 mm) above the ground or sidewalk level, may be constructed to project not more than 2 feet 6 inches (762 mm) beyond the
+street line
+. When permitted by the provisions of this
+code, fire
+escapes that are part of a required
+exit
+may be constructed to project not more than 4 feet 6 inches (1372 mm) beyond the
+street line
+provided no part, including any movable ladder or
+stair
+, is lower than 10 feet (3048 mm) above the ground or sidewalk level when not in use.
+
+---
+
+Balconies, including railings and supporting brackets, no parts of which are less than 10 feet (3048 mm) above the ground or sidewalk level, may be constructed to project not more than 2 feet 6 inches (762 mm) beyond the
+street line
+. When permitted by the provisions of this
+code, fire
+escapes that are part of a required
+exit
+may be constructed to project not more than 4 feet 6 inches (1372 mm) beyond the
+street line
+provided no part, including any movable ladder or
+stair
+, is lower than 10 feet (3048 mm) above the ground or sidewalk level when not in use.
+
+---
+
+## Section 3202.2.1.4: Marquees
+
+3202.2.1.4 Marquees
+Marquees
+may be constructed to project beyond the
+street line
+provided that they comply with Section 3106 and Sections
+3202.2.1.4.1
+through
+3202.2.1.4.5
+.
+
+---
+
+Marquees
+may be constructed to project beyond the
+street line
+provided that they comply with Section 3106 and Sections
+3202.2.1.4.1
+through
+3202.2.1.4.5
+.
+
+---
+
+## Section 3202.2.1.4.1: Height
+
+3202.2.1.4.1 Height
+Marquees
+shall receive structural support only from the
+building
+and shall be at least 10 feet (3048 mm) above the ground level or sidewalk.
+
+---
+
+Marquees
+shall receive structural support only from the
+building
+and shall be at least 10 feet (3048 mm) above the ground level or sidewalk.
+
+---
+
+## Section 3202.2.1.4.2: Projection
+
+3202.2.1.4.2 Projection
+Marquees
+shall project no closer to the
+curb line
+than 2 feet (610 mm).
+
+---
+
+Marquees
+shall project no closer to the
+curb line
+than 2 feet (610 mm).
+
+---
+
+## Section 3202.2.1.4.3: Thickness
+
+3202.2.1.4.3 Thickness
+Marquees
+shall be no thicker nor shall the fascia be higher than 3 feet (914 mm) when measured vertically from its lowest to its highest point.
+
+---
+
+Marquees
+shall be no thicker nor shall the fascia be higher than 3 feet (914 mm) when measured vertically from its lowest to its highest point.
+
+---
+
+## Section 3202.2.1.4.4: Dimensions
+
+3202.2.1.4.4 Dimensions
+Dimensions
+shall include all decoration but shall exclude any tension supports suspending the
+marquee
+from the
+wall
+.
+
+---
+
+Dimensions
+shall include all decoration but shall exclude any tension supports suspending the
+marquee
+from the
+wall
+.
+
+---
+
+## Section 3202.2.1.4.5: Occupancy Restrictions
+
+3202.2.1.4.5 Occupancy Restrictions
+Marquees
+may be erected on:
+Buildings of an essentially public nature, including but not limited to the following:
+Public buildings, including schools.
+Theatres.
+Hotels.
+Terminals.
+Large department stores.
+Supermarkets.
+Multiple dwellings
+.
+Office buildings
+Warehouses or markets in one of the following established market areas:
+Bronx.
+Edgewater Road and Halleck
+Street
+between Lafayette Avenue and East Bay Avenue.
+Lafayette Avenue between Edgewater Road and the Bronx River.
+East Bay Avenue between Halleck
+Street
+and the Bronx River.
+Hunt's Point Avenue between East Bay Avenue and the Bronx River.
+Exterior
+Street
+between East 149th
+Street
+and East 157th
+Street
+.
+Cromwell Avenue between East 150th
+Street
+and East 153rd
+Street
+.
+East 150th
+Street
+between Exterior
+Street
+and River Avenue.
+Westchester Avenue between St. Ann's Avenue and Bergen Avenue.
+Brook Avenue between East 150th
+Street
+and East 156th
+Street
+.
+Bergen Avenue between East 149th
+Street
+and East 156th
+Street
+.
+East 152nd
+Street
+between Bergen Avenue and Brook Avenue.
+East 153rd
+Street
+between Bergen Avenue and Brook Avenue.
+Brooklyn.
+North 6th
+Street
+between Berry
+Street
+and
+Wythe
+Avenue.
+Manhattan.
+John
+Street
+to Fulton
+Street
+between South
+Street
+and Front
+Street
+.
+Fulton
+Street
+to Dover
+Street
+between South
+Street
+and Water
+Street
+.
+South
+Street
+and Front
+Street
+between John
+Street
+and Dover
+Street
+.
+Water
+Street
+between Fulton
+Street
+and Dover
+Street
+.
+Horatio
+Street
+to West 14th
+Street
+between West
+Street
+and 9th Avenue.
+West
+Street
+, Washington
+Street
+, Greenwich
+Street
+.
+9th Avenue and 10th Avenue between Horatio
+Street
+and West 14th
+Street
+.
+West 16th
+Street
+, north side, and West 17th
+Street
+, south side, between 10th Avenue and 11th Avenue.
+West 24th
+Street
+to West 26th
+Street
+, south side, between 11th Avenue and 12th Avenue.
+West 27th
+Street
+, north side, to West 28th
+Street
+between 11th Avenue and 12th Avenue.
+12th Avenue and St. Claire Place between 125th
+Street
+and 132nd
+Street
+.
+12th Avenue, west side, between 132nd
+Street
+and 133rd
+Street
+.
+Queens.
+95th Avenue, north side, between Sutphin Boulevard and 148th
+Street
+.
+
+---
+
+Marquees
+may be erected on:
+Buildings of an essentially public nature, including but not limited to the following:
+Public buildings, including schools.
+Theatres.
+Hotels.
+Terminals.
+Large department stores.
+Supermarkets.
+Multiple dwellings
+.
+Office buildings
+Warehouses or markets in one of the following established market areas:
+Bronx.
+Edgewater Road and Halleck
+Street
+between Lafayette Avenue and East Bay Avenue.
+Lafayette Avenue between Edgewater Road and the Bronx River.
+East Bay Avenue between Halleck
+Street
+and the Bronx River.
+Hunt's Point Avenue between East Bay Avenue and the Bronx River.
+Exterior
+Street
+between East 149th
+Street
+and East 157th
+Street
+.
+Cromwell Avenue between East 150th
+Street
+and East 153rd
+Street
+.
+East 150th
+Street
+between Exterior
+Street
+and River Avenue.
+Westchester Avenue between St. Ann's Avenue and Bergen Avenue.
+Brook Avenue between East 150th
+Street
+and East 156th
+Street
+.
+Bergen Avenue between East 149th
+Street
+and East 156th
+Street
+.
+East 152nd
+Street
+between Bergen Avenue and Brook Avenue.
+East 153rd
+Street
+between Bergen Avenue and Brook Avenue.
+Brooklyn.
+North 6th
+Street
+between Berry
+Street
+and
+Wythe
+Avenue.
+Manhattan.
+John
+Street
+to Fulton
+Street
+between South
+Street
+and Front
+Street
+.
+Fulton
+Street
+to Dover
+Street
+between South
+Street
+and Water
+Street
+.
+South
+Street
+and Front
+Street
+between John
+Street
+and Dover
+Street
+.
+Water
+Street
+between Fulton
+Street
+and Dover
+Street
+.
+Horatio
+Street
+to West 14th
+Street
+between West
+Street
+and 9th Avenue.
+West
+Street
+, Washington
+Street
+, Greenwich
+Street
+.
+9th Avenue and 10th Avenue between Horatio
+Street
+and West 14th
+Street
+.
+West 16th
+Street
+, north side, and West 17th
+Street
+, south side, between 10th Avenue and 11th Avenue.
+West 24th
+Street
+to West 26th
+Street
+, south side, between 11th Avenue and 12th Avenue.
+West 27th
+Street
+, north side, to West 28th
+Street
+between 11th Avenue and 12th Avenue.
+12th Avenue and St. Claire Place between 125th
+Street
+and 132nd
+Street
+.
+12th Avenue, west side, between 132nd
+Street
+and 133rd
+Street
+.
+Queens.
+95th Avenue, north side, between Sutphin Boulevard and 148th
+Street
+.
+
+---
+
+## Section 3202.2.1.4.6: Change of Occupancy
+
+3202.2.1.4.6 Change of Occupancy
+When the occupancy or use of a
+building
+with a
+marquee
+is changed to an occupancy or use for which a projecting
+marquee
+is not permitted, the
+marquee
+shall be removed.
+Exception:
+For buildings subject to the jurisdiction of the Landmarks Preservation Commission, Section 3202.2.1.4.6 shall not apply when the Landmarks Preservation Commission makes a determination that the removal of the
+marquee
+would be inappropriate to the architectural character of the
+building
+or historic district.
+
+---
+
+When the occupancy or use of a
+building
+with a
+marquee
+is changed to an occupancy or use for which a projecting
+marquee
+is not permitted, the
+marquee
+shall be removed.
+Exception:
+For buildings subject to the jurisdiction of the Landmarks Preservation Commission, Section 3202.2.1.4.6 shall not apply when the Landmarks Preservation Commission makes a determination that the removal of the
+marquee
+would be inappropriate to the architectural character of the
+building
+or historic district.
+
+---
+
+*3202.2.1.4.7 Other Agency Approvals
+An applicant wishing to erect a
+marquee
+shall provide proof that the Commissioners of the Departments of Transportation, Consumer Affairs, and Environmental Protection have not permitted the use of a space or structure on or under the sidewalk beneath the proposed
+marquee
+in such a manner that the
+construction
+of the proposed
+marquee
+shall interfere with the removal or
+repair
+of any such permitted use or structure.
+*Section 3202.2.1.4.7 was amended by
+Local Law 80 of 2020
+. This law has an effective date of August 28, 2020.
+
+---
+
+An applicant wishing to erect a
+marquee
+shall provide proof that the Commissioners of the Departments of Transportation, Consumer Affairs, and Environmental Protection have not permitted the use of a space or structure on or under the sidewalk beneath the proposed
+marquee
+in such a manner that the
+construction
+of the proposed
+marquee
+shall interfere with the removal or
+repair
+of any such permitted use or structure.
+*Section 3202.2.1.4.7 was amended by
+Local Law 80 of 2020
+. This law has an effective date of August 28, 2020.
+
+---
+
+## Section 3202.2.1.5: Light Fixtures
+
+3202.2.1.5 Light Fixtures
+Light fixtures that are supported entirely from the
+building
+may be constructed to project not more than 2 feet (610 mm) beyond the
+street line
+, provided no part of the fixture is less than 8 feet (2438 mm) above the ground or sidewalk level.
+
+---
+
+Light fixtures that are supported entirely from the
+building
+may be constructed to project not more than 2 feet (610 mm) beyond the
+street line
+, provided no part of the fixture is less than 8 feet (2438 mm) above the ground or sidewalk level.
+
+---
+
+## Section 3202.2.1.6: Flagpoles
+
+3202.2.1.6 Flagpoles
+Flagpoles that are supported entirely from the
+building
+may be constructed to project not more than 18 feet (5486 mm) beyond the
+street line
+, but not closer than 2 feet (610 mm) to the
+curb line
+, provided that no part of the flagpole is less than 15 feet (4572 mm) above the ground or sidewalk level.
+
+---
+
+Flagpoles that are supported entirely from the
+building
+may be constructed to project not more than 18 feet (5486 mm) beyond the
+street line
+, but not closer than 2 feet (610 mm) to the
+curb line
+, provided that no part of the flagpole is less than 15 feet (4572 mm) above the ground or sidewalk level.
+
+---
+
+## Section 3202.2.1.7: Wall Signs
+
+3202.2.1.7 Wall Signs
+Wall signs
+may be constructed to project not more than 12 inches (305 mm) beyond the
+street line
+when conforming to the requirements of this code and Section H111 of
+Appendix H
+.
+
+---
+
+Wall signs
+may be constructed to project not more than 12 inches (305 mm) beyond the
+street line
+when conforming to the requirements of this code and Section H111 of
+Appendix H
+.
+
+---
+
+## Section 3202.2.1.8: Projecting Signs
+
+3202.2.1.8 Projecting Signs
+All permitted
+projecting signs
+may be constructed to project not more than 10 feet (3048 mm) beyond the
+street line
+, but not closer to the
+curb line
+than 2 feet (610 mm), when conforming to the requirements of this code and Section H112 of
+Appendix H
+, and provided that no part of the
+sign
+is less than 10 feet (3048 mm) above the ground or sidewalk level.
+Exceptions:
+Permanent
+projecting signs
+are prohibited on buildings in the areas indicated below:
+Borough of Manhattan.
+Projecting signs
+. No permanent
+projecting sign
+shall be erected on any
+building
+on:
+5th Avenue between Washington Square north and 110th
+Street
+;
+34th
+Street
+between Park Avenue and 7th Avenue;
+Madison Avenue between 23rd
+Street
+and 96th
+Street
+;
+57th
+Street
+between Lexington Avenue and Broadway;
+Vanderbilt Avenue between 42nd
+Street
+and 47th
+Street
+;
+Park Avenue between 32nd
+Street
+and 40th
+Street
+;
+Park Avenue between 45th
+Street
+and 96th
+Street
+;
+33rd
+Street
+between Lexington Avenue and 5th Avenue;
+35th through 41st
+Streets
+between Lexington Avenue and 5th Avenue;
+43rd through 56th
+Streets
+between Lexington Avenue and 5th Avenue;
+58th
+Street
+between Lexington Avenue and 5th Avenue;
+60th
+Street
+between Lexington Avenue and 5th Avenue;
+Nassau
+Street
+between
+Wall
+Street
+and Frankfort
+Street
+; or
+John
+Street
+between Broadway and William
+Street
+.
+Illuminated
+projecting signs
+. No permanent illuminated
+projecting sign
+shall be erected on any
+building
+on:
+72nd
+Street
+between Central Park West and River Drive.
+Borough of Brooklyn.
+Projecting signs
+. No permanent
+projecting sign
+shall be erected on any
+building
+on:
+Fulton
+Street
+between Flatbush Avenue and Joralemon
+Street
+and Willoughby
+Street
+.
+Illuminated
+projecting signs
+. No permanent illuminated
+projecting sign
+shall be erected on any
+building
+on:
+Fulton
+Street
+between Flatbush Avenue and Prospect
+Street
+and Henry
+Street
+;
+Washington
+Street
+between Myrtle Avenue and Prospect
+Street
+;
+Court
+Street
+between Fulton
+Street
+and Livingston
+Street
+;
+Pierrepont
+Street
+between Fulton
+Street
+and Clinton
+Street
+;
+Montague
+Street
+between
+Court
+Street
+and Clinton
+Street
+;
+Remsen
+Street
+between
+Court
+Street
+and Clinton
+Street
+; or
+Joralemon
+Street
+between
+Court
+Street
+and Clinton
+Street
+.
+
+---
+
+All permitted
+projecting signs
+may be constructed to project not more than 10 feet (3048 mm) beyond the
+street line
+, but not closer to the
+curb line
+than 2 feet (610 mm), when conforming to the requirements of this code and Section H112 of
+Appendix H
+, and provided that no part of the
+sign
+is less than 10 feet (3048 mm) above the ground or sidewalk level.
+Exceptions:
+Permanent
+projecting signs
+are prohibited on buildings in the areas indicated below:
+Borough of Manhattan.
+Projecting signs
+. No permanent
+projecting sign
+shall be erected on any
+building
+on:
+5th Avenue between Washington Square north and 110th
+Street
+;
+34th
+Street
+between Park Avenue and 7th Avenue;
+Madison Avenue between 23rd
+Street
+and 96th
+Street
+;
+57th
+Street
+between Lexington Avenue and Broadway;
+Vanderbilt Avenue between 42nd
+Street
+and 47th
+Street
+;
+Park Avenue between 32nd
+Street
+and 40th
+Street
+;
+Park Avenue between 45th
+Street
+and 96th
+Street
+;
+33rd
+Street
+between Lexington Avenue and 5th Avenue;
+35th through 41st
+Streets
+between Lexington Avenue and 5th Avenue;
+43rd through 56th
+Streets
+between Lexington Avenue and 5th Avenue;
+58th
+Street
+between Lexington Avenue and 5th Avenue;
+60th
+Street
+between Lexington Avenue and 5th Avenue;
+Nassau
+Street
+between
+Wall
+Street
+and Frankfort
+Street
+; or
+John
+Street
+between Broadway and William
+Street
+.
+Illuminated
+projecting signs
+. No permanent illuminated
+projecting sign
+shall be erected on any
+building
+on:
+72nd
+Street
+between Central Park West and River Drive.
+Borough of Brooklyn.
+Projecting signs
+. No permanent
+projecting sign
+shall be erected on any
+building
+on:
+Fulton
+Street
+between Flatbush Avenue and Joralemon
+Street
+and Willoughby
+Street
+.
+Illuminated
+projecting signs
+. No permanent illuminated
+projecting sign
+shall be erected on any
+building
+on:
+Fulton
+Street
+between Flatbush Avenue and Prospect
+Street
+and Henry
+Street
+;
+Washington
+Street
+between Myrtle Avenue and Prospect
+Street
+;
+Court
+Street
+between Fulton
+Street
+and Livingston
+Street
+;
+Pierrepont
+Street
+between Fulton
+Street
+and Clinton
+Street
+;
+Montague
+Street
+between
+Court
+Street
+and Clinton
+Street
+;
+Remsen
+Street
+between
+Court
+Street
+and Clinton
+Street
+; or
+Joralemon
+Street
+between
+Court
+Street
+and Clinton
+Street
+.
+
+---
+
+‡‡‡ 3202.2.1.9 Sun Control Devices
+Sun control devices constructed in accordance with Section 3105 and supported entirely from the
+building
+may project beyond the
+street line
+not more than 2 feet 6 inches (762 mm), provided that no part of the sun control device is less than 8 feet (2438 mm) above the ground or sidewalk level. Any portion of a sun control device that is located over a sidewalk
+vault
+and is more than 10 inches (254 mm) beyond the
+street line
+and less than 40 feet (12 192 mm) above the ground or sidewalk shall be removable or retractable to less than 10 inches (254 mm) beyond the
+street line
+.
+‡‡‡
+Chapter 32
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Sun control devices constructed in accordance with Section 3105 and supported entirely from the
+building
+may project beyond the
+street line
+not more than 2 feet 6 inches (762 mm), provided that no part of the sun control device is less than 8 feet (2438 mm) above the ground or sidewalk level. Any portion of a sun control device that is located over a sidewalk
+vault
+and is more than 10 inches (254 mm) beyond the
+street line
+and less than 40 feet (12 192 mm) above the ground or sidewalk shall be removable or retractable to less than 10 inches (254 mm) beyond the
+street line
+.
+‡‡‡
+Chapter 32
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+## Section 3202.2.2: Encroachments Not Subject to Area Limitations
+
+3202.2.2 Encroachments Not Subject to Area Limitations
+
+---
+
+## Section 3202.2.2.1: Ramps
+
+3202.2.2.1 Ramps
+When a
+building
+erected prior to December 6, 1969, is altered to provide access to individuals who use wheelchairs,
+ramps
+constructed to provide such access may, with the approval of the commissioner, project beyond the
+street line
+for a distance of not more than 44 inches (1118 mm).
+Ramps
+shall comply with the applicable provisions of
+Chapter 11
+.
+
+---
+
+When a
+building
+erected prior to December 6, 1969, is altered to provide access to individuals who use wheelchairs,
+ramps
+constructed to provide such access may, with the approval of the commissioner, project beyond the
+street line
+for a distance of not more than 44 inches (1118 mm).
+Ramps
+shall comply with the applicable provisions of
+Chapter 11
+.
+
+---
+
+## Section 3202.2.2.2: Bridges Between Buildings
+
+3202.2.2.2 Bridges Between Buildings
+Bridges connecting buildings and projecting beyond
+street lines
+may be permitted in accordance with applicable law. Such bridges shall be of a
+construction
+class that is at least equal to the higher class of the two buildings connected and shall otherwise comply with the provisions of this code and other applicable laws and rules.
+
+---
+
+Bridges connecting buildings and projecting beyond
+street lines
+may be permitted in accordance with applicable law. Such bridges shall be of a
+construction
+class that is at least equal to the higher class of the two buildings connected and shall otherwise comply with the provisions of this code and other applicable laws and rules.
+
+---
+
+## Section 3202.2.2.3: Flood Shield Supports
+
+3202.2.2.3 Flood Shield Supports
+In
+flood hazard areas
+or
+shaded X-Zones
+, permanent attachments to
+building
+façades necessary for the support and attachment of temporary, removable
+dry floodproofing
+barriers or shields may be constructed to project beyond the
+street line
+for a distance of not more than 6 inches (152 mm).
+
+---
+
+In
+flood hazard areas
+or
+shaded X-Zones
+, permanent attachments to
+building
+façades necessary for the support and attachment of temporary, removable
+dry floodproofing
+barriers or shields may be constructed to project beyond the
+street line
+for a distance of not more than 6 inches (152 mm).
+
+---
+
+## Section 3202.2.2.4: Curb Cuts
+
+3202.2.2.4 Curb Cuts
+The lowering of any curb or the change of grade of any sidewalk for the purpose of providing a driveway across such curb or sidewalk shall be constructed in accordance with the specifications prescribed in
+Section 406.10
+.
+
+---
+
+The lowering of any curb or the change of grade of any sidewalk for the purpose of providing a driveway across such curb or sidewalk shall be constructed in accordance with the specifications prescribed in
+Section 406.10
+.
+
+---
+
+## Section 3202.2.2.4.1: Curb Cut Removal
+
+3202.2.2.4.1 Curb Cut Removal
+Vehicular access curb cuts that can no longer serve as vehicular access across a curb or sidewalk, including where an existing
+building
+served by such a curb cut is demolished, shall be removed and the curb and sidewalk shall be restored in accordance with standards of the Department of Transportation. The commissioner may order such removal and restoration. The commissioner shall limit the length of any curb cut for the purpose of providing a driveway across such curb or sidewalk, when in the opinion of the commissioner the actual use or intended use of such driveway would endanger the public. Where the vehicular use of such driveway, in the opinion of the commissioner is dangerous to the public, the commissioner shall order the owner to discontinue use of such driveway and restore the curb and sidewalk in accordance with standards of the Department of Transportation. Upon the failure of the owner to comply with any of the orders provided for in
+Section 3202.2.2.4
+, in such cases where the restoration of such curb cuts are needed to facilitate department of transportation work, the commissioner may inform the commissioner of transportation of such failure to comply and may request the cooperation of the commissioner of transportation acting under his or her authority pursuant to Section 2903(b)(7) of the New York City Charter in the enforcement of this section.
+
+---
+
+Vehicular access curb cuts that can no longer serve as vehicular access across a curb or sidewalk, including where an existing
+building
+served by such a curb cut is demolished, shall be removed and the curb and sidewalk shall be restored in accordance with standards of the Department of Transportation. The commissioner may order such removal and restoration. The commissioner shall limit the length of any curb cut for the purpose of providing a driveway across such curb or sidewalk, when in the opinion of the commissioner the actual use or intended use of such driveway would endanger the public. Where the vehicular use of such driveway, in the opinion of the commissioner is dangerous to the public, the commissioner shall order the owner to discontinue use of such driveway and restore the curb and sidewalk in accordance with standards of the Department of Transportation. Upon the failure of the owner to comply with any of the orders provided for in
+Section 3202.2.2.4
+, in such cases where the restoration of such curb cuts are needed to facilitate department of transportation work, the commissioner may inform the commissioner of transportation of such failure to comply and may request the cooperation of the commissioner of transportation acting under his or her authority pursuant to Section 2903(b)(7) of the New York City Charter in the enforcement of this section.
+
+---
+
+## Section 3202.2.3: Awnings
+
+3202.2.3 Awnings
+Awnings
+constructed in accordance with Section 3105 and supported entirely from the
+building
+may project beyond the
+street line
+as follows
+:
+
+---
+
+Awnings
+constructed in accordance with Section 3105 and supported entirely from the
+building
+may project beyond the
+street line
+as follows
+:
+
+---
+
+‡‡‡ 3202.2.3.1 Store Front Awnings
+Store front
+awnings
+may project beyond the
+street line
+not more than 8 feet (2428 mm)‡, provided no part of the
+awning
+is less than 8 feet (2438 mm) above the ground or sidewalk level, except for a flexible valance which may be not less than 7 feet (2134 mm) above the ground or sidewalk level, and provided that the
+awning
+box or cover does not project more than 12 inches (305 mm).
+‡‡‡
+Chapter 32
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Store front
+awnings
+may project beyond the
+street line
+not more than 8 feet (2428 mm)‡, provided no part of the
+awning
+is less than 8 feet (2438 mm) above the ground or sidewalk level, except for a flexible valance which may be not less than 7 feet (2134 mm) above the ground or sidewalk level, and provided that the
+awning
+box or cover does not project more than 12 inches (305 mm).
+‡‡‡
+Chapter 32
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+## Section 3202.2.3.2: Awnings Over Windows or Doors
+
+3202.2.3.2 Awnings Over Windows or Doors
+Awnings
+over
+windows
+or doors may project beyond the
+street line
+not more than 5 feet (1524 mm), provided that no part of the
+awning
+is less than 8 feet (2438 mm) above the ground or sidewalk level.
+
+---
+
+Awnings
+over
+windows
+or doors may project beyond the
+street line
+not more than 5 feet (1524 mm), provided that no part of the
+awning
+is less than 8 feet (2438 mm) above the ground or sidewalk level.
+
+---
+
+## Section 3202.2.4: Fire Department Connections, Caps or Plugs
+
+3202.2.4 Fire Department Connections, Caps or Plugs
+Fire department connection swivels, caps and plugs including test headers shall be permitted to project beyond the
+street line
+as provided for in NFPA 14, as amended by
+Appendix Q
+of this code.
+
+---
+
+Fire department connection swivels, caps and plugs including test headers shall be permitted to project beyond the
+street line
+as provided for in NFPA 14, as amended by
+Appendix Q
+of this code.
+
+---
+
+‡‡‡ 3202.2.5 Exterior Wall Covering Systems for Prior Code Buildings
+For prior code buildings, exterior insulation and associated cladding systems (i.e. rain screens, EIFS, etc.) that comply with
+Chapter 14
+may be applied to the entire facade of a
+building
+and may project not more than 8 inches (203 mm) beyond the
+street line
+, in accordance with the following:
+The
+exterior wall covering
+system is necessary to comply with the New York City Energy Conservation Code; or
+In prior code buildings, the
+installation
+of the insulation will reduce greenhouse gas emissions, as demonstrated by achieving not less than a thirty percent reduction of the existing thermal envelope UA (the area-weighted average of assembly u-factors, as defined in the New York City Energy Conservation Code) as compared to the improved thermal envelope UA. For the purposes of calculating the reduction in the thermal envelope UA, the improved thermal envelope UA is the area-weighted average of the proposed opaque U-factor times the alteration area of the opaque
+wall
+assembly compared to the
+area
+-weighted average UA of the existing
+wall
+assembly. The UA calculation shall be performed using a method consistent with the New York City Energy Conservation Code.
+Exceptions:
+A
+veneer
+may be applied to the entire façade of a
+building
+erected before December 6, 1968, provided such
+veneer
+does not project more than 4 inches (102 mm) beyond the
+street line
+.
+Exterior wall covering
+systems installed in accordance with this section on prior code buildings may project not more than 10 inches (254 mm) beyond the
+street line
+, provided they are located more than 10 feet (3048 mm) above grade.
+The department may approve the
+installation
+of
+exterior wall covering
+systems in accordance with this section that project more than 8 inches (203 mm) but not more than 12 inches (305 mm) beyond the
+street line
+provided they are substantiated with engineering calculations demonstrating need and practical difficulty, and provided that the applicant demonstrates to the Department of Transportation's satisfaction that the projection of the
+wall
+covering system will not adversely impact the use of the public right of way.
+‡‡‡
+Chapter 32
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+For prior code buildings, exterior insulation and associated cladding systems (i.e. rain screens, EIFS, etc.) that comply with
+Chapter 14
+may be applied to the entire facade of a
+building
+and may project not more than 8 inches (203 mm) beyond the
+street line
+, in accordance with the following:
+The
+exterior wall covering
+system is necessary to comply with the New York City Energy Conservation Code; or
+In prior code buildings, the
+installation
+of the insulation will reduce greenhouse gas emissions, as demonstrated by achieving not less than a thirty percent reduction of the existing thermal envelope UA (the area-weighted average of assembly u-factors, as defined in the New York City Energy Conservation Code) as compared to the improved thermal envelope UA. For the purposes of calculating the reduction in the thermal envelope UA, the improved thermal envelope UA is the area-weighted average of the proposed opaque U-factor times the alteration area of the opaque
+wall
+assembly compared to the
+area
+-weighted average UA of the existing
+wall
+assembly. The UA calculation shall be performed using a method consistent with the New York City Energy Conservation Code.
+Exceptions:
+A
+veneer
+may be applied to the entire façade of a
+building
+erected before December 6, 1968, provided such
+veneer
+does not project more than 4 inches (102 mm) beyond the
+street line
+.
+Exterior wall covering
+systems installed in accordance with this section on prior code buildings may project not more than 10 inches (254 mm) beyond the
+street line
+, provided they are located more than 10 feet (3048 mm) above grade.
+The department may approve the
+installation
+of
+exterior wall covering
+systems in accordance with this section that project more than 8 inches (203 mm) but not more than 12 inches (305 mm) beyond the
+street line
+provided they are substantiated with engineering calculations demonstrating need and practical difficulty, and provided that the applicant demonstrates to the Department of Transportation's satisfaction that the projection of the
+wall
+covering system will not adversely impact the use of the public right of way.
+‡‡‡
+Chapter 32
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+‡‡‡ 3202.3 Temporary Encroachments
+Encroachments of temporary nature shall comply with Sections
+3202.3.1
+through
+3202.3.3
+.
+‡‡‡
+Chapter 32
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Encroachments of temporary nature shall comply with Sections
+3202.3.1
+through
+3202.3.3
+.
+‡‡‡
+Chapter 32
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+*3202.3.1 Sidewalk Cafés
+Enclosures for sidewalk cafés, where permitted by the Commissioner of the Department of Consumer Affairs pursuant to applicable law and constructed in compliance with Section 3111, may be constructed beyond the
+street line
+.
+*Section 3202.3.1 was amended by
+Local Law 80 of 2020
+. This law has an effective date of August 28, 2020.
+
+---
+
+Enclosures for sidewalk cafés, where permitted by the Commissioner of the Department of Consumer Affairs pursuant to applicable law and constructed in compliance with Section 3111, may be constructed beyond the
+street line
+.
+*Section 3202.3.1 was amended by
+Local Law 80 of 2020
+. This law has an effective date of August 28, 2020.
+
+---
+
+## Section 3202.3.2: Temporary Storm Enclosures
+
+3202.3.2 Temporary Storm Enclosures
+Construction
+of temporary storm enclosures must comply with the requirements of this code, including the
+fire-resistance rating
+of the
+building
+to which it is appurtenant, and
+Chapter 11
+. Such enclosures may be permitted during the period between November 15 and the following April 15 and must be removed at the end of this period.
+
+---
+
+Construction
+of temporary storm enclosures must comply with the requirements of this code, including the
+fire-resistance rating
+of the
+building
+to which it is appurtenant, and
+Chapter 11
+. Such enclosures may be permitted during the period between November 15 and the following April 15 and must be removed at the end of this period.
+
+---
+
+## Section 3202.3.2.1: Temporary Storm Enclosures for Eating and Drinking Establishments
+
+3202.3.2.1 Temporary Storm Enclosures for Eating and Drinking Establishments
+Provided a minimum clear unobstructed sidewalk width of 5 feet is maintained, temporary storm enclosures for eating and drinking establishments with a projection of not more than 25 square feet (2.32 m
+2
+) in area and
+door
+maneuvering clearances complying with
+Chapter 11
+, and related reference standards, including
+Section 404
+(Doors and Doorways) of
+ICC A117.1
+, may be permitted.
+
+---
+
+Provided a minimum clear unobstructed sidewalk width of 5 feet is maintained, temporary storm enclosures for eating and drinking establishments with a projection of not more than 25 square feet (2.32 m
+2
+) in area and
+door
+maneuvering clearances complying with
+Chapter 11
+, and related reference standards, including
+Section 404
+(Doors and Doorways) of
+ICC A117.1
+, may be permitted.
+
+---
+
+## Section 3202.3.2.2: Temporary Storm Enclosures for Other Establishments
+
+3202.3.2.2 Temporary Storm Enclosures for Other Establishments
+Temporary storm enclosures projecting not more than 18 inches (457 mm) beyond the
+street line
+may be permitted at other establishments.
+
+---
+
+Temporary storm enclosures projecting not more than 18 inches (457 mm) beyond the
+street line
+may be permitted at other establishments.
+
+---
+
+## Section 3202.3.3: Temporary Flood Shields, Stairs and Ramps in Flood Hazard Areas and Shaded X-Zones
+
+3202.3.3 Temporary Flood Shields, Stairs and Ramps in Flood Hazard Areas and Shaded X-Zones
+In
+flood hazard areas
+and
+shaded X-Zones
+, temporary flood shields,
+stairs
+and
+ramps
+shall comply with Sections
+G308.9
+and
+G308.10
+of
+Appendix G
+of the
+New York City Building Code
+and shall be permitted in accordance with plans approved by the department subject to the following conditions:
+Such flood shields,
+stairs
+and
+ramps
+shall project no more than one foot (305 mm) beyond the
+street line
+.
+Such flood shields,
+stairs
+and
+ramps
+shall be removed in a timely manner after a flood event.
+
+---
+
+In
+flood hazard areas
+and
+shaded X-Zones
+, temporary flood shields,
+stairs
+and
+ramps
+shall comply with Sections
+G308.9
+and
+G308.10
+of
+Appendix G
+of the
+New York City Building Code
+and shall be permitted in accordance with plans approved by the department subject to the following conditions:
+Such flood shields,
+stairs
+and
+ramps
+shall project no more than one foot (305 mm) beyond the
+street line
+.
+Such flood shields,
+stairs
+and
+ramps
+shall be removed in a timely manner after a flood event.
+
+---
+

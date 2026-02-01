@@ -1,0 +1,3442 @@
+# NYC Fire Code 2022 - Chapter 60
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+6001 General
+
+---
+
+6002 Definitions
+
+---
+
+6003 Highly Toxic and Toxic Solids and Liquids
+
+---
+
+6004 Highly Toxic and Toxic Compressed Gases
+
+---
+
+6005 Ozone Gas Generators
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Section 6001 General
+
+---
+
+## Section 6001.1: Scope
+
+6001.1 Scope
+This chapter shall govern the storage,
+handling
+and use of highly toxic and
+toxic materials
+and
+ozone gas generators
+.
+Exceptions:
+Storage and display in
+Group M
+and storage in
+Group S
+occupancies
+complying with the requirements of
+FC5003.11
+.
+Storage,
+handling
+or use for agricultural purposes, including as a
+pesticide
+, herbicide, fertilizer or similar
+application
+, when
+approved
+for such use by the federal, state or city regulatory agency having jurisdiction and when such storage,
+handling
+or use is in accordance with the manufacturer's instructions.
+Storage,
+handling
+or personal or domestic use as a
+pesticide
+, herbicide, fertilizer in and around a residential dwelling, when
+approved
+for such use by the federal, state or city regulatory agency having jurisdiction and when such storage,
+handling
+or use is in accordance with the manufacturer's instructions.
+
+---
+
+This chapter shall govern the storage,
+handling
+and use of highly toxic and
+toxic materials
+and
+ozone gas generators
+.
+Exceptions:
+Storage and display in
+Group M
+and storage in
+Group S
+occupancies
+complying with the requirements of
+FC5003.11
+.
+Storage,
+handling
+or use for agricultural purposes, including as a
+pesticide
+, herbicide, fertilizer or similar
+application
+, when
+approved
+for such use by the federal, state or city regulatory agency having jurisdiction and when such storage,
+handling
+or use is in accordance with the manufacturer's instructions.
+Storage,
+handling
+or personal or domestic use as a
+pesticide
+, herbicide, fertilizer in and around a residential dwelling, when
+approved
+for such use by the federal, state or city regulatory agency having jurisdiction and when such storage,
+handling
+or use is in accordance with the manufacturer's instructions.
+
+---
+
+## Section 6001.2: Permits
+
+6001.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 6001.3: General
+
+6001.3 General
+Highly toxic and
+toxic materials
+and
+ozone gas generators
+shall be stored, handled and used in accordance with this chapter. Highly toxic and
+toxic materials
+that are compressed gases shall additionally comply with the requirements of
+FC Chapter 53
+.
+
+---
+
+Highly toxic and
+toxic materials
+and
+ozone gas generators
+shall be stored, handled and used in accordance with this chapter. Highly toxic and
+toxic materials
+that are compressed gases shall additionally comply with the requirements of
+FC Chapter 53
+.
+
+---
+
+## Section 6001.4: Highly Toxic and Toxic Material Mixtures
+
+6001.4 Highly Toxic and Toxic Material Mixtures
+The level of toxicity of highly toxic and
+toxic materials
+may be reduced by diluting such materials with other materials, such as water, to a degree that the resulting mixture may no longer be highly toxic or toxic. A mixture containing any amount of highly toxic and/or
+toxic material
+is presumed to be a highly toxic or
+toxic material
+, as applicable, unless it is otherwise certified and
+labeled
+by the manufacturer.
+
+---
+
+The level of toxicity of highly toxic and
+toxic materials
+may be reduced by diluting such materials with other materials, such as water, to a degree that the resulting mixture may no longer be highly toxic or toxic. A mixture containing any amount of highly toxic and/or
+toxic material
+is presumed to be a highly toxic or
+toxic material
+, as applicable, unless it is otherwise certified and
+labeled
+by the manufacturer.
+
+---
+
+## Section 6001.5: Supervision
+
+6001.5 Supervision
+The
+handling
+and use of highly toxic and
+toxic materials
+in quantities requiring a
+permit
+shall be under the
+personal supervision
+of a
+certificate of fitness
+holder. The storage of highly toxic and
+toxic materials
+in quantities requiring a
+permit
+shall be under the
+general supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+The
+handling
+and use of highly toxic and
+toxic materials
+in quantities requiring a
+permit
+shall be under the
+personal supervision
+of a
+certificate of fitness
+holder. The storage of highly toxic and
+toxic materials
+in quantities requiring a
+permit
+shall be under the
+general supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+## Section 6001.6: Prohibition
+
+6001.6 Prohibition
+It shall be unlawful to compress highly toxic and
+toxic materials
+.
+
+---
+
+It shall be unlawful to compress highly toxic and
+toxic materials
+.
+
+---
+
+Section 6002 Definitions
+
+---
+
+## Section 6002.1: Definitions
+
+6002.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+CONTAINMENT
+SYSTEM
+.
+CONTAINMENT
+VESSEL
+.
+EXCESS FLOW VALVE
+.
+HIGHLY TOXIC MATERIAL
+.
+OZONE GAS GENERATOR
+.
+REDUCED FLOW VALVE
+.
+TOXIC MATERIAL
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+CONTAINMENT
+SYSTEM
+.
+CONTAINMENT
+VESSEL
+.
+EXCESS FLOW VALVE
+.
+HIGHLY TOXIC MATERIAL
+.
+OZONE GAS GENERATOR
+.
+REDUCED FLOW VALVE
+.
+TOXIC MATERIAL
+.
+
+---
+
+Section 6003 Highly Toxic and Toxic Solids and Liquids
+
+---
+
+## Section 6003.1: Indoor Storage, Handling and Use
+
+6003.1 Indoor Storage, Handling and Use
+The
+indoor
+storage,
+handling
+and use of highly toxic and
+toxic materials
+shall comply with the requirements of
+FC 6003.1.1
+through
+6003.1.5.3
+.
+
+---
+
+The
+indoor
+storage,
+handling
+and use of highly toxic and
+toxic materials
+shall comply with the requirements of
+FC 6003.1.1
+through
+6003.1.5.3
+.
+
+---
+
+## Section 6003.1.1: Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+
+6003.1.1 Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+The
+indoor
+storage,
+handling
+or use of highly toxic and toxic
+solids
+or
+liquids
+in amounts not exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(2)
+shall be in accordance with
+FC 5001
+,
+5003
+and
+6001
+.
+
+---
+
+The
+indoor
+storage,
+handling
+or use of highly toxic and toxic
+solids
+or
+liquids
+in amounts not exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(2)
+shall be in accordance with
+FC 5001
+,
+5003
+and
+6001
+.
+
+---
+
+## Section 6003.1.2: Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+
+6003.1.2 Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+The
+indoor
+storage,
+handling
+or use of highly toxic and toxic
+solids
+or
+liquids
+in amounts exceeding the
+maximum allowable quantity per control area
+set forth in FC
+Table 5003.1.1(2)
+shall be in accordance with
+FC6001
+,
+FC 6003.1.3
+through
+6003.1.5.3
+and
+FC Chapter 50
+.
+
+---
+
+The
+indoor
+storage,
+handling
+or use of highly toxic and toxic
+solids
+or
+liquids
+in amounts exceeding the
+maximum allowable quantity per control area
+set forth in FC
+Table 5003.1.1(2)
+shall be in accordance with
+FC6001
+,
+FC 6003.1.3
+through
+6003.1.5.3
+and
+FC Chapter 50
+.
+
+---
+
+## Section 6003.1.3: Treatment System—Highly Toxic Liquids
+
+6003.1.3 Treatment System—Highly Toxic Liquids
+Exhaust scrubbers or other
+systems
+for processing vapors of highly toxic
+liquids
+shall be provided where a spill or accidental release of such
+liquids
+can be expected to release highly toxic vapors at
+normal temperature and pressure
+. Treatment
+systems
+and other processing
+systems
+shall be installed in accordance with the
+construction codes
+, including the
+Mechanical Code
+.
+
+---
+
+Exhaust scrubbers or other
+systems
+for processing vapors of highly toxic
+liquids
+shall be provided where a spill or accidental release of such
+liquids
+can be expected to release highly toxic vapors at
+normal temperature and pressure
+. Treatment
+systems
+and other processing
+systems
+shall be installed in accordance with the
+construction codes
+, including the
+Mechanical Code
+.
+
+---
+
+## Section 6003.1.4: Indoor Storage
+
+6003.1.4 Indoor Storage
+Indoor
+storage of highly toxic and toxic
+solids
+and
+liquids
+shall comply with the requirements of
+FC 6003.1.4.1
+and
+6003.1.4.2
+.
+
+---
+
+Indoor
+storage of highly toxic and toxic
+solids
+and
+liquids
+shall comply with the requirements of
+FC 6003.1.4.1
+and
+6003.1.4.2
+.
+
+---
+
+## Section 6003.1.4.1: Floors
+
+6003.1.4.1 Floors
+In addition to the requirements set forth in
+FC5004.12
+, floors of storage areas shall be of
+liquid-tight construction
+.
+
+---
+
+In addition to the requirements set forth in
+FC5004.12
+, floors of storage areas shall be of
+liquid-tight construction
+.
+
+---
+
+## Section 6003.1.4.2: Separation—Highly Toxic Solids and Liquids
+
+6003.1.4.2 Separation—Highly Toxic Solids and Liquids
+In addition to the requirements set forth in
+FC5003.9.8
+, highly toxic
+solids
+and
+liquids
+in storage shall be located in
+approved
+hazardous material storage cabinets or isolated from other hazardous material storage by construction in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+In addition to the requirements set forth in
+FC5003.9.8
+, highly toxic
+solids
+and
+liquids
+in storage shall be located in
+approved
+hazardous material storage cabinets or isolated from other hazardous material storage by construction in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 6003.1.5: Indoor Handling and Use
+
+6003.1.5 Indoor Handling and Use
+Indoor
+handling
+and use of highly toxic and toxic
+solids
+and
+liquids
+shall be in accordance with
+FC 6003.1.5.1
+through
+6003.1.5.3
+.
+
+---
+
+Indoor
+handling
+and use of highly toxic and toxic
+solids
+and
+liquids
+shall be in accordance with
+FC 6003.1.5.1
+through
+6003.1.5.3
+.
+
+---
+
+## Section 6003.1.5.1: Liquid Transfer
+
+6003.1.5.1 Liquid Transfer
+Highly toxic and toxic
+liquids
+shall be transferred in accordance with
+FC5005.1.10
+.
+
+---
+
+Highly toxic and toxic
+liquids
+shall be transferred in accordance with
+FC5005.1.10
+.
+
+---
+
+## Section 6003.1.5.2: Exhaust Ventilation for Open Systems
+
+6003.1.5.2 Exhaust Ventilation for Open Systems
+Mechanical exhaust
+ventilation
+shall be provided for highly toxic and toxic
+liquids
+used in
+open systems
+in accordance with
+5005.2.1.1
+.
+Exception:
+Liquids
+or
+solids
+that do not generate highly toxic or toxic fumes, mists or vapors.
+
+---
+
+Mechanical exhaust
+ventilation
+shall be provided for highly toxic and toxic
+liquids
+used in
+open systems
+in accordance with
+5005.2.1.1
+.
+Exception:
+Liquids
+or
+solids
+that do not generate highly toxic or toxic fumes, mists or vapors.
+
+---
+
+## Section 6003.1.5.3: Exhaust Ventilation for Closed Systems
+
+6003.1.5.3 Exhaust Ventilation for Closed Systems
+Mechanical exhaust
+ventilation
+shall be provided for highly toxic and toxic
+liquids
+used in
+closed systems
+in accordance with
+FC5005.2.2.2
+.
+Exception:
+Liquids
+or
+solids
+that do not generate highly toxic or toxic fumes, mists or vapors.
+
+---
+
+Mechanical exhaust
+ventilation
+shall be provided for highly toxic and toxic
+liquids
+used in
+closed systems
+in accordance with
+FC5005.2.2.2
+.
+Exception:
+Liquids
+or
+solids
+that do not generate highly toxic or toxic fumes, mists or vapors.
+
+---
+
+## Section 6003.2: Outdoor Storage, Handling and Use
+
+6003.2 Outdoor Storage, Handling and Use
+Outdoor storage,
+handling
+and use of highly toxic and
+toxic materials
+shall be in accordance with
+FC 6003.2.1
+through
+6003.2.6
+.
+
+---
+
+Outdoor storage,
+handling
+and use of highly toxic and
+toxic materials
+shall be in accordance with
+FC 6003.2.1
+through
+6003.2.6
+.
+
+---
+
+## Section 6003.2.1: Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+
+6003.2.1 Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+The outdoor storage,
+handling
+or use of highly toxic and toxic
+solids
+or
+liquids
+in amounts not exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(4)
+shall be in accordance with
+FC 5001
+,
+5003
+and
+6001
+.
+
+---
+
+The outdoor storage,
+handling
+or use of highly toxic and toxic
+solids
+or
+liquids
+in amounts not exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(4)
+shall be in accordance with
+FC 5001
+,
+5003
+and
+6001
+.
+
+---
+
+## Section 6003.2.2: Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+
+6003.2.2 Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+The outdoor storage,
+handling
+or use of highly toxic and toxic
+solids
+or
+liquids
+in amounts exceeding the
+maximum allowable quantity per control area
+set forth in FC
+Table 5003.1.1(4)
+shall be in accordance with
+FC 6001
+and
+6003.2
+and
+FC Chapter 50
+.
+
+---
+
+The outdoor storage,
+handling
+or use of highly toxic and toxic
+solids
+or
+liquids
+in amounts exceeding the
+maximum allowable quantity per control area
+set forth in FC
+Table 5003.1.1(4)
+shall be in accordance with
+FC 6001
+and
+6003.2
+and
+FC Chapter 50
+.
+
+---
+
+## Section 6003.2.3: General Outdoor Requirements
+
+6003.2.3 General Outdoor Requirements
+The
+general requirements
+applicable to the outdoor storage of highly toxic or toxic
+solids
+and
+liquids
+shall be in accordance with
+FC 6003.2.3.1
+and
+6003.2.3.2
+.
+
+---
+
+The
+general requirements
+applicable to the outdoor storage of highly toxic or toxic
+solids
+and
+liquids
+shall be in accordance with
+FC 6003.2.3.1
+and
+6003.2.3.2
+.
+
+---
+
+## Section 6003.2.3.1: Location
+
+6003.2.3.1 Location
+Outdoor storage,
+handling
+or use of highly toxic or toxic
+solids
+and
+liquids
+shall not be located within 20 feet (6096 mm) of lot lines,
+public streets
+,
+private roads
+,
+exit discharges
+or exterior wall openings. A 2-hour
+fire
+barrier wall without openings or penetrations extending not less than 30 inches (762 mm) above and to the sides of the storage is allowed in lieu of such distance. The
+fire
+barrier wall shall be either an independent structure or the exterior wall of the building adjacent to the storage area.
+
+---
+
+Outdoor storage,
+handling
+or use of highly toxic or toxic
+solids
+and
+liquids
+shall not be located within 20 feet (6096 mm) of lot lines,
+public streets
+,
+private roads
+,
+exit discharges
+or exterior wall openings. A 2-hour
+fire
+barrier wall without openings or penetrations extending not less than 30 inches (762 mm) above and to the sides of the storage is allowed in lieu of such distance. The
+fire
+barrier wall shall be either an independent structure or the exterior wall of the building adjacent to the storage area.
+
+---
+
+## Section 6003.2.3.2: Treatment System—Highly Toxic Liquids
+
+6003.2.3.2 Treatment System—Highly Toxic Liquids
+Exhaust scrubbers or other
+systems
+for processing vapors of highly toxic
+liquid
+shall be installed where a spill or accidental release of such
+liquids
+can be expected to release highly toxic vapors at
+normal temperature and pressure (NTP)
+. Treatment
+systems
+and other processing
+systems
+shall be installed in accordance with the
+construction codes
+, including the
+Mechanical Code
+.
+
+---
+
+Exhaust scrubbers or other
+systems
+for processing vapors of highly toxic
+liquid
+shall be installed where a spill or accidental release of such
+liquids
+can be expected to release highly toxic vapors at
+normal temperature and pressure (NTP)
+. Treatment
+systems
+and other processing
+systems
+shall be installed in accordance with the
+construction codes
+, including the
+Mechanical Code
+.
+
+---
+
+## Section 6003.2.4: Outdoor Storage Piles
+
+6003.2.4 Outdoor Storage Piles
+Outdoor storage piles of highly toxic and toxic
+solids
+and
+liquids
+shall be separated into piles not larger than 2,500 cubic feet (71 m3). Aisle widths between piles shall not be less than one-half the height of the pile or 10 feet (3048 mm), whichever is greater.
+
+---
+
+Outdoor storage piles of highly toxic and toxic
+solids
+and
+liquids
+shall be separated into piles not larger than 2,500 cubic feet (71 m3). Aisle widths between piles shall not be less than one-half the height of the pile or 10 feet (3048 mm), whichever is greater.
+
+---
+
+## Section 6003.2.5: Weather Protection—Outdoor Storage or Use
+
+6003.2.5 Weather Protection—Outdoor Storage or Use
+Where overhead weather protection is provided for outdoor storage or use of highly toxic and toxic
+liquids
+or
+solids
+, and the weather protection is attached to a building or structure, the storage or use area shall either be protected throughout by a
+sprinkler system
+, or storage or use
+vessels
+shall be
+fire
+-resistance rated. Weather protection shall be provided in accordance with
+FC5004.13
+for storage and
+FC5005.3.9
+for use.
+
+---
+
+Where overhead weather protection is provided for outdoor storage or use of highly toxic and toxic
+liquids
+or
+solids
+, and the weather protection is attached to a building or structure, the storage or use area shall either be protected throughout by a
+sprinkler system
+, or storage or use
+vessels
+shall be
+fire
+-resistance rated. Weather protection shall be provided in accordance with
+FC5004.13
+for storage and
+FC5005.3.9
+for use.
+
+---
+
+## Section 6003.2.6: Outdoor Liquid Transfer
+
+6003.2.6 Outdoor Liquid Transfer
+Highly toxic and toxic
+liquids
+shall be transferred in accordance with
+FC5005.1.10
+.
+
+---
+
+Highly toxic and toxic
+liquids
+shall be transferred in accordance with
+FC5005.1.10
+.
+
+---
+
+Section 6004 Highly Toxic and Toxic Compressed Gases
+
+---
+
+## Section 6004.1: General
+
+6004.1 General
+The storage,
+handling
+and use of highly toxic and toxic compressed gases shall comply with the requirements of this section.
+
+---
+
+The storage,
+handling
+and use of highly toxic and toxic compressed gases shall comply with the requirements of this section.
+
+---
+
+## Section 6004.1.1: Prohibited Indoor Storage, Handling and Use by Occupancy
+
+6004.1.1 Prohibited Indoor Storage, Handling and Use by Occupancy
+It shall be unlawful to store, handle or use highly toxic and toxic compressed gases in:
+Group A
+, E, I, R or U
+occupancies
+.
+Group B
+office
+occupancies
+, F, M or S
+occupancies
+, or any other areas of such
+occupancies
+that are accessible to the public.
+
+---
+
+It shall be unlawful to store, handle or use highly toxic and toxic compressed gases in:
+Group A
+, E, I, R or U
+occupancies
+.
+Group B
+office
+occupancies
+, F, M or S
+occupancies
+, or any other areas of such
+occupancies
+that are accessible to the public.
+
+---
+
+## Section 6004.1.2: Gas Cabinets
+
+6004.1.2 Gas Cabinets
+Gas cabinets
+containing highly toxic or toxic compressed gases shall comply with the requirements of
+FC5003.8.6
+and shall be ventilated in accordance with the
+Mechanical Code
+.
+
+---
+
+Gas cabinets
+containing highly toxic or toxic compressed gases shall comply with the requirements of
+FC5003.8.6
+and shall be ventilated in accordance with the
+Mechanical Code
+.
+
+---
+
+## Section 6004.1.2.1: Capacity Limits
+
+6004.1.2.1 Capacity Limits
+The maximum number of
+containers
+located in a single
+gas cabinet
+shall not exceed three, except that cabinets containing
+containers
+not over 1 pound (0.454 kg) net contents are allowed to contain up to 100
+containers
+.
+
+---
+
+The maximum number of
+containers
+located in a single
+gas cabinet
+shall not exceed three, except that cabinets containing
+containers
+not over 1 pound (0.454 kg) net contents are allowed to contain up to 100
+containers
+.
+
+---
+
+## Section 6004.1.2.2: Fire Protection
+
+6004.1.2.2 Fire Protection
+Gas cabinets
+required by
+FC 6004.2
+or
+6004.3
+shall be protected by a
+sprinkler system
+. Alternative
+fire extinguishing systems
+shall not be used in lieu of a
+sprinkler system
+.
+
+---
+
+Gas cabinets
+required by
+FC 6004.2
+or
+6004.3
+shall be protected by a
+sprinkler system
+. Alternative
+fire extinguishing systems
+shall not be used in lieu of a
+sprinkler system
+.
+
+---
+
+## Section 6004.1.3: Exhausted Enclosures
+
+6004.1.3 Exhausted Enclosures
+Exhausted enclosures
+containing highly toxic or toxic compressed gases shall be ventilated in accordance with the
+Mechanical Code
+.
+
+---
+
+Exhausted enclosures
+containing highly toxic or toxic compressed gases shall be ventilated in accordance with the
+Mechanical Code
+.
+
+---
+
+## Section 6004.1.3.1: Fire Protection
+
+6004.1.3.1 Fire Protection
+Exhausted enclosures
+required by
+FC 6004.2
+or
+6004.3
+shall be protected by a
+sprinkler system
+. Alternative
+fire extinguishing systems
+shall not be used in lieu of a
+sprinkler system
+.
+
+---
+
+Exhausted enclosures
+required by
+FC 6004.2
+or
+6004.3
+shall be protected by a
+sprinkler system
+. Alternative
+fire extinguishing systems
+shall not be used in lieu of a
+sprinkler system
+.
+
+---
+
+## Section 6004.2: Indoor Storage, Handling and Use
+
+6004.2 Indoor Storage, Handling and Use
+The
+indoor
+storage,
+handling
+and use of highly toxic or toxic compressed gases shall be in accordance with
+FC 6004.2.1
+through
+6004.2.2.10.3
+.
+
+---
+
+The
+indoor
+storage,
+handling
+and use of highly toxic or toxic compressed gases shall be in accordance with
+FC 6004.2.1
+through
+6004.2.2.10.3
+.
+
+---
+
+## Section 6004.2.1: Applicability
+
+6004.2.1 Applicability
+The applicability of regulations governing the
+indoor
+storage,
+handling
+and use of highly toxic and toxic compressed gases shall be as set forth in
+FC 6004.2.1.1
+through
+6004.2.1.3
+.
+
+---
+
+The applicability of regulations governing the
+indoor
+storage,
+handling
+and use of highly toxic and toxic compressed gases shall be as set forth in
+FC 6004.2.1.1
+through
+6004.2.1.3
+.
+
+---
+
+## Section 6004.2.1.1: Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+
+6004.2.1.1 Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+The
+indoor
+storage,
+handling
+or use of highly toxic and toxic gases in amounts not exceeding the
+maximum allowable quantity per control area
+set forth in FC
+Table 5003.1.1(2)
+shall be in accordance with
+FC 5001
+,
+5003
+,
+6001
+and
+6004.1
+.
+
+---
+
+The
+indoor
+storage,
+handling
+or use of highly toxic and toxic gases in amounts not exceeding the
+maximum allowable quantity per control area
+set forth in FC
+Table 5003.1.1(2)
+shall be in accordance with
+FC 5001
+,
+5003
+,
+6001
+and
+6004.1
+.
+
+---
+
+## Section 6004.2.1.2: Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+
+6004.2.1.2 Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+The
+indoor
+storage,
+handling
+or use of highly toxic and toxic gases in amounts exceeding the
+maximum allowable quantity per control area
+set forth in FC
+Table 5003.1.1(2)
+shall be in accordance with
+FC 6001
+,
+6004.1
+,
+6004.2
+and
+FC Chapter 50
+.
+
+---
+
+The
+indoor
+storage,
+handling
+or use of highly toxic and toxic gases in amounts exceeding the
+maximum allowable quantity per control area
+set forth in FC
+Table 5003.1.1(2)
+shall be in accordance with
+FC 6001
+,
+6004.1
+,
+6004.2
+and
+FC Chapter 50
+.
+
+---
+
+## Section 6004.2.1.3: Ozone Gas Generators
+
+6004.2.1.3 Ozone Gas Generators
+The
+indoor
+use of ozone gas-generating equipment shall be in accordance with
+FC6005
+.
+
+---
+
+The
+indoor
+use of ozone gas-generating equipment shall be in accordance with
+FC6005
+.
+
+---
+
+## Section 6004.2.2: General Indoor Requirements
+
+6004.2.2 General Indoor Requirements
+The
+general requirements
+applicable to the
+indoor
+storage,
+handling
+and use of highly toxic and toxic compressed gases shall be in accordance with
+FC 6004.2.2.1
+through
+6004.2.2.10.3
+.
+
+---
+
+The
+general requirements
+applicable to the
+indoor
+storage,
+handling
+and use of highly toxic and toxic compressed gases shall be in accordance with
+FC 6004.2.2.1
+through
+6004.2.2.10.3
+.
+
+---
+
+## Section 6004.2.2.1: Container Location
+
+6004.2.2.1 Container Location
+Portable
+containers
+shall be located within
+gas cabinets
+,
+exhausted enclosures
+or
+gas rooms
+. All other
+containers
+shall be located within
+gas rooms
+or
+exhausted enclosures
+.
+
+---
+
+Portable
+containers
+shall be located within
+gas cabinets
+,
+exhausted enclosures
+or
+gas rooms
+. All other
+containers
+shall be located within
+gas rooms
+or
+exhausted enclosures
+.
+
+---
+
+## Section 6004.2.2.2: Ventilated Areas
+
+6004.2.2.2 Ventilated Areas
+The room or other area in which
+gas cabinets
+or
+exhausted enclosures
+are located shall be provided with exhaust
+ventilation
+.
+Gas cabinets
+or
+exhausted enclosures
+shall not be used as the sole means of exhaust for any room or area.
+
+---
+
+The room or other area in which
+gas cabinets
+or
+exhausted enclosures
+are located shall be provided with exhaust
+ventilation
+.
+Gas cabinets
+or
+exhausted enclosures
+shall not be used as the sole means of exhaust for any room or area.
+
+---
+
+## Section 6004.2.2.3: Leaking Containers
+
+6004.2.2.3 Leaking Containers
+One or more
+gas cabinets
+or
+exhausted enclosures
+shall be available on the
+premises
+to capture the gas from the
+containers
+until such time as the leaking
+container
+can be removed from the
+premises
+and disposed of lawfully.
+Exceptions:
+Where
+containers
+are located within
+gas cabinets
+or
+exhausted enclosures
+.
+Where
+approved
+containment vessels
+or
+containment systems
+are provided in accordance with the following requirements:
+Containment vessels
+or
+containment systems
+shall be capable of fully containing or terminating a release.
+Trained personnel shall be available at an
+approved
+location.
+Containment vessels
+or
+containment systems
+shall be capable of being transported to the leaking
+container
+.
+
+---
+
+One or more
+gas cabinets
+or
+exhausted enclosures
+shall be available on the
+premises
+to capture the gas from the
+containers
+until such time as the leaking
+container
+can be removed from the
+premises
+and disposed of lawfully.
+Exceptions:
+Where
+containers
+are located within
+gas cabinets
+or
+exhausted enclosures
+.
+Where
+approved
+containment vessels
+or
+containment systems
+are provided in accordance with the following requirements:
+Containment vessels
+or
+containment systems
+shall be capable of fully containing or terminating a release.
+Trained personnel shall be available at an
+approved
+location.
+Containment vessels
+or
+containment systems
+shall be capable of being transported to the leaking
+container
+.
+
+---
+
+## Section 6004.2.2.3.1: Location
+
+6004.2.2.3.1 Location
+Gas cabinets
+and
+exhausted enclosures
+shall be located in
+gas rooms
+and connected to an exhaust
+system
+.
+
+---
+
+Gas cabinets
+and
+exhausted enclosures
+shall be located in
+gas rooms
+and connected to an exhaust
+system
+.
+
+---
+
+## Section 6004.2.2.4: Local Exhaust for Portable Containers
+
+6004.2.2.4 Local Exhaust for Portable Containers
+A means of local exhaust shall be provided to capture leaks from portable
+containers
+. The local exhaust shall consist of portable ducts or collection
+systems
+designed to be applied to the site of a leak in a valve or fitting on the
+container
+. The local exhaust
+system
+shall be located in a
+gas room
+. Exhaust shall be directed to a treatment
+system
+in accordance with
+FC6004.2.2.7
+.
+
+---
+
+A means of local exhaust shall be provided to capture leaks from portable
+containers
+. The local exhaust shall consist of portable ducts or collection
+systems
+designed to be applied to the site of a leak in a valve or fitting on the
+container
+. The local exhaust
+system
+shall be located in a
+gas room
+. Exhaust shall be directed to a treatment
+system
+in accordance with
+FC6004.2.2.7
+.
+
+---
+
+## Section 6004.2.2.5: Piping and Controls—Stationary Containers
+
+6004.2.2.5 Piping and Controls—Stationary Containers
+In addition to the requirements of
+FC5003.2.2
+, piping and controls on stationary
+containers
+shall comply with the following requirements:
+Pressure relief devices shall be vented to a treatment
+system
+designed in accordance with
+FC6004.2.2.7
+.
+Exception:
+Pressure relief devices on outdoor
+containers
+provided exclusively for relieving pressure due to
+fire
+exposure are not required to be vented to a treatment
+system
+provided that:
+The material in the
+container
+is not flammable.
+The
+container
+is not located in a diked area with other
+containers
+containing combustible materials.
+The
+container
+is located not less than 30 feet (9144 mm) from combustible materials or structures or is shielded by a
+fire
+barrier complying with the requirements of
+FC6004.3.2.1.1
+.
+Filling or
+dispensing
+connections shall be provided with a means of local exhaust. Such exhaust shall be designed to capture fumes and vapors. The exhaust shall be directed to a treatment
+system
+in accordance with
+FC6004.2.2.7
+.
+Stationary
+containers
+shall be provided with a means of
+excess flow control
+on all
+container
+inlet or outlet connections.
+Exceptions:
+Inlet connections designed to prevent backflow.
+Pressure relief devices.
+
+---
+
+In addition to the requirements of
+FC5003.2.2
+, piping and controls on stationary
+containers
+shall comply with the following requirements:
+Pressure relief devices shall be vented to a treatment
+system
+designed in accordance with
+FC6004.2.2.7
+.
+Exception:
+Pressure relief devices on outdoor
+containers
+provided exclusively for relieving pressure due to
+fire
+exposure are not required to be vented to a treatment
+system
+provided that:
+The material in the
+container
+is not flammable.
+The
+container
+is not located in a diked area with other
+containers
+containing combustible materials.
+The
+container
+is located not less than 30 feet (9144 mm) from combustible materials or structures or is shielded by a
+fire
+barrier complying with the requirements of
+FC6004.3.2.1.1
+.
+Filling or
+dispensing
+connections shall be provided with a means of local exhaust. Such exhaust shall be designed to capture fumes and vapors. The exhaust shall be directed to a treatment
+system
+in accordance with
+FC6004.2.2.7
+.
+Stationary
+containers
+shall be provided with a means of
+excess flow control
+on all
+container
+inlet or outlet connections.
+Exceptions:
+Inlet connections designed to prevent backflow.
+Pressure relief devices.
+
+---
+
+## Section 6004.2.2.6: Gas Rooms
+
+6004.2.2.6 Gas Rooms
+Gas rooms
+shall comply with the requirements of FC2703.8.4 and both of the following requirements:
+The exhaust
+ventilation
+from
+gas rooms
+shall be directed to an exhaust
+system
+.
+Gas rooms
+shall be protected throughout by a
+sprinkler system
+. Alternative
+fire extinguishing systems
+shall not be used in lieu of a
+sprinkler system
+.
+
+---
+
+Gas rooms
+shall comply with the requirements of FC2703.8.4 and both of the following requirements:
+The exhaust
+ventilation
+from
+gas rooms
+shall be directed to an exhaust
+system
+.
+Gas rooms
+shall be protected throughout by a
+sprinkler system
+. Alternative
+fire extinguishing systems
+shall not be used in lieu of a
+sprinkler system
+.
+
+---
+
+## Section 6004.2.2.7: Treatment Systems
+
+6004.2.2.7 Treatment Systems
+The exhaust
+ventilation
+from
+gas cabinets
+,
+exhausted enclosures
+and
+gas rooms
+, and local exhaust
+systems
+required by
+FC 6004.2.2.4
+and
+6004.2.2.5
+shall be directed to a treatment
+system
+. The treatment
+system
+shall be utilized to handle the accidental release of gas and to process exhaust
+ventilation
+. The treatment
+system
+shall be designed in accordance with FC 6004.2.2.7.1 through 6004.2.2.7.5 and
+Chapter 5
+of the
+Mechanical Code
+.
+Exceptions:
+Highly toxic and toxic gases—storage. A treatment
+system
+is not required for
+containers
+in storage when the following controls are provided:
+Valve outlets are equipped with gas-tight outlet plugs or caps.
+Handwheel-operated valves have handles secured to prevent movement.
+Approved
+containment vessels
+or
+containment systems
+are provided in accordance with
+FC6004.2.2.3
+.
+Toxic gases—use. Treatment
+systems
+are not required for toxic gases supplied by portable
+containers
+not exceeding
+1
+,700 pounds (771 kg) water capacity when the following controls are provided:
+A listed or
+approved
+gas detection
+system
+with a sensing interval not exceeding 5 minutes.
+A listed or
+approved
+automatic
+-closing
+fail-safe
+valve located immediately adjacent to
+container
+valves. The
+fail-safe
+valve shall close when gas is detected at the
+permissible exposure limit
+(
+PEL
+) by a gas detection
+system
+monitoring the exhaust
+system
+at the point of discharge from the
+gas cabinet
+,
+exhausted enclosure
+, ventilated enclosure or
+gas room
+. The gas detection shall comply with the requirements of
+FC6004.2.2.10
+.
+
+---
+
+The exhaust
+ventilation
+from
+gas cabinets
+,
+exhausted enclosures
+and
+gas rooms
+, and local exhaust
+systems
+required by
+FC 6004.2.2.4
+and
+6004.2.2.5
+shall be directed to a treatment
+system
+. The treatment
+system
+shall be utilized to handle the accidental release of gas and to process exhaust
+ventilation
+. The treatment
+system
+shall be designed in accordance with FC 6004.2.2.7.1 through 6004.2.2.7.5 and
+Chapter 5
+of the
+Mechanical Code
+.
+Exceptions:
+Highly toxic and toxic gases—storage. A treatment
+system
+is not required for
+containers
+in storage when the following controls are provided:
+Valve outlets are equipped with gas-tight outlet plugs or caps.
+Handwheel-operated valves have handles secured to prevent movement.
+Approved
+containment vessels
+or
+containment systems
+are provided in accordance with
+FC6004.2.2.3
+.
+Toxic gases—use. Treatment
+systems
+are not required for toxic gases supplied by portable
+containers
+not exceeding
+1
+,700 pounds (771 kg) water capacity when the following controls are provided:
+A listed or
+approved
+gas detection
+system
+with a sensing interval not exceeding 5 minutes.
+A listed or
+approved
+automatic
+-closing
+fail-safe
+valve located immediately adjacent to
+container
+valves. The
+fail-safe
+valve shall close when gas is detected at the
+permissible exposure limit
+(
+PEL
+) by a gas detection
+system
+monitoring the exhaust
+system
+at the point of discharge from the
+gas cabinet
+,
+exhausted enclosure
+, ventilated enclosure or
+gas room
+. The gas detection shall comply with the requirements of
+FC6004.2.2.10
+.
+
+---
+
+## Section 6004.2.2.7.1: Design
+
+6004.2.2.7.1 Design
+Treatment
+systems
+shall be capable of diluting, adsorbing, absorbing, containing, neutralizing, burning or otherwise processing the contents of the largest
+compressed gas container
+. Where a total
+containment system
+is used, the
+system
+shall be designed to handle the maximum anticipated pressure of release to the
+system
+when it reaches equilibrium.
+
+---
+
+Treatment
+systems
+shall be capable of diluting, adsorbing, absorbing, containing, neutralizing, burning or otherwise processing the contents of the largest
+compressed gas container
+. Where a total
+containment system
+is used, the
+system
+shall be designed to handle the maximum anticipated pressure of release to the
+system
+when it reaches equilibrium.
+
+---
+
+## Section 6004.2.2.7.2: Performance
+
+6004.2.2.7.2 Performance
+Treatment
+systems
+shall be designed to reduce the maximum allowable discharge concentrations of the gas to one-half immediate dangerous to life and health (IDLH) at the point of discharge to the atmosphere. Where more than one gas is emitted to the treatment
+system
+, the treatment
+system
+shall be designed to handle the worst-case release based on the release rate, the quantity and the IDLH for all compressed gases stored or used.
+
+---
+
+Treatment
+systems
+shall be designed to reduce the maximum allowable discharge concentrations of the gas to one-half immediate dangerous to life and health (IDLH) at the point of discharge to the atmosphere. Where more than one gas is emitted to the treatment
+system
+, the treatment
+system
+shall be designed to handle the worst-case release based on the release rate, the quantity and the IDLH for all compressed gases stored or used.
+
+---
+
+## Section 6004.2.2.7.3: Sizing
+
+6004.2.2.7.3 Sizing
+Treatment
+systems
+shall be sized to process the maximum worst-case release of gas based on the maximum flow rate of release and the entire contents from the largest
+container
+utilized.
+
+---
+
+Treatment
+systems
+shall be sized to process the maximum worst-case release of gas based on the maximum flow rate of release and the entire contents from the largest
+container
+utilized.
+
+---
+
+## Section 6004.2.2.7.4: Stationary Containers
+
+6004.2.2.7.4 Stationary Containers
+Stationary
+containers
+shall be
+labeled
+with the maximum rate of release for the
+compressed gas
+contained based on valves or fittings that are inserted directly into the
+container
+. Where multiple valves or fittings are provided, the maximum flow rate of release for valves or fittings with the highest flow rate shall be indicated. Where
+liquefied compressed gases
+are in contact with valves or fittings, the
+liquid
+flow rate shall be utilized for computation purposes. Flow rates indicated on the label shall be converted to SCF.
+
+---
+
+Stationary
+containers
+shall be
+labeled
+with the maximum rate of release for the
+compressed gas
+contained based on valves or fittings that are inserted directly into the
+container
+. Where multiple valves or fittings are provided, the maximum flow rate of release for valves or fittings with the highest flow rate shall be indicated. Where
+liquefied compressed gases
+are in contact with valves or fittings, the
+liquid
+flow rate shall be utilized for computation purposes. Flow rates indicated on the label shall be converted to SCF.
+
+---
+
+## Section 6004.2.2.7.5: Portable Containers
+
+6004.2.2.7.5 Portable Containers
+The maximum flow rate of release for portable
+containers
+shall be calculated based on the total release from the
+container
+within 5 minutes for
+containers
+with nonliquefied content and 30 minutes for
+containers
+with liquefied content. When portable
+containers
+are equipped with
+approved
+excess flow or
+reduced flow valves
+, the worst-case release shall be determined by the maximum achievable flow from the valve as determined by the valve manufacturer or
+compressed gas
+supplier. Reduced flow and
+excess flow valves
+shall be permanently marked by the valve manufacturer to indicate the maximum design flow rate. Such markings shall indicate the flow rate for air under
+normal temperature and pressure
+.
+
+---
+
+The maximum flow rate of release for portable
+containers
+shall be calculated based on the total release from the
+container
+within 5 minutes for
+containers
+with nonliquefied content and 30 minutes for
+containers
+with liquefied content. When portable
+containers
+are equipped with
+approved
+excess flow or
+reduced flow valves
+, the worst-case release shall be determined by the maximum achievable flow from the valve as determined by the valve manufacturer or
+compressed gas
+supplier. Reduced flow and
+excess flow valves
+shall be permanently marked by the valve manufacturer to indicate the maximum design flow rate. Such markings shall indicate the flow rate for air under
+normal temperature and pressure
+.
+
+---
+
+## Section 6004.2.2.8: Emergency Power
+
+6004.2.2.8 Emergency Power
+Emergency power
+shall be provided in accordance with the
+Electrical Code
+and the
+Building Code
+where any of the following
+systems
+are required:
+Exhaust
+ventilation
+system
+.
+Treatment
+system
+.
+Gas detection
+system
+.
+Smoke detection
+system
+.
+Temperature control
+system
+.
+Fire alarm system
+.
+Emergency alarm system
+.
+Exception:
+Emergency power
+is not required for mechanical exhaust
+ventilation
+, treatment
+systems
+and temperature control
+systems
+where
+approved
+fail-safe
+engineered
+systems
+are installed.
+
+---
+
+Emergency power
+shall be provided in accordance with the
+Electrical Code
+and the
+Building Code
+where any of the following
+systems
+are required:
+Exhaust
+ventilation
+system
+.
+Treatment
+system
+.
+Gas detection
+system
+.
+Smoke detection
+system
+.
+Temperature control
+system
+.
+Fire alarm system
+.
+Emergency alarm system
+.
+Exception:
+Emergency power
+is not required for mechanical exhaust
+ventilation
+, treatment
+systems
+and temperature control
+systems
+where
+approved
+fail-safe
+engineered
+systems
+are installed.
+
+---
+
+## Section 6004.2.2.9: Automatic Fire Detection System—Highly Toxic Compressed Gases
+
+6004.2.2.9 Automatic Fire Detection System—Highly Toxic Compressed Gases
+An
+approved
+automatic
+fire
+detection
+system
+shall be installed in rooms or areas where highly toxic compressed gases are stored or used. Activation of the detection
+system
+shall sound a local alarm. The
+fire
+detection
+system
+shall comply with the requirements of the
+Building Code
+.
+
+---
+
+An
+approved
+automatic
+fire
+detection
+system
+shall be installed in rooms or areas where highly toxic compressed gases are stored or used. Activation of the detection
+system
+shall sound a local alarm. The
+fire
+detection
+system
+shall comply with the requirements of the
+Building Code
+.
+
+---
+
+## Section 6004.2.2.10: Gas Detection System
+
+6004.2.2.10 Gas Detection System
+A gas detection
+system
+shall be provided to detect the presence of gas at or below the
+permissible exposure limit
+(
+PEL
+) or
+ceiling limit
+of the gas for which detection is provided. The
+system
+shall be capable of monitoring the discharge from the treatment
+system
+at or below one-half the IDLH limit.
+Exception:
+A gas detection
+system
+is not required for toxic gases when the physiological warning properties for the gas are at a level below the accepted
+PEL
+for the gas.
+
+---
+
+A gas detection
+system
+shall be provided to detect the presence of gas at or below the
+permissible exposure limit
+(
+PEL
+) or
+ceiling limit
+of the gas for which detection is provided. The
+system
+shall be capable of monitoring the discharge from the treatment
+system
+at or below one-half the IDLH limit.
+Exception:
+A gas detection
+system
+is not required for toxic gases when the physiological warning properties for the gas are at a level below the accepted
+PEL
+for the gas.
+
+---
+
+## Section 6004.2.2.10.1: Alarms
+
+6004.2.2.10.1 Alarms
+The gas detection
+system
+shall initiate a local alarm and transmit a signal to a continuously attended control station on the
+premises
+whenever it detects the presence of the gas in the atmosphere. The alarm shall be both visual and audible and shall provide warning both inside and outside the area where gas is detected.
+Exception:
+Signal transmission to a continuously attended control station is not required where not more than one
+container
+of highly toxic or toxic gas is stored.
+
+---
+
+The gas detection
+system
+shall initiate a local alarm and transmit a signal to a continuously attended control station on the
+premises
+whenever it detects the presence of the gas in the atmosphere. The alarm shall be both visual and audible and shall provide warning both inside and outside the area where gas is detected.
+Exception:
+Signal transmission to a continuously attended control station is not required where not more than one
+container
+of highly toxic or toxic gas is stored.
+
+---
+
+## Section 6004.2.2.10.2: Shutoff of Gas Supply
+
+6004.2.2.10.2 Shutoff of Gas Supply
+The gas-detection
+system
+shall automatically close the shutoff valve at the source on gas supply piping and tubing related to the
+system
+being monitored for whichever gas is detected.
+Exception:
+Automatic
+shutdown is not required for reactors utilized for the production of highly toxic or toxic compressed gases where such reactors are:
+Operated at pressures less than 15 pounds per square inch gauge (psig) (103.4 kPa).
+Continuously attended.
+Provided with readily accessible
+emergency shutoff valves
+.
+
+---
+
+The gas-detection
+system
+shall automatically close the shutoff valve at the source on gas supply piping and tubing related to the
+system
+being monitored for whichever gas is detected.
+Exception:
+Automatic
+shutdown is not required for reactors utilized for the production of highly toxic or toxic compressed gases where such reactors are:
+Operated at pressures less than 15 pounds per square inch gauge (psig) (103.4 kPa).
+Continuously attended.
+Provided with readily accessible
+emergency shutoff valves
+.
+
+---
+
+## Section 6004.2.2.10.3: Valve Closure
+
+6004.2.2.10.3 Valve Closure
+When the gas-detection sampling point initiating the gas-detection
+system
+alarm is at a use location or within a gas valve enclosure of a branch line downstream of a piping distribution manifold, the shutoff valve in the gas valve enclosure for the branch line located in the piping distribution manifold enclosure shall automatically close. Under all other circumstances, shutoff valves shall comply with the following
+automatic
+closure requirements:
+When the gas-detection sampling point initiating the gas detection
+system
+alarm is within a
+gas cabinet
+or
+exhausted enclosure
+, the shutoff valve in the
+gas cabinet
+or
+exhausted enclosure
+for the specific gas detected shall automatically close.
+Where the gas-detection sampling point initiating the gas detection
+system
+alarm is within a
+gas room
+and
+compressed gas containers
+are not in
+gas cabinets
+or
+exhausted enclosures
+, the shutoff valves on all gas lines for the specific gas detected shall automatically close.
+Where the gas-detection sampling point initiating the gas detection
+system
+alarm is within a piping distribution manifold enclosure, the shutoff valve for the
+container
+of specific gas detected supplying the manifold shall automatically close.
+
+---
+
+When the gas-detection sampling point initiating the gas-detection
+system
+alarm is at a use location or within a gas valve enclosure of a branch line downstream of a piping distribution manifold, the shutoff valve in the gas valve enclosure for the branch line located in the piping distribution manifold enclosure shall automatically close. Under all other circumstances, shutoff valves shall comply with the following
+automatic
+closure requirements:
+When the gas-detection sampling point initiating the gas detection
+system
+alarm is within a
+gas cabinet
+or
+exhausted enclosure
+, the shutoff valve in the
+gas cabinet
+or
+exhausted enclosure
+for the specific gas detected shall automatically close.
+Where the gas-detection sampling point initiating the gas detection
+system
+alarm is within a
+gas room
+and
+compressed gas containers
+are not in
+gas cabinets
+or
+exhausted enclosures
+, the shutoff valves on all gas lines for the specific gas detected shall automatically close.
+Where the gas-detection sampling point initiating the gas detection
+system
+alarm is within a piping distribution manifold enclosure, the shutoff valve for the
+container
+of specific gas detected supplying the manifold shall automatically close.
+
+---
+
+## Section 6004.3: Outdoor Storage, Handling and Use
+
+6004.3 Outdoor Storage, Handling and Use
+The outdoor storage,
+handling
+and use of highly toxic and toxic compressed gases shall be in accordance with
+FC 6004.3.1
+through
+6004.3.4
+.
+
+---
+
+The outdoor storage,
+handling
+and use of highly toxic and toxic compressed gases shall be in accordance with
+FC 6004.3.1
+through
+6004.3.4
+.
+
+---
+
+## Section 6004.3.1: Applicability
+
+6004.3.1 Applicability
+The outdoor storage,
+handling
+and use of highly toxic and toxic compressed gases shall be in accordance with
+FC 6004.3.1.1
+through
+6004.3.1.3
+.
+
+---
+
+The outdoor storage,
+handling
+and use of highly toxic and toxic compressed gases shall be in accordance with
+FC 6004.3.1.1
+through
+6004.3.1.3
+.
+
+---
+
+## Section 6004.3.1.1: Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+
+6004.3.1.1 Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+The outdoor storage,
+handling
+or use of highly toxic and toxic gases in amounts not exceeding the
+maximum allowable quantity per control area
+set forth in FC
+Table 5003.1.1(4)
+shall be in accordance with
+FC 5001
+,
+5003
+and
+6001
+.
+
+---
+
+The outdoor storage,
+handling
+or use of highly toxic and toxic gases in amounts not exceeding the
+maximum allowable quantity per control area
+set forth in FC
+Table 5003.1.1(4)
+shall be in accordance with
+FC 5001
+,
+5003
+and
+6001
+.
+
+---
+
+## Section 6004.3.1.2: Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+
+6004.3.1.2 Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+The outdoor storage,
+handling
+or use of highly toxic and toxic gases in amounts exceeding the
+maximum allowable quantity per control area
+set forth in FC
+Table 5003.1.1(4)
+shall be in accordance with
+FC 6001
+and
+6004.3
+and
+FC Chapter 50
+.
+
+---
+
+The outdoor storage,
+handling
+or use of highly toxic and toxic gases in amounts exceeding the
+maximum allowable quantity per control area
+set forth in FC
+Table 5003.1.1(4)
+shall be in accordance with
+FC 6001
+and
+6004.3
+and
+FC Chapter 50
+.
+
+---
+
+## Section 6004.3.1.3: Ozone Gas Generators
+
+6004.3.1.3 Ozone Gas Generators
+The outdoor use of ozone gas-generating equipment shall be in accordance with
+FC6005
+.
+
+---
+
+The outdoor use of ozone gas-generating equipment shall be in accordance with
+FC6005
+.
+
+---
+
+## Section 6004.3.2: General Outdoor Requirements
+
+6004.3.2 General Outdoor Requirements
+The outdoor storage,
+handling
+and use of highly toxic and toxic compressed gases shall be in accordance with
+FC 6004.3.2.1
+through
+6004.3.2.7
+.
+
+---
+
+The outdoor storage,
+handling
+and use of highly toxic and toxic compressed gases shall be in accordance with
+FC 6004.3.2.1
+through
+6004.3.2.7
+.
+
+---
+
+## Section 6004.3.2.1: Location
+
+6004.3.2.1 Location
+Outdoor storage,
+handling
+or use of highly toxic or toxic compressed gases shall be located in accordance with
+FC 6004.3.2.1.1
+through
+6004.3.2.1.3
+.
+Exception:
+Compressed gases located in
+gas cabinets
+complying with the requirements of
+FC 5003.8.6
+and
+6004.1.2
+and located 5 feet (1524 mm) or more from buildings and 25 feet (7620 mm) or more from an
+exit discharge
+.
+
+---
+
+Outdoor storage,
+handling
+or use of highly toxic or toxic compressed gases shall be located in accordance with
+FC 6004.3.2.1.1
+through
+6004.3.2.1.3
+.
+Exception:
+Compressed gases located in
+gas cabinets
+complying with the requirements of
+FC 5003.8.6
+and
+6004.1.2
+and located 5 feet (1524 mm) or more from buildings and 25 feet (7620 mm) or more from an
+exit discharge
+.
+
+---
+
+## Section 6004.3.2.1.1: Distance Limitation to Exposures
+
+6004.3.2.1.1 Distance Limitation to Exposures
+Outdoor storage,
+handling
+or use of highly toxic or toxic compressed gases shall not be located within 75 feet (22 860 mm) of a lot line,
+public street
+,
+private road
+,
+exit discharge
+or building not associated with the manufacture or distribution of such gases, unless all of the following conditions are met:
+Storage is shielded by a 2-hour
+fire
+-resistant barrier which interrupts the line of sight between the storage and the exposure.
+The 2-hour
+fire
+-resistant barrier shall be located at least 5 feet (1524 mm) from any exposure.
+The 2-hour
+fire
+-resistant barrier shall not have more than two sides at approximately 90-degree (1.57 rad) directions, or three sides with connecting angles of approximately 135 degrees (2.36 rad).
+Assembly (1)
+
+---
+
+Outdoor storage,
+handling
+or use of highly toxic or toxic compressed gases shall not be located within 75 feet (22 860 mm) of a lot line,
+public street
+,
+private road
+,
+exit discharge
+or building not associated with the manufacture or distribution of such gases, unless all of the following conditions are met:
+Storage is shielded by a 2-hour
+fire
+-resistant barrier which interrupts the line of sight between the storage and the exposure.
+The 2-hour
+fire
+-resistant barrier shall be located at least 5 feet (1524 mm) from any exposure.
+The 2-hour
+fire
+-resistant barrier shall not have more than two sides at approximately 90-degree (1.57 rad) directions, or three sides with connecting angles of approximately 135 degrees (2.36 rad).
+
+---
+
+## Section 6004.3.2.1.2: Openings in Exposed Buildings
+
+6004.3.2.1.2 Openings in Exposed Buildings
+Where the storage,
+handling
+or use area is located within 75 feet (22 860 mm) of a building not associated with the manufacture or distribution of highly toxic or toxic compressed gases, openings into such building other than for piping are not allowed above the height of the top of the 2-hour
+fire
+-resistant barrier or within 50 feet (15 240 mm) horizontally from the storage area whether or not shielded by a
+fire
+barrier.
+
+---
+
+Where the storage,
+handling
+or use area is located within 75 feet (22 860 mm) of a building not associated with the manufacture or distribution of highly toxic or toxic compressed gases, openings into such building other than for piping are not allowed above the height of the top of the 2-hour
+fire
+-resistant barrier or within 50 feet (15 240 mm) horizontally from the storage area whether or not shielded by a
+fire
+barrier.
+
+---
+
+## Section 6004.3.2.1.3: Air Intakes
+
+6004.3.2.1.3 Air Intakes
+Any area used for storage,
+handling
+or use shall not be located within 75 feet (22 860 mm) of air intakes.
+
+---
+
+Any area used for storage,
+handling
+or use shall not be located within 75 feet (22 860 mm) of air intakes.
+
+---
+
+## Section 6004.3.2.2: Leaking Containers
+
+6004.3.2.2 Leaking Containers
+The requirements of
+FC6004.2.2.3
+shall apply to outdoor
+containers
+.
+Gas cabinets
+and
+exhausted enclosures
+shall be located within or immediately adjacent to outdoor storage,
+handling
+or use areas.
+
+---
+
+The requirements of
+FC6004.2.2.3
+shall apply to outdoor
+containers
+.
+Gas cabinets
+and
+exhausted enclosures
+shall be located within or immediately adjacent to outdoor storage,
+handling
+or use areas.
+
+---
+
+## Section 6004.3.2.3: Local Exhaust for Portable Containers
+
+6004.3.2.3 Local Exhaust for Portable Containers
+Local exhaust for outdoor portable
+containers
+shall be provided in accordance with
+FC6004.2.2.4
+.
+
+---
+
+Local exhaust for outdoor portable
+containers
+shall be provided in accordance with
+FC6004.2.2.4
+.
+
+---
+
+## Section 6004.3.2.4: Piping and Controls—Stationary Containers
+
+6004.3.2.4 Piping and Controls—Stationary Containers
+Piping and controls for outdoor stationary
+containers
+shall be in accordance with
+FC6004.2.2.5
+.
+
+---
+
+Piping and controls for outdoor stationary
+containers
+shall be in accordance with
+FC6004.2.2.5
+.
+
+---
+
+## Section 6004.3.2.5: Treatment Systems
+
+6004.3.2.5 Treatment Systems
+The treatment
+system
+requirements set forth in
+FC6004.2.2.7
+shall apply to highly toxic or toxic gases located outdoors.
+
+---
+
+The treatment
+system
+requirements set forth in
+FC6004.2.2.7
+shall apply to highly toxic or toxic gases located outdoors.
+
+---
+
+## Section 6004.3.2.6: Emergency Power
+
+6004.3.2.6 Emergency Power
+The requirements for
+emergency power
+set forth in
+FC6004.2.2.8
+shall apply to highly toxic or toxic gases located outdoors.
+
+---
+
+The requirements for
+emergency power
+set forth in
+FC6004.2.2.8
+shall apply to highly toxic or toxic gases located outdoors.
+
+---
+
+## Section 6004.3.2.7: Gas Detection System
+
+6004.3.2.7 Gas Detection System
+The gas detection
+system
+requirements set forth in
+FC6004.2.2.10
+shall apply to highly toxic or toxic gases located outdoors.
+
+---
+
+The gas detection
+system
+requirements set forth in
+FC6004.2.2.10
+shall apply to highly toxic or toxic gases located outdoors.
+
+---
+
+## Section 6004.3.3: Outdoor Storage Weather Protection for Portable Containers
+
+6004.3.3 Outdoor Storage Weather Protection for Portable Containers
+Weather protection in accordance with
+FC5004.13
+shall be provided for portable
+containers
+located outdoors and not within
+gas cabinets
+or
+exhausted enclosures
+. The storage area shall be protected throughout by a
+sprinkler system
+.
+Exception:
+A
+sprinkler system
+is not required when:
+all materials under the weather protection structure, including
+hazardous materials
+and the
+containers
+in which they are stored, are noncombustible.
+the weather protection structure is located not less than 30 feet (9144 mm) from combustible materials or structures or is separated from such materials or structures using a
+fire
+barrier complying with the requirements of
+FC6004.3.2.1.1
+.
+
+---
+
+Weather protection in accordance with
+FC5004.13
+shall be provided for portable
+containers
+located outdoors and not within
+gas cabinets
+or
+exhausted enclosures
+. The storage area shall be protected throughout by a
+sprinkler system
+.
+Exception:
+A
+sprinkler system
+is not required when:
+all materials under the weather protection structure, including
+hazardous materials
+and the
+containers
+in which they are stored, are noncombustible.
+the weather protection structure is located not less than 30 feet (9144 mm) from combustible materials or structures or is separated from such materials or structures using a
+fire
+barrier complying with the requirements of
+FC6004.3.2.1.1
+.
+
+---
+
+## Section 6004.3.4: Outdoor Use of Portable Containers
+
+6004.3.4 Outdoor Use of Portable Containers
+Portable
+containers
+in outdoor use shall be located in
+gas cabinets
+or
+exhausted enclosures
+.
+
+---
+
+Portable
+containers
+in outdoor use shall be located in
+gas cabinets
+or
+exhausted enclosures
+.
+
+---
+
+Section 6005 Ozone Gas Generators
+
+---
+
+## Section 6005.1: Scope
+
+6005.1 Scope
+This section shall govern the design, installation, operation and
+maintenance
+of
+ozone gas generators
+with a maximum ozone-generating capacity of
+1
+/
+2
+pound (0.23 kg) or more over a 24-hour period.
+Exceptions:
+Ozone-generating equipment used in
+Group R
+-3
+occupancies
+.
+Ozone-generating equipment used in
+Group H
+-5
+occupancies
+in compliance with FC Chapters
+27
+and
+50
+and the provisions of
+FC Chapter 60
+governing highly toxic gases.
+
+---
+
+This section shall govern the design, installation, operation and
+maintenance
+of
+ozone gas generators
+with a maximum ozone-generating capacity of
+1
+/
+2
+pound (0.23 kg) or more over a 24-hour period.
+Exceptions:
+Ozone-generating equipment used in
+Group R
+-3
+occupancies
+.
+Ozone-generating equipment used in
+Group H
+-5
+occupancies
+in compliance with FC Chapters
+27
+and
+50
+and the provisions of
+FC Chapter 60
+governing highly toxic gases.
+
+---
+
+## Section 6005.2: Design
+
+6005.2 Design
+Ozone gas generators
+shall be designed, manufactured and tested in accordance with NEMA 250.
+
+---
+
+Ozone gas generators
+shall be designed, manufactured and tested in accordance with NEMA 250.
+
+---
+
+## Section 6005.3: Location
+
+6005.3 Location
+Ozone gas generators
+shall be located in
+approved
+cabinets or ozone generator rooms in accordance with
+FC 6005.3.1
+or
+6005.3.2
+.
+
+---
+
+Ozone gas generators
+shall be located in
+approved
+cabinets or ozone generator rooms in accordance with
+FC 6005.3.1
+or
+6005.3.2
+.
+
+---
+
+## Section 6005.3.1: Cabinets
+
+6005.3.1 Cabinets
+Ozone cabinets shall be constructed of
+approved
+materials and compatible with ozone. Cabinets shall display an
+approved
+sign that reads:
+OZONE GAS GENERATOR
+—HIGHLY TOXIC—
+OXIDIZER
+.
+
+---
+
+Ozone cabinets shall be constructed of
+approved
+materials and compatible with ozone. Cabinets shall display an
+approved
+sign that reads:
+OZONE GAS GENERATOR
+—HIGHLY TOXIC—
+OXIDIZER
+.
+
+---
+
+## Section 6005.3.1.1: Seismic Design
+
+6005.3.1.1 Seismic Design
+Cabinets shall be braced for seismic activity in accordance with the
+Building Code
+.
+
+---
+
+Cabinets shall be braced for seismic activity in accordance with the
+Building Code
+.
+
+---
+
+## Section 6005.3.1.2: Ventilation
+
+6005.3.1.2 Ventilation
+Cabinets shall be mechanically ventilated in accordance with the
+Mechanical Code
+.
+
+---
+
+Cabinets shall be mechanically ventilated in accordance with the
+Mechanical Code
+.
+
+---
+
+## Section 6005.3.2: Ozone Gas Generator Rooms
+
+6005.3.2 Ozone Gas Generator Rooms
+Ozone gas-generator rooms shall be mechanically ventilated in accordance with the
+Mechanical Code
+.
+Ozone gas generator
+rooms shall be equipped with a
+continuous gas detection system
+which will shut off the generator and sound a local audible and visible alarm when concentrations above the
+permissible exposure limit
+occur.
+
+---
+
+Ozone gas-generator rooms shall be mechanically ventilated in accordance with the
+Mechanical Code
+.
+Ozone gas generator
+rooms shall be equipped with a
+continuous gas detection system
+which will shut off the generator and sound a local audible and visible alarm when concentrations above the
+permissible exposure limit
+occur.
+
+---
+
+## Section 6005.3.2.1: Signage
+
+6005.3.2.1 Signage
+Ozone gas-generator rooms shall not be normally occupied, and such rooms shall be kept free of combustible and hazardous material storage. An
+approved
+sign that reads, "
+OZONE GAS GENERATOR
+—HIGHLY TOXIC—
+OXIDIZER
+," shall be posted on or near each entrance door to an ozone gas-generator room.
+
+---
+
+Ozone gas-generator rooms shall not be normally occupied, and such rooms shall be kept free of combustible and hazardous material storage. An
+approved
+sign that reads, "
+OZONE GAS GENERATOR
+—HIGHLY TOXIC—
+OXIDIZER
+," shall be posted on or near each entrance door to an ozone gas-generator room.
+
+---
+
+## Section 6005.4: Piping, Valves and Fittings
+
+6005.4 Piping, Valves and Fittings
+Piping, valves, fittings and related components used to convey ozone shall be in accordance with
+FC 6005.4.1
+through
+6005.4.3
+.
+
+---
+
+Piping, valves, fittings and related components used to convey ozone shall be in accordance with
+FC 6005.4.1
+through
+6005.4.3
+.
+
+---
+
+## Section 6005.4.1: Piping
+
+6005.4.1 Piping
+Only welded stainless
+steel
+piping or tubing shall be used.
+Exceptions:
+Double-walled piping.
+Piping, valves, fittings and related components located in
+exhausted enclosures
+.
+
+---
+
+Only welded stainless
+steel
+piping or tubing shall be used.
+Exceptions:
+Double-walled piping.
+Piping, valves, fittings and related components located in
+exhausted enclosures
+.
+
+---
+
+## Section 6005.4.2: Materials
+
+6005.4.2 Materials
+Materials shall be compatible with ozone and shall be rated for the design
+operating pressures
+.
+
+---
+
+Materials shall be compatible with ozone and shall be rated for the design
+operating pressures
+.
+
+---
+
+## Section 6005.4.3: Signage or Marking
+
+6005.4.3 Signage or Marking
+Piping shall be marked, or identified by a durable sign posted on or near the piping that reads, as follows: "OZONE GAS—HIGHLY TOXIC—
+OXIDIZER
+."
+
+---
+
+Piping shall be marked, or identified by a durable sign posted on or near the piping that reads, as follows: "OZONE GAS—HIGHLY TOXIC—
+OXIDIZER
+."
+
+---
+
+## Section 6005.5: Automatic Shutdown
+
+6005.5 Automatic Shutdown
+Ozone gas generators
+shall be designed to shut down automatically under the following conditions:
+When the dissolved ozone concentration in the water being treated is above saturation when measured at the point where the water is exposed to the atmosphere.
+When the process using generated ozone is shut down.
+When the gas detection
+system
+detects ozone.
+Failure of the
+ventilation
+system
+for the cabinet or ozone-generator room.
+Failure of the gas-detection
+system
+.
+
+---
+
+Ozone gas generators
+shall be designed to shut down automatically under the following conditions:
+When the dissolved ozone concentration in the water being treated is above saturation when measured at the point where the water is exposed to the atmosphere.
+When the process using generated ozone is shut down.
+When the gas detection
+system
+detects ozone.
+Failure of the
+ventilation
+system
+for the cabinet or ozone-generator room.
+Failure of the gas-detection
+system
+.
+
+---
+
+## Section 6005.6: Manual Shutdown
+
+6005.6 Manual Shutdown
+Manual shutdown controls shall be provided at the
+ozone gas generator
+and, when the generator is in a room, within 10 feet (3048 mm) of the main
+exit
+or
+exit access
+door.
+
+---
+
+Manual shutdown controls shall be provided at the
+ozone gas generator
+and, when the generator is in a room, within 10 feet (3048 mm) of the main
+exit
+or
+exit access
+door.
+
+---
+

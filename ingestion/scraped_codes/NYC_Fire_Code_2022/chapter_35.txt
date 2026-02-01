@@ -1,0 +1,2398 @@
+# NYC Fire Code 2022 - Chapter 35
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+3501 General
+
+---
+
+3502 Definitions
+
+---
+
+3503 General Requirements
+
+---
+
+3504 Fire Safety Requirements
+
+---
+
+3505 Gas Welding and Cutting
+
+---
+
+3506 Electric Arc Hot Work
+
+---
+
+3507 Reserved
+
+---
+
+3508 Reserved
+
+---
+
+3509 Piping Manifolds and Hose Systems for Fuel Gases and Oxygen
+
+---
+
+3510 Hot Work on Flammable and Combustible Liquid Storage Tanks
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Section 3501 General
+
+---
+
+## Section 3501.1: Scope
+
+3501.1 Scope
+This chapter shall govern welding, cutting and other torch and
+hot work
+operations and equipment.
+
+---
+
+This chapter shall govern welding, cutting and other torch and
+hot work
+operations and equipment.
+
+---
+
+## Section 3501.2: Permits
+
+3501.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 3501.3: Approved Locations
+
+3501.3 Approved Locations
+Hot work
+shall be conducted only in the areas set forth in this section or
+approved
+by the
+commissioner
+.
+
+---
+
+Hot work
+shall be conducted only in the areas set forth in this section or
+approved
+by the
+commissioner
+.
+
+---
+
+## Section 3501.3.1: Authorized Areas
+
+3501.3.1 Authorized Areas
+Hot work
+may be conducted in the following areas:
+Areas designed for
+hot work
+operations.
+Areas authorized for that purpose by the
+responsible person
+at the
+premises
+when precautions have been taken in compliance with the requirements of this chapter.
+
+---
+
+Hot work
+may be conducted in the following areas:
+Areas designed for
+hot work
+operations.
+Areas authorized for that purpose by the
+responsible person
+at the
+premises
+when precautions have been taken in compliance with the requirements of this chapter.
+
+---
+
+## Section 3501.3.2: Restricted Areas
+
+3501.3.2 Restricted Areas
+Hot work
+shall not be conducted in the following areas unless approval has been obtained from the
+commissioner
+:
+Areas where the
+sprinkler system
+is impaired.
+Areas where there exists the potential of an
+explosive
+atmosphere, such as locations where flammable gases,
+liquids
+or vapors are present.
+Areas with readily ignitable materials, such as storage of large quantities of bulk sulfur, baled paper, cotton, lint, dust or loose combustible materials.
+On board marine
+vessels
+or watercraft at dock under construction or repair.
+
+---
+
+Hot work
+shall not be conducted in the following areas unless approval has been obtained from the
+commissioner
+:
+Areas where the
+sprinkler system
+is impaired.
+Areas where there exists the potential of an
+explosive
+atmosphere, such as locations where flammable gases,
+liquids
+or vapors are present.
+Areas with readily ignitable materials, such as storage of large quantities of bulk sulfur, baled paper, cotton, lint, dust or loose combustible materials.
+On board marine
+vessels
+or watercraft at dock under construction or repair.
+
+---
+
+## Section 3501.4: Containers
+
+3501.4 Containers
+Compressed gas containers
+shall be designed, installed, operated and maintained in accordance with this chapter and
+FC Chapter 53
+.
+
+---
+
+Compressed gas containers
+shall be designed, installed, operated and maintained in accordance with this chapter and
+FC Chapter 53
+.
+
+---
+
+## Section 3501.5: Design and Installation of Oxygen-Fuel Gas Systems
+
+3501.5 Design and Installation of Oxygen-Fuel Gas Systems
+An oxygen-fuel gas
+system
+shall be designed and installed in accordance with NFPA 51.
+
+---
+
+An oxygen-fuel gas
+system
+shall be designed and installed in accordance with NFPA 51.
+
+---
+
+## Section 3501.5.1: Oxygen at Construction Sites
+
+3501.5.1 Oxygen at Construction Sites
+The storage and use of oxygen at a
+construction site
+shall additionally comply with the requirements of
+FC Chapter 33
+.
+
+---
+
+The storage and use of oxygen at a
+construction site
+shall additionally comply with the requirements of
+FC Chapter 33
+.
+
+---
+
+## Section 3501.6: Torches
+
+3501.6 Torches
+Torches and tips that utilize a
+flammable gas
+for
+hot work
+operations shall be listed.
+
+---
+
+Torches and tips that utilize a
+flammable gas
+for
+hot work
+operations shall be listed.
+
+---
+
+## Section 3501.7: Certificate of Approval
+
+3501.7 Certificate of Approval
+Devices used to increase the pressure of
+piped natural gas
+in accordance with
+FC3509.8
+shall be of a type for which a
+certificate of approval
+has been issued.
+
+---
+
+Devices used to increase the pressure of
+piped natural gas
+in accordance with
+FC3509.8
+shall be of a type for which a
+certificate of approval
+has been issued.
+
+---
+
+Section 3502 Definitions
+
+---
+
+## Section 3502.1: Definitions
+
+3502.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+COMBUSTIBLE GAS DETECTOR
+.
+HOT TAPPING
+.
+HOT WORK
+.
+HOT WORK AREA
+.
+HOT WORK EQUIPMENT
+.
+HOT WORK PROGRAM
+.
+HOT WORK PROGRAM AUTHORIZATIONS
+.
+RESPONSIBLE PERSON
+.
+TORCH-APPLIED ROOF SYSTEM
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+COMBUSTIBLE GAS DETECTOR
+.
+HOT TAPPING
+.
+HOT WORK
+.
+HOT WORK AREA
+.
+HOT WORK EQUIPMENT
+.
+HOT WORK PROGRAM
+.
+HOT WORK PROGRAM AUTHORIZATIONS
+.
+RESPONSIBLE PERSON
+.
+TORCH-APPLIED ROOF SYSTEM
+.
+
+---
+
+Section 3503 General Requirements
+
+---
+
+## Section 3503.1: General
+
+3503.1 General
+Hot work
+operations, including temporary and fixed
+hot work areas
+, shall be conducted in accordance with this chapter.
+
+---
+
+Hot work
+operations, including temporary and fixed
+hot work areas
+, shall be conducted in accordance with this chapter.
+
+---
+
+## Section 3503.1.1: Torch Operations Using LPG
+
+3503.1.1 Torch Operations Using LPG
+The use of
+LPG
+for torch operations shall additionally comply with the requirements of
+FC Chapter 61
+.
+
+---
+
+The use of
+LPG
+for torch operations shall additionally comply with the requirements of
+FC Chapter 61
+.
+
+---
+
+## Section 3503.1.2: Torch Operations Using CNG
+
+3503.1.2 Torch Operations Using CNG
+The use of CNG for torch operations shall additionally comply with the requirements of
+FC Chapter 58
+.
+
+---
+
+The use of CNG for torch operations shall additionally comply with the requirements of
+FC Chapter 58
+.
+
+---
+
+## Section 3503.2: Hot Work Program
+
+3503.2 Hot Work Program
+Whenever
+hot work
+is performed in any building or structure, on a building roof or on a building setback, the
+owner
+shall ensure that such work is performed in accordance with this chapter and shall designate a
+responsible person
+to ensure compliance.
+
+---
+
+Whenever
+hot work
+is performed in any building or structure, on a building roof or on a building setback, the
+owner
+shall ensure that such work is performed in accordance with this chapter and shall designate a
+responsible person
+to ensure compliance.
+
+---
+
+## Section 3503.2.1: Hot Work Program Responsible Person
+
+3503.2.1 Hot Work Program Responsible Person
+The
+responsible person
+shall ensure that a
+permit
+has been obtained from the
+department
+when one is required, and ensure that the
+hot work
+is performed in compliance with the terms and conditions of the
+permit
+. The
+responsible person
+shall inspect the
+hot work
+site prior to issuing a
+hot work program
+authorization and periodically monitor the work as it is being performed to ensure there are no
+fire
+safety hazards.
+
+---
+
+The
+responsible person
+shall ensure that a
+permit
+has been obtained from the
+department
+when one is required, and ensure that the
+hot work
+is performed in compliance with the terms and conditions of the
+permit
+. The
+responsible person
+shall inspect the
+hot work
+site prior to issuing a
+hot work program
+authorization and periodically monitor the work as it is being performed to ensure there are no
+fire
+safety hazards.
+
+---
+
+## Section 3503.2.2: Responsible Person Supervision
+
+3503.2.2 Responsible Person Supervision
+Hot work
+operations shall be conducted under the
+general supervision
+of the
+responsible person
+.
+
+---
+
+Hot work
+operations shall be conducted under the
+general supervision
+of the
+responsible person
+.
+
+---
+
+## Section 3503.3: Hot Work Program Authorization
+
+3503.3 Hot Work Program Authorization
+A
+hot work program
+authorization bearing the signature of the
+responsible person
+shall be obtained for any project conducted on a
+premises
+involving
+hot work
+operations by the person in charge of such
+hot work
+operations.
+Hot work
+authorizations, issued by the
+responsible person
+, shall be available for inspection by any representative of the
+department
+during the performance of the work and for 48 hours after the work is complete.
+
+---
+
+A
+hot work program
+authorization bearing the signature of the
+responsible person
+shall be obtained for any project conducted on a
+premises
+involving
+hot work
+operations by the person in charge of such
+hot work
+operations.
+Hot work
+authorizations, issued by the
+responsible person
+, shall be available for inspection by any representative of the
+department
+during the performance of the work and for 48 hours after the work is complete.
+
+---
+
+## Section 3503.4: Qualifications of Operators
+
+3503.4 Qualifications of Operators
+An authorization for
+hot work
+operations shall not be issued unless the individuals conducting such operations are capable of performing such operations safely. Demonstration of a working knowledge of the provisions of this chapter shall constitute acceptable evidence of compliance with this requirement.
+
+---
+
+An authorization for
+hot work
+operations shall not be issued unless the individuals conducting such operations are capable of performing such operations safely. Demonstration of a working knowledge of the provisions of this chapter shall constitute acceptable evidence of compliance with this requirement.
+
+---
+
+## Section 3503.4.1: Torch Operations
+
+3503.4.1 Torch Operations
+Any torch operation, including torch operations using a
+flammable gas
+, with or without oxygen, and any torch operation for torch-applied roofing
+systems
+, shall be personally conducted by a
+certificate of fitness
+holder.
+Exceptions:
+Torch operations using oxygen and
+piped natural gas
+for manufacturing jewelry or in a dental laboratory may be conducted under the
+personal supervision
+of a
+certificate of fitness
+holder, who shall be responsible to regulate the pressure and flow of oxygen and
+natural gas
+to each torch.
+Torch operation fueled by a LPG
+container
+with a capacity of 16.4 ounces (0.465 kg) or less, except at a
+construction site
+.
+Arc welding authorized by the
+Department of Buildings
+.
+
+---
+
+Any torch operation, including torch operations using a
+flammable gas
+, with or without oxygen, and any torch operation for torch-applied roofing
+systems
+, shall be personally conducted by a
+certificate of fitness
+holder.
+Exceptions:
+Torch operations using oxygen and
+piped natural gas
+for manufacturing jewelry or in a dental laboratory may be conducted under the
+personal supervision
+of a
+certificate of fitness
+holder, who shall be responsible to regulate the pressure and flow of oxygen and
+natural gas
+to each torch.
+Torch operation fueled by a LPG
+container
+with a capacity of 16.4 ounces (0.465 kg) or less, except at a
+construction site
+.
+Arc welding authorized by the
+Department of Buildings
+.
+
+---
+
+## Section 3503.4.2: Use of Portable Fire Extinguishers
+
+3503.4.2 Use of Portable Fire Extinguishers
+All persons conducting
+hot work
+operations shall be trained in the use of portable
+fire
+extinguishers, and shall be capable of extinguishing
+fires
+when they are limited in size and spread such that they can readily be extinguished using a portable
+fire
+extinguisher.
+
+---
+
+All persons conducting
+hot work
+operations shall be trained in the use of portable
+fire
+extinguishers, and shall be capable of extinguishing
+fires
+when they are limited in size and spread such that they can readily be extinguished using a portable
+fire
+extinguisher.
+
+---
+
+## Section 3503.5: Records
+
+3503.5 Records
+The
+responsible person
+for the
+hot work area
+shall maintain "pre-
+hot work
+check" reports in accordance with
+FC3504.3.1
+.
+
+---
+
+The
+responsible person
+for the
+hot work area
+shall maintain "pre-
+hot work
+check" reports in accordance with
+FC3504.3.1
+.
+
+---
+
+## Section 3503.6: Signage
+
+3503.6 Signage
+Visible hazard identification signs shall be provided where required by
+FC Chapter 50
+. Where the
+hot work area
+is accessible to persons other than the operator of the
+hot work equipment
+, signs shall be posted in a conspicuous location to warn others before they enter the
+hot work area
+. Such signs shall read as follows:
+CAUTION
+HOT WORK
+IN PROGRESS
+STAY CLEAR.
+
+---
+
+Visible hazard identification signs shall be provided where required by
+FC Chapter 50
+. Where the
+hot work area
+is accessible to persons other than the operator of the
+hot work equipment
+, signs shall be posted in a conspicuous location to warn others before they enter the
+hot work area
+. Such signs shall read as follows:
+CAUTION
+HOT WORK
+IN PROGRESS
+STAY CLEAR.
+
+---
+
+Section 3504 Fire Safety Requirements
+
+---
+
+## Section 3504.1: Protection of Combustibles
+
+3504.1 Protection of Combustibles
+Combustible material and
+combustible waste
+shall be protected during
+hot work
+operations in accordance with
+FC 3504.1.1
+through
+3504.1.9
+.
+
+---
+
+Combustible material and
+combustible waste
+shall be protected during
+hot work
+operations in accordance with
+FC 3504.1.1
+through
+3504.1.9
+.
+
+---
+
+## Section 3504.1.1: Separation From Combustibles
+
+3504.1.1 Separation From Combustibles
+Hot work
+operations involving cutting or welding shall be conducted at least 35 feet (10 668 mm) from combustible materials and
+combustible waste
+or shall be provided with appropriate shielding to prevent sparks, slag or heat from igniting exposed combustibles. All other
+hot work
+operations shall be conducted at least 25 feet (7620 mm) from combustible materials and
+combustible waste
+or shall be provided with appropriate shielding to prevent sparks, slag or heat from igniting exposed combustibles.
+
+---
+
+Hot work
+operations involving cutting or welding shall be conducted at least 35 feet (10 668 mm) from combustible materials and
+combustible waste
+or shall be provided with appropriate shielding to prevent sparks, slag or heat from igniting exposed combustibles. All other
+hot work
+operations shall be conducted at least 25 feet (7620 mm) from combustible materials and
+combustible waste
+or shall be provided with appropriate shielding to prevent sparks, slag or heat from igniting exposed combustibles.
+
+---
+
+## Section 3504.1.2: Openings
+
+3504.1.2 Openings
+Openings or cracks in walls, floors, ducts or shafts within 35 feet (10 668 mm) of the
+hot work area
+shall be tightly covered to prevent the passage of sparks to adjacent combustible areas, or shielded by metal
+fire
+-resistant guards, or provided with curtains to prevent passage of sparks or slag.
+
+---
+
+Openings or cracks in walls, floors, ducts or shafts within 35 feet (10 668 mm) of the
+hot work area
+shall be tightly covered to prevent the passage of sparks to adjacent combustible areas, or shielded by metal
+fire
+-resistant guards, or provided with curtains to prevent passage of sparks or slag.
+
+---
+
+## Section 3504.1.3: Housekeeping
+
+3504.1.3 Housekeeping
+Combustible waste
+shall not be allowed to accumulate on floors and other surfaces within the
+hot work area
+.
+Hot work areas
+shall be regularly cleaned and
+combustible waste
+removed and disposed of lawfully.
+
+---
+
+Combustible waste
+shall not be allowed to accumulate on floors and other surfaces within the
+hot work area
+.
+Hot work areas
+shall be regularly cleaned and
+combustible waste
+removed and disposed of lawfully.
+
+---
+
+## Section 3504.1.4: Conveyor Systems
+
+3504.1.4 Conveyor Systems
+Conveyor
+systems
+that are capable of carrying sparks to distant combustibles shall be shielded or shut down.
+
+---
+
+Conveyor
+systems
+that are capable of carrying sparks to distant combustibles shall be shielded or shut down.
+
+---
+
+## Section 3504.1.5: Partitions
+
+3504.1.5 Partitions
+Partitions segregating
+hot work areas
+from other areas of the building shall be of noncombustible construction. In fixed
+hot work areas
+, the partitions shall be securely connected to the floor such that no gap exists between the floor and the partition. Partitions shall prevent the passage of sparks, slag, and heat from the
+hot work area
+.
+
+---
+
+Partitions segregating
+hot work areas
+from other areas of the building shall be of noncombustible construction. In fixed
+hot work areas
+, the partitions shall be securely connected to the floor such that no gap exists between the floor and the partition. Partitions shall prevent the passage of sparks, slag, and heat from the
+hot work area
+.
+
+---
+
+## Section 3504.1.5.1: Motor-Fuel Dispensing Facilities
+
+3504.1.5.1 Motor-Fuel Dispensing Facilities
+The use of a torch within a
+repair garage
+located on a property upon which a motor-fuel
+dispensing
+facility
+is situated shall be conducted within a
+fire
+-rated enclosure. All doors of such enclosure shall be fireproof and self-closing.
+
+---
+
+The use of a torch within a
+repair garage
+located on a property upon which a motor-fuel
+dispensing
+facility
+is situated shall be conducted within a
+fire
+-rated enclosure. All doors of such enclosure shall be fireproof and self-closing.
+
+---
+
+## Section 3504.1.5.2: Repair Garages
+
+3504.1.5.2 Repair Garages
+In a
+repair garage
+with a capacity for more than one vehicle,
+hot work
+shall be conducted within a
+fire
+-rated enclosure in compliance with
+FC3504.1.5.1
+or behind a noncombustible screen that is positioned and of sufficient size to prevent the passage of sparks, slag and heat from the
+hot work area
+.
+
+---
+
+In a
+repair garage
+with a capacity for more than one vehicle,
+hot work
+shall be conducted within a
+fire
+-rated enclosure in compliance with
+FC3504.1.5.1
+or behind a noncombustible screen that is positioned and of sufficient size to prevent the passage of sparks, slag and heat from the
+hot work area
+.
+
+---
+
+## Section 3504.1.6: Floors
+
+3504.1.6 Floors
+Areas designed for
+hot work
+operations shall have floors with noncombustible surfaces.
+
+---
+
+Areas designed for
+hot work
+operations shall have floors with noncombustible surfaces.
+
+---
+
+## Section 3504.1.7: Precautions in Hot Work
+
+3504.1.7 Precautions in Hot Work
+Except as otherwise provided in
+FC3510.4
+,
+hot work
+shall not be performed on a
+container
+or equipment that contains or has contained a flammable
+solid, flammable
+or
+combustible liquid
+or
+flammable gas
+until the
+container
+or equipment has been thoroughly cleaned, inerted or purged.
+Hot work
+on flammable and
+combustible liquid
+storage
+tanks
+shall be conducted in accordance with
+FC3510
+.
+Hot work
+involving any
+flammable solid
+in any form shall be conducted only with the approval of the
+department
+.
+
+---
+
+Except as otherwise provided in
+FC3510.4
+,
+hot work
+shall not be performed on a
+container
+or equipment that contains or has contained a flammable
+solid, flammable
+or
+combustible liquid
+or
+flammable gas
+until the
+container
+or equipment has been thoroughly cleaned, inerted or purged.
+Hot work
+on flammable and
+combustible liquid
+storage
+tanks
+shall be conducted in accordance with
+FC3510
+.
+Hot work
+involving any
+flammable solid
+in any form shall be conducted only with the approval of the
+department
+.
+
+---
+
+## Section 3504.1.8: Sprinkler Protection
+
+3504.1.8 Sprinkler Protection
+Sprinkler system
+protection shall not be shut off or impaired while
+hot work
+is performed unless
+approved
+by the
+commissioner
+. Where
+hot work
+is performed close to sprinklers, noncombustible barriers or damp cloth guards shall shield the individual sprinkler heads and shall be removed when the work is completed. If the work extends over several days, the shields shall be removed at the end of each workday.
+
+---
+
+Sprinkler system
+protection shall not be shut off or impaired while
+hot work
+is performed unless
+approved
+by the
+commissioner
+. Where
+hot work
+is performed close to sprinklers, noncombustible barriers or damp cloth guards shall shield the individual sprinkler heads and shall be removed when the work is completed. If the work extends over several days, the shields shall be removed at the end of each workday.
+
+---
+
+## Section 3504.1.9: Fire Detection Systems
+
+3504.1.9 Fire Detection Systems
+Approved
+precautionary measures shall be taken to avoid accidental operation of
+automatic
+fire
+detection
+systems
+.
+
+---
+
+Approved
+precautionary measures shall be taken to avoid accidental operation of
+automatic
+fire
+detection
+systems
+.
+
+---
+
+## Section 3504.2: Fire Watch
+
+3504.2 Fire Watch
+A
+fire watch
+shall be maintained and
+fire guards
+provided in accordance with
+FC 3504.2.1
+through
+3504.2.7.1
+.
+
+---
+
+A
+fire watch
+shall be maintained and
+fire guards
+provided in accordance with
+FC 3504.2.1
+through
+3504.2.7.1
+.
+
+---
+
+## Section 3504.2.1: When Required
+
+3504.2.1 When Required
+A
+fire watch
+shall be maintained during
+hot work
+operations. The
+fire watch
+shall continue for a minimum of 30 minutes after the conclusion of the work. The
+commissioner
+, or the
+responsible person
+implementing a
+hot work program
+, may extend the duration of the
+fire watch
+based on the hazards or work being performed.
+
+---
+
+A
+fire watch
+shall be maintained during
+hot work
+operations. The
+fire watch
+shall continue for a minimum of 30 minutes after the conclusion of the work. The
+commissioner
+, or the
+responsible person
+implementing a
+hot work program
+, may extend the duration of the
+fire watch
+based on the hazards or work being performed.
+
+---
+
+## Section 3504.2.2: Location
+
+3504.2.2 Location
+The
+fire watch
+shall observe the entire
+hot work area
+.
+Hot work
+conducted in areas with vertical or horizontal
+fire
+exposures that are not observable by a single individual shall have additional personnel assigned to ensure that exposed areas are monitored, including compliance with
+FC3504.2.7.1
+.
+
+---
+
+The
+fire watch
+shall observe the entire
+hot work area
+.
+Hot work
+conducted in areas with vertical or horizontal
+fire
+exposures that are not observable by a single individual shall have additional personnel assigned to ensure that exposed areas are monitored, including compliance with
+FC3504.2.7.1
+.
+
+---
+
+## Section 3504.2.3: Duties
+
+3504.2.3 Duties
+Persons conducting a
+fire watch
+shall have the duties and responsibilities set forth in
+FC901.7.2.1
+with respect to the areas being monitored in connection with
+hot work
+operations.
+
+---
+
+Persons conducting a
+fire watch
+shall have the duties and responsibilities set forth in
+FC901.7.2.1
+with respect to the areas being monitored in connection with
+hot work
+operations.
+
+---
+
+## Section 3504.2.4: Reserved
+
+3504.2.4 Reserved
+
+---
+
+## Section 3504.2.5: Fire Hoses
+
+3504.2.5 Fire Hoses
+Where hose lines are required, they shall be connected, charged and ready for operation.
+
+---
+
+Where hose lines are required, they shall be connected, charged and ready for operation.
+
+---
+
+## Section 3504.2.6: Portable Fire Extinguishers
+
+3504.2.6 Portable Fire Extinguishers
+A minimum of one portable
+fire
+extinguisher complying with the requirements of
+FC906
+and with a minimum 2-A:20-B:C rating shall be provided and readily accessible within a 30 feet (9144 mm) travel distance of the location where
+hot work
+is performed and where the
+fire guards
+are positioned.
+
+---
+
+A minimum of one portable
+fire
+extinguisher complying with the requirements of
+FC906
+and with a minimum 2-A:20-B:C rating shall be provided and readily accessible within a 30 feet (9144 mm) travel distance of the location where
+hot work
+is performed and where the
+fire guards
+are positioned.
+
+---
+
+## Section 3504.2.7: Fire Guards for Torch Operations
+
+3504.2.7 Fire Guards for Torch Operations
+The
+fire watch
+for torch operations conducted at the following locations shall be conducted by
+fire guards
+:
+Construction sites
+.
+On any rooftop, or in connection with any torch-applied roofing
+system
+operation.
+In any building or structure, when the torch operation is conducted by a person holding a
+citywide permit
+for torch operations.
+
+---
+
+The
+fire watch
+for torch operations conducted at the following locations shall be conducted by
+fire guards
+:
+Construction sites
+.
+On any rooftop, or in connection with any torch-applied roofing
+system
+operation.
+In any building or structure, when the torch operation is conducted by a person holding a
+citywide permit
+for torch operations.
+
+---
+
+## Section 3504.2.7.1: Construction Sites and Torch-Applied Roofing Systems
+
+3504.2.7.1 Construction Sites and Torch-Applied Roofing Systems
+A
+fire watch
+shall be maintained for each torch operation at a
+construction site
+and torch-applied roofing
+system
+operations in compliance with the requirements of
+FC 3504.2.7.1.1
+and
+3504.2.7.1.2
+.
+
+---
+
+A
+fire watch
+shall be maintained for each torch operation at a
+construction site
+and torch-applied roofing
+system
+operations in compliance with the requirements of
+FC 3504.2.7.1.1
+and
+3504.2.7.1.2
+.
+
+---
+
+## Section 3504.2.7.1.1: Fire Watch Coverage
+
+3504.2.7.1.1 Fire Watch Coverage
+A
+fire guard
+shall be provided for each torch in operation, except that a single
+fire guard
+may be designated to conduct a
+fire watch
+for more than one torch operation on the same floor or level if each torch operation is not more than 50 feet (15 240 mm) from the
+fire guard
+, as measured by the actual path of travel, and the field of view of such
+fire guard
+encompasses all of the horizontal
+fire
+exposures of such torch operations.
+
+---
+
+A
+fire guard
+shall be provided for each torch in operation, except that a single
+fire guard
+may be designated to conduct a
+fire watch
+for more than one torch operation on the same floor or level if each torch operation is not more than 50 feet (15 240 mm) from the
+fire guard
+, as measured by the actual path of travel, and the field of view of such
+fire guard
+encompasses all of the horizontal
+fire
+exposures of such torch operations.
+
+---
+
+## Section 3504.2.7.1.2: Fire Watch on Floors Below
+
+3504.2.7.1.2 Fire Watch on Floors Below
+In addition to the
+fire guard
+required by
+FC3504.2.7.1.1
+, if the torch operation is being conducted at or near the edge of an unenclosed floor of a building, or near a floor opening, or other location where sparks and slag may travel to one or more lower floors or levels, a
+fire guard
+shall conduct a
+fire watch
+on each lower floor or level containing combustible surfaces or materials within 35 feet (10 668 mm) of the area of such floor or level that potentially would be exposed to such sparks or slag. Prior to commencement of the torch operation, the
+fire
+safety manager or
+responsible person
+shall inspect the lower floors or levels and take all necessary and appropriate precautions to protect any combustible surfaces and materials that potentially would be exposed to sparks and slag from the torch operation. A certification to that effect shall be made on the
+hot work
+authorization.
+Exceptions:
+A
+fire watch
+is not required on the floors or levels below a torch operation on a
+construction site
+when:
+the torch operation is not being conducted at or near the edge of an unenclosed floor of a building;
+the floor upon which the torch operation is being conducted is of noncombustible construction;
+there are no floor or exterior building openings within 35 feet (10 668 mm) of the torch operation; and
+prior to commencement of the torch operation, the
+fire
+safety manager or
+responsible person
+conducts an inspection and takes the precautions required pursuant to FC3504.2.7.1.2.
+Notwithstanding the foregoing exception, if sparks or slag generated by the torch operation are observed to extend beyond 35 feet (10 668mm), thereby potentially exposing lower floors or levels, the torch operation shall be immediately discontinued, and the floors or levels below shall be inspected for any
+fire
+condition. If there is any potential exposure to combustible surfaces or materials on the floors below from such sparks and slag, noncombustible barriers shall be provided and any other necessary or appropriate precautions shall be taken. If such barriers and precautions fail to block the passage of sparks and slag, a
+fire watch
+shall be established on the floors or levels below.
+
+---
+
+In addition to the
+fire guard
+required by
+FC3504.2.7.1.1
+, if the torch operation is being conducted at or near the edge of an unenclosed floor of a building, or near a floor opening, or other location where sparks and slag may travel to one or more lower floors or levels, a
+fire guard
+shall conduct a
+fire watch
+on each lower floor or level containing combustible surfaces or materials within 35 feet (10 668 mm) of the area of such floor or level that potentially would be exposed to such sparks or slag. Prior to commencement of the torch operation, the
+fire
+safety manager or
+responsible person
+shall inspect the lower floors or levels and take all necessary and appropriate precautions to protect any combustible surfaces and materials that potentially would be exposed to sparks and slag from the torch operation. A certification to that effect shall be made on the
+hot work
+authorization.
+Exceptions:
+A
+fire watch
+is not required on the floors or levels below a torch operation on a
+construction site
+when:
+the torch operation is not being conducted at or near the edge of an unenclosed floor of a building;
+the floor upon which the torch operation is being conducted is of noncombustible construction;
+there are no floor or exterior building openings within 35 feet (10 668 mm) of the torch operation; and
+prior to commencement of the torch operation, the
+fire
+safety manager or
+responsible person
+conducts an inspection and takes the precautions required pursuant to FC3504.2.7.1.2.
+Notwithstanding the foregoing exception, if sparks or slag generated by the torch operation are observed to extend beyond 35 feet (10 668mm), thereby potentially exposing lower floors or levels, the torch operation shall be immediately discontinued, and the floors or levels below shall be inspected for any
+fire
+condition. If there is any potential exposure to combustible surfaces or materials on the floors below from such sparks and slag, noncombustible barriers shall be provided and any other necessary or appropriate precautions shall be taken. If such barriers and precautions fail to block the passage of sparks and slag, a
+fire watch
+shall be established on the floors or levels below.
+
+---
+
+## Section 3504.3: Area Reviews
+
+3504.3 Area Reviews
+Before
+hot work
+is authorized and at least once per day while the authorization is in effect, the
+hot work area
+shall be inspected by the
+responsible person
+to ensure that it is a
+fire
+safe area.
+
+---
+
+Before
+hot work
+is authorized and at least once per day while the authorization is in effect, the
+hot work area
+shall be inspected by the
+responsible person
+to ensure that it is a
+fire
+safe area.
+
+---
+
+## Section 3504.3.1: Pre-Hot Work Check
+
+3504.3.1 Pre-Hot Work Check
+A pre-
+hot work
+check shall be conducted by the
+responsible person
+prior to work to ensure that all equipment is safe and hazards are recognized and protected. A report of the check shall be kept at the work site during the work and for a minimum of 48 hours after work is completed, and made available for inspection by any representative of the
+department
+. The pre-
+hot work
+check shall be conducted at least once per day and shall verify the following:
+The
+hot work equipment
+is in good working order.
+The
+hot work area
+is clear of combustibles and
+flammable solids
+or that such materials present in the area are protected in accordance with
+FC3504.1.1
+.
+Exposed construction is of noncombustible materials or, if combustible, is protected.
+Openings are protected.
+Hot work area
+floors are clear of
+combustible waste
+accumulation.
+Reserved
+.
+Fire watch
+personnel, where required, are assigned.
+Approved
+actions have been taken to prevent accidental activation of
+fire extinguishing systems
+and detection equipment in accordance with
+FC 3504.1.8
+and
+3504.1.9
+.
+Portable
+fire
+extinguishers and
+fire
+hoses (where provided) are operable and available.
+All persons performing
+hot work
+possess
+certificates of fitness
+, where such certificates are required.
+All persons performing
+hot work
+requiring a
+permit
+possess a
+site-specific permit
+or
+citywide permit
+, authorizing such work.
+
+---
+
+A pre-
+hot work
+check shall be conducted by the
+responsible person
+prior to work to ensure that all equipment is safe and hazards are recognized and protected. A report of the check shall be kept at the work site during the work and for a minimum of 48 hours after work is completed, and made available for inspection by any representative of the
+department
+. The pre-
+hot work
+check shall be conducted at least once per day and shall verify the following:
+The
+hot work equipment
+is in good working order.
+The
+hot work area
+is clear of combustibles and
+flammable solids
+or that such materials present in the area are protected in accordance with
+FC3504.1.1
+.
+Exposed construction is of noncombustible materials or, if combustible, is protected.
+Openings are protected.
+Hot work area
+floors are clear of
+combustible waste
+accumulation.
+Reserved
+.
+Fire watch
+personnel, where required, are assigned.
+Approved
+actions have been taken to prevent accidental activation of
+fire extinguishing systems
+and detection equipment in accordance with
+FC 3504.1.8
+and
+3504.1.9
+.
+Portable
+fire
+extinguishers and
+fire
+hoses (where provided) are operable and available.
+All persons performing
+hot work
+possess
+certificates of fitness
+, where such certificates are required.
+All persons performing
+hot work
+requiring a
+permit
+possess a
+site-specific permit
+or
+citywide permit
+, authorizing such work.
+
+---
+
+Section 3505 Gas Welding and Cutting
+
+---
+
+## Section 3505.1: General
+
+3505.1 General
+Devices or attachments mixing air or oxygen with flammable gases prior to consumption, except at the burner or in a standard torch or blow pipe, shall not be allowed unless
+approved
+.
+
+---
+
+Devices or attachments mixing air or oxygen with flammable gases prior to consumption, except at the burner or in a standard torch or blow pipe, shall not be allowed unless
+approved
+.
+
+---
+
+## Section 3505.2: Container Storage, Handling and Use
+
+3505.2 Container Storage, Handling and Use
+Storage,
+handling
+and use of
+compressed gas containers
+shall be in accordance with this section and
+FC Chapter 53
+.
+
+---
+
+Storage,
+handling
+and use of
+compressed gas containers
+shall be in accordance with this section and
+FC Chapter 53
+.
+
+---
+
+## Section 3505.2.1: Containers Connected for Use
+
+3505.2.1 Containers Connected for Use
+A single
+container
+of oxygen and a single
+container
+of
+flammable gas
+may be installed on a cart without the separation of
+containers
+required by
+FC5804.1.3
+provided that the
+containers
+are connected to regulators, equipped with apparatus designed for cutting, welding or other
+hot work
+operation, and are otherwise ready for use, and are stored, handled and used in compliance with the following requirements:
+Carts shall be designed and used in accordance with
+FC5003.10.3
+.
+Container
+valves shall have a fixed hand wheel, or other
+approved
+means by which the flow of gas may be immediately shut down during
+hot work
+operations.
+Container
+valves shall be closed at the end of each workday and whenever work is discontinued or the cart moved.
+Container
+valve outlet connections shall conform to the requirements of CGA V-1.
+Separation of the cart from the
+hot work
+operation shall be maintained in accordance with
+FC3505.5
+, or
+fire
+-resistant shields shall be provided.
+A
+separation distance
+of 20 feet (6096 mm) shall be maintained between such carts.
+
+---
+
+A single
+container
+of oxygen and a single
+container
+of
+flammable gas
+may be installed on a cart without the separation of
+containers
+required by
+FC5804.1.3
+provided that the
+containers
+are connected to regulators, equipped with apparatus designed for cutting, welding or other
+hot work
+operation, and are otherwise ready for use, and are stored, handled and used in compliance with the following requirements:
+Carts shall be designed and used in accordance with
+FC5003.10.3
+.
+Container
+valves shall have a fixed hand wheel, or other
+approved
+means by which the flow of gas may be immediately shut down during
+hot work
+operations.
+Container
+valves shall be closed at the end of each workday and whenever work is discontinued or the cart moved.
+Container
+valve outlet connections shall conform to the requirements of CGA V-1.
+Separation of the cart from the
+hot work
+operation shall be maintained in accordance with
+FC3505.5
+, or
+fire
+-resistant shields shall be provided.
+A
+separation distance
+of 20 feet (6096 mm) shall be maintained between such carts.
+
+---
+
+## Section 3505.3: Precautions
+
+3505.3 Precautions
+Oxygen
+containers
+and oxygen
+container
+valves, regulators, hose and other apparatus and fittings shall be kept free of oil or grease. Oxygen
+containers
+, apparatus and fittings shall not be handled with oily hands, oily gloves, or greasy
+tools
+or equipment.
+
+---
+
+Oxygen
+containers
+and oxygen
+container
+valves, regulators, hose and other apparatus and fittings shall be kept free of oil or grease. Oxygen
+containers
+, apparatus and fittings shall not be handled with oily hands, oily gloves, or greasy
+tools
+or equipment.
+
+---
+
+## Section 3505.4: Acetylene Gas
+
+3505.4 Acetylene Gas
+Acetylene gas shall not be piped except in
+approved
+container
+manifolds and
+container
+manifold connections, or piped or utilized at a pressure exceeding 15 pounds per square inch gauge (psig) (103 kPa). Acetylene gas stored in
+containers
+shall be dissolved in a suitable solvent. Acetylene gas shall not be brought in contact with unalloyed copper, except in a torch.
+
+---
+
+Acetylene gas shall not be piped except in
+approved
+container
+manifolds and
+container
+manifold connections, or piped or utilized at a pressure exceeding 15 pounds per square inch gauge (psig) (103 kPa). Acetylene gas stored in
+containers
+shall be dissolved in a suitable solvent. Acetylene gas shall not be brought in contact with unalloyed copper, except in a torch.
+
+---
+
+## Section 3505.5: Remote Locations
+
+3505.5 Remote Locations
+Oxygen and fuel gas
+containers
+shall be located at a distance from the
+hot work area
+sufficient to protect such
+containers
+from heat, sparks, slag, or misdirection of the torch flame.
+
+---
+
+Oxygen and fuel gas
+containers
+shall be located at a distance from the
+hot work area
+sufficient to protect such
+containers
+from heat, sparks, slag, or misdirection of the torch flame.
+
+---
+
+## Section 3505.6: Container Shutoff
+
+3505.6 Container Shutoff
+The torch valve shall be closed and the gas supply to the torch completely shut off when
+hot work
+operations are discontinued for a period of 1 hour or more.
+
+---
+
+The torch valve shall be closed and the gas supply to the torch completely shut off when
+hot work
+operations are discontinued for a period of 1 hour or more.
+
+---
+
+## Section 3505.6.1: Emergency Shutoff
+
+3505.6.1 Emergency Shutoff
+Oxygen and fuel gas
+container
+valves shall be accessible to the torch operator or
+fire guard
+for immediate shutoff of the gas supply in the event of an emergency.
+
+---
+
+Oxygen and fuel gas
+container
+valves shall be accessible to the torch operator or
+fire guard
+for immediate shutoff of the gas supply in the event of an emergency.
+
+---
+
+## Section 3505.7: Prohibited Operations
+
+3505.7 Prohibited Operations
+It shall be unlawful to conduct the following
+hot work
+operations:
+Welding or cutting operations supported by or resting on
+compressed gas containers
+.
+Torch-applied roof system
+operations on roofs constructed of combustible materials.
+Use of an acetylene generator for
+hot work
+operations.
+
+---
+
+It shall be unlawful to conduct the following
+hot work
+operations:
+Welding or cutting operations supported by or resting on
+compressed gas containers
+.
+Torch-applied roof system
+operations on roofs constructed of combustible materials.
+Use of an acetylene generator for
+hot work
+operations.
+
+---
+
+## Section 3505.8: Tests
+
+3505.8 Tests
+It shall be unlawful to test piping equipment or
+systems
+for leaks using a flame. Tests for suspected leaks in piping equipment and
+systems
+shall be made using soapy water.
+
+---
+
+It shall be unlawful to test piping equipment or
+systems
+for leaks using a flame. Tests for suspected leaks in piping equipment and
+systems
+shall be made using soapy water.
+
+---
+
+Section 3506 Electric Arc Hot Work
+
+---
+
+## Section 3506.1: General
+
+3506.1 General
+The frame or case of electric
+hot work
+machines, except internal-combustion-engine-driven machines, shall be grounded. Ground connections shall be mechanically strong and electrically adequate for the required current.
+
+---
+
+The frame or case of electric
+hot work
+machines, except internal-combustion-engine-driven machines, shall be grounded. Ground connections shall be mechanically strong and electrically adequate for the required current.
+
+---
+
+## Section 3506.2: Return Circuits
+
+3506.2 Return Circuits
+Welding current return circuits from the work to the machine shall have proper
+electrical
+contact at joints. The
+electrical
+contact shall be periodically inspected.
+
+---
+
+Welding current return circuits from the work to the machine shall have proper
+electrical
+contact at joints. The
+electrical
+contact shall be periodically inspected.
+
+---
+
+## Section 3506.3: Disconnecting
+
+3506.3 Disconnecting
+Electrodes shall be removed from the holders when electric arc welding or cutting is discontinued for any period of 1 hour or more. The holders shall be located to prevent accidental contact and the machines shall be disconnected from the power source.
+
+---
+
+Electrodes shall be removed from the holders when electric arc welding or cutting is discontinued for any period of 1 hour or more. The holders shall be located to prevent accidental contact and the machines shall be disconnected from the power source.
+
+---
+
+## Section 3506.4: Emergency Disconnect
+
+3506.4 Emergency Disconnect
+A switch or circuit breaker shall be provided so that fixed electric welders and control equipment can be disconnected from the supply circuit. The disconnect shall be installed in accordance with the
+Electrical Code
+.
+
+---
+
+A switch or circuit breaker shall be provided so that fixed electric welders and control equipment can be disconnected from the supply circuit. The disconnect shall be installed in accordance with the
+Electrical Code
+.
+
+---
+
+## Section 3506.5: Damaged Cable
+
+3506.5 Damaged Cable
+Damaged cable shall be removed from service until properly repaired or replaced.
+
+---
+
+Damaged cable shall be removed from service until properly repaired or replaced.
+
+---
+
+Section 3507 Reserved
+
+---
+
+Section 3508 Reserved
+
+---
+
+Section 3509 Piping Manifolds and Hose Systems for Fuel Gases and Oxygen
+
+---
+
+## Section 3509.1: General
+
+3509.1 General
+The use of piping manifolds, protective equipment and hose
+systems
+in oxygen-fuel gas
+systems
+, including
+natural gas
+supplied from a utility for use in an oxygen-fuel gas
+system
+, shall be designed, installed, operated and maintained in accordance with FC3509, FC Chapter 53 and NFPA 51.
+
+---
+
+The use of piping manifolds, protective equipment and hose
+systems
+in oxygen-fuel gas
+systems
+, including
+natural gas
+supplied from a utility for use in an oxygen-fuel gas
+system
+, shall be designed, installed, operated and maintained in accordance with FC3509, FC Chapter 53 and NFPA 51.
+
+---
+
+## Section 3509.2: Protection
+
+3509.2 Protection
+Piping shall be protected against physical damage.
+
+---
+
+Piping shall be protected against physical damage.
+
+---
+
+## Section 3509.3: Signage
+
+3509.3 Signage
+Signage shall be provided for piping and hose
+systems
+as follows:
+Aboveground piping
+systems
+shall be marked in accordance with ASME A13.1.
+Station outlets shall be marked to indicate their intended usage.
+Signs shall be posted, indicating clearly the location and identity of section shutoff valves.
+
+---
+
+Signage shall be provided for piping and hose
+systems
+as follows:
+Aboveground piping
+systems
+shall be marked in accordance with ASME A13.1.
+Station outlets shall be marked to indicate their intended usage.
+Signs shall be posted, indicating clearly the location and identity of section shutoff valves.
+
+---
+
+## Section 3509.4: Manifolding of Containers
+
+3509.4 Manifolding of Containers
+Oxygen manifolds shall be located at least 20 feet (6096 mm) away from
+combustible waste
+and combustible material, including oil and grease, and gas
+containers
+containing flammable gases, unless the gas
+containers
+are separated from each other by a
+fire partition
+.
+
+---
+
+Oxygen manifolds shall be located at least 20 feet (6096 mm) away from
+combustible waste
+and combustible material, including oil and grease, and gas
+containers
+containing flammable gases, unless the gas
+containers
+are separated from each other by a
+fire partition
+.
+
+---
+
+## Section 3509.5: Identification of Manifolds
+
+3509.5 Identification of Manifolds
+Signs shall be posted for oxygen manifolds with service pressures not exceeding 250 psig (1379 kPa). Such signs shall read as follows:
+LOW-PRESSURE MANIFOLD
+DO NOT CONNECT HIGH-PRESSURE
+CONTAINERS
+MAXIMUM PRESSURE 250 PSIG
+
+---
+
+Signs shall be posted for oxygen manifolds with service pressures not exceeding 250 psig (1379 kPa). Such signs shall read as follows:
+LOW-PRESSURE MANIFOLD
+DO NOT CONNECT HIGH-PRESSURE
+CONTAINERS
+MAXIMUM PRESSURE 250 PSIG
+
+---
+
+## Section 3509.6: Clamps
+
+3509.6 Clamps
+Hose connections shall be clamped or otherwise securely fastened.
+
+---
+
+Hose connections shall be clamped or otherwise securely fastened.
+
+---
+
+## Section 3509.7: Inspection
+
+3509.7 Inspection
+Hoses shall be inspected frequently for leaks, burns, wear, loose connections or other defects.
+
+---
+
+Hoses shall be inspected frequently for leaks, burns, wear, loose connections or other defects.
+
+---
+
+## Section 3509.8: Piped Natural Gas Precautions
+
+3509.8 Piped Natural Gas Precautions
+When
+piped natural gas
+is used with oxygen in any
+hot work
+operation, a listed protective device that serves as a combination flashback arrester and backflow check valve shall be provided at an
+approved
+location on both the
+natural gas
+and oxygen supply lines so as to ensure the safe operation of all devices, equipment and
+systems
+, including the utility gas meter. Where pressure of the
+piped natural gas
+supply is insufficient to ensure such safe operation,
+approved
+equipment shall be provided between the gas meter and the fuel-consuming appliance that increases such pressure to the level required for such safe operation. Notwithstanding any section of this code to the contrary, such flashback arresters and check valves, pressure-increasing equipment, shall be installed as components of both new and existing installations. Installations involving the use of
+piped natural gas
+with oxygen in any
+hot work
+operation shall additionally comply with the
+rules
+.
+
+---
+
+When
+piped natural gas
+is used with oxygen in any
+hot work
+operation, a listed protective device that serves as a combination flashback arrester and backflow check valve shall be provided at an
+approved
+location on both the
+natural gas
+and oxygen supply lines so as to ensure the safe operation of all devices, equipment and
+systems
+, including the utility gas meter. Where pressure of the
+piped natural gas
+supply is insufficient to ensure such safe operation,
+approved
+equipment shall be provided between the gas meter and the fuel-consuming appliance that increases such pressure to the level required for such safe operation. Notwithstanding any section of this code to the contrary, such flashback arresters and check valves, pressure-increasing equipment, shall be installed as components of both new and existing installations. Installations involving the use of
+piped natural gas
+with oxygen in any
+hot work
+operation shall additionally comply with the
+rules
+.
+
+---
+
+Section 3510 Hot Work on Flammable and Combustible Liquid Storage Tanks
+
+---
+
+## Section 3510.1: General
+
+3510.1 General
+Hot work
+performed on the interior or exterior of
+tanks
+that hold or have held flammable or
+combustible liquids
+, when
+approved
+, shall be conducted in accordance with this section and NFPA 326.
+
+---
+
+Hot work
+performed on the interior or exterior of
+tanks
+that hold or have held flammable or
+combustible liquids
+, when
+approved
+, shall be conducted in accordance with this section and NFPA 326.
+
+---
+
+## Section 3510.2: Department Approval
+
+3510.2 Department Approval
+Approval shall be obtained from the
+department
+prior to conducting
+hot work
+on a
+tank
+that holds or has held flammable or
+combustible liquids
+. The
+application
+shall justify the need to conduct such
+hot work
+and identify the potential hazards and methods of controlling such hazards.
+
+---
+
+Approval shall be obtained from the
+department
+prior to conducting
+hot work
+on a
+tank
+that holds or has held flammable or
+combustible liquids
+. The
+application
+shall justify the need to conduct such
+hot work
+and identify the potential hazards and methods of controlling such hazards.
+
+---
+
+## Section 3510.3: Hazard Prevention
+
+3510.3 Hazard Prevention
+A pre-
+hot work
+check shall be performed in accordance with
+FC3504.3.1
+. A
+fire watch
+shall be maintained with a
+combustible gas detector
+, to continuously monitor the work area and any other affected areas.
+
+---
+
+A pre-
+hot work
+check shall be performed in accordance with
+FC3504.3.1
+. A
+fire watch
+shall be maintained with a
+combustible gas detector
+, to continuously monitor the work area and any other affected areas.
+
+---
+
+## Section 3510.4: Hot Tapping
+
+3510.4 Hot Tapping
+Hot tapping
+may be conducted at bulk plants and terminals on
+tanks
+and piping only when
+approved
+by the
+department
+. Such work shall be conducted by persons with
+approved
+qualifications.
+
+---
+
+Hot tapping
+may be conducted at bulk plants and terminals on
+tanks
+and piping only when
+approved
+by the
+department
+. Such work shall be conducted by persons with
+approved
+qualifications.
+
+---
+

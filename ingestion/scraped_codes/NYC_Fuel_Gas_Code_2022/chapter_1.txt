@@ -1,0 +1,1992 @@
+# NYC Fuel Gas Code 2022 - Chapter 1
+
+New York City Fuel Gas Code 2022
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+101 General
+
+---
+
+102 Applicability
+
+---
+
+103 Department of Buildings
+
+---
+
+104 Duties and Powers of the Commissioner of Buildings
+
+---
+
+105 Approvals
+
+---
+
+106 Permits
+
+---
+
+107 Construction Documents
+
+---
+
+108 Inspections and Testing
+
+---
+
+109 Violations
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Chapter 4 Gas Piping Installations
+
+---
+
+Chapter 5 Chimneys and Vents
+
+---
+
+Chapter 6 Specific Appliances
+
+---
+
+Chapter 7 Gaseous Hydrogen Systems
+
+---
+
+Chapter 8 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Reserved
+
+---
+
+Appendix D Reserved
+
+---
+
+Appendix E Meters and Gas Service Piping
+
+---
+
+Appendix F Reserved
+
+---
+
+Appendix G High Pressure Natural Gas Installations
+
+---
+
+Chapter 1 Administration
+
+---
+
+Section 101 General
+
+---
+
+## Section 101.1: Title
+
+101.1 Title
+This code shall be known and may be cited as the "
+New York City
+Fuel Gas
+Code
+," "NYCFGC" or "FGC." All section numbers in this code shall be deemed to be preceded by the designation "FGC."
+
+---
+
+This code shall be known and may be cited as the "
+New York City
+Fuel Gas
+Code
+," "NYCFGC" or "FGC." All section numbers in this code shall be deemed to be preceded by the designation "FGC."
+
+---
+
+## Section 101.2: Scope
+
+101.2 Scope
+This code shall apply to the installation of fuel-gas
+piping systems
+,
+fuel-gas
+appliances
+and related accessories in accordance with Sections
+101.2.2
+through
+101.2.5
+.
+
+---
+
+This code shall apply to the installation of fuel-gas
+piping systems
+,
+fuel-gas
+appliances
+and related accessories in accordance with Sections
+101.2.2
+through
+101.2.5
+.
+
+---
+
+## Section 101.2.1: Reserved
+
+101.2.1 Reserved
+
+---
+
+## Section 101.2.2: Piping Systems
+
+101.2.2 Piping Systems
+These regulations cover
+piping systems
+for natural gas. High pressure natural gas installations at pressures of 15 psig (
+103.4
+kPa gauge) or above shall also comply with the requirements of
+Appendix G
+of this code. Coverage shall extend to the
+outlet
+of the
+appliance shutoff
+valves
+.
+Piping system
+requirements shall include
+design
+, materials, components, fabrication, assembly, installation, testing, inspection, operation and maintenance.
+
+---
+
+These regulations cover
+piping systems
+for natural gas. High pressure natural gas installations at pressures of 15 psig (
+103.4
+kPa gauge) or above shall also comply with the requirements of
+Appendix G
+of this code. Coverage shall extend to the
+outlet
+of the
+appliance shutoff
+valves
+.
+Piping system
+requirements shall include
+design
+, materials, components, fabrication, assembly, installation, testing, inspection, operation and maintenance.
+
+---
+
+## Section 101.2.3: Gas Utilization Appliances
+
+101.2.3 Gas Utilization Appliances
+Requirements for gas
+appliances
+and related accessories shall include installation,
+combustion
+and ventilation air and venting and connections to
+piping systems
+.
+
+---
+
+Requirements for gas
+appliances
+and related accessories shall include installation,
+combustion
+and ventilation air and venting and connections to
+piping systems
+.
+
+---
+
+## Section 101.2.4: Systems and Equipment Outside the Scope
+
+101.2.4 Systems and Equipment Outside the Scope
+This code shall not apply to the following:
+Portable LP-gas
+appliances
+and
+equipment
+of all types that are not connected to a fixed fuel
+piping system
+.
+Oxygen-
+fuel gas
+cutting and welding systems.
+Industrial gas applications using gases such as acetylene and acetylenic compounds, hydrogen, ammonia, carbon monoxide, oxygen and nitrogen.
+Petroleum refineries, pipeline compressor or pumping stations, loading terminals, compounding plants, refinery tank farms and natural gas processing plants.
+Integrated chemical plants or portions of such plants where flammable or combustible liquids or gases are produced by, or used in, chemical reactions.
+LP-gas installations at utility gas plants.
+Liquefied natural gas (LNG) installations.
+Fuel
+gas piping
+in public utility
+power
+plants and atomic energy plants.
+Components within proprietary items of
+equipment
+, apparatus or instruments such as gas-generating sets, compressors and calorimeters.
+LP-gas
+equipment
+for vaporization, gas mixing and gas manufacturing.
+Temporary LP-
+gas piping
+for buildings under construction or renovation that is not to become part of the permanent
+piping system
+.
+Installation of LP-gas systems for railroad switch heating.
+Installation of hydrogen gas, LP-gas and compressed natural gas (CNG) systems on vehicles.
+Except as provided in
+Section 401.1.1
+and Appendices
+E
+and
+G
+,
+gas piping
+,
+meters
+, gas
+pressure regulators
+and other appurtenances used by the serving gas supplier in the distribution of gas, other than undiluted LP-gas.
+Building
+design
+and construction, except as specified herein.
+Piping systems
+for mixtures of gas and air within the flammable range with an operating pressure greater than 10 psig (68.9 kPa gauge).
+Portable fuel cell appliances
+that are neither connected to a fixed
+piping system
+nor interconnected to a
+power
+grid.
+
+---
+
+This code shall not apply to the following:
+Portable LP-gas
+appliances
+and
+equipment
+of all types that are not connected to a fixed fuel
+piping system
+.
+Oxygen-
+fuel gas
+cutting and welding systems.
+Industrial gas applications using gases such as acetylene and acetylenic compounds, hydrogen, ammonia, carbon monoxide, oxygen and nitrogen.
+Petroleum refineries, pipeline compressor or pumping stations, loading terminals, compounding plants, refinery tank farms and natural gas processing plants.
+Integrated chemical plants or portions of such plants where flammable or combustible liquids or gases are produced by, or used in, chemical reactions.
+LP-gas installations at utility gas plants.
+Liquefied natural gas (LNG) installations.
+Fuel
+gas piping
+in public utility
+power
+plants and atomic energy plants.
+Components within proprietary items of
+equipment
+, apparatus or instruments such as gas-generating sets, compressors and calorimeters.
+LP-gas
+equipment
+for vaporization, gas mixing and gas manufacturing.
+Temporary LP-
+gas piping
+for buildings under construction or renovation that is not to become part of the permanent
+piping system
+.
+Installation of LP-gas systems for railroad switch heating.
+Installation of hydrogen gas, LP-gas and compressed natural gas (CNG) systems on vehicles.
+Except as provided in
+Section 401.1.1
+and Appendices
+E
+and
+G
+,
+gas piping
+,
+meters
+, gas
+pressure regulators
+and other appurtenances used by the serving gas supplier in the distribution of gas, other than undiluted LP-gas.
+Building
+design
+and construction, except as specified herein.
+Piping systems
+for mixtures of gas and air within the flammable range with an operating pressure greater than 10 psig (68.9 kPa gauge).
+Portable fuel cell appliances
+that are neither connected to a fixed
+piping system
+nor interconnected to a
+power
+grid.
+
+---
+
+## Section 101.2.5: Other Fuels
+
+101.2.5 Other Fuels
+The requirements for the
+design
+, installation, maintenance, alteration and inspection of
+mechanical systems
+operating with fuels other than
+fuel gas
+shall be regulated by the
+New York City Mechanical Code
+.
+
+---
+
+The requirements for the
+design
+, installation, maintenance, alteration and inspection of
+mechanical systems
+operating with fuels other than
+fuel gas
+shall be regulated by the
+New York City Mechanical Code
+.
+
+---
+
+## Section 101.3: Reserved
+
+101.3 Reserved
+
+---
+
+## Section 101.4: Intent
+
+101.4 Intent
+The purpose of this code is to provide minimum standards to safeguard life or limb, health, property, public welfare and the environment by regulating and controlling the
+design
+, construction, installation, quality of materials, location, operation and maintenance or use of
+fuel gas
+systems.
+
+---
+
+The purpose of this code is to provide minimum standards to safeguard life or limb, health, property, public welfare and the environment by regulating and controlling the
+design
+, construction, installation, quality of materials, location, operation and maintenance or use of
+fuel gas
+systems.
+
+---
+
+## Section 101.5: Severability
+
+101.5 Severability
+If a section, subsection, sentence, clause or phrase of this code is, for any reason, held to be unconstitutional, such decision shall not affect the validity of the remaining portions of this code.
+
+---
+
+If a section, subsection, sentence, clause or phrase of this code is, for any reason, held to be unconstitutional, such decision shall not affect the validity of the remaining portions of this code.
+
+---
+
+Section 102 Applicability
+
+---
+
+## Section 102.1: General
+
+102.1 General
+Where there is a conflict between a
+general
+requirement and a specific requirement, the specific requirement shall govern. Where, in a specific case, different sections of this code specify different materials, methods of construction or other requirements, the most restrictive shall govern.
+
+---
+
+Where there is a conflict between a
+general
+requirement and a specific requirement, the specific requirement shall govern. Where, in a specific case, different sections of this code specify different materials, methods of construction or other requirements, the most restrictive shall govern.
+
+---
+
+## Section 102.2: Existing Installations
+
+102.2 Existing Installations
+Except as otherwise provided for in this chapter or elsewhere in this code, a provision in this code shall not require the removal, alteration or abandonment of, nor prevent the continued utilization and maintenance of, existing installations lawfully in existence on the effective date of this code.
+
+---
+
+Except as otherwise provided for in this chapter or elsewhere in this code, a provision in this code shall not require the removal, alteration or abandonment of, nor prevent the continued utilization and maintenance of, existing installations lawfully in existence on the effective date of this code.
+
+---
+
+## Section 102.2.1: Existing Buildings
+
+102.2.1 Existing Buildings
+Additions, alterations, renovations or
+repairs
+related to building or structural issues shall be governed by Chapter 1 of
+Title
+28 of the
+Administrative Code
+, the
+New York City Building Code
+and the
+1968 Building Code
+, as applicable.
+
+---
+
+Additions, alterations, renovations or
+repairs
+related to building or structural issues shall be governed by Chapter 1 of
+Title
+28 of the
+Administrative Code
+, the
+New York City Building Code
+and the
+1968 Building Code
+, as applicable.
+
+---
+
+## Section 102.3: Maintenance
+
+102.3 Maintenance
+Installations, both existing and new, and parts thereof shall be maintained in proper operating condition in accordance with the original
+design
+and in a safe condition. Devices or safeguards that are required by this code shall be maintained in compliance with the applicable provisions under which they were installed.
+
+---
+
+Installations, both existing and new, and parts thereof shall be maintained in proper operating condition in accordance with the original
+design
+and in a safe condition. Devices or safeguards that are required by this code shall be maintained in compliance with the applicable provisions under which they were installed.
+
+---
+
+## Section 102.3.1: Owner Responsibility
+
+102.3.1 Owner Responsibility
+The owner or the owner's designated agent shall be responsible for maintenance of installations. To determine compliance with this provision, the commissioner shall have the authority to require an existing installation to be inspected.
+
+---
+
+The owner or the owner's designated agent shall be responsible for maintenance of installations. To determine compliance with this provision, the commissioner shall have the authority to require an existing installation to be inspected.
+
+---
+
+## Section 102.4: Additions, Alterations or Repairs
+
+102.4 Additions, Alterations or Repairs
+Additions, alterations, renovations or
+repairs
+to installations shall conform to that required for new installations without requiring the existing installation to comply with all of the requirements of this code. Additions, alterations or
+repairs
+shall not cause an existing installation to become unsafe, hazardous or overloaded.
+
+---
+
+Additions, alterations, renovations or
+repairs
+to installations shall conform to that required for new installations without requiring the existing installation to comply with all of the requirements of this code. Additions, alterations or
+repairs
+shall not cause an existing installation to become unsafe, hazardous or overloaded.
+
+---
+
+## Section 102.4.1: Minor Additions, Alterations, Renovations and Repairs
+
+102.4.1 Minor Additions, Alterations, Renovations and Repairs
+Minor additions, alterations, renovations and
+repairs
+to existing installations shall meet the provisions for new construction, unless such work is done in the same manner and arrangement as was in the existing system, is not hazardous and is approved.
+
+---
+
+Minor additions, alterations, renovations and
+repairs
+to existing installations shall meet the provisions for new construction, unless such work is done in the same manner and arrangement as was in the existing system, is not hazardous and is approved.
+
+---
+
+## Section 102.4.2: Special Provisions for Prior Code Buildings
+
+102.4.2 Special Provisions for Prior Code Buildings
+In addition to the requirements of Sections
+102.4
+and
+102.4.1
+, the provisions of Sections
+102.4.2.1
+through
+102.4.2.4
+shall apply to prior code buildings.
+
+---
+
+In addition to the requirements of Sections
+102.4
+and
+102.4.1
+, the provisions of Sections
+102.4.2.1
+through
+102.4.2.4
+shall apply to prior code buildings.
+
+---
+
+## Section 102.4.2.1: Fuel Gas Piping in Prohibited Locations
+
+102.4.2.1 Fuel Gas Piping in Prohibited Locations
+For prior code buildings, the replacement of existing fuel
+gas piping
+in the same locations shall not be subject to
+Section 404.3
+when approved by the commissioner.
+
+---
+
+For prior code buildings, the replacement of existing fuel
+gas piping
+in the same locations shall not be subject to
+Section 404.3
+when approved by the commissioner.
+
+---
+
+## Section 102.4.2.2: Guards and Access to Roofs and Elevated Structures
+
+102.4.2.2 Guards and Access to Roofs and Elevated Structures
+The provisions of
+Section 306.6
+relating to guards and
+Section 306.5
+relating to permanent means of
+access
+shall not apply where the
+equipment
+or
+appliances
+replace existing
+equipment
+or
+appliances
+in the same location.
+
+---
+
+The provisions of
+Section 306.6
+relating to guards and
+Section 306.5
+relating to permanent means of
+access
+shall not apply where the
+equipment
+or
+appliances
+replace existing
+equipment
+or
+appliances
+in the same location.
+
+---
+
+## Section 102.4.2.3: Seismic Supports
+
+102.4.2.3 Seismic Supports
+For prior code buildings, the determination as to whether seismic requirements apply to an alteration shall be made in accordance with the
+1968 Building Code
+and interpretations by the department relating to such determinations. Any applicable seismic loads and requirements shall be permitted to be determined in accordance with Chapter 16 of the
+New York City Building Code
+or the 1968
+Building Code
+and Reference Standard RS 9-6 of such code.
+
+---
+
+For prior code buildings, the determination as to whether seismic requirements apply to an alteration shall be made in accordance with the
+1968 Building Code
+and interpretations by the department relating to such determinations. Any applicable seismic loads and requirements shall be permitted to be determined in accordance with Chapter 16 of the
+New York City Building Code
+or the 1968
+Building Code
+and Reference Standard RS 9-6 of such code.
+
+---
+
+## Section 102.4.2.4: Wind Resistance
+
+102.4.2.4 Wind Resistance
+For prior code buildings,
+equipment
+,
+appliances
+and
+supports
+that are exposed to wind shall be designed and installed to resist the wind pressures determined in accordance with
+Chapter 16
+of the
+New York City Building Code
+.
+
+---
+
+For prior code buildings,
+equipment
+,
+appliances
+and
+supports
+that are exposed to wind shall be designed and installed to resist the wind pressures determined in accordance with
+Chapter 16
+of the
+New York City Building Code
+.
+
+---
+
+## Section 102.5: Change in Occupancy
+
+102.5 Change in Occupancy
+Refer to
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+Refer to
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+## Section 102.6: Reserved
+
+102.6 Reserved
+
+---
+
+## Section 102.7: Reserved
+
+102.7 Reserved
+
+---
+
+## Section 102.8: Referenced Standards
+
+102.8 Referenced Standards
+The standards referenced in this code shall be those that are listed in
+Chapter 8
+and in the rules of the department and such standards shall be considered part of the requirements of this code to the prescribed extent of each such reference. Where differences occur between provisions of this code and the referenced standards, the provisions of this code shall apply. Refer to
+Article 103
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+for additional provisions relating to referenced standards.
+
+---
+
+The standards referenced in this code shall be those that are listed in
+Chapter 8
+and in the rules of the department and such standards shall be considered part of the requirements of this code to the prescribed extent of each such reference. Where differences occur between provisions of this code and the referenced standards, the provisions of this code shall apply. Refer to
+Article 103
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+for additional provisions relating to referenced standards.
+
+---
+
+## Section 102.8.1: Editions of Referenced Standards
+
+102.8.1 Editions of Referenced Standards
+References to standards in this code shall be to the editions of those standards provided for in
+Chapter 8
+of this code, or as otherwise provided by rule.
+
+---
+
+References to standards in this code shall be to the editions of those standards provided for in
+Chapter 8
+of this code, or as otherwise provided by rule.
+
+---
+
+## Section 102.9: Requirements Not Covered by Code
+
+102.9 Requirements Not Covered by Code
+Requirements necessary for the strength, stability or proper operation of an existing or proposed installation, or for the public safety, health and
+general
+welfare, not specifically covered by this code, shall be determined by the commissioner.
+
+---
+
+Requirements necessary for the strength, stability or proper operation of an existing or proposed installation, or for the public safety, health and
+general
+welfare, not specifically covered by this code, shall be determined by the commissioner.
+
+---
+
+## Section 102.10: Application of References
+
+102.10 Application of References
+Reference to chapter section numbers, or to provisions not specifically identified by number, shall be construed to refer to such chapter, section or provision of this code.
+
+---
+
+Reference to chapter section numbers, or to provisions not specifically identified by number, shall be construed to refer to such chapter, section or provision of this code.
+
+---
+
+Section 103 Department of Buildings
+
+---
+
+## Section 103.1: Enforcement Agency
+
+103.1 Enforcement Agency
+Refer to the New York City Charter and
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+Refer to the New York City Charter and
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+## Section 103.2: Reserved
+
+103.2 Reserved
+
+---
+
+## Section 103.3: Reserved
+
+103.3 Reserved
+
+---
+
+## Section 103.4: Reserved
+
+103.4 Reserved
+
+---
+
+Section 104 Duties and Powers of the Commissioner of Buildings
+
+---
+
+## Section 104.1: General
+
+104.1 General
+The commissioner shall have the authority to render interpretations of this code, adopt rules, and establish policies and procedures in order to clarify and implement its provisions. Such interpretations, policies, procedures, and rules shall be in compliance with the
+intent
+and purpose of this code. See the New York City Charter and
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+for additional provisions relating to the authority of the commissioner.
+
+---
+
+The commissioner shall have the authority to render interpretations of this code, adopt rules, and establish policies and procedures in order to clarify and implement its provisions. Such interpretations, policies, procedures, and rules shall be in compliance with the
+intent
+and purpose of this code. See the New York City Charter and
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+for additional provisions relating to the authority of the commissioner.
+
+---
+
+Section 105 Approvals
+
+---
+
+## Section 105.1: Approvals
+
+105.1 Approvals
+Refer to
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+Refer to
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+Section 106 Permits
+
+---
+
+## Section 106.1: General
+
+106.1 General
+Permits
+shall comply with this section, with
+Article 105
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+, and with requirements found elsewhere in this code.
+
+---
+
+Permits
+shall comply with this section, with
+Article 105
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+, and with requirements found elsewhere in this code.
+
+---
+
+## Section 106.2: Required
+
+106.2 Required
+Any owner or authorized agent who intends to construct, add to, alter,
+repair
+, move, demolish, or change the occupancy of a building or structure, or to erect, install, add to, alter,
+repair
+, remove, convert or replace any gas, mechanical or plumbing system, the installation of which is regulated by this code, or to cause any such work to be done, shall first make application for construction document approval in accordance with
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+and this chapter and obtain the required permit.
+
+---
+
+Any owner or authorized agent who intends to construct, add to, alter,
+repair
+, move, demolish, or change the occupancy of a building or structure, or to erect, install, add to, alter,
+repair
+, remove, convert or replace any gas, mechanical or plumbing system, the installation of which is regulated by this code, or to cause any such work to be done, shall first make application for construction document approval in accordance with
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+and this chapter and obtain the required permit.
+
+---
+
+## Section 106.3: Work Exempt From Permit
+
+106.3 Work Exempt From Permit
+Exemptions from permit requirements of this code as authorized in
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+and the rules of the department shall not be deemed to grant authorization for any work to be done in any manner in violation of the provisions of this code or any other laws or rules.
+
+---
+
+Exemptions from permit requirements of this code as authorized in
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+and the rules of the department shall not be deemed to grant authorization for any work to be done in any manner in violation of the provisions of this code or any other laws or rules.
+
+---
+
+## Section 106.4: Validity of Permit
+
+106.4 Validity of Permit
+The issuance or granting of a permit shall not be construed to be a permit for, or an approval of, any violation of any of the provisions of this code or of any other law.
+Permits
+presuming to give authority to violate or cancel the provisions of this code or other law shall not be valid. The issuance of a permit based on construction documents and other data shall not prevent the commissioner from requiring the correction of errors in the construction documents and other data. The commissioner is also authorized to prevent occupancy or use of a structure where in violation of this code or of any other law.
+
+---
+
+The issuance or granting of a permit shall not be construed to be a permit for, or an approval of, any violation of any of the provisions of this code or of any other law.
+Permits
+presuming to give authority to violate or cancel the provisions of this code or other law shall not be valid. The issuance of a permit based on construction documents and other data shall not prevent the commissioner from requiring the correction of errors in the construction documents and other data. The commissioner is also authorized to prevent occupancy or use of a structure where in violation of this code or of any other law.
+
+---
+
+## Section 106.5: Other Permits
+
+106.5 Other Permits
+In addition to any
+permits
+required by the provisions of this code,
+permits
+for sidewalk and street openings shall be obtained from the Department of Transportation.
+
+---
+
+In addition to any
+permits
+required by the provisions of this code,
+permits
+for sidewalk and street openings shall be obtained from the Department of Transportation.
+
+---
+
+## Section 106.6: Permits With Respect to Limited Alteration Applications
+
+106.6 Permits With Respect to Limited Alteration Applications
+For
+permits
+with respect to limited
+alteration applications, refer to Sections 28-101.5 and 28-104.6, Exception 1, of the
+Administrative
+Code
+.
+
+---
+
+For
+permits
+with respect to limited
+alteration applications, refer to Sections 28-101.5 and 28-104.6, Exception 1, of the
+Administrative
+Code
+.
+
+---
+
+Section 107 Construction Documents
+
+---
+
+## Section 107.1: General
+
+107.1 General
+Construction documents shall comply with
+Article 104
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+and other applicable provisions of this code and its referenced standards. Such construction documents shall be coordinated with architectural, structural and means of egress plans.
+
+---
+
+Construction documents shall comply with
+Article 104
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+and other applicable provisions of this code and its referenced standards. Such construction documents shall be coordinated with architectural, structural and means of egress plans.
+
+---
+
+## Section 107.2: Required Documents
+
+107.2 Required Documents
+The applicant shall submit all of the documents specified in Sections
+107.3
+through
+107.8
+as appropriate to the nature and extent of the work proposed. Construction documents shall indicate the heating, ventilation, refrigeration, and other mechanical work to be performed, so drawn as to conform to the architectural and structural aspects of the building and to show in detail compliance with this code.
+
+---
+
+The applicant shall submit all of the documents specified in Sections
+107.3
+through
+107.8
+as appropriate to the nature and extent of the work proposed. Construction documents shall indicate the heating, ventilation, refrigeration, and other mechanical work to be performed, so drawn as to conform to the architectural and structural aspects of the building and to show in detail compliance with this code.
+
+---
+
+## Section 107.2.1: Composite Plans
+
+107.2.1 Composite Plans
+Composite plans showing compliance of architectural, structural, and mechanical parts of a building may be submitted provided that a clear understanding of each part is not impaired.
+
+---
+
+Composite plans showing compliance of architectural, structural, and mechanical parts of a building may be submitted provided that a clear understanding of each part is not impaired.
+
+---
+
+## Section 107.3: Lot Diagram
+
+107.3 Lot Diagram
+The lot diagram shall be provided where applicable to the work proposed, including but not limited to the installation of exterior or rooftop
+equipment
+.
+
+---
+
+The lot diagram shall be provided where applicable to the work proposed, including but not limited to the installation of exterior or rooftop
+equipment
+.
+
+---
+
+## Section 107.4: Building Classification Statement
+
+107.4 Building Classification Statement
+Where applicable to the proposed work, the statement shall identify:
+The occupancy group or groups that apply to parts of the
+building code
+in accordance with Section 302 of the
+New York City Building Code
+;
+The occupancy group of the main use or dominant occupancy of the building;
+The construction type of the building in accordance with Section 602 of the
+New York City Building Code
+;
+The structural occupancy/risk category in accordance with Table 1604.5 of the
+New York City Building Code
+;
+The height of the building as defined in Section 202 of the
+New York City Building Code
+;
+The applicable measurements to the highest and lowest level of Fire
+Department
+access
+;
+Whether the building is inside or outside of the fire districts; and
+Whether the building is inside or outside a
+flood hazard
+area as such term is defined in
+Chapter 2
+of the
+New York City Building Code
+.
+
+---
+
+Where applicable to the proposed work, the statement shall identify:
+The occupancy group or groups that apply to parts of the
+building code
+in accordance with Section 302 of the
+New York City Building Code
+;
+The occupancy group of the main use or dominant occupancy of the building;
+The construction type of the building in accordance with Section 602 of the
+New York City Building Code
+;
+The structural occupancy/risk category in accordance with Table 1604.5 of the
+New York City Building Code
+;
+The height of the building as defined in Section 202 of the
+New York City Building Code
+;
+The applicable measurements to the highest and lowest level of Fire
+Department
+access
+;
+Whether the building is inside or outside of the fire districts; and
+Whether the building is inside or outside a
+flood hazard
+area as such term is defined in
+Chapter 2
+of the
+New York City Building Code
+.
+
+---
+
+## Section 107.5: Fuel-Gas-Burning Appliance and Fuel-Gas Piping Plans
+
+107.5 Fuel-Gas-Burning Appliance and Fuel-Gas Piping Plans
+Construction documents for
+fuel-gas
+-burning
+appliances
+and fuel-
+gas piping
+shall contain plans that include the following data and information:
+Riser
+diagrams showing the story heights, the
+gas riser
+diameter, operating pressure, gas
+meter
+piping
+and related
+appliances
+.
+Diagrammatic floor plans showing the size, location, and material for all gas distribution
+piping
+and related
+appliances
+.
+Floor plans or partial floor plans showing the location, operating pressure, layout, size, and listing information for all gas
+meter
+piping, gas
+distribution
+piping
+,
+fuel-gas
+burning
+appliances
+, gas
+vents
+, and
+chimneys
+, with the
+riser
+numbers coordinated with other plans and diagrams. The floor plans shall indicate locations of
+meters
+and shutoff
+valves
+, including the outside gas cut-off required by
+Appendix E
+, Section E6. The plans shall also indicate the method or means of providing air to the
+appliance
+space, including duct and opening sizes, or means of direct venting.
+Plans indicating the location and type of any relevant smoke and heat detectors, alarm and fire-extinguishing systems.
+Seismic protection and restraint details for
+piping
+and
+appliances
+as required by
+Chapter 16
+of the
+New York City Building Code
+.
+Details indicating the location, size and materials for all breechings; the thickness and type of insulation materials; and the
+clearances
+from combustible walls, partitions and ceiling; and the fire-resistive ratings of rooms and spaces containing the
+appliances
+.
+Details describing the type, material, listing information, height, and termination distances to adjacent properties and structures for
+chimneys
+and gas
+vents
+.
+Details showing structural
+supports
+for
+fuel-gas
+-burning
+equipment
+where required.
+In
+flood hazard
+areas, construction documents shall comply with
+Appendix G
+of the
+New York City Building Code
+.
+
+---
+
+Construction documents for
+fuel-gas
+-burning
+appliances
+and fuel-
+gas piping
+shall contain plans that include the following data and information:
+Riser
+diagrams showing the story heights, the
+gas riser
+diameter, operating pressure, gas
+meter
+piping
+and related
+appliances
+.
+Diagrammatic floor plans showing the size, location, and material for all gas distribution
+piping
+and related
+appliances
+.
+Floor plans or partial floor plans showing the location, operating pressure, layout, size, and listing information for all gas
+meter
+piping, gas
+distribution
+piping
+,
+fuel-gas
+burning
+appliances
+, gas
+vents
+, and
+chimneys
+, with the
+riser
+numbers coordinated with other plans and diagrams. The floor plans shall indicate locations of
+meters
+and shutoff
+valves
+, including the outside gas cut-off required by
+Appendix E
+, Section E6. The plans shall also indicate the method or means of providing air to the
+appliance
+space, including duct and opening sizes, or means of direct venting.
+Plans indicating the location and type of any relevant smoke and heat detectors, alarm and fire-extinguishing systems.
+Seismic protection and restraint details for
+piping
+and
+appliances
+as required by
+Chapter 16
+of the
+New York City Building Code
+.
+Details indicating the location, size and materials for all breechings; the thickness and type of insulation materials; and the
+clearances
+from combustible walls, partitions and ceiling; and the fire-resistive ratings of rooms and spaces containing the
+appliances
+.
+Details describing the type, material, listing information, height, and termination distances to adjacent properties and structures for
+chimneys
+and gas
+vents
+.
+Details showing structural
+supports
+for
+fuel-gas
+-burning
+equipment
+where required.
+In
+flood hazard
+areas, construction documents shall comply with
+Appendix G
+of the
+New York City Building Code
+.
+
+---
+
+## Section 107.6: Heating Systems
+
+107.6 Heating Systems
+Construction documents for heating systems shall include the temperature to be maintained in every room and the output capacity in BTU per hour (W) of the central heating source.
+
+---
+
+Construction documents for heating systems shall include the temperature to be maintained in every room and the output capacity in BTU per hour (W) of the central heating source.
+
+---
+
+## Section 107.7: Boilers
+
+107.7 Boilers
+Construction documents for boiler installations shall indicate the output capacity in BTU per hour (W), the operating weight of each
+boiler
+, the pressure setting of the
+relief valves
+, and such other data and information as required by this code.
+
+---
+
+Construction documents for boiler installations shall indicate the output capacity in BTU per hour (W), the operating weight of each
+boiler
+, the pressure setting of the
+relief valves
+, and such other data and information as required by this code.
+
+---
+
+## Section 107.8: Energy Efficiency
+
+107.8 Energy Efficiency
+Construction documents shall include compliance documentation as required by the
+New York City Energy Conservation Code
+.
+
+---
+
+Construction documents shall include compliance documentation as required by the
+New York City Energy Conservation Code
+.
+
+---
+
+## Section 107.9: Retention of Construction and Submittal Documents
+
+107.9 Retention of Construction and Submittal Documents
+Refer to Section 28-104.12 of the
+Administrative Code
+.
+
+---
+
+Refer to Section 28-104.12 of the
+Administrative Code
+.
+
+---
+
+Section 108 Inspections and Testing
+
+---
+
+## Section 108.1: General
+
+108.1 General
+Except as otherwise specified in Section 28-116.2.4.3 of the
+Administrative Code
+,
+inspections
+required by this code or by the department during the progress of work may be performed on behalf of the owner by approved agencies or, if applicable, by special inspectors. However, in the interest of public safety, the commissioner may direct that any of such
+inspections
+be performed by the department. All
+inspections
+shall be performed at the sole cost and expense of the owner. Refer to
+Article 116
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+for additional provisions relating to
+inspections
+.
+
+---
+
+Except as otherwise specified in Section 28-116.2.4.3 of the
+Administrative Code
+,
+inspections
+required by this code or by the department during the progress of work may be performed on behalf of the owner by approved agencies or, if applicable, by special inspectors. However, in the interest of public safety, the commissioner may direct that any of such
+inspections
+be performed by the department. All
+inspections
+shall be performed at the sole cost and expense of the owner. Refer to
+Article 116
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+for additional provisions relating to
+inspections
+.
+
+---
+
+## Section 108.2: Required Inspections and Testing
+
+108.2 Required Inspections and Testing
+In addition to any
+inspections
+otherwise required by this code or applicable rules, the following
+inspections
+shall be required:
+Progress
+inspections
+.
+Underground inspection and/or testing of installed
+piping
+,
+valves
+, fittings,
+support
+structures, anti-corrosion
+equipment
+and associated underground components shall be made before backfill is put in place. When excavated soil contains rocks, broken concrete, frozen chunks and other rubble that would damage or break the
+piping
+or cause corrosive action, clean backfill shall be on the job site ready for use in backfilling.
+Rough-in
+inspection shall be made to determine that the materials,
+design
+, fabrication and installation comply with all requirements of this code. The inspection shall be conducted after the roof, framing, fireblocking and bracing are in place and components to be concealed are complete, and prior to the installation of wall or ceiling membranes. The inspection shall be conducted prior to or in conjunction with the gas
+pressure test
+. This inspection may be completed in sections.
+Exceptions:
+A
+rough-in
+inspection shall not be required when an existing gas
+appliance
+is replaced, provided that (i) no
+gas piping
+is replaced upstream of the existing
+appliance shutoff
+valve
+, and (ii) not more than 6 feet (1828.8 mm) of
+pipe
+is installed or replaced downstream of the existing
+appliance shutoff
+valve
+.
+A
+rough-in
+inspection shall not be required when gas is reestablished by a utility company as permitted under Section 28-105.4.1 of the
+Administrative Code
+.
+Inspections
+required by the
+New York City Energy Conservation Code
+shall be made in accordance with rules of the department, as applicable.
+Gas final
+inspections
+shall be conducted after all
+appliances
+are installed, vented, wired and ready to operate with the establishment of gas. Gas final
+inspections
+shall include, but not be limited to, an inspection of components downstream of the
+appliance shutoff
+valve
+including
+gas piping
+,
+appliances
+,
+vents
+, accessory
+piping
+and make up air. Gas final
+inspections
+may be completed in sections.
+Special
+inspections
+.
+Special
+inspections
+shall be performed in accordance with this code and
+Chapter 17
+of the
+New York City Building Code
+.
+Periodic
+inspections
+.
+Periodic
+inspections
+of gas
+piping systems
+shall be conducted in accordance with
+Article 318
+of
+Chapter 3
+of
+Title 28 of the Administrative Code
+.
+Final inspection.
+Refer to
+Article 116
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+Issuance of certificate of compliance:
+Upon satisfactory inspection of service
+equipment
+and the satisfaction of all the requirements for sign-off, the department shall issue a certificate of compliance as applicable for the following service
+equipment
+:
+Fuel-gas
+-burning
+equipment
+,
+Heating systems, and
+Boilers.
+The requirements of Section 108.2 shall not be considered to prohibit the operation of any heating
+equipment
+or
+appliances
+installed to replace existing heating
+equipment
+or
+appliances
+serving an occupied portion of a structure provided that a request for inspection of such heating
+equipment
+or
+appliances
+has been filed with the department not more than 48 hours after such replacement work is completed, and all required
+inspections
+are performed before any portion of such
+equipment
+or
+appliances
+is concealed by any permanent portion of the structure.
+
+---
+
+In addition to any
+inspections
+otherwise required by this code or applicable rules, the following
+inspections
+shall be required:
+Progress
+inspections
+.
+Underground inspection and/or testing of installed
+piping
+,
+valves
+, fittings,
+support
+structures, anti-corrosion
+equipment
+and associated underground components shall be made before backfill is put in place. When excavated soil contains rocks, broken concrete, frozen chunks and other rubble that would damage or break the
+piping
+or cause corrosive action, clean backfill shall be on the job site ready for use in backfilling.
+Rough-in
+inspection shall be made to determine that the materials,
+design
+, fabrication and installation comply with all requirements of this code. The inspection shall be conducted after the roof, framing, fireblocking and bracing are in place and components to be concealed are complete, and prior to the installation of wall or ceiling membranes. The inspection shall be conducted prior to or in conjunction with the gas
+pressure test
+. This inspection may be completed in sections.
+Exceptions:
+A
+rough-in
+inspection shall not be required when an existing gas
+appliance
+is replaced, provided that (i) no
+gas piping
+is replaced upstream of the existing
+appliance shutoff
+valve
+, and (ii) not more than 6 feet (1828.8 mm) of
+pipe
+is installed or replaced downstream of the existing
+appliance shutoff
+valve
+.
+A
+rough-in
+inspection shall not be required when gas is reestablished by a utility company as permitted under Section 28-105.4.1 of the
+Administrative Code
+.
+Inspections
+required by the
+New York City Energy Conservation Code
+shall be made in accordance with rules of the department, as applicable.
+Gas final
+inspections
+shall be conducted after all
+appliances
+are installed, vented, wired and ready to operate with the establishment of gas. Gas final
+inspections
+shall include, but not be limited to, an inspection of components downstream of the
+appliance shutoff
+valve
+including
+gas piping
+,
+appliances
+,
+vents
+, accessory
+piping
+and make up air. Gas final
+inspections
+may be completed in sections.
+Special
+inspections
+.
+Special
+inspections
+shall be performed in accordance with this code and
+Chapter 17
+of the
+New York City Building Code
+.
+Periodic
+inspections
+.
+Periodic
+inspections
+of gas
+piping systems
+shall be conducted in accordance with
+Article 318
+of
+Chapter 3
+of
+Title 28 of the Administrative Code
+.
+Final inspection.
+Refer to
+Article 116
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+Issuance of certificate of compliance:
+Upon satisfactory inspection of service
+equipment
+and the satisfaction of all the requirements for sign-off, the department shall issue a certificate of compliance as applicable for the following service
+equipment
+:
+Fuel-gas
+-burning
+equipment
+,
+Heating systems, and
+Boilers.
+The requirements of Section 108.2 shall not be considered to prohibit the operation of any heating
+equipment
+or
+appliances
+installed to replace existing heating
+equipment
+or
+appliances
+serving an occupied portion of a structure provided that a request for inspection of such heating
+equipment
+or
+appliances
+has been filed with the department not more than 48 hours after such replacement work is completed, and all required
+inspections
+are performed before any portion of such
+equipment
+or
+appliances
+is concealed by any permanent portion of the structure.
+
+---
+
+## Section 108.2.1: Approved Inspection Agencies
+
+108.2.1 Approved Inspection Agencies
+Refer to Articles
+114
+and
+115
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+Refer to Articles
+114
+and
+115
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+## Section 108.2.2: Inspection of Prefabricated Construction Assemblies
+
+108.2.2 Inspection of Prefabricated Construction Assemblies
+Prior to the approval of a prefabricated construction assembly having concealed work and the issuance of a permit, the department shall require the submittal of an evaluation report by an approved agency on each prefabricated construction assembly, indicating the complete details of the installation, including a description of the system and its components, the basis upon which the system is being evaluated, test results and similar information and other data as necessary for the commissioner to determine conformance to this code.
+
+---
+
+Prior to the approval of a prefabricated construction assembly having concealed work and the issuance of a permit, the department shall require the submittal of an evaluation report by an approved agency on each prefabricated construction assembly, indicating the complete details of the installation, including a description of the system and its components, the basis upon which the system is being evaluated, test results and similar information and other data as necessary for the commissioner to determine conformance to this code.
+
+---
+
+## Section 108.2.2.1: Test and Inspection Records
+
+108.2.2.1 Test and Inspection Records
+Required test and inspection records shall be available to the commissioner at all times during the fabrication of the installation and the erection of the building; or such records as the commissioner designates shall be filed.
+
+---
+
+Required test and inspection records shall be available to the commissioner at all times during the fabrication of the installation and the erection of the building; or such records as the commissioner designates shall be filed.
+
+---
+
+## Section 108.2.3: Exposure of Work
+
+108.2.3 Exposure of Work
+The work shall remain accessible and exposed for inspection purposes. Neither the commissioner nor the city shall be liable for expense entailed in the removal or replacement of any material required to allow inspection.
+
+---
+
+The work shall remain accessible and exposed for inspection purposes. Neither the commissioner nor the city shall be liable for expense entailed in the removal or replacement of any material required to allow inspection.
+
+---
+
+## Section 108.3: Testing
+
+108.3 Testing
+Installations shall be tested as required in this code and in accordance with Sections
+108.3.1
+through
+108.3.3
+. Tests shall be made by the permit holder and witnessed by the department.
+
+---
+
+Installations shall be tested as required in this code and in accordance with Sections
+108.3.1
+through
+108.3.3
+. Tests shall be made by the permit holder and witnessed by the department.
+
+---
+
+## Section 108.3.1: New, Altered, Extended or Repaired Installations
+
+108.3.1 New, Altered, Extended or Repaired Installations
+New installations and parts of existing installations that have been altered, extended, renovated or repaired, shall be tested as prescribed herein to disclose leaks and defects.
+Exceptions:
+A gas test shall not be required when an existing gas
+appliance
+is replaced, provided that
+(i) no
+gas piping
+is replaced upstream of the existing
+appliance shutoff
+valve
+and (ii) not
+more than 6 feet (1828.8 mm) of
+pipe
+is installed or replaced downstream of the existing
+appliance shutoff
+valve
+.
+A gas test shall not be required when gas is reestablished by a utility company as permitted
+under section 28-105.4.1 of the
+Administrative Code
+.
+
+---
+
+New installations and parts of existing installations that have been altered, extended, renovated or repaired, shall be tested as prescribed herein to disclose leaks and defects.
+Exceptions:
+A gas test shall not be required when an existing gas
+appliance
+is replaced, provided that
+(i) no
+gas piping
+is replaced upstream of the existing
+appliance shutoff
+valve
+and (ii) not
+more than 6 feet (1828.8 mm) of
+pipe
+is installed or replaced downstream of the existing
+appliance shutoff
+valve
+.
+A gas test shall not be required when gas is reestablished by a utility company as permitted
+under section 28-105.4.1 of the
+Administrative Code
+.
+
+---
+
+## Section 108.3.2: Apparatus, Instruments, Material and Labor for Tests
+
+108.3.2 Apparatus, Instruments, Material and Labor for Tests
+Apparatus, instruments, material and labor required for testing an installation or part thereof shall be furnished by the permit holder.
+
+---
+
+Apparatus, instruments, material and labor required for testing an installation or part thereof shall be furnished by the permit holder.
+
+---
+
+## Section 108.3.3: Reinspection and Testing
+
+108.3.3 Reinspection and Testing
+Where any work or installation does not pass an initial test or inspection, the necessary corrections shall be made to comply with this code. The work or installation shall then be resubmitted to the department for inspection and testing.
+
+---
+
+Where any work or installation does not pass an initial test or inspection, the necessary corrections shall be made to comply with this code. The work or installation shall then be resubmitted to the department for inspection and testing.
+
+---
+
+## Section 108.3.4: Test Validity
+
+108.3.4 Test Validity
+A gas test that is accepted by the department shall be valid for a period of
+one year from the date of the test.
+
+---
+
+A gas test that is accepted by the department shall be valid for a period of
+one year from the date of the test.
+
+---
+
+## Section 108.4: Sign-Off of Completed Work
+
+108.4 Sign-Off of Completed Work
+Refer to
+Article 116
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+Refer to
+Article 116
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+## Section 108.5: Temporary Connection
+
+108.5 Temporary Connection
+The commissioner shall have the authority to allow the temporary connection of an installation to the sources of energy for the purpose of testing the installation or for use under a temporary certificate of occupancy.
+
+---
+
+The commissioner shall have the authority to allow the temporary connection of an installation to the sources of energy for the purpose of testing the installation or for use under a temporary certificate of occupancy.
+
+---
+
+Section 109 Violations
+
+---
+
+## Section 109.1: General
+
+109.1 General
+Refer to Chapters
+2
+and
+3
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+Refer to Chapters
+2
+and
+3
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+## Section 109.2: Authority to Disconnect Service Utilities
+
+109.2 Authority to Disconnect Service Utilities
+The commissioner shall have the authority to require disconnection of utility service to the building, structure or system regulated by the technical codes in case of emergency where necessary to eliminate an immediate hazard to life or property. The commissioner shall notify the serving utility, and wherever possible, the owner and occupant of the building, structure or service system of the decision to disconnect prior to taking such action. If not notified prior to disconnection, the owner or occupant of the building, structure or service system shall be notified in writing, as soon as practicable thereafter.
+
+---
+
+The commissioner shall have the authority to require disconnection of utility service to the building, structure or system regulated by the technical codes in case of emergency where necessary to eliminate an immediate hazard to life or property. The commissioner shall notify the serving utility, and wherever possible, the owner and occupant of the building, structure or service system of the decision to disconnect prior to taking such action. If not notified prior to disconnection, the owner or occupant of the building, structure or service system shall be notified in writing, as soon as practicable thereafter.
+
+---
+
+## Section 109.3: Connection After Order to Disconnect
+
+109.3 Connection After Order to Disconnect
+A person shall not make energy source connections to installations regulated by this code that have been disconnected or ordered to be disconnected by the commissioner, or the use of which has been ordered to be discontinued by the commissioner until the commissioner authorizes the reconnection and use of such installations. When an installation is maintained in violation of this code, and in violation of a notice issued pursuant to the provisions of this section, the commissioner shall institute appropriate action to prevent, restrain, correct or abate the violation.
+
+---
+
+A person shall not make energy source connections to installations regulated by this code that have been disconnected or ordered to be disconnected by the commissioner, or the use of which has been ordered to be discontinued by the commissioner until the commissioner authorizes the reconnection and use of such installations. When an installation is maintained in violation of this code, and in violation of a notice issued pursuant to the provisions of this section, the commissioner shall institute appropriate action to prevent, restrain, correct or abate the violation.
+
+---
+

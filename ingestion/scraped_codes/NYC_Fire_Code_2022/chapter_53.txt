@@ -1,0 +1,3561 @@
+# NYC Fire Code 2022 - Chapter 53
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+5301 General
+
+---
+
+5302 Definitions
+
+---
+
+5303 General Requirements
+
+---
+
+5304 Storage of Compressed Gases
+
+---
+
+5305 Handling and Use of Compressed Gases
+
+---
+
+5306 Medical Gas Storage
+
+---
+
+5307 Carbon Dioxide Beverage Dispensing Systems
+
+---
+
+5308 Ethylene Oxide
+
+---
+
+5309 Compressed Gases Not Otherwise Regulated
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Section 5301 General
+
+---
+
+## Section 5301.1: Scope
+
+5301.1 Scope
+This chapter shall govern the storage,
+handling
+and use of compressed gases in
+compressed gas containers
+and
+systems
+, including those gases regulated elsewhere in this code.
+Exceptions:
+Compressed gases used as
+refrigerants
+in
+refrigerating systems
+in accordance with
+FC Chapter 6
+.
+Compressed
+natural gas
+(CNG) stored and used on a
+motor vehicle
+for motive power in accordance with
+FC Chapter 23
+, NFPA 52 and the
+Fuel Gas Code
+.
+Compressed gases connected for use in a
+fire extinguishing system
+.
+
+---
+
+This chapter shall govern the storage,
+handling
+and use of compressed gases in
+compressed gas containers
+and
+systems
+, including those gases regulated elsewhere in this code.
+Exceptions:
+Compressed gases used as
+refrigerants
+in
+refrigerating systems
+in accordance with
+FC Chapter 6
+.
+Compressed
+natural gas
+(CNG) stored and used on a
+motor vehicle
+for motive power in accordance with
+FC Chapter 23
+, NFPA 52 and the
+Fuel Gas Code
+.
+Compressed gases connected for use in a
+fire extinguishing system
+.
+
+---
+
+## Section 5301.2: Permits
+
+5301.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 5301.3: General
+
+5301.3 General
+Compressed gases shall be stored, handled and used in accordance with this
+chapter.
+
+---
+
+Compressed gases shall be stored, handled and used in accordance with this
+chapter.
+
+---
+
+## Section 5301.3.1: Cutting and Welding Gases
+
+5301.3.1 Cutting and Welding Gases
+Cutting and welding gases shall additionally comply
+with the requirements of
+FC Chapter 35
+.
+
+---
+
+Cutting and welding gases shall additionally comply
+with the requirements of
+FC Chapter 35
+.
+
+---
+
+## Section 5301.3.2: Cryogenic Fluids
+
+5301.3.2 Cryogenic Fluids
+Cryogenic fluids
+shall additionally comply with the requirements
+of
+FC Chapter 55
+.
+
+---
+
+Cryogenic fluids
+shall additionally comply with the requirements
+of
+FC Chapter 55
+.
+
+---
+
+## Section 5301.3.3: Hazardous Materials
+
+5301.3.3 Hazardous Materials
+Compressed gases classified as
+hazardous materials
+shall
+additionally comply with the requirements of
+FC Chapter 50
+and any other applicable chapters
+of this code, including FC Chapters
+58
+(Flammable Gases),
+60
+(Highly Toxic and Toxic
+Materials), 63 (
+Oxidizers
+,
+Oxidizing Gases
+and
+Oxidizing Cryogenic Fluids
+) and 64
+(
+Pyrophoric Materials
+), as applicable.
+
+---
+
+Compressed gases classified as
+hazardous materials
+shall
+additionally comply with the requirements of
+FC Chapter 50
+and any other applicable chapters
+of this code, including FC Chapters
+58
+(Flammable Gases),
+60
+(Highly Toxic and Toxic
+Materials), 63 (
+Oxidizers
+,
+Oxidizing Gases
+and
+Oxidizing Cryogenic Fluids
+) and 64
+(
+Pyrophoric Materials
+), as applicable.
+
+---
+
+## Section 5301.3.4: Liquefied Petroleum Gas (LPG)
+
+5301.3.4 Liquefied Petroleum Gas (LPG)
+LPG
+shall additionally comply with the
+requirements of
+FC Chapter 61
+and the
+Fuel Gas Code
+.
+
+---
+
+LPG
+shall additionally comply with the
+requirements of
+FC Chapter 61
+and the
+Fuel Gas Code
+.
+
+---
+
+## Section 5301.4: Supervision
+
+5301.4 Supervision
+The storage,
+handling
+, use and compression of compressed gases shall be
+supervised as set forth in
+FC 5301.4.1
+through
+5301.4.5
+.
+
+---
+
+The storage,
+handling
+, use and compression of compressed gases shall be
+supervised as set forth in
+FC 5301.4.1
+through
+5301.4.5
+.
+
+---
+
+## Section 5301.4.1: Handling and Use
+
+5301.4.1 Handling and Use
+The
+handling
+and use of compressed gases in quantities requiring
+a
+permit
+, including piped medical gas
+systems
+and the removal of leaking, damaged or
+corroded
+compressed gas
+cylinders from service, shall be under the
+personal supervision
+of a
+person holding a
+certificate of fitness
+.
+
+---
+
+The
+handling
+and use of compressed gases in quantities requiring
+a
+permit
+, including piped medical gas
+systems
+and the removal of leaking, damaged or
+corroded
+compressed gas
+cylinders from service, shall be under the
+personal supervision
+of a
+person holding a
+certificate of fitness
+.
+
+---
+
+## Section 5301.4.2: Storage
+
+5301.4.2 Storage
+The storage of compressed gases in quantities requiring a
+permit
+, including
+medical gases that are not piped, shall be under the
+general supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+The storage of compressed gases in quantities requiring a
+permit
+, including
+medical gases that are not piped, shall be under the
+general supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 5301.4.3: Compressing
+
+5301.4.3 Compressing
+The compressing of gases requiring a
+permit
+shall be performed by or under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+Exception:
+Compressing atmospheric air may be under the
+general supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+The compressing of gases requiring a
+permit
+shall be performed by or under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+Exception:
+Compressing atmospheric air may be under the
+general supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 5301.4.4: Filling of Containers
+
+5301.4.4 Filling of Containers
+The transfer of nonflammable compressed gases between
+containers
+shall be performed by a person holding a
+certificate of fitness
+.
+
+---
+
+The transfer of nonflammable compressed gases between
+containers
+shall be performed by a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 5301.4.5: Installation
+
+5301.4.5 Installation
+The installation of carbon dioxide beverage
+dispensing
+systems
+,
+including the
+maintenance
+and repair of such
+systems
+, shall be conducted by or under personal
+supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+The installation of carbon dioxide beverage
+dispensing
+systems
+,
+including the
+maintenance
+and repair of such
+systems
+, shall be conducted by or under personal
+supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+Section 5302 Definitions
+
+---
+
+## Section 5302.1: Definitions
+
+5302.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+COMPRESSED GAS
+.
+Nonliquefied compressed gases
+.
+Liquefied compressed gases
+.
+Compressed gases in solution
+.
+Compressed gas mixtures
+.
+COMPRESSED GAS
+CONTAINER
+.
+COMPRESSED GAS
+SYSTEM
+.
+HYPERBARIC
+FACILITY
+.
+NESTING
+.
+TUBE TRAILER
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+COMPRESSED GAS
+.
+Nonliquefied compressed gases
+.
+Liquefied compressed gases
+.
+Compressed gases in solution
+.
+Compressed gas mixtures
+.
+COMPRESSED GAS
+CONTAINER
+.
+COMPRESSED GAS
+SYSTEM
+.
+HYPERBARIC
+FACILITY
+.
+NESTING
+.
+TUBE TRAILER
+.
+
+---
+
+Section 5303 General Requirements
+
+---
+
+## Section 5303.1: Containers
+
+5303.1 Containers
+Compressed gas containers
+shall comply with the requirements of this section.
+Compressed gas containers
+that are not designed for refillable use shall not be refilled after use of
+the original contents.
+Compressed gas containers
+that are partially full or contain residual fumes
+or vapors shall be considered as full for the purposes of complying with the requirements of this
+chapter.
+
+---
+
+Compressed gas containers
+shall comply with the requirements of this section.
+Compressed gas containers
+that are not designed for refillable use shall not be refilled after use of
+the original contents.
+Compressed gas containers
+that are partially full or contain residual fumes
+or vapors shall be considered as full for the purposes of complying with the requirements of this
+chapter.
+
+---
+
+## Section 5303.1.1: Design and Construction
+
+5303.1.1 Design and Construction
+Compressed gas containers
+shall be designed, fabricated,
+tested, marked with the specifications of manufacture and maintained in accordance with
+Section VIII of the ASME Boiler and
+Pressure Vessel
+Code, or the regulations of the United
+States
+Department
+of Transportation, as set forth in 49 CFR Parts 100-180.
+
+---
+
+Compressed gas containers
+shall be designed, fabricated,
+tested, marked with the specifications of manufacture and maintained in accordance with
+Section VIII of the ASME Boiler and
+Pressure Vessel
+Code, or the regulations of the United
+States
+Department
+of Transportation, as set forth in 49 CFR Parts 100-180.
+
+---
+
+## Section 5303.1.2: Pressure Relief Devices
+
+5303.1.2 Pressure Relief Devices
+Pressure relief devices shall be designed in compliance with
+the requirements of
+FC 5303.1.2.1
+through
+5303.1.2.4
+.
+
+---
+
+Pressure relief devices shall be designed in compliance with
+the requirements of
+FC 5303.1.2.1
+through
+5303.1.2.4
+.
+
+---
+
+## Section 5303.1.2.1: Where Required
+
+5303.1.2.1 Where Required
+Containers
+and
+tanks
+for
+compressed gas
+storage shall be
+provided with pressure relief devices designed in accordance with CGA S-1.1, CGA S-1.2,
+CGA S-1.3, or Section VIII of the ASME Boiler and
+Pressure Vessel
+Code, as applicable,
+to protect such
+containers
+and
+tanks
+from rupture in the event of overpressure.
+
+---
+
+Containers
+and
+tanks
+for
+compressed gas
+storage shall be
+provided with pressure relief devices designed in accordance with CGA S-1.1, CGA S-1.2,
+CGA S-1.3, or Section VIII of the ASME Boiler and
+Pressure Vessel
+Code, as applicable,
+to protect such
+containers
+and
+tanks
+from rupture in the event of overpressure.
+
+---
+
+## Section 5303.1.2.2: Size
+
+5303.1.2.2 Size
+Pressure relief devices shall be sized in accordance with the specifications
+to which the
+container
+was fabricated and to material-specific requirements, as applicable.
+
+---
+
+Pressure relief devices shall be sized in accordance with the specifications
+to which the
+container
+was fabricated and to material-specific requirements, as applicable.
+
+---
+
+## Section 5303.1.2.3: Arrangement
+
+5303.1.2.3 Arrangement
+Pressure relief devices shall be arranged to discharge upward and unobstructed to the open air in such a manner as to prevent any impingement of escaping gas upon the
+container
+, adjacent structures or personnel.
+Exception:
+DOTn
+specification
+containers
+having an internal volume of 30 SCF (0.855 m
+3
+) or less.
+
+---
+
+Pressure relief devices shall be arranged to discharge upward and unobstructed to the open air in such a manner as to prevent any impingement of escaping gas upon the
+container
+, adjacent structures or personnel.
+Exception:
+DOTn
+specification
+containers
+having an internal volume of 30 SCF (0.855 m
+3
+) or less.
+
+---
+
+## Section 5303.1.2.4: Protection Against Freezing
+
+5303.1.2.4 Protection Against Freezing
+Pressure relief devices shall be designed and
+installed to prevent moisture from collecting and freezing in a manner that would impair
+the operation of the device.
+
+---
+
+Pressure relief devices shall be designed and
+installed to prevent moisture from collecting and freezing in a manner that would impair
+the operation of the device.
+
+---
+
+## Section 5303.2: Marking
+
+5303.2 Marking
+Stationary and portable
+compressed gas containers
+and
+systems
+shall be marked
+in compliance with the requirements of
+FC 5303.2.1
+through
+5303.2.4
+.
+
+---
+
+Stationary and portable
+compressed gas containers
+and
+systems
+shall be marked
+in compliance with the requirements of
+FC 5303.2.1
+through
+5303.2.4
+.
+
+---
+
+## Section 5303.2.1: Stationary Compressed Gas Containers
+
+5303.2.1 Stationary Compressed Gas Containers
+Stationary
+compressed gas containers
+shall
+be marked with the name of the gas in accordance with
+FC 5003.5
+and
+5003.6
+. Markings shall
+be visible from any direction of approach. All uninsulated stationary outdoor
+compressed gas
+containers
+shall be of light-reflective design or painted with a light-reflecting color.
+
+---
+
+Stationary
+compressed gas containers
+shall
+be marked with the name of the gas in accordance with
+FC 5003.5
+and
+5003.6
+. Markings shall
+be visible from any direction of approach. All uninsulated stationary outdoor
+compressed gas
+containers
+shall be of light-reflective design or painted with a light-reflecting color.
+
+---
+
+## Section 5303.2.2: Portable Containers
+
+5303.2.2 Portable Containers
+Portable
+compressed gas containers
+shall be marked in
+accordance with CGA C-7 and
+DOTn
+regulations.
+
+---
+
+Portable
+compressed gas containers
+shall be marked in
+accordance with CGA C-7 and
+DOTn
+regulations.
+
+---
+
+## Section 5303.2.3: Piping Systems
+
+5303.2.3 Piping Systems
+Piping
+systems
+shall be marked in accordance with ASME A13.1. Markings used for piping
+systems
+shall consist of the name of the contents and include an arrow indicating direction of flow. Markings shall be provided at each valve; at wall, floor or ceiling penetrations; at each change of direction; and at a minimum of every 20 feet (6096 mm) or fraction thereof throughout the piping run.
+Exceptions:
+Piping that is designed or intended to carry more than one
+compressed gas
+at various times shall have appropriate signs or markings posted at the manifold, along the piping and at each point of use to provide clear identification and warning.
+Piping within gas-manufacturing plants, gas-processing plants and similar
+occupancies
+shall be marked in an
+approved
+manner.
+
+---
+
+Piping
+systems
+shall be marked in accordance with ASME A13.1. Markings used for piping
+systems
+shall consist of the name of the contents and include an arrow indicating direction of flow. Markings shall be provided at each valve; at wall, floor or ceiling penetrations; at each change of direction; and at a minimum of every 20 feet (6096 mm) or fraction thereof throughout the piping run.
+Exceptions:
+Piping that is designed or intended to carry more than one
+compressed gas
+at various times shall have appropriate signs or markings posted at the manifold, along the piping and at each point of use to provide clear identification and warning.
+Piping within gas-manufacturing plants, gas-processing plants and similar
+occupancies
+shall be marked in an
+approved
+manner.
+
+---
+
+## Section 5303.2.4: Out-of-Service Containers
+
+5303.2.4 Out-of-Service Containers
+Out-of-service
+compressed gas containers
+shall be
+marked to indicate that they are no longer available for service.
+
+---
+
+Out-of-service
+compressed gas containers
+shall be
+marked to indicate that they are no longer available for service.
+
+---
+
+## Section 5303.3: Container Protection
+
+5303.3 Container Protection
+Compressed gas containers
+and
+systems
+shall be secured and
+protected against physical damage and tampering in compliance with the requirements of FC
+5003.9.2
+,
+5303.3.2
+and
+5303.3.3
+.
+
+---
+
+Compressed gas containers
+and
+systems
+shall be secured and
+protected against physical damage and tampering in compliance with the requirements of FC
+5003.9.2
+,
+5303.3.2
+and
+5303.3.3
+.
+
+---
+
+## Section 5303.3.1: Flood Hazard
+
+5303.3.1 Flood Hazard
+Stationary
+compressed gas containers
+located in areas of special
+flood hazard
+or on the
+premises
+of
+Group I
+-2
+occupancies
+that are hospitals located in shaded X-Zones (as defined in Section G201.2 of
+Appendix G
+of the
+Building Code
+) shall comply with
+Section G307.5
+of the
+Building Code
+.
+
+---
+
+Stationary
+compressed gas containers
+located in areas of special
+flood hazard
+or on the
+premises
+of
+Group I
+-2
+occupancies
+that are hospitals located in shaded X-Zones (as defined in Section G201.2 of
+Appendix G
+of the
+Building Code
+) shall comply with
+Section G307.5
+of the
+Building Code
+.
+
+---
+
+## Section 5303.3.2: Physical Protection
+
+5303.3.2 Physical Protection
+Compressed gas containers
+and
+systems
+that could be exposed
+to physical damage shall be protected. Posts or other
+approved
+means shall be provided to
+protect
+compressed gas containers
+and
+systems
+indoors
+and outdoors from vehicular damage
+and shall comply with the requirements of
+FC312
+.
+
+---
+
+Compressed gas containers
+and
+systems
+that could be exposed
+to physical damage shall be protected. Posts or other
+approved
+means shall be provided to
+protect
+compressed gas containers
+and
+systems
+indoors
+and outdoors from vehicular damage
+and shall comply with the requirements of
+FC312
+.
+
+---
+
+## Section 5303.3.3: Securing Compressed Gas Containers
+
+5303.3.3 Securing Compressed Gas Containers
+Compressed gas containers
+shall be secured to prevent movement from contact, vibration or seismic activity, utilizing one or more of the following methods:
+Securing
+containers
+to a fixed object with one or more noncombustible restraints.
+Containers
+shall not be secured to plumbing
+systems
+or
+electrical
+conduits.
+Securing
+containers
+on a cart or other mobile device designed for the movement of
+compressed gas containers
+.
+Nesting
+of
+compressed gas containers
+at
+container
+filling or servicing
+facilities
+or in seller's warehouses not accessible to the public.
+Nesting
+may be used provided the nested
+containers
+, if dislodged, do not obstruct any required
+means of egress
+.
+Securing of
+compressed gas containers
+to or within a rack, framework, cabinet or similar assembly designed for such use, except when the
+containers
+are being inspected, serviced, filled or transported.
+Securing stationary
+compressed gas containers
+to a foundation designed for such use in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Compressed gas containers
+shall be secured to prevent movement from contact, vibration or seismic activity, utilizing one or more of the following methods:
+Securing
+containers
+to a fixed object with one or more noncombustible restraints.
+Containers
+shall not be secured to plumbing
+systems
+or
+electrical
+conduits.
+Securing
+containers
+on a cart or other mobile device designed for the movement of
+compressed gas containers
+.
+Nesting
+of
+compressed gas containers
+at
+container
+filling or servicing
+facilities
+or in seller's warehouses not accessible to the public.
+Nesting
+may be used provided the nested
+containers
+, if dislodged, do not obstruct any required
+means of egress
+.
+Securing of
+compressed gas containers
+to or within a rack, framework, cabinet or similar assembly designed for such use, except when the
+containers
+are being inspected, serviced, filled or transported.
+Securing stationary
+compressed gas containers
+to a foundation designed for such use in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 5303.4: Valve Protection
+
+5303.4 Valve Protection
+Compressed gas container
+valves shall be protected from physical
+damage by means of protective caps, collars or similar devices, in compliance with the
+requirements of
+FC 5303.4.1
+and
+5303.4.2
+.
+
+---
+
+Compressed gas container
+valves shall be protected from physical
+damage by means of protective caps, collars or similar devices, in compliance with the
+requirements of
+FC 5303.4.1
+and
+5303.4.2
+.
+
+---
+
+## Section 5303.4.1: Compressed Gas Container Protective Caps or Collars
+
+5303.4.1 Compressed Gas Container Protective Caps or Collars
+Compressed gas containers
+designed to be fitted with protective caps, collars or other protective devices shall have such
+caps or devices in place except when the
+containers
+are in use or are being serviced or filled.
+
+---
+
+Compressed gas containers
+designed to be fitted with protective caps, collars or other protective devices shall have such
+caps or devices in place except when the
+containers
+are in use or are being serviced or filled.
+
+---
+
+## Section 5303.4.2: Caps and Plugs
+
+5303.4.2 Caps and Plugs
+Valves of
+compressed gas containers
+designed to accept protection
+caps or other protective devices shall have such caps or devices attached. Outlet caps or plugs
+shall be in place except when the
+compressed gas containers
+are in use or are being serviced
+or filled.
+
+---
+
+Valves of
+compressed gas containers
+designed to accept protection
+caps or other protective devices shall have such caps or devices attached. Outlet caps or plugs
+shall be in place except when the
+compressed gas containers
+are in use or are being serviced
+or filled.
+
+---
+
+## Section 5303.5: Separation From Hazardous Conditions
+
+5303.5 Separation From Hazardous Conditions
+Compressed gas containers
+and
+systems
+in
+storage or use shall be separated from materials and conditions that present potential hazards to
+them, or to which they present potential hazards.
+Compressed gas containers
+and
+systems
+in
+storage or use shall be separated in accordance with
+FC 5303.5.1
+through
+5303.5.11
+.
+
+---
+
+Compressed gas containers
+and
+systems
+in
+storage or use shall be separated from materials and conditions that present potential hazards to
+them, or to which they present potential hazards.
+Compressed gas containers
+and
+systems
+in
+storage or use shall be separated in accordance with
+FC 5303.5.1
+through
+5303.5.11
+.
+
+---
+
+## Section 5303.5.1: Incompatible Materials
+
+5303.5.1 Incompatible Materials
+Compressed gas containers
+shall be separated from each
+other based on the hazard class of their contents.
+Compressed gas containers
+shall be separated
+from
+incompatible materials
+in accordance with
+FC5003.9.8
+.
+
+---
+
+Compressed gas containers
+shall be separated from each
+other based on the hazard class of their contents.
+Compressed gas containers
+shall be separated
+from
+incompatible materials
+in accordance with
+FC5003.9.8
+.
+
+---
+
+## Section 5303.5.2: Combustible Waste and Vegetation
+
+5303.5.2 Combustible Waste and Vegetation
+Combustible waste
+and
+vegetation
+shall be kept
+a minimum of 10 feet (3048 mm) from
+compressed gas containers
+and
+systems
+. A
+noncombustible partition, without openings or penetrations extending not less than 18 inches
+(457 mm) above the height of the tallest
+container
+or
+system
+piping and not less than 18 inches
+(457 mm) to the sides of the storage area is allowed in lieu of such distance. The wall shall
+either be an independent structure, or the exterior wall of the building adjacent to the storage
+area.
+
+---
+
+Combustible waste
+and
+vegetation
+shall be kept
+a minimum of 10 feet (3048 mm) from
+compressed gas containers
+and
+systems
+. A
+noncombustible partition, without openings or penetrations extending not less than 18 inches
+(457 mm) above the height of the tallest
+container
+or
+system
+piping and not less than 18 inches
+(457 mm) to the sides of the storage area is allowed in lieu of such distance. The wall shall
+either be an independent structure, or the exterior wall of the building adjacent to the storage
+area.
+
+---
+
+## Section 5303.5.3: Ledges, Platforms and Elevators
+
+5303.5.3 Ledges, Platforms and Elevators
+Compressed gas containers
+shall not be placed
+near elevators, unprotected platform ledges or other areas where the
+container
+could drop a
+distance exceeding one-half the height of the
+container
+.
+
+---
+
+Compressed gas containers
+shall not be placed
+near elevators, unprotected platform ledges or other areas where the
+container
+could drop a
+distance exceeding one-half the height of the
+container
+.
+
+---
+
+## Section 5303.5.4: Extreme Temperature
+
+5303.5.4 Extreme Temperature
+Compressed gas containers
+, regardless of contents, shall not be exposed to temperatures exceeding 125°F (52°C) or less than mean low atmospheric temperatures unless designed for use under such conditions.
+
+---
+
+Compressed gas containers
+, regardless of contents, shall not be exposed to temperatures exceeding 125°F (52°C) or less than mean low atmospheric temperatures unless designed for use under such conditions.
+
+---
+
+## Section 5303.5.5: Falling Objects
+
+5303.5.5 Falling Objects
+Compressed gas containers
+and
+systems
+shall not be placed in areas
+where they are exposed to damage from falling objects.
+
+---
+
+Compressed gas containers
+and
+systems
+shall not be placed in areas
+where they are exposed to damage from falling objects.
+
+---
+
+## Section 5303.5.6: Heating
+
+5303.5.6 Heating
+Compressed gas containers
+shall not be heated by devices that could raise the surface temperature of the
+container
+to above 125°F (52°C). Heating devices shall comply with the requirements of the
+Mechanical Code
+and the
+Electrical Code
+.
+Approved
+heating methods not capable of producing surface temperatures above 125°F (52°C) are allowed to be used by trained personnel. Devices designed to maintain individual
+compressed gas containers
+at constant temperature shall be
+approved
+and shall be designed to be
+fail-safe
+.
+
+---
+
+Compressed gas containers
+shall not be heated by devices that could raise the surface temperature of the
+container
+to above 125°F (52°C). Heating devices shall comply with the requirements of the
+Mechanical Code
+and the
+Electrical Code
+.
+Approved
+heating methods not capable of producing surface temperatures above 125°F (52°C) are allowed to be used by trained personnel. Devices designed to maintain individual
+compressed gas containers
+at constant temperature shall be
+approved
+and shall be designed to be
+fail-safe
+.
+
+---
+
+## Section 5303.5.7: Sources of Ignition
+
+5303.5.7 Sources of Ignition
+Compressed gas containers
+and
+tanks
+shall not be exposed to
+open flames
+or high-temperature devices in a manner that could create a hazardous condition.
+
+---
+
+Compressed gas containers
+and
+tanks
+shall not be exposed to
+open flames
+or high-temperature devices in a manner that could create a hazardous condition.
+
+---
+
+## Section 5303.5.8: Exposure to Chemicals
+
+5303.5.8 Exposure to Chemicals
+Compressed gas containers
+and
+systems
+shall not be exposed
+to corrosive
+chemicals
+or fumes that could damage
+containers
+, valves or valve-protective caps.
+
+---
+
+Compressed gas containers
+and
+systems
+shall not be exposed
+to corrosive
+chemicals
+or fumes that could damage
+containers
+, valves or valve-protective caps.
+
+---
+
+## Section 5303.5.9: Exhausted Enclosures
+
+5303.5.9 Exhausted Enclosures
+When
+exhausted enclosures
+are provided as a means to
+segregate
+compressed gas containers
+from exposure hazards, such enclosures shall comply
+with the requirements of
+FC5003.8.5
+.
+
+---
+
+When
+exhausted enclosures
+are provided as a means to
+segregate
+compressed gas containers
+from exposure hazards, such enclosures shall comply
+with the requirements of
+FC5003.8.5
+.
+
+---
+
+## Section 5303.5.10: Gas Cabinets
+
+5303.5.10 Gas Cabinets
+When
+gas cabinets
+are provided as a means to separate compressed
+gas
+containers
+from exposure hazards, such
+gas cabinets
+shall comply with the requirements
+of
+FC5003.8.6
+.
+
+---
+
+When
+gas cabinets
+are provided as a means to separate compressed
+gas
+containers
+from exposure hazards, such
+gas cabinets
+shall comply with the requirements
+of
+FC5003.8.6
+.
+
+---
+
+## Section 5303.5.11: Tube Trailers
+
+5303.5.11 Tube Trailers
+A
+tube trailer
+may be used to deliver
+compressed gas
+to a stationary
+compressed gas
+storage
+system
+, or, when
+approved
+, may serve as a temporary storage
+system
+to supply
+compressed gas
+for on-site equipment or operations. Except for the
+tube trailer
+'s
+piping
+system
+connections, a minimum
+separation distance
+of 3 feet (914 mm) shall be
+maintained in all directions around
+tube trailers
+to allow for access, inspection and
+maintenance
+. The
+separation distance
+between individual
+tube trailers
+containing incompatible
+gases shall be in accordance with
+FC5303.5.1
+.
+
+---
+
+A
+tube trailer
+may be used to deliver
+compressed gas
+to a stationary
+compressed gas
+storage
+system
+, or, when
+approved
+, may serve as a temporary storage
+system
+to supply
+compressed gas
+for on-site equipment or operations. Except for the
+tube trailer
+'s
+piping
+system
+connections, a minimum
+separation distance
+of 3 feet (914 mm) shall be
+maintained in all directions around
+tube trailers
+to allow for access, inspection and
+maintenance
+. The
+separation distance
+between individual
+tube trailers
+containing incompatible
+gases shall be in accordance with
+FC5303.5.1
+.
+
+---
+
+## Section 5303.6: Wiring and Equipment
+
+5303.6 Wiring and Equipment
+Electrical
+wiring and equipment shall comply with the
+requirements of the
+Electrical Code
+.
+Compressed gas containers
+and
+systems
+shall not be located
+where they could become part of an
+electrical
+circuit.
+Compressed gas containers
+and
+systems
+shall
+not be used for
+electrical
+grounding.
+
+---
+
+Electrical
+wiring and equipment shall comply with the
+requirements of the
+Electrical Code
+.
+Compressed gas containers
+and
+systems
+shall not be located
+where they could become part of an
+electrical
+circuit.
+Compressed gas containers
+and
+systems
+shall
+not be used for
+electrical
+grounding.
+
+---
+
+## Section 5303.7: Maintenance and Alteration
+
+5303.7 Maintenance and Alteration
+Servicing, repairs and other
+maintenance
+work or
+alteration
+to a valve, pressure-relief device or other
+compressed gas container
+or
+system
+component shall be
+performed by competent personnel.
+
+---
+
+Servicing, repairs and other
+maintenance
+work or
+alteration
+to a valve, pressure-relief device or other
+compressed gas container
+or
+system
+component shall be
+performed by competent personnel.
+
+---
+
+## Section 5303.8: Unauthorized Use
+
+5303.8 Unauthorized Use
+Compressed gas containers
+and
+systems
+shall not be used for any
+purpose other than as a
+vessel
+for the materials that they are designed to contain.
+
+---
+
+Compressed gas containers
+and
+systems
+shall not be used for any
+purpose other than as a
+vessel
+for the materials that they are designed to contain.
+
+---
+
+## Section 5303.9: Exposure to Fire
+
+5303.9 Exposure to Fire
+Compressed gas containers
+that have been exposed to
+fire
+shall be
+removed from service.
+Containers
+so removed shall be handled by qualified persons under the
+personal supervision
+of a
+certificate of fitness
+holder.
+Containers
+exposed to
+fire
+shall not be used
+unless they have been requalified in accordance with the standards set forth in ASME or
+DOTn
+regulations, or otherwise
+approved
+by the
+commissioner
+.
+
+---
+
+Compressed gas containers
+that have been exposed to
+fire
+shall be
+removed from service.
+Containers
+so removed shall be handled by qualified persons under the
+personal supervision
+of a
+certificate of fitness
+holder.
+Containers
+exposed to
+fire
+shall not be used
+unless they have been requalified in accordance with the standards set forth in ASME or
+DOTn
+regulations, or otherwise
+approved
+by the
+commissioner
+.
+
+---
+
+## Section 5303.10: Leaks, Damage or Corrosion
+
+5303.10 Leaks, Damage or Corrosion
+Leaking, damaged or corroded
+compressed gas containers
+shall be removed from service under the
+personal supervision
+of a
+certificate of fitness
+holder, and
+properly repaired or disposed.
+
+---
+
+Leaking, damaged or corroded
+compressed gas containers
+shall be removed from service under the
+personal supervision
+of a
+certificate of fitness
+holder, and
+properly repaired or disposed.
+
+---
+
+## Section 5303.11: Protection Against Corrosion
+
+5303.11 Protection Against Corrosion
+Except as otherwise provided in this section, compressed
+gas
+containers
+may be stored or used without being placed under overhead cover.
+Containers
+shall
+be protected from direct contact with soil or unimproved surfaces to prevent bottom corrosion. The
+surface of the area upon which the
+containers
+are placed shall be graded to prevent accumulation
+of water.
+
+---
+
+Except as otherwise provided in this section, compressed
+gas
+containers
+may be stored or used without being placed under overhead cover.
+Containers
+shall
+be protected from direct contact with soil or unimproved surfaces to prevent bottom corrosion. The
+surface of the area upon which the
+containers
+are placed shall be graded to prevent accumulation
+of water.
+
+---
+
+## Section 5303.12: Overhead Cover
+
+5303.12 Overhead Cover
+Compressed gas containers
+in quantities requiring a
+permit
+are allowed
+to be stored or used in the sun except in locations where extreme temperatures prevail. When
+extreme temperatures prevail, overhead covers shall be provided. Overhead covers shall also be
+provided to prevent accumulations of ice and snow on the valves of
+containers
+connected for use.
+
+---
+
+Compressed gas containers
+in quantities requiring a
+permit
+are allowed
+to be stored or used in the sun except in locations where extreme temperatures prevail. When
+extreme temperatures prevail, overhead covers shall be provided. Overhead covers shall also be
+provided to prevent accumulations of ice and snow on the valves of
+containers
+connected for use.
+
+---
+
+## Section 5303.13: Lighting
+
+5303.13 Lighting
+Areas used for the storage,
+handling
+and use of
+compressed gas containers
+and
+systems
+shall be provided with
+approved
+lighting
+by natural or artificial means.
+
+---
+
+Areas used for the storage,
+handling
+and use of
+compressed gas containers
+and
+systems
+shall be provided with
+approved
+lighting
+by natural or artificial means.
+
+---
+
+Section 5304 Storage of Compressed Gases
+
+---
+
+## Section 5304.1: Upright Storage
+
+5304.1 Upright Storage
+Compressed gas containers
+, except those designed for use in a horizontal position, and all
+compressed gas containers
+containing nonliquefied gases, shall be stored in an upright position with the valve end up. The axis of the
+container
+stored in the upright position may be inclined as much as 45 degrees (0.80 rad) from the vertical provided that it is properly secured.
+Exception:
+Compressed gas containers
+with an internal volume less than 0.174 ft
+3
+(0.005 m
+3
+) may be stored in a horizontal position.
+
+---
+
+Compressed gas containers
+, except those designed for use in a horizontal position, and all
+compressed gas containers
+containing nonliquefied gases, shall be stored in an upright position with the valve end up. The axis of the
+container
+stored in the upright position may be inclined as much as 45 degrees (0.80 rad) from the vertical provided that it is properly secured.
+Exception:
+Compressed gas containers
+with an internal volume less than 0.174 ft
+3
+(0.005 m
+3
+) may be stored in a horizontal position.
+
+---
+
+## Section 5304.2: Material-Specific Regulations
+
+5304.2 Material-Specific Regulations
+In addition to the requirements of this section,
+indoor
+and
+outdoor storage of compressed gases shall comply with the material-specific requirements of FC
+Chapters
+54
+,
+58
+and
+60
+through
+67
+.
+
+---
+
+In addition to the requirements of this section,
+indoor
+and
+outdoor storage of compressed gases shall comply with the material-specific requirements of FC
+Chapters
+54
+,
+58
+and
+60
+through
+67
+.
+
+---
+
+Section 5305 Handling and Use of Compressed Gases
+
+---
+
+## Section 5305.1: Compressed Gas Systems
+
+5305.1 Compressed Gas Systems
+Compressed gas systems
+shall be suitable for the use intended
+and shall be designed and installed by persons competent in such
+design and installation
+.
+Compressed gas
+devices and
+systems
+shall be listed or
+approved
+.
+
+---
+
+Compressed gas systems
+shall be suitable for the use intended
+and shall be designed and installed by persons competent in such
+design and installation
+.
+Compressed gas
+devices and
+systems
+shall be listed or
+approved
+.
+
+---
+
+## Section 5305.2: Controls
+
+5305.2 Controls
+Compressed gas system
+controls shall be designed to prevent materials from
+entering or leaving process or reaction
+systems
+at other than the intended time, rate or path.
+Automatic
+controls shall be designed to be
+fail-safe
+.
+
+---
+
+Compressed gas system
+controls shall be designed to prevent materials from
+entering or leaving process or reaction
+systems
+at other than the intended time, rate or path.
+Automatic
+controls shall be designed to be
+fail-safe
+.
+
+---
+
+## Section 5305.3: Piping Systems
+
+5305.3 Piping Systems
+Piping, including tubing, valves, fittings and pressure regulators, shall
+comply with the requirements of this section and
+FC Chapter 50
+. Piping, tubing, pressure
+regulators, valves and other apparatus shall be kept gas tight to prevent leakage. Adequate
+pressure-relief devices shall be provided where refrigerated liquefied gas can become trapped in
+the piping
+
+---
+
+Piping, including tubing, valves, fittings and pressure regulators, shall
+comply with the requirements of this section and
+FC Chapter 50
+. Piping, tubing, pressure
+regulators, valves and other apparatus shall be kept gas tight to prevent leakage. Adequate
+pressure-relief devices shall be provided where refrigerated liquefied gas can become trapped in
+the piping
+
+---
+
+## Section 5305.4: Valves
+
+5305.4 Valves
+Valves utilized on
+compressed gas systems
+shall be suitable for the use intended
+and shall be accessible. Valve handles or operators for required shutoff valves shall not be removed
+or otherwise altered to prevent access or hinder operation.
+
+---
+
+Valves utilized on
+compressed gas systems
+shall be suitable for the use intended
+and shall be accessible. Valve handles or operators for required shutoff valves shall not be removed
+or otherwise altered to prevent access or hinder operation.
+
+---
+
+## Section 5305.5: Venting
+
+5305.5 Venting
+Venting of gases shall be directed to an
+approved
+location. Venting shall comply
+with the requirements of the
+Mechanical Code
+.
+
+---
+
+Venting of gases shall be directed to an
+approved
+location. Venting shall comply
+with the requirements of the
+Mechanical Code
+.
+
+---
+
+## Section 5305.6: Upright Use
+
+5305.6 Upright Use
+Compressed gas containers
+, except those designed for use in a horizontal position, and all
+compressed gas containers
+containing nonliquefied gases, shall be used in an upright position with the valve end up. The axis of a
+container
+being used in an upright position may be inclined as much as 45 degrees (0.80 rad) from the vertical provided that it is properly secured. Use of nonflammable liquefied gases in the inverted position when the
+compressed gas
+is in the
+liquid
+state shall be allowed provided that the
+container
+is properly secured and the
+dispensing
+apparatus is designed for such liquefied gas use.
+Exception:
+Compressed gas containers
+with an internal volume less than 0.174 ft
+3
+(0.005 m
+3
+) may be used in a horizontal position.
+
+---
+
+Compressed gas containers
+, except those designed for use in a horizontal position, and all
+compressed gas containers
+containing nonliquefied gases, shall be used in an upright position with the valve end up. The axis of a
+container
+being used in an upright position may be inclined as much as 45 degrees (0.80 rad) from the vertical provided that it is properly secured. Use of nonflammable liquefied gases in the inverted position when the
+compressed gas
+is in the
+liquid
+state shall be allowed provided that the
+container
+is properly secured and the
+dispensing
+apparatus is designed for such liquefied gas use.
+Exception:
+Compressed gas containers
+with an internal volume less than 0.174 ft
+3
+(0.005 m
+3
+) may be used in a horizontal position.
+
+---
+
+## Section 5305.7: Transfer
+
+5305.7 Transfer
+Transfer of nonflammable compressed gases between
+containers
+shall be
+performed using equipment and operating procedures specified in CGA P-1 and NFPA 99.
+
+---
+
+Transfer of nonflammable compressed gases between
+containers
+shall be
+performed using equipment and operating procedures specified in CGA P-1 and NFPA 99.
+
+---
+
+## Section 5305.8: Use of Compressed Gas for Inflation
+
+5305.8 Use of Compressed Gas for Inflation
+Inflatable equipment, devices or balloons shall be
+pressurized or filled only with nonflammable gases.
+
+---
+
+Inflatable equipment, devices or balloons shall be
+pressurized or filled only with nonflammable gases.
+
+---
+
+## Section 5305.9: Material-Specific Regulations
+
+5305.9 Material-Specific Regulations
+In addition to the requirements of this section,
+indoor
+and
+outdoor use of compressed gases shall comply with the material-specific requirements of FC
+Chapters
+54
+,
+58
+and
+60
+through
+67
+.
+
+---
+
+In addition to the requirements of this section,
+indoor
+and
+outdoor use of compressed gases shall comply with the material-specific requirements of FC
+Chapters
+54
+,
+58
+and
+60
+through
+67
+.
+
+---
+
+## Section 5305.10: Handling
+
+5305.10 Handling
+The
+handling
+of
+compressed gas containers
+shall comply with the requirements
+of
+FC 5305.10.1
+and
+5305.10.2
+.
+
+---
+
+The
+handling
+of
+compressed gas containers
+shall comply with the requirements
+of
+FC 5305.10.1
+and
+5305.10.2
+.
+
+---
+
+## Section 5305.10.1: Carts and Hand Trucks
+
+5305.10.1 Carts and Hand Trucks
+Containers
+shall be moved using an
+approved
+method.
+Where
+containers
+are moved by cart, hand truck or other mobile device, such carts, hand trucks
+or devices shall be designed for the secure movement of
+containers
+. Carts and hand trucks
+utilized for moving
+compressed gas containers
+indoors
+shall comply with the requirements of
+FC
+5003.10
+. Carts and hand trucks utilized for moving
+compressed gas containers
+outdoors
+shall be designed so that the
+containers
+will be secured against dropping or otherwise striking
+against each other or other surfaces.
+
+---
+
+Containers
+shall be moved using an
+approved
+method.
+Where
+containers
+are moved by cart, hand truck or other mobile device, such carts, hand trucks
+or devices shall be designed for the secure movement of
+containers
+. Carts and hand trucks
+utilized for moving
+compressed gas containers
+indoors
+shall comply with the requirements of
+FC
+5003.10
+. Carts and hand trucks utilized for moving
+compressed gas containers
+outdoors
+shall be designed so that the
+containers
+will be secured against dropping or otherwise striking
+against each other or other surfaces.
+
+---
+
+## Section 5305.10.2: Lifting of Containers
+
+5305.10.2 Lifting of Containers
+Ropes, chains or slings shall not be used to suspend
+compressed gas containers
+unless such
+containers
+have been designed for such
+handling
+.
+Valves of
+compressed gas containers
+shall not be used for lifting.
+
+---
+
+Ropes, chains or slings shall not be used to suspend
+compressed gas containers
+unless such
+containers
+have been designed for such
+handling
+.
+Valves of
+compressed gas containers
+shall not be used for lifting.
+
+---
+
+Section 5306 Medical Gas Storage
+
+---
+
+## Section 5306.1: General
+
+5306.1 General
+The storage of compressed gases intended for inhalation or sedation including,
+but not limited to, analgesics for dentistry, podiatry, veterinary and similar uses at hospitals and
+other medical
+facilities
+shall comply with the requirements of this section in addition to other
+requirements of this chapter and the
+Plumbing Code
+.
+
+---
+
+The storage of compressed gases intended for inhalation or sedation including,
+but not limited to, analgesics for dentistry, podiatry, veterinary and similar uses at hospitals and
+other medical
+facilities
+shall comply with the requirements of this section in addition to other
+requirements of this chapter and the
+Plumbing Code
+.
+
+---
+
+## Section 5306.2: Storage Locations Within Buildings
+
+5306.2 Storage Locations Within Buildings
+Medical gases shall be stored in areas dedicated to the storage of such gases without other storage or uses. Where
+containers
+of medical gases in quantities greater than 1,500 SCF (42.5 m
+3
+) per
+control area
+are located
+indoors
+, they shall be stored in a
+gas room
+in accordance with
+FC5306.2.1
+or a
+gas cabinet
+in accordance with
+FC5306.2.3
+. Where
+gas rooms
+are located above or below grade, the
+fire
+-resistance rating and maximum number of
+gas rooms
+shall be in accordance with FC
+Table 5003.8.3.3
+. Rooms or areas where medical gases are stored or used in quantities exceeding 6,000 SCF (169.9 m
+3
+) shall be designed and constructed in compliance with
+Building Code
+requirements for high-hazard
+occupancies
+.
+
+---
+
+Medical gases shall be stored in areas dedicated to the storage of such gases without other storage or uses. Where
+containers
+of medical gases in quantities greater than 1,500 SCF (42.5 m
+3
+) per
+control area
+are located
+indoors
+, they shall be stored in a
+gas room
+in accordance with
+FC5306.2.1
+or a
+gas cabinet
+in accordance with
+FC5306.2.3
+. Where
+gas rooms
+are located above or below grade, the
+fire
+-resistance rating and maximum number of
+gas rooms
+shall be in accordance with FC
+Table 5003.8.3.3
+. Rooms or areas where medical gases are stored or used in quantities exceeding 6,000 SCF (169.9 m
+3
+) shall be designed and constructed in compliance with
+Building Code
+requirements for high-hazard
+occupancies
+.
+
+---
+
+## Section 5306.2.1: Gas Rooms
+
+5306.2.1 Gas Rooms
+A
+gas room
+shall be a room separated from the remainder of the building or structure by
+fire
+barriers with a
+fire
+-resistance rating of not less than 1 hour. Openings between the room and interior spaces shall be protected by self-closing smoke and draft-control assemblies having a
+fire
+protection rating of not less than 1 hour. Rooms having an exterior wall shall be provided with at least two vents in such wall, each having not less than 36 square inches (0.023 m
+2
+) free area. One vent shall be within 6 inches (152 mm) of the floor and one shall be within 6 inches (152 mm) of the ceiling. Rooms with no exterior wall shall be exhausted through a duct to the outdoors. Supply and exhaust ducts shall be enclosed in a 1-hour-rated shaft enclosure from the room to the outdoors.
+Approved
+mechanical
+ventilation
+shall comply with the requirements of the
+Mechanical Code
+and be provided at a minimum rate of 1 cubic foot per minute per square foot (0.00508 m
+3
+/s/m
+2
+) of the area of the room. Rooms shall be protected by a
+sprinkler system
+.
+
+---
+
+A
+gas room
+shall be a room separated from the remainder of the building or structure by
+fire
+barriers with a
+fire
+-resistance rating of not less than 1 hour. Openings between the room and interior spaces shall be protected by self-closing smoke and draft-control assemblies having a
+fire
+protection rating of not less than 1 hour. Rooms having an exterior wall shall be provided with at least two vents in such wall, each having not less than 36 square inches (0.023 m
+2
+) free area. One vent shall be within 6 inches (152 mm) of the floor and one shall be within 6 inches (152 mm) of the ceiling. Rooms with no exterior wall shall be exhausted through a duct to the outdoors. Supply and exhaust ducts shall be enclosed in a 1-hour-rated shaft enclosure from the room to the outdoors.
+Approved
+mechanical
+ventilation
+shall comply with the requirements of the
+Mechanical Code
+and be provided at a minimum rate of 1 cubic foot per minute per square foot (0.00508 m
+3
+/s/m
+2
+) of the area of the room. Rooms shall be protected by a
+sprinkler system
+.
+
+---
+
+## Section 5306.2.2: Reserved
+
+5306.2.2 Reserved
+
+---
+
+## Section 5306.2.3: Gas Cabinets
+
+5306.2.3 Gas Cabinets
+Gas cabinets
+shall be constructed in accordance with
+FC5003.8.6
+and the following:
+The average velocity of
+ventilation
+at the face of access ports or windows shall not be less than 200 feet per minute (1.02 m/s) with a minimum of 150 feet per minute (0.76 m/s) at any point of the access port or window.
+Connected to an exhaust
+system
+.
+Internally protected by a
+sprinkler system
+.
+
+---
+
+Gas cabinets
+shall be constructed in accordance with
+FC5003.8.6
+and the following:
+The average velocity of
+ventilation
+at the face of access ports or windows shall not be less than 200 feet per minute (1.02 m/s) with a minimum of 150 feet per minute (0.76 m/s) at any point of the access port or window.
+Connected to an exhaust
+system
+.
+Internally protected by a
+sprinkler system
+.
+
+---
+
+## Section 5306.3: Outdoor Storage Locations
+
+5306.3 Outdoor Storage Locations
+The storage of oxidizing medical gases located outdoors in
+quantities greater than the amount requiring a
+permit
+shall be located in accordance with
+FC6304.2
+.
+
+---
+
+The storage of oxidizing medical gases located outdoors in
+quantities greater than the amount requiring a
+permit
+shall be located in accordance with
+FC6304.2
+.
+
+---
+
+## Section 5306.4: Medical Gas System
+
+5306.4 Medical Gas System
+Medical gas
+system
+, including
+containers
+, distribution piping, supply
+manifolds, connections, pressure regulators, relief devices, valves, and monitoring and alarm
+systems
+shall comply with the requirements of NFPA 99 and this chapter.
+
+---
+
+Medical gas
+system
+, including
+containers
+, distribution piping, supply
+manifolds, connections, pressure regulators, relief devices, valves, and monitoring and alarm
+systems
+shall comply with the requirements of NFPA 99 and this chapter.
+
+---
+
+## Section 5306.5: Hyperbaric Facilities
+
+5306.5 Hyperbaric Facilities
+Hyperbaric facilities
+shall be designed, installed, operated and
+maintained in accordance with the
+construction codes
+and this section.
+
+---
+
+Hyperbaric facilities
+shall be designed, installed, operated and
+maintained in accordance with the
+construction codes
+and this section.
+
+---
+
+## Section 5306.5.1: Maintenance
+
+5306.5.1 Maintenance
+Hyperbaric chambers and associated medical gas
+systems
+shall be
+inspected, tested and otherwise maintained in accordance with NFPA 99.
+
+---
+
+Hyperbaric chambers and associated medical gas
+systems
+shall be
+inspected, tested and otherwise maintained in accordance with NFPA 99.
+
+---
+
+## Section 5306.5.2: Precaution Against Electronic Devices
+
+5306.5.2 Precaution Against Electronic Devices
+Mobile telephones and other transmitting
+electronic devices shall not be brought into the
+hyperbaric facility
+when the hyperbaric
+system
+is in operation, unless the device has been
+approved
+or listed for use in a hyperbaric
+atmosphere.
+
+---
+
+Mobile telephones and other transmitting
+electronic devices shall not be brought into the
+hyperbaric facility
+when the hyperbaric
+system
+is in operation, unless the device has been
+approved
+or listed for use in a hyperbaric
+atmosphere.
+
+---
+
+## Section 5306.6: Signage
+
+5306.6 Signage
+A durable sign shall be conspicuously posted at each entrance to any
+indoor
+medical gas storage room and any
+hyperbaric facility
+, indicating that medical gas is in storage
+and/or use in the room or
+facility
+, and clearly stating all applicable
+prohibitions
+and hazards, in
+accordance with
+FC 5003.5
+and
+5003.6
+.
+
+---
+
+A durable sign shall be conspicuously posted at each entrance to any
+indoor
+medical gas storage room and any
+hyperbaric facility
+, indicating that medical gas is in storage
+and/or use in the room or
+facility
+, and clearly stating all applicable
+prohibitions
+and hazards, in
+accordance with
+FC 5003.5
+and
+5003.6
+.
+
+---
+
+## Section 5306.7: Portable Fire Extinguishers
+
+5306.7 Portable Fire Extinguishers
+Portable
+fire
+extinguishers shall be provided outside of the
+entrance to any
+indoor
+medical gas storage room, including any room in which medical gas
+containers
+are manifolded.
+
+---
+
+Portable
+fire
+extinguishers shall be provided outside of the
+entrance to any
+indoor
+medical gas storage room, including any room in which medical gas
+containers
+are manifolded.
+
+---
+
+Section 5307 Carbon Dioxide Beverage Dispensing Systems
+
+---
+
+## Section 5307.1: Scope
+
+5307.1 Scope
+The storage,
+handling
+and use in beverage
+dispensing
+systems
+of more than
+100 pounds (874
+SCF
+) of carbon dioxide, in low-pressure, liquefied form, shall be in
+accordance with this section. The storage,
+handling
+and use of carbon dioxide in other forms and
+for other purposes shall be regulated by other applicable provisions of this code and the
+rules
+.
+
+---
+
+The storage,
+handling
+and use in beverage
+dispensing
+systems
+of more than
+100 pounds (874
+SCF
+) of carbon dioxide, in low-pressure, liquefied form, shall be in
+accordance with this section. The storage,
+handling
+and use of carbon dioxide in other forms and
+for other purposes shall be regulated by other applicable provisions of this code and the
+rules
+.
+
+---
+
+## Section 5307.2: Permits
+
+5307.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 5307.3: General
+
+5307.3 General
+Carbon dioxide beverage
+dispensing
+systems
+shall be designed, installed,
+operated and maintained in accordance with this section, the
+construction codes
+, the
+rules
+, Chapter
+13 of NFPA 55, and the equipment manufacturer's instructions.
+
+---
+
+Carbon dioxide beverage
+dispensing
+systems
+shall be designed, installed,
+operated and maintained in accordance with this section, the
+construction codes
+, the
+rules
+, Chapter
+13 of NFPA 55, and the equipment manufacturer's instructions.
+
+---
+
+## Section 5307.4: Supervision
+
+5307.4 Supervision
+The storage,
+handling
+and use of carbon dioxide in carbon beverage
+dispensing
+systems
+shall be supervised as set forth in
+FC 5307.4.1
+and
+5307.4.2
+:
+
+---
+
+The storage,
+handling
+and use of carbon dioxide in carbon beverage
+dispensing
+systems
+shall be supervised as set forth in
+FC 5307.4.1
+and
+5307.4.2
+:
+
+---
+
+## Section 5307.4.1: Installation
+
+5307.4.1 Installation
+Carbon dioxide beverage
+dispensing
+systems
+shall be installed by a person holding a
+certificate of fitness
+.
+
+---
+
+Carbon dioxide beverage
+dispensing
+systems
+shall be installed by a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 5307.4.2: Filling of Containers
+
+5307.4.2 Filling of Containers
+The filling of a carbon dioxide
+container
+from any source shall
+be performed by a person holding a
+certificate of fitness
+.
+
+---
+
+The filling of a carbon dioxide
+container
+from any source shall
+be performed by a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 5307.5: Carbon Dioxide Detection and Alarm Systems
+
+5307.5 Carbon Dioxide Detection and Alarm Systems
+All carbon dioxide beverage
+dispensing
+systems
+shall be equipped with a carbon dioxide detection and alarm
+system
+in accordance with the
+rules
+. Such a
+system
+shall be installed in the room or other area in which the carbon dioxide storage
+containers
+are installed and any other room or area in which carbon dioxide could accumulate, and shall activate an alarm in such room or area, outside the entrance to such room or area and such other locations that the
+department
+may prescribe by rule.
+Exceptions:
+Any aboveground room or area provided with continuous mechanical
+ventilation
+system
+designed to exhaust carbon dioxide to a safe outdoor location. Such mechanical
+ventilation
+shall be designed to operate at a negative pressure in relation to the surrounding area; provide
+ventilation
+at a rate of not less than 1 cubic foot per minute per square foot (0.00508 m
+3
+/(s•m
+2
+)); and take exhaust from a point within 12 inches (305 mm) of the floor.
+Any room or area provided with a gas detection
+system
+in accordance with
+FC908
+.
+
+---
+
+All carbon dioxide beverage
+dispensing
+systems
+shall be equipped with a carbon dioxide detection and alarm
+system
+in accordance with the
+rules
+. Such a
+system
+shall be installed in the room or other area in which the carbon dioxide storage
+containers
+are installed and any other room or area in which carbon dioxide could accumulate, and shall activate an alarm in such room or area, outside the entrance to such room or area and such other locations that the
+department
+may prescribe by rule.
+Exceptions:
+Any aboveground room or area provided with continuous mechanical
+ventilation
+system
+designed to exhaust carbon dioxide to a safe outdoor location. Such mechanical
+ventilation
+shall be designed to operate at a negative pressure in relation to the surrounding area; provide
+ventilation
+at a rate of not less than 1 cubic foot per minute per square foot (0.00508 m
+3
+/(s•m
+2
+)); and take exhaust from a point within 12 inches (305 mm) of the floor.
+Any room or area provided with a gas detection
+system
+in accordance with
+FC908
+.
+
+---
+
+## Section 5307.6: Operational and Maintenance Requirements
+
+5307.6 Operational and Maintenance Requirements
+Carbon dioxide beverage
+dispensing
+systems
+shall be operated and maintained in accordance with the standards set forth in
+FC5307.3
+and such other requirements as the
+department
+may prescribe by rule, including:
+Warning signs.
+Periodic inspections
+of the
+system
+.
+User safety training.
+Required notifications in the event of a carbon dioxide leak.
+Filing of affidavit of carbon dioxide beverage
+dispensing
+system
+installation,
+alteration
+and repair, and carbon dioxide release.
+Protected from physical damage.
+
+---
+
+Carbon dioxide beverage
+dispensing
+systems
+shall be operated and maintained in accordance with the standards set forth in
+FC5307.3
+and such other requirements as the
+department
+may prescribe by rule, including:
+Warning signs.
+Periodic inspections
+of the
+system
+.
+User safety training.
+Required notifications in the event of a carbon dioxide leak.
+Filing of affidavit of carbon dioxide beverage
+dispensing
+system
+installation,
+alteration
+and repair, and carbon dioxide release.
+Protected from physical damage.
+
+---
+
+Section 5308 Ethylene Oxide
+
+---
+
+## Section 5308.1: Scope
+
+5308.1 Scope
+This section shall govern the storage,
+handling
+and use of gases containing ethylene
+oxide used for sterilization purposes. The storage,
+handling
+and use of gases containing ethylene
+oxide for purposes other than sterilization shall comply with the other applicable requirements of
+this chapter. The storage,
+handling
+and use of flammable gases containing ethylene oxide shall
+additionally comply with the requirements of
+FC Chapter 58
+.
+
+---
+
+This section shall govern the storage,
+handling
+and use of gases containing ethylene
+oxide used for sterilization purposes. The storage,
+handling
+and use of gases containing ethylene
+oxide for purposes other than sterilization shall comply with the other applicable requirements of
+this chapter. The storage,
+handling
+and use of flammable gases containing ethylene oxide shall
+additionally comply with the requirements of
+FC Chapter 58
+.
+
+---
+
+## Section 5308.2: General
+
+5308.2 General
+The storage,
+handling
+and use of gases containing ethylene oxide used for
+sterilization purposes shall comply with the other requirements of this chapter, as applicable, and
+shall additionally be in accordance with this section.
+
+---
+
+The storage,
+handling
+and use of gases containing ethylene oxide used for
+sterilization purposes shall comply with the other requirements of this chapter, as applicable, and
+shall additionally be in accordance with this section.
+
+---
+
+## Section 5308.3: Prohibitions
+
+5308.3 Prohibitions
+It shall be unlawful to sterilize pressurized oxygen equipment with gases
+containing ethylene oxide.
+
+---
+
+It shall be unlawful to sterilize pressurized oxygen equipment with gases
+containing ethylene oxide.
+
+---
+
+## Section 5308.4: Application
+
+5308.4 Application
+Prior to storing or using gases containing ethylene oxide, or modifying an
+existing installation or
+system
+, the
+owner
+shall file with the
+department
+an
+application
+for the
+approval of the
+design and installation
+of the sterilization
+system
+which contains such information
+and documentation as the
+commissioner
+may prescribe.
+
+---
+
+Prior to storing or using gases containing ethylene oxide, or modifying an
+existing installation or
+system
+, the
+owner
+shall file with the
+department
+an
+application
+for the
+approval of the
+design and installation
+of the sterilization
+system
+which contains such information
+and documentation as the
+commissioner
+may prescribe.
+
+---
+
+## Section 5308.5: Design and Installation Requirements
+
+5308.5 Design and Installation Requirements
+The
+design and installation
+of sterilization
+systems
+shall comply with the requirements of
+FC 5308.5.1
+through
+5308.5.3
+.
+
+---
+
+The
+design and installation
+of sterilization
+systems
+shall comply with the requirements of
+FC 5308.5.1
+through
+5308.5.3
+.
+
+---
+
+## Section 5308.5.1: Compliance With Other Codes and Standards
+
+5308.5.1 Compliance With Other Codes and Standards
+The
+design and installation
+of
+sterilization
+systems
+and the storage of gases containing ethylene oxide shall be in accordance
+with the
+construction codes
+, including the
+Building Code
+, the
+Electrical Code
+, the
+manufacturer's specifications and the
+approved testing laboratory
+that listed the sterilizer.
+
+---
+
+The
+design and installation
+of
+sterilization
+systems
+and the storage of gases containing ethylene oxide shall be in accordance
+with the
+construction codes
+, including the
+Building Code
+, the
+Electrical Code
+, the
+manufacturer's specifications and the
+approved testing laboratory
+that listed the sterilizer.
+
+---
+
+## Section 5308.5.2: Sterilization System Room and Local Area Ventilation
+
+5308.5.2 Sterilization System Room and Local Area Ventilation
+Sterilization
+systems
+shall be
+installed in rooms that are ventilated as follows:
+
+---
+
+Sterilization
+systems
+shall be
+installed in rooms that are ventilated as follows:
+
+---
+
+## Section 5308.5.2.1: Room Ventilation
+
+5308.5.2.1 Room Ventilation
+Sterilizers shall be installed in a well-ventilated room or
+other area provided with an independent, nonrecirculating mechanical
+ventilation
+system
+that discharges outdoors.
+Ventilation
+supply and exhaust registers shall be located such that
+there are no stagnant air spaces in the immediate area of the sterilizer and that the direction
+of air movement is away from the operator.
+
+---
+
+Sterilizers shall be installed in a well-ventilated room or
+other area provided with an independent, nonrecirculating mechanical
+ventilation
+system
+that discharges outdoors.
+Ventilation
+supply and exhaust registers shall be located such that
+there are no stagnant air spaces in the immediate area of the sterilizer and that the direction
+of air movement is away from the operator.
+
+---
+
+## Section 5308.5.2.2: Local Area Ventilation
+
+5308.5.2.2 Local Area Ventilation
+Where a local
+ventilation
+system
+is required by the regulations of the United States
+Department
+of Labor, such
+ventilation
+system
+shall be an independent, dedicated and nonrecirculating
+system
+that discharges directly outdoors or to an emission control
+system
+and only metallic ductwork impervious to ethylene oxide shall be used. The amount of flexible ducting and the number of elbows in the duct shall be kept to a minimum.
+
+---
+
+Where a local
+ventilation
+system
+is required by the regulations of the United States
+Department
+of Labor, such
+ventilation
+system
+shall be an independent, dedicated and nonrecirculating
+system
+that discharges directly outdoors or to an emission control
+system
+and only metallic ductwork impervious to ethylene oxide shall be used. The amount of flexible ducting and the number of elbows in the duct shall be kept to a minimum.
+
+---
+
+## Section 5308.5.3: Vent Lines
+
+5308.5.3 Vent Lines
+Sterilizer vent lines shall be designed and installed in compliance with the following requirements:
+Each sterilizer shall be equipped with an independent, dedicated and gas-tight vent line for the discharge of gases containing ethylene oxide.
+Vent lines shall discharge directly outdoors or to an emission control
+system
+. Such vent lines shall not discharge into any other
+ventilation
+or exhaust
+system
+.
+The piping and the point of discharge for all vent lines discharging outdoors shall be designed and installed to prevent moisture from entering the vent line.
+Vent lines, including piping, fittings and other components, shall be in accordance with the specifications of the sterilizer manufacturer. Pipe lengths shall not exceed the maximum lengths specified by the manufacturer. Vertical travel distances, elbows, sharp bends and any reduction in vent line size shall be kept to a minimum.
+
+---
+
+Sterilizer vent lines shall be designed and installed in compliance with the following requirements:
+Each sterilizer shall be equipped with an independent, dedicated and gas-tight vent line for the discharge of gases containing ethylene oxide.
+Vent lines shall discharge directly outdoors or to an emission control
+system
+. Such vent lines shall not discharge into any other
+ventilation
+or exhaust
+system
+.
+The piping and the point of discharge for all vent lines discharging outdoors shall be designed and installed to prevent moisture from entering the vent line.
+Vent lines, including piping, fittings and other components, shall be in accordance with the specifications of the sterilizer manufacturer. Pipe lengths shall not exceed the maximum lengths specified by the manufacturer. Vertical travel distances, elbows, sharp bends and any reduction in vent line size shall be kept to a minimum.
+
+---
+
+## Section 5308.6: Operation and Maintenance
+
+5308.6 Operation and Maintenance
+Sterilization
+systems
+shall be operated and maintained in compliance with the following requirements:
+Sterilization
+systems
+shall be operated and maintained in compliance with the manufacturer's specifications and the
+approved testing laboratory
+listing requirements.
+Air compressors and their air intakes shall be located such that any gas that may leak from the sterilization
+system
+or stored
+containers
+will not enter the compressor.
+Sterilizers shall not be operated if the room
+ventilation
+system
+, local area
+ventilation
+system
+or vent pipe is not operational.
+
+---
+
+Sterilization
+systems
+shall be operated and maintained in compliance with the following requirements:
+Sterilization
+systems
+shall be operated and maintained in compliance with the manufacturer's specifications and the
+approved testing laboratory
+listing requirements.
+Air compressors and their air intakes shall be located such that any gas that may leak from the sterilization
+system
+or stored
+containers
+will not enter the compressor.
+Sterilizers shall not be operated if the room
+ventilation
+system
+, local area
+ventilation
+system
+or vent pipe is not operational.
+
+---
+
+## Section 5308.7: Emergency Plan
+
+5308.7 Emergency Plan
+Where required by the regulations of the United States
+Department
+of
+Labor, a written emergency plan to be implemented in the event of an ethylene oxide spill or leak
+shall be prepared, shall be maintained on the
+premises
+and made available for inspection by any
+representative of the
+department
+.
+
+---
+
+Where required by the regulations of the United States
+Department
+of
+Labor, a written emergency plan to be implemented in the event of an ethylene oxide spill or leak
+shall be prepared, shall be maintained on the
+premises
+and made available for inspection by any
+representative of the
+department
+.
+
+---
+
+## Section 5308.8: Recordkeeping
+
+5308.8 Recordkeeping
+A copy of the manufacturer's instructions for the installation, operation
+and
+maintenance
+of the sterilizer shall be maintained in the room or other area in which the
+sterilization
+system
+is located.
+
+---
+
+A copy of the manufacturer's instructions for the installation, operation
+and
+maintenance
+of the sterilizer shall be maintained in the room or other area in which the
+sterilization
+system
+is located.
+
+---
+
+Section 5309 Compressed Gases Not Otherwise Regulated
+
+---
+
+## Section 5309.1: General
+
+5309.1 General
+Compressed gases in storage or use not regulated by the material-specific
+provisions of FC Chapters
+6
+,
+54
+,
+58
+and
+60
+through
+67
+, including asphyxiant,
+irritant
+and
+radioactive gases, shall comply with the requirements of this section in addition to other applicable
+requirements of this chapter.
+
+---
+
+Compressed gases in storage or use not regulated by the material-specific
+provisions of FC Chapters
+6
+,
+54
+,
+58
+and
+60
+through
+67
+, including asphyxiant,
+irritant
+and
+radioactive gases, shall comply with the requirements of this section in addition to other applicable
+requirements of this chapter.
+
+---
+
+## Section 5309.2: Ventilation
+
+5309.2 Ventilation
+Indoor
+storage and use areas and storage buildings shall be provided with
+mechanical exhaust
+ventilation
+or natural
+ventilation
+in accordance with
+FC 5004.3
+or
+5005.1.9
+.
+Mechanical exhaust
+ventilation
+shall be provided where required by
+FC 5005.2.1.1
+or
+5005.2.2.2
+.
+When mechanical
+ventilation
+is provided, the
+systems
+shall be operational during such time as the
+building or space is occupied.
+
+---
+
+Indoor
+storage and use areas and storage buildings shall be provided with
+mechanical exhaust
+ventilation
+or natural
+ventilation
+in accordance with
+FC 5004.3
+or
+5005.1.9
+.
+Mechanical exhaust
+ventilation
+shall be provided where required by
+FC 5005.2.1.1
+or
+5005.2.2.2
+.
+When mechanical
+ventilation
+is provided, the
+systems
+shall be operational during such time as the
+building or space is occupied.
+
+---
+

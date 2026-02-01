@@ -1,0 +1,3147 @@
+# NYC Fire Code 2022 - Chapter 55
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+5501 General
+
+---
+
+5502 Definitions
+
+---
+
+5503 General Requirements
+
+---
+
+5504 Storage
+
+---
+
+5505 Handling and Use
+
+---
+
+5506 LNG Installations and Facilities
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Section 5501 General
+
+---
+
+## Section 5501.1: Scope
+
+5501.1 Scope
+This chapter shall govern the storage,
+handling
+and use of
+cryogenic fluids
+.
+Exception:
+Fluids used as
+refrigerants
+in
+refrigerating systems
+(see FC606).
+
+---
+
+This chapter shall govern the storage,
+handling
+and use of
+cryogenic fluids
+.
+Exception:
+Fluids used as
+refrigerants
+in
+refrigerating systems
+(see FC606).
+
+---
+
+## Section 5501.2: Permits
+
+5501.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 5501.3: General
+
+5501.3 General
+Cryogenic fluids
+shall be stored, handled and used in accordance with
+this chapter, except that
+liquefied natural gas
+(LNG) shall comply with the requirements of
+FC
+5506
+only.
+Containers
+that contain any amount of
+cryogenic fluid
+, including
+containers
+that are partially full or have residual gas, shall be considered as full for the purposes
+of the requirements of this chapter.
+
+---
+
+Cryogenic fluids
+shall be stored, handled and used in accordance with
+this chapter, except that
+liquefied natural gas
+(LNG) shall comply with the requirements of
+FC
+5506
+only.
+Containers
+that contain any amount of
+cryogenic fluid
+, including
+containers
+that are partially full or have residual gas, shall be considered as full for the purposes
+of the requirements of this chapter.
+
+---
+
+## Section 5501.3.1: Oxidizing Cryogenic Fluids
+
+5501.3.1 Oxidizing Cryogenic Fluids
+Oxidizing cryogenic fluids
+, including
+oxygen, shall additionally comply with the requirements of NFPA 55 and
+FC Chapter 63
+,
+as applicable.
+
+---
+
+Oxidizing cryogenic fluids
+, including
+oxygen, shall additionally comply with the requirements of NFPA 55 and
+FC Chapter 63
+,
+as applicable.
+
+---
+
+## Section 5501.3.2: Flammable Cryogenic Fluids
+
+5501.3.2 Flammable Cryogenic Fluids
+Flammable cryogenic fluids
+, including
+hydrogen, methane and carbon monoxide, shall additionally comply with the requirements of
+NFPA 55 and
+FC Chapter 58
+, as applicable.
+
+---
+
+Flammable cryogenic fluids
+, including
+hydrogen, methane and carbon monoxide, shall additionally comply with the requirements of
+NFPA 55 and
+FC Chapter 58
+, as applicable.
+
+---
+
+## Section 5501.3.3: Inert Cryogenic Fluids
+
+5501.3.3 Inert Cryogenic Fluids
+Inert
+cryogenic fluids
+, including argon, helium
+and nitrogen, shall additionally comply with the requirements of CGA P-18.
+
+---
+
+Inert
+cryogenic fluids
+, including argon, helium
+and nitrogen, shall additionally comply with the requirements of CGA P-18.
+
+---
+
+## Section 5501.4: Supervision
+
+5501.4 Supervision
+The storage,
+handling
+and use of
+cryogenic fluids
+shall be
+supervised as set forth in
+FC 5501.4.1
+through
+5501.4.3
+.
+
+---
+
+The storage,
+handling
+and use of
+cryogenic fluids
+shall be
+supervised as set forth in
+FC 5501.4.1
+through
+5501.4.3
+.
+
+---
+
+## Section 5501.4.1: Handling and Use
+
+5501.4.1 Handling and Use
+Handling
+and use of
+cryogenic fluid
+in quantities
+requiring a
+permit
+shall be performed under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+Handling
+and use of
+cryogenic fluid
+in quantities
+requiring a
+permit
+shall be performed under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 5501.4.2: Installation and Maintenance
+
+5501.4.2 Installation and Maintenance
+The installation and
+maintenance
+of
+cryogenic containers
+and of
+systems
+containing
+cryogenic fluids
+, including the repair of such
+systems
+, shall be conducted under the
+personal supervision
+of a person holding a certificate of
+fitness.
+
+---
+
+The installation and
+maintenance
+of
+cryogenic containers
+and of
+systems
+containing
+cryogenic fluids
+, including the repair of such
+systems
+, shall be conducted under the
+personal supervision
+of a person holding a certificate of
+fitness.
+
+---
+
+## Section 5501.4.3: Storage
+
+5501.4.3 Storage
+Storage of
+cryogenic fluids
+in quantities requiring a
+permit
+shall
+be under the
+general supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+Storage of
+cryogenic fluids
+in quantities requiring a
+permit
+shall
+be under the
+general supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 5501.5: Prohibition
+
+5501.5 Prohibition
+It shall be unlawful to fill a
+container
+with a flammable cryogenic
+fluid except for
+containers
+mounted on a hydrogen-powered
+motor vehicle
+and used for motive
+power as authorized by
+FC2309.1.1
+(1).
+
+---
+
+It shall be unlawful to fill a
+container
+with a flammable cryogenic
+fluid except for
+containers
+mounted on a hydrogen-powered
+motor vehicle
+and used for motive
+power as authorized by
+FC2309.1.1
+(1).
+
+---
+
+Section 5502 Definitions
+
+---
+
+## Section 5502.1: Definitions
+
+5502.1 Definitions
+The following terms shall, for the purposes of this chapter and as
+used elsewhere in this code, have the meanings set forth in
+FC202
+.
+CRYOGENIC
+CONTAINER
+.
+CRYOGENIC FLUID
+.
+FLAMMABLE CRYOGENIC FLUID
+.
+LOW-PRESSURE
+CONTAINER
+.
+MAXIMUM ALLOWABLE WORKING PRESSURE (MAWP)
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as
+used elsewhere in this code, have the meanings set forth in
+FC202
+.
+CRYOGENIC
+CONTAINER
+.
+CRYOGENIC FLUID
+.
+FLAMMABLE CRYOGENIC FLUID
+.
+LOW-PRESSURE
+CONTAINER
+.
+MAXIMUM ALLOWABLE WORKING PRESSURE (MAWP)
+.
+
+---
+
+Section 5503 General Requirements
+
+---
+
+## Section 5503.1: Cryogenic Container
+
+5503.1 Cryogenic Container
+Cryogenic containers
+shall comply with the requirements of
+FC 5503.1.1
+through
+5503.1.3.3
+and
+FC Chapter 50
+.
+
+---
+
+Cryogenic containers
+shall comply with the requirements of
+FC 5503.1.1
+through
+5503.1.3.3
+and
+FC Chapter 50
+.
+
+---
+
+## Section 5503.1.1: Cryogenic Container Standards
+
+5503.1.1 Cryogenic Container Standards
+Cryogenic containers
+shall be designed,
+constructed, operated and maintained in accordance with the ASME Boiler and
+Pressure Vessel
+Code or United States
+Department
+of Transportation regulations, or as otherwise
+approved
+.
+
+---
+
+Cryogenic containers
+shall be designed,
+constructed, operated and maintained in accordance with the ASME Boiler and
+Pressure Vessel
+Code or United States
+Department
+of Transportation regulations, or as otherwise
+approved
+.
+
+---
+
+## Section 5503.1.1.1: Pressure Gauges
+
+5503.1.1.1 Pressure Gauges
+Cryogenic containers
+shall be provided with pressure gauges. The maximum face reading for dial-type gauges shall not be less than 133 percent nor more than 250 percent of the MAWP of the
+cryogenic container
+.
+
+---
+
+Cryogenic containers
+shall be provided with pressure gauges. The maximum face reading for dial-type gauges shall not be less than 133 percent nor more than 250 percent of the MAWP of the
+cryogenic container
+.
+
+---
+
+## Section 5503.1.1.2: Liquid Level-Indicating Devices
+
+5503.1.1.2 Liquid Level-Indicating Devices
+Cryogenic containers
+shall be provided with a
+liquid
+level-indicating device. It shall be unlawful to use
+cryogenic containers
+with glass
+liquid
+level gauges in direct contact with the contents of such
+containers
+.
+
+---
+
+Cryogenic containers
+shall be provided with a
+liquid
+level-indicating device. It shall be unlawful to use
+cryogenic containers
+with glass
+liquid
+level gauges in direct contact with the contents of such
+containers
+.
+
+---
+
+## Section 5503.1.2: Flood Hazard
+
+5503.1.2 Flood Hazard
+Stationary
+cryogenic containers
+located in areas of special
+flood hazard
+or on the
+premises
+of
+Group I
+-2
+occupancies
+that are hospitals in shaded X-Zones (as defined in Section G201.2 of
+Appendix G
+of the
+Building Code
+) shall comply with
+Section G307.5
+of the
+Building Code
+.
+
+---
+
+Stationary
+cryogenic containers
+located in areas of special
+flood hazard
+or on the
+premises
+of
+Group I
+-2
+occupancies
+that are hospitals in shaded X-Zones (as defined in Section G201.2 of
+Appendix G
+of the
+Building Code
+) shall comply with
+Section G307.5
+of the
+Building Code
+.
+
+---
+
+## Section 5503.1.3: Foundations and Supports
+
+5503.1.3 Foundations and Supports
+Cryogenic containers
+shall be installed upon substantial concrete or masonry foundations or structural
+steel
+supports on firm concrete or
+masonry foundations.
+Cryogenic containers
+shall be supported to prevent the concentration of excessive loads on the supporting portion of the shell. Foundations for horizontal cryogenic
+containers
+shall be constructed to accommodate expansion and contraction of the cryogenic
+container
+. Foundations shall be provided to support the weight of vaporizers and heat
+exchangers.
+
+---
+
+Cryogenic containers
+shall be installed upon substantial concrete or masonry foundations or structural
+steel
+supports on firm concrete or
+masonry foundations.
+Cryogenic containers
+shall be supported to prevent the concentration of excessive loads on the supporting portion of the shell. Foundations for horizontal cryogenic
+containers
+shall be constructed to accommodate expansion and contraction of the cryogenic
+container
+. Foundations shall be provided to support the weight of vaporizers and heat
+exchangers.
+
+---
+
+## Section 5503.1.3.1: Temperature Effects
+
+5503.1.3.1 Temperature Effects
+When
+cryogenic container
+foundations or supports are subject to exposure to temperatures below -130°F (-89.9°C), the foundations
+or supports shall be constructed of materials to withstand the low-temperature effects of
+cryogenic fluid
+spillage.
+
+---
+
+When
+cryogenic container
+foundations or supports are subject to exposure to temperatures below -130°F (-89.9°C), the foundations
+or supports shall be constructed of materials to withstand the low-temperature effects of
+cryogenic fluid
+spillage.
+
+---
+
+## Section 5503.1.3.2: Corrosion Protection
+
+5503.1.3.2 Corrosion Protection
+Portions of
+cryogenic containers
+in contact
+with foundations or saddles shall be painted to protect against corrosion. Precautions shall
+be taken to avoid or minimize corrosion due to galvanic action.
+
+---
+
+Portions of
+cryogenic containers
+in contact
+with foundations or saddles shall be painted to protect against corrosion. Precautions shall
+be taken to avoid or minimize corrosion due to galvanic action.
+
+---
+
+## Section 5503.1.3.3: Fill Connection Supports
+
+5503.1.3.3 Fill Connection Supports
+Fill connection supports shall be designed and maintained to withstand the repeated
+application
+of force required to connect and disconnect hoses of
+cargo tanks
+.
+
+---
+
+Fill connection supports shall be designed and maintained to withstand the repeated
+application
+of force required to connect and disconnect hoses of
+cargo tanks
+.
+
+---
+
+## Section 5503.2: Pressure Relief Devices
+
+5503.2 Pressure Relief Devices
+Pressure relief devices shall be provided in accordance
+with
+FC 5503.2.1
+through
+5503.2.6
+to protect
+cryogenic containers
+and
+systems
+containing
+cryogenic fluids
+from rupture in the event of overpressure. Pressure relief
+devices shall be designed in accordance with CGA S-1.1, CGA S-1.2 and CGA S-1.3.
+
+---
+
+Pressure relief devices shall be provided in accordance
+with
+FC 5503.2.1
+through
+5503.2.6
+to protect
+cryogenic containers
+and
+systems
+containing
+cryogenic fluids
+from rupture in the event of overpressure. Pressure relief
+devices shall be designed in accordance with CGA S-1.1, CGA S-1.2 and CGA S-1.3.
+
+---
+
+## Section 5503.2.1: Cryogenic Containers
+
+5503.2.1 Cryogenic Containers
+Cryogenic containers
+shall be provided with
+pressure relief devices. Precautions shall be taken to prevent overpressurization of atmospheric
+tanks
+. Such pressure relief devices shall communicate with the vapor space of the
+container
+,
+not the
+cryogenic fluid
+.
+
+---
+
+Cryogenic containers
+shall be provided with
+pressure relief devices. Precautions shall be taken to prevent overpressurization of atmospheric
+tanks
+. Such pressure relief devices shall communicate with the vapor space of the
+container
+,
+not the
+cryogenic fluid
+.
+
+---
+
+## Section 5503.2.2: Equipment Other Than Cryogenic Containers
+
+5503.2.2 Equipment Other Than Cryogenic Containers
+Heat exchangers, vaporizers, insulation casings surrounding
+cryogenic containers
+, and sections of coaxial or single wall piping
+systems
+in which liquefied
+cryogenic fluids
+could be trapped because of leakage from
+cryogenic containers
+or isolation by valves shall be provided with pressure relief
+ devices.
+
+---
+
+Heat exchangers, vaporizers, insulation casings surrounding
+cryogenic containers
+, and sections of coaxial or single wall piping
+systems
+in which liquefied
+cryogenic fluids
+could be trapped because of leakage from
+cryogenic containers
+or isolation by valves shall be provided with pressure relief
+ devices.
+
+---
+
+## Section 5503.2.3: Sizing
+
+5503.2.3 Sizing
+Pressure relief devices shall be sized in accordance with the
+specifications to which the
+cryogenic container
+was fabricated. The relief devices shall have
+sufficient capacity to prevent the MAWP of the
+cryogenic container
+or
+system
+from being
+exceeded. It shall be unlawful to use pressure relief devices that are not clearly marked by the
+manufacturer with their set pressure.
+
+---
+
+Pressure relief devices shall be sized in accordance with the
+specifications to which the
+cryogenic container
+was fabricated. The relief devices shall have
+sufficient capacity to prevent the MAWP of the
+cryogenic container
+or
+system
+from being
+exceeded. It shall be unlawful to use pressure relief devices that are not clearly marked by the
+manufacturer with their set pressure.
+
+---
+
+## Section 5503.2.4: Accessibility
+
+5503.2.4 Accessibility
+Pressure relief devices shall be located such that they are
+readily accessible for inspection, repair and other
+maintenance
+.
+
+---
+
+Pressure relief devices shall be located such that they are
+readily accessible for inspection, repair and other
+maintenance
+.
+
+---
+
+## Section 5503.2.5: Arrangement
+
+5503.2.5 Arrangement
+Pressure relief devices shall be arranged to discharge
+ unobstructed, at rated capacity, to the outdoors in such a manner as to prevent escaping gas
+ from impinging on personnel,
+cryogenic containers
+, equipment and adjacent structures or from entering enclosed spaces.
+Exception:
+United States
+Department
+of Transportation specification
+cryogenic containers
+with an internal volume of 2 cubic feet (0.057 m
+3
+) or less.
+
+---
+
+Pressure relief devices shall be arranged to discharge
+ unobstructed, at rated capacity, to the outdoors in such a manner as to prevent escaping gas
+ from impinging on personnel,
+cryogenic containers
+, equipment and adjacent structures or from entering enclosed spaces.
+Exception:
+United States
+Department
+of Transportation specification
+cryogenic containers
+with an internal volume of 2 cubic feet (0.057 m
+3
+) or less.
+
+---
+
+## Section 5503.2.6: Shutoffs Between Pressure Relief Devices and Cryogenic Containers
+
+5503.2.6 Shutoffs Between Pressure Relief Devices and Cryogenic Containers
+Shutoff valves shall not be installed between pressure relief devices and
+cryogenic containers
+.
+Exception:
+A shutoff valve is allowed on
+cryogenic containers
+equipped with multiple
+ pressure-relief device installations where the design and arrangement of the valves provide
+ sufficient relief capacity for the pressure relief devices to prevent the MAWP of the
+cryogenic container
+or
+system
+from being exceeded at all times.
+
+---
+
+Shutoff valves shall not be installed between pressure relief devices and
+cryogenic containers
+.
+Exception:
+A shutoff valve is allowed on
+cryogenic containers
+equipped with multiple
+ pressure-relief device installations where the design and arrangement of the valves provide
+ sufficient relief capacity for the pressure relief devices to prevent the MAWP of the
+cryogenic container
+or
+system
+from being exceeded at all times.
+
+---
+
+## Section 5503.3: Pressure-Relief Vent Piping
+
+5503.3 Pressure-Relief Vent Piping
+Pressure-relief vent-piping
+systems
+shall be constructed and arranged so as to remain functional and direct the flow of gas to a safe location in accordance with
+FC 5503.3.1
+and
+5503.3.2
+.
+
+---
+
+Pressure-relief vent-piping
+systems
+shall be constructed and arranged so as to remain functional and direct the flow of gas to a safe location in accordance with
+FC 5503.3.1
+and
+5503.3.2
+.
+
+---
+
+## Section 5503.3.1: Sizing
+
+5503.3.1 Sizing
+Pressure-relief-device vent piping shall have a cross-sectional area not less than that of the pressure-relief-device vent opening and shall be arranged so as not to restrict the flow of escaping gas.
+
+---
+
+Pressure-relief-device vent piping shall have a cross-sectional area not less than that of the pressure-relief-device vent opening and shall be arranged so as not to restrict the flow of escaping gas.
+
+---
+
+## Section 5503.3.2: Arrangement
+
+5503.3.2 Arrangement
+Pressure-relief-device vent piping and drains in vent lines
+shall be arranged so that escaping gas will discharge unobstructed to the outdoors and not
+impinge on personnel,
+containers
+, equipment, foundations and adjacent structures or enter
+enclosed spaces. Pressure-relief-device vent lines shall be installed in such a manner to exclude or remove moisture and condensation and prevent malfunction of the pressure relief device because of freezing or ice accumulation or other types of obstruction.
+
+---
+
+Pressure-relief-device vent piping and drains in vent lines
+shall be arranged so that escaping gas will discharge unobstructed to the outdoors and not
+impinge on personnel,
+containers
+, equipment, foundations and adjacent structures or enter
+enclosed spaces. Pressure-relief-device vent lines shall be installed in such a manner to exclude or remove moisture and condensation and prevent malfunction of the pressure relief device because of freezing or ice accumulation or other types of obstruction.
+
+---
+
+## Section 5503.4: Marking
+
+5503.4 Marking
+Cryogenic containers
+and
+systems
+shall be marked in accordance with
+FC
+5503.4.1
+through
+5503.4.6
+.
+
+---
+
+Cryogenic containers
+and
+systems
+shall be marked in accordance with
+FC
+5503.4.1
+through
+5503.4.6
+.
+
+---
+
+## Section 5503.4.1: Identification Signs
+
+5503.4.1 Identification Signs
+Visible hazard identification signs in accordance with NFPA 704 shall be provided at entrances to areas in which
+cryogenic fluids
+are stored,
+ handled or used.
+
+---
+
+Visible hazard identification signs in accordance with NFPA 704 shall be provided at entrances to areas in which
+cryogenic fluids
+are stored,
+ handled or used.
+
+---
+
+## Section 5503.4.2: Identification of Contents
+
+5503.4.2 Identification of Contents
+Stationary and portable
+cryogenic containers
+shall be clearly marked with the name of the
+cryogenic fluid
+contained therein. Stationary
+aboveground
+cryogenic containers
+shall be placarded in accordance with
+FC 5003.5
+and
+5003.6
+. Portable
+cryogenic containers
+shall be identified in accordance with CGA C-7.
+
+---
+
+Stationary and portable
+cryogenic containers
+shall be clearly marked with the name of the
+cryogenic fluid
+contained therein. Stationary
+aboveground
+cryogenic containers
+shall be placarded in accordance with
+FC 5003.5
+and
+5003.6
+. Portable
+cryogenic containers
+shall be identified in accordance with CGA C-7.
+
+---
+
+## Section 5503.4.3: Identification of Cryogenic Containers
+
+5503.4.3 Identification of Cryogenic Containers
+Stationary
+cryogenic containers
+shall be identified with a permanent nameplate indicating the manufacturing specification and
+MAWP. The nameplate shall be installed on the
+cryogenic container
+in an accessible location.
+The nameplate shall be marked in accordance with the ASME Boiler and
+Pressure Vessel
+Code
+or the regulations of the United States
+Department
+of Transportation, as set forth in 49 CFR
+Parts 100-180.
+
+---
+
+Stationary
+cryogenic containers
+shall be identified with a permanent nameplate indicating the manufacturing specification and
+MAWP. The nameplate shall be installed on the
+cryogenic container
+in an accessible location.
+The nameplate shall be marked in accordance with the ASME Boiler and
+Pressure Vessel
+Code
+or the regulations of the United States
+Department
+of Transportation, as set forth in 49 CFR
+Parts 100-180.
+
+---
+
+## Section 5503.4.4: Identification of Cryogenic Container Connections
+
+5503.4.4 Identification of Cryogenic Container Connections
+Cryogenic container
+inlet and outlet connections,
+liquid
+level indicating devices,
+liquid
+level
+limit controls
+, valves,
+pressure gauges, regulators, and safety devices shall be marked with a permanent tag or label
+identifying their function or identified by a schematic drawing designating their function and
+whether they are connected to the vapor or
+liquid
+space of the
+cryogenic container
+. Where a
+schematic drawing is provided, it shall be permanently attached to the
+cryogenic container
+and
+maintained in a legible condition.
+
+---
+
+Cryogenic container
+inlet and outlet connections,
+liquid
+level indicating devices,
+liquid
+level
+limit controls
+, valves,
+pressure gauges, regulators, and safety devices shall be marked with a permanent tag or label
+identifying their function or identified by a schematic drawing designating their function and
+whether they are connected to the vapor or
+liquid
+space of the
+cryogenic container
+. Where a
+schematic drawing is provided, it shall be permanently attached to the
+cryogenic container
+and
+maintained in a legible condition.
+
+---
+
+## Section 5503.4.5: Identification of Piping Systems
+
+5503.4.5 Identification of Piping Systems
+Piping
+systems
+shall be identified in accordance with
+FC5303.2.3
+.
+
+---
+
+Piping
+systems
+shall be identified in accordance with
+FC5303.2.3
+.
+
+---
+
+## Section 5503.4.6: Identification of Emergency Shutoff Valves
+
+5503.4.6 Identification of Emergency Shutoff Valves
+Emergency shutoff valves
+shall be identified by posting a durable sign at a conspicuous location at or near the valve.
+
+---
+
+Emergency shutoff valves
+shall be identified by posting a durable sign at a conspicuous location at or near the valve.
+
+---
+
+## Section 5503.5: Container Protection
+
+5503.5 Container Protection
+Cryogenic containers
+and
+systems
+shall be secured and
+ protected against physical damage and tampering in accordance with
+FC5003.9.2
+,
+ and
+FC 5503.5.2
+through
+5503.5.4
+.
+
+---
+
+Cryogenic containers
+and
+systems
+shall be secured and
+ protected against physical damage and tampering in accordance with
+FC5003.9.2
+,
+ and
+FC 5503.5.2
+through
+5503.5.4
+.
+
+---
+
+## Section 5503.5.1: Reserved
+
+5503.5.1 Reserved
+
+---
+
+## Section 5503.5.2: Securing of Cryogenic Containers
+
+5503.5.2 Securing of Cryogenic Containers
+Stationary
+containers
+shall be secured
+to foundations in accordance with the
+Building Code
+. Portable
+cryogenic containers
+shall be
+secured to prevent movement from contact, vibration or seismic activity.
+Nesting
+shall be an
+acceptable means of securing
+cryogenic containers
+.
+Cryogenic containers
+shall not be secured
+to plumbing pipes or
+electrical
+conduits.
+
+---
+
+Stationary
+containers
+shall be secured
+to foundations in accordance with the
+Building Code
+. Portable
+cryogenic containers
+shall be
+secured to prevent movement from contact, vibration or seismic activity.
+Nesting
+shall be an
+acceptable means of securing
+cryogenic containers
+.
+Cryogenic containers
+shall not be secured
+to plumbing pipes or
+electrical
+conduits.
+
+---
+
+## Section 5503.5.3: Securing of Vaporizers
+
+5503.5.3 Securing of Vaporizers
+Vaporizers, heat exchangers and similar
+equipment shall be anchored to a suitable foundation. Connecting piping shall be sufficiently
+flexible to provide for the effects of expansion and contraction due to temperature changes.
+
+---
+
+Vaporizers, heat exchangers and similar
+equipment shall be anchored to a suitable foundation. Connecting piping shall be sufficiently
+flexible to provide for the effects of expansion and contraction due to temperature changes.
+
+---
+
+## Section 5503.5.4: Physical Protection
+
+5503.5.4 Physical Protection
+Cryogenic containers
+, piping, valves, pressure relief
+devices, regulating equipment and other appurtenances which could be exposed to physical
+damage and tampering shall be protected by posts or other
+approved
+means.
+
+---
+
+Cryogenic containers
+, piping, valves, pressure relief
+devices, regulating equipment and other appurtenances which could be exposed to physical
+damage and tampering shall be protected by posts or other
+approved
+means.
+
+---
+
+## Section 5503.6: Electrical Wiring and Equipment
+
+5503.6 Electrical Wiring and Equipment
+Electrical
+wiring and equipment shall comply with the requirements of the
+Electrical Code
+and
+FC 5503.6.1
+and
+5503.6.2
+.
+
+---
+
+Electrical
+wiring and equipment shall comply with the requirements of the
+Electrical Code
+and
+FC 5503.6.1
+and
+5503.6.2
+.
+
+---
+
+## Section 5503.6.1: Location
+
+5503.6.1 Location
+Cryogenic containers
+and
+systems
+shall not be located where they could become part of an
+electrical
+circuit.
+
+---
+
+Cryogenic containers
+and
+systems
+shall not be located where they could become part of an
+electrical
+circuit.
+
+---
+
+## Section 5503.6.2: Electrical Grounding and Bonding
+
+5503.6.2 Electrical Grounding and Bonding
+Cryogenic containers
+and
+systems
+shall not be used for
+electrical
+grounding. When
+electrical
+grounding and bonding is required,
+ the grounding and bonding
+system
+shall comply with the requirements of the
+Electrical Code
+.
+ The grounding
+system
+shall be protected against corrosion, including corrosion caused by stray
+ electric currents or galvanic action.
+
+---
+
+Cryogenic containers
+and
+systems
+shall not be used for
+electrical
+grounding. When
+electrical
+grounding and bonding is required,
+ the grounding and bonding
+system
+shall comply with the requirements of the
+Electrical Code
+.
+ The grounding
+system
+shall be protected against corrosion, including corrosion caused by stray
+ electric currents or galvanic action.
+
+---
+
+## Section 5503.7: Service and Repair
+
+5503.7 Service and Repair
+Service, repair, modification or removal of valves, pressure
+ relief devices or other
+cryogenic container
+appurtenances, shall comply with the requirements of
+ FC 5503.7.1 and 5503.7.2 and the ASME Boiler and
+Pressure Vessel
+Code,
+ Section VIII or the regulations of the United States
+Department
+of Transportation, as set forth in
+ 49 CFR Parts 100-180, as applicable.
+
+---
+
+Service, repair, modification or removal of valves, pressure
+ relief devices or other
+cryogenic container
+appurtenances, shall comply with the requirements of
+ FC 5503.7.1 and 5503.7.2 and the ASME Boiler and
+Pressure Vessel
+Code,
+ Section VIII or the regulations of the United States
+Department
+of Transportation, as set forth in
+ 49 CFR Parts 100-180, as applicable.
+
+---
+
+## Section 5503.7.1: Cryogenic Containers
+
+5503.7.1 Cryogenic Containers
+Cryogenic containers
+that have been removed from service shall be repaired or disposed of lawfully.
+
+---
+
+Cryogenic containers
+that have been removed from service shall be repaired or disposed of lawfully.
+
+---
+
+## Section 5503.7.2: System Inspection
+
+5503.7.2 System Inspection
+Cryogenic containers
+and
+systems
+shall be inspected by competent personnel at least once a month.
+
+---
+
+Cryogenic containers
+and
+systems
+shall be inspected by competent personnel at least once a month.
+
+---
+
+## Section 5503.8: Unauthorized Use
+
+5503.8 Unauthorized Use
+Cryogenic containers
+shall not be used for any purpose other
+ than as a
+container
+for the product that it is designed to contain.
+
+---
+
+Cryogenic containers
+shall not be used for any purpose other
+ than as a
+container
+for the product that it is designed to contain.
+
+---
+
+## Section 5503.9: Leaks, Damage and Corrosion
+
+5503.9 Leaks, Damage and Corrosion
+Leaking, damaged or corroded cryogenic
+containers
+shall be immediately removed from service. Leaking, damaged or corroded
+systems
+shall be replaced, repaired or disposed of lawfully in accordance with
+FC5503.7
+.
+
+---
+
+Leaking, damaged or corroded cryogenic
+containers
+shall be immediately removed from service. Leaking, damaged or corroded
+systems
+shall be replaced, repaired or disposed of lawfully in accordance with
+FC5503.7
+.
+
+---
+
+## Section 5503.10: Lighting
+
+5503.10 Lighting
+Lighting
+shall be provided for equipment such as control valves,
+ gauges, regulators, vaporizers and heat exchangers and operating
+facilities
+such as walkways and
+ gates ancillary to stationary
+cryogenic container
+installations.
+
+---
+
+Lighting
+shall be provided for equipment such as control valves,
+ gauges, regulators, vaporizers and heat exchangers and operating
+facilities
+such as walkways and
+ gates ancillary to stationary
+cryogenic container
+installations.
+
+---
+
+Section 5504 Storage
+
+---
+
+## Section 5504.1: General
+
+5504.1 General
+Storage of
+cryogenic containers
+shall be in accordance with this section.
+
+---
+
+Storage of
+cryogenic containers
+shall be in accordance with this section.
+
+---
+
+## Section 5504.2: Indoor Storage
+
+5504.2 Indoor Storage
+Indoor
+storage of
+cryogenic containers
+shall be in accordance with
+FC 5504.2.1
+through
+5504.2.1.3
+.
+
+---
+
+Indoor
+storage of
+cryogenic containers
+shall be in accordance with
+FC 5504.2.1
+through
+5504.2.1.3
+.
+
+---
+
+## Section 5504.2.1: Cryogenic Containers
+
+5504.2.1 Cryogenic Containers
+Cryogenic containers
+shall be installed in accordance with the provisions applicable to the type of
+cryogenic fluid
+stored and this section.
+
+---
+
+Cryogenic containers
+shall be installed in accordance with the provisions applicable to the type of
+cryogenic fluid
+stored and this section.
+
+---
+
+## Section 5504.2.1.1: Cryogenic Containers
+
+5504.2.1.1 Cryogenic Containers
+Cryogenic containers
+shall be in accordance with
+FC5503.1
+.
+
+---
+
+Cryogenic containers
+shall be in accordance with
+FC5503.1
+.
+
+---
+
+## Section 5504.2.1.2: Construction of Indoor Areas
+
+5504.2.1.2 Construction of Indoor Areas
+Cryogenic containers
+stored
+indoors
+shall be located in buildings, rooms or areas constructed in accordance with the
+Building Code
+.
+
+---
+
+Cryogenic containers
+stored
+indoors
+shall be located in buildings, rooms or areas constructed in accordance with the
+Building Code
+.
+
+---
+
+## Section 5504.2.1.3: Ventilation
+
+5504.2.1.3 Ventilation
+Storage areas for
+cryogenic containers
+shall be ventilated in accordance with the
+Mechanical Code
+.
+
+---
+
+Storage areas for
+cryogenic containers
+shall be ventilated in accordance with the
+Mechanical Code
+.
+
+---
+
+## Section 5504.3: Outdoor Cryogenic Storage
+
+5504.3 Outdoor Cryogenic Storage
+Outdoor storage of
+cryogenic containers
+shall be in accordance with FC
+5504.3.1
+through
+5504.3.1.2.5
+.
+
+---
+
+Outdoor storage of
+cryogenic containers
+shall be in accordance with FC
+5504.3.1
+through
+5504.3.1.2.5
+.
+
+---
+
+## Section 5504.3.1: Separation From Hazardous Conditions
+
+5504.3.1 Separation From Hazardous Conditions
+Cryogenic containers
+and
+systems
+in storage or use shall be separated from materials and conditions which pose exposure
+ hazards to or from each other in accordance with
+FC 5504.3.1.1
+through
+5504.3.1.1.5
+.
+
+---
+
+Cryogenic containers
+and
+systems
+in storage or use shall be separated from materials and conditions which pose exposure
+ hazards to or from each other in accordance with
+FC 5504.3.1.1
+through
+5504.3.1.1.5
+.
+
+---
+
+## Section 5504.3.1.1: Stationary Cryogenic Containers
+
+5504.3.1.1 Stationary Cryogenic Containers
+Stationary
+cryogenic containers
+shall be separated from exposure hazards in accordance with the minimum
+separation distances
+set forth in FC Table 5504.3.1.1.
+FC
+TABLE 5504.3.1.1
+SEPARATION OF STATIONARY
+CRYOGENIC CONTAINERS
+FROM EXPOSURE HAZARDS
+EXPOSURE
+MINIMUM DISTANCE (feet)
+Buildings, regardless of construction type
+1, or minimum required for service access
+Building
+exit
+10
+Building openings other than building
+exits
+1
+Air intakes
+10
+Lot lines
+5
+Group A
+occupancies
+and other public gathering places
+50
+Nonambulatory patient areas
+50
+Combustible waste
+or
+vegetation
+15
+Other
+hazardous materials
+In accordance with FC Chapter
+50
+For SI: 1 foot = 304.8 mm.
+
+---
+
+Stationary
+cryogenic containers
+shall be separated from exposure hazards in accordance with the minimum
+separation distances
+set forth in FC Table 5504.3.1.1.
+FC
+TABLE 5504.3.1.1
+SEPARATION OF STATIONARY
+CRYOGENIC CONTAINERS
+FROM EXPOSURE HAZARDS
+EXPOSURE
+MINIMUM DISTANCE (feet)
+Buildings, regardless of construction type
+1, or minimum required for service access
+Building
+exit
+10
+Building openings other than building
+exits
+1
+Air intakes
+10
+Lot lines
+5
+Group A
+occupancies
+and other public gathering places
+50
+Nonambulatory patient areas
+50
+Combustible waste
+or
+vegetation
+15
+Other
+hazardous materials
+In accordance with FC Chapter
+50
+For SI: 1 foot = 304.8 mm.
+
+---
+
+## Section 5504.3.1.1.1: Point-of-Fill Connections
+
+5504.3.1.1.1 Point-of-Fill Connections
+Fill connections for stationary
+cryogenic containers
+shall not be positioned closer to exposure hazards than the
+ minimum distances required for stationary
+cryogenic containers
+. Fill connections for
+ stationary
+cryogenic containers
+shall be located and maintained to afford
+cargo tank
+operator access to valves and indicators on the
+cryogenic containers
+and
+cargo tank
+.
+
+---
+
+Fill connections for stationary
+cryogenic containers
+shall not be positioned closer to exposure hazards than the
+ minimum distances required for stationary
+cryogenic containers
+. Fill connections for
+ stationary
+cryogenic containers
+shall be located and maintained to afford
+cargo tank
+operator access to valves and indicators on the
+cryogenic containers
+and
+cargo tank
+.
+
+---
+
+## Section 5504.3.1.1.2: Surfaces Beneath Cryogenic Containers
+
+5504.3.1.1.2 Surfaces Beneath Cryogenic Containers
+The surface of
+ the area on which stationary
+cryogenic containers
+are placed, including the surface of
+ the area located below the point where connections are made for the purpose of filling
+ such
+cryogenic containers
+, shall be compatible with the
+cryogenic fluid
+in the cryogenic
+container
+. The surface shall be capable of withstanding temperatures of
+cryogenic fluid
+that may be released during normal filling operations, without cracking, shifting or
+ other impact upon the stability of the installation.
+
+---
+
+The surface of
+ the area on which stationary
+cryogenic containers
+are placed, including the surface of
+ the area located below the point where connections are made for the purpose of filling
+ such
+cryogenic containers
+, shall be compatible with the
+cryogenic fluid
+in the cryogenic
+container
+. The surface shall be capable of withstanding temperatures of
+cryogenic fluid
+that may be released during normal filling operations, without cracking, shifting or
+ other impact upon the stability of the installation.
+
+---
+
+## Section 5504.3.1.1.3: Location
+
+5504.3.1.1.3 Location
+Containers
+of
+cryogenic fluids
+shall not be stored or used within diked areas containing other
+hazardous materials
+.
+
+---
+
+Containers
+of
+cryogenic fluids
+shall not be stored or used within diked areas containing other
+hazardous materials
+.
+
+---
+
+## Section 5504.3.1.1.3.1: Prohibited Locations
+
+5504.3.1.1.3.1 Prohibited Locations
+It shall be unlawful to install
+ stationary
+cryogenic containers
+on the roof of any building or structure.
+
+---
+
+It shall be unlawful to install
+ stationary
+cryogenic containers
+on the roof of any building or structure.
+
+---
+
+## Section 5504.3.1.1.4: Areas Subject to Flooding
+
+5504.3.1.1.4 Areas Subject to Flooding
+Stationary cryogenic
+containers
+, vaporizers, heat exchangers and connecting piping located in areas subject
+ to flooding shall be securely anchored or elevated to prevent separation of the cryogenic
+containers
+and related equipment from foundations or supports.
+
+---
+
+Stationary cryogenic
+containers
+, vaporizers, heat exchangers and connecting piping located in areas subject
+ to flooding shall be securely anchored or elevated to prevent separation of the cryogenic
+containers
+and related equipment from foundations or supports.
+
+---
+
+## Section 5504.3.1.1.5: Drainage
+
+5504.3.1.1.5 Drainage
+The area surrounding stationary
+cryogenic containers
+shall be provided with a means to prevent accidental discharge of cryogenic
+ fluid from endangering personnel,
+cryogenic containers
+, equipment and adjacent
+ structures or to enter enclosed spaces. The stationary
+cryogenic container
+shall not be
+ placed where spilled or discharged fluid will be retained around the cryogenic
+container
+.
+Exception:
+These drainage requirements shall not apply when it is determined by
+ the
+commissioner
+that the
+cryogenic container
+does not constitute a hazard, upon
+ consideration of special features such as crushed rock utilized as a heat sink,
+ topographical conditions, nature of
+occupancy
+, proximity to structures on the same
+ or adjacent property, and the capacity and construction of
+cryogenic containers
+and
+ character of
+cryogenic fluid
+to be stored.
+
+---
+
+The area surrounding stationary
+cryogenic containers
+shall be provided with a means to prevent accidental discharge of cryogenic
+ fluid from endangering personnel,
+cryogenic containers
+, equipment and adjacent
+ structures or to enter enclosed spaces. The stationary
+cryogenic container
+shall not be
+ placed where spilled or discharged fluid will be retained around the cryogenic
+container
+.
+Exception:
+These drainage requirements shall not apply when it is determined by
+ the
+commissioner
+that the
+cryogenic container
+does not constitute a hazard, upon
+ consideration of special features such as crushed rock utilized as a heat sink,
+ topographical conditions, nature of
+occupancy
+, proximity to structures on the same
+ or adjacent property, and the capacity and construction of
+cryogenic containers
+and
+ character of
+cryogenic fluid
+to be stored.
+
+---
+
+## Section 5504.3.1.2: Portable Cryogenic Containers
+
+5504.3.1.2 Portable Cryogenic Containers
+Outdoor storage of portable
+cryogenic containers
+shall comply with the requirements of
+FC5503
+and this
+ section.
+
+---
+
+Outdoor storage of portable
+cryogenic containers
+shall comply with the requirements of
+FC5503
+and this
+ section.
+
+---
+
+## Section 5504.3.1.2.1: Exposure Hazard Separation
+
+5504.3.1.2.1 Exposure Hazard Separation
+Portable
+cryogenic containers
+shall be separated from exposure hazards in accordance with FC Table 5504.3.1.2.1.
+FC
+TABLE 5504.3.1.2.1
+SEPARATION OF PORTABLE
+CRYOGENIC CONTAINERS
+FROM EXPOSURE HAZARDS
+EXPOSURE
+MINIMUM DISTANCE (feet)
+Building
+exits
+10
+Building openings other than building
+exits
+1
+Air intakes
+10
+Lot lines
+5
+Combustible waste
+or
+vegetation
+15
+Other
+hazardous materials
+In accordance with
+FC Chapter 50
+For SI: 1 foot = 304.8 mm.
+
+---
+
+Portable
+cryogenic containers
+shall be separated from exposure hazards in accordance with FC Table 5504.3.1.2.1.
+FC
+TABLE 5504.3.1.2.1
+SEPARATION OF PORTABLE
+CRYOGENIC CONTAINERS
+FROM EXPOSURE HAZARDS
+EXPOSURE
+MINIMUM DISTANCE (feet)
+Building
+exits
+10
+Building openings other than building
+exits
+1
+Air intakes
+10
+Lot lines
+5
+Combustible waste
+or
+vegetation
+15
+Other
+hazardous materials
+In accordance with
+FC Chapter 50
+For SI: 1 foot = 304.8 mm.
+
+---
+
+## Section 5504.3.1.2.2: Surfaces Beneath Cryogenic Containers
+
+5504.3.1.2.2 Surfaces Beneath Cryogenic Containers
+Cryogenic
+containers
+shall be placed on surfaces that are compatible with the
+cryogenic fluid
+in
+ the
+cryogenic container
+.
+
+---
+
+Cryogenic
+containers
+shall be placed on surfaces that are compatible with the
+cryogenic fluid
+in
+ the
+cryogenic container
+.
+
+---
+
+## Section 5504.3.1.2.3: Drainage
+
+5504.3.1.2.3 Drainage
+The area surrounding portable cryogenic
+containers
+shall be provided with a means to prevent accidental discharge of fluids from
+ endangering adjacent
+containers
+, buildings, equipment or adjoining property.
+Exception:
+These requirements shall not apply when it is determined by the
+commissioner
+that the
+cryogenic container
+does not constitute a hazard.
+
+---
+
+The area surrounding portable cryogenic
+containers
+shall be provided with a means to prevent accidental discharge of fluids from
+ endangering adjacent
+containers
+, buildings, equipment or adjoining property.
+Exception:
+These requirements shall not apply when it is determined by the
+commissioner
+that the
+cryogenic container
+does not constitute a hazard.
+
+---
+
+## Section 5504.3.1.2.4: Areas Subject to Flooding
+
+5504.3.1.2.4 Areas Subject to Flooding
+Portable
+cryogenic containers
+located in areas subject to flooding shall be properly secured to prevent movement.
+
+---
+
+Portable
+cryogenic containers
+located in areas subject to flooding shall be properly secured to prevent movement.
+
+---
+
+## Section 5504.3.1.2.5: Pressure Relief Valve Discharge
+
+5504.3.1.2.5 Pressure Relief Valve Discharge
+Cryogenic containers
+shall be positioned such that the pressure relief valve discharge is directed away from any building
+exit
+.
+
+---
+
+Cryogenic containers
+shall be positioned such that the pressure relief valve discharge is directed away from any building
+exit
+.
+
+---
+
+Section 5505 Handling and Use
+
+---
+
+## Section 5505.1: Applicability
+
+5505.1 Applicability
+Handling
+and use of
+cryogenic containers
+and
+systems
+shall be in accordance with this section.
+
+---
+
+Handling
+and use of
+cryogenic containers
+and
+systems
+shall be in accordance with this section.
+
+---
+
+## Section 5505.1.1: Cryogenic Fluid Systems
+
+5505.1.1 Cryogenic Fluid Systems
+Cryogenic
+systems
+shall be suitable for the use
+ intended and designed by persons competent in such design. Equipment and processes shall be
+ listed or
+approved
+.
+
+---
+
+Cryogenic
+systems
+shall be suitable for the use
+ intended and designed by persons competent in such design. Equipment and processes shall be
+ listed or
+approved
+.
+
+---
+
+## Section 5505.1.2: Piping Systems
+
+5505.1.2 Piping Systems
+Piping, tubing, valves, joints and fittings used in cryogenic
+systems
+shall be designed and installed in accordance with the material-specific provisions of
+FC 5501.3.1
+,
+5501.3.2
+,
+5501.3.3
+and
+5505.1.2.1
+through
+5505.1.2.6
+.
+
+---
+
+Piping, tubing, valves, joints and fittings used in cryogenic
+systems
+shall be designed and installed in accordance with the material-specific provisions of
+FC 5501.3.1
+,
+5501.3.2
+,
+5501.3.3
+and
+5505.1.2.1
+through
+5505.1.2.6
+.
+
+---
+
+## Section 5505.1.2.1: Design and Construction
+
+5505.1.2.1 Design and Construction
+Piping
+systems
+shall be suitable for the
+ use intended through the full range of pressure and temperature to which they will be
+ subjected. Piping
+systems
+shall be designed and constructed to provide adequate allowance
+ for expansion, contraction, vibration, settlement and
+fire
+exposure.
+
+---
+
+Piping
+systems
+shall be suitable for the
+ use intended through the full range of pressure and temperature to which they will be
+ subjected. Piping
+systems
+shall be designed and constructed to provide adequate allowance
+ for expansion, contraction, vibration, settlement and
+fire
+exposure.
+
+---
+
+## Section 5505.1.2.2: Joints
+
+5505.1.2.2 Joints
+Joints on
+cryogenic container
+piping and tubing shall be threaded, welded, silver brazed or flanged.
+
+---
+
+Joints on
+cryogenic container
+piping and tubing shall be threaded, welded, silver brazed or flanged.
+
+---
+
+## Section 5505.1.2.3: Valves and Piping Components
+
+5505.1.2.3 Valves and Piping Components
+Valves and piping components
+ shall be suitable for the intended use at the temperatures of the
+application
+and shall be
+ designed and constructed to withstand the maximum pressure at the minimum temperature
+ to which they will be subjected. Valves shall be oriented so that the stem is above the
+ horizontal plane and discharge is directed away from supporting elements.
+
+---
+
+Valves and piping components
+ shall be suitable for the intended use at the temperatures of the
+application
+and shall be
+ designed and constructed to withstand the maximum pressure at the minimum temperature
+ to which they will be subjected. Valves shall be oriented so that the stem is above the
+ horizontal plane and discharge is directed away from supporting elements.
+
+---
+
+## Section 5505.1.2.3.1: Shutoff Valves on Cryogenic Containers
+
+5505.1.2.3.1 Shutoff Valves on Cryogenic Containers
+Shutoff valves
+ shall be provided on all
+cryogenic container
+connections except for pressure relief
+ devices. Shutoff valves shall be readily accessible and located as close as practical to
+ the
+cryogenic container
+. Manually-operated shutoff valves shall be designed and
+ installed to minimize accidental opening and closing.
+Exception:
+Valves before pressure relief devices shall be installed in accordance with
+FC5503.2.6
+.
+
+---
+
+Shutoff valves
+ shall be provided on all
+cryogenic container
+connections except for pressure relief
+ devices. Shutoff valves shall be readily accessible and located as close as practical to
+ the
+cryogenic container
+. Manually-operated shutoff valves shall be designed and
+ installed to minimize accidental opening and closing.
+Exception:
+Valves before pressure relief devices shall be installed in accordance with
+FC5503.2.6
+.
+
+---
+
+## Section 5505.1.2.3.2: Shutoff Valves on Piping
+
+5505.1.2.3.2 Shutoff Valves on Piping
+Shutoff valves shall be installed
+ in piping containing
+cryogenic fluids
+where needed to limit the volume of
+liquid
+discharged in the event of piping or equipment failure. Pressure relief valves shall be
+ installed on all sections of piping
+systems
+where
+liquid
+is capable of being trapped (see
+FC5503.2
+). Shutoff valves shall be installed so that piping components can
+ be isolated for
+maintenance
+. Check valves shall be installed on discharge lines where
+ pumps or other pressure-increasing equipment operate in parallel.
+
+---
+
+Shutoff valves shall be installed
+ in piping containing
+cryogenic fluids
+where needed to limit the volume of
+liquid
+discharged in the event of piping or equipment failure. Pressure relief valves shall be
+ installed on all sections of piping
+systems
+where
+liquid
+is capable of being trapped (see
+FC5503.2
+). Shutoff valves shall be installed so that piping components can
+ be isolated for
+maintenance
+. Check valves shall be installed on discharge lines where
+ pumps or other pressure-increasing equipment operate in parallel.
+
+---
+
+## Section 5505.1.2.4: Physical Protection and Support
+
+5505.1.2.4 Physical Protection and Support
+Piping
+systems
+shall be
+ supported and protected from physical damage. Piping passing through floors or walls shall
+ be protected from damage caused by movement of the floors or walls.
+
+---
+
+Piping
+systems
+shall be
+ supported and protected from physical damage. Piping passing through floors or walls shall
+ be protected from damage caused by movement of the floors or walls.
+
+---
+
+## Section 5505.1.2.5: Corrosion Protection
+
+5505.1.2.5 Corrosion Protection
+Aboveground piping that is subject to
+ corrosion because of exposure to corrosive atmospheres, shall be constructed of materials
+ to resist the corrosive environment or otherwise protected against corrosion. Underground
+ piping shall be protected against corrosion.
+
+---
+
+Aboveground piping that is subject to
+ corrosion because of exposure to corrosive atmospheres, shall be constructed of materials
+ to resist the corrosive environment or otherwise protected against corrosion. Underground
+ piping shall be protected against corrosion.
+
+---
+
+## Section 5505.1.2.6: Testing
+
+5505.1.2.6 Testing
+Piping
+systems
+shall be tested and proven free of leaks
+ after installation as required by the standards to which they were designed and constructed.
+ Test pressures shall not be less than 150 percent of the MAWP when hydraulic testing is
+ conducted or 110 percent when testing is conducted pneumatically.
+
+---
+
+Piping
+systems
+shall be tested and proven free of leaks
+ after installation as required by the standards to which they were designed and constructed.
+ Test pressures shall not be less than 150 percent of the MAWP when hydraulic testing is
+ conducted or 110 percent when testing is conducted pneumatically.
+
+---
+
+## Section 5505.2: Indoor Use
+
+5505.2 Indoor Use
+Indoor
+use of
+cryogenic fluids
+shall comply with the material-specific
+ requirements of
+FC 5501.3.1
+through
+5501.3.3
+.
+
+---
+
+Indoor
+use of
+cryogenic fluids
+shall comply with the material-specific
+ requirements of
+FC 5501.3.1
+through
+5501.3.3
+.
+
+---
+
+## Section 5505.3: Outdoor Use
+
+5505.3 Outdoor Use
+Outdoor use of
+cryogenic fluids
+shall comply with the material specific requirements of
+FC 5501.3.1
+,
+5501.3.2
+,
+5501.3.3
+,
+5505.3.1
+and
+5505.3.2
+.
+
+---
+
+Outdoor use of
+cryogenic fluids
+shall comply with the material specific requirements of
+FC 5501.3.1
+,
+5501.3.2
+,
+5501.3.3
+,
+5505.3.1
+and
+5505.3.2
+.
+
+---
+
+## Section 5505.3.1: Separation
+
+5505.3.1 Separation
+Distances from property lines, buildings and exposure hazards shall comply with the requirements of
+FC5504.3
+and the material specific requirements of
+FC 5501.3.1
+through
+5501.3.3
+.
+
+---
+
+Distances from property lines, buildings and exposure hazards shall comply with the requirements of
+FC5504.3
+and the material specific requirements of
+FC 5501.3.1
+through
+5501.3.3
+.
+
+---
+
+## Section 5505.3.2: Emergency Shutoff Valves
+
+5505.3.2 Emergency Shutoff Valves
+Approved
+manual or
+automatic
+emergency
+ shutoff valves shall be provided to shut off the
+cryogenic fluid
+supply in case of emergency.
+ An
+emergency shutoff valve
+shall be located at the source of supply and at the point where the
+system
+enters the building.
+
+---
+
+Approved
+manual or
+automatic
+emergency
+ shutoff valves shall be provided to shut off the
+cryogenic fluid
+supply in case of emergency.
+ An
+emergency shutoff valve
+shall be located at the source of supply and at the point where the
+system
+enters the building.
+
+---
+
+## Section 5505.4: Filling and Dispensing
+
+5505.4 Filling and Dispensing
+Filling and
+dispensing
+of
+cryogenic fluids
+shall comply with the requirements of
+FC 5505.4.1
+through
+5505.4.4
+.
+
+---
+
+Filling and
+dispensing
+of
+cryogenic fluids
+shall comply with the requirements of
+FC 5505.4.1
+through
+5505.4.4
+.
+
+---
+
+## Section 5505.4.1: Dispensing Areas
+
+5505.4.1 Dispensing Areas
+Dispensing
+of
+cryogenic fluids
+shall be conducted in
+approved locations
+.
+Dispensing
+indoors
+shall be conducted in areas constructed in accordance
+ with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Dispensing
+of
+cryogenic fluids
+shall be conducted in
+approved locations
+.
+Dispensing
+indoors
+shall be conducted in areas constructed in accordance
+ with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 5505.4.1.1: Ventilation
+
+5505.4.1.1 Ventilation
+Indoor
+areas where
+cryogenic fluids
+are dispensed
+ shall be ventilated in accordance with the
+Mechanical Code
+in a manner that captures any
+ vapor at the point of generation.
+
+---
+
+Indoor
+areas where
+cryogenic fluids
+are dispensed
+ shall be ventilated in accordance with the
+Mechanical Code
+in a manner that captures any
+ vapor at the point of generation.
+
+---
+
+## Section 5505.4.1.1.1: Alarms
+
+5505.4.1.1.1 Alarms
+Oxygen sensors equipped with an audible alarm
+ shall be provided in
+dispensing
+areas to continuously monitor the level of oxygen in
+ the area. The alarm shall actuate when oxygen concentration drops below 19.5 percent.
+
+---
+
+Oxygen sensors equipped with an audible alarm
+ shall be provided in
+dispensing
+areas to continuously monitor the level of oxygen in
+ the area. The alarm shall actuate when oxygen concentration drops below 19.5 percent.
+
+---
+
+## Section 5505.4.1.2: Piping Systems
+
+5505.4.1.2 Piping Systems
+Piping
+systems
+utilized for filling or
+dispensing
+of
+cryogenic fluids
+shall be designed and constructed in accordance with
+FC5505.1.2
+.
+
+---
+
+Piping
+systems
+utilized for filling or
+dispensing
+of
+cryogenic fluids
+shall be designed and constructed in accordance with
+FC5505.1.2
+.
+
+---
+
+## Section 5505.4.2: Vehicle Loading and Unloading Areas
+
+5505.4.2 Vehicle Loading and Unloading Areas
+Loading or unloading areas shall
+ be designed and maintained in accordance with the standards referenced in FC
+5501.3.1
+through
+5501.3.3
+. Loading and unloading areas shall additionally comply
+ with the requirements of
+FC 5504.3.1
+through
+5504.3.1.2.5
+and shall
+ be capable of withstanding the weight of the fully loaded
+cargo tank
+.
+
+---
+
+Loading or unloading areas shall
+ be designed and maintained in accordance with the standards referenced in FC
+5501.3.1
+through
+5501.3.3
+. Loading and unloading areas shall additionally comply
+ with the requirements of
+FC 5504.3.1
+through
+5504.3.1.2.5
+and shall
+ be capable of withstanding the weight of the fully loaded
+cargo tank
+.
+
+---
+
+## Section 5505.4.2.1: Vehicle Loading and Unloading Operations
+
+5505.4.2.1 Vehicle Loading and Unloading Operations
+Vehicle loading and
+ unloading operations shall be conducted in an
+approved
+manner in accordance with the
+ standards referenced in
+FC 5501.3.1
+through
+5501.3.3
+.
+
+---
+
+Vehicle loading and
+ unloading operations shall be conducted in an
+approved
+manner in accordance with the
+ standards referenced in
+FC 5501.3.1
+through
+5501.3.3
+.
+
+---
+
+## Section 5505.4.3: Limit Procedures
+
+5505.4.3 Limit Procedures
+Limit procedures shall be established to prevent overfilling of stationary
+cryogenic containers
+during filling operations.
+
+---
+
+Limit procedures shall be established to prevent overfilling of stationary
+cryogenic containers
+during filling operations.
+
+---
+
+## Section 5505.4.4: Prohibited Filling of Flammable Cryogenic Fluid
+
+5505.4.4 Prohibited Filling of Flammable Cryogenic Fluid
+It shall be unlawful to fill
+cryogenic containers
+with
+flammable cryogenic fluid
+.
+
+---
+
+It shall be unlawful to fill
+cryogenic containers
+with
+flammable cryogenic fluid
+.
+
+---
+
+## Section 5505.5: Handling
+
+5505.5 Handling
+Handling
+of
+cryogenic containers
+shall be in accordance with this section.
+
+---
+
+Handling
+of
+cryogenic containers
+shall be in accordance with this section.
+
+---
+
+## Section 5505.5.1: Carts and Hand Trucks
+
+5505.5.1 Carts and Hand Trucks
+Cryogenic containers
+shall be moved using an
+approved
+method. Where
+cryogenic containers
+are moved by cart, hand truck or other mobile
+ device, such carts, hand trucks or devices shall be designed for the secure movement of
+containers
+, including a means of restraining the
+containers
+.
+
+---
+
+Cryogenic containers
+shall be moved using an
+approved
+method. Where
+cryogenic containers
+are moved by cart, hand truck or other mobile
+ device, such carts, hand trucks or devices shall be designed for the secure movement of
+containers
+, including a means of restraining the
+containers
+.
+
+---
+
+## Section 5505.5.2: Closed Cryogenic Containers
+
+5505.5.2 Closed Cryogenic Containers
+Pressurized portable
+cryogenic containers
+shall be moved with all operable valves in a closed position.
+Cryogenic containers
+designed
+ for use at atmospheric conditions shall be moved with appropriate loose fitting covers in place
+ to prevent spillage.
+
+---
+
+Pressurized portable
+cryogenic containers
+shall be moved with all operable valves in a closed position.
+Cryogenic containers
+designed
+ for use at atmospheric conditions shall be moved with appropriate loose fitting covers in place
+ to prevent spillage.
+
+---
+
+## Section 5505.5.3: Stationary Cryogenic Containers
+
+5505.5.3 Stationary Cryogenic Containers
+Stationary
+cryogenic containers
+shall
+ not be moved while containing
+cryogenic fluid
+.
+Handling
+of
+cryogenic containers
+shall be in
+ accordance with the manufacturer's instructions.
+
+---
+
+Stationary
+cryogenic containers
+shall
+ not be moved while containing
+cryogenic fluid
+.
+Handling
+of
+cryogenic containers
+shall be in
+ accordance with the manufacturer's instructions.
+
+---
+
+Section 5506 LNG Installations and Facilities
+
+---
+
+## Section 5506.1: New LNG Installations and Facilities
+
+5506.1 New LNG Installations and Facilities
+It shall be unlawful to construct any new
+LNG
+installation or
+facility
+. It shall be unlawful to operate any
+LNG
+installation or
+facility
+that was not lawfully existing on the effective date of this code.
+
+---
+
+It shall be unlawful to construct any new
+LNG
+installation or
+facility
+. It shall be unlawful to operate any
+LNG
+installation or
+facility
+that was not lawfully existing on the effective date of this code.
+
+---
+
+## Section 5506.2: Existing LNG Installations and Facilities
+
+5506.2 Existing LNG Installations and Facilities
+LNG installations and
+facilities
+lawfully existing on the effective date of this code shall be designed, installed, operated and
+ maintained in accordance with this code, the
+rules
+and the regulations of the United States
+Department
+of Transportation, as set forth in 49 CFR Part 193, except as otherwise provided in FC
+102.3
+,
+102.4
+and
+102.5
+.
+
+---
+
+LNG installations and
+facilities
+lawfully existing on the effective date of this code shall be designed, installed, operated and
+ maintained in accordance with this code, the
+rules
+and the regulations of the United States
+Department
+of Transportation, as set forth in 49 CFR Part 193, except as otherwise provided in FC
+102.3
+,
+102.4
+and
+102.5
+.
+
+---
+
+## Section 5506.2.1: Out-of-Service LNG Storage Tanks
+
+5506.2.1 Out-of-Service LNG Storage Tanks
+Notwithstanding any other provision of
+ law, rule or regulation, any storage
+tank
+erected prior to the effective date of this code which has
+ not been used for the storage of
+liquefied natural gas
+for a period in excess of 2 years from the
+ date of completion of the construction of the
+tank
+structure shall be recertified by the various city
+ agencies in the same manner as if filing
+design and installation documents
+of a new
+tank
+before a
+ certificate of
+occupancy
+be issued if the
+tank
+is to be placed in service.
+
+---
+
+Notwithstanding any other provision of
+ law, rule or regulation, any storage
+tank
+erected prior to the effective date of this code which has
+ not been used for the storage of
+liquefied natural gas
+for a period in excess of 2 years from the
+ date of completion of the construction of the
+tank
+structure shall be recertified by the various city
+ agencies in the same manner as if filing
+design and installation documents
+of a new
+tank
+before a
+ certificate of
+occupancy
+be issued if the
+tank
+is to be placed in service.
+
+---
+

@@ -1,0 +1,4808 @@
+# NYC Fire Code 2022 - Chapter 24
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+2401 General
+
+---
+
+2402 Definitions
+
+---
+
+2403 Protection of Operations
+
+---
+
+2404 Spray Finishing
+
+---
+
+2405 Dip-Tank Operations
+
+---
+
+2406 Powder Coating
+
+---
+
+2407 Electrostatic Spray-Finishing Equipment
+
+---
+
+2408 Organic Peroxides and Dual-Component Coatings
+
+---
+
+2409 Indoor Manufacturing of Reinforced Plastics
+
+---
+
+2410 Floor Finishing Operations
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Section 2401 General
+
+---
+
+## Section 2401.1: Scope
+
+2401.1 Scope
+This chapter shall govern the following operations, and the design, installation, operation and
+maintenance
+of any building, structure or
+premises
+wherein such operations are conducted:
+The
+application
+of
+flammable finishes
+to articles or materials by means of spray apparatus.
+The
+application
+of
+flammable finishes
+by dipping or immersing articles or materials into the contents of
+tanks
+, vats or
+containers
+of flammable or
+combustible liquids
+for coating, finishing, treatment and similar processes.
+The
+application
+of
+flammable finishes
+utilizing powder spray guns, electrostatic powder spray guns,
+fluidized beds
+or
+electrostatic fluidized beds
+to apply combustible powders.
+Floor finishing operations
+.
+The
+application
+of
+flammable finishes
+consisting of dual-component coatings or Class I or II
+liquids
+when applied by brush or roller in quantities exceeding 1 gallon (4 L).
+
+---
+
+This chapter shall govern the following operations, and the design, installation, operation and
+maintenance
+of any building, structure or
+premises
+wherein such operations are conducted:
+The
+application
+of
+flammable finishes
+to articles or materials by means of spray apparatus.
+The
+application
+of
+flammable finishes
+by dipping or immersing articles or materials into the contents of
+tanks
+, vats or
+containers
+of flammable or
+combustible liquids
+for coating, finishing, treatment and similar processes.
+The
+application
+of
+flammable finishes
+utilizing powder spray guns, electrostatic powder spray guns,
+fluidized beds
+or
+electrostatic fluidized beds
+to apply combustible powders.
+Floor finishing operations
+.
+The
+application
+of
+flammable finishes
+consisting of dual-component coatings or Class I or II
+liquids
+when applied by brush or roller in quantities exceeding 1 gallon (4 L).
+
+---
+
+## Section 2401.2: Permits
+
+2401.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 2401.3: General
+
+2401.3 General
+Flammable finishing operations governed by this chapter shall be conducted in accordance with this chapter. The buildings and
+premises
+in which such flammable finishing operations are conducted shall be designed, installed, operated and maintained in accordance with this chapter.
+
+---
+
+Flammable finishing operations governed by this chapter shall be conducted in accordance with this chapter. The buildings and
+premises
+in which such flammable finishing operations are conducted shall be designed, installed, operated and maintained in accordance with this chapter.
+
+---
+
+## Section 2401.4: Supervision
+
+2401.4 Supervision
+The following finishing operations shall be conducted by or under the
+personal supervision
+of a
+certificate of fitness
+holder:
+Spray-finishing and dipping operations.
+Floor finishing operations
+requiring a
+permit
+.
+
+---
+
+The following finishing operations shall be conducted by or under the
+personal supervision
+of a
+certificate of fitness
+holder:
+Spray-finishing and dipping operations.
+Floor finishing operations
+requiring a
+permit
+.
+
+---
+
+## Section 2401.5: Certificate of Approval
+
+2401.5 Certificate of Approval
+Pre-manufactured
+spray rooms
+and pre-manufactured
+spray booths
+that circulate heated air shall be of a type for which a
+certificate of approval
+has been issued in accordance with this code, or which was previously
+approved
+by the
+Department of Buildings
+or the Board of Standards and Appeals, unless such approval is amended or repealed by the
+commissioner
+.
+
+---
+
+Pre-manufactured
+spray rooms
+and pre-manufactured
+spray booths
+that circulate heated air shall be of a type for which a
+certificate of approval
+has been issued in accordance with this code, or which was previously
+approved
+by the
+Department of Buildings
+or the Board of Standards and Appeals, unless such approval is amended or repealed by the
+commissioner
+.
+
+---
+
+Section 2402 Definitions
+
+---
+
+## Section 2402.1: Definitions
+
+2402.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+DETEARING
+.
+DIP
+TANK
+.
+ELECTROSTATIC FLUIDIZED BED
+.
+FLAMMABLE FINISHES
+.
+FLAMMABLE VAPOR AREA
+.
+FLOOR FINISHING OPERATION
+.
+FLUIDIZED BED
+.
+LIMITED-
+SPRAYING SPACE
+.
+RESIN
+APPLICATION
+AREA.
+ROLL COATING
+.
+SPRAY BOOTH
+.
+SPRAY ROOM
+.
+SPRAYING SPACE
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+DETEARING
+.
+DIP
+TANK
+.
+ELECTROSTATIC FLUIDIZED BED
+.
+FLAMMABLE FINISHES
+.
+FLAMMABLE VAPOR AREA
+.
+FLOOR FINISHING OPERATION
+.
+FLUIDIZED BED
+.
+LIMITED-
+SPRAYING SPACE
+.
+RESIN
+APPLICATION
+AREA.
+ROLL COATING
+.
+SPRAY BOOTH
+.
+SPRAY ROOM
+.
+SPRAYING SPACE
+.
+
+---
+
+Section 2403 Protection of Operations
+
+---
+
+## Section 2403.1: General
+
+2403.1 General
+Operations covered by this chapter shall be protected as required by this section and the
+Electrical Code
+.
+
+---
+
+Operations covered by this chapter shall be protected as required by this section and the
+Electrical Code
+.
+
+---
+
+## Section 2403.2: Sources of Ignition
+
+2403.2 Sources of Ignition
+Protection against sources of ignition shall be provided in accordance with
+FC 2403.2.1
+through
+2403.2.8
+.
+
+---
+
+Protection against sources of ignition shall be provided in accordance with
+FC 2403.2.1
+through
+2403.2.8
+.
+
+---
+
+## Section 2403.2.1: Electrical Wiring and Equipment
+
+2403.2.1 Electrical Wiring and Equipment
+Electrical
+wiring and equipment shall comply with the requirements of this chapter and the
+Electrical Code
+.
+
+---
+
+Electrical
+wiring and equipment shall comply with the requirements of this chapter and the
+Electrical Code
+.
+
+---
+
+## Section 2403.2.1.1: Flammable Vapor Areas
+
+2403.2.1.1 Flammable Vapor Areas
+Electrical
+wiring and equipment in
+flammable vapor areas
+shall be of an
+explosion
+-proof type
+approved
+for use in such hazardous locations. Such areas shall be considered to be Class I, Division 1 or Class II, Division 1 hazardous locations in accordance with the
+Electrical Code
+.
+
+---
+
+Electrical
+wiring and equipment in
+flammable vapor areas
+shall be of an
+explosion
+-proof type
+approved
+for use in such hazardous locations. Such areas shall be considered to be Class I, Division 1 or Class II, Division 1 hazardous locations in accordance with the
+Electrical Code
+.
+
+---
+
+## Section 2403.2.1.2: Areas Subject to Deposits of Residues
+
+2403.2.1.2 Areas Subject to Deposits of Residues
+Electrical equipment
+in
+flammable vapor areas
+and drying operations which are subject to splashing or dripping of
+liquids
+shall be specifically
+approved
+for locations containing deposits of readily ignitable residue and
+explosive
+vapors.
+Exceptions:
+Wiring in rigid conduit and threaded boxes or fittings not containing taps, splices or terminal connections.
+Electrostatic equipment complying with the requirements of
+FC2407
+.
+
+---
+
+Electrical equipment
+in
+flammable vapor areas
+and drying operations which are subject to splashing or dripping of
+liquids
+shall be specifically
+approved
+for locations containing deposits of readily ignitable residue and
+explosive
+vapors.
+Exceptions:
+Wiring in rigid conduit and threaded boxes or fittings not containing taps, splices or terminal connections.
+Electrostatic equipment complying with the requirements of
+FC2407
+.
+
+---
+
+## Section 2403.2.1.2.1: Resin Application Areas
+
+2403.2.1.2.1 Resin Application Areas
+In
+resin application areas
+,
+electrical
+wiring and equipment that is subject to deposits of combustible residues shall be listed for such exposure and shall be installed as required for hazardous (classified) locations.
+Electrical
+wiring and equipment not subject to deposits of combustible residues shall be installed as required for ordinary hazard locations.
+
+---
+
+In
+resin application areas
+,
+electrical
+wiring and equipment that is subject to deposits of combustible residues shall be listed for such exposure and shall be installed as required for hazardous (classified) locations.
+Electrical
+wiring and equipment not subject to deposits of combustible residues shall be installed as required for ordinary hazard locations.
+
+---
+
+## Section 2403.2.1.3: Areas Adjacent to Spray Booths
+
+2403.2.1.3 Areas Adjacent to Spray Booths
+Electrical
+wiring and equipment located outside of, but within 5 feet (1524 mm) horizontally and 3 feet (914 mm) vertically of openings in a
+spray booth
+or a
+spray room
+shall be
+approved
+for Class I, Division 2 or Class II, Division 2 hazardous locations, whichever is applicable.
+
+---
+
+Electrical
+wiring and equipment located outside of, but within 5 feet (1524 mm) horizontally and 3 feet (914 mm) vertically of openings in a
+spray booth
+or a
+spray room
+shall be
+approved
+for Class I, Division 2 or Class II, Division 2 hazardous locations, whichever is applicable.
+
+---
+
+## Section 2403.2.1.4: Areas Subject to Overspray Deposits
+
+2403.2.1.4 Areas Subject to Overspray Deposits
+Electrical equipment
+in
+flammable vapor areas
+located such that deposits of combustible residues could readily accumulate thereon shall be specifically
+approved
+for locations containing deposits of readily ignitable residue and
+explosive
+vapors in accordance with the
+Electrical Code
+.
+Exceptions:
+Wiring in rigid conduit and threaded boxes or fittings not containing taps, splices or terminal connections.
+Equipment complying with the requirements of
+FC 2404
+and
+2407
+and
+FC Chapter 30
+.
+
+---
+
+Electrical equipment
+in
+flammable vapor areas
+located such that deposits of combustible residues could readily accumulate thereon shall be specifically
+approved
+for locations containing deposits of readily ignitable residue and
+explosive
+vapors in accordance with the
+Electrical Code
+.
+Exceptions:
+Wiring in rigid conduit and threaded boxes or fittings not containing taps, splices or terminal connections.
+Equipment complying with the requirements of
+FC 2404
+and
+2407
+and
+FC Chapter 30
+.
+
+---
+
+## Section 2403.2.2: Open Flames and Sparks
+
+2403.2.2 Open Flames and Sparks
+Open flames
+and spark-producing devices shall not be located in
+flammable vapor areas
+and shall not be located within 20 feet (6096 mm) of such areas unless separated by a permanent partition.
+Exception:
+Drying and baking apparatus complying with the requirements of
+FC2404.3.4.2
+.
+
+---
+
+Open flames
+and spark-producing devices shall not be located in
+flammable vapor areas
+and shall not be located within 20 feet (6096 mm) of such areas unless separated by a permanent partition.
+Exception:
+Drying and baking apparatus complying with the requirements of
+FC2404.3.4.2
+.
+
+---
+
+## Section 2403.2.3: Hot Surfaces
+
+2403.2.3 Hot Surfaces
+Heated surfaces having a temperature sufficient to ignite vapors shall not be located in
+flammable vapor areas
+. Space-heating appliances, steam pipes or hot surfaces in
+flammable vapor areas
+shall be located such that they are not subject to accumulation of deposits of combustible residues.
+Exception:
+Drying apparatus complying with the requirements of
+FC2404.3.4.2
+.
+
+---
+
+Heated surfaces having a temperature sufficient to ignite vapors shall not be located in
+flammable vapor areas
+. Space-heating appliances, steam pipes or hot surfaces in
+flammable vapor areas
+shall be located such that they are not subject to accumulation of deposits of combustible residues.
+Exception:
+Drying apparatus complying with the requirements of
+FC2404.3.4.2
+.
+
+---
+
+## Section 2403.2.4: Equipment Enclosures
+
+2403.2.4 Equipment Enclosures
+Equipment or apparatus that is capable of producing sparks or particles of hot metal that would fall into a
+flammable vapor area
+shall be totally enclosed.
+
+---
+
+Equipment or apparatus that is capable of producing sparks or particles of hot metal that would fall into a
+flammable vapor area
+shall be totally enclosed.
+
+---
+
+## Section 2403.2.5: Grounding
+
+2403.2.5 Grounding
+Metal parts of
+spray booths
+, exhaust ducts and piping
+systems
+conveying Class I or II
+liquids
+shall be electrically grounded in accordance with the
+Electrical Code
+. Metallic parts located in
+resin application areas
+, including but not limited to exhaust ducts,
+ventilation
+fans, spray
+application
+equipment, workpieces and piping, shall be electrically grounded.
+
+---
+
+Metal parts of
+spray booths
+, exhaust ducts and piping
+systems
+conveying Class I or II
+liquids
+shall be electrically grounded in accordance with the
+Electrical Code
+. Metallic parts located in
+resin application areas
+, including but not limited to exhaust ducts,
+ventilation
+fans, spray
+application
+equipment, workpieces and piping, shall be electrically grounded.
+
+---
+
+## Section 2403.2.6: Smoking Prohibited
+
+2403.2.6 Smoking Prohibited
+It shall be unlawful to smoke in
+flammable vapor areas
+and hazardous material storage rooms associated with flammable finishing operations. "No Smoking" signs complying with the requirements of
+FC310
+shall be conspicuously posted in such areas.
+
+---
+
+It shall be unlawful to smoke in
+flammable vapor areas
+and hazardous material storage rooms associated with flammable finishing operations. "No Smoking" signs complying with the requirements of
+FC310
+shall be conspicuously posted in such areas.
+
+---
+
+## Section 2403.2.7: Hot Work Warning Signs
+
+2403.2.7 Hot Work Warning Signs
+Welding, cutting and other
+hot work
+operations shall not be conducted in or adjacent to
+flammable vapor areas
+. Durable signs bearing the following warning shall be conspicuously posted in the vicinity of
+flammable vapor areas
+and flammable finishing material storage rooms:
+NO WELDING
+THE USE OF WELDING OR CUTTING
+EQUIPMENT IN OR NEAR THIS AREA
+IS DANGEROUS BECAUSE OF
+FIRE
+AND
+EXPLOSION
+HAZARDS.
+
+---
+
+Welding, cutting and other
+hot work
+operations shall not be conducted in or adjacent to
+flammable vapor areas
+. Durable signs bearing the following warning shall be conspicuously posted in the vicinity of
+flammable vapor areas
+and flammable finishing material storage rooms:
+NO WELDING
+THE USE OF WELDING OR CUTTING
+EQUIPMENT IN OR NEAR THIS AREA
+IS DANGEROUS BECAUSE OF
+FIRE
+AND
+EXPLOSION
+HAZARDS.
+
+---
+
+## Section 2403.2.8: Powered Industrial Trucks
+
+2403.2.8 Powered Industrial Trucks
+Powered industrial trucks
+used in electrically classified areas shall be listed for such use.
+
+---
+
+Powered industrial trucks
+used in electrically classified areas shall be listed for such use.
+
+---
+
+## Section 2403.3: Storage, Handling and Use of Flammable and Combustible Liquids
+
+2403.3 Storage, Handling and Use of Flammable and Combustible Liquids
+Flammable and
+combustible liquids
+shall be stored, handled and used in accordance with this section and
+FC Chapter 57
+.
+
+---
+
+Flammable and
+combustible liquids
+shall be stored, handled and used in accordance with this section and
+FC Chapter 57
+.
+
+---
+
+## Section 2403.3.1: Use
+
+2403.3.1 Use
+Containers
+supplying spray nozzles shall be of a closed type or provided with metal covers which are kept closed.
+Containers
+not resting on floors shall be on noncombustible supports or suspended by wire cables.
+Containers
+supplying spray nozzles by gravity flow shall not exceed 10 gallons (37.9 L) in capacity.
+
+---
+
+Containers
+supplying spray nozzles shall be of a closed type or provided with metal covers which are kept closed.
+Containers
+not resting on floors shall be on noncombustible supports or suspended by wire cables.
+Containers
+supplying spray nozzles by gravity flow shall not exceed 10 gallons (37.9 L) in capacity.
+
+---
+
+## Section 2403.3.2: Valves
+
+2403.3.2 Valves
+Containers
+and piping to which a hose or flexible connection is attached shall be provided with a shutoff valve at the connection. Such valves shall be kept shut when hoses are not in use.
+
+---
+
+Containers
+and piping to which a hose or flexible connection is attached shall be provided with a shutoff valve at the connection. Such valves shall be kept shut when hoses are not in use.
+
+---
+
+## Section 2403.3.3: Pumped Liquid Supplies
+
+2403.3.3 Pumped Liquid Supplies
+Where flammable or
+combustible liquids
+are supplied to spray nozzles by positive displacement pumps, pump discharge lines shall be provided with an
+approved
+relief valve discharging to pump suction or a safe detached location.
+
+---
+
+Where flammable or
+combustible liquids
+are supplied to spray nozzles by positive displacement pumps, pump discharge lines shall be provided with an
+approved
+relief valve discharging to pump suction or a safe detached location.
+
+---
+
+## Section 2403.3.4: Liquid Transfer
+
+2403.3.4 Liquid Transfer
+Where a
+flammable liquid
+is transferred from one portable
+container
+to another, a bond shall be provided between the two
+containers
+. At least one
+container
+shall be grounded. Piping
+systems
+for Class I and Class II
+liquids
+shall be permanently grounded.
+
+---
+
+Where a
+flammable liquid
+is transferred from one portable
+container
+to another, a bond shall be provided between the two
+containers
+. At least one
+container
+shall be grounded. Piping
+systems
+for Class I and Class II
+liquids
+shall be permanently grounded.
+
+---
+
+## Section 2403.3.5: Class I Liquids as Solvents
+
+2403.3.5 Class I Liquids as Solvents
+Class I
+liquids
+used as solvents shall be used in spray gun and equipment cleaning machines which have been listed and
+approved
+for the purpose or shall be used in
+spray booths
+or
+spray rooms
+in accordance with
+FC 2403.3.5.1
+and
+2403.3.5.2
+.
+
+---
+
+Class I
+liquids
+used as solvents shall be used in spray gun and equipment cleaning machines which have been listed and
+approved
+for the purpose or shall be used in
+spray booths
+or
+spray rooms
+in accordance with
+FC 2403.3.5.1
+and
+2403.3.5.2
+.
+
+---
+
+## Section 2403.3.5.1: Listed Devices
+
+2403.3.5.1 Listed Devices
+Cleaning machines for spray guns and equipment shall not be located in areas open to the public and shall be separated from ignition sources in accordance with their listings or by a distance of 3 feet (914 mm), whichever is greater. The quantity of solvent used in a machine shall not exceed the design capacity of the machine.
+
+---
+
+Cleaning machines for spray guns and equipment shall not be located in areas open to the public and shall be separated from ignition sources in accordance with their listings or by a distance of 3 feet (914 mm), whichever is greater. The quantity of solvent used in a machine shall not exceed the design capacity of the machine.
+
+---
+
+## Section 2403.3.5.2: Within Spray Booths and Spray Rooms
+
+2403.3.5.2 Within Spray Booths and Spray Rooms
+Mechanical
+ventilation
+equipment shall be operated when solvents are used for cleaning spray nozzles and auxiliary equipment and for a period of time thereafter to allow for the exhaust of the vapors within
+spray booths
+and
+spray rooms
+.
+
+---
+
+Mechanical
+ventilation
+equipment shall be operated when solvents are used for cleaning spray nozzles and auxiliary equipment and for a period of time thereafter to allow for the exhaust of the vapors within
+spray booths
+and
+spray rooms
+.
+
+---
+
+## Section 2403.3.6: Class II and Class III Liquids
+
+2403.3.6 Class II and Class III Liquids
+Solvents used outside of
+spray booths
+,
+spray rooms
+or listed and
+approved
+spray gun and equipment cleaning machines shall be restricted to Class II and Class III
+liquids
+.
+
+---
+
+Solvents used outside of
+spray booths
+,
+spray rooms
+or listed and
+approved
+spray gun and equipment cleaning machines shall be restricted to Class II and Class III
+liquids
+.
+
+---
+
+## Section 2403.4: Operations and Maintenance
+
+2403.4 Operations and Maintenance
+Flammable vapor areas
+, exhaust fan blades and exhaust ducts shall be kept free from the accumulation of deposits of combustible residues. Where excessive residue accumulates in such areas, spraying operations shall be discontinued until the accumulation is removed from such areas and properly disposed of.
+
+---
+
+Flammable vapor areas
+, exhaust fan blades and exhaust ducts shall be kept free from the accumulation of deposits of combustible residues. Where excessive residue accumulates in such areas, spraying operations shall be discontinued until the accumulation is removed from such areas and properly disposed of.
+
+---
+
+## Section 2403.4.1: Tools
+
+2403.4.1 Tools
+Scrapers, spuds and other
+tools
+used for cleaning purposes shall be constructed of non-sparking materials.
+
+---
+
+Scrapers, spuds and other
+tools
+used for cleaning purposes shall be constructed of non-sparking materials.
+
+---
+
+## Section 2403.4.2: Residue
+
+2403.4.2 Residue
+Residue removed during cleaning and debris contaminated with residue shall be immediately removed from the
+premises
+and disposed of lawfully.
+
+---
+
+Residue removed during cleaning and debris contaminated with residue shall be immediately removed from the
+premises
+and disposed of lawfully.
+
+---
+
+## Section 2403.4.3: Waste Cans
+
+2403.4.3 Waste Cans
+Approved
+metal waste cans equipped with self-closing lids shall be provided wherever rags or waste are impregnated with finishing material. Such rags and waste shall be deposited therein immediately after being utilized. The contents of waste cans shall be properly disposed of at the end of each work shift and at least once daily.
+
+---
+
+Approved
+metal waste cans equipped with self-closing lids shall be provided wherever rags or waste are impregnated with finishing material. Such rags and waste shall be deposited therein immediately after being utilized. The contents of waste cans shall be properly disposed of at the end of each work shift and at least once daily.
+
+---
+
+## Section 2403.4.4: Solvent Recycling
+
+2403.4.4 Solvent Recycling
+Solvent distillation equipment used to recycle and clean dirty solvents shall comply with the requirements of
+FC5705.4
+.
+
+---
+
+Solvent distillation equipment used to recycle and clean dirty solvents shall comply with the requirements of
+FC5705.4
+.
+
+---
+
+Section 2404 Spray Finishing
+
+---
+
+## Section 2404.1: General
+
+2404.1 General
+Spraying operations involving the use of flammable or
+combustible liquids
+in continuous or intermittent processes shall be conducted in accordance with this section and
+FC 2403
+and
+2407
+, as applicable.
+
+---
+
+Spraying operations involving the use of flammable or
+combustible liquids
+in continuous or intermittent processes shall be conducted in accordance with this section and
+FC 2403
+and
+2407
+, as applicable.
+
+---
+
+## Section 2404.2: Location
+
+2404.2 Location
+Except in
+Group A
+, E, I and R
+occupancies
+, spraying operations shall be conducted in a
+spray room
+or a
+spray booth
+complying with the applicable requirements of
+FC 2404.3
+, unless the extent of such operations allows them to be conducted in a
+limited-spraying space
+in accordance with
+FC2404.5
+. In
+Group A
+, E, I and R
+occupancies
+, spray-finishing operations shall be conducted in a
+spray room
+in compliance with the applicable requirements of
+FC2404.3
+.
+Exceptions:
+Approved
+automobile undercoating spray operations and spray-on automotive lining operations, utilizing
+liquids
+having a flashpoint above 140°F (60°C), when conducted in areas with
+approved
+natural or mechanical
+ventilation
+.
+The
+application
+of resin in the manufacturing of reinforced plastics in accordance with
+FC2409
+.
+
+---
+
+Except in
+Group A
+, E, I and R
+occupancies
+, spraying operations shall be conducted in a
+spray room
+or a
+spray booth
+complying with the applicable requirements of
+FC 2404.3
+, unless the extent of such operations allows them to be conducted in a
+limited-spraying space
+in accordance with
+FC2404.5
+. In
+Group A
+, E, I and R
+occupancies
+, spray-finishing operations shall be conducted in a
+spray room
+in compliance with the applicable requirements of
+FC2404.3
+.
+Exceptions:
+Approved
+automobile undercoating spray operations and spray-on automotive lining operations, utilizing
+liquids
+having a flashpoint above 140°F (60°C), when conducted in areas with
+approved
+natural or mechanical
+ventilation
+.
+The
+application
+of resin in the manufacturing of reinforced plastics in accordance with
+FC2409
+.
+
+---
+
+## Section 2404.2.1: Below Grade Areas
+
+2404.2.1 Below Grade Areas
+Spray rooms
+and
+spray booths
+shall not be located in basements, cellars or other areas below grade.
+
+---
+
+Spray rooms
+and
+spray booths
+shall not be located in basements, cellars or other areas below grade.
+
+---
+
+## Section 2404.3: Design and Installation
+
+2404.3 Design and Installation
+Spray rooms
+and
+spray booths
+shall be designed and installed in compliance with the requirements of
+FC 2404.3.1
+through
+2404.3.7
+, as applicable.
+
+---
+
+Spray rooms
+and
+spray booths
+shall be designed and installed in compliance with the requirements of
+FC 2404.3.1
+through
+2404.3.7
+, as applicable.
+
+---
+
+## Section 2404.3.1: Construction of Spray Rooms
+
+2404.3.1 Construction of Spray Rooms
+Spray rooms
+shall be designed and installed in compliance with the requirements of the
+Building Code
+and
+Mechanical Code
+, including vertical and horizontal separation from other spaces.
+Spray rooms
+shall additionally comply with the requirements of this section.
+
+---
+
+Spray rooms
+shall be designed and installed in compliance with the requirements of the
+Building Code
+and
+Mechanical Code
+, including vertical and horizontal separation from other spaces.
+Spray rooms
+shall additionally comply with the requirements of this section.
+
+---
+
+## Section 2404.3.2: Construction of Spray Booths
+
+2404.3.2 Construction of Spray Booths
+Spray booths
+shall be designed and installed in compliance with the requirements of the
+Building Code
+and
+Mechanical Code
+, NFPA 33 and this section.
+
+---
+
+Spray booths
+shall be designed and installed in compliance with the requirements of the
+Building Code
+and
+Mechanical Code
+, NFPA 33 and this section.
+
+---
+
+## Section 2404.3.2.1: Materials
+
+2404.3.2.1 Materials
+Spray booths
+shall be constructed of
+approved
+noncombustible materials. Aluminum shall not be used. Where walls or ceiling assemblies are constructed of sheet metal, single-skin assemblies shall be no thinner than 0.0478 inch (18 gauge) (1.2 mm) and each sheet of double-skin assemblies shall be no thinner than 0.0359 inch (20 gauge) (0.9 mm). Structural sections of
+spray booths
+may be sealed with latex-based or similar caulks and sealants. The interior surfaces of
+spray booths
+shall be smooth and shall be constructed so as to
+permit
+the free passage of exhaust air from all parts of the interior and to facilitate washing and cleaning, and shall be designed to confine residues within the booth.
+
+---
+
+Spray booths
+shall be constructed of
+approved
+noncombustible materials. Aluminum shall not be used. Where walls or ceiling assemblies are constructed of sheet metal, single-skin assemblies shall be no thinner than 0.0478 inch (18 gauge) (1.2 mm) and each sheet of double-skin assemblies shall be no thinner than 0.0359 inch (20 gauge) (0.9 mm). Structural sections of
+spray booths
+may be sealed with latex-based or similar caulks and sealants. The interior surfaces of
+spray booths
+shall be smooth and shall be constructed so as to
+permit
+the free passage of exhaust air from all parts of the interior and to facilitate washing and cleaning, and shall be designed to confine residues within the booth.
+
+---
+
+## Section 2404.3.2.2: Clear Space
+
+2404.3.2.2 Clear Space
+Spray booths
+shall be installed so that all parts of the booth are readily accessible for cleaning and other
+maintenance
+. A clear space of not less than 3 feet (914 mm) shall be maintained on all sides of the
+spray booth
+.
+Exception:
+A clear space of less than 3 feet (914 mm) may be maintained from an interior partition, wall or floor/ceiling assembly with a
+fire
+-resistance-rating of not less than 1 hour, or an exterior wall or roof assembly of a noncombustible wall or roof.
+
+---
+
+Spray booths
+shall be installed so that all parts of the booth are readily accessible for cleaning and other
+maintenance
+. A clear space of not less than 3 feet (914 mm) shall be maintained on all sides of the
+spray booth
+.
+Exception:
+A clear space of less than 3 feet (914 mm) may be maintained from an interior partition, wall or floor/ceiling assembly with a
+fire
+-resistance-rating of not less than 1 hour, or an exterior wall or roof assembly of a noncombustible wall or roof.
+
+---
+
+## Section 2404.3.2.3: Size
+
+2404.3.2.3 Size
+The aggregate area of
+spray booths
+in a building shall not exceed the lesser of 10 percent of the area of any floor of the building or the floor area allowed for a
+Group H
+-2
+occupancy
+by the
+Building Code
+, as set forth in Table 503 of the
+Building Code
+, excluding any area increases allowed by Section 506 of the
+Building Code
+. The area of an individual
+spray booth
+in a building shall not exceed the lesser of the aggregate size limit or 1,500 square feet (139 m
+2
+).
+Exception:
+A single
+spray booth
+not exceeding 500 square feet (46 m
+2
+) is allowed irrespective of the results of the required calculations.
+
+---
+
+The aggregate area of
+spray booths
+in a building shall not exceed the lesser of 10 percent of the area of any floor of the building or the floor area allowed for a
+Group H
+-2
+occupancy
+by the
+Building Code
+, as set forth in Table 503 of the
+Building Code
+, excluding any area increases allowed by Section 506 of the
+Building Code
+. The area of an individual
+spray booth
+in a building shall not exceed the lesser of the aggregate size limit or 1,500 square feet (139 m
+2
+).
+Exception:
+A single
+spray booth
+not exceeding 500 square feet (46 m
+2
+) is allowed irrespective of the results of the required calculations.
+
+---
+
+## Section 2404.3.2.4: Waterwash Spray Booths
+
+2404.3.2.4 Waterwash Spray Booths
+Waterwash
+spray booths
+shall be of an
+approved
+design so as to prevent excessive accumulation of deposits in ducts and residue at duct outlets. Such booths shall be arranged so that air and overspray are drawn through a continuously flowing water curtain before being exhausted outdoors.
+
+---
+
+Waterwash
+spray booths
+shall be of an
+approved
+design so as to prevent excessive accumulation of deposits in ducts and residue at duct outlets. Such booths shall be arranged so that air and overspray are drawn through a continuously flowing water curtain before being exhausted outdoors.
+
+---
+
+## Section 2404.3.2.5: Means of Egress
+
+2404.3.2.5 Means of Egress
+Means of egress
+doors from pre-manufactured
+spray booths
+shall not be less than 30 inches (762 mm) in width by 80 inches (2032 mm) in height.
+
+---
+
+Means of egress
+doors from pre-manufactured
+spray booths
+shall not be less than 30 inches (762 mm) in width by 80 inches (2032 mm) in height.
+
+---
+
+## Section 2404.3.3: Fire Protection
+
+2404.3.3 Fire Protection
+Spray rooms
+and
+spray booths
+shall be protected by a
+fire extinguishing system
+. Such
+fire extinguishing system
+shall also protect exhaust plenums, exhaust ducts and both sides of dry filters when such filters are used.
+
+---
+
+Spray rooms
+and
+spray booths
+shall be protected by a
+fire extinguishing system
+. Such
+fire extinguishing system
+shall also protect exhaust plenums, exhaust ducts and both sides of dry filters when such filters are used.
+
+---
+
+## Section 2404.3.3.1: Automated Spraying Operations
+
+2404.3.3.1 Automated Spraying Operations
+The
+fire extinguishing system
+for each
+spray room
+or
+spray booth
+designed for
+automatic
+spraying operations shall be equipped with an interlock in accordance with
+FC2404.3.5
+(7) and with a manual shutdown device. Such manual shutdown device shall be located within the path of emergency egress from such
+spray room
+or
+spray booth
+, shall be readily accessible to personnel supervising the spraying operation, and when activated, shall initiate the same functions as the
+automatic
+interlock.
+
+---
+
+The
+fire extinguishing system
+for each
+spray room
+or
+spray booth
+designed for
+automatic
+spraying operations shall be equipped with an interlock in accordance with
+FC2404.3.5
+(7) and with a manual shutdown device. Such manual shutdown device shall be located within the path of emergency egress from such
+spray room
+or
+spray booth
+, shall be readily accessible to personnel supervising the spraying operation, and when activated, shall initiate the same functions as the
+automatic
+interlock.
+
+---
+
+## Section 2404.3.4: Drying Operations
+
+2404.3.4 Drying Operations
+Spray rooms
+and
+spray booths
+shall not be used for drying operations that could cause an increase in the surface temperature of the
+spray room
+or
+spray booth
+, unless such operations are conducted in compliance with the requirements of
+FC 2404.3.4.1
+,
+2404.3.4.2
+and
+2404.3.5
+.
+
+---
+
+Spray rooms
+and
+spray booths
+shall not be used for drying operations that could cause an increase in the surface temperature of the
+spray room
+or
+spray booth
+, unless such operations are conducted in compliance with the requirements of
+FC 2404.3.4.1
+,
+2404.3.4.2
+and
+2404.3.5
+.
+
+---
+
+## Section 2404.3.4.1: Spraying Procedure
+
+2404.3.4.1 Spraying Procedure
+The spraying procedure shall use low-volume spray
+application
+.
+
+---
+
+The spraying procedure shall use low-volume spray
+application
+.
+
+---
+
+## Section 2404.3.4.2: Drying and Baking Apparatus
+
+2404.3.4.2 Drying and Baking Apparatus
+Fixed drying and baking apparatus shall comply with the requirements of this chapter and the applicable provisions of
+FC Chapter 30
+. When recirculation
+ventilation
+is provided in accordance with
+FC2404.3.7.1
+, the heating
+system
+shall not be within the recirculation air path.
+
+---
+
+Fixed drying and baking apparatus shall comply with the requirements of this chapter and the applicable provisions of
+FC Chapter 30
+. When recirculation
+ventilation
+is provided in accordance with
+FC2404.3.7.1
+, the heating
+system
+shall not be within the recirculation air path.
+
+---
+
+## Section 2404.3.5: Interlocks
+
+2404.3.5 Interlocks
+The spraying apparatus, drying apparatus and ventilating
+system
+for the
+spray room
+or
+spray booth
+shall be equipped with interlocks designed to automatically:
+prevent operation of spraying apparatus while drying operations are in progress.
+prevent the operation of the drying apparatus until the
+spray room
+or
+spray booth
+has been purged of vapors for a period of at least 3 minutes.
+shut down the drying apparatus in the event that the
+ventilation
+system
+fails to operate within the
+spray room
+or
+spray booth
+during the drying process.
+shut down the drying apparatus if the air temperature within the
+spray room
+or
+spray booth
+exceeds 200°F (93°C).
+prevent the spraying operation unless the
+ventilation
+system
+is in operation.
+shut down the spraying operation in a
+spray booth
+equipped with a filter roll when the filter roll fails to automatically advance when the air velocity falls below the minimum design level.
+shut down the spraying operation, drying operation and workpiece conveyors into and out of the
+flammable vapor area
+, and notify the building
+fire alarm system
+, upon activation of the
+fire extinguishing systems
+protecting an automated spraying operation.
+
+---
+
+The spraying apparatus, drying apparatus and ventilating
+system
+for the
+spray room
+or
+spray booth
+shall be equipped with interlocks designed to automatically:
+prevent operation of spraying apparatus while drying operations are in progress.
+prevent the operation of the drying apparatus until the
+spray room
+or
+spray booth
+has been purged of vapors for a period of at least 3 minutes.
+shut down the drying apparatus in the event that the
+ventilation
+system
+fails to operate within the
+spray room
+or
+spray booth
+during the drying process.
+shut down the drying apparatus if the air temperature within the
+spray room
+or
+spray booth
+exceeds 200°F (93°C).
+prevent the spraying operation unless the
+ventilation
+system
+is in operation.
+shut down the spraying operation in a
+spray booth
+equipped with a filter roll when the filter roll fails to automatically advance when the air velocity falls below the minimum design level.
+shut down the spraying operation, drying operation and workpiece conveyors into and out of the
+flammable vapor area
+, and notify the building
+fire alarm system
+, upon activation of the
+fire extinguishing systems
+protecting an automated spraying operation.
+
+---
+
+## Section 2404.3.6: Illumination
+
+2404.3.6 Illumination
+Only fixed luminaires protected by a glass panel shall be utilized as a source of illumination in
+spray rooms
+and
+spray booths
+. Such luminaires and glass panels shall comply with the requirements of
+FC 2404.3.6.1
+through
+2404.3.6.3
+, as applicable.
+
+---
+
+Only fixed luminaires protected by a glass panel shall be utilized as a source of illumination in
+spray rooms
+and
+spray booths
+. Such luminaires and glass panels shall comply with the requirements of
+FC 2404.3.6.1
+through
+2404.3.6.3
+, as applicable.
+
+---
+
+## Section 2404.3.6.1: Glass Panels
+
+2404.3.6.1 Glass Panels
+Panels for light fixtures or for observation shall be of heat-treated glass, wired glass or hammered-wire glass, and shall be sealed to confine vapor, gas, fume, mists or dust to the
+flammable vapor area
+. Panels for luminaires shall be separated from the luminaire to prevent the surface temperature of the panel from exceeding 200°F (93°C).
+
+---
+
+Panels for light fixtures or for observation shall be of heat-treated glass, wired glass or hammered-wire glass, and shall be sealed to confine vapor, gas, fume, mists or dust to the
+flammable vapor area
+. Panels for luminaires shall be separated from the luminaire to prevent the surface temperature of the panel from exceeding 200°F (93°C).
+
+---
+
+## Section 2404.3.6.2: Exterior Luminaires
+
+2404.3.6.2 Exterior Luminaires
+Luminaires
+approved
+for use in ordinary hazard locations may be used when the luminaire is attached to an exterior wall or ceiling of a
+spray room
+or
+spray booth
+, but is separated and protected from the
+flammable vapor area
+by a vapor-tight glass panel. Such luminaires shall be serviced exclusively from outside the
+flammable vapor area
+.
+
+---
+
+Luminaires
+approved
+for use in ordinary hazard locations may be used when the luminaire is attached to an exterior wall or ceiling of a
+spray room
+or
+spray booth
+, but is separated and protected from the
+flammable vapor area
+by a vapor-tight glass panel. Such luminaires shall be serviced exclusively from outside the
+flammable vapor area
+.
+
+---
+
+## Section 2404.3.6.3: Integral Luminaires
+
+2404.3.6.3 Integral Luminaires
+Luminaires
+approved
+for use in hazardous locations shall be used when the luminaire is an integral part of the walls or ceiling of a
+spray room
+or
+spray booth
+. Such luminaires shall be listed for use in Class I, Division 2 or Class II, Division 2 locations, as applicable. Such luminaires may be serviced from inside the
+flammable vapor area
+.
+
+---
+
+Luminaires
+approved
+for use in hazardous locations shall be used when the luminaire is an integral part of the walls or ceiling of a
+spray room
+or
+spray booth
+. Such luminaires shall be listed for use in Class I, Division 2 or Class II, Division 2 locations, as applicable. Such luminaires may be serviced from inside the
+flammable vapor area
+.
+
+---
+
+## Section 2404.3.7: Ventilation
+
+2404.3.7 Ventilation
+Mechanical
+ventilation
+of
+flammable vapor areas
+shall be provided in accordance with
+Chapter 5
+of the
+Mechanical Code
+and this section.
+
+---
+
+Mechanical
+ventilation
+of
+flammable vapor areas
+shall be provided in accordance with
+Chapter 5
+of the
+Mechanical Code
+and this section.
+
+---
+
+## Section 2404.3.7.1: Recirculation
+
+2404.3.7.1 Recirculation
+Air exhausted from spraying operations shall not be recirculated, except as authorized by the
+Mechanical Code
+.
+
+---
+
+Air exhausted from spraying operations shall not be recirculated, except as authorized by the
+Mechanical Code
+.
+
+---
+
+## Section 2404.3.7.2: Prohibition
+
+2404.3.7.2 Prohibition
+Makeup air and
+flammable vapor area
+exhaust
+systems
+shall not be interlocked with the
+fire alarm system
+. The
+ventilation
+system
+shall remain in operation upon activation of the building
+fire alarm system
+.
+Exception:
+Where the type of
+fire extinguishing system
+used requires that
+ventilation
+be discontinued, makeup air and exhaust
+systems
+shall shut down and dampers shall close.
+
+---
+
+Makeup air and
+flammable vapor area
+exhaust
+systems
+shall not be interlocked with the
+fire alarm system
+. The
+ventilation
+system
+shall remain in operation upon activation of the building
+fire alarm system
+.
+Exception:
+Where the type of
+fire extinguishing system
+used requires that
+ventilation
+be discontinued, makeup air and exhaust
+systems
+shall shut down and dampers shall close.
+
+---
+
+## Section 2404.3.7.3: Filters
+
+2404.3.7.3 Filters
+Spray rooms
+and
+spray booths
+shall be provided with exhaust filters. Air intake filters are not required, but if part of a
+spray room
+or
+spray booth
+wall or ceiling assembly shall be listed as Class I or Class II in accordance with UL 900.
+
+---
+
+Spray rooms
+and
+spray booths
+shall be provided with exhaust filters. Air intake filters are not required, but if part of a
+spray room
+or
+spray booth
+wall or ceiling assembly shall be listed as Class I or Class II in accordance with UL 900.
+
+---
+
+## Section 2404.3.7.3.1: Supports
+
+2404.3.7.3.1 Supports
+Supports and holders for filters shall be constructed of noncombustible materials.
+
+---
+
+Supports and holders for filters shall be constructed of noncombustible materials.
+
+---
+
+## Section 2404.3.7.3.2: Attachment
+
+2404.3.7.3.2 Attachment
+Overspray collection filters shall be readily removable and accessible for cleaning or replacement.
+
+---
+
+Overspray collection filters shall be readily removable and accessible for cleaning or replacement.
+
+---
+
+## Section 2404.3.7.3.3: Monitoring Air Velocity
+
+2404.3.7.3.3 Monitoring Air Velocity
+One or more devices shall be provided to monitor the air velocity of the air being exhausted from a
+spray room
+or
+spray booth
+and to provide an indication, alarm or
+system
+shutdown if the required velocity is not being maintained. The device monitoring the air flow shall visually display the pressure of the exhausted air, activate an alarm and/or shut down the spraying operation.
+
+---
+
+One or more devices shall be provided to monitor the air velocity of the air being exhausted from a
+spray room
+or
+spray booth
+and to provide an indication, alarm or
+system
+shutdown if the required velocity is not being maintained. The device monitoring the air flow shall visually display the pressure of the exhausted air, activate an alarm and/or shut down the spraying operation.
+
+---
+
+## Section 2404.4: Operation and Maintenance
+
+2404.4 Operation and Maintenance
+Facilities
+in which spraying operations and drying operations are conducted shall be operated and maintained in compliance with the requirements of this section.
+
+---
+
+Facilities
+in which spraying operations and drying operations are conducted shall be operated and maintained in compliance with the requirements of this section.
+
+---
+
+## Section 2404.4.1: Spraying of Incompatible Materials
+
+2404.4.1 Spraying of Incompatible Materials
+Spray rooms
+and
+spray booths
+shall not be utilized for spraying operations utilizing alternating
+incompatible materials
+, unless all deposits of one material are removed from the room or booth and exhaust ducts, and dry filters replaced, prior to spraying with the incompatible material.
+
+---
+
+Spray rooms
+and
+spray booths
+shall not be utilized for spraying operations utilizing alternating
+incompatible materials
+, unless all deposits of one material are removed from the room or booth and exhaust ducts, and dry filters replaced, prior to spraying with the incompatible material.
+
+---
+
+## Section 2404.4.2: Filter Disposal
+
+2404.4.2 Filter Disposal
+Discarded exhaust filters shall be immediately removed from the
+spray room
+or
+spray booth
+and disposed of in accordance with
+FC304.3.1
+.
+
+---
+
+Discarded exhaust filters shall be immediately removed from the
+spray room
+or
+spray booth
+and disposed of in accordance with
+FC304.3.1
+.
+
+---
+
+## Section 2404.4.3: Sprinkler Head Protection
+
+2404.4.3 Sprinkler Head Protection
+Sprinkler heads installed in
+spraying spaces
+shall be protected in an
+approved
+manner from accumulation of residue from spraying operations. Sprinkler heads shall be inspected at least once per week and cleaned as needed. Bags used as a protective covering shall be of 0.003-inch-thick (0.076-mm-thick) polyethylene or cellophane or shall be of thin paper. Sprinkler heads contaminated by overspray particles shall be replaced with new sprinkler heads.
+
+---
+
+Sprinkler heads installed in
+spraying spaces
+shall be protected in an
+approved
+manner from accumulation of residue from spraying operations. Sprinkler heads shall be inspected at least once per week and cleaned as needed. Bags used as a protective covering shall be of 0.003-inch-thick (0.076-mm-thick) polyethylene or cellophane or shall be of thin paper. Sprinkler heads contaminated by overspray particles shall be replaced with new sprinkler heads.
+
+---
+
+## Section 2404.4.4: Floor Protection
+
+2404.4.4 Floor Protection
+Combustible floor construction in
+spraying spaces
+shall be covered by an
+approved
+, noncombustible, nonsparking material, except that combustible coverings, such as thin paper or plastic and strippable coatings, may be utilized over the noncombustible, nonsparking floor covering material on combustible floors, and on
+noncombustible floors
+, to facilitate cleaning operations in
+spraying spaces
+.
+
+---
+
+Combustible floor construction in
+spraying spaces
+shall be covered by an
+approved
+, noncombustible, nonsparking material, except that combustible coverings, such as thin paper or plastic and strippable coatings, may be utilized over the noncombustible, nonsparking floor covering material on combustible floors, and on
+noncombustible floors
+, to facilitate cleaning operations in
+spraying spaces
+.
+
+---
+
+## Section 2404.4.5: Portable Electric Lamps
+
+2404.4.5 Portable Electric Lamps
+Portable electric lamps shall not be stored or used in the
+flammable vapor area
+.
+Exception:
+Portable electric lamps of a type
+approved
+for hazardous locations may be used to provide additional
+lighting
+for cleaning or
+maintenance
+in such areas.
+
+---
+
+Portable electric lamps shall not be stored or used in the
+flammable vapor area
+.
+Exception:
+Portable electric lamps of a type
+approved
+for hazardous locations may be used to provide additional
+lighting
+for cleaning or
+maintenance
+in such areas.
+
+---
+
+## Section 2404.4.6: Portable Infrared Apparatus
+
+2404.4.6 Portable Infrared Apparatus
+Portable
+electrical equipment
+located within 18 inches (457 mm) of floor level shall be
+approved
+for Class I, Division 2, hazardous locations. Metallic parts of drying apparatus shall be electrically bonded and grounded. During spraying operations, portable drying apparatus and
+electrical
+connections and wiring thereto shall not be located within
+spray booths
+,
+spray rooms
+or other
+spraying space
+.
+
+---
+
+Portable
+electrical equipment
+located within 18 inches (457 mm) of floor level shall be
+approved
+for Class I, Division 2, hazardous locations. Metallic parts of drying apparatus shall be electrically bonded and grounded. During spraying operations, portable drying apparatus and
+electrical
+connections and wiring thereto shall not be located within
+spray booths
+,
+spray rooms
+or other
+spraying space
+.
+
+---
+
+## Section 2404.4.7: Continuous Ventilation
+
+2404.4.7 Continuous Ventilation
+Mechanical
+ventilation
+shall be kept in operation at all times while spraying operations are being conducted and for a sufficient time thereafter to allow vapors from drying coated articles and finishing material residue to be exhausted.
+
+---
+
+Mechanical
+ventilation
+shall be kept in operation at all times while spraying operations are being conducted and for a sufficient time thereafter to allow vapors from drying coated articles and finishing material residue to be exhausted.
+
+---
+
+## Section 2404.4.8: Obstruction of Exhaust Ventilation
+
+2404.4.8 Obstruction of Exhaust Ventilation
+Articles being sprayed shall be positioned in a manner that does not obstruct collection of overspray.
+
+---
+
+Articles being sprayed shall be positioned in a manner that does not obstruct collection of overspray.
+
+---
+
+## Section 2404.4.9: Hazardous and Combustible Material Storage
+
+2404.4.9 Hazardous and Combustible Material Storage
+The clear space around
+spray booths
+pursuant to
+FC2404.3.2.2
+shall be kept free of hazardous material and combustible material storage.
+
+---
+
+The clear space around
+spray booths
+pursuant to
+FC2404.3.2.2
+shall be kept free of hazardous material and combustible material storage.
+
+---
+
+## Section 2404.4.10: Portable Fire Extinguishers
+
+2404.4.10 Portable Fire Extinguishers
+Spraying spaces
+shall be provided with portable
+fire
+extinguishers for an extra (high) hazard
+occupancy
+in accordance with
+FC906
+.
+
+---
+
+Spraying spaces
+shall be provided with portable
+fire
+extinguishers for an extra (high) hazard
+occupancy
+in accordance with
+FC906
+.
+
+---
+
+## Section 2404.5: Limited-Spraying Spaces
+
+2404.5 Limited-Spraying Spaces
+Spray finishing operations may be conducted in a
+limited-spraying space
+when the spraying operations are limited in size and
+frequency
+and are conducted in a properly ventilated and electrically wired space in compliance with the requirements of
+FC 2404.5.1
+through
+2404.5.5
+.
+
+---
+
+Spray finishing operations may be conducted in a
+limited-spraying space
+when the spraying operations are limited in size and
+frequency
+and are conducted in a properly ventilated and electrically wired space in compliance with the requirements of
+FC 2404.5.1
+through
+2404.5.5
+.
+
+---
+
+## Section 2404.5.1: Job Size
+
+2404.5.1 Job Size
+The surface area of any workpiece to be sprayed shall not exceed 9 square feet (0.84 m
+2
+).
+
+---
+
+The surface area of any workpiece to be sprayed shall not exceed 9 square feet (0.84 m
+2
+).
+
+---
+
+## Section 2404.5.2: Frequency
+
+2404.5.2 Frequency
+Spraying operations shall not be of a continuous nature and shall be incidental to the operation of the
+facility
+.
+
+---
+
+Spraying operations shall not be of a continuous nature and shall be incidental to the operation of the
+facility
+.
+
+---
+
+## Section 2404.5.3: Ventilation
+
+2404.5.3 Ventilation
+Positive mechanical
+ventilation
+shall be provided in accordance with
+Chapter 5
+of the
+Mechanical Code
+. Such
+system
+shall meet the requirements of the
+Mechanical Code
+for
+flammable vapor areas
+.
+Explosion
+venting is not required.
+
+---
+
+Positive mechanical
+ventilation
+shall be provided in accordance with
+Chapter 5
+of the
+Mechanical Code
+. Such
+system
+shall meet the requirements of the
+Mechanical Code
+for
+flammable vapor areas
+.
+Explosion
+venting is not required.
+
+---
+
+## Section 2404.5.4: Electrical Wiring
+
+2404.5.4 Electrical Wiring
+Electrical
+wiring within 10 feet (3048 mm) of the floor and 20 feet (6096 mm) horizontally of the
+limited-spraying space
+shall be designed for Class I, Division 2 locations in accordance with the
+Electrical Code
+.
+
+---
+
+Electrical
+wiring within 10 feet (3048 mm) of the floor and 20 feet (6096 mm) horizontally of the
+limited-spraying space
+shall be designed for Class I, Division 2 locations in accordance with the
+Electrical Code
+.
+
+---
+
+## Section 2404.5.5: Portable Fire Extinguisher
+
+2404.5.5 Portable Fire Extinguisher
+Limited-spraying space
+shall be provided with a portable
+fire
+extinguisher in accordance with
+FC2404.4.10
+.
+
+---
+
+Limited-spraying space
+shall be provided with a portable
+fire
+extinguisher in accordance with
+FC2404.4.10
+.
+
+---
+
+Section 2405 Dip-Tank Operations
+
+---
+
+## Section 2405.1: General
+
+2405.1 General
+Dip-tank
+operations shall be conducted in accordance with this section and
+FC2403
+.
+
+---
+
+Dip-tank
+operations shall be conducted in accordance with this section and
+FC2403
+.
+
+---
+
+## Section 2405.2: Location
+
+2405.2 Location
+In
+Group A
+, I and R
+occupancies
+,
+dip-tank
+operations shall be conducted in a room designed for that purpose, protected throughout by a
+sprinkler system
+, and separated vertically and horizontally from other areas by construction having a
+fire
+resistance rating of not less than 2 hours, in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+In
+Group A
+, I and R
+occupancies
+,
+dip-tank
+operations shall be conducted in a room designed for that purpose, protected throughout by a
+sprinkler system
+, and separated vertically and horizontally from other areas by construction having a
+fire
+resistance rating of not less than 2 hours, in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2405.3: Design and Installation
+
+2405.3 Design and Installation
+Dip tanks
+shall be designed and installed in compliance with the requirements of
+FC 2405.3.1
+through
+2405.3.6
+.
+
+---
+
+Dip tanks
+shall be designed and installed in compliance with the requirements of
+FC 2405.3.1
+through
+2405.3.6
+.
+
+---
+
+## Section 2405.3.1: Construction
+
+2405.3.1 Construction
+Except as otherwise provided in FC2405.4 with respect to hardening and tempering
+tanks
+,
+dip tanks
+shall be constructed in accordance with this section, and NFPA 34.
+Dip tanks
+, including drain boards, shall be constructed of noncombustible material and their supports shall be sturdily constructed of metal, reinforced concrete or masonry.
+
+---
+
+Except as otherwise provided in FC2405.4 with respect to hardening and tempering
+tanks
+,
+dip tanks
+shall be constructed in accordance with this section, and NFPA 34.
+Dip tanks
+, including drain boards, shall be constructed of noncombustible material and their supports shall be sturdily constructed of metal, reinforced concrete or masonry.
+
+---
+
+## Section 2405.3.1.1: Overflow
+
+2405.3.1.1 Overflow
+Dip tanks
+greater than 150 gallons (568 L) in capacity or 10 square feet (0.93 m
+2
+) in
+liquid
+surface area shall be equipped with a trapped overflow pipe leading to an
+approved
+outdoor location. The bottom of the overflow connection shall not be less than 6 inches (152 mm) below the top of the
+tank
+.
+
+---
+
+Dip tanks
+greater than 150 gallons (568 L) in capacity or 10 square feet (0.93 m
+2
+) in
+liquid
+surface area shall be equipped with a trapped overflow pipe leading to an
+approved
+outdoor location. The bottom of the overflow connection shall not be less than 6 inches (152 mm) below the top of the
+tank
+.
+
+---
+
+## Section 2405.3.1.2: Bottom Drains
+
+2405.3.1.2 Bottom Drains
+Dip tanks
+greater than 500 gallons (1893 L) in
+liquid
+capacity shall be equipped with bottom drains that are arranged to automatically and manually drain the
+tank
+quickly in the event of a
+fire
+unless the viscosity of the
+liquid
+at normal atmospheric temperature makes this impractical. Manual operation shall be from a safe, accessible location. Where gravity flow is not practicable,
+automatic
+pumps shall be provided. Such drains shall be provided with traps and shall discharge to a closed, vented salvage
+tank
+or other
+approved
+location.
+Exception:
+Dip tanks
+containing Class IIIB
+combustible liquids
+where the
+liquids
+are not heated above room temperature, and the process area is protected throughout by a
+sprinkler system
+.
+
+---
+
+Dip tanks
+greater than 500 gallons (1893 L) in
+liquid
+capacity shall be equipped with bottom drains that are arranged to automatically and manually drain the
+tank
+quickly in the event of a
+fire
+unless the viscosity of the
+liquid
+at normal atmospheric temperature makes this impractical. Manual operation shall be from a safe, accessible location. Where gravity flow is not practicable,
+automatic
+pumps shall be provided. Such drains shall be provided with traps and shall discharge to a closed, vented salvage
+tank
+or other
+approved
+location.
+Exception:
+Dip tanks
+containing Class IIIB
+combustible liquids
+where the
+liquids
+are not heated above room temperature, and the process area is protected throughout by a
+sprinkler system
+.
+
+---
+
+## Section 2405.3.2: Dipping Liquid Temperature Control
+
+2405.3.2 Dipping Liquid Temperature Control
+Protection against the accumulation of vapors, self-ignition and excessively high temperatures shall be provided for
+dip tanks
+in which dipping
+liquids
+are heated directly or heated by the surfaces of the object being dipped.
+
+---
+
+Protection against the accumulation of vapors, self-ignition and excessively high temperatures shall be provided for
+dip tanks
+in which dipping
+liquids
+are heated directly or heated by the surfaces of the object being dipped.
+
+---
+
+## Section 2405.3.3: Dip Tank Covers
+
+2405.3.3 Dip Tank Covers
+Dip tank
+covers, if provided, shall be capable of manual operation and shall be
+automatic
+-closing by
+approved
+automatic
+-closing devices designed to operate in the event of
+fire
+.
+Dip tank
+covers shall be kept closed when
+tanks
+are not in use.
+
+---
+
+Dip tank
+covers, if provided, shall be capable of manual operation and shall be
+automatic
+-closing by
+approved
+automatic
+-closing devices designed to operate in the event of
+fire
+.
+Dip tank
+covers shall be kept closed when
+tanks
+are not in use.
+
+---
+
+## Section 2405.3.3.1: Materials
+
+2405.3.3.1 Materials
+Dip tank
+covers shall be constructed of noncombustible material or be of a tin-clad type designed in the same manner as
+fire
+doors.
+
+---
+
+Dip tank
+covers shall be constructed of noncombustible material or be of a tin-clad type designed in the same manner as
+fire
+doors.
+
+---
+
+## Section 2405.3.3.2: Supports
+
+2405.3.3.2 Supports
+Chain or wire rope shall be utilized for cover supports or operating mechanisms.
+
+---
+
+Chain or wire rope shall be utilized for cover supports or operating mechanisms.
+
+---
+
+## Section 2405.3.4: Fire Protection
+
+2405.3.4 Fire Protection
+Dip-tank
+operations shall be protected in compliance with the requirements of
+FC 2405.3.4.1
+and
+2405.3.4.2
+.
+
+---
+
+Dip-tank
+operations shall be protected in compliance with the requirements of
+FC 2405.3.4.1
+and
+2405.3.4.2
+.
+
+---
+
+## Section 2405.3.4.1: Fire Extinguishing Equipment
+
+2405.3.4.1 Fire Extinguishing Equipment
+A
+fire extinguishing system
+shall be provided for the following
+dip tanks
+unless such
+dip tanks
+are provided with a
+dip tank
+cover in accordance with
+FC2405.3.3
+:
+Dip tanks
+less than 150 gallons (568 L) in capacity or 10 square feet (0.93 m
+2
+) in
+liquid
+surface area.
+Dip tanks
+containing a
+liquid
+with a
+flash point
+below 110°F (43°C), used in such manner that the
+liquid
+temperature could equal or be greater than its
+flash point
+from artificial or natural causes, and having both a capacity of more than 10 gallons (37.9 L) and a
+liquid
+surface area exceeding 4 square feet (0.37 m
+2
+).
+
+---
+
+A
+fire extinguishing system
+shall be provided for the following
+dip tanks
+unless such
+dip tanks
+are provided with a
+dip tank
+cover in accordance with
+FC2405.3.3
+:
+Dip tanks
+less than 150 gallons (568 L) in capacity or 10 square feet (0.93 m
+2
+) in
+liquid
+surface area.
+Dip tanks
+containing a
+liquid
+with a
+flash point
+below 110°F (43°C), used in such manner that the
+liquid
+temperature could equal or be greater than its
+flash point
+from artificial or natural causes, and having both a capacity of more than 10 gallons (37.9 L) and a
+liquid
+surface area exceeding 4 square feet (0.37 m
+2
+).
+
+---
+
+## Section 2405.3.4.2: Fire Extinguishing System
+
+2405.3.4.2 Fire Extinguishing System
+Dip tanks
+with a capacity of 150 gallons (568 L) or more, or a
+liquid
+surface area of 10 square feet (0.93 m
+2
+) or more shall be protected by a
+fire extinguishing system
+. Such
+fire extinguishing system
+shall be designed in accordance with NFPA 34.
+
+---
+
+Dip tanks
+with a capacity of 150 gallons (568 L) or more, or a
+liquid
+surface area of 10 square feet (0.93 m
+2
+) or more shall be protected by a
+fire extinguishing system
+. Such
+fire extinguishing system
+shall be designed in accordance with NFPA 34.
+
+---
+
+## Section 2405.3.5: Interlocks
+
+2405.3.5 Interlocks
+Dip tanks
+utilizing a conveyor
+system
+shall be arranged such that in the event of
+fire
+, the conveyor
+system
+shall automatically cease motion and the required
+tank
+bottom drains shall open.
+
+---
+
+Dip tanks
+utilizing a conveyor
+system
+shall be arranged such that in the event of
+fire
+, the conveyor
+system
+shall automatically cease motion and the required
+tank
+bottom drains shall open.
+
+---
+
+## Section 2405.3.6: Ventilation
+
+2405.3.6 Ventilation
+Mechanical
+ventilation
+of
+flammable vapor areas
+shall be provided in accordance with
+Chapter 5
+of the
+Mechanical Code
+.
+
+---
+
+Mechanical
+ventilation
+of
+flammable vapor areas
+shall be provided in accordance with
+Chapter 5
+of the
+Mechanical Code
+.
+
+---
+
+## Section 2405.4: Hardening and Tempering Tanks
+
+2405.4 Hardening and Tempering Tanks
+Hardening and tempering
+tanks
+shall be designed and installed in compliance with the requirements of
+FC 2405.4.1
+through
+2405.4.5
+. Except as provided therein, hardening and tempering
+tanks
+shall not be subject to the requirements for
+dip tanks
+set forth in
+FC2405
+.
+
+---
+
+Hardening and tempering
+tanks
+shall be designed and installed in compliance with the requirements of
+FC 2405.4.1
+through
+2405.4.5
+. Except as provided therein, hardening and tempering
+tanks
+shall not be subject to the requirements for
+dip tanks
+set forth in
+FC2405
+.
+
+---
+
+## Section 2405.4.1: Construction
+
+2405.4.1 Construction
+Hardening and tempering
+tanks
+shall be constructed in accordance with
+FC 2405.3.1
+,
+2405.3.1.1
+,
+2405.3.1.2
+,
+2405.3.2
+and
+2405.3.5
+.
+
+---
+
+Hardening and tempering
+tanks
+shall be constructed in accordance with
+FC 2405.3.1
+,
+2405.3.1.1
+,
+2405.3.1.2
+,
+2405.3.2
+and
+2405.3.5
+.
+
+---
+
+## Section 2405.4.2: Location
+
+2405.4.2 Location
+Hardening and tempering
+tanks
+located in a room containing an industrial
+furnace
+shall be positioned to minimize the ignition risk from such
+furnace
+, and such
+tanks
+shall not be located on a combustible floor.
+
+---
+
+Hardening and tempering
+tanks
+located in a room containing an industrial
+furnace
+shall be positioned to minimize the ignition risk from such
+furnace
+, and such
+tanks
+shall not be located on a combustible floor.
+
+---
+
+## Section 2405.4.3: Hoods
+
+2405.4.3 Hoods
+Hardening and tempering
+tanks
+shall be provided with a noncombustible
+hood
+and vent or other
+approved
+ventilation
+system
+that terminates outdoors. Such exhaust
+hood
+and vent shall serve to provide a path for heat and flames in the event of a
+fire
+in the
+tank
+. Such vent ducts shall be designed as flues, and clearances shall be maintained from combustible materials to minimize their ignition risk.
+
+---
+
+Hardening and tempering
+tanks
+shall be provided with a noncombustible
+hood
+and vent or other
+approved
+ventilation
+system
+that terminates outdoors. Such exhaust
+hood
+and vent shall serve to provide a path for heat and flames in the event of a
+fire
+in the
+tank
+. Such vent ducts shall be designed as flues, and clearances shall be maintained from combustible materials to minimize their ignition risk.
+
+---
+
+## Section 2405.4.4: Fire Extinguishing System
+
+2405.4.4 Fire Extinguishing System
+Hardening and tempering
+tanks
+with a capacity exceeding 500 gallons (1893 L) or a
+liquid
+surface area exceeding 25 square feet (2.3 m
+2
+) shall be protected by a
+fire extinguishing system
+.
+
+---
+
+Hardening and tempering
+tanks
+with a capacity exceeding 500 gallons (1893 L) or a
+liquid
+surface area exceeding 25 square feet (2.3 m
+2
+) shall be protected by a
+fire extinguishing system
+.
+
+---
+
+## Section 2405.4.5: High Temperature Alarm
+
+2405.4.5 High Temperature Alarm
+Hardening and tempering
+tanks
+shall be equipped with a high-temperature limit switch arranged to sound an alarm when the temperature of the quenching medium reaches 50°F (10°C) below its
+flash point
+.
+
+---
+
+Hardening and tempering
+tanks
+shall be equipped with a high-temperature limit switch arranged to sound an alarm when the temperature of the quenching medium reaches 50°F (10°C) below its
+flash point
+.
+
+---
+
+## Section 2405.5: Operation and Maintenance
+
+2405.5 Operation and Maintenance
+Facilities
+in which dipping operations are conducted shall be operated and maintained in compliance with the requirements of this section.
+
+---
+
+Facilities
+in which dipping operations are conducted shall be operated and maintained in compliance with the requirements of this section.
+
+---
+
+## Section 2405.5.1: Sources of Ignition
+
+2405.5.1 Sources of Ignition
+Protection against sources of ignition shall be provided in accordance with
+FC2403.2
+.
+
+---
+
+Protection against sources of ignition shall be provided in accordance with
+FC2403.2
+.
+
+---
+
+## Section 2405.5.2: Use of Compressed Air
+
+2405.5.2 Use of Compressed Air
+Compressed air shall not be used to fill the
+tank
+or agitate
+tank
+contents.
+
+---
+
+Compressed air shall not be used to fill the
+tank
+or agitate
+tank
+contents.
+
+---
+
+## Section 2405.5.3: Portable Fire Extinguishers
+
+2405.5.3 Portable Fire Extinguishers
+Dip tank
+rooms and areas shall be provided with portable
+fire
+extinguishers complying with the requirements of
+FC906
+and rated for flammable and
+combustible liquid
+fires
+in extra (high) hazard environments.
+
+---
+
+Dip tank
+rooms and areas shall be provided with portable
+fire
+extinguishers complying with the requirements of
+FC906
+and rated for flammable and
+combustible liquid
+fires
+in extra (high) hazard environments.
+
+---
+
+## Section 2405.6: Flow-Coating Operations
+
+2405.6 Flow-Coating Operations
+Flow-coating operations shall be conducted in compliance with the design, installation, operation and
+maintenance
+requirements for
+dip tanks
+. For such purposes, the sump and any areas on which paint flows shall be considered to be the area of a
+dip tank
+. Finishing products shall be supplied by a gravity
+tank
+not exceeding 10 gallons (37.9 L) in capacity or by direct low-pressure pumps arranged to shut down automatically in case of
+fire
+by means of
+approved
+heat-activated devices.
+
+---
+
+Flow-coating operations shall be conducted in compliance with the design, installation, operation and
+maintenance
+requirements for
+dip tanks
+. For such purposes, the sump and any areas on which paint flows shall be considered to be the area of a
+dip tank
+. Finishing products shall be supplied by a gravity
+tank
+not exceeding 10 gallons (37.9 L) in capacity or by direct low-pressure pumps arranged to shut down automatically in case of
+fire
+by means of
+approved
+heat-activated devices.
+
+---
+
+## Section 2405.7: Roll-Coating Operations
+
+2405.7 Roll-Coating Operations
+Roll-coating
+operations shall comply with the requirements of
+FC2405.6
+. In
+roll-coating
+operations utilizing flammable or
+combustible liquids
+, sparks from static electricity shall be prevented by electrically bonding and grounding all metallic rotating and other parts of machinery and equipment and by the installation of static collectors or by maintaining a conductive atmosphere such as a high relative humidity.
+
+---
+
+Roll-coating
+operations shall comply with the requirements of
+FC2405.6
+. In
+roll-coating
+operations utilizing flammable or
+combustible liquids
+, sparks from static electricity shall be prevented by electrically bonding and grounding all metallic rotating and other parts of machinery and equipment and by the installation of static collectors or by maintaining a conductive atmosphere such as a high relative humidity.
+
+---
+
+Section 2406 Powder Coating
+
+---
+
+## Section 2406.1: General
+
+2406.1 General
+Operations using finely ground particles of protective finishing material applied in dry powder form by
+fluidized bed
+,
+electrostatic fluidized bed
+, powder spray guns or electrostatic powder spray guns shall be conducted in accordance with this section. When stationary electrostatic equipment is utilized, such operations shall additionally be conducted in accordance with
+FC2407
+.
+
+---
+
+Operations using finely ground particles of protective finishing material applied in dry powder form by
+fluidized bed
+,
+electrostatic fluidized bed
+, powder spray guns or electrostatic powder spray guns shall be conducted in accordance with this section. When stationary electrostatic equipment is utilized, such operations shall additionally be conducted in accordance with
+FC2407
+.
+
+---
+
+## Section 2406.2: Location
+
+2406.2 Location
+Powder coating operations
+shall be conducted in
+spray rooms
+or
+spray booths
+located in accordance with
+FC2404
+.
+
+---
+
+Powder coating operations
+shall be conducted in
+spray rooms
+or
+spray booths
+located in accordance with
+FC2404
+.
+
+---
+
+## Section 2406.3: Design and Installation
+
+2406.3 Design and Installation
+Powder coating operations
+shall be conducted in powder coating rooms and powder coating booths designed and installed in compliance with the requirements of this section.
+
+---
+
+Powder coating operations
+shall be conducted in powder coating rooms and powder coating booths designed and installed in compliance with the requirements of this section.
+
+---
+
+## Section 2406.3.1: Construction of Powder Coating Rooms
+
+2406.3.1 Construction of Powder Coating Rooms
+Powder coating rooms shall be constructed of noncombustible materials.
+
+---
+
+Powder coating rooms shall be constructed of noncombustible materials.
+
+---
+
+## Section 2406.3.2: Construction of Powder Coating Booths
+
+2406.3.2 Construction of Powder Coating Booths
+Powder coating booths shall be constructed in accordance with
+FC2404.3.2
+, except that booth assemblies listed for such purpose and constructed in accordance with such listing may be constructed of materials other than as required by
+FC2404.3.2.1
+.
+
+---
+
+Powder coating booths shall be constructed in accordance with
+FC2404.3.2
+, except that booth assemblies listed for such purpose and constructed in accordance with such listing may be constructed of materials other than as required by
+FC2404.3.2.1
+.
+
+---
+
+## Section 2406.3.3: Fire Protection
+
+2406.3.3 Fire Protection
+Powder coating rooms and booths shall be protected by
+fire protection systems
+in accordance with this section.
+
+---
+
+Powder coating rooms and booths shall be protected by
+fire protection systems
+in accordance with this section.
+
+---
+
+## Section 2406.3.3.1: Fire Extinguishing System
+
+2406.3.3.1 Fire Extinguishing System
+Powder coating rooms and booths shall be protected throughout by a
+fire extinguishing system
+.
+
+---
+
+Powder coating rooms and booths shall be protected throughout by a
+fire extinguishing system
+.
+
+---
+
+## Section 2406.3.3.2: Flame Detection System
+
+2406.3.3.2 Flame Detection System
+Automated powder coating
+application
+equipment shall be protected by an
+approved
+, supervised flame detection device capable of detecting the presence of flame within
+1
+/
+2
+second, that shall, upon activation, automatically initiate the following actions:
+Shut down
+electrical
+power and compressed air supply to the powder coating operation, including the conveyor,
+ventilation
+,
+application
+, transfer and powder collection
+systems
+.
+Close segregation dampers in associated ductwork to interrupt airflows from
+application
+equipment to powder collectors.
+Activate a local alarm audible within the powder coating room or booth and surrounding area.
+
+---
+
+Automated powder coating
+application
+equipment shall be protected by an
+approved
+, supervised flame detection device capable of detecting the presence of flame within
+1
+/
+2
+second, that shall, upon activation, automatically initiate the following actions:
+Shut down
+electrical
+power and compressed air supply to the powder coating operation, including the conveyor,
+ventilation
+,
+application
+, transfer and powder collection
+systems
+.
+Close segregation dampers in associated ductwork to interrupt airflows from
+application
+equipment to powder collectors.
+Activate a local alarm audible within the powder coating room or booth and surrounding area.
+
+---
+
+## Section 2406.3.4: Drying, Curing and Fusion Equipment
+
+2406.3.4 Drying, Curing and Fusion Equipment
+Drying, curing and fusion equipment shall comply with the requirements of
+FC Chapter 30
+.
+
+---
+
+Drying, curing and fusion equipment shall comply with the requirements of
+FC Chapter 30
+.
+
+---
+
+## Section 2406.3.5: Ventilation
+
+2406.3.5 Ventilation
+Exhaust
+ventilation
+and powder recovery
+systems
+shall be provided in accordance with
+Chapter 5
+of the
+Mechanical Code
+.
+
+---
+
+Exhaust
+ventilation
+and powder recovery
+systems
+shall be provided in accordance with
+Chapter 5
+of the
+Mechanical Code
+.
+
+---
+
+## Section 2406.4: Operation and Maintenance
+
+2406.4 Operation and Maintenance
+Facilities
+in which
+powder coating operations
+are conducted shall be operated and maintained in compliance with the requirements of this section.
+
+---
+
+Facilities
+in which
+powder coating operations
+are conducted shall be operated and maintained in compliance with the requirements of this section.
+
+---
+
+## Section 2406.4.1: Housekeeping
+
+2406.4.1 Housekeeping
+Powder coating areas, including horizontal surfaces such as ledges, beams, pipes,
+hoods
+, booths and floors, shall be kept free from the accumulation of powder coating dusts.
+
+---
+
+Powder coating areas, including horizontal surfaces such as ledges, beams, pipes,
+hoods
+, booths and floors, shall be kept free from the accumulation of powder coating dusts.
+
+---
+
+## Section 2406.4.2: Cleaning
+
+2406.4.2 Cleaning
+Surfaces shall be cleaned in such a manner as to avoid scattering dust or creating a dust cloud. Vacuum cleaning equipment shall be of a type
+approved
+for use in a hazardous location.
+
+---
+
+Surfaces shall be cleaned in such a manner as to avoid scattering dust or creating a dust cloud. Vacuum cleaning equipment shall be of a type
+approved
+for use in a hazardous location.
+
+---
+
+## Section 2406.4.3: Spark-Producing Metals
+
+2406.4.3 Spark-Producing Metals
+Magnetic separators, filter-type separators, or other
+approved
+means shall be installed or used to prevent iron or other spark-producing metals from being introduced into the powders or the powder-coating operation.
+
+---
+
+Magnetic separators, filter-type separators, or other
+approved
+means shall be installed or used to prevent iron or other spark-producing metals from being introduced into the powders or the powder-coating operation.
+
+---
+
+## Section 2406.4.4: Preheating Parts
+
+2406.4.4 Preheating Parts
+The temperature of the parts heated prior to coating shall not exceed the ignition temperature of the powder to be used.
+
+---
+
+The temperature of the parts heated prior to coating shall not exceed the ignition temperature of the powder to be used.
+
+---
+
+## Section 2406.4.5: Sources of Ignition
+
+2406.4.5 Sources of Ignition
+Protection against sources of ignition shall be provided in accordance with
+FC2403.2
+. Static bonding and grounding or other appropriate precautions shall be taken to minimize the possibility of ignition by static
+electrical
+sparks generated by powder transport,
+application
+and recovery
+systems
+.
+
+---
+
+Protection against sources of ignition shall be provided in accordance with
+FC2403.2
+. Static bonding and grounding or other appropriate precautions shall be taken to minimize the possibility of ignition by static
+electrical
+sparks generated by powder transport,
+application
+and recovery
+systems
+.
+
+---
+
+## Section 2406.4.6: Portable Fire Extinguishers
+
+2406.4.6 Portable Fire Extinguishers
+Powder coating rooms and booths shall be provided with portable
+fire
+extinguishers complying with the requirements of
+FC906
+and rated for flammable and
+combustible liquid
+fires
+in extra (high) hazard environments.
+
+---
+
+Powder coating rooms and booths shall be provided with portable
+fire
+extinguishers complying with the requirements of
+FC906
+and rated for flammable and
+combustible liquid
+fires
+in extra (high) hazard environments.
+
+---
+
+Section 2407 Electrostatic Spray-Finishing Equipment
+
+---
+
+## Section 2407.1: General
+
+2407.1 General
+Electrostatic spray-finishing equipment used in connection with paint-spraying and paint-
+detearing
+operations shall be of an
+approved
+type, and shall be designed, installed, operated and maintained in accordance with this section.
+
+---
+
+Electrostatic spray-finishing equipment used in connection with paint-spraying and paint-
+detearing
+operations shall be of an
+approved
+type, and shall be designed, installed, operated and maintained in accordance with this section.
+
+---
+
+## Section 2407.2: Location and Clear Space
+
+2407.2 Location and Clear Space
+A space of at least twice the maximum potential sparking distance shall be maintained between the workpiece being painted or deteared and any electrodes, electrostatic atomizing heads or conductors.
+Exception:
+Such distance is not required to be maintained between workpieces and portable electrostatic spray-finishing equipment listed for use in Class I, Division 1 locations.
+
+---
+
+A space of at least twice the maximum potential sparking distance shall be maintained between the workpiece being painted or deteared and any electrodes, electrostatic atomizing heads or conductors.
+Exception:
+Such distance is not required to be maintained between workpieces and portable electrostatic spray-finishing equipment listed for use in Class I, Division 1 locations.
+
+---
+
+## Section 2407.3: Design and Installation
+
+2407.3 Design and Installation
+Electrostatic spray-finishing equipment used in connection with paint-spraying and paint-
+detearing
+operations shall be designed and installed in compliance with the requirements of this section.
+
+---
+
+Electrostatic spray-finishing equipment used in connection with paint-spraying and paint-
+detearing
+operations shall be designed and installed in compliance with the requirements of this section.
+
+---
+
+## Section 2407.3.1: Construction
+
+2407.3.1 Construction
+Electrodes and electrostatic atomizing heads shall be of
+approved
+construction, rigidly braced or otherwise supported to prevent movement and insulated from grounding by nonporous and noncombustible insulators.
+Exception:
+Such bracing and insulation is not required to be provided for portable electrostatic spray-finishing equipment listed for use in Class I, Division 1 locations.
+
+---
+
+Electrodes and electrostatic atomizing heads shall be of
+approved
+construction, rigidly braced or otherwise supported to prevent movement and insulated from grounding by nonporous and noncombustible insulators.
+Exception:
+Such bracing and insulation is not required to be provided for portable electrostatic spray-finishing equipment listed for use in Class I, Division 1 locations.
+
+---
+
+## Section 2407.3.1.1: Separation
+
+2407.3.1.1 Separation
+Electrostatic spray-finishing equipment shall be separated from other areas and operations by means of booths, fencing, railings or other barriers. Fencing, railings or other barriers shall be of conductive material, adequately grounded, and shall be placed not less than 5 feet (1524 mm) from the electrostatic spray-finishing equipment.
+Exception:
+Such barrier and
+separation distance
+is not required to be provided for portable electrostatic spray-finishing equipment listed for use in Class I, Division 1 locations.
+
+---
+
+Electrostatic spray-finishing equipment shall be separated from other areas and operations by means of booths, fencing, railings or other barriers. Fencing, railings or other barriers shall be of conductive material, adequately grounded, and shall be placed not less than 5 feet (1524 mm) from the electrostatic spray-finishing equipment.
+Exception:
+Such barrier and
+separation distance
+is not required to be provided for portable electrostatic spray-finishing equipment listed for use in Class I, Division 1 locations.
+
+---
+
+## Section 2407.3.2: Fire Protection
+
+2407.3.2 Fire Protection
+Electrostatic spray finishing operations shall be protected by
+fire protection systems
+in compliance with the requirements of this section.
+
+---
+
+Electrostatic spray finishing operations shall be protected by
+fire protection systems
+in compliance with the requirements of this section.
+
+---
+
+## Section 2407.3.2.1: Fire Extinguishing System
+
+2407.3.2.1 Fire Extinguishing System
+Spraying areas shall be protected throughout by a
+fire extinguishing system
+complying with
+FC Chapter 9
+.
+
+---
+
+Spraying areas shall be protected throughout by a
+fire extinguishing system
+complying with
+FC Chapter 9
+.
+
+---
+
+## Section 2407.3.2.2: Flame Detection System
+
+2407.3.2.2 Flame Detection System
+Automated
+liquid
+electrostatic spray-finishing operation areas shall be protected by the installation of an
+approved
+, supervised flame detection
+system
+capable of detecting the presence of flame within
+1
+/
+2
+second, which shall, upon activation, automatically initiate the following actions:
+Shut down
+electrical
+power to the electrostatic spray-finishing equipment, including the coating material delivery
+system
+and the conveyors into and out of the
+flammable vapor area
+, and terminating all spray-finishing operations.
+Activate a local alarm in the spraying area, and the building
+fire alarm system
+if such a
+system
+is provided.
+
+---
+
+Automated
+liquid
+electrostatic spray-finishing operation areas shall be protected by the installation of an
+approved
+, supervised flame detection
+system
+capable of detecting the presence of flame within
+1
+/
+2
+second, which shall, upon activation, automatically initiate the following actions:
+Shut down
+electrical
+power to the electrostatic spray-finishing equipment, including the coating material delivery
+system
+and the conveyors into and out of the
+flammable vapor area
+, and terminating all spray-finishing operations.
+Activate a local alarm in the spraying area, and the building
+fire alarm system
+if such a
+system
+is provided.
+
+---
+
+## Section 2407.3.3: Interlocks
+
+2407.3.3 Interlocks
+Electrostatic spray-finishing equipment shall be provided with emergency shut down devices and interlocks in compliance with the requirements of this section.
+
+---
+
+Electrostatic spray-finishing equipment shall be provided with emergency shut down devices and interlocks in compliance with the requirements of this section.
+
+---
+
+## Section 2407.3.3.1: Emergency Shutdown
+
+2407.3.3.1 Emergency Shutdown
+Electrostatic spray-finishing equipment shall be equipped with
+automatic
+controls operating without time delay to disconnect the power supply to the high-voltage transformer and signal the operator under any of the following conditions:
+Stoppage of ventilating fans or failure of ventilating equipment from any cause.
+Stoppage of the conveyor carrying articles past the high-voltage grid.
+Occurrence of a ground fault or an imminent ground fault at any point of the high-voltage
+system
+.
+Reduction of clearance below that required in
+FC2407.2
+.
+
+---
+
+Electrostatic spray-finishing equipment shall be equipped with
+automatic
+controls operating without time delay to disconnect the power supply to the high-voltage transformer and signal the operator under any of the following conditions:
+Stoppage of ventilating fans or failure of ventilating equipment from any cause.
+Stoppage of the conveyor carrying articles past the high-voltage grid.
+Occurrence of a ground fault or an imminent ground fault at any point of the high-voltage
+system
+.
+Reduction of clearance below that required in
+FC2407.2
+.
+
+---
+
+## Section 2407.3.3.2: Ventilation Interlock
+
+2407.3.3.2 Ventilation Interlock
+Electrostatic spray-finishing equipment utilizing hand-held sprayers shall be interlocked with the
+ventilation
+system
+for the spraying area so that the equipment cannot be operated unless the ventilating
+system
+is in operation.
+
+---
+
+Electrostatic spray-finishing equipment utilizing hand-held sprayers shall be interlocked with the
+ventilation
+system
+for the spraying area so that the equipment cannot be operated unless the ventilating
+system
+is in operation.
+
+---
+
+## Section 2407.3.4: Ventilation
+
+2407.3.4 Ventilation
+Mechanical
+ventilation
+in the
+flammable vapor area
+shall be provided in accordance with
+Chapter 5
+of the
+Mechanical Code
+.
+
+---
+
+Mechanical
+ventilation
+in the
+flammable vapor area
+shall be provided in accordance with
+Chapter 5
+of the
+Mechanical Code
+.
+
+---
+
+## Section 2407.4: Operation and Maintenance
+
+2407.4 Operation and Maintenance
+Facilities
+in which electrostatic spray-finishing operations are conducted shall be operated and maintained in compliance with the requirements of this section and
+FC 2403.3
+and
+2403.4
+, and
+FC 2407.4.1
+through
+2407.4.3
+.
+
+---
+
+Facilities
+in which electrostatic spray-finishing operations are conducted shall be operated and maintained in compliance with the requirements of this section and
+FC 2403.3
+and
+2403.4
+, and
+FC 2407.4.1
+through
+2407.4.3
+.
+
+---
+
+## Section 2407.4.1: Cleaning
+
+2407.4.1 Cleaning
+Insulators shall be kept clean and dry. Drip plates and screens upon which paint is deposited shall be removable and shall be regularly removed and cleaned. Grounding connections for the electrostatic spray-finishing equipment shall be regularly cleaned so as to prevent overspray.
+
+---
+
+Insulators shall be kept clean and dry. Drip plates and screens upon which paint is deposited shall be removable and shall be regularly removed and cleaned. Grounding connections for the electrostatic spray-finishing equipment shall be regularly cleaned so as to prevent overspray.
+
+---
+
+## Section 2407.4.2: Signage
+
+2407.4.2 Signage
+Durable signs that provide the following cautions and information shall be conspicuously posted:
+Designate the process zone as dangerous with respect to
+fire
+and accident.
+Restrict access to qualified personnel only.
+Indicate the grounding requirements for all electrically conductive objects in the
+flammable vapor area
+, including persons working in that area.
+Indicates the maximum potential sparking distance as set forth in
+FC2407.2
+.
+
+---
+
+Durable signs that provide the following cautions and information shall be conspicuously posted:
+Designate the process zone as dangerous with respect to
+fire
+and accident.
+Restrict access to qualified personnel only.
+Indicate the grounding requirements for all electrically conductive objects in the
+flammable vapor area
+, including persons working in that area.
+Indicates the maximum potential sparking distance as set forth in
+FC2407.2
+.
+
+---
+
+## Section 2407.4.3: Sources of Ignition
+
+2407.4.3 Sources of Ignition
+Transformers, power packs, control apparatus and all other
+electrical
+components of the electrostatic spray-finishing equipment, except high-voltage grids and electrostatic atomizing heads and connections, shall be located outside of the
+flammable vapor area
+or shall comply with the requirements of
+FC2403.2
+.
+
+---
+
+Transformers, power packs, control apparatus and all other
+electrical
+components of the electrostatic spray-finishing equipment, except high-voltage grids and electrostatic atomizing heads and connections, shall be located outside of the
+flammable vapor area
+or shall comply with the requirements of
+FC2403.2
+.
+
+---
+
+Section 2408 Organic Peroxides and Dual-Component Coatings
+
+---
+
+## Section 2408.1: General
+
+2408.1 General
+Spraying operations involving the use of
+organic peroxides
+and other dual-component coatings shall be conducted in accordance with this section and
+FC2403
+.
+
+---
+
+Spraying operations involving the use of
+organic peroxides
+and other dual-component coatings shall be conducted in accordance with this section and
+FC2403
+.
+
+---
+
+## Section 2408.2: Design and Construction
+
+2408.2 Design and Construction
+Spraying operations involving the use of
+organic peroxides
+and other dual-component coatings shall be conducted in a
+facility
+designed and installed in accordance with this section.
+
+---
+
+Spraying operations involving the use of
+organic peroxides
+and other dual-component coatings shall be conducted in a
+facility
+designed and installed in accordance with this section.
+
+---
+
+## Section 2408.2.1: Construction
+
+2408.2.1 Construction
+Spraying operations shall be conducted in
+spray booths
+complying with the requirements of
+FC2404.3.2
+.
+
+---
+
+Spraying operations shall be conducted in
+spray booths
+complying with the requirements of
+FC2404.3.2
+.
+
+---
+
+## Section 2408.2.2: Fire Extinguishing Systems
+
+2408.2.2 Fire Extinguishing Systems
+Spray booths
+shall be protected throughout by a
+sprinkler system
+.
+
+---
+
+Spray booths
+shall be protected throughout by a
+sprinkler system
+.
+
+---
+
+## Section 2408.2.3: Equipment
+
+2408.2.3 Equipment
+Spray guns and related equipment shall be of a type manufactured for such use.
+
+---
+
+Spray guns and related equipment shall be of a type manufactured for such use.
+
+---
+
+## Section 2408.2.4: Pressure Tanks
+
+2408.2.4 Pressure Tanks
+Separate
+pressure vessels
+and inserts shall be used for the
+application
+of the resin and the
+organic peroxide
+, and shall not be interchanged.
+Organic peroxide
+pressure
+tank
+inserts shall be constructed of stainless
+steel
+or polyethylene.
+
+---
+
+Separate
+pressure vessels
+and inserts shall be used for the
+application
+of the resin and the
+organic peroxide
+, and shall not be interchanged.
+Organic peroxide
+pressure
+tank
+inserts shall be constructed of stainless
+steel
+or polyethylene.
+
+---
+
+## Section 2408.3: Operation and Maintenance
+
+2408.3 Operation and Maintenance
+Facilities
+in which spraying operations involving the use of
+organic peroxides
+and other dual-component coatings are conducted shall be operated and maintained in compliance with the requirements of this section and
+FC 2403.3
+and
+2403.4
+, and
+FC 2408.3.1
+through
+2408.3.8
+.
+
+---
+
+Facilities
+in which spraying operations involving the use of
+organic peroxides
+and other dual-component coatings are conducted shall be operated and maintained in compliance with the requirements of this section and
+FC 2403.3
+and
+2403.4
+, and
+FC 2408.3.1
+through
+2408.3.8
+.
+
+---
+
+## Section 2408.3.1: Contamination Prevention
+
+2408.3.1 Contamination Prevention
+Organic peroxide
+initiators shall not be contaminated with foreign substances.
+
+---
+
+Organic peroxide
+initiators shall not be contaminated with foreign substances.
+
+---
+
+## Section 2408.3.2: Spilled Material
+
+2408.3.2 Spilled Material
+Spilled
+organic peroxides
+shall be promptly removed so there are no residues. Spilled material absorbed by using a noncombustible absorbent shall be promptly removed from the
+premises
+and disposed of lawfully.
+
+---
+
+Spilled
+organic peroxides
+shall be promptly removed so there are no residues. Spilled material absorbed by using a noncombustible absorbent shall be promptly removed from the
+premises
+and disposed of lawfully.
+
+---
+
+## Section 2408.3.3: Residue Control
+
+2408.3.3 Residue Control
+Materials shall not be contaminated by dusts and overspray residues resulting from the sanding or spraying of finishing materials containing
+organic peroxides
+.
+
+---
+
+Materials shall not be contaminated by dusts and overspray residues resulting from the sanding or spraying of finishing materials containing
+organic peroxides
+.
+
+---
+
+## Section 2408.3.4: Handling
+
+2408.3.4 Handling
+Handling
+of
+organic peroxides
+shall be conducted in a manner that avoids shock and friction that produces decomposition and violent reaction hazards.
+
+---
+
+Handling
+of
+organic peroxides
+shall be conducted in a manner that avoids shock and friction that produces decomposition and violent reaction hazards.
+
+---
+
+## Section 2408.3.5: Mixing
+
+2408.3.5 Mixing
+Organic peroxides
+shall not be mixed directly with accelerators or promoters.
+
+---
+
+Organic peroxides
+shall not be mixed directly with accelerators or promoters.
+
+---
+
+## Section 2408.3.6: Personnel Qualifications
+
+2408.3.6 Personnel Qualifications
+Personnel working with
+organic peroxides
+and dual-component coatings shall be specifically trained to work with these materials.
+
+---
+
+Personnel working with
+organic peroxides
+and dual-component coatings shall be specifically trained to work with these materials.
+
+---
+
+## Section 2408.3.7: Storage
+
+2408.3.7 Storage
+The storage of
+organic peroxides
+shall be in accordance with
+FC Chapter 62
+.
+
+---
+
+The storage of
+organic peroxides
+shall be in accordance with
+FC Chapter 62
+.
+
+---
+
+## Section 2408.3.8: Sources of Ignition
+
+2408.3.8 Sources of Ignition
+Only nonsparking
+tools
+shall be used in areas where
+organic peroxides
+are stored, mixed or applied.
+
+---
+
+Only nonsparking
+tools
+shall be used in areas where
+organic peroxides
+are stored, mixed or applied.
+
+---
+
+Section 2409 Indoor Manufacturing of Reinforced Plastics
+
+---
+
+## Section 2409.1: General
+
+2409.1 General
+Indoor
+manufacturing processes involving spray or hand
+application
+of reinforced plastics and using more than 5 gallons (19 L) of resin in a 24-hour period shall be conducted in accordance with this section and
+FC2408
+.
+
+---
+
+Indoor
+manufacturing processes involving spray or hand
+application
+of reinforced plastics and using more than 5 gallons (19 L) of resin in a 24-hour period shall be conducted in accordance with this section and
+FC2408
+.
+
+---
+
+## Section 2409.2: Design and Installation
+
+2409.2 Design and Installation
+Indoor
+manufacturing processes involving spray or hand
+application
+of reinforced plastics shall be conducted in a
+facility
+designed and installed in compliance with the requirements of this section.
+
+---
+
+Indoor
+manufacturing processes involving spray or hand
+application
+of reinforced plastics shall be conducted in a
+facility
+designed and installed in compliance with the requirements of this section.
+
+---
+
+## Section 2409.2.1: Fire Protection
+
+2409.2.1 Fire Protection
+Resin application areas
+shall be protected throughout by a
+sprinkler system
+. The
+sprinkler system
+design shall not be less than that required for Ordinary Hazard, Group 2, with a minimum design area of 3,000 square feet (279 m
+2
+). Where the materials or storage arrangements are required by other regulations to be provided with a higher level of
+sprinkler system
+protection, the higher level of
+sprinkler system
+protection shall be provided.
+UpCodes Diagram (1)
+
+---
+
+Resin application areas
+shall be protected throughout by a
+sprinkler system
+. The
+sprinkler system
+design shall not be less than that required for Ordinary Hazard, Group 2, with a minimum design area of 3,000 square feet (279 m
+2
+). Where the materials or storage arrangements are required by other regulations to be provided with a higher level of
+sprinkler system
+protection, the higher level of
+sprinkler system
+protection shall be provided.
+
+---
+
+## Section 2409.2.2: Ventilation
+
+2409.2.2 Ventilation
+Mechanical
+ventilation
+shall be provided in
+resin application areas
+in accordance with
+Chapter 5
+of the
+Mechanical Code
+. The
+ventilation
+rate shall be adequate to maintain the concentration of flammable vapors in the
+resin application area
+at or below 25 percent of the
+lower flammable limit
+(
+LFL
+).
+Exception:
+Mechanical
+ventilation
+is not required for buildings that are unenclosed for at least 75 percent of the perimeter.
+
+---
+
+Mechanical
+ventilation
+shall be provided in
+resin application areas
+in accordance with
+Chapter 5
+of the
+Mechanical Code
+. The
+ventilation
+rate shall be adequate to maintain the concentration of flammable vapors in the
+resin application area
+at or below 25 percent of the
+lower flammable limit
+(
+LFL
+).
+Exception:
+Mechanical
+ventilation
+is not required for buildings that are unenclosed for at least 75 percent of the perimeter.
+
+---
+
+## Section 2409.2.2.1: Local Ventilation
+
+2409.2.2.1 Local Ventilation
+Local
+ventilation
+shall additionally be provided inside of workpieces where personnel will be under or inside of the workpiece.
+
+---
+
+Local
+ventilation
+shall additionally be provided inside of workpieces where personnel will be under or inside of the workpiece.
+
+---
+
+## Section 2409.2.3: Sources of Ignition
+
+2409.2.3 Sources of Ignition
+Sources of ignition in
+resin application areas
+shall comply with the requirements of
+FC2403.2
+.
+
+---
+
+Sources of ignition in
+resin application areas
+shall comply with the requirements of
+FC2403.2
+.
+
+---
+
+## Section 2409.3: Operation and Maintenance
+
+2409.3 Operation and Maintenance
+Facilities
+in which
+indoor
+manufacturing processes involving spray or hand
+application
+of reinforced plastics are conducted shall be operated and maintained in compliance with the requirements of this section and
+FC 2403.3
+and
+2403.4
+.
+
+---
+
+Facilities
+in which
+indoor
+manufacturing processes involving spray or hand
+application
+of reinforced plastics are conducted shall be operated and maintained in compliance with the requirements of this section and
+FC 2403.3
+and
+2403.4
+.
+
+---
+
+## Section 2409.3.1: Handling of Excess Catalyzed Resin
+
+2409.3.1 Handling of Excess Catalyzed Resin
+A noncombustible, open-top
+container
+shall be provided for disposal of excess catalyzed resin. Excess catalyzed resin shall be drained into the
+container
+while
+still
+in the
+liquid
+state. Enough water shall be provided in the
+container
+to maintain a minimum 2-inch (51-mm) water layer over contained resin.
+
+---
+
+A noncombustible, open-top
+container
+shall be provided for disposal of excess catalyzed resin. Excess catalyzed resin shall be drained into the
+container
+while
+still
+in the
+liquid
+state. Enough water shall be provided in the
+container
+to maintain a minimum 2-inch (51-mm) water layer over contained resin.
+
+---
+
+## Section 2409.3.2: Control of Overchop
+
+2409.3.2 Control of Overchop
+In areas where chopper guns are used, exposed wall and floor surfaces shall be covered with paper, polyethylene film or other
+approved
+material to allow for removal of overchop. Overchop shall be allowed to cure for not less than 4 hours prior to removal of the wall and floor coverings. Used coverings shall be placed in a noncombustible
+container
+and removed from the
+premises
+.
+
+---
+
+In areas where chopper guns are used, exposed wall and floor surfaces shall be covered with paper, polyethylene film or other
+approved
+material to allow for removal of overchop. Overchop shall be allowed to cure for not less than 4 hours prior to removal of the wall and floor coverings. Used coverings shall be placed in a noncombustible
+container
+and removed from the
+premises
+.
+
+---
+
+## Section 2409.3.3: Storage and Use of Hazardous Materials
+
+2409.3.3 Storage and Use of Hazardous Materials
+Storage and use of
+organic peroxides
+shall be in accordance with
+FC2408
+and
+FC Chapter 62
+. Storage and use of flammable and
+combustible liquids
+shall be in accordance with
+FC Chapter 57
+. Storage and use of unstable (reactive) materials shall be in accordance with
+FC Chapter 66
+.
+
+---
+
+Storage and use of
+organic peroxides
+shall be in accordance with
+FC2408
+and
+FC Chapter 62
+. Storage and use of flammable and
+combustible liquids
+shall be in accordance with
+FC Chapter 57
+. Storage and use of unstable (reactive) materials shall be in accordance with
+FC Chapter 66
+.
+
+---
+
+Section 2410 Floor Finishing Operations
+
+---
+
+## Section 2410.1: Scope
+
+2410.1 Scope
+All
+floor finishing operations
+using Class I or Class II
+liquids
+shall be conducted in accordance with
+FC 2410.1.1
+and
+2410.1.2
+.
+Floor finishing operations
+exceeding 168 square feet (15.6 m
+2
+) and using Class I or Class II
+liquids
+shall additionally be conducted in accordance with
+FC 2410.2
+through
+2410.5
+.
+
+---
+
+All
+floor finishing operations
+using Class I or Class II
+liquids
+shall be conducted in accordance with
+FC 2410.1.1
+and
+2410.1.2
+.
+Floor finishing operations
+exceeding 168 square feet (15.6 m
+2
+) and using Class I or Class II
+liquids
+shall additionally be conducted in accordance with
+FC 2410.2
+through
+2410.5
+.
+
+---
+
+## Section 2410.1.1: Prohibitions
+
+2410.1.1 Prohibitions
+It shall be unlawful to:
+Use flammable floor finishing products with a
+flash point
+below 80°F (27°C)
+indoors
+.
+Smoke, use or maintain
+open flames
+, including
+torches
+, in rooms or other
+indoor
+areas in which floor finishing products are being stored and/or in which
+floor finishing operations
+are being conducted.
+Conduct
+floor finishing operations
+in rooms or other
+indoor
+areas occupied by anyone other than the individuals engaged in such operations.
+
+---
+
+It shall be unlawful to:
+Use flammable floor finishing products with a
+flash point
+below 80°F (27°C)
+indoors
+.
+Smoke, use or maintain
+open flames
+, including
+torches
+, in rooms or other
+indoor
+areas in which floor finishing products are being stored and/or in which
+floor finishing operations
+are being conducted.
+Conduct
+floor finishing operations
+in rooms or other
+indoor
+areas occupied by anyone other than the individuals engaged in such operations.
+
+---
+
+## Section 2410.1.2: General Requirements
+
+2410.1.2 General Requirements
+All
+floor finishing operations
+shall comply with the following requirements:
+Floor finishing operations
+shall be conducted in accordance with the manufacturer's instructions for the storage,
+handling
+and use of floor finishing products.
+Flammable or
+combustible liquids
+or mixtures, other than floor finishing products, stored, handled or used in connection with
+floor finishing operations
+shall be stored, handled or used in accordance with
+FC Chapter 57
+.
+Floor finishing product
+containers
+shall be closed when not in use.
+Empty
+containers
+of floor finishing products and all other floor finishing product waste and residue shall be removed from the
+premises
+not less than once a day.
+Gas burners, pilot lights,
+electrical
+devices, electronic devices and other sources of ignition in
+flammable vapor areas
+shall be shut off prior to commencing work.
+At least one portable
+fire
+extinguisher with a minimum rating of 20-B shall be readily accessible during
+floor finishing operations
+. The travel distance to such extinguisher shall not exceed 30 feet (9144 mm).
+Quantities of floor finishing products at a site shall not exceed the amount necessary for that day's operations. In no circumstance shall such quantity exceed 20 gallons (76 L).
+
+---
+
+All
+floor finishing operations
+shall comply with the following requirements:
+Floor finishing operations
+shall be conducted in accordance with the manufacturer's instructions for the storage,
+handling
+and use of floor finishing products.
+Flammable or
+combustible liquids
+or mixtures, other than floor finishing products, stored, handled or used in connection with
+floor finishing operations
+shall be stored, handled or used in accordance with
+FC Chapter 57
+.
+Floor finishing product
+containers
+shall be closed when not in use.
+Empty
+containers
+of floor finishing products and all other floor finishing product waste and residue shall be removed from the
+premises
+not less than once a day.
+Gas burners, pilot lights,
+electrical
+devices, electronic devices and other sources of ignition in
+flammable vapor areas
+shall be shut off prior to commencing work.
+At least one portable
+fire
+extinguisher with a minimum rating of 20-B shall be readily accessible during
+floor finishing operations
+. The travel distance to such extinguisher shall not exceed 30 feet (9144 mm).
+Quantities of floor finishing products at a site shall not exceed the amount necessary for that day's operations. In no circumstance shall such quantity exceed 20 gallons (76 L).
+
+---
+
+## Section 2410.2: Occupancy of Premises During Operations
+
+2410.2 Occupancy of Premises During Operations
+Floor finishing operations
+shall not be conducted in occupied rooms or other areas. If occupants are allowed to return to the
+premises
+in which the
+floor finishing operations
+were conducted before the surfaces have dried,
+fire
+safety precautions shall be maintained and the occupants shall be given
+written instructions
+in regard thereto.
+Floor finishing operations
+shall not be conducted in a
+Group A
+or
+Group M
+occupancy
+while the
+premises
+is open to the public.
+
+---
+
+Floor finishing operations
+shall not be conducted in occupied rooms or other areas. If occupants are allowed to return to the
+premises
+in which the
+floor finishing operations
+were conducted before the surfaces have dried,
+fire
+safety precautions shall be maintained and the occupants shall be given
+written instructions
+in regard thereto.
+Floor finishing operations
+shall not be conducted in a
+Group A
+or
+Group M
+occupancy
+while the
+premises
+is open to the public.
+
+---
+
+## Section 2410.3: Sources of Ignition
+
+2410.3 Sources of Ignition
+No
+electrical equipment
+or device that is a potential source of ignition of floor finishing product vapors, including switches and outlets, shall be operated during
+floor finishing operations
+. Precautions shall be taken prior to commencing work to prevent inadvertent operation of such equipment or devices, such as shutting down
+electrical
+power, unplugging equipment and taping over switches and outlets.
+
+---
+
+No
+electrical equipment
+or device that is a potential source of ignition of floor finishing product vapors, including switches and outlets, shall be operated during
+floor finishing operations
+. Precautions shall be taken prior to commencing work to prevent inadvertent operation of such equipment or devices, such as shutting down
+electrical
+power, unplugging equipment and taping over switches and outlets.
+
+---
+
+## Section 2410.4: Mechanical System Operation
+
+2410.4 Mechanical System Operation
+Heating,
+ventilation
+and air-conditioning
+systems
+shall not be operated during
+floor finishing operations
+and for the period of time thereafter until the surfaces have dried.
+
+---
+
+Heating,
+ventilation
+and air-conditioning
+systems
+shall not be operated during
+floor finishing operations
+and for the period of time thereafter until the surfaces have dried.
+
+---
+
+## Section 2410.5: Ventilation
+
+2410.5 Ventilation
+To prevent the accumulation of flammable vapors, mechanical
+ventilation
+at a minimum rate of 1 cubic foot per minute per square foot (0.00508 m
+3
+/s/m
+2
+) of the area being surfaced or finished shall be provided. Such
+ventilation
+shall be by
+approved
+temporary or portable means. Vapors shall be exhausted outdoors. Such
+ventilation
+equipment shall be kept in operation while the
+floor finishing operations
+are being conducted and for a period of time thereafter to allow for the exhaust of the vapors.
+
+---
+
+To prevent the accumulation of flammable vapors, mechanical
+ventilation
+at a minimum rate of 1 cubic foot per minute per square foot (0.00508 m
+3
+/s/m
+2
+) of the area being surfaced or finished shall be provided. Such
+ventilation
+shall be by
+approved
+temporary or portable means. Vapors shall be exhausted outdoors. Such
+ventilation
+equipment shall be kept in operation while the
+floor finishing operations
+are being conducted and for a period of time thereafter to allow for the exhaust of the vapors.
+
+---
+
+## Section 2410.6: Retail Sale
+
+2410.6 Retail Sale
+Floor finishing products with a
+flash point
+below 80°F (27°C) shall be provided with a conspicuous and durable tag bearing the words, "WARNING:
+INDOOR
+USE OF THIS PRODUCT IS PROHIBITED IN NEW YORK CITY." A sign shall be conspicuously posted in the area in which the floor finishing product is displayed, warning that the product is prohibited for
+indoor
+use in New York City.
+
+---
+
+Floor finishing products with a
+flash point
+below 80°F (27°C) shall be provided with a conspicuous and durable tag bearing the words, "WARNING:
+INDOOR
+USE OF THIS PRODUCT IS PROHIBITED IN NEW YORK CITY." A sign shall be conspicuously posted in the area in which the floor finishing product is displayed, warning that the product is prohibited for
+indoor
+use in New York City.
+
+---
+

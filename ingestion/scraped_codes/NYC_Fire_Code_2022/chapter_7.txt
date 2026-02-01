@@ -1,0 +1,615 @@
+# NYC Fire Code 2022 - Chapter 7
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+701 General
+
+---
+
+702 Definitions
+
+---
+
+703 Fire-Resistance-Rated Construction
+
+---
+
+704 Floor Openings and Shafts
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+UpCodes Diagram (1)
+Assemblies (283)
+
+---
+
+Section 701 General
+
+---
+
+## Section 701.1: Scope
+
+701.1 Scope
+This chapter shall govern the
+maintenance
+of
+fire
+-resistance-rated construction.
+
+---
+
+This chapter shall govern the
+maintenance
+of
+fire
+-resistance-rated construction.
+
+---
+
+## Section 701.2: General
+
+701.2 General
+Fire
+-resistance-rated construction shall be maintained in accordance with this chapter.
+
+---
+
+Fire
+-resistance-rated construction shall be maintained in accordance with this chapter.
+
+---
+
+Section 702 Definitions
+
+---
+
+## Section 702.1: Terms Defined in FC Chapter 2
+
+702.1 Terms Defined in FC Chapter 2
+Terms used in this chapter and defined in
+FC202
+shall have the meanings set forth therein.
+
+---
+
+Terms used in this chapter and defined in
+FC202
+shall have the meanings set forth therein.
+
+---
+
+Section 703 Fire-Resistance-Rated Construction
+
+---
+
+## Section 703.1: Maintenance
+
+703.1 Maintenance
+The required
+fire
+-resistance rating of
+fire
+-resistance-rated construction, including walls, firestops, shaft enclosures, partitions, smoke barriers, floors,
+fire
+-resistive coatings and sprayed
+fire
+-resistant materials applied to structural members and
+fire
+-resistant joint
+systems
+, shall be maintained. Such elements shall be properly repaired, restored or replaced when damaged, altered, breached or penetrated. Openings made therein for the passage of pipes,
+electrical
+conduit, wires, ducts, air transfer openings and holes made for any reason shall be protected with
+approved
+methods capable of resisting the passage of smoke and
+fire
+. Openings through
+fire
+-resistance-rated assemblies shall be protected by self-closing or
+automatic
+-closing doors of
+approved
+construction meeting the
+fire
+protection requirements for the assembly.
+
+---
+
+The required
+fire
+-resistance rating of
+fire
+-resistance-rated construction, including walls, firestops, shaft enclosures, partitions, smoke barriers, floors,
+fire
+-resistive coatings and sprayed
+fire
+-resistant materials applied to structural members and
+fire
+-resistant joint
+systems
+, shall be maintained. Such elements shall be properly repaired, restored or replaced when damaged, altered, breached or penetrated. Openings made therein for the passage of pipes,
+electrical
+conduit, wires, ducts, air transfer openings and holes made for any reason shall be protected with
+approved
+methods capable of resisting the passage of smoke and
+fire
+. Openings through
+fire
+-resistance-rated assemblies shall be protected by self-closing or
+automatic
+-closing doors of
+approved
+construction meeting the
+fire
+protection requirements for the assembly.
+
+---
+
+## Section 703.1.1: Fireblocking and Draftstopping
+
+703.1.1 Fireblocking and Draftstopping
+Required fireblocking and draftstopping in combustible concealed spaces shall be maintained to provide continuity and integrity of the construction.
+UpCodes Diagrams (10)
+
+---
+
+Required fireblocking and draftstopping in combustible concealed spaces shall be maintained to provide continuity and integrity of the construction.
+
+---
+
+## Section 703.1.2: Smoke Barriers and Smoke Partitions
+
+703.1.2 Smoke Barriers and Smoke Partitions
+Required smoke barriers and smoke partitions shall be maintained to prevent the passage of smoke. All openings protected with
+approved
+smoke barrier doors or smoke dampers shall be maintained in accordance with NFPA 105.
+
+---
+
+Required smoke barriers and smoke partitions shall be maintained to prevent the passage of smoke. All openings protected with
+approved
+smoke barrier doors or smoke dampers shall be maintained in accordance with NFPA 105.
+
+---
+
+## Section 703.1.3: Fire Walls, Fire Barriers and Fire Partitions
+
+703.1.3 Fire Walls, Fire Barriers and Fire Partitions
+Required
+fire
+walls,
+fire
+barriers and
+fire partitions
+shall be maintained to prevent the passage of
+fire
+. All openings protected with
+approved
+doors,
+fire
+dampers or smoke dampers shall be maintained in accordance with NFPA 80.
+
+---
+
+Required
+fire
+walls,
+fire
+barriers and
+fire partitions
+shall be maintained to prevent the passage of
+fire
+. All openings protected with
+approved
+doors,
+fire
+dampers or smoke dampers shall be maintained in accordance with NFPA 80.
+
+---
+
+## Section 703.2: Maintenance of Openings
+
+703.2 Maintenance of Openings
+Fire
+doors and
+fire
+windows shall be maintained in good working order in accordance with NFPA 80.
+Fire
+doors and smoke barrier doors shall not be blocked or obstructed or otherwise made inoperable. Fusible links shall be replaced promptly whenever fused, damaged or otherwise rendered inoperable.
+Fire door assemblies
+shall not be modified.
+
+---
+
+Fire
+doors and
+fire
+windows shall be maintained in good working order in accordance with NFPA 80.
+Fire
+doors and smoke barrier doors shall not be blocked or obstructed or otherwise made inoperable. Fusible links shall be replaced promptly whenever fused, damaged or otherwise rendered inoperable.
+Fire door assemblies
+shall not be modified.
+
+---
+
+## Section 703.2.1: Signs
+
+703.2.1 Signs
+Where required by the
+commissioner
+, a sign shall be permanently displayed on or near each
+fire
+door in letters not less than 1 inch (25 mm) high to read as follows:
+For doors designed to normally be kept open:
+FIRE
+DOOR—DO NOT BLOCK.
+For doors designed to normally be kept closed:
+FIRE
+DOOR—KEEP CLOSED.
+
+---
+
+Where required by the
+commissioner
+, a sign shall be permanently displayed on or near each
+fire
+door in letters not less than 1 inch (25 mm) high to read as follows:
+For doors designed to normally be kept open:
+FIRE
+DOOR—DO NOT BLOCK.
+For doors designed to normally be kept closed:
+FIRE
+DOOR—KEEP CLOSED.
+
+---
+
+## Section 703.2.2: Hold-Open Devices and Automatic Door Closers
+
+703.2.2 Hold-Open Devices and Automatic Door Closers
+Hold-open devices for
+fire
+doors and
+automatic
+door closers for self-closing
+fire
+doors, where provided, shall be inspected, tested, and otherwise maintained in accordance with
+FC 703.2
+and
+907.20
+. During the period that such device is out of service for repairs, the door it operates shall remain in the closed position.
+
+---
+
+Hold-open devices for
+fire
+doors and
+automatic
+door closers for self-closing
+fire
+doors, where provided, shall be inspected, tested, and otherwise maintained in accordance with
+FC 703.2
+and
+907.20
+. During the period that such device is out of service for repairs, the door it operates shall remain in the closed position.
+
+---
+
+## Section 703.2.3: Door Operation
+
+703.2.3 Door Operation
+Swinging
+fire
+doors shall close from the full-open position and latch automatically. The door closer shall exert enough force to close and latch the door from any partially open position.
+
+---
+
+Swinging
+fire
+doors shall close from the full-open position and latch automatically. The door closer shall exert enough force to close and latch the door from any partially open position.
+
+---
+
+## Section 703.3: Ceilings
+
+703.3 Ceilings
+The hanging of decorative material, merchandise displayed for sale or other display items from acoustical ceiling
+systems
+that are part of a
+fire
+-resistance-rated floor/ceiling or roof/ceiling assembly shall be prohibited.
+
+---
+
+The hanging of decorative material, merchandise displayed for sale or other display items from acoustical ceiling
+systems
+that are part of a
+fire
+-resistance-rated floor/ceiling or roof/ceiling assembly shall be prohibited.
+
+---
+
+## Section 703.4: Testing
+
+703.4 Testing
+Horizontal and vertical sliding and rolling
+fire
+doors shall be inspected and tested annually to confirm proper operation and full closure.
+
+---
+
+Horizontal and vertical sliding and rolling
+fire
+doors shall be inspected and tested annually to confirm proper operation and full closure.
+
+---
+
+Section 704 Floor Openings and Shafts
+
+---
+
+## Section 704.1: Enclosures
+
+704.1 Enclosures
+Interior vertical shafts, including stairways, elevator hoistways, service and utility shafts, that connect two or more stories of a building shall be enclosed or protected as specified in the
+construction codes
+, including the
+Building Code
+. When openings are required to be protected by the
+construction codes
+, including the
+Building Code
+, openings into such shafts shall be maintained self-closing or
+automatic
+-closing by smoke detection. Existing fusible-link-type
+automatic
+door-closing devices are allowed if the fusible link rating does not exceed 135°F (57°C).
+
+---
+
+Interior vertical shafts, including stairways, elevator hoistways, service and utility shafts, that connect two or more stories of a building shall be enclosed or protected as specified in the
+construction codes
+, including the
+Building Code
+. When openings are required to be protected by the
+construction codes
+, including the
+Building Code
+, openings into such shafts shall be maintained self-closing or
+automatic
+-closing by smoke detection. Existing fusible-link-type
+automatic
+door-closing devices are allowed if the fusible link rating does not exceed 135°F (57°C).
+
+---
+

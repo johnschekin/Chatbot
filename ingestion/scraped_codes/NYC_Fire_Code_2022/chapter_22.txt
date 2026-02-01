@@ -1,0 +1,637 @@
+# NYC Fire Code 2022 - Chapter 22
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+2201 General
+
+---
+
+2202 Definitions
+
+---
+
+2203 Precautions
+
+---
+
+2204 Additional Requirements
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Section 2201 General
+
+---
+
+## Section 2201.1: Scope
+
+2201.1 Scope
+This chapter shall govern
+combustible dust
+-producing operations, and the equipment and processes utilized in connection with such operations in order to minimize and mitigate dust
+explosion
+hazards.
+
+---
+
+This chapter shall govern
+combustible dust
+-producing operations, and the equipment and processes utilized in connection with such operations in order to minimize and mitigate dust
+explosion
+hazards.
+
+---
+
+## Section 2201.2: Permits
+
+2201.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 2201.3: General
+
+2201.3 General
+Combustible dust
+-producing operations, including manufacturing, processing and
+handling
+operations, shall be conducted in accordance with this chapter. All devices, equipment,
+systems
+and processes utilized in connection with such operations shall be designed, installed, operated and maintained in accordance with this chapter.
+
+---
+
+Combustible dust
+-producing operations, including manufacturing, processing and
+handling
+operations, shall be conducted in accordance with this chapter. All devices, equipment,
+systems
+and processes utilized in connection with such operations shall be designed, installed, operated and maintained in accordance with this chapter.
+
+---
+
+## Section 2201.3.1: Powder Coating Operations
+
+2201.3.1 Powder Coating Operations
+Powder coating shall additionally comply with the requirements of
+FC Chapter 24
+.
+
+---
+
+Powder coating shall additionally comply with the requirements of
+FC Chapter 24
+.
+
+---
+
+## Section 2201.3.2: Woodworking Facilities
+
+2201.3.2 Woodworking Facilities
+Operations that produce
+deflagrable wood dust
+shall additionally comply with the requirements of
+FC Chapter 28
+.
+
+---
+
+Operations that produce
+deflagrable wood dust
+shall additionally comply with the requirements of
+FC Chapter 28
+.
+
+---
+
+## Section 2201.3.3: Special Effect
+
+2201.3.3 Special Effect
+Special effects
+utilizing
+combustible dust
+shall additionally comply with the requirements of
+FC Chapter 56
+.
+
+---
+
+Special effects
+utilizing
+combustible dust
+shall additionally comply with the requirements of
+FC Chapter 56
+.
+
+---
+
+Section 2202 Definitions
+
+---
+
+## Section 2202.1: Definitions
+
+2202.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+COMBUSTIBLE DUST
+.
+DEFLAGRABLE WOOD DUST
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+COMBUSTIBLE DUST
+.
+DEFLAGRABLE WOOD DUST
+.
+
+---
+
+Section 2203 Precautions
+
+---
+
+## Section 2203.1: Sources of Ignition
+
+2203.1 Sources of Ignition
+It shall be unlawful to smoke, or use heating or other devices employing an
+open flame
+or spark-producing equipment, in areas where
+combustible dust
+is generated, processed or otherwise stored, handled or used.
+
+---
+
+It shall be unlawful to smoke, or use heating or other devices employing an
+open flame
+or spark-producing equipment, in areas where
+combustible dust
+is generated, processed or otherwise stored, handled or used.
+
+---
+
+## Section 2203.2: Housekeeping
+
+2203.2 Housekeeping
+Accumulation of
+combustible dust
+shall be kept to a minimum
+indoors
+. Accumulated
+combustible dust
+shall be collected by vacuum cleaning or other means that will not place
+combustible dust
+into suspension in air. Forced air or similar methods shall not be used to remove dust from surfaces. When a normally inaccessible area such as a duct or cockloft is made accessible for purposes of an
+alteration
+, repair or other reason, any accumulation of
+combustible dust
+shall be removed from such area.
+
+---
+
+Accumulation of
+combustible dust
+shall be kept to a minimum
+indoors
+. Accumulated
+combustible dust
+shall be collected by vacuum cleaning or other means that will not place
+combustible dust
+into suspension in air. Forced air or similar methods shall not be used to remove dust from surfaces. When a normally inaccessible area such as a duct or cockloft is made accessible for purposes of an
+alteration
+, repair or other reason, any accumulation of
+combustible dust
+shall be removed from such area.
+
+---
+
+Section 2204 Additional Requirements
+
+---
+
+## Section 2204.1: Explosion Protection Standards
+
+2204.1 Explosion Protection Standards
+An
+approved
+dust collection
+system
+shall be installed and/or other measures taken to collect and otherwise manage
+combustible dust
+generated by
+combustible dust
+-producing operations in order to prevent or mitigate
+combustible dust
+explosions
+.
+Facilities
+in which
+combustible dust
+-producing operations are to be conducted shall be designed, installed, operated and maintained in accordance with the industry or product-specific standards set forth in FC Table 2204.1.
+FC
+TABLE 2204.1
+EXPLOSION
+PROTECTION STANDARDS
+STANDARD
+SUBJECT
+NFPA 61
+Prevention of
+Fires
+and Dust
+Explosions
+in Agricultural and Food Processing
+Facilities
+NFPA 69
+Explosion
+Prevention
+Systems
+NFPA 85
+Boiler and Combustion
+Systems
+Hazards Code
+NFPA 120
+Fire
+Prevention and Control in Coal Mines
+NFPA 484
+Combustible Metals
+NFPA 652
+Fundamentals of
+Combustible Dust
+NFPA 654
+Prevention of
+Fires
+and Dust
+Explosions
+from the Manufacturing, Processing, and
+Handling
+of Combustible Particulate
+Solids
+NFPA 655
+Prevention of Sulfur
+Fires
+and
+Explosions
+NFPA 664
+Prevention of
+Fires
+and
+Explosions
+in Wood Processing and
+Woodworking Facilities
+Electrical Code
+Electrical
+Installations
+
+---
+
+An
+approved
+dust collection
+system
+shall be installed and/or other measures taken to collect and otherwise manage
+combustible dust
+generated by
+combustible dust
+-producing operations in order to prevent or mitigate
+combustible dust
+explosions
+.
+Facilities
+in which
+combustible dust
+-producing operations are to be conducted shall be designed, installed, operated and maintained in accordance with the industry or product-specific standards set forth in FC Table 2204.1.
+FC
+TABLE 2204.1
+EXPLOSION
+PROTECTION STANDARDS
+STANDARD
+SUBJECT
+NFPA 61
+Prevention of
+Fires
+and Dust
+Explosions
+in Agricultural and Food Processing
+Facilities
+NFPA 69
+Explosion
+Prevention
+Systems
+NFPA 85
+Boiler and Combustion
+Systems
+Hazards Code
+NFPA 120
+Fire
+Prevention and Control in Coal Mines
+NFPA 484
+Combustible Metals
+NFPA 652
+Fundamentals of
+Combustible Dust
+NFPA 654
+Prevention of
+Fires
+and Dust
+Explosions
+from the Manufacturing, Processing, and
+Handling
+of Combustible Particulate
+Solids
+NFPA 655
+Prevention of Sulfur
+Fires
+and
+Explosions
+NFPA 664
+Prevention of
+Fires
+and
+Explosions
+in Wood Processing and
+Woodworking Facilities
+Electrical Code
+Electrical
+Installations
+
+---
+
+## Section 2204.2: Dust Hazard Analysis
+
+2204.2 Dust Hazard Analysis
+A dust hazard analysis shall be conducted in accordance with NFPA 652 upon commencement of
+combustible dust
+-producing operations for any operation generating visible atmospheric dust and/or dust accumulations at locations other than the point of dust generation, to determine whether:
+the equipment designed and installed to collect
+combustible dust
+and other mitigation measures is effective in achieving its design objectives and is preventing fugitive dust; or
+the operation is generating an amount of
+combustible dust
+as to require the installation of
+combustible dust
+collection equipment and other mitigation measures.
+
+---
+
+A dust hazard analysis shall be conducted in accordance with NFPA 652 upon commencement of
+combustible dust
+-producing operations for any operation generating visible atmospheric dust and/or dust accumulations at locations other than the point of dust generation, to determine whether:
+the equipment designed and installed to collect
+combustible dust
+and other mitigation measures is effective in achieving its design objectives and is preventing fugitive dust; or
+the operation is generating an amount of
+combustible dust
+as to require the installation of
+combustible dust
+collection equipment and other mitigation measures.
+
+---
+

@@ -1,0 +1,1297 @@
+# NYC Fire Code 2022 - Chapter 10
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+1001 General
+
+---
+
+1002 Definitions
+
+---
+
+1003 Through and Including Section 1024 Reserved
+
+---
+
+1025 Emergency Escape and Rescue
+
+---
+
+1026 Reserved
+
+---
+
+1027 Maintenance of the Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Section 1001 General
+
+---
+
+## Section 1001.1: Scope
+
+1001.1 Scope
+This chapter shall govern the
+maintenance
+of
+means of egress
+from all buildings, structures and
+premises
+in all
+occupancy
+classifications.
+
+---
+
+This chapter shall govern the
+maintenance
+of
+means of egress
+from all buildings, structures and
+premises
+in all
+occupancy
+classifications.
+
+---
+
+## Section 1001.2: General
+
+1001.2 General
+Buildings, structures and
+premises
+, or parts thereof, shall be provided with a
+means of egress
+system
+as required by the
+construction codes
+, including the
+Building Code
+. The
+maintenance
+of
+means of egress
+from all buildings, structures and
+premises
+and all
+occupancies
+shall be in accordance with this chapter.
+
+---
+
+Buildings, structures and
+premises
+, or parts thereof, shall be provided with a
+means of egress
+system
+as required by the
+construction codes
+, including the
+Building Code
+. The
+maintenance
+of
+means of egress
+from all buildings, structures and
+premises
+and all
+occupancies
+shall be in accordance with this chapter.
+
+---
+
+Section 1002 Definitions
+
+---
+
+## Section 1002.1: Definitions
+
+1002.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+EMERGENCY ESCAPE AND RESCUE OPENING
+.
+EXIT
+.
+EXIT ACCESS
+.
+EXIT DISCHARGE
+.
+EXIT DISCHARGE, LEVEL OF
+.
+MEANS OF EGRESS
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+EMERGENCY ESCAPE AND RESCUE OPENING
+.
+EXIT
+.
+EXIT ACCESS
+.
+EXIT DISCHARGE
+.
+EXIT DISCHARGE, LEVEL OF
+.
+MEANS OF EGRESS
+.
+
+---
+
+Section 1003 Through and Including Section 1024 Reserved
+
+---
+
+Section 1025 Emergency Escape and Rescue
+
+---
+
+## Section 1025.1: General
+
+1025.1 General
+Emergency escape and rescue openings
+as required by the
+Building Code
+shall be provided in
+Group R
+occupancies
+.
+
+---
+
+Emergency escape and rescue openings
+as required by the
+Building Code
+shall be provided in
+Group R
+occupancies
+.
+
+---
+
+## Section 1025.2: Reserved
+
+1025.2 Reserved
+
+---
+
+## Section 1025.3: Reserved
+
+1025.3 Reserved
+
+---
+
+## Section 1025.4: Operational Constraints
+
+1025.4 Operational Constraints
+Emergency escape and rescue openings
+and windows or other openings onto
+fire
+escapes, as that term is defined in the
+New York State Multiple Dwelling Law
+, shall be operational from the inside of the room without the use of keys or
+tools
+. Bars, grilles, grates or similar devices are allowed to be placed over
+emergency escape and rescue openings
+and windows or other openings onto
+fire
+escapes, provided the minimum net clear opening size complies with the requirements of the
+construction codes
+, including the
+Building Code
+and the
+New York State Multiple Dwelling Law
+, and such devices are releasable or removable from inside of the room without the use of a key,
+tool
+or force greater than that which is required for normal operation of the escape and rescue opening, window or other opening.
+
+---
+
+Emergency escape and rescue openings
+and windows or other openings onto
+fire
+escapes, as that term is defined in the
+New York State Multiple Dwelling Law
+, shall be operational from the inside of the room without the use of keys or
+tools
+. Bars, grilles, grates or similar devices are allowed to be placed over
+emergency escape and rescue openings
+and windows or other openings onto
+fire
+escapes, provided the minimum net clear opening size complies with the requirements of the
+construction codes
+, including the
+Building Code
+and the
+New York State Multiple Dwelling Law
+, and such devices are releasable or removable from inside of the room without the use of a key,
+tool
+or force greater than that which is required for normal operation of the escape and rescue opening, window or other opening.
+
+---
+
+## Section 1025.5: Certificate of Approval
+
+1025.5 Certificate of Approval
+Bars, grilles, grates or similar devices placed over
+emergency escape and rescue openings
+, and windows or other openings onto
+fire
+escapes, shall be of a type for which a
+certificate of approval
+has been issued in accordance with this code and the
+rules
+.
+
+---
+
+Bars, grilles, grates or similar devices placed over
+emergency escape and rescue openings
+, and windows or other openings onto
+fire
+escapes, shall be of a type for which a
+certificate of approval
+has been issued in accordance with this code and the
+rules
+.
+
+---
+
+Section 1026 Reserved
+
+---
+
+Section 1027 Maintenance of the Means of Egress
+
+---
+
+## Section 1027.1: General
+
+1027.1 General
+The
+means of egress
+for buildings, structures or
+premises
+, or parts thereof, shall be maintained in accordance with the
+construction codes
+, including the
+Building Code
+and this section.
+
+---
+
+The
+means of egress
+for buildings, structures or
+premises
+, or parts thereof, shall be maintained in accordance with the
+construction codes
+, including the
+Building Code
+and this section.
+
+---
+
+## Section 1027.2: Prohibition
+
+1027.2 Prohibition
+It shall be unlawful to obstruct or impede access to any required
+means of egress
+, including any
+exit
+,
+exit access
+or
+exit discharge
+.
+
+---
+
+It shall be unlawful to obstruct or impede access to any required
+means of egress
+, including any
+exit
+,
+exit access
+or
+exit discharge
+.
+
+---
+
+## Section 1027.3: Unobstructed and Unimpeded Egress Required
+
+1027.3 Unobstructed and Unimpeded Egress Required
+All required
+means of egress
+, including each
+exit
+,
+exit access
+and
+exit discharge
+, shall be continuously maintained free from
+obstructions
+and impediments to immediate use in the event of
+fire
+or other emergency. An
+exit
+or
+exit
+passageway shall not be used for any purpose inconsistent with its use as a
+means of egress
+, including storage of combustible or noncombustible materials, except as authorized by law, rule or regulation.
+
+---
+
+All required
+means of egress
+, including each
+exit
+,
+exit access
+and
+exit discharge
+, shall be continuously maintained free from
+obstructions
+and impediments to immediate use in the event of
+fire
+or other emergency. An
+exit
+or
+exit
+passageway shall not be used for any purpose inconsistent with its use as a
+means of egress
+, including storage of combustible or noncombustible materials, except as authorized by law, rule or regulation.
+
+---
+
+## Section 1027.3.1: Door Hardware
+
+1027.3.1 Door Hardware
+Door hardware and other devices and physical components of the
+means of egress
+shall be maintained in good working order at all times.
+
+---
+
+Door hardware and other devices and physical components of the
+means of egress
+shall be maintained in good working order at all times.
+
+---
+
+## Section 1027.3.2: Security Devices
+
+1027.3.2 Security Devices
+Security devices affecting
+means of egress
+shall be subject to the approval of the
+Commissioner
+of Buildings in consultation with the
+department
+.
+
+---
+
+Security devices affecting
+means of egress
+shall be subject to the approval of the
+Commissioner
+of Buildings in consultation with the
+department
+.
+
+---
+
+## Section 1027.3.3: Snow and Ice
+
+1027.3.3 Snow and Ice
+All required
+means of egress
+shall be maintained free from the accumulation of snow and ice.
+
+---
+
+All required
+means of egress
+shall be maintained free from the accumulation of snow and ice.
+
+---
+
+## Section 1027.3.4: Overcrowding
+
+1027.3.4 Overcrowding
+Premises
+shall not be caused, allowed or maintained in such a manner as to become overcrowded, such that the number of persons present on the
+premises
+and/or their location thereon obstructs or impedes access to any
+means of egress
+.
+
+---
+
+Premises
+shall not be caused, allowed or maintained in such a manner as to become overcrowded, such that the number of persons present on the
+premises
+and/or their location thereon obstructs or impedes access to any
+means of egress
+.
+
+---
+
+## Section 1027.3.5: Furnishings and Decorations
+
+1027.3.5 Furnishings and Decorations
+Furnishings
+,
+decorations
+or other objects shall not be placed so as to obstruct
+exits
+, access thereto, egress therefrom, or visibility thereof.
+Furnishings
+and
+decorations
+shall not be placed in building hallway corridors or elevator lobbies except as authorized by
+FC1027.4
+or other provision of this code. Hangings and draperies shall not be placed over
+exit
+doors or otherwise be located to conceal or obstruct an
+exit
+except as authorized by the
+commissioner
+. Mirrors shall not be placed on
+exit
+doors. Mirrors shall not be placed in or adjacent to any
+exit
+in such a manner as to confuse the direction of
+exit
+.
+
+---
+
+Furnishings
+,
+decorations
+or other objects shall not be placed so as to obstruct
+exits
+, access thereto, egress therefrom, or visibility thereof.
+Furnishings
+and
+decorations
+shall not be placed in building hallway corridors or elevator lobbies except as authorized by
+FC1027.4
+or other provision of this code. Hangings and draperies shall not be placed over
+exit
+doors or otherwise be located to conceal or obstruct an
+exit
+except as authorized by the
+commissioner
+. Mirrors shall not be placed on
+exit
+doors. Mirrors shall not be placed in or adjacent to any
+exit
+in such a manner as to confuse the direction of
+exit
+.
+
+---
+
+## Section 1027.3.6: Corridor Storage
+
+1027.3.6 Corridor Storage
+It shall be unlawful to store combustible materials or
+combustible waste
+in corridors except as authorized by
+FC1027.4
+or other provision of this code or by the
+commissioner
+by rule.
+
+---
+
+It shall be unlawful to store combustible materials or
+combustible waste
+in corridors except as authorized by
+FC1027.4
+or other provision of this code or by the
+commissioner
+by rule.
+
+---
+
+## Section 1027.3.7: Fire Escapes
+
+1027.3.7 Fire Escapes
+Access to
+fire
+escapes shall be maintained in accordance with
+FC1027.7
+.
+
+---
+
+Access to
+fire
+escapes shall be maintained in accordance with
+FC1027.7
+.
+
+---
+
+## Section 1027.3.8: Security Grilles
+
+1027.3.8 Security Grilles
+When the installation of security grilles is allowed by the
+Building Code
+, such grilles shall be secured in the full-open position during the period of
+occupancy
+, except when the
+Building Code
+provides otherwise.
+
+---
+
+When the installation of security grilles is allowed by the
+Building Code
+, such grilles shall be secured in the full-open position during the period of
+occupancy
+, except when the
+Building Code
+provides otherwise.
+
+---
+
+## Section 1027.4: Residential Building Hallway Corridor and Elevator Lobby Furnishings, Decorations and Storage
+
+1027.4 Residential Building Hallway Corridor and Elevator Lobby Furnishings, Decorations and Storage
+This section governs the placement of
+furnishings
+and
+decorations
+, and storage of combustible materials in building hallway corridors (excluding hallways within dwelling units) and in elevator lobbies above the street level, in
+Group R
+-2 buildings and
+occupancies
+. The
+department
+may by rule prohibit any type of building hallway corridor or elevator lobby
+furnishing
+,
+decoration
+or storage allowed by this section, or by order direct removal from a particular
+premises
+of any such
+furnishing
+,
+decoration
+or stored item, upon a determination that the size, materials or location of such
+furnishing
+,
+decoration
+or stored item presents an undue
+fire
+hazard.
+
+---
+
+This section governs the placement of
+furnishings
+and
+decorations
+, and storage of combustible materials in building hallway corridors (excluding hallways within dwelling units) and in elevator lobbies above the street level, in
+Group R
+-2 buildings and
+occupancies
+. The
+department
+may by rule prohibit any type of building hallway corridor or elevator lobby
+furnishing
+,
+decoration
+or storage allowed by this section, or by order direct removal from a particular
+premises
+of any such
+furnishing
+,
+decoration
+or stored item, upon a determination that the size, materials or location of such
+furnishing
+,
+decoration
+or stored item presents an undue
+fire
+hazard.
+
+---
+
+## Section 1027.4.1: Incidental Furnishings
+
+1027.4.1 Incidental Furnishings
+A building hallway corridor or elevator lobby may be furnished with a console table, console bench, mirror, and umbrella stand, provided that the minimum required egress width is maintained. All such
+furnishings
+must be incidental to hallway use in that the purpose of such
+furnishings
+is primarily decorative and/or for the convenience of persons passing through the hallways. Incidental
+furnishings
+shall not include furniture used to hold or store clothing or other combustible items, or storage in the hallway of furniture, such as beds and dining room tables, whose primary purpose is not decorative or for the temporary accommodation of passersby.
+
+---
+
+A building hallway corridor or elevator lobby may be furnished with a console table, console bench, mirror, and umbrella stand, provided that the minimum required egress width is maintained. All such
+furnishings
+must be incidental to hallway use in that the purpose of such
+furnishings
+is primarily decorative and/or for the convenience of persons passing through the hallways. Incidental
+furnishings
+shall not include furniture used to hold or store clothing or other combustible items, or storage in the hallway of furniture, such as beds and dining room tables, whose primary purpose is not decorative or for the temporary accommodation of passersby.
+
+---
+
+## Section 1027.4.2: Draperies, Area Rugs and Decorative Greens
+
+1027.4.2 Draperies, Area Rugs and Decorative Greens
+Draperies, area rugs and decorative greens shall be installed and maintained in building hallway corridors in compliance with the requirements of
+FC Chapter 8
+, including the requirement that they be inherently noncombustible or flameproofed by an
+approved
+method, and the
+prohibition
+against the display in building hallway corridors of Christmas trees and other
+conifers
+, and wreathes made of
+conifers
+.
+
+---
+
+Draperies, area rugs and decorative greens shall be installed and maintained in building hallway corridors in compliance with the requirements of
+FC Chapter 8
+, including the requirement that they be inherently noncombustible or flameproofed by an
+approved
+method, and the
+prohibition
+against the display in building hallway corridors of Christmas trees and other
+conifers
+, and wreathes made of
+conifers
+.
+
+---
+
+## Section 1027.4.3: Artwork
+
+1027.4.3 Artwork
+The walls of building hallway corridors may be decorated with combustible artwork, including artworks made of paper, canvas, wood or fabric, when in compliance with the requirements of
+FC805.1
+.
+
+---
+
+The walls of building hallway corridors may be decorated with combustible artwork, including artworks made of paper, canvas, wood or fabric, when in compliance with the requirements of
+FC805.1
+.
+
+---
+
+## Section 1027.4.4: Carpeting
+
+1027.4.4 Carpeting
+Carpeting and other
+interior finishes
+shall comply with the requirements of
+Chapter 8
+of the
+Building Code
+.
+
+---
+
+Carpeting and other
+interior finishes
+shall comply with the requirements of
+Chapter 8
+of the
+Building Code
+.
+
+---
+
+## Section 1027.4.5: Personal Property
+
+1027.4.5 Personal Property
+Bicycles, baby strollers, clothing and other items of personal property, excluding those set forth in
+FC 1027.4.1
+through
+1027.4.4
+, shall not be stored in building hallway corridors, except as may be authorized or allowed by the
+department
+.
+
+---
+
+Bicycles, baby strollers, clothing and other items of personal property, excluding those set forth in
+FC 1027.4.1
+through
+1027.4.4
+, shall not be stored in building hallway corridors, except as may be authorized or allowed by the
+department
+.
+
+---
+
+## Section 1027.4.6: Rubbish
+
+1027.4.6 Rubbish
+Household
+rubbish
+, including trash cans, shall not be stored in building hallway corridors. All such items shall be stored in compactor rooms or other lawful storage areas.
+
+---
+
+Household
+rubbish
+, including trash cans, shall not be stored in building hallway corridors. All such items shall be stored in compactor rooms or other lawful storage areas.
+
+---
+
+## Section 1027.5: Educational and Day Care Building Hallway Corridor and Elevator Lobby Decorations and Storage
+
+1027.5 Educational and Day Care Building Hallway Corridor and Elevator Lobby Decorations and Storage
+Artwork and other
+decorations
+shall be displayed and maintained in the corridors and lobbies of
+Group E
+and I-4
+occupancies
+in accordance with
+FC Chapter 8
+. Clothing and personal effects shall not be stored in corridors and lobbies of such
+occupancies
+, unless stored in metal lockers or in corridors protected throughout by a
+sprinkler system
+and the minimum required egress width is maintained.
+
+---
+
+Artwork and other
+decorations
+shall be displayed and maintained in the corridors and lobbies of
+Group E
+and I-4
+occupancies
+in accordance with
+FC Chapter 8
+. Clothing and personal effects shall not be stored in corridors and lobbies of such
+occupancies
+, unless stored in metal lockers or in corridors protected throughout by a
+sprinkler system
+and the minimum required egress width is maintained.
+
+---
+
+## Section 1027.6: Group I-2 Building Hallway Corridors
+
+1027.6 Group I-2 Building Hallway Corridors
+This section governs the placement of equipment for patient care use in
+Group I
+-2 building hallway corridors designed for patient bed movement, with a minimum corridor width of 96 inches (2438 mm). The following equipment, up to a maximum of one item of equipment per patient sleeping room or patient care room per smoke compartment, may be placed and kept in such corridors for patient use where all the following conditions are met:
+The entire corridor shall be protected throughout by a
+sprinkler system
+.
+The equipment does not reduce the effective clear width for egress to less than 5 feet (1524 mm) and such width is clearly indicated by
+approved
+floor markings.
+The equipment is low hazard, wheeled and designed to be used for the following purposes:
+Computer and other patient recordkeeping stations;
+Equipment and carts for medical emergencies and infection control;
+Other equipment and carts while in active use in providing patient care; and
+Stretchers, wheelchairs and other patient lift and transportation equipment.
+Where feasible, all large equipment, including patient lifts, stretchers and medical emergency and infection control carts, shall be kept on one side of the corridor.
+
+---
+
+This section governs the placement of equipment for patient care use in
+Group I
+-2 building hallway corridors designed for patient bed movement, with a minimum corridor width of 96 inches (2438 mm). The following equipment, up to a maximum of one item of equipment per patient sleeping room or patient care room per smoke compartment, may be placed and kept in such corridors for patient use where all the following conditions are met:
+The entire corridor shall be protected throughout by a
+sprinkler system
+.
+The equipment does not reduce the effective clear width for egress to less than 5 feet (1524 mm) and such width is clearly indicated by
+approved
+floor markings.
+The equipment is low hazard, wheeled and designed to be used for the following purposes:
+Computer and other patient recordkeeping stations;
+Equipment and carts for medical emergencies and infection control;
+Other equipment and carts while in active use in providing patient care; and
+Stretchers, wheelchairs and other patient lift and transportation equipment.
+Where feasible, all large equipment, including patient lifts, stretchers and medical emergency and infection control carts, shall be kept on one side of the corridor.
+
+---
+
+## Section 1027.7: Fire Escapes
+
+1027.7 Fire Escapes
+Fire
+escapes, and access thereto, shall be maintained in a safe and operational condition, and continuously maintained free from
+obstructions
+and impediments to immediate use in the event of
+fire
+or other emergency.
+
+---
+
+Fire
+escapes, and access thereto, shall be maintained in a safe and operational condition, and continuously maintained free from
+obstructions
+and impediments to immediate use in the event of
+fire
+or other emergency.
+
+---
+
+## Section 1027.7.1: Maintenance
+
+1027.7.1 Maintenance
+All
+fire
+escape components shall be painted or otherwise protected from deterioration and all moving parts shall be maintained in good working order.
+
+---
+
+All
+fire
+escape components shall be painted or otherwise protected from deterioration and all moving parts shall be maintained in good working order.
+
+---
+
+## Section 1027.7.2: Window Gates
+
+1027.7.2 Window Gates
+Bars, grilles, grates or similar devices placed over windows or other openings onto
+fire
+escapes shall be maintained in good working order.
+
+---
+
+Bars, grilles, grates or similar devices placed over windows or other openings onto
+fire
+escapes shall be maintained in good working order.
+
+---
+
+## Section 1027.7.3: Air Conditioners
+
+1027.7.3 Air Conditioners
+An air conditioner shall not be installed in a window providing access to a
+fire
+escape unless such
+fire
+escape may be accessed from another window in the same room that is unobstructed and of the size required for such purpose by the
+Building Code
+,
+New York State Multiple Dwelling Law
+, or other applicable law, rule or regulation. Air conditioners installed in windows adjoining
+fire
+escapes shall not obstruct the path of egress on the
+fire
+escape.
+
+---
+
+An air conditioner shall not be installed in a window providing access to a
+fire
+escape unless such
+fire
+escape may be accessed from another window in the same room that is unobstructed and of the size required for such purpose by the
+Building Code
+,
+New York State Multiple Dwelling Law
+, or other applicable law, rule or regulation. Air conditioners installed in windows adjoining
+fire
+escapes shall not obstruct the path of egress on the
+fire
+escape.
+
+---
+
+## Section 1027.7.4: Fire Escape Ladders
+
+1027.7.4 Fire Escape Ladders
+The operation of a
+fire
+escape ladder, including a drop ladder that is lowered vertically to the ground, or a counterbalanced stair ladder which swings to the ground, shall not be obstructed by awnings, stationary furniture, portable fueled space heaters, parked cars, or other
+obstructions
+. Where construction work is being performed at a location adjoining a
+fire
+escape, provision shall be made for safe egress from the
+fire
+escape ladder.
+
+---
+
+The operation of a
+fire
+escape ladder, including a drop ladder that is lowered vertically to the ground, or a counterbalanced stair ladder which swings to the ground, shall not be obstructed by awnings, stationary furniture, portable fueled space heaters, parked cars, or other
+obstructions
+. Where construction work is being performed at a location adjoining a
+fire
+escape, provision shall be made for safe egress from the
+fire
+escape ladder.
+
+---
+
+## Section 1027.8: Nonexit Door Identification
+
+1027.8 Nonexit Door Identification
+Any door that is not an
+exit
+or otherwise part of the
+means of egress
+from a building, structure or
+premises
+, but which, by reason of its proximity or similar construction, can be confused with an
+exit
+door or other door that is part of the
+means of egress
+, shall be identified with an
+approved
+sign that reads "Not An
+Exit
+" and identifies the room into which the nonexit door provides access.
+
+---
+
+Any door that is not an
+exit
+or otherwise part of the
+means of egress
+from a building, structure or
+premises
+, but which, by reason of its proximity or similar construction, can be confused with an
+exit
+door or other door that is part of the
+means of egress
+, shall be identified with an
+approved
+sign that reads "Not An
+Exit
+" and identifies the room into which the nonexit door provides access.
+
+---
+
+## Section 1027.9: Emergency Lighting
+
+1027.9 Emergency Lighting
+Emergency
+lighting
+for
+means of egress
+shall be maintained in accordance with
+FC107
+and periodically inspected and tested in accordance with
+FC 1027.9.1
+and
+1027.9.2
+.
+
+---
+
+Emergency
+lighting
+for
+means of egress
+shall be maintained in accordance with
+FC107
+and periodically inspected and tested in accordance with
+FC 1027.9.1
+and
+1027.9.2
+.
+
+---
+
+## Section 1027.9.1: Activation Test
+
+1027.9.1 Activation Test
+Emergency
+lighting
+equipment shall be tested by a trained and knowledgeable person for a duration of not less than 30 seconds. The test shall be conducted manually at least once a month, unless the equipment is designed with an automated self-testing and self-diagnostic feature. When the equipment is tested by such an automated feature, a visual inspection of the emergency
+lighting
+equipment shall be conducted at least once a month to check the display for a supervisory or
+trouble signal
+, or for any other indication that the equipment is not in good working order.
+
+---
+
+Emergency
+lighting
+equipment shall be tested by a trained and knowledgeable person for a duration of not less than 30 seconds. The test shall be conducted manually at least once a month, unless the equipment is designed with an automated self-testing and self-diagnostic feature. When the equipment is tested by such an automated feature, a visual inspection of the emergency
+lighting
+equipment shall be conducted at least once a month to check the display for a supervisory or
+trouble signal
+, or for any other indication that the equipment is not in good working order.
+
+---
+
+## Section 1027.9.2: Power Test
+
+1027.9.2 Power Test
+Battery-powered emergency
+lighting
+equipment shall be tested by a qualified person in accordance with
+FC604.5
+by operating the equipment on battery power for not less than 90 minutes. The test shall be conducted at least once a year.
+
+---
+
+Battery-powered emergency
+lighting
+equipment shall be tested by a qualified person in accordance with
+FC604.5
+by operating the equipment on battery power for not less than 90 minutes. The test shall be conducted at least once a year.
+
+---
+

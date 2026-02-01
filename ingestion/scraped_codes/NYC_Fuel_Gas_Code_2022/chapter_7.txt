@@ -1,0 +1,298 @@
+# NYC Fuel Gas Code 2022 - Chapter 7
+
+New York City Fuel Gas Code 2022
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Chapter 4 Gas Piping Installations
+
+---
+
+Chapter 5 Chimneys and Vents
+
+---
+
+Chapter 6 Specific Appliances
+
+---
+
+Chapter 7 Gaseous Hydrogen Systems
+
+---
+
+701 General
+
+---
+
+702 Reserved
+
+---
+
+703 General Requirements
+
+---
+
+704 Reserved
+
+---
+
+705 Reserved
+
+---
+
+706 Location of Gaseous Hydrogen Systems
+
+---
+
+Chapter 8 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Reserved
+
+---
+
+Appendix D Reserved
+
+---
+
+Appendix E Meters and Gas Service Piping
+
+---
+
+Appendix F Reserved
+
+---
+
+Appendix G High Pressure Natural Gas Installations
+
+---
+
+Chapter 7 Gaseous Hydrogen Systems
+
+---
+
+Section 701 General
+
+---
+
+## Section 701.1: Scope
+
+701.1 Scope
+The installation of gaseous hydrogen systems shall comply with this chapter and Chapters
+53
+and
+58
+of the
+New York City Fire Code
+. Compressed gases shall also comply with
+Chapter 50
+of the
+New York City Fire Code
+for
+general
+requirements.
+
+---
+
+The installation of gaseous hydrogen systems shall comply with this chapter and Chapters
+53
+and
+58
+of the
+New York City Fire Code
+. Compressed gases shall also comply with
+Chapter 50
+of the
+New York City Fire Code
+for
+general
+requirements.
+
+---
+
+## Section 701.2: Permits
+
+701.2 Permits
+Permits shall be required as set forth in
+Section 106
+and as required by the
+New York City Fire Code
+.
+
+---
+
+Permits shall be required as set forth in
+Section 106
+and as required by the
+New York City Fire Code
+.
+
+---
+
+Section 702 Reserved
+
+---
+
+Section 703 General Requirements
+
+---
+
+## Section 703.1: Hydrogen Generation
+
+703.1 Hydrogen Generation
+The generation of gaseous hydrogen for immediate on-premises use
+in indoor fuel cells or other energy production process and incidental indoor storage of gaseous
+hydrogen shall be located in accordance with
+Section 706
+.
+Exhaust
+ventilation shall be required in
+rooms or spaces that house such generation of gaseous hydrogen in accordance with the applicable
+provisions of NFPA 2.
+
+---
+
+The generation of gaseous hydrogen for immediate on-premises use
+in indoor fuel cells or other energy production process and incidental indoor storage of gaseous
+hydrogen shall be located in accordance with
+Section 706
+.
+Exhaust
+ventilation shall be required in
+rooms or spaces that house such generation of gaseous hydrogen in accordance with the applicable
+provisions of NFPA 2.
+
+---
+
+Section 704 Reserved
+
+---
+
+Section 705 Reserved
+
+---
+
+Section 706 Location of Gaseous Hydrogen Systems
+
+---
+
+## Section 706.1: General
+
+706.1 General
+The location and installation of gaseous hydrogen systems and
+appliances
+shall
+be in accordance with Sections
+706.2
+and
+706.3
+.
+Exception:
+Outdoor
+stationary fuel cell power plants
+in accordance with
+Section 633
+.
+Indoor stationary fuel cell
+power
+systems used in hydrogen generating systems shall be located in
+accordance with the requirements of
+Section 706
+.
+
+---
+
+The location and installation of gaseous hydrogen systems and
+appliances
+shall
+be in accordance with Sections
+706.2
+and
+706.3
+.
+Exception:
+Outdoor
+stationary fuel cell power plants
+in accordance with
+Section 633
+.
+Indoor stationary fuel cell
+power
+systems used in hydrogen generating systems shall be located in
+accordance with the requirements of
+Section 706
+.
+
+---
+
+## Section 706.2: Indoor Gaseous Hydrogen Systems
+
+706.2 Indoor Gaseous Hydrogen Systems
+Gaseous hydrogen systems shall be located in hydrogen
+fuel gas
+rooms constructed in accordance with the
+New York City Building Code
+, the
+New York
+City Mechanical Code
+, the
+New York City Fire Code
+and NFPA 2.
+
+---
+
+Gaseous hydrogen systems shall be located in hydrogen
+fuel gas
+rooms constructed in accordance with the
+New York City Building Code
+, the
+New York
+City Mechanical Code
+, the
+New York City Fire Code
+and NFPA 2.
+
+---
+
+## Section 706.3: Outdoor Gaseous Hydrogen Systems
+
+706.3 Outdoor Gaseous Hydrogen Systems
+Gaseous hydrogen systems located outdoors shall be in
+accordance with the
+New York City Fire Code
+.
+
+---
+
+Gaseous hydrogen systems located outdoors shall be in
+accordance with the
+New York City Fire Code
+.
+
+---
+

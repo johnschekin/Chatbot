@@ -1,0 +1,6332 @@
+# NYC Building Code 2022 - Chapter 3
+
+New York City Building Code 2022
+
+---
+
+Dedications
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 Use and Occupancy Classification
+
+---
+
+BC 301 General
+
+---
+
+BC 302 Classification
+
+---
+
+BC 303 Assembly Group A
+
+---
+
+BC 304 Business Group B
+
+---
+
+BC 305 Educational Group E
+
+---
+
+BC 306 Factory Group F
+
+---
+
+BC 307 High-Hazard Group H
+
+---
+
+BC 308 Institutional Group I
+
+---
+
+BC 309 Mercantile Group M
+
+---
+
+BC 310 Residential Group R
+
+---
+
+BC 311 Storage Group S
+
+---
+
+BC 312 Utility and Miscellaneous Group U
+
+---
+
+Chapter 4 Special Detailed Requirements Based on Use and Occupancy
+
+---
+
+Chapter 5 General Building Heights and Areas; Separation of Occupancies
+
+---
+
+Chapter 6 Types of Construction
+
+---
+
+Chapter 7 Fire and Smoke Protection Features
+
+---
+
+Chapter 8 Interior Finishes
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Accessibility
+
+---
+
+Chapter 12 Interior Environment
+
+---
+
+Chapter 13 Energy Efficiency
+
+---
+
+Chapter 14 Exterior Walls
+
+---
+
+Chapter 15 Roof Assemblies and Rooftop Structures
+
+---
+
+Chapter 16 Structural Design
+
+---
+
+Chapter 17 Special Inspections and Tests
+
+---
+
+Chapter 18 Soils and Foundations
+
+---
+
+Chapter 19 Concrete
+
+---
+
+Chapter 20 Aluminum
+
+---
+
+Chapter 21 Masonry
+
+---
+
+Chapter 22 Steel
+
+---
+
+Chapter 23 Wood
+
+---
+
+Chapter 24 Glass and Glazing
+
+---
+
+Chapter 25 Gypsum Board, Gypsum Panel Products and Plaster
+
+---
+
+Chapter 26 Plastic
+
+---
+
+Chapter 27 Electrical
+
+---
+
+Chapter 28 Mechanical Systems
+
+---
+
+Chapter 29 Plumbing Systems
+
+---
+
+Chapter 30 Elevators and Conveying Systems
+
+---
+
+Chapter 31 Special Construction
+
+---
+
+Chapter 32 Encroachments Into the Public Right-of-Way
+
+---
+
+Chapter 33 Safeguards During Construction or Demolition
+
+---
+
+Chapter 34 Reserved
+
+---
+
+Chapter 35 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Reserved
+
+---
+
+Appendix D Fire Districts
+
+---
+
+Appendix E Supplementary Accessibility Requirements
+
+---
+
+Appendix F Rodentproofing
+
+---
+
+Appendix G Flood-Resistant Construction
+
+---
+
+Appendix H Outdoor Signs
+
+---
+
+Appendix I Reserved
+
+---
+
+Appendix J Reserved
+
+---
+
+Appendix K Modified Industry Standards for Elevators and Conveying Systems
+
+---
+
+Appendix L Reserved
+
+---
+
+Appendix M Supplementary Requirements for One- And Two-Family Dwellings
+
+---
+
+Appendix N Assistive Listening Systems Performance Standards
+
+---
+
+Appendix O Reserved
+
+---
+
+Appendix P Reserved
+
+---
+
+Appendix Q Modified National Standards for Automatic Sprinkler, Standpipe, Fire Pump, Fire Alarm, and Smoke Control Systems
+
+---
+
+Appendix R Acoustical Tile and Lay-in Panel Ceiling Suspension Systems
+
+---
+
+Appendix S Supplementary Figures for Luminous Egress Path Markings
+
+---
+
+Appendix U Ancillary Dwelling Units
+
+---
+
+Chapter 3 Use and Occupancy Classification
+
+---
+
+Section BC 301 General
+
+---
+
+## Section 301.1: Scope
+
+301.1 Scope
+The provisions of this chapter shall control the classification of all buildings and structures, and spaces therein, as to use and occupancy.
+
+---
+
+The provisions of this chapter shall control the classification of all buildings and structures, and spaces therein, as to use and occupancy.
+
+---
+
+Section BC 302 Classification
+
+---
+
+## Section 302.1: General
+
+302.1 General
+Structures or portions of structures shall be classified with respect to occupancy in one or more of the groups listed below. A room or space that is intended to be occupied at different times for different purposes shall comply with all of the requirements that are applicable to each of the purposes for which the room or space will be occupied. Structures with multiple occupancies or uses shall comply with Section 508. Where a structure, or portion thereof, is proposed for a purpose that is not specifically provided for in this code, such structure, or portion thereof, shall be classified in the group that the occupancy most nearly resembles, according to the fire safety and relative hazard involved, and as approved by the commissioner.
+Assembly (see Section 303): Groups
+A-1
+,
+A-2
+,
+A-3
+,
+A-4
+and
+A-5
+.
+Business (see Section 304):
+Group B
+.
+Educational (see Section 305):
+Group E
+.
+Factory and Industrial (see Section 306): Groups
+F-1
+and
+F-2
+.
+High Hazard (see Section 307): Groups
+H-1
+,
+H-2
+,
+H-3
+,
+H-4
+and
+H-5
+.
+Institutional (see Section 308): Groups
+I-1
+,
+I-2
+,
+I-3
+and
+I-4
+.
+Mercantile (see Section 309):
+Group M
+.
+Residential
+(see Section 310): Groups
+R-1
+,
+R-2
+and
+R-3
+.
+Storage
+(see Section 311): Groups
+S-1
+and
+S-2
+.
+Utility and Miscellaneous (see Section 312):
+Group U
+.
+For a listing of occupancy group classifications that corresponds with uses listed in the
+New York City Zoning Resolution
+, refer to
+department rules
+.
+UpCodes Diagram (1)
+
+---
+
+Structures or portions of structures shall be classified with respect to occupancy in one or more of the groups listed below. A room or space that is intended to be occupied at different times for different purposes shall comply with all of the requirements that are applicable to each of the purposes for which the room or space will be occupied. Structures with multiple occupancies or uses shall comply with Section 508. Where a structure, or portion thereof, is proposed for a purpose that is not specifically provided for in this code, such structure, or portion thereof, shall be classified in the group that the occupancy most nearly resembles, according to the fire safety and relative hazard involved, and as approved by the commissioner.
+Assembly (see Section 303): Groups
+A-1
+,
+A-2
+,
+A-3
+,
+A-4
+and
+A-5
+.
+Business (see Section 304):
+Group B
+.
+Educational (see Section 305):
+Group E
+.
+Factory and Industrial (see Section 306): Groups
+F-1
+and
+F-2
+.
+High Hazard (see Section 307): Groups
+H-1
+,
+H-2
+,
+H-3
+,
+H-4
+and
+H-5
+.
+Institutional (see Section 308): Groups
+I-1
+,
+I-2
+,
+I-3
+and
+I-4
+.
+Mercantile (see Section 309):
+Group M
+.
+Residential
+(see Section 310): Groups
+R-1
+,
+R-2
+and
+R-3
+.
+Storage
+(see Section 311): Groups
+S-1
+and
+S-2
+.
+Utility and Miscellaneous (see Section 312):
+Group U
+.
+For a listing of occupancy group classifications that corresponds with uses listed in the
+New York City Zoning Resolution
+, refer to
+department rules
+.
+
+---
+
+Section BC 303 Assembly Group A
+
+---
+
+## Section 303.1: Assembly Group A
+
+303.1 Assembly Group A
+Assembly Group A occupancy includes, among others, the use of a
+building
+or structure or a portion thereof, excluding a
+dwelling unit
+, for the gathering of any number of persons for purposes such as civic, social or religious functions, recreation, food or drink consumption, awaiting transportation, or similar group activities; or when occupied by 75 persons or more for educational or instructional purposes.
+
+---
+
+Assembly Group A occupancy includes, among others, the use of a
+building
+or structure or a portion thereof, excluding a
+dwelling unit
+, for the gathering of any number of persons for purposes such as civic, social or religious functions, recreation, food or drink consumption, awaiting transportation, or similar group activities; or when occupied by 75 persons or more for educational or instructional purposes.
+
+---
+
+## Section 303.1.1: Definition
+
+303.1.1 Definition
+The following term is defined in
+Chapter 2
+:
+PLACE OF ASSEMBLY
+.
+
+---
+
+The following term is defined in
+Chapter 2
+:
+PLACE OF ASSEMBLY
+.
+
+---
+
+## Section 303.1.2: Buildings and Nonaccessory Tenant Spaces
+
+303.1.2 Buildings and Nonaccessory Tenant Spaces
+A
+building
+or nonaccessory tenant
+ space used for assembly purposes with an
+occupant load
+of fewer than 75 persons shall be
+ classified as a
+Group B
+occupancy, except that the number of plumbing fixtures for such a
+building
+or space is permitted to be calculated in accordance with the requirements for assembly
+ occupancies.
+
+---
+
+A
+building
+or nonaccessory tenant
+ space used for assembly purposes with an
+occupant load
+of fewer than 75 persons shall be
+ classified as a
+Group B
+occupancy, except that the number of plumbing fixtures for such a
+building
+or space is permitted to be calculated in accordance with the requirements for assembly
+ occupancies.
+
+---
+
+## Section 303.1.3: Accessory Assembly Spaces
+
+303.1.3 Accessory Assembly Spaces
+A room or space used for assembly purposes with an
+occupant load
+of fewer than 75 persons and accessory to another occupancy shall be classified
+ as a
+Group B
+occupancy or as part of that occupancy, except that the number of plumbing fixtures
+ for such a room or space is permitted to be calculated in accordance with the requirements for
+ assembly occupancies.
+UpCodes Diagrams (2)
+Building products (7)
+
+---
+
+A room or space used for assembly purposes with an
+occupant load
+of fewer than 75 persons and accessory to another occupancy shall be classified
+ as a
+Group B
+occupancy or as part of that occupancy, except that the number of plumbing fixtures
+ for such a room or space is permitted to be calculated in accordance with the requirements for
+ assembly occupancies.
+
+---
+
+## Section 303.2: Assembly Group A-1
+
+303.2 Assembly Group A-1
+Group A
+-1 occupancy includes assembly uses, usually with
+fixed seating
+, intended for the production and viewing of the performing arts or motion pictures including, but not limited to:
+Motion picture theaters
+Symphony and concert halls
+Television and radio studios admitting an audience
+Theaters
+UpCodes Diagrams (3)
+
+---
+
+Group A
+-1 occupancy includes assembly uses, usually with
+fixed seating
+, intended for the production and viewing of the performing arts or motion pictures including, but not limited to:
+Motion picture theaters
+Symphony and concert halls
+Television and radio studios admitting an audience
+Theaters
+
+---
+
+## Section 303.3: Assembly Group A-2
+
+303.3 Assembly Group A-2
+Group A
+-2 occupancy includes assembly uses intended for food and/or drink consumption including, but not limited to:
+Banquet halls
+Cabarets
+Casinos (gaming areas)
+Nightclubs, including dance halls
+Restaurants, cafeterias (except as provided for in
+A-3
+), and similar dining
+facilities
+Taverns and bars
+UpCodes Diagrams (3)
+
+---
+
+Group A
+-2 occupancy includes assembly uses intended for food and/or drink consumption including, but not limited to:
+Banquet halls
+Cabarets
+Casinos (gaming areas)
+Nightclubs, including dance halls
+Restaurants, cafeterias (except as provided for in
+A-3
+), and similar dining
+facilities
+Taverns and bars
+
+---
+
+## Section 303.4: Assembly Group A-3
+
+303.4 Assembly Group A-3
+Group A
+-3 occupancy includes assembly uses intended for worship, recreation or amusement and other assembly
+uses
+not classified elsewhere in
+Group A
+including, but not limited to:
+Amusement arcades
+Art galleries
+Bowling alleys
+Cafeterias for children up to and including the 12th grade
+Classrooms and instructional rooms with 75 persons or more; such rooms with fewer than 75 persons shall be classified as
+Group B
+or E
+Community halls
+Courtrooms
+Custodial care facilities
+with 75 or more persons, providing care to persons over the age of 2, where no more than four occupants are incapable of responding to an emergency situation without physical assistance from staff
+Dance studio or instruction (not including food or drink consumption)
+Exhibition halls
+Funeral parlors
+Gymnasiums (without spectator seating)
+Indoor
+swimming pools
+(without spectator seating)
+Indoor tennis
+courts
+(without spectator seating)
+Lecture halls
+Museums
+Places of religious worship
+(Houses of worship)
+Pool and billiard parlors
+School auditoriums
+Waiting areas in transportation terminals
+UpCodes Diagram (1)
+Building products (4)
+
+---
+
+Group A
+-3 occupancy includes assembly uses intended for worship, recreation or amusement and other assembly
+uses
+not classified elsewhere in
+Group A
+including, but not limited to:
+Amusement arcades
+Art galleries
+Bowling alleys
+Cafeterias for children up to and including the 12th grade
+Classrooms and instructional rooms with 75 persons or more; such rooms with fewer than 75 persons shall be classified as
+Group B
+or E
+Community halls
+Courtrooms
+Custodial care facilities
+with 75 or more persons, providing care to persons over the age of 2, where no more than four occupants are incapable of responding to an emergency situation without physical assistance from staff
+Dance studio or instruction (not including food or drink consumption)
+Exhibition halls
+Funeral parlors
+Gymnasiums (without spectator seating)
+Indoor
+swimming pools
+(without spectator seating)
+Indoor tennis
+courts
+(without spectator seating)
+Lecture halls
+Museums
+Places of religious worship
+(Houses of worship)
+Pool and billiard parlors
+School auditoriums
+Waiting areas in transportation terminals
+
+---
+
+## Section 303.5: Assembly Group A-4
+
+303.5 Assembly Group A-4
+Group A
+-4 occupancy includes assembly uses intended for
+ viewing of indoor sporting events and activities with spectator seating including, but not limited to:
+Arenas
+Skating rinks
+Swimming pools
+Tennis
+courts
+UpCodes Diagram (1)
+Building products (9)
+
+---
+
+Group A
+-4 occupancy includes assembly uses intended for
+ viewing of indoor sporting events and activities with spectator seating including, but not limited to:
+Arenas
+Skating rinks
+Swimming pools
+Tennis
+courts
+
+---
+
+## Section 303.6: Assembly Group A-5
+
+303.6 Assembly Group A-5
+Group A
+-5 occupancy includes assembly uses intended for
+ participation in or viewing outdoor activities including, but not limited to:
+Amusement park structures
+Bleachers
+Grandstands
+Stadiums
+UpCodes Diagrams (3)
+Building products (10)
+
+---
+
+Group A
+-5 occupancy includes assembly uses intended for
+ participation in or viewing outdoor activities including, but not limited to:
+Amusement park structures
+Bleachers
+Grandstands
+Stadiums
+
+---
+
+## Section 303.7: Certificate of Operation
+
+303.7 Certificate of Operation
+A
+Certificate of Operation
+shall be required, as per Section 28-117.1, for the following assembly occupancies:
+Indoor assembly occupancies used or intended for
+use
+by 75 persons or more, including open spaces at 20 feet (6096 mm) or more above or below
+grade plane
+, such as roofs or roof terraces.
+Outdoor assembly occupancies used and intended for use by 200 persons or more.
+
+---
+
+A
+Certificate of Operation
+shall be required, as per Section 28-117.1, for the following assembly occupancies:
+Indoor assembly occupancies used or intended for
+use
+by 75 persons or more, including open spaces at 20 feet (6096 mm) or more above or below
+grade plane
+, such as roofs or roof terraces.
+Outdoor assembly occupancies used and intended for use by 200 persons or more.
+
+---
+
+Section BC 304 Business Group B
+
+---
+
+## Section 304.1: Business Group B
+
+304.1 Business Group B
+Business Group B occupancy includes, among others, the use of a
+building
+or structure, or a portion thereof, for office, professional, service-type transactions, or for conducting public or civic
+services
+, including the incidental
+storage
+of records and accounts and the incidental
+storage
+of limited quantities of stocks of goods for office use or purposes. Business Group B occupancies shall include, but not be limited to, the following:
+Airport traffic control towers
+Ambulatory care facilities
+*Animal hospitals, kennels and pounds, veterinary clinics and pet shops
+Banks
+Barber and beauty shops
+Civic administration offices
+Clinic
+outpatient, including group medical centers, and neighborhood
+family
+care centers
+Custodial care facilities
+with fewer than 75 persons, providing care to persons over the age of 2, where no more than four occupants are incapable of responding to an emergency situation without physical assistance from staff
+Dry cleaning and laundries; pick-up and delivery stations and self-service
+Educational occupancies for students above the 12th grade, where not classified in
+Group A
+. Such occupancy may be used occasionally for educational purposes offered to children through the 12th grade
+Electronic data processing
+Laboratories; nonproduction testing and research, as per Section 427
+Libraries when not classified in
+Group E
+Motor vehicle showrooms
+Offices
+Post offices
+Photocopying and printing shops using electronic printing
+equipment
+Professional
+services
+(architects, attorneys, dentists, physicians, engineers, etc.)
+Radio and television stations not admitting an audience
+Telephone exchanges
+Training and skill
+development
+not in a school or academic program (this shall include, but not be limited to, tutoring centers, martial arts studios, gymnastics and similar uses regardless of the ages served, and where not classified as a
+Group A
+occupancy)
+*Section 304.1 was amended by
+Local Law 78 of 2015
+. This law has an effective date of December 31, 2015.
+Building products (8)
+
+---
+
+Business Group B occupancy includes, among others, the use of a
+building
+or structure, or a portion thereof, for office, professional, service-type transactions, or for conducting public or civic
+services
+, including the incidental
+storage
+of records and accounts and the incidental
+storage
+of limited quantities of stocks of goods for office use or purposes. Business Group B occupancies shall include, but not be limited to, the following:
+Airport traffic control towers
+Ambulatory care facilities
+*Animal hospitals, kennels and pounds, veterinary clinics and pet shops
+Banks
+Barber and beauty shops
+Civic administration offices
+Clinic
+outpatient, including group medical centers, and neighborhood
+family
+care centers
+Custodial care facilities
+with fewer than 75 persons, providing care to persons over the age of 2, where no more than four occupants are incapable of responding to an emergency situation without physical assistance from staff
+Dry cleaning and laundries; pick-up and delivery stations and self-service
+Educational occupancies for students above the 12th grade, where not classified in
+Group A
+. Such occupancy may be used occasionally for educational purposes offered to children through the 12th grade
+Electronic data processing
+Laboratories; nonproduction testing and research, as per Section 427
+Libraries when not classified in
+Group E
+Motor vehicle showrooms
+Offices
+Post offices
+Photocopying and printing shops using electronic printing
+equipment
+Professional
+services
+(architects, attorneys, dentists, physicians, engineers, etc.)
+Radio and television stations not admitting an audience
+Telephone exchanges
+Training and skill
+development
+not in a school or academic program (this shall include, but not be limited to, tutoring centers, martial arts studios, gymnastics and similar uses regardless of the ages served, and where not classified as a
+Group A
+occupancy)
+*Section 304.1 was amended by
+Local Law 78 of 2015
+. This law has an effective date of December 31, 2015.
+
+---
+
+## Section 304.1.1: Definitions
+
+304.1.1 Definitions
+The following terms are defined in
+Chapter 2
+:
+AMBULATORY CARE FACILITY
+.
+CLINIC, OUTPATIENT
+.
+
+---
+
+The following terms are defined in
+Chapter 2
+:
+AMBULATORY CARE FACILITY
+.
+CLINIC, OUTPATIENT
+.
+
+---
+
+Section BC 305 Educational Group E
+
+---
+
+## Section 305.1: Educational Group E
+
+305.1 Educational Group E
+Educational Group E occupancy includes, among others, the use of a
+building
+or structure, or a portion thereof, by five or more persons at any one time for educational purposes offered to children through the 12th grade and where no more than two children are under the age of 2, including but not limited to the following:
+Academies
+Day care
+facilities
+where no more than two children are under the age of 2
+Libraries accessory to Group E occupancies
+Schools
+Exceptions:
+Classrooms and instructional rooms with 75 or more persons shall be classified as Group
+A-3
+.
+Day care
+services
+provided within a
+dwelling unit
+as described in Section 310.
+Custodial care facilities
+with up to 30 children under the age of 2 are permitted to be classified as Group E when the rooms where such children are cared for are located on the
+level of exit discharge
+and each of these child care rooms has an
+exit
+door
+directly to the exterior.
+Building product (1)
+
+---
+
+Educational Group E occupancy includes, among others, the use of a
+building
+or structure, or a portion thereof, by five or more persons at any one time for educational purposes offered to children through the 12th grade and where no more than two children are under the age of 2, including but not limited to the following:
+Academies
+Day care
+facilities
+where no more than two children are under the age of 2
+Libraries accessory to Group E occupancies
+Schools
+Exceptions:
+Classrooms and instructional rooms with 75 or more persons shall be classified as Group
+A-3
+.
+Day care
+services
+provided within a
+dwelling unit
+as described in Section 310.
+Custodial care facilities
+with up to 30 children under the age of 2 are permitted to be classified as Group E when the rooms where such children are cared for are located on the
+level of exit discharge
+and each of these child care rooms has an
+exit
+door
+directly to the exterior.
+
+---
+
+## Section 305.2: Reserved
+
+305.2 Reserved
+
+---
+
+Section BC 306 Factory Group F
+
+---
+
+## Section 306.1: Factory Industrial Group F
+
+306.1 Factory Industrial Group F
+Factory Industrial Group F occupancy includes, among others, the use of a
+building
+or structure, or a portion thereof, for assembling, disassembling, fabricating, finishing, manufacturing, packaging, repair, cleaning, laundering or processing
+operations
+that are not classified as a
+Group H
+hazardous occupancy. Factory Industrial Group F occupancy also includes certain mechanical and/or electrical
+equipment
+rooms in accordance with
+Section 306.3
+.
+
+---
+
+Factory Industrial Group F occupancy includes, among others, the use of a
+building
+or structure, or a portion thereof, for assembling, disassembling, fabricating, finishing, manufacturing, packaging, repair, cleaning, laundering or processing
+operations
+that are not classified as a
+Group H
+hazardous occupancy. Factory Industrial Group F occupancy also includes certain mechanical and/or electrical
+equipment
+rooms in accordance with
+Section 306.3
+.
+
+---
+
+## Section 306.2: Moderate-Hazard Factory Industrial, Group F-1
+
+306.2 Moderate-Hazard Factory Industrial, Group F-1
+Factory industrial uses that are not classified as Factory Industrial
+F-2
+Low Hazard shall be classified as F-1 Moderate Hazard and shall include, but not be limited to, the following:
+Aircraft (manufacturing, not to include
+repair
+)
+Aircraft
+repairs
+Automobiles and other motor vehicles, manufacturing
+Automobiles and other motor vehicles, repairs
+Bakeries
+Beverages; over 16-percent alcohol content
+Boats
+Boat repairs
+Brooms or brushes
+Canvas or similar fabric
+Carpets and rugs
+Carpets and rugs, cleaning, using or storing solvents having a
+flash point
+between 100°F (38°C) and 138.2°F (59°C) (Tag closed cup)
+Clothing
+Disinfectants
+Dry cleaning and dyeing using or storing solvents having a
+flash point
+between 100°F (38°C) and 138.2°F (59°C) (Tag closed cup)
+Electric generation plants
+Electrical substations
+Engines (including rebuilding)
+Food processing, except meat slaughtering or preparation of fish for packing
+Food processing establishments and commercial
+kitchens
+not adjoining a restaurant, cafeteria or
+similar dining
+facilities
+Furniture
+Hemp products
+Jute products
+Laboratories; for production (moderate-hazard), that may involve the synthesis or
+storage
+of
+materials
+that constitute a physical or
+health hazard
+in quantities below those found in
+Tables 307.1(1)
+and
+307.1(2)
+Leather products
+Metals; finishing, plating, grinding, sharpening, polishing, cleaning, rustproofing, heat treatment or similar processes
+Millwork (sash and door)
+Motion pictures filming (without spectators)
+Musical instruments
+Optical goods
+Paper mills or products
+Photographic film
+Plastic
+products
+Printing or publishing
+Recreational vehicles
+Refuse incineration
+Shoes
+Soaps and detergents
+Textiles
+Tobacco
+Trailers
+Upholstering
+Wood; distillation
+Woodworking (cabinet) using no more than 2 quarts (1.9 L) per day or storing no more than 20 gallons (75.7 L) of paint, varnish, lacquer or shellac
+UpCodes Diagram (1)
+
+---
+
+Factory industrial uses that are not classified as Factory Industrial
+F-2
+Low Hazard shall be classified as F-1 Moderate Hazard and shall include, but not be limited to, the following:
+Aircraft (manufacturing, not to include
+repair
+)
+Aircraft
+repairs
+Automobiles and other motor vehicles, manufacturing
+Automobiles and other motor vehicles, repairs
+Bakeries
+Beverages; over 16-percent alcohol content
+Boats
+Boat repairs
+Brooms or brushes
+Canvas or similar fabric
+Carpets and rugs
+Carpets and rugs, cleaning, using or storing solvents having a
+flash point
+between 100°F (38°C) and 138.2°F (59°C) (Tag closed cup)
+Clothing
+Disinfectants
+Dry cleaning and dyeing using or storing solvents having a
+flash point
+between 100°F (38°C) and 138.2°F (59°C) (Tag closed cup)
+Electric generation plants
+Electrical substations
+Engines (including rebuilding)
+Food processing, except meat slaughtering or preparation of fish for packing
+Food processing establishments and commercial
+kitchens
+not adjoining a restaurant, cafeteria or
+similar dining
+facilities
+Furniture
+Hemp products
+Jute products
+Laboratories; for production (moderate-hazard), that may involve the synthesis or
+storage
+of
+materials
+that constitute a physical or
+health hazard
+in quantities below those found in
+Tables 307.1(1)
+and
+307.1(2)
+Leather products
+Metals; finishing, plating, grinding, sharpening, polishing, cleaning, rustproofing, heat treatment or similar processes
+Millwork (sash and door)
+Motion pictures filming (without spectators)
+Musical instruments
+Optical goods
+Paper mills or products
+Photographic film
+Plastic
+products
+Printing or publishing
+Recreational vehicles
+Refuse incineration
+Shoes
+Soaps and detergents
+Textiles
+Tobacco
+Trailers
+Upholstering
+Wood; distillation
+Woodworking (cabinet) using no more than 2 quarts (1.9 L) per day or storing no more than 20 gallons (75.7 L) of paint, varnish, lacquer or shellac
+
+---
+
+## Section 306.3: Low-Hazard Factory Industrial, Group F-2
+
+306.3 Low-Hazard Factory Industrial, Group F-2
+Factory industrial uses that involve the cleaning, laundering, fabrication or manufacturing of noncombustible
+materials
+that during finishing, packing or processing do not involve a significant fire hazard shall be classified as F-2 occupancies and shall include, but not be limited to, the following:
+Appliances
+Athletic
+equipment
+Automobile laundries
+Automobile wrecking establishments
+Beverages; up to and including 16-percent alcohol content; bottling works
+Beverages; nonalcoholic
+Bicycles
+Brick
+and
+masonry
+Business machines
+Cameras and photo
+equipment
+Carpets and rugs, cleaning, using or storing solvents having a
+flash point
+above 138.2°F (59°C) (Tag closed cup)
+Ceramic products
+Commercial
+kitchens
+adjoining restaurants, cafeterias (including those classified in Group
+A-3
+),
+ or similar dining
+facilities
+Construction
+and
+agricultural
+machinery
+Dry cleaning and dyeing using or storing solvents having a
+flash point
+above 138.2°F (59°C) (Tag closed cup)
+Electronics
+Food processing; meat slaughtering or preparation of fish for packing
+Foundries
+Glass products
+Gypsum
+Ice
+Laboratories; for production (low-hazard), that may involve the synthesis or
+storage
+of
+materials
+that constitute a physical or
+health hazard
+in quantities below those found in
+Tables 307.1(1)
+and
+307.1(2)
+Laundries
+Machinery
+Mechanical and/or electrical
+equipment
+rooms that are neither identified as incidental uses in Table 509 nor classified as the occupancy within which they are located per
+Section 508.1
+Metal products (fabrication and assembly), not including flammable metals and alloys listed in Section 307
+Plastic
+products; nonflammable
+Printing; incidental to primary use, area not exceeding 2,000 square feet (185.8 m
+2
+)
+Television filming (without spectators)
+
+---
+
+Factory industrial uses that involve the cleaning, laundering, fabrication or manufacturing of noncombustible
+materials
+that during finishing, packing or processing do not involve a significant fire hazard shall be classified as F-2 occupancies and shall include, but not be limited to, the following:
+Appliances
+Athletic
+equipment
+Automobile laundries
+Automobile wrecking establishments
+Beverages; up to and including 16-percent alcohol content; bottling works
+Beverages; nonalcoholic
+Bicycles
+Brick
+and
+masonry
+Business machines
+Cameras and photo
+equipment
+Carpets and rugs, cleaning, using or storing solvents having a
+flash point
+above 138.2°F (59°C) (Tag closed cup)
+Ceramic products
+Commercial
+kitchens
+adjoining restaurants, cafeterias (including those classified in Group
+A-3
+),
+ or similar dining
+facilities
+Construction
+and
+agricultural
+machinery
+Dry cleaning and dyeing using or storing solvents having a
+flash point
+above 138.2°F (59°C) (Tag closed cup)
+Electronics
+Food processing; meat slaughtering or preparation of fish for packing
+Foundries
+Glass products
+Gypsum
+Ice
+Laboratories; for production (low-hazard), that may involve the synthesis or
+storage
+of
+materials
+that constitute a physical or
+health hazard
+in quantities below those found in
+Tables 307.1(1)
+and
+307.1(2)
+Laundries
+Machinery
+Mechanical and/or electrical
+equipment
+rooms that are neither identified as incidental uses in Table 509 nor classified as the occupancy within which they are located per
+Section 508.1
+Metal products (fabrication and assembly), not including flammable metals and alloys listed in Section 307
+Plastic
+products; nonflammable
+Printing; incidental to primary use, area not exceeding 2,000 square feet (185.8 m
+2
+)
+Television filming (without spectators)
+
+---
+
+## Section 306.4: Location Restrictions
+
+306.4 Location Restrictions
+Locations of spaces classified in Factory
+Group F
+may be restricted within a
+building
+containing a
+Group R
+occupancy pursuant to
+Section 510.8
+.
+
+---
+
+Locations of spaces classified in Factory
+Group F
+may be restricted within a
+building
+containing a
+Group R
+occupancy pursuant to
+Section 510.8
+.
+
+---
+
+Section BC 307 High-Hazard Group H
+
+---
+
+## Section 307.1: High-Hazard Group H
+
+307.1 High-Hazard Group H
+High-hazard
+Group H
+occupancy includes, among others, the use of a
+building
+or structure, or a portion thereof, that involves the manufacturing, processing, generation or
+storage
+of
+materials
+that constitute a physical or
+health hazard
+in quantities in excess of those allowed in
+control areas
+complying with Section 414, based on the maximum allowable quantity limits for
+control areas
+set forth in Tables 307.1(1) and 307.1(2). Hazardous occupancies are classified in Groups
+H-1
+,
+H-2
+,
+H-3
+,
+H-4
+and
+H-5
+and shall be in accordance with this section, the requirements of Section 415 and the
+New York City Fire Code
+.
+TABLE 307.1(1)
+MAXIMUM ALLOWABLE QUANTITY PER
+CONTROL AREA
+OF
+HAZARDOUS MATERIALS
+POSING A
+PHYSICAL HAZARD
+a, j, m, n, q
+MATERIAL
+CLASS
+GROUP
+WHEN THE
+MAXIMUM
+ALLOWABLE
+QUANTITY IS
+EXCEEDED
+q
+STORAGE
+b
+USE-
+CLOSED SYSTEMS
+b
+USE-
+OPEN SYSTEMS
+b
+Solid
+pounds
+(cubic feet)
+Liquid
+gallons
+(pounds)
+Gas
+SCF
+Solid
+pounds
+(cubic feet)
+Liquid
+gallons
+(pounds)
+Gas
+SCF
+Solid
+pounds
+(cubic feet)
+Liquid
+gallons
+(pounds)
+Combustible
+liquid
+c, i, r
+II
+H-2
+or
+H-3
+Not
+Applicable
+120
+d, e
+Not
+Applicable
+Not
+Applicable
+120
+d
+Not
+Applicable
+Not
+Applicable
+30
+d
+IIIA
+H-2
+or
+H-3
+330
+d, e
+330
+d
+80
+d
+IIIB
+Not
+Applicable
+13,200
+e, f
+13,200
+f
+3,300
+f
+Combustible fiber
+Loose
+H-3
+(100)
+Not
+Applicable
+Not
+Applicable
+(100)
+Not
+Applicable
+Not
+Applicable
+(20)
+Not
+Applicable
+Baled
+s
+(1,000)
+(1,000)
+(200)
+Cryogenics flammable
+Not
+Applicable
+H-2
+Not
+Applicable
+45
+d
+Not
+Applicable
+Not
+Applicable
+45
+d
+Not
+Applicable
+Not
+Applicable
+10
+d
+Cryogenics oxidizing
+Not
+Applicable
+H-3
+Not
+Applicable
+45
+d
+Not
+Applicable
+Not
+Applicable
+45
+d
+Not
+Applicable
+Not
+Applicable
+10
+d
+Explosives
+Division 1.1
+H-1
+1
+e, g
+(1)
+e, g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+Division 1.2
+H-1
+1
+e, g
+(1)
+e, g
+0.25
+g
+(0.25)
+g
+0.25
+g
+(0.25)
+g
+Division 1.3
+H-1
+or
+H-2
+5
+e, g
+(5)
+e, g
+1
+g
+(1)
+g
+1
+g
+(1)
+g
+Division 1.4
+H-3
+50
+e, g
+(50)
+e, g
+50
+g
+(50)
+g
+Not
+Applicable
+Not
+Applicable
+Division 1.4G
+H-3
+125
+d, e, l
+Not Applicable
+Not Applicable
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+Division 1.5
+H-1
+1
+e, g
+(1)
+e, g
+0.25
+g
+(0.25)
+g
+0.25
+g
+(0.25
+g
+)
+Division 1.6
+H-1
+1
+d, e, g
+Not Applicable
+Not Applicable
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+Flammable gas
+Gaseous
+H-2
+Not
+Applicable
+Not
+Applicable
+1,000
+d, e
+Not
+Applicable
+Not
+Applicable
+1,000
+d, e
+Not
+Applicable
+Not
+Applicable
+Liquefied
+(150)
+d, e
+Not
+Applicable
+(150)
+d, e
+Not
+Applicable
+Flammable liquids
+c, k
+IA
+o
+H-2
+or
+H-3
+Not
+Applicable
+30
+d, e
+Not
+Applicable
+Not
+Applicable
+30
+d
+Not
+Applicable
+Not
+Applicable
+10
+d
+IB and IC
+120
+d, e
+120
+d
+30
+d
+Combination
+Flammable liquid
+(IA
+o
+, IB, IC)
+Not
+Applicable
+H-2
+or
+H-3
+Not
+Applicable
+120
+d, e, h
+Not
+Applicable
+Not
+Applicable
+120
+d, h
+Not
+Applicable
+Not
+Applicable
+30
+d, h
+Flammable solids
+Pigs, ingots, billets, heavy castings
+Light castings, light metallic products
+Scraps, shavings, powders, dusts
+All others
+Not
+Applicable
+H-3
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+1,000
+d, e
+1,000
+d
+1,000
+d
+125
+d, e
+125
+d
+25
+d
+1
+d, e
+1
+d
+1
+d
+125
+d, e
+125
+d
+25
+d
+Inert gas
+Gaseous
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+Not
+Limited
+Not
+Applicable
+Not
+Applicable
+Not
+Limited
+Not
+Applicable
+Not
+Applicable
+Liquefied
+Cryogenic inert
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+Not
+Limited
+Not
+Applicable
+Not
+Applicable
+Not
+Limited
+Not
+Applicable
+Not
+Applicable
+Organic peroxide
+p
+Unclassified
+Detonable
+H-1
+1
+e, g
+(1)
+e, g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+I
+H-2
+5
+d, e
+(5)
+d, e
+1
+d
+(1)
+d
+1
+d
+(1)
+d
+II
+H-3
+50
+d, e
+(50)
+d, e
+50
+d
+(50)
+d
+10
+d
+(10)
+d
+III
+H-3
+125
+d, e
+(125)
+d, e
+125
+d
+(125)
+d
+25
+d
+(25)
+d
+IV
+Not
+Applicable
+Not
+Limited
+Not
+Limited
+Not
+Limited
+No
+Limited
+Not
+Limited
+Not
+Limited
+V
+Not
+Applicable
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Oxidizer
+4
+H-1
+1
+g
+(1)
+e, g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+3
+k
+H-2
+10
+d, e
+(10)
+d, e
+2
+d
+(2)
+d
+2
+d
+(2)
+d
+2
+H-3
+250
+d, e
+(250)
+d, e
+250
+d
+(250)
+d
+50
+d
+(50)
+d
+1
+H-3
+4,000
+e,f
+(4,000)
+e,f
+4,000
+f
+(4,000)
+f
+1,000
+f
+(1,000)
+f
+Oxidizing gas
+Gaseous
+H-3
+Not
+Applicable
+Not
+Applicable
+1,500
+d, e
+Not
+Applicable
+Not
+Applicable
+1,500
+d, e
+Not
+Applicable
+Not
+Applicable
+Liquefied
+(150)
+d, e
+Not
+Applicable
+(150)
+d, e
+Not
+Applicable
+Pyrophoric material
+p
+detonable
+Not
+Applicable
+H-1
+1
+e, g
+(1)
+e, g
+10
+e, g
+0.25
+g
+(0.25)
+g
+2
+e, g
+0
+0
+Pyrophoric material
+nondetonable
+Not
+Applicable
+H-2
+4
+e, g
+(4)
+e, g
+50
+e, g
+1
+g
+(1)
+g
+10
+e, g
+0
+0
+Unstable (reactive)
+p
+detonable
+4
+H-1
+1
+e, g
+(1)
+e, g
+10
+e, g
+0.25
+g
+(0.25)
+g
+2
+e, g
+0.25
+g
+(0.25)
+g
+3
+H-1
+1
+e, g
+(1)
+e, g
+10
+e, g
+0.25
+g
+(0.25)
+g
+2
+e, g
+0.25
+g
+(0.25)
+g
+Unstable (reactive) nondetonable
+4
+H-1
+1
+e, g
+(1)
+e, g
+10
+e, g
+0.25
+g
+(0.25)
+g
+2
+e, g
+0.25
+g
+(0.25)
+g
+3
+H-1
+or
+H-2
+5
+d, e
+(5)
+d, e
+50
+d, e
+1
+d
+(1)
+d
+10
+d, e
+1
+d
+(1)
+d
+2
+H-3
+50
+d, e
+(50)
+d, e
+250
+d, e
+50
+d
+(50)
+d
+250
+d, e
+10
+d
+(10)
+d
+1
+Not Applicable
+Not
+Limited
+Not Limited
+750
+d, e
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Water-reactive detonable
+p
+3
+H-1
+1
+e, g
+(1)
+e, g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+2
+H-1
+1
+e, g
+(1)
+e, g
+0.25
+g
+(0.25)
+g
+0.25
+g
+(0.25)
+g
+Water-reactive nondetonable
+3
+H-2
+5
+d, e
+(5)
+d, e
+Not
+Applicable
+5
+d
+(5)
+d
+Not
+Applicable
+1
+d
+(1)
+d
+2
+H-3
+50
+d, e
+(50)
+d, e
+50
+d
+(50)
+d
+10
+d
+(10)
+d
+1
+Not Applicable
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+For SI: 1 cubic foot = 0.028 m
+3
+, 1 pound = 0.454 kg, 1 gallon = 3.785 L.
+For use of
+control areas
+, see the
+New York City Fire Code
+and
+Section 414.2
+of this code..
+The aggregate quantity in
+storage
+,
+handling
+and use shall not exceed the quantity listed for
+storage
+.
+The quantities of alcoholic beverages in retail and wholesale sales occupancies shall not be limited providing the
+liquids
+are packaged in individual containers not exceeding 1.3 gallons. In retail and wholesale sales occupancies, the quantities of medicines, foodstuffs, consumer or industrial products, and cosmetics containing not more than 50 percent by volume of water-miscible
+liquids
+with the remainder of the solutions not being flammable shall not be limited, provided that such
+materials
+are packaged in individual containers not exceeding 1.3 gallons.
+Maximum allowable quantities, except for liquefied petroleum gas and
+flammable liquid
+motor fuel, shall be increased 100 percent in buildings protected throughout by a sprinkler system. Where Note e also applies, the increase for both notes shall be applied accumulatively.
+Maximum allowable quantities, except for liquefied petroleum gas and
+flammable liquid
+motor fuel, shall be increased 100 percent when stored in approved
+storage
+cabinets,
+gas cabinets
+,
+exhausted enclosures
+or listed safety cans. Listed safety cans shall be in accordance with the
+New York City Fire Code
+. Where Note d also applies, the increase for both notes shall be applied accumulatively.
+Quantities shall not be limited in a
+building
+protected throughout by a sprinkler system.
+Allowed only in buildings protected throughout by a sprinkler system.
+Containing not more than the maximum allowable quantity per
+control area
+of Class IA, Class IB or Class IC
+flammable liquids
+.
+The maximum allowable quantity shall not apply to fuel oil
+storage
+that complies with the requirements of
+Section 1305
+of the
+New York City Mechanical Code
+.
+Quantities shown in the table in parentheses have the units shown in parentheses at the head of the column.
+A maximum quantity of 200 pounds of
+solid
+or 20 gallons of
+liquid
+Class 3
+oxidizers
+is allowed when such
+materials
+are necessary for
+maintenance
+and
+operation
+of
+equipment
+when the
+storage
+containers and the manner of
+storage
+are approved.
+Reserved
+.
+For gallons of
+liquids
+, divide the amount in pounds by 10 in accordance with the
+New York City Fire Code
+.
+For
+storage
+and display quantities in
+Group M
+and
+storage
+quantities in
+Group S
+occupancies complying with the
+New York City Fire Code
+.
+For purposes of this table, gasoline and other
+flammable liquid
+motor fuels are classified as a Class IA
+flammable liquid
+.
+Unclassified detonable
+organic peroxides
+, detonable
+pyrophoric materials
+, detonable unstable (reactive)
+materials
+and detonable
+water-reactive materials
+shall be treated as
+explosives
+for purposes of
+storage
+,
+handling
+and use  in accordance with the
+New York City Fire Code
+.
+The maximum allowable quantities shall be limited by the
+New York City Fire Code
+for non-production laboratories classified as Occupancy
+Group B
+.
+For
+storage
+of flammable and
+combustible liquids
+in
+Group M
+occupancy, see the
+New York City Fire Code
+.
+Densely-packed
+baled cotton
+that complies with the packing requirements of ISO 8115 shall not be included in this material class.
+TABLE 307.1(2)
+MAXIMUM ALLOWABLE QUANTITY PER
+CONTROL AREA
+OF
+HAZARDOUS MATERIAL
+POSING A
+HEALTH HAZARD
+a, b, c, i, j
+MATERIAL
+STORAGE
+d
+USE-
+CLOSED SYSTEMS
+d
+USE-
+OPEN SYSTEMS
+d
+Solid
+pounds
+Liquid
+gallons
+(pounds)
+e
+Gas
+SCF
+e
+(pounds)
+Solid
+pounds
+e
+Liquid
+gallons
+(pounds)
+e
+Gas
+SCF
+e
+(pounds)
+Solid
+pounds
+e
+Liquid
+gallons
+(pounds)
+e
+Corrosive
+5,000
+500
+Gaseous 810
+f
+Liquefied (150)
+h
+5,000
+500
+Gaseous 810
+f
+Liquefied (150)
+h
+1,000
+100
+Highly
+toxic
+10
+(10)
+h
+Gaseous 20
+g
+Liquefied (4)
+g, h
+10
+(10)
+h
+Gaseous 20
+g
+Liquefied (4)
+g, h
+3
+(3)
+h
+Toxic
+500
+(500)
+h
+Gaseous 810
+f
+Liquefied (150)
+f, h
+500
+(500)
+h
+Gaseous 810
+f
+Liquefied (150)
+f, h
+125
+(125)
+h
+For SI: 1 cubic foot = 0.028 m
+3
+, 1 pound = 0.454 kg, 1 gallon = 3.785 L.
+For use of
+control areas
+, see the
+New York City Fire Code
+and
+Section 414.2
+of this code.
+In retail and wholesale sales occupancies, the quantities of medicines, foodstuffs, consumer or industrial products, and cosmetics, containing not more than 50 percent by volume of water-miscible
+liquids
+and with the remainder of the solutions not being flammable, shall not be limited, provided that such
+materials
+are packaged in individual containers not exceeding 1.3 gallons.
+For
+storage
+and display quantities in
+Group M
+and
+storage
+quantities in
+Group S
+occupancies complying with the
+New York City Fire Code
+.
+The aggregate quantity in
+storage
+,
+handling
+and use shall not exceed the quantity listed for
+storage
+.
+Maximum allowable quantities shall be increased 100 percent in buildings equipped throughout with an approved
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+. Where Note f also applies, the increase for both notes shall be applied accumulatively.
+Maximum allowable quantities may be increased 100 percent when stored in approved
+storage
+cabinets,
+gas cabinets
+or
+exhausted enclosures
+as specified in the
+New York City Fire Code
+. Where Note e also applies, the increase for both notes shall be applied accumulatively.
+Allowed only when stored in approved exhausted
+gas cabinets
+or
+exhausted enclosures
+as specified in the
+New York City Fire Code
+.
+Quantities shown in the table in parenthesis have the units shown in parenthesis at the head of the column.
+For gallons of
+liquids
+, divide the amount in pounds by 10 in accordance with the
+New York City Fire Code
+.
+The maximum allowable quantities shall be limited by Section 427 for chemical laboratories classified as Occupancy
+Group B
+and operating as nonproduction
+facilities
+for testing, research, experimental, instructional or education purposes.
+
+---
+
+High-hazard
+Group H
+occupancy includes, among others, the use of a
+building
+or structure, or a portion thereof, that involves the manufacturing, processing, generation or
+storage
+of
+materials
+that constitute a physical or
+health hazard
+in quantities in excess of those allowed in
+control areas
+complying with Section 414, based on the maximum allowable quantity limits for
+control areas
+set forth in Tables 307.1(1) and 307.1(2). Hazardous occupancies are classified in Groups
+H-1
+,
+H-2
+,
+H-3
+,
+H-4
+and
+H-5
+and shall be in accordance with this section, the requirements of Section 415 and the
+New York City Fire Code
+.
+TABLE 307.1(1)
+MAXIMUM ALLOWABLE QUANTITY PER
+CONTROL AREA
+OF
+HAZARDOUS MATERIALS
+POSING A
+PHYSICAL HAZARD
+a, j, m, n, q
+MATERIAL
+CLASS
+GROUP
+WHEN THE
+MAXIMUM
+ALLOWABLE
+QUANTITY IS
+EXCEEDED
+q
+STORAGE
+b
+USE-
+CLOSED SYSTEMS
+b
+USE-
+OPEN SYSTEMS
+b
+Solid
+pounds
+(cubic feet)
+Liquid
+gallons
+(pounds)
+Gas
+SCF
+Solid
+pounds
+(cubic feet)
+Liquid
+gallons
+(pounds)
+Gas
+SCF
+Solid
+pounds
+(cubic feet)
+Liquid
+gallons
+(pounds)
+Combustible
+liquid
+c, i, r
+II
+H-2
+or
+H-3
+Not
+Applicable
+120
+d, e
+Not
+Applicable
+Not
+Applicable
+120
+d
+Not
+Applicable
+Not
+Applicable
+30
+d
+IIIA
+H-2
+or
+H-3
+330
+d, e
+330
+d
+80
+d
+IIIB
+Not
+Applicable
+13,200
+e, f
+13,200
+f
+3,300
+f
+Combustible fiber
+Loose
+H-3
+(100)
+Not
+Applicable
+Not
+Applicable
+(100)
+Not
+Applicable
+Not
+Applicable
+(20)
+Not
+Applicable
+Baled
+s
+(1,000)
+(1,000)
+(200)
+Cryogenics flammable
+Not
+Applicable
+H-2
+Not
+Applicable
+45
+d
+Not
+Applicable
+Not
+Applicable
+45
+d
+Not
+Applicable
+Not
+Applicable
+10
+d
+Cryogenics oxidizing
+Not
+Applicable
+H-3
+Not
+Applicable
+45
+d
+Not
+Applicable
+Not
+Applicable
+45
+d
+Not
+Applicable
+Not
+Applicable
+10
+d
+Explosives
+Division 1.1
+H-1
+1
+e, g
+(1)
+e, g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+Division 1.2
+H-1
+1
+e, g
+(1)
+e, g
+0.25
+g
+(0.25)
+g
+0.25
+g
+(0.25)
+g
+Division 1.3
+H-1
+or
+H-2
+5
+e, g
+(5)
+e, g
+1
+g
+(1)
+g
+1
+g
+(1)
+g
+Division 1.4
+H-3
+50
+e, g
+(50)
+e, g
+50
+g
+(50)
+g
+Not
+Applicable
+Not
+Applicable
+Division 1.4G
+H-3
+125
+d, e, l
+Not Applicable
+Not Applicable
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+Division 1.5
+H-1
+1
+e, g
+(1)
+e, g
+0.25
+g
+(0.25)
+g
+0.25
+g
+(0.25
+g
+)
+Division 1.6
+H-1
+1
+d, e, g
+Not Applicable
+Not Applicable
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+Flammable gas
+Gaseous
+H-2
+Not
+Applicable
+Not
+Applicable
+1,000
+d, e
+Not
+Applicable
+Not
+Applicable
+1,000
+d, e
+Not
+Applicable
+Not
+Applicable
+Liquefied
+(150)
+d, e
+Not
+Applicable
+(150)
+d, e
+Not
+Applicable
+Flammable liquids
+c, k
+IA
+o
+H-2
+or
+H-3
+Not
+Applicable
+30
+d, e
+Not
+Applicable
+Not
+Applicable
+30
+d
+Not
+Applicable
+Not
+Applicable
+10
+d
+IB and IC
+120
+d, e
+120
+d
+30
+d
+Combination
+Flammable liquid
+(IA
+o
+, IB, IC)
+Not
+Applicable
+H-2
+or
+H-3
+Not
+Applicable
+120
+d, e, h
+Not
+Applicable
+Not
+Applicable
+120
+d, h
+Not
+Applicable
+Not
+Applicable
+30
+d, h
+Flammable solids
+Pigs, ingots, billets, heavy castings
+Light castings, light metallic products
+Scraps, shavings, powders, dusts
+All others
+Not
+Applicable
+H-3
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+1,000
+d, e
+1,000
+d
+1,000
+d
+125
+d, e
+125
+d
+25
+d
+1
+d, e
+1
+d
+1
+d
+125
+d, e
+125
+d
+25
+d
+Inert gas
+Gaseous
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+Not
+Limited
+Not
+Applicable
+Not
+Applicable
+Not
+Limited
+Not
+Applicable
+Not
+Applicable
+Liquefied
+Cryogenic inert
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+Not
+Applicable
+Not
+Limited
+Not
+Applicable
+Not
+Applicable
+Not
+Limited
+Not
+Applicable
+Not
+Applicable
+Organic peroxide
+p
+Unclassified
+Detonable
+H-1
+1
+e, g
+(1)
+e, g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+I
+H-2
+5
+d, e
+(5)
+d, e
+1
+d
+(1)
+d
+1
+d
+(1)
+d
+II
+H-3
+50
+d, e
+(50)
+d, e
+50
+d
+(50)
+d
+10
+d
+(10)
+d
+III
+H-3
+125
+d, e
+(125)
+d, e
+125
+d
+(125)
+d
+25
+d
+(25)
+d
+IV
+Not
+Applicable
+Not
+Limited
+Not
+Limited
+Not
+Limited
+No
+Limited
+Not
+Limited
+Not
+Limited
+V
+Not
+Applicable
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Oxidizer
+4
+H-1
+1
+g
+(1)
+e, g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+3
+k
+H-2
+10
+d, e
+(10)
+d, e
+2
+d
+(2)
+d
+2
+d
+(2)
+d
+2
+H-3
+250
+d, e
+(250)
+d, e
+250
+d
+(250)
+d
+50
+d
+(50)
+d
+1
+H-3
+4,000
+e,f
+(4,000)
+e,f
+4,000
+f
+(4,000)
+f
+1,000
+f
+(1,000)
+f
+Oxidizing gas
+Gaseous
+H-3
+Not
+Applicable
+Not
+Applicable
+1,500
+d, e
+Not
+Applicable
+Not
+Applicable
+1,500
+d, e
+Not
+Applicable
+Not
+Applicable
+Liquefied
+(150)
+d, e
+Not
+Applicable
+(150)
+d, e
+Not
+Applicable
+Pyrophoric material
+p
+detonable
+Not
+Applicable
+H-1
+1
+e, g
+(1)
+e, g
+10
+e, g
+0.25
+g
+(0.25)
+g
+2
+e, g
+0
+0
+Pyrophoric material
+nondetonable
+Not
+Applicable
+H-2
+4
+e, g
+(4)
+e, g
+50
+e, g
+1
+g
+(1)
+g
+10
+e, g
+0
+0
+Unstable (reactive)
+p
+detonable
+4
+H-1
+1
+e, g
+(1)
+e, g
+10
+e, g
+0.25
+g
+(0.25)
+g
+2
+e, g
+0.25
+g
+(0.25)
+g
+3
+H-1
+1
+e, g
+(1)
+e, g
+10
+e, g
+0.25
+g
+(0.25)
+g
+2
+e, g
+0.25
+g
+(0.25)
+g
+Unstable (reactive) nondetonable
+4
+H-1
+1
+e, g
+(1)
+e, g
+10
+e, g
+0.25
+g
+(0.25)
+g
+2
+e, g
+0.25
+g
+(0.25)
+g
+3
+H-1
+or
+H-2
+5
+d, e
+(5)
+d, e
+50
+d, e
+1
+d
+(1)
+d
+10
+d, e
+1
+d
+(1)
+d
+2
+H-3
+50
+d, e
+(50)
+d, e
+250
+d, e
+50
+d
+(50)
+d
+250
+d, e
+10
+d
+(10)
+d
+1
+Not Applicable
+Not
+Limited
+Not Limited
+750
+d, e
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Water-reactive detonable
+p
+3
+H-1
+1
+e, g
+(1)
+e, g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+Not
+Applicable
+0.25
+g
+(0.25)
+g
+2
+H-1
+1
+e, g
+(1)
+e, g
+0.25
+g
+(0.25)
+g
+0.25
+g
+(0.25)
+g
+Water-reactive nondetonable
+3
+H-2
+5
+d, e
+(5)
+d, e
+Not
+Applicable
+5
+d
+(5)
+d
+Not
+Applicable
+1
+d
+(1)
+d
+2
+H-3
+50
+d, e
+(50)
+d, e
+50
+d
+(50)
+d
+10
+d
+(10)
+d
+1
+Not Applicable
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+Not
+Limited
+For SI: 1 cubic foot = 0.028 m
+3
+, 1 pound = 0.454 kg, 1 gallon = 3.785 L.
+For use of
+control areas
+, see the
+New York City Fire Code
+and
+Section 414.2
+of this code..
+The aggregate quantity in
+storage
+,
+handling
+and use shall not exceed the quantity listed for
+storage
+.
+The quantities of alcoholic beverages in retail and wholesale sales occupancies shall not be limited providing the
+liquids
+are packaged in individual containers not exceeding 1.3 gallons. In retail and wholesale sales occupancies, the quantities of medicines, foodstuffs, consumer or industrial products, and cosmetics containing not more than 50 percent by volume of water-miscible
+liquids
+with the remainder of the solutions not being flammable shall not be limited, provided that such
+materials
+are packaged in individual containers not exceeding 1.3 gallons.
+Maximum allowable quantities, except for liquefied petroleum gas and
+flammable liquid
+motor fuel, shall be increased 100 percent in buildings protected throughout by a sprinkler system. Where Note e also applies, the increase for both notes shall be applied accumulatively.
+Maximum allowable quantities, except for liquefied petroleum gas and
+flammable liquid
+motor fuel, shall be increased 100 percent when stored in approved
+storage
+cabinets,
+gas cabinets
+,
+exhausted enclosures
+or listed safety cans. Listed safety cans shall be in accordance with the
+New York City Fire Code
+. Where Note d also applies, the increase for both notes shall be applied accumulatively.
+Quantities shall not be limited in a
+building
+protected throughout by a sprinkler system.
+Allowed only in buildings protected throughout by a sprinkler system.
+Containing not more than the maximum allowable quantity per
+control area
+of Class IA, Class IB or Class IC
+flammable liquids
+.
+The maximum allowable quantity shall not apply to fuel oil
+storage
+that complies with the requirements of
+Section 1305
+of the
+New York City Mechanical Code
+.
+Quantities shown in the table in parentheses have the units shown in parentheses at the head of the column.
+A maximum quantity of 200 pounds of
+solid
+or 20 gallons of
+liquid
+Class 3
+oxidizers
+is allowed when such
+materials
+are necessary for
+maintenance
+and
+operation
+of
+equipment
+when the
+storage
+containers and the manner of
+storage
+are approved.
+Reserved
+.
+For gallons of
+liquids
+, divide the amount in pounds by 10 in accordance with the
+New York City Fire Code
+.
+For
+storage
+and display quantities in
+Group M
+and
+storage
+quantities in
+Group S
+occupancies complying with the
+New York City Fire Code
+.
+For purposes of this table, gasoline and other
+flammable liquid
+motor fuels are classified as a Class IA
+flammable liquid
+.
+Unclassified detonable
+organic peroxides
+, detonable
+pyrophoric materials
+, detonable unstable (reactive)
+materials
+and detonable
+water-reactive materials
+shall be treated as
+explosives
+for purposes of
+storage
+,
+handling
+and use  in accordance with the
+New York City Fire Code
+.
+The maximum allowable quantities shall be limited by the
+New York City Fire Code
+for non-production laboratories classified as Occupancy
+Group B
+.
+For
+storage
+of flammable and
+combustible liquids
+in
+Group M
+occupancy, see the
+New York City Fire Code
+.
+Densely-packed
+baled cotton
+that complies with the packing requirements of ISO 8115 shall not be included in this material class.
+TABLE 307.1(2)
+MAXIMUM ALLOWABLE QUANTITY PER
+CONTROL AREA
+OF
+HAZARDOUS MATERIAL
+POSING A
+HEALTH HAZARD
+a, b, c, i, j
+MATERIAL
+STORAGE
+d
+USE-
+CLOSED SYSTEMS
+d
+USE-
+OPEN SYSTEMS
+d
+Solid
+pounds
+Liquid
+gallons
+(pounds)
+e
+Gas
+SCF
+e
+(pounds)
+Solid
+pounds
+e
+Liquid
+gallons
+(pounds)
+e
+Gas
+SCF
+e
+(pounds)
+Solid
+pounds
+e
+Liquid
+gallons
+(pounds)
+e
+Corrosive
+5,000
+500
+Gaseous 810
+f
+Liquefied (150)
+h
+5,000
+500
+Gaseous 810
+f
+Liquefied (150)
+h
+1,000
+100
+Highly
+toxic
+10
+(10)
+h
+Gaseous 20
+g
+Liquefied (4)
+g, h
+10
+(10)
+h
+Gaseous 20
+g
+Liquefied (4)
+g, h
+3
+(3)
+h
+Toxic
+500
+(500)
+h
+Gaseous 810
+f
+Liquefied (150)
+f, h
+500
+(500)
+h
+Gaseous 810
+f
+Liquefied (150)
+f, h
+125
+(125)
+h
+For SI: 1 cubic foot = 0.028 m
+3
+, 1 pound = 0.454 kg, 1 gallon = 3.785 L.
+For use of
+control areas
+, see the
+New York City Fire Code
+and
+Section 414.2
+of this code.
+In retail and wholesale sales occupancies, the quantities of medicines, foodstuffs, consumer or industrial products, and cosmetics, containing not more than 50 percent by volume of water-miscible
+liquids
+and with the remainder of the solutions not being flammable, shall not be limited, provided that such
+materials
+are packaged in individual containers not exceeding 1.3 gallons.
+For
+storage
+and display quantities in
+Group M
+and
+storage
+quantities in
+Group S
+occupancies complying with the
+New York City Fire Code
+.
+The aggregate quantity in
+storage
+,
+handling
+and use shall not exceed the quantity listed for
+storage
+.
+Maximum allowable quantities shall be increased 100 percent in buildings equipped throughout with an approved
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+. Where Note f also applies, the increase for both notes shall be applied accumulatively.
+Maximum allowable quantities may be increased 100 percent when stored in approved
+storage
+cabinets,
+gas cabinets
+or
+exhausted enclosures
+as specified in the
+New York City Fire Code
+. Where Note e also applies, the increase for both notes shall be applied accumulatively.
+Allowed only when stored in approved exhausted
+gas cabinets
+or
+exhausted enclosures
+as specified in the
+New York City Fire Code
+.
+Quantities shown in the table in parenthesis have the units shown in parenthesis at the head of the column.
+For gallons of
+liquids
+, divide the amount in pounds by 10 in accordance with the
+New York City Fire Code
+.
+The maximum allowable quantities shall be limited by Section 427 for chemical laboratories classified as Occupancy
+Group B
+and operating as nonproduction
+facilities
+for testing, research, experimental, instructional or education purposes.
+
+---
+
+## Section 307.1.1: Uses Other Than Group H
+
+307.1.1 Uses Other Than Group H
+An occupancy that stores, uses or handles
+hazardous materials
+as described in one or more of the following items shall not be classified as Group H, but shall be classified as the occupancy that it most nearly resembles.
+Buildings and structures occupied for the
+application
+of flammable finishes, provided that such buildings or areas conform to the requirements of the
+New York City Fire Code
+and Section 416 of this code.
+Wholesale and retail sales and
+storage
+of flammable and
+combustible liquids
+in mercantile occupancies conforming to the
+New York City Fire Code
+.
+Closed piping system containing flammable or
+combustible liquids
+or gases utilized for the
+operation
+of machinery or
+equipment
+.
+Cleaning establishments that utilize
+combustible liquid
+solvents having a
+flash point
+of 140°F (60°C) or higher in
+closed systems
+employing
+equipment
+listed by an approved testing agency, provided that this occupancy is separated from all other areas of the
+building
+by 1-hour
+fire barriers
+constructed in accordance with Section 707 or 1-hour
+horizontal assemblies
+constructed in accordance with Section 711, or both.
+Cleaning establishments that utilize a
+liquid
+solvent having a
+flash point
+at or above 200°F (93°C).
+Liquor stores and distributors without bulk
+storage
+.
+Refrigeration systems.
+The
+storage
+or utilization of
+materials
+for
+agricultural
+purposes on the premises.
+Stationary batteries utilized for
+facility
+emergency or standby power, uninterruptable power supply or telecommunication
+facilities
+, provided that the batteries are provided with safety venting caps and
+ventilation
+is provided in accordance with the
+New York City Mechanical Code
+.
+Corrosive personal or household products in their original packaging used in retail display.
+Commonly used corrosive
+building
+materials
+.
+Buildings and structures occupied for
+aerosol
+storage
+shall be classified as Group
+S-1
+, provided that such buildings conform to the requirements of the
+New York City Fire Code
+.
+Display and
+storage
+of nonflammable
+solid
+and nonflammable or noncombustible
+liquid
+hazardous materials
+in quantities not exceeding the maximum allowable quantity per
+control area
+in
+Group M
+or S occupancies complying with
+Section 414.2.5
+.
+The
+storage
+of black powder, smokeless propellant and small arms primers in Groups M and
+R-3
+and special industrial
+explosive
+devices in Groups B, F, M and
+S
+, provided such
+storage
+conforms to the quantity limits and requirements prescribed in the
+New York City Fire Code
+.
+Laboratories for nonproduction testing, research, experimental, instructional or educational purposes, in compliance with Section 427.
+
+---
+
+An occupancy that stores, uses or handles
+hazardous materials
+as described in one or more of the following items shall not be classified as Group H, but shall be classified as the occupancy that it most nearly resembles.
+Buildings and structures occupied for the
+application
+of flammable finishes, provided that such buildings or areas conform to the requirements of the
+New York City Fire Code
+and Section 416 of this code.
+Wholesale and retail sales and
+storage
+of flammable and
+combustible liquids
+in mercantile occupancies conforming to the
+New York City Fire Code
+.
+Closed piping system containing flammable or
+combustible liquids
+or gases utilized for the
+operation
+of machinery or
+equipment
+.
+Cleaning establishments that utilize
+combustible liquid
+solvents having a
+flash point
+of 140°F (60°C) or higher in
+closed systems
+employing
+equipment
+listed by an approved testing agency, provided that this occupancy is separated from all other areas of the
+building
+by 1-hour
+fire barriers
+constructed in accordance with Section 707 or 1-hour
+horizontal assemblies
+constructed in accordance with Section 711, or both.
+Cleaning establishments that utilize a
+liquid
+solvent having a
+flash point
+at or above 200°F (93°C).
+Liquor stores and distributors without bulk
+storage
+.
+Refrigeration systems.
+The
+storage
+or utilization of
+materials
+for
+agricultural
+purposes on the premises.
+Stationary batteries utilized for
+facility
+emergency or standby power, uninterruptable power supply or telecommunication
+facilities
+, provided that the batteries are provided with safety venting caps and
+ventilation
+is provided in accordance with the
+New York City Mechanical Code
+.
+Corrosive personal or household products in their original packaging used in retail display.
+Commonly used corrosive
+building
+materials
+.
+Buildings and structures occupied for
+aerosol
+storage
+shall be classified as Group
+S-1
+, provided that such buildings conform to the requirements of the
+New York City Fire Code
+.
+Display and
+storage
+of nonflammable
+solid
+and nonflammable or noncombustible
+liquid
+hazardous materials
+in quantities not exceeding the maximum allowable quantity per
+control area
+in
+Group M
+or S occupancies complying with
+Section 414.2.5
+.
+The
+storage
+of black powder, smokeless propellant and small arms primers in Groups M and
+R-3
+and special industrial
+explosive
+devices in Groups B, F, M and
+S
+, provided such
+storage
+conforms to the quantity limits and requirements prescribed in the
+New York City Fire Code
+.
+Laboratories for nonproduction testing, research, experimental, instructional or educational purposes, in compliance with Section 427.
+
+---
+
+## Section 307.1.2: Hazardous Materials
+
+307.1.2 Hazardous Materials
+Hazardous materials
+in any quantity shall conform to the
+requirements of this code, including
+Section 414
+of this code, and the
+New York City Fire Code
+.
+
+---
+
+Hazardous materials
+in any quantity shall conform to the
+requirements of this code, including
+Section 414
+of this code, and the
+New York City Fire Code
+.
+
+---
+
+## Section 307.2: Definitions
+
+307.2 Definitions
+The following terms are defined in
+Chapter 2
+:
+AEROSOL
+.
+Level 1
+.
+Level 2
+.
+Level 3
+.
+BALED COTTON
+.
+BALED COTTON, DENSELY PACKED
+.
+BARRICADE
+.
+Artificial barricade
+.
+Natural barricade
+.
+BOILING POINT
+.
+CLOSED SYSTEM
+.
+COMBUSTIBLE DUST
+.
+COMBUSTIBLE FIBERS
+.
+COMBUSTIBLE LIQUID
+.
+Class II.
+Class IIIA.
+Class IIIB.
+COMPRESSED GAS
+.
+CONTROL AREA
+.
+CORROSIVE MATERIAL
+.
+CRYOGENIC FLUID
+.
+DAY BOX
+.
+DEFLAGRATION
+.
+DETONATION
+.
+DISPENSING
+.
+EXPLOSION
+.
+EXPLOSIVE
+.
+High explosive
+.
+Low explosive
+.
+Mass-detonating explosives
+.
+UN/DOTn Class 1 explosives
+.
+Division 1.1.
+Division 1.2.
+Division 1.3.
+Division 1.4.
+Division 1.5
+.
+Division 1.6.
+FIREWORKS
+.
+Fireworks, 1.3G
+.
+Fireworks, 1.4G
+.
+FLAMMABLE GAS
+.
+FLAMMABLE LIQUEFIED GAS
+.
+FLAMMABLE LIQUID
+.
+Class IA.
+Class IB.
+Class IC.
+FLAMMABLE MATERIAL
+.
+FLAMMABLE SOLID
+.
+FLASH POINT
+.
+HANDLING.
+HAZARDOUS MATERIALS
+.
+HEALTH HAZARD
+.
+HIGHLY TOXIC MATERIAL
+.
+INCOMPATIBLE MATERIALS
+.
+INERT GAS
+.
+OPEN SYSTEM
+.
+ORGANIC PEROXIDE
+.
+Class I.
+Class II.
+Class III.
+Class IV.
+Class
+V
+.
+Unclassified detonable
+.
+OXIDIZER
+.
+Class 4.
+Class 3.
+Class 2.
+Class 1.
+OXIDIZING GAS
+.
+PHYSICAL HAZARD
+.
+PYROPHORIC MATERIAL
+.
+PYROTECHNIC MATERIAL
+.
+STANDARD CUBIC FEET
+(
+SCF
+).
+TOXIC MATERIAL
+.
+UNSTABLE (REACTIVE) MATERIAL
+.
+Class 4.
+Class 3.
+Class 2.
+Class 1.
+WATER-REACTIVE MATERIAL
+.
+Class 3.
+Class 2.
+Class 1.
+
+---
+
+The following terms are defined in
+Chapter 2
+:
+AEROSOL
+.
+Level 1
+.
+Level 2
+.
+Level 3
+.
+BALED COTTON
+.
+BALED COTTON, DENSELY PACKED
+.
+BARRICADE
+.
+Artificial barricade
+.
+Natural barricade
+.
+BOILING POINT
+.
+CLOSED SYSTEM
+.
+COMBUSTIBLE DUST
+.
+COMBUSTIBLE FIBERS
+.
+COMBUSTIBLE LIQUID
+.
+Class II.
+Class IIIA.
+Class IIIB.
+COMPRESSED GAS
+.
+CONTROL AREA
+.
+CORROSIVE MATERIAL
+.
+CRYOGENIC FLUID
+.
+DAY BOX
+.
+DEFLAGRATION
+.
+DETONATION
+.
+DISPENSING
+.
+EXPLOSION
+.
+EXPLOSIVE
+.
+High explosive
+.
+Low explosive
+.
+Mass-detonating explosives
+.
+UN/DOTn Class 1 explosives
+.
+Division 1.1.
+Division 1.2.
+Division 1.3.
+Division 1.4.
+Division 1.5
+.
+Division 1.6.
+FIREWORKS
+.
+Fireworks, 1.3G
+.
+Fireworks, 1.4G
+.
+FLAMMABLE GAS
+.
+FLAMMABLE LIQUEFIED GAS
+.
+FLAMMABLE LIQUID
+.
+Class IA.
+Class IB.
+Class IC.
+FLAMMABLE MATERIAL
+.
+FLAMMABLE SOLID
+.
+FLASH POINT
+.
+HANDLING.
+HAZARDOUS MATERIALS
+.
+HEALTH HAZARD
+.
+HIGHLY TOXIC MATERIAL
+.
+INCOMPATIBLE MATERIALS
+.
+INERT GAS
+.
+OPEN SYSTEM
+.
+ORGANIC PEROXIDE
+.
+Class I.
+Class II.
+Class III.
+Class IV.
+Class
+V
+.
+Unclassified detonable
+.
+OXIDIZER
+.
+Class 4.
+Class 3.
+Class 2.
+Class 1.
+OXIDIZING GAS
+.
+PHYSICAL HAZARD
+.
+PYROPHORIC MATERIAL
+.
+PYROTECHNIC MATERIAL
+.
+STANDARD CUBIC FEET
+(
+SCF
+).
+TOXIC MATERIAL
+.
+UNSTABLE (REACTIVE) MATERIAL
+.
+Class 4.
+Class 3.
+Class 2.
+Class 1.
+WATER-REACTIVE MATERIAL
+.
+Class 3.
+Class 2.
+Class 1.
+
+---
+
+## Section 307.3: High-Hazard Group H-1
+
+307.3 High-Hazard Group H-1
+Buildings and structures containing
+materials
+that pose a
+detonation
+hazard shall be classified as
+Group H
+-1. Such
+materials
+shall include, but not be limited to, the following:
+Detonable
+pyrophoric materials
+Explosives
+:
+Division 1.1
+Division 1.2
+Division 1.3
+Division 1.4
+Division 1.5
+Division 1.6
+Organic peroxides
+,
+unclassified detonable
+Oxidizers
+, Class 4
+Unstable (reactive)
+materials
+, Class
+3
+detonable and Class 4
+
+---
+
+Buildings and structures containing
+materials
+that pose a
+detonation
+hazard shall be classified as
+Group H
+-1. Such
+materials
+shall include, but not be limited to, the following:
+Detonable
+pyrophoric materials
+Explosives
+:
+Division 1.1
+Division 1.2
+Division 1.3
+Division 1.4
+Division 1.5
+Division 1.6
+Organic peroxides
+,
+unclassified detonable
+Oxidizers
+, Class 4
+Unstable (reactive)
+materials
+, Class
+3
+detonable and Class 4
+
+---
+
+## Section 307.3.1: Occupancies Containing Explosives Not Classified as H-1
+
+307.3.1 Occupancies Containing Explosives Not Classified as H-1
+The following occupancies
+ containing
+explosive
+materials
+shall be classified
+as follows
+:
+Division 1.3
+explosive
+materials
+that are used and maintained in a form where either
+confinement or configuration will not elevate the hazard from a mass fire to mass
+explosion
+hazard shall be allowed in
+H-2
+occupancies.
+Articles, including articles packaged for shipment, that are not regulated as a Division
+ 1.4
+explosive
+under Bureau of Alcohol, Tobacco, Firearms and
+Explosives
+regulations, or unpackaged articles used in process
+operations
+that do not
+ propagate a
+detonation
+or
+deflagration
+between articles shall be allowed in
+H-3
+occupancies.
+No part of this section shall be construed to authorize the manufacture,
+storage
+, sale or
+use
+of
+explosives
+, including
+fireworks
+, if otherwise prohibited by the
+New York City Fire Code
+and unless
+ in compliance with the requirements of the
+New York City Fire Code
+.
+
+---
+
+The following occupancies
+ containing
+explosive
+materials
+shall be classified
+as follows
+:
+Division 1.3
+explosive
+materials
+that are used and maintained in a form where either
+confinement or configuration will not elevate the hazard from a mass fire to mass
+explosion
+hazard shall be allowed in
+H-2
+occupancies.
+Articles, including articles packaged for shipment, that are not regulated as a Division
+ 1.4
+explosive
+under Bureau of Alcohol, Tobacco, Firearms and
+Explosives
+regulations, or unpackaged articles used in process
+operations
+that do not
+ propagate a
+detonation
+or
+deflagration
+between articles shall be allowed in
+H-3
+occupancies.
+No part of this section shall be construed to authorize the manufacture,
+storage
+, sale or
+use
+of
+explosives
+, including
+fireworks
+, if otherwise prohibited by the
+New York City Fire Code
+and unless
+ in compliance with the requirements of the
+New York City Fire Code
+.
+
+---
+
+## Section 307.4: High-Hazard Group H-2
+
+307.4 High-Hazard Group H-2
+Buildings and structures containing
+materials
+that pose a
+deflagration
+hazard or a hazard from accelerated burning shall be classified as
+Group H
+-2. Such
+materials
+shall include, but not be limited to, the following:
+Class I, II or IIIA flammable or
+combustible liquids
+that are used or stored in normally open containers or systems, or in closed containers or systems pressurized at more than 15 pounds per square inch gauge (103.4 kPa)
+Combustible dusts
+where manufactured, generated or used in such a manner that the concentration
+ and conditions create a fire or
+explosion
+hazard based on information prepared in accordance
+ with
+Section 414.1.3
+Cryogenic fluids
+, flammable
+Flammable gases
+Organic peroxides
+, Class I
+Oxidizers
+, Class 3, that are used or stored in normally open containers or systems, or in closed containers or systems pressurized at more than 15 pounds per square
+ inch gauge (103 kPa)
+Pyrophoric
+liquids
+,
+solids
+and gases, nondetonable
+Unstable (reactive)
+materials
+, Class
+3
+, nondetonable
+Water-reactive materials
+, Class 3, nondetonable
+No part of this section shall be construed to authorize an LPG-distribution
+facility
+if otherwise prohibited by the
+New York City Fire Code
+.
+
+---
+
+Buildings and structures containing
+materials
+that pose a
+deflagration
+hazard or a hazard from accelerated burning shall be classified as
+Group H
+-2. Such
+materials
+shall include, but not be limited to, the following:
+Class I, II or IIIA flammable or
+combustible liquids
+that are used or stored in normally open containers or systems, or in closed containers or systems pressurized at more than 15 pounds per square inch gauge (103.4 kPa)
+Combustible dusts
+where manufactured, generated or used in such a manner that the concentration
+ and conditions create a fire or
+explosion
+hazard based on information prepared in accordance
+ with
+Section 414.1.3
+Cryogenic fluids
+, flammable
+Flammable gases
+Organic peroxides
+, Class I
+Oxidizers
+, Class 3, that are used or stored in normally open containers or systems, or in closed containers or systems pressurized at more than 15 pounds per square
+ inch gauge (103 kPa)
+Pyrophoric
+liquids
+,
+solids
+and gases, nondetonable
+Unstable (reactive)
+materials
+, Class
+3
+, nondetonable
+Water-reactive materials
+, Class 3, nondetonable
+No part of this section shall be construed to authorize an LPG-distribution
+facility
+if otherwise prohibited by the
+New York City Fire Code
+.
+
+---
+
+## Section 307.5: High-Hazard Group H-3
+
+307.5 High-Hazard Group H-3
+Buildings and structures containing
+materials
+that readily support combustion or that pose a
+physical hazard
+shall be classified as
+Group H
+-3. Such
+materials
+shall include, but not be limited to, the following:
+Class I, II or IIIA flammable or
+combustible liquids
+that are used or stored in normally closed containers or systems pressurized at 15 pounds per square inch gauge (103 kPa) or less
+Combustible fibers
+, other than
+densely packed baled cotton
+, where manufactured, generated or used in such a manner that the concentration and conditions create a fire or
+explosion
+hazard based on information prepared in accordance with
+Section 414.1.3
+Cryogenic fluids
+, oxidizing
+Flammable solids
+Organic peroxides
+, Class II and III
+Oxidizers
+, Class 1 and 2
+Oxidizing gases
+Unstable (reactive)
+materials
+, Class
+2
+Water-reactive materials
+, Class 2, nondetonable
+
+---
+
+Buildings and structures containing
+materials
+that readily support combustion or that pose a
+physical hazard
+shall be classified as
+Group H
+-3. Such
+materials
+shall include, but not be limited to, the following:
+Class I, II or IIIA flammable or
+combustible liquids
+that are used or stored in normally closed containers or systems pressurized at 15 pounds per square inch gauge (103 kPa) or less
+Combustible fibers
+, other than
+densely packed baled cotton
+, where manufactured, generated or used in such a manner that the concentration and conditions create a fire or
+explosion
+hazard based on information prepared in accordance with
+Section 414.1.3
+Cryogenic fluids
+, oxidizing
+Flammable solids
+Organic peroxides
+, Class II and III
+Oxidizers
+, Class 1 and 2
+Oxidizing gases
+Unstable (reactive)
+materials
+, Class
+2
+Water-reactive materials
+, Class 2, nondetonable
+
+---
+
+## Section 307.6: High-Hazard Group H-4
+
+307.6 High-Hazard Group H-4
+Buildings and structures containing
+materials
+that are
+health hazards
+shall be classified as
+Group H
+-4. Such
+materials
+shall include, but not be limited to, the following:
+Corrosives
+Highly toxic materials
+Toxic materials
+
+---
+
+Buildings and structures containing
+materials
+that are
+health hazards
+shall be classified as
+Group H
+-4. Such
+materials
+shall include, but not be limited to, the following:
+Corrosives
+Highly toxic materials
+Toxic materials
+
+---
+
+## Section 307.7: High-Hazard Group H-5
+
+307.7 High-Hazard Group H-5
+Semiconductor fabrication
+facilities
+and comparable research and
+development
+areas in which
+hazardous production materials
+(
+HPM
+) are used and the aggregate quantity of
+materials
+is in excess of those listed in
+Tables 307.1(1)
+and
+307.1(2)
+shall be
+ classified as
+Group H
+-5. Such
+facilities
+and areas shall be designed and constructed in accordance with
+Section 415.11
+.
+
+---
+
+Semiconductor fabrication
+facilities
+and comparable research and
+development
+areas in which
+hazardous production materials
+(
+HPM
+) are used and the aggregate quantity of
+materials
+is in excess of those listed in
+Tables 307.1(1)
+and
+307.1(2)
+shall be
+ classified as
+Group H
+-5. Such
+facilities
+and areas shall be designed and constructed in accordance with
+Section 415.11
+.
+
+---
+
+## Section 307.8: Multiple Hazards
+
+307.8 Multiple Hazards
+Buildings and structures containing a material or
+materials
+representing hazards that are classified in one or more of Groups
+H-1
+,
+H-2
+,
+H-3
+and
+H-4
+shall conform to the code requirements for each of the occupancies so classified.
+
+---
+
+Buildings and structures containing a material or
+materials
+representing hazards that are classified in one or more of Groups
+H-1
+,
+H-2
+,
+H-3
+and
+H-4
+shall conform to the code requirements for each of the occupancies so classified.
+
+---
+
+Section BC 308 Institutional Group I
+
+---
+
+## Section 308.1: Institutional Group I
+
+308.1 Institutional Group I
+Institutional Group I occupancy includes, among others, the use of a
+building
+or structure, or a portion thereof, in which care or supervision is provided to persons who are or are not capable of self-preservation without physical assistance or in which persons are detained for penal or correctional purposes or in which the liberty of the occupants is restricted. Institutional occupancies shall be classified as Group
+I-1
+,
+I-2
+,
+I-3
+or
+I-4
+.
+
+---
+
+Institutional Group I occupancy includes, among others, the use of a
+building
+or structure, or a portion thereof, in which care or supervision is provided to persons who are or are not capable of self-preservation without physical assistance or in which persons are detained for penal or correctional purposes or in which the liberty of the occupants is restricted. Institutional occupancies shall be classified as Group
+I-1
+,
+I-2
+,
+I-3
+or
+I-4
+.
+
+---
+
+## Section 308.2: Definitions
+
+308.2 Definitions
+This section contains provisions for
+definitions
+of terms defined elsewhere in this
+ code as well as the terms with
+definitions specific to this section
+.
+
+---
+
+This section contains provisions for
+definitions
+of terms defined elsewhere in this
+ code as well as the terms with
+definitions specific to this section
+.
+
+---
+
+## Section 308.2.1: Terms Defined Elsewhere in This Code
+
+308.2.1 Terms Defined Elsewhere in This Code
+The following terms are defined in
+Chapter 2
+:
+24
+-HOUR BASIS
+.
+CARE SUITE
+.
+INCAPABLE OF SELF-PRESERVATION
+.
+
+---
+
+The following terms are defined in
+Chapter 2
+:
+24
+-HOUR BASIS
+.
+CARE SUITE
+.
+INCAPABLE OF SELF-PRESERVATION
+.
+
+---
+
+## Section 308.2.2: Definitions Specific to This Section
+
+308.2.2 Definitions Specific to This Section
+The following words and terms shall, for the purposes of this section, have the meanings shown herein:
+CHILD CARE
+FACILITIES
+.
+Facilities
+that provide care on a
+24-hour basis
+to more than 5 children, under the age of 2.
+DETOXIFICATION
+FACILITIES
+.
+Facilities
+that serve patients who are provided treatment for substance abuse on a
+24-hour basis
+and who are
+incapable of self-preservation
+or who are harmful to themselves or others.
+HOSPITALS AND PSYCHIATRIC CENTERS
+.
+Buildings or portions thereof used on a
+24-hour basis
+for the medical, psychiatric, obstetrical or surgical treatment of inpatients who are
+incapable of self-preservation
+.
+NURSING HOMES
+.
+Nursing homes are long-term care
+facilities
+on a
+24-hour basis
+, including both intermediate care
+facilities
+and skilled nursing
+facilities
+, serving more than five persons and any of the persons are
+incapable of self-preservation
+.
+
+---
+
+The following words and terms shall, for the purposes of this section, have the meanings shown herein:
+CHILD CARE
+FACILITIES
+.
+Facilities
+that provide care on a
+24-hour basis
+to more than 5 children, under the age of 2.
+DETOXIFICATION
+FACILITIES
+.
+Facilities
+that serve patients who are provided treatment for substance abuse on a
+24-hour basis
+and who are
+incapable of self-preservation
+or who are harmful to themselves or others.
+HOSPITALS AND PSYCHIATRIC CENTERS
+.
+Buildings or portions thereof used on a
+24-hour basis
+for the medical, psychiatric, obstetrical or surgical treatment of inpatients who are
+incapable of self-preservation
+.
+NURSING HOMES
+.
+Nursing homes are long-term care
+facilities
+on a
+24-hour basis
+, including both intermediate care
+facilities
+and skilled nursing
+facilities
+, serving more than five persons and any of the persons are
+incapable of self-preservation
+.
+
+---
+
+## Section 308.3: Institutional Group I-1
+
+308.3 Institutional Group I-1
+Institutional
+Group I
+-1 occupancy shall include buildings, structures or parts thereof housing persons, on a
+24-hour basis
+, who because of age, mental disability or other reasons, live in a supervised residential environment that provides
+personal care services
+. The occupants are capable of self-preservation and capable of responding to an emergency situation without physical assistance from staff. Such occupancy shall be subject to the
+New York State Multiple Dwelling Law
+. This group shall include, but not be limited to, the following:
+Adult homes, where occupants are capable of self-preservation (see
+Section 308.3.1
+)
+Alcohol and drug abuse rehabilitation centers
+Assisted living
+facilities
+Community residences or intermediate-care
+facilities
+(see
+Section 308.3.2
+)
+Congregate care
+facilities
+Convalescent
+facilities
+Enriched housing, where occupants are capable of self-preservation (see
+Section 308.3.1
+)
+Halfway houses
+Overnight
+facilities
+for children where all supervised occupants are under the age of 18, with no more than two children under the age of 2
+Residential care
+facilities
+Social rehabilitation
+facilities
+
+---
+
+Institutional
+Group I
+-1 occupancy shall include buildings, structures or parts thereof housing persons, on a
+24-hour basis
+, who because of age, mental disability or other reasons, live in a supervised residential environment that provides
+personal care services
+. The occupants are capable of self-preservation and capable of responding to an emergency situation without physical assistance from staff. Such occupancy shall be subject to the
+New York State Multiple Dwelling Law
+. This group shall include, but not be limited to, the following:
+Adult homes, where occupants are capable of self-preservation (see
+Section 308.3.1
+)
+Alcohol and drug abuse rehabilitation centers
+Assisted living
+facilities
+Community residences or intermediate-care
+facilities
+(see
+Section 308.3.2
+)
+Congregate care
+facilities
+Convalescent
+facilities
+Enriched housing, where occupants are capable of self-preservation (see
+Section 308.3.1
+)
+Halfway houses
+Overnight
+facilities
+for children where all supervised occupants are under the age of 18, with no more than two children under the age of 2
+Residential care
+facilities
+Social rehabilitation
+facilities
+
+---
+
+## Section 308.3.1: Adult Homes and Enriched Housing
+
+308.3.1 Adult Homes and Enriched Housing
+Adult homes and enriched housing
+facilities
+operated pursuant to and meeting the additional
+construction
+requirements of Section 460 of the
+New York State Social
+Services
+Law
+and regulations of the New York State Department of Health offering care on a
+24-hour basis
+to persons capable of self-preservation, in the same
+building
+, shall be classified as Group
+I-1
+.
+Exception:
+Such a
+facility
+offering supervised care on a
+24-hour basis
+for no more than 16 occupants capable of self-preservation, in the same
+building
+, may be classified in
+Group R
+in accordance with Section 310.
+
+---
+
+Adult homes and enriched housing
+facilities
+operated pursuant to and meeting the additional
+construction
+requirements of Section 460 of the
+New York State Social
+Services
+Law
+and regulations of the New York State Department of Health offering care on a
+24-hour basis
+to persons capable of self-preservation, in the same
+building
+, shall be classified as Group
+I-1
+.
+Exception:
+Such a
+facility
+offering supervised care on a
+24-hour basis
+for no more than 16 occupants capable of self-preservation, in the same
+building
+, may be classified in
+Group R
+in accordance with Section 310.
+
+---
+
+## Section 308.3.2: Community Residences or Intermediate-Care Facilities
+
+308.3.2 Community Residences or Intermediate-Care Facilities
+Community residences or intermediate-care
+facilities
+, operated pursuant to and meeting the additional
+construction
+requirements of the
+New York State Mental Hygiene Law
+and applicable regulations of the New York State Office of Mental Health and Office for People with Developmental Disabilities shall be classified as Group
+I-1
+.
+Exceptions:
+Such
+facilities
+limited to 14 residents capable of self-preservation and three staff members per
+dwelling unit
+shall be classified as:
+Group
+R-1
+, where such
+facility
+does not occupy more than two
+dwelling units
+in a
+residential
+building
+classified as
+R-1
+of Type I or II
+construction
+, or one
+dwelling unit
+in any other type of
+construction
+, and occupied on a transient basis; or
+Group
+R-2
+where such
+facility
+does not occupy more than two
+dwelling units
+in a
+residential
+building
+classified
+R-2
+of Type I or II
+construction
+, or one
+dwelling unit
+in any other type of
+construction
+, and occupied on a long-term basis; or
+Group
+R-3
+where the number of
+dwelling units
+in the
+building
+does not exceed two.
+
+---
+
+Community residences or intermediate-care
+facilities
+, operated pursuant to and meeting the additional
+construction
+requirements of the
+New York State Mental Hygiene Law
+and applicable regulations of the New York State Office of Mental Health and Office for People with Developmental Disabilities shall be classified as Group
+I-1
+.
+Exceptions:
+Such
+facilities
+limited to 14 residents capable of self-preservation and three staff members per
+dwelling unit
+shall be classified as:
+Group
+R-1
+, where such
+facility
+does not occupy more than two
+dwelling units
+in a
+residential
+building
+classified as
+R-1
+of Type I or II
+construction
+, or one
+dwelling unit
+in any other type of
+construction
+, and occupied on a transient basis; or
+Group
+R-2
+where such
+facility
+does not occupy more than two
+dwelling units
+in a
+residential
+building
+classified
+R-2
+of Type I or II
+construction
+, or one
+dwelling unit
+in any other type of
+construction
+, and occupied on a long-term basis; or
+Group
+R-3
+where the number of
+dwelling units
+in the
+building
+does not exceed two.
+
+---
+
+## Section 308.4: Institutional Group I-2
+
+308.4 Institutional Group I-2
+Institutional
+Group I
+-2 shall include buildings and structures used for medical, surgical, psychiatric, nursing or personal care on a
+24-hour basis
+or overnight of more than two children under the age of 2, or more than three persons who are not capable of self-preservation and not capable of responding to an emergency situation without physical assistance from staff. This group shall include, but not be limited to, the following:
+Adult homes, where occupants are not capable of self-preservation (see
+Section 308.4.1
+)
+Child care facilities
+Community residences or intermediate-care
+facilities
+, where occupants are not capable of self-preservation, operated pursuant to and meeting the additional
+construction
+requirements of the
+New York State Mental Hygiene Law
+and applicable regulations of the New York State Office of Mental Health and Office for People with Developmental Disabilities
+Detoxification facilities
+Exception:
+Such a
+facility
+offering care on a
+24-hour basis
+for three or fewer persons who
+ are not capable of self-preservation may occupy not more than one
+dwelling unit
+in a Group
+ R occupancy.
+Enriched Housing, where occupants are not capable of self-preservation (see Section
+308.4.1
+)
+Hospitals
+Nursing homes
+Psychiatric centers where patients are not under restraint
+UpCodes Diagrams (7)
+
+---
+
+Institutional
+Group I
+-2 shall include buildings and structures used for medical, surgical, psychiatric, nursing or personal care on a
+24-hour basis
+or overnight of more than two children under the age of 2, or more than three persons who are not capable of self-preservation and not capable of responding to an emergency situation without physical assistance from staff. This group shall include, but not be limited to, the following:
+Adult homes, where occupants are not capable of self-preservation (see
+Section 308.4.1
+)
+Child care facilities
+Community residences or intermediate-care
+facilities
+, where occupants are not capable of self-preservation, operated pursuant to and meeting the additional
+construction
+requirements of the
+New York State Mental Hygiene Law
+and applicable regulations of the New York State Office of Mental Health and Office for People with Developmental Disabilities
+Detoxification facilities
+Exception:
+Such a
+facility
+offering care on a
+24-hour basis
+for three or fewer persons who
+ are not capable of self-preservation may occupy not more than one
+dwelling unit
+in a Group
+ R occupancy.
+Enriched Housing, where occupants are not capable of self-preservation (see Section
+308.4.1
+)
+Hospitals
+Nursing homes
+Psychiatric centers where patients are not under restraint
+
+---
+
+## Section 308.4.1: Adult Homes and Enriched Housing
+
+308.4.1 Adult Homes and Enriched Housing
+Adult homes and enriched housing
+facilities
+operated pursuant to and meeting the additional
+construction
+requirements of Section 460 of the
+New York State Social
+Services
+Law
+and regulations of the New York State Department of Health
+ offering care on a
+24-hour basis
+to persons not capable of self-preservation, in the same
+building
+,
+ shall be classified as Group
+I-2
+.
+
+---
+
+Adult homes and enriched housing
+facilities
+operated pursuant to and meeting the additional
+construction
+requirements of Section 460 of the
+New York State Social
+Services
+Law
+and regulations of the New York State Department of Health
+ offering care on a
+24-hour basis
+to persons not capable of self-preservation, in the same
+building
+,
+ shall be classified as Group
+I-2
+.
+
+---
+
+## Section 308.5: Institutional Group I-3
+
+308.5 Institutional Group I-3
+Institutional
+Group I
+-3 occupancy shall include buildings and structures that are inhabited by more than five persons who are under restraint or security. A
+Group I
+-3
+facility
+is occupied by persons who are generally
+incapable of self-preservation
+due to security measures not under the occupants' control. This group shall include, but not be limited to, the following:
+Correctional centers
+Detention centers
+Jails
+Psychiatric centers where patients are under restraint
+Prerelease centers
+Prisons
+Reformatories
+Buildings of
+Group I
+-3 shall be classified as one of the occupancy conditions specified
+ in Sections
+308.5.1
+through
+308.5.5
+.
+UpCodes Diagrams (2)
+Building product (1)
+
+---
+
+Institutional
+Group I
+-3 occupancy shall include buildings and structures that are inhabited by more than five persons who are under restraint or security. A
+Group I
+-3
+facility
+is occupied by persons who are generally
+incapable of self-preservation
+due to security measures not under the occupants' control. This group shall include, but not be limited to, the following:
+Correctional centers
+Detention centers
+Jails
+Psychiatric centers where patients are under restraint
+Prerelease centers
+Prisons
+Reformatories
+Buildings of
+Group I
+-3 shall be classified as one of the occupancy conditions specified
+ in Sections
+308.5.1
+through
+308.5.5
+.
+
+---
+
+## Section 308.5.1: Condition 1
+
+308.5.1 Condition 1
+This occupancy condition shall include buildings in which free movement
+ is allowed from sleeping areas, and other spaces where access or occupancy is permitted, to the
+ exterior via
+means of egress
+without restraint. A Condition 1
+facility
+is permitted to be constructed
+ as
+Group R
+.
+
+---
+
+This occupancy condition shall include buildings in which free movement
+ is allowed from sleeping areas, and other spaces where access or occupancy is permitted, to the
+ exterior via
+means of egress
+without restraint. A Condition 1
+facility
+is permitted to be constructed
+ as
+Group R
+.
+
+---
+
+## Section 308.5.2: Condition 2
+
+308.5.2 Condition 2
+This occupancy condition shall include buildings in which free movement
+is allowed from sleeping areas and any other occupied
+smoke compartment
+to one or more other
+smoke compartments
+. Egress to the exterior is impeded by locked
+exits
+.
+
+---
+
+This occupancy condition shall include buildings in which free movement
+is allowed from sleeping areas and any other occupied
+smoke compartment
+to one or more other
+smoke compartments
+. Egress to the exterior is impeded by locked
+exits
+.
+
+---
+
+## Section 308.5.3: Condition 3
+
+308.5.3 Condition 3
+This occupancy condition shall include buildings in which free movement
+is allowed within individual
+smoke compartments
+, such as within a residential unit comprised of
+ individual
+sleeping units
+and group activity spaces, where egress is impeded by remote controlled
+ release of
+means of egress
+from such a
+smoke compartment
+to another
+smoke compartment
+.
+
+---
+
+This occupancy condition shall include buildings in which free movement
+is allowed within individual
+smoke compartments
+, such as within a residential unit comprised of
+ individual
+sleeping units
+and group activity spaces, where egress is impeded by remote controlled
+ release of
+means of egress
+from such a
+smoke compartment
+to another
+smoke compartment
+.
+
+---
+
+## Section 308.5.4: Condition 4
+
+308.5.4 Condition 4
+This occupancy condition shall include buildings in which free movement
+ is restricted from an occupied space. Remote-controlled release is provided to permit movement
+from
+sleeping units
+, activity spaces and other occupied areas within the
+smoke compartment
+to
+ other
+smoke compartments
+.
+
+---
+
+This occupancy condition shall include buildings in which free movement
+ is restricted from an occupied space. Remote-controlled release is provided to permit movement
+from
+sleeping units
+, activity spaces and other occupied areas within the
+smoke compartment
+to
+ other
+smoke compartments
+.
+
+---
+
+## Section 308.5.5: Condition 5
+
+308.5.5 Condition 5
+This occupancy condition shall include buildings in which free movement
+is restricted from an occupied space. Staff-controlled manual release is provided to permit
+ movement from
+sleeping units
+, activity spaces and other occupied areas within the
+smoke
+compartment to other
+smoke compartments
+.
+
+---
+
+This occupancy condition shall include buildings in which free movement
+is restricted from an occupied space. Staff-controlled manual release is provided to permit
+ movement from
+sleeping units
+, activity spaces and other occupied areas within the
+smoke
+compartment to other
+smoke compartments
+.
+
+---
+
+## Section 308.6: Institutional Group I-4
+
+308.6 Institutional Group I-4
+Institutional
+Group I
+-4 occupancy shall include
+custodial care facilities
+providing care to more than two children under the age of 2, or to more than four persons over the age of 2 who are not capable of responding to an emergency situation without physical assistance from the staff. Such occupancy shall include, but not be limited to, adult
+custodial care facilities
+and day nurseries.
+Exceptions:
+Custodial care facility
+as described in Section 303.
+Custodial care facility
+as described in Section 304.
+Custodial care facility
+as described in Exception 3 of
+Section 305.1
+.
+Such
+facility
+providing care within a
+dwelling unit
+as described in Section 310.
+Such
+facility
+providing care to children under the age of 2 in religious houses of worship during religious functions.
+
+---
+
+Institutional
+Group I
+-4 occupancy shall include
+custodial care facilities
+providing care to more than two children under the age of 2, or to more than four persons over the age of 2 who are not capable of responding to an emergency situation without physical assistance from the staff. Such occupancy shall include, but not be limited to, adult
+custodial care facilities
+and day nurseries.
+Exceptions:
+Custodial care facility
+as described in Section 303.
+Custodial care facility
+as described in Section 304.
+Custodial care facility
+as described in Exception 3 of
+Section 305.1
+.
+Such
+facility
+providing care within a
+dwelling unit
+as described in Section 310.
+Such
+facility
+providing care to children under the age of 2 in religious houses of worship during religious functions.
+
+---
+
+Section BC 309 Mercantile Group M
+
+---
+
+## Section 309.1: Mercantile Group M
+
+309.1 Mercantile Group M
+Mercantile Group M occupancy includes, among others, the use of a
+building
+or structure or a portion thereof for the display and sale of merchandise, and involves stocks of goods, wares or merchandise incidental to such purposes and accessible to the public. Mercantile occupancies shall include, but not be limited to, the following:
+Department stores
+Drug stores
+Markets
+Motor fuel-
+dispensing
+facilities
+Retail or wholesale stores
+Sales rooms
+
+---
+
+Mercantile Group M occupancy includes, among others, the use of a
+building
+or structure or a portion thereof for the display and sale of merchandise, and involves stocks of goods, wares or merchandise incidental to such purposes and accessible to the public. Mercantile occupancies shall include, but not be limited to, the following:
+Department stores
+Drug stores
+Markets
+Motor fuel-
+dispensing
+facilities
+Retail or wholesale stores
+Sales rooms
+
+---
+
+## Section 309.2: Quantity of Hazardous Materials
+
+309.2 Quantity of Hazardous Materials
+The aggregate quantity of nonflammable
+solid
+and nonflammable or noncombustible
+liquid
+hazardous materials
+stored or displayed in a single
+control area
+of a
+Group M
+occupancy shall not exceed the quantities in
+Table 414.2.5(1)
+.
+UpCodes Diagram (1)
+
+---
+
+The aggregate quantity of nonflammable
+solid
+and nonflammable or noncombustible
+liquid
+hazardous materials
+stored or displayed in a single
+control area
+of a
+Group M
+occupancy shall not exceed the quantities in
+Table 414.2.5(1)
+.
+
+---
+
+Section BC 310 Residential Group R
+
+---
+
+## Section 310.1: Residential Group R
+
+310.1 Residential Group R
+Residential
+Group R includes, among others, the use of a
+building
+or structure, or a portion thereof, for
+dwelling
+or sleeping purposes when not classified as an Institutional
+Group I
+. Buildings containing three or more
+dwelling units
+shall be subject to the
+New York State Multiple Dwelling Law
+.
+Residential
+occupancies shall be classified as Group
+R-1
+,
+R-2
+, or
+R-3
+.
+Building products (19)
+
+---
+
+Residential
+Group R includes, among others, the use of a
+building
+or structure, or a portion thereof, for
+dwelling
+or sleeping purposes when not classified as an Institutional
+Group I
+. Buildings containing three or more
+dwelling units
+shall be subject to the
+New York State Multiple Dwelling Law
+.
+Residential
+occupancies shall be classified as Group
+R-1
+,
+R-2
+, or
+R-3
+.
+
+---
+
+## Section 310.2: Definitions
+
+310.2 Definitions
+The following terms are defined in
+Chapter 2
+:
+APARTMENT
+.
+APARTMENT, STUDENT
+.
+BOARDER (ROOMER, LODGER)
+.
+CONGREGATE LIVING UNIT
+.
+CUSTODIAL CARE FACILITY
+.
+DWELLING
+.
+DWELLING, MULTIPLE
+.
+DWELLING
+, ONE-
+FAMILY
+.
+DWELLING, TWO-FAMILY
+.
+DWELLING UNIT
+.
+FAMILY
+.
+GROUP HOME
+.
+PERSONAL CARE SERVICE
+.
+RESIDENTIAL CARE/ASSISTED LIVING
+FACILITIES
+.
+ROOMING HOUSE
+.
+SLEEPING UNIT
+.
+TRANSIENT.
+
+---
+
+The following terms are defined in
+Chapter 2
+:
+APARTMENT
+.
+APARTMENT, STUDENT
+.
+BOARDER (ROOMER, LODGER)
+.
+CONGREGATE LIVING UNIT
+.
+CUSTODIAL CARE FACILITY
+.
+DWELLING
+.
+DWELLING, MULTIPLE
+.
+DWELLING
+, ONE-
+FAMILY
+.
+DWELLING, TWO-FAMILY
+.
+DWELLING UNIT
+.
+FAMILY
+.
+GROUP HOME
+.
+PERSONAL CARE SERVICE
+.
+RESIDENTIAL CARE/ASSISTED LIVING
+FACILITIES
+.
+ROOMING HOUSE
+.
+SLEEPING UNIT
+.
+TRANSIENT.
+
+---
+
+‡‡‡ 310.3 Residential Group R-1
+Residential
+Group R
+-1 occupancies shall include:
+Residential
+buildings or spaces occupied, as a rule, transiently, for a period less than 30 days, as the more or less temporary abode of individuals or
+families
+who are lodged with or without meals, including, but not limited to, the following:
+Class B
+multiple dwellings
+as defined in Section 27-2004 of the
+New York City Housing
+Maintenance
+Code
+and Section 4 of the
+New York State Multiple Dwelling Law
+, where not classified in Group
+I-1
+.
+Club houses
+Hotels (transient)
+Motels (transient)
+Rooming houses
+(boarding houses—transient)
+Settlement houses
+Vacation timeshares
+College or school student dormitories, except for
+student apartments
+classified as an
+R-2
+occupancy
+Congregate living units
+owned and operated by a government agency or not-for-profit organization, where the number of occupants in the
+dwelling unit
+exceeds the
+limitations
+of a
+family
+as defined, including, but not limited to, the following:
+Adult homes or enriched housing with 16 or fewer occupants requiring supervised care within the same
+building
+on a
+24-hour basis
+Fraternity and sorority houses
+Homeless shelters
+‡‡‡
+Chapter 3
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+UpCodes Diagrams (3)
+
+---
+
+Residential
+Group R
+-1 occupancies shall include:
+Residential
+buildings or spaces occupied, as a rule, transiently, for a period less than 30 days, as the more or less temporary abode of individuals or
+families
+who are lodged with or without meals, including, but not limited to, the following:
+Class B
+multiple dwellings
+as defined in Section 27-2004 of the
+New York City Housing
+Maintenance
+Code
+and Section 4 of the
+New York State Multiple Dwelling Law
+, where not classified in Group
+I-1
+.
+Club houses
+Hotels (transient)
+Motels (transient)
+Rooming houses
+(boarding houses—transient)
+Settlement houses
+Vacation timeshares
+College or school student dormitories, except for
+student apartments
+classified as an
+R-2
+occupancy
+Congregate living units
+owned and operated by a government agency or not-for-profit organization, where the number of occupants in the
+dwelling unit
+exceeds the
+limitations
+of a
+family
+as defined, including, but not limited to, the following:
+Adult homes or enriched housing with 16 or fewer occupants requiring supervised care within the same
+building
+on a
+24-hour basis
+Fraternity and sorority houses
+Homeless shelters
+‡‡‡
+Chapter 3
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+‡‡‡ 310.4 Residential Group R-2
+Residential
+Group R
+-2 occupancies shall include buildings or portions thereof containing
+sleeping units
+or more than two
+dwelling units
+that are occupied for permanent residence purposes as defined in subparagraph (a) of paragraph 8 of subdivision a of Section 27-2004 of the
+New York City Housing
+Maintenance
+Code
+. Such occupancy shall be subject to the
+New York State Multiple Dwelling Law
+. This group shall include, but not be limited to, the following:
+Adult homes or enriched housing with 16 or fewer occupants requiring supervised care on a
+24-hour basis
+in the same
+building
+, provided that the number of occupants per
+dwelling unit
+does not exceed the definition of a
+family
+Apartment
+houses
+Apartment
+hotels (nontransient)
+Class A
+multiple dwellings
+as defined in Section 27-2004 of the
+New York City Housing
+Maintenance
+Code
+and Section 4 of the
+New York State Multiple Dwelling Law
+, where not classified in
+Group I
+, including the following:
+Dwelling units
+where the resident of the unit provides custodial care to no more than four persons on less than a
+24-hour basis
+and not overnight, where not classified in
+Group I
+.
+Dwelling units
+where the resident of the unit provides child custodial care as a
+family
+day care home registered with the New York City Department of Health and Mental Hygiene in accordance with the
+New York State Social
+Services
+Law
+, with no more than six children between the ages of 2 and 13, or with no more than five children if any are under the age of 2, receiving supervised care on less than a
+24-hour basis
+and not overnight, where not classified in
+Group I
+.
+Convents and monasteries with more than 20 occupants in the
+building
+Student apartments
+‡‡‡
+Chapter 3
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+UpCodes Diagrams (17)
+Assemblies (2)
+Building products (9)
+
+---
+
+Residential
+Group R
+-2 occupancies shall include buildings or portions thereof containing
+sleeping units
+or more than two
+dwelling units
+that are occupied for permanent residence purposes as defined in subparagraph (a) of paragraph 8 of subdivision a of Section 27-2004 of the
+New York City Housing
+Maintenance
+Code
+. Such occupancy shall be subject to the
+New York State Multiple Dwelling Law
+. This group shall include, but not be limited to, the following:
+Adult homes or enriched housing with 16 or fewer occupants requiring supervised care on a
+24-hour basis
+in the same
+building
+, provided that the number of occupants per
+dwelling unit
+does not exceed the definition of a
+family
+Apartment
+houses
+Apartment
+hotels (nontransient)
+Class A
+multiple dwellings
+as defined in Section 27-2004 of the
+New York City Housing
+Maintenance
+Code
+and Section 4 of the
+New York State Multiple Dwelling Law
+, where not classified in
+Group I
+, including the following:
+Dwelling units
+where the resident of the unit provides custodial care to no more than four persons on less than a
+24-hour basis
+and not overnight, where not classified in
+Group I
+.
+Dwelling units
+where the resident of the unit provides child custodial care as a
+family
+day care home registered with the New York City Department of Health and Mental Hygiene in accordance with the
+New York State Social
+Services
+Law
+, with no more than six children between the ages of 2 and 13, or with no more than five children if any are under the age of 2, receiving supervised care on less than a
+24-hour basis
+and not overnight, where not classified in
+Group I
+.
+Convents and monasteries with more than 20 occupants in the
+building
+Student apartments
+‡‡‡
+Chapter 3
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+## Section 310.5: Residential Group R-3
+
+310.5 Residential Group R-3
+Residential
+Group R
+-3 occupancies shall include buildings or portions thereof containing no more than 2
+dwelling units
+, occupied, as a rule, for shelter and sleeping accommodation on a long-term basis for a month or more at a time, and are not classified in Group
+R-1
+,
+R-2
+or I. This group shall include, but not be limited to, the following:
+Convents and monasteries with 20 or fewer occupants in the
+building
+Group homes
+One- and
+two-family dwellings
+, including the following:
+Dwelling units
+where the resident of the unit provides custodial care to no more than four persons on less than a
+24-hour basis
+and not overnight.
+Dwelling units
+where the resident of the unit provides child custodial care as a
+family
+day care home registered with the New York City Department of Health and Mental Hygiene in accordance with the
+New York State Social
+Services
+Law
+for three to six children for more than three hours per day per child but less than 24 hours per day. A
+family
+day care provider may, however, care for seven or eight children at any one time if no more than six of the children are less than school age and such children receive
+services
+only during the periods set forth in the
+New York State Social
+Services
+Law
+.
+Dwelling units
+where the resident of the unit provides child custodial care as a group
+family
+day care home registered with the New York City Department of Health and Mental Hygiene in accordance with the
+New York State Social
+Services
+Law
+for seven to 12 children of all ages for more than three hours a day per child but less than 24 hours per day. There may be an additional four children if such children are of school age and such children receive
+services
+only during the periods set forth in the
+New York State Social
+Services
+Law
+.
+
+---
+
+Residential
+Group R
+-3 occupancies shall include buildings or portions thereof containing no more than 2
+dwelling units
+, occupied, as a rule, for shelter and sleeping accommodation on a long-term basis for a month or more at a time, and are not classified in Group
+R-1
+,
+R-2
+or I. This group shall include, but not be limited to, the following:
+Convents and monasteries with 20 or fewer occupants in the
+building
+Group homes
+One- and
+two-family dwellings
+, including the following:
+Dwelling units
+where the resident of the unit provides custodial care to no more than four persons on less than a
+24-hour basis
+and not overnight.
+Dwelling units
+where the resident of the unit provides child custodial care as a
+family
+day care home registered with the New York City Department of Health and Mental Hygiene in accordance with the
+New York State Social
+Services
+Law
+for three to six children for more than three hours per day per child but less than 24 hours per day. A
+family
+day care provider may, however, care for seven or eight children at any one time if no more than six of the children are less than school age and such children receive
+services
+only during the periods set forth in the
+New York State Social
+Services
+Law
+.
+Dwelling units
+where the resident of the unit provides child custodial care as a group
+family
+day care home registered with the New York City Department of Health and Mental Hygiene in accordance with the
+New York State Social
+Services
+Law
+for seven to 12 children of all ages for more than three hours a day per child but less than 24 hours per day. There may be an additional four children if such children are of school age and such children receive
+services
+only during the periods set forth in the
+New York State Social
+Services
+Law
+.
+
+---
+
+Section BC 311 Storage Group S
+
+---
+
+## Section 311.1: Storage Group S
+
+311.1 Storage Group S
+Storage
+Group S occupancy includes, among others, the use of a
+building
+or structure, or a portion thereof, for
+storage
+, such as for warehouses,
+storage
+rooms, freight depots and distribution centers, when not classified as a hazardous occupancy.
+UpCodes Diagram (1)
+
+---
+
+Storage
+Group S occupancy includes, among others, the use of a
+building
+or structure, or a portion thereof, for
+storage
+, such as for warehouses,
+storage
+rooms, freight depots and distribution centers, when not classified as a hazardous occupancy.
+
+---
+
+## Section 311.1.1: Accessory Storage Spaces
+
+311.1.1 Accessory Storage Spaces
+A room or space used for
+storage
+purposes that is less than
+100 square feet (9.3 m
+2
+) in
+area
+and accessory to another occupancy shall be classified as part of
+ that occupancy. The aggregate
+area
+of such rooms or spaces shall not exceed the allowable
+area
+limits of
+Section 508.2.3
+.
+UpCodes Diagram (1)
+
+---
+
+A room or space used for
+storage
+purposes that is less than
+100 square feet (9.3 m
+2
+) in
+area
+and accessory to another occupancy shall be classified as part of
+ that occupancy. The aggregate
+area
+of such rooms or spaces shall not exceed the allowable
+area
+limits of
+Section 508.2.3
+.
+
+---
+
+## Section 311.2: Moderate-Hazard Storage, Group S-1
+
+311.2 Moderate-Hazard Storage, Group S-1
+Storage
+Group S
+-1 occupancies are buildings occupied for storing any flammable or combustible
+materials
+that are likely to permit the
+development
+and production of fire with moderate rapidity including, but not limited to,
+storage
+of the following:
+Aerosols
+, Levels 2 and 3
+Aircraft hangar (
+storage
+and repair)
+Bags; cloth, burlap and paper
+Bamboos and rattan
+Baskets
+Belting; canvas and leather
+Books and paper in rolls or packs
+Boots and shoes
+Buttons, including cloth covered, pearl or bone
+Cardboard and cardboard boxes
+Clothing, woolen wearing apparel
+Cordage
+Dry boat
+storage
+(indoor, not accessory to
+Group R
+)
+Furniture
+Furs
+Glues, mucilage, pastes and size
+Grains
+Horns and combs, other than celluloid
+Leather
+Linoleum
+Lumber
+Photo engravings
+Resilient flooring
+Silks
+Soaps
+Sugar
+Tires, bulk storage of
+Tobacco, cigars, cigarettes and snuff
+Upholstery and mattresses
+Wax candles
+
+---
+
+Storage
+Group S
+-1 occupancies are buildings occupied for storing any flammable or combustible
+materials
+that are likely to permit the
+development
+and production of fire with moderate rapidity including, but not limited to,
+storage
+of the following:
+Aerosols
+, Levels 2 and 3
+Aircraft hangar (
+storage
+and repair)
+Bags; cloth, burlap and paper
+Bamboos and rattan
+Baskets
+Belting; canvas and leather
+Books and paper in rolls or packs
+Boots and shoes
+Buttons, including cloth covered, pearl or bone
+Cardboard and cardboard boxes
+Clothing, woolen wearing apparel
+Cordage
+Dry boat
+storage
+(indoor, not accessory to
+Group R
+)
+Furniture
+Furs
+Glues, mucilage, pastes and size
+Grains
+Horns and combs, other than celluloid
+Leather
+Linoleum
+Lumber
+Photo engravings
+Resilient flooring
+Silks
+Soaps
+Sugar
+Tires, bulk storage of
+Tobacco, cigars, cigarettes and snuff
+Upholstery and mattresses
+Wax candles
+
+---
+
+## Section 311.3: Low-Hazard Storage, Group S-2
+
+311.3 Low-Hazard Storage, Group S-2
+Storage
+Group S
+-2 occupancies include, among others, buildings used for the
+storage
+of noncombustible
+materials
+such as products on wood pallets or in paper cartons with or without single thickness divisions; or in paper wrappings. Such products are permitted to have a negligible amount of
+plastic
+trim
+, such as knobs, handles or film wrapping.
+Group S
+-2
+storage
+uses shall include, but not be limited to,
+storage
+of the following:
+Asbestos
+Beverages up to and including 16-percent alcohol in metal, glass or ceramic containers
+Cement in bags
+Chalk and crayons
+Dairy products in nonwaxed coated paper containers
+Dry
+cell
+batteries
+Electrical coils
+Electrical motors
+Empty cans
+Food products
+Foods in noncombustible containers
+Fresh fruits and vegetables in nonplastic trays or containers
+Frozen foods
+Glass
+Glass bottles, empty or filled with noncombustible
+liquids
+Gypsum board
+Inert pigments
+Ivory
+Meats
+Metal cabinets
+Metal desks with
+plastic
+tops and
+trim
+Metal parts
+Metals
+Mirrors
+Oil-filled and other types of distribution transformers
+Parking garages
+, open or enclosed
+Porcelain and pottery
+Stoves
+Talc and soapstones
+Washers and dryers
+UpCodes Diagrams (2)
+
+---
+
+Storage
+Group S
+-2 occupancies include, among others, buildings used for the
+storage
+of noncombustible
+materials
+such as products on wood pallets or in paper cartons with or without single thickness divisions; or in paper wrappings. Such products are permitted to have a negligible amount of
+plastic
+trim
+, such as knobs, handles or film wrapping.
+Group S
+-2
+storage
+uses shall include, but not be limited to,
+storage
+of the following:
+Asbestos
+Beverages up to and including 16-percent alcohol in metal, glass or ceramic containers
+Cement in bags
+Chalk and crayons
+Dairy products in nonwaxed coated paper containers
+Dry
+cell
+batteries
+Electrical coils
+Electrical motors
+Empty cans
+Food products
+Foods in noncombustible containers
+Fresh fruits and vegetables in nonplastic trays or containers
+Frozen foods
+Glass
+Glass bottles, empty or filled with noncombustible
+liquids
+Gypsum board
+Inert pigments
+Ivory
+Meats
+Metal cabinets
+Metal desks with
+plastic
+tops and
+trim
+Metal parts
+Metals
+Mirrors
+Oil-filled and other types of distribution transformers
+Parking garages
+, open or enclosed
+Porcelain and pottery
+Stoves
+Talc and soapstones
+Washers and dryers
+
+---
+
+Section BC 312 Utility and Miscellaneous Group U
+
+---
+
+## Section 312.1: General
+
+312.1 General
+Buildings and structures of an accessory character and miscellaneous structures not classified in any specific occupancy shall be constructed, equipped and maintained to conform to the requirements of this code commensurate with the fire and life hazard incidental to their occupancy.
+Group U
+shall include, but not be limited to, the following:
+Carports
+Fences more than 6 feet (1829 mm) in
+height
+Private garages
+as per
+Section 406.1
+Retaining walls
+Sheds or greenhouses accessory to Group
+R-3
+occupancies, that are freestanding, less than 120 square feet (11.15 m
+2
+) in area, not permanently affixed to the ground, and used for household goods or items associated with the garden or lawn. Any other shed shall be classified as either
+S-1
+or
+S-2
+.
+Tanks
+Towers
+
+---
+
+Buildings and structures of an accessory character and miscellaneous structures not classified in any specific occupancy shall be constructed, equipped and maintained to conform to the requirements of this code commensurate with the fire and life hazard incidental to their occupancy.
+Group U
+shall include, but not be limited to, the following:
+Carports
+Fences more than 6 feet (1829 mm) in
+height
+Private garages
+as per
+Section 406.1
+Retaining walls
+Sheds or greenhouses accessory to Group
+R-3
+occupancies, that are freestanding, less than 120 square feet (11.15 m
+2
+) in area, not permanently affixed to the ground, and used for household goods or items associated with the garden or lawn. Any other shed shall be classified as either
+S-1
+or
+S-2
+.
+Tanks
+Towers
+
+---
+

@@ -1,0 +1,1164 @@
+# NYC Plumbing Code 2022 - Chapter 5
+
+New York City Plumbing Code 2022
+
+---
+
+New York City Plumbing Code Cover
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Chapter 4 Fixtures, Faucets and Fixture Fittings
+
+---
+
+Chapter 5 Water Heaters
+
+---
+
+501 General
+
+---
+
+502 Installation
+
+---
+
+503 Connections
+
+---
+
+504 Safety Devices
+
+---
+
+505 Insulation
+
+---
+
+Chapter 6 Water Supply and Distribution
+
+---
+
+Chapter 7 Sanitary Drainage
+
+---
+
+Chapter 8 Indirect/Special Waste
+
+---
+
+Chapter 9 Vents
+
+---
+
+Chapter 10 Traps, Interceptors and Separators
+
+---
+
+Chapter 11 Storm Drainage
+
+---
+
+Chapter 12 Special Piping and Storage Systems
+
+---
+
+Chapter 13 Nonpotable Water Systems
+
+---
+
+Chapter 14 Subsurface Landscape Irrigation Systems
+
+---
+
+Chapter 15 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Structural Safety
+
+---
+
+Appendix D Reserved
+
+---
+
+Appendix E Sizing of Water Piping System
+
+---
+
+Appendix F Structural Safety Reserved
+
+---
+
+Appendix G Vacuum Drainage System Reserved
+
+---
+
+Title 28 New York City Construction Codes
+
+---
+
+Chapter 5 Water Heaters
+
+---
+
+Section 501 General
+
+---
+
+## Section 501.1: Scope
+
+501.1 Scope
+The provisions of this chapter shall govern the
+materials
+, design and installation of
+water heaters
+and the related safety devices and appurtenances.
+
+---
+
+The provisions of this chapter shall govern the
+materials
+, design and installation of
+water heaters
+and the related safety devices and appurtenances.
+
+---
+
+## Section 501.2: Water Heaters Utilized for Space Heating
+
+501.2 Water Heaters Utilized for Space Heating
+Water heaters
+utilized both to supply potable
+hot water
+and provide
+hot water
+for space-heating applications shall be listed and labeled for such applications by the manufacturer and shall be built in accordance with Section IV of the ASME Boiler and
+Pressure
+Vessel Code with an "H" code stamp. They shall be installed in accordance with the manufacturer's instructions, the ASME Boiler and
+Pressure
+Vessel Code and the
+New York City Mechanical Code
+.
+
+---
+
+Water heaters
+utilized both to supply potable
+hot water
+and provide
+hot water
+for space-heating applications shall be listed and labeled for such applications by the manufacturer and shall be built in accordance with Section IV of the ASME Boiler and
+Pressure
+Vessel Code with an "H" code stamp. They shall be installed in accordance with the manufacturer's instructions, the ASME Boiler and
+Pressure
+Vessel Code and the
+New York City Mechanical Code
+.
+
+---
+
+## Section 501.2.1: Cross Connection
+
+501.2.1 Cross Connection
+Water heaters
+utilized for both potable
+hot water
+and
+hot water
+for space heating applications shall have separate heating sections and
+connections
+for distribution systems and shall not be cross-connected. The potability of the domestic
+water
+shall be maintained throughout the system in accordance with
+Chapter 6
+.
+
+---
+
+Water heaters
+utilized for both potable
+hot water
+and
+hot water
+for space heating applications shall have separate heating sections and
+connections
+for distribution systems and shall not be cross-connected. The potability of the domestic
+water
+shall be maintained throughout the system in accordance with
+Chapter 6
+.
+
+---
+
+## Section 501.2.2: Sizing
+
+501.2.2 Sizing
+Water heaters
+utilized for both potable
+water
+-heating and space-heating applications shall be sized to prevent the space-heating load from diminishing the required potable
+water
+-heating capacity.
+
+---
+
+Water heaters
+utilized for both potable
+water
+-heating and space-heating applications shall be sized to prevent the space-heating load from diminishing the required potable
+water
+-heating capacity.
+
+---
+
+## Section 501.2.3: Temperature Limitation
+
+501.2.3 Temperature Limitation
+Where a combination potable
+water
+-heating and space- heating system requires
+water
+for space-heating, a temperature actuated mixing valve complying with ASSE 1017 shall be provided to temper the
+water
+supplied to the potable
+hot water
+distribution system in accordance with
+Section 607
+.
+
+---
+
+Where a combination potable
+water
+-heating and space- heating system requires
+water
+for space-heating, a temperature actuated mixing valve complying with ASSE 1017 shall be provided to temper the
+water
+supplied to the potable
+hot water
+distribution system in accordance with
+Section 607
+.
+
+---
+
+## Section 501.3: Drain Valves
+
+501.3 Drain Valves
+Drain
+valves for emptying shall be installed at the bottom of each tank-type
+water heater
+and
+hot water
+storage tank. The
+drain
+valve inlet shall be not less than
+3
+/
+4
+-inch (19 mm) nominal iron pipe size and the outlet shall be provided with male garden hose threads.
+UpCodes Diagram (1)
+
+---
+
+Drain
+valves for emptying shall be installed at the bottom of each tank-type
+water heater
+and
+hot water
+storage tank. The
+drain
+valve inlet shall be not less than
+3
+/
+4
+-inch (19 mm) nominal iron pipe size and the outlet shall be provided with male garden hose threads.
+
+---
+
+## Section 501.4: Location
+
+501.4 Location
+Water heaters
+and storage tanks shall be located and connected so as to provide
+access
+for observation, maintenance, servicing and replacement.
+
+---
+
+Water heaters
+and storage tanks shall be located and connected so as to provide
+access
+for observation, maintenance, servicing and replacement.
+
+---
+
+## Section 501.5: Water Heater Labeling
+
+501.5 Water Heater Labeling
+Water heaters
+shall be
+third-party certified
+.
+
+---
+
+Water heaters
+shall be
+third-party certified
+.
+
+---
+
+## Section 501.6: Water Temperature Control in Piping From Tankless Heaters
+
+501.6 Water Temperature Control in Piping From Tankless Heaters
+The temperature of
+water
+from tankless
+water heaters
+shall be not greater than 140°F (60°C) where intended for domestic uses. This provision shall not supersede the requirement for protective shower valves in accordance with
+Section 424.3
+.
+UpCodes Diagram (1)
+
+---
+
+The temperature of
+water
+from tankless
+water heaters
+shall be not greater than 140°F (60°C) where intended for domestic uses. This provision shall not supersede the requirement for protective shower valves in accordance with
+Section 424.3
+.
+
+---
+
+## Section 501.7: Pressure Marking of Storage Tanks
+
+501.7 Pressure Marking of Storage Tanks
+Storage tanks and
+water heaters
+installed for domestic
+hot water
+shall have the maximum allowable working pressure clearly and indelibly stamped in the metal or marked on a plate welded thereto or otherwise permanently attached. Such markings shall be in an accessible position outside of the tank so as to make inspection or reinspection readily possible.
+
+---
+
+Storage tanks and
+water heaters
+installed for domestic
+hot water
+shall have the maximum allowable working pressure clearly and indelibly stamped in the metal or marked on a plate welded thereto or otherwise permanently attached. Such markings shall be in an accessible position outside of the tank so as to make inspection or reinspection readily possible.
+
+---
+
+## Section 501.8: Temperature Controls
+
+501.8 Temperature Controls
+Hot
+water supply systems
+shall be equipped with automatic temperature controls capable of adjustments from the lowest to the highest acceptable temperature settings for the intended temperature operating range.
+
+---
+
+Hot
+water supply systems
+shall be equipped with automatic temperature controls capable of adjustments from the lowest to the highest acceptable temperature settings for the intended temperature operating range.
+
+---
+
+## Section 501.9: Supplemental Water-Heating Devices
+
+501.9 Supplemental Water-Heating Devices
+Potable
+water
+-heating devices that utilize refrigerant-to-
+water
+heat exchangers shall be
+approved
+and installed in accordance with this code, the applicable provisions of the New York City Energy Conservation Code and the manufacturer's instructions.
+
+---
+
+Potable
+water
+-heating devices that utilize refrigerant-to-
+water
+heat exchangers shall be
+approved
+and installed in accordance with this code, the applicable provisions of the New York City Energy Conservation Code and the manufacturer's instructions.
+
+---
+
+Section 502 Installation
+
+---
+
+## Section 502.1: General
+
+502.1 General
+Water heaters
+shall be installed in accordance with the manufacturer's instructions. Oil-fired
+water heaters
+shall conform to the requirements of this code, the
+New York City Mechanical Code
+, and shall comply with UL 732. Approval for oil-fired
+water heaters
+350,000 Btu/h input (
+102.5
+kW) and above shall be obtained from the New York City Department of Environmental
+Protection
+. Electric
+water heaters
+shall conform to the requirements of this code and provisions of the
+New York City Electrical Code
+. Domestic electric
+water heaters
+shall comply with UL 174 or UL 1453. Commercial electric
+water heaters
+shall comply with UL 1453. Gas-fired
+water heaters
+shall conform to the requirements of the
+New York City Fuel Gas Code
+. All
+water heaters
+shall conform to the
+New York City Energy Conservation Code
+.
+
+---
+
+Water heaters
+shall be installed in accordance with the manufacturer's instructions. Oil-fired
+water heaters
+shall conform to the requirements of this code, the
+New York City Mechanical Code
+, and shall comply with UL 732. Approval for oil-fired
+water heaters
+350,000 Btu/h input (
+102.5
+kW) and above shall be obtained from the New York City Department of Environmental
+Protection
+. Electric
+water heaters
+shall conform to the requirements of this code and provisions of the
+New York City Electrical Code
+. Domestic electric
+water heaters
+shall comply with UL 174 or UL 1453. Commercial electric
+water heaters
+shall comply with UL 1453. Gas-fired
+water heaters
+shall conform to the requirements of the
+New York City Fuel Gas Code
+. All
+water heaters
+shall conform to the
+New York City Energy Conservation Code
+.
+
+---
+
+## Section 502.1.1: Elevation and Protection
+
+502.1.1 Elevation and Protection
+Elevation of
+water heater
+ignition sources and mechanical damage
+protection
+requirements for
+water heaters
+shall be in accordance with the
+New York City Mechanical Code
+and the
+New York City Fuel Gas Code
+.
+
+---
+
+Elevation of
+water heater
+ignition sources and mechanical damage
+protection
+requirements for
+water heaters
+shall be in accordance with the
+New York City Mechanical Code
+and the
+New York City Fuel Gas Code
+.
+
+---
+
+## Section 502.2: Rooms Used as a Plenum
+
+502.2 Rooms Used as a Plenum
+Water heaters
+using solid, liquid or gas fuel shall not be installed in a room containing air-handling machinery where such room is used as a plenum.
+
+---
+
+Water heaters
+using solid, liquid or gas fuel shall not be installed in a room containing air-handling machinery where such room is used as a plenum.
+
+---
+
+## Section 502.3: Water Heaters Installed in Attics
+
+502.3 Water Heaters Installed in Attics
+Water heaters
+installed in attics shall be electric. Attics containing a
+water heater
+shall be provided with an opening and unobstructed passageway large enough to allow removal of the
+water heater
+. The passageway shall be not less than 30 inches (762 mm) in height and 22 inches (559 mm) in width and not more than 20 feet (6096 mm) in length when measured along the centerline of the passageway from the opening to the
+water heater
+. The passage way shall have continuous solid flooring not less than 24 inches (610 mm) in width. A level service space not less than 30 inches (762 mm) in length and 30 inches (762 mm) in width shall be present at the front or service side of the
+water heater
+. Dimensions of the clear
+access
+opening shall be not less than 20 inches by 30 inches (508 mm by 762 mm) and shall be large enough to allow removal of the
+water heater
+.
+
+---
+
+Water heaters
+installed in attics shall be electric. Attics containing a
+water heater
+shall be provided with an opening and unobstructed passageway large enough to allow removal of the
+water heater
+. The passageway shall be not less than 30 inches (762 mm) in height and 22 inches (559 mm) in width and not more than 20 feet (6096 mm) in length when measured along the centerline of the passageway from the opening to the
+water heater
+. The passage way shall have continuous solid flooring not less than 24 inches (610 mm) in width. A level service space not less than 30 inches (762 mm) in length and 30 inches (762 mm) in width shall be present at the front or service side of the
+water heater
+. Dimensions of the clear
+access
+opening shall be not less than 20 inches by 30 inches (508 mm by 762 mm) and shall be large enough to allow removal of the
+water heater
+.
+
+---
+
+## Section 502.4: Seismic Supports
+
+502.4 Seismic Supports
+Where earthquake loads are applicable in accordance with the
+New York City Building Code
+,
+water heater
+supports
+shall be designed and installed for the seismic forces in accordance with the
+New York City Building Code
+.
+UpCodes Diagram (1)
+
+---
+
+Where earthquake loads are applicable in accordance with the
+New York City Building Code
+,
+water heater
+supports
+shall be designed and installed for the seismic forces in accordance with the
+New York City Building Code
+.
+
+---
+
+## Section 502.5: Clearances for Maintenance and Replacement
+
+502.5 Clearances for Maintenance and Replacement
+Appliances shall be provided with
+access
+for inspection, service, repair and replacement without disabling the function of a fire-resistance-rated assembly or removing permanent construction, other appliances or any other piping or ducts not connected to the appliance being inspected, serviced, repaired or replaced. A level working space not less than 30 inches in length and 30 inches in width (762 mm by 762 mm) shall be provided in front of the control side to service an appliance.
+
+---
+
+Appliances shall be provided with
+access
+for inspection, service, repair and replacement without disabling the function of a fire-resistance-rated assembly or removing permanent construction, other appliances or any other piping or ducts not connected to the appliance being inspected, serviced, repaired or replaced. A level working space not less than 30 inches in length and 30 inches in width (762 mm by 762 mm) shall be provided in front of the control side to service an appliance.
+
+---
+
+Section 503 Connections
+
+---
+
+## Section 503.1: Cold Water Line Valve
+
+503.1 Cold Water Line Valve
+The cold
+water
+branch
+line from the
+main
+water supply
+line to each
+hot water
+storage tank or
+water heater
+shall be provided with a valve, located near the equipment and serving only the
+hot water
+storage tank or
+water heater
+. The valve shall not interfere or cause a disruption of the cold
+water supply
+to the remainder of the cold
+water
+system. The valve shall be provided with
+access
+on the same floor level as the
+water heater
+served.
+
+---
+
+The cold
+water
+branch
+line from the
+main
+water supply
+line to each
+hot water
+storage tank or
+water heater
+shall be provided with a valve, located near the equipment and serving only the
+hot water
+storage tank or
+water heater
+. The valve shall not interfere or cause a disruption of the cold
+water supply
+to the remainder of the cold
+water
+system. The valve shall be provided with
+access
+on the same floor level as the
+water heater
+served.
+
+---
+
+## Section 503.2: Water Circulation
+
+503.2 Water Circulation
+The method of connecting a circulating
+water heater
+to the tank shall provide proper circulation of
+water
+through the
+water heater
+. The pipe or tubes required for the installation of appliances that will draw from the
+water heater
+or storage tank shall comply with the provisions of this code for material and installation.
+
+---
+
+The method of connecting a circulating
+water heater
+to the tank shall provide proper circulation of
+water
+through the
+water heater
+. The pipe or tubes required for the installation of appliances that will draw from the
+water heater
+or storage tank shall comply with the provisions of this code for material and installation.
+
+---
+
+Section 504 Safety Devices
+
+---
+
+## Section 504.1: Antisiphon Devices
+
+504.1 Antisiphon Devices
+An
+approved
+means, such as a cold
+water
+"dip" tube with a hole at the top or a
+vacuum
+relief valve
+installed in the cold
+water supply
+line above the top of the heater or tank, shall be provided to prevent siphoning of any storage
+water heater
+or tank.
+
+---
+
+An
+approved
+means, such as a cold
+water
+"dip" tube with a hole at the top or a
+vacuum
+relief valve
+installed in the cold
+water supply
+line above the top of the heater or tank, shall be provided to prevent siphoning of any storage
+water heater
+or tank.
+
+---
+
+## Section 504.2: Vacuum Relief Valve
+
+504.2 Vacuum Relief Valve
+Bottom fed
+water heaters
+and bottom fed tanks connected to
+water heaters
+shall have a
+vacuum
+relief valve
+installed. The
+vacuum
+relief valve
+shall comply with ANSI Z21.22.
+
+---
+
+Bottom fed
+water heaters
+and bottom fed tanks connected to
+water heaters
+shall have a
+vacuum
+relief valve
+installed. The
+vacuum
+relief valve
+shall comply with ANSI Z21.22.
+
+---
+
+## Section 504.3: Shutdown
+
+504.3 Shutdown
+A means for disconnecting an electric hot
+water supply system
+from its energy supply shall be provided in accordance with the
+New York City Electrical Code
+. A separate valve shall be provided to shut off the energy fuel supply to all other types of hot
+water supply systems
+in accordance with the
+New York City Fuel Gas Code
+and
+New York City Mechanical Code
+.
+
+---
+
+A means for disconnecting an electric hot
+water supply system
+from its energy supply shall be provided in accordance with the
+New York City Electrical Code
+. A separate valve shall be provided to shut off the energy fuel supply to all other types of hot
+water supply systems
+in accordance with the
+New York City Fuel Gas Code
+and
+New York City Mechanical Code
+.
+
+---
+
+## Section 504.4: Relief Valve
+
+504.4 Relief Valve
+Storage
+water heaters
+operating above atmospheric pressure shall be provided with an
+approved
+, self-closing (levered)
+pressure relief valve
+and
+temperature relief valve
+or combination thereof. The
+relief valve
+shall conform to ANSI Z21.22. The
+relief valve
+shall not be used as a means of controlling thermal
+expansion
+.
+UpCodes Diagram (1)
+
+---
+
+Storage
+water heaters
+operating above atmospheric pressure shall be provided with an
+approved
+, self-closing (levered)
+pressure relief valve
+and
+temperature relief valve
+or combination thereof. The
+relief valve
+shall conform to ANSI Z21.22. The
+relief valve
+shall not be used as a means of controlling thermal
+expansion
+.
+
+---
+
+## Section 504.4.1: Installation
+
+504.4.1 Installation
+Such valves shall be installed in the shell of the storage
+water heater
+tank.
+Temperature relief valves
+shall be so located in the tank as to be actuated by the
+water
+in the top 6 inches (152 mm) of the tank served. For installations with separate storage tanks, the
+approved
+, self-closing (levered)
+pressure relief valve
+and
+temperature relief valve
+or combination thereof conforming to ANSI Z21.22, shall be installed on both the storage
+water heater
+and storage tank. There shall not be a check valve or shutoff valve between a
+relief valve
+and the heater or tank served.
+
+---
+
+Such valves shall be installed in the shell of the storage
+water heater
+tank.
+Temperature relief valves
+shall be so located in the tank as to be actuated by the
+water
+in the top 6 inches (152 mm) of the tank served. For installations with separate storage tanks, the
+approved
+, self-closing (levered)
+pressure relief valve
+and
+temperature relief valve
+or combination thereof conforming to ANSI Z21.22, shall be installed on both the storage
+water heater
+and storage tank. There shall not be a check valve or shutoff valve between a
+relief valve
+and the heater or tank served.
+
+---
+
+## Section 504.5: Relief Valve Approval
+
+504.5 Relief Valve Approval
+Temperature and pressure relief valves
+, or combinations thereof, and energy cutoff devices shall bear the label of an
+approved agency
+and shall have a temperature setting of not more than 210°F (99°C) and a pressure setting not exceeding the tank or
+water heater
+manufacturer's rated working
+pressure
+. The relieving capacity of each
+pressure relief valve
+and each
+temperature relief valve
+shall equal or exceed the heat input to the
+water heater
+or storage tank.
+
+---
+
+Temperature and pressure relief valves
+, or combinations thereof, and energy cutoff devices shall bear the label of an
+approved agency
+and shall have a temperature setting of not more than 210°F (99°C) and a pressure setting not exceeding the tank or
+water heater
+manufacturer's rated working
+pressure
+. The relieving capacity of each
+pressure relief valve
+and each
+temperature relief valve
+shall equal or exceed the heat input to the
+water heater
+or storage tank.
+
+---
+
+## Section 504.6: Requirements for Discharge Piping
+
+504.6 Requirements for Discharge Piping
+The discharge piping serving a
+pressure relief valve
+,
+temperature relief valve
+or combination thereof shall:
+Not be directly connected to the
+drainage system
+.
+Discharge through an
+air gap
+located in the same room as the
+water heater
+.
+Not be smaller than the diameter of the outlet of the valve served and shall discharge full size to the
+air gap
+.
+Serve a single relief device and shall not connect to piping serving any other relief device or equipment.
+Discharge in a manner that does not cause personal injury or structural damage.
+Discharge to a termination point that is readily observable by the building occupants.
+Not be trapped.
+Be installed so as to flow by
+gravity
+.
+Terminate not more than 6 inches (152 mm) above and not less than two times the
+discharge pipe
+diameter above the floor or
+flood level rim
+of the
+waste receptor
+.
+Not have a threaded connection at the end of such piping.
+Not have valves or tee fittings.
+Be constructed of those
+materials
+listed in Section 605.4 or
+materials
+tested, rated and
+approved
+for such use in accordance with ASME A112.4.1.
+
+---
+
+The discharge piping serving a
+pressure relief valve
+,
+temperature relief valve
+or combination thereof shall:
+Not be directly connected to the
+drainage system
+.
+Discharge through an
+air gap
+located in the same room as the
+water heater
+.
+Not be smaller than the diameter of the outlet of the valve served and shall discharge full size to the
+air gap
+.
+Serve a single relief device and shall not connect to piping serving any other relief device or equipment.
+Discharge in a manner that does not cause personal injury or structural damage.
+Discharge to a termination point that is readily observable by the building occupants.
+Not be trapped.
+Be installed so as to flow by
+gravity
+.
+Terminate not more than 6 inches (152 mm) above and not less than two times the
+discharge pipe
+diameter above the floor or
+flood level rim
+of the
+waste receptor
+.
+Not have a threaded connection at the end of such piping.
+Not have valves or tee fittings.
+Be constructed of those
+materials
+listed in Section 605.4 or
+materials
+tested, rated and
+approved
+for such use in accordance with ASME A112.4.1.
+
+---
+
+## Section 504.7: Required Pan
+
+504.7 Required Pan
+Where a storage tank-type
+water heater
+or a
+hot water
+storage tank is installed in a
+location
+where
+water
+leakage from the tank will cause damage, the tank shall be installed in a galvanized steel pan having a material thickness of not less than 0.0236 inch (0.6010 mm) (No. 24 gage), or other pans
+approved
+for such use.
+UpCodes Diagram (1)
+
+---
+
+Where a storage tank-type
+water heater
+or a
+hot water
+storage tank is installed in a
+location
+where
+water
+leakage from the tank will cause damage, the tank shall be installed in a galvanized steel pan having a material thickness of not less than 0.0236 inch (0.6010 mm) (No. 24 gage), or other pans
+approved
+for such use.
+
+---
+
+## Section 504.7.1: Pan Size and Drain
+
+504.7.1 Pan Size and Drain
+The pan shall be not less than 1
+1
+/
+2
+inches (38 mm) in depth and shall be of sufficient size and shape to receive all dripping or condensate from the tank or
+water heater
+. The pan shall be drained by an
+indirect waste pipe
+having a diameter of not less than
+3
+/
+4
+inch (19 mm). Piping for safety pan
+drains
+shall be of those
+materials
+listed in
+Table 605.4
+.
+Exception:
+A pan
+drain
+shall not be required for a replacement
+water heater
+where a pan
+drain
+was not previously installed, provided that a leak detector is installed within the pan.
+
+---
+
+The pan shall be not less than 1
+1
+/
+2
+inches (38 mm) in depth and shall be of sufficient size and shape to receive all dripping or condensate from the tank or
+water heater
+. The pan shall be drained by an
+indirect waste pipe
+having a diameter of not less than
+3
+/
+4
+inch (19 mm). Piping for safety pan
+drains
+shall be of those
+materials
+listed in
+Table 605.4
+.
+Exception:
+A pan
+drain
+shall not be required for a replacement
+water heater
+where a pan
+drain
+was not previously installed, provided that a leak detector is installed within the pan.
+
+---
+
+## Section 504.7.2: Pan Drain Termination
+
+504.7.2 Pan Drain Termination
+The pan
+drain
+shall extend full size and terminate over a suitably located indirect
+waste receptor
+or
+floor drain
+or extend to the exterior of the building and terminate not less than 6 inches (152 mm) and not more than 24 inches (610 mm) above the adjacent ground surface at a point that is readily observable by the building occupants.
+UpCodes Diagram (1)
+
+---
+
+The pan
+drain
+shall extend full size and terminate over a suitably located indirect
+waste receptor
+or
+floor drain
+or extend to the exterior of the building and terminate not less than 6 inches (152 mm) and not more than 24 inches (610 mm) above the adjacent ground surface at a point that is readily observable by the building occupants.
+
+---
+
+## Section 504.8: Flow-Sensing Switch
+
+504.8 Flow-Sensing Switch
+On copper fin tube, gas-fired domestic hot
+water heaters
+, a flow switch shall be provided to interrupt the gas supply to the heater in the event
+water
+flow through the coil is interrupted.
+
+---
+
+On copper fin tube, gas-fired domestic hot
+water heaters
+, a flow switch shall be provided to interrupt the gas supply to the heater in the event
+water
+flow through the coil is interrupted.
+
+---
+
+Section 505 Insulation
+
+---
+
+## Section 505.1: Unfired Vessel Insulation
+
+505.1 Unfired Vessel Insulation
+Unfired
+hot water
+storage tanks shall be insulated in accordance with the
+New York City Energy Conservation Code
+.
+
+---
+
+Unfired
+hot water
+storage tanks shall be insulated in accordance with the
+New York City Energy Conservation Code
+.
+
+---
+

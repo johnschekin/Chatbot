@@ -1,0 +1,4792 @@
+# NYC Building Code 2022 - Chapter 30
+
+New York City Building Code 2022
+
+---
+
+Dedications
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 Use and Occupancy Classification
+
+---
+
+Chapter 4 Special Detailed Requirements Based on Use and Occupancy
+
+---
+
+Chapter 5 General Building Heights and Areas; Separation of Occupancies
+
+---
+
+Chapter 6 Types of Construction
+
+---
+
+Chapter 7 Fire and Smoke Protection Features
+
+---
+
+Chapter 8 Interior Finishes
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Accessibility
+
+---
+
+Chapter 12 Interior Environment
+
+---
+
+Chapter 13 Energy Efficiency
+
+---
+
+Chapter 14 Exterior Walls
+
+---
+
+Chapter 15 Roof Assemblies and Rooftop Structures
+
+---
+
+Chapter 16 Structural Design
+
+---
+
+Chapter 17 Special Inspections and Tests
+
+---
+
+Chapter 18 Soils and Foundations
+
+---
+
+Chapter 19 Concrete
+
+---
+
+Chapter 20 Aluminum
+
+---
+
+Chapter 21 Masonry
+
+---
+
+Chapter 22 Steel
+
+---
+
+Chapter 23 Wood
+
+---
+
+Chapter 24 Glass and Glazing
+
+---
+
+Chapter 25 Gypsum Board, Gypsum Panel Products and Plaster
+
+---
+
+Chapter 26 Plastic
+
+---
+
+Chapter 27 Electrical
+
+---
+
+Chapter 28 Mechanical Systems
+
+---
+
+Chapter 29 Plumbing Systems
+
+---
+
+Chapter 30 Elevators and Conveying Systems
+
+---
+
+BC 3001 General
+
+---
+
+BC 3002 Hoistway Enclosures
+
+---
+
+BC 3003 Emergency Operations
+
+---
+
+BC 3004 Conveying Systems
+
+---
+
+BC 3005 Machinery Spaces, Machine Rooms, Control Spaces and Control Rooms
+
+---
+
+BC 3006 Elevator Lobbies and Hoistway Opening Protection
+
+---
+
+BC 3007 Fire Service Access Elevator
+
+---
+
+BC 3008 Occupant Evacuation Elevators
+
+---
+
+BC 3009 Service Equipment Certificates
+
+---
+
+BC 3010 Elevator, Amusement and Other Device Operators
+
+---
+
+BC 3011 Elevator Being Serviced, Repaired, Inspected or Tested
+
+---
+
+BC 3012 Accidents
+
+---
+
+BC 3013 Existing Installations
+
+---
+
+BC 3014 Inspection and Testing
+
+---
+
+Chapter 31 Special Construction
+
+---
+
+Chapter 32 Encroachments Into the Public Right-of-Way
+
+---
+
+Chapter 33 Safeguards During Construction or Demolition
+
+---
+
+Chapter 34 Reserved
+
+---
+
+Chapter 35 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Reserved
+
+---
+
+Appendix D Fire Districts
+
+---
+
+Appendix E Supplementary Accessibility Requirements
+
+---
+
+Appendix F Rodentproofing
+
+---
+
+Appendix G Flood-Resistant Construction
+
+---
+
+Appendix H Outdoor Signs
+
+---
+
+Appendix I Reserved
+
+---
+
+Appendix J Reserved
+
+---
+
+Appendix K Modified Industry Standards for Elevators and Conveying Systems
+
+---
+
+Appendix L Reserved
+
+---
+
+Appendix M Supplementary Requirements for One- And Two-Family Dwellings
+
+---
+
+Appendix N Assistive Listening Systems Performance Standards
+
+---
+
+Appendix O Reserved
+
+---
+
+Appendix P Reserved
+
+---
+
+Appendix Q Modified National Standards for Automatic Sprinkler, Standpipe, Fire Pump, Fire Alarm, and Smoke Control Systems
+
+---
+
+Appendix R Acoustical Tile and Lay-in Panel Ceiling Suspension Systems
+
+---
+
+Appendix S Supplementary Figures for Luminous Egress Path Markings
+
+---
+
+Appendix U Ancillary Dwelling Units
+
+---
+
+Chapter 30 Elevators and Conveying Systems
+
+---
+
+Section BC 3001 General
+
+---
+
+## Section 3001.1: Scope
+
+3001.1 Scope
+This chapter establishes the minimum safety requirements for and governs the
+design
+,
+construction
+,
+installation
+, alteration,
+maintenance
+,
+inspection
+, test and
+operation
+of elevators, dumbwaiters, escalators, moving walks, industrial lifts and loading
+ramps
+, mechanical parking
+equipment
+, console or
+stage
+lifts, power-operated
+scaffolds
+, amusement devices,
+platform
+lifts, and special hoisting and conveying
+equipment
+. This chapter and all the provisions of this code for new
+installations
+shall also apply to elevators in existing buildings moved to new
+hoistways
+.
+High-rise building
+elevators shall also conform to the provisions of Section 403 of this code.
+Exception:
+Personnel and
+material hoists
+used for
+construction
+operations
+subject to the requirements of
+Chapter 33
+.
+
+---
+
+This chapter establishes the minimum safety requirements for and governs the
+design
+,
+construction
+,
+installation
+, alteration,
+maintenance
+,
+inspection
+, test and
+operation
+of elevators, dumbwaiters, escalators, moving walks, industrial lifts and loading
+ramps
+, mechanical parking
+equipment
+, console or
+stage
+lifts, power-operated
+scaffolds
+, amusement devices,
+platform
+lifts, and special hoisting and conveying
+equipment
+. This chapter and all the provisions of this code for new
+installations
+shall also apply to elevators in existing buildings moved to new
+hoistways
+.
+High-rise building
+elevators shall also conform to the provisions of Section 403 of this code.
+Exception:
+Personnel and
+material hoists
+used for
+construction
+operations
+subject to the requirements of
+Chapter 33
+.
+
+---
+
+## Section 3001.2: Referenced Standards
+
+3001.2 Referenced Standards
+Except as otherwise provided for in this code, the
+design
+,
+construction
+,
+installation
+, alteration, repair and
+maintenance
+of elevators and conveying systems and their components shall conform to
+ASME A17.1/CSA B44
+as modified by Appendix K, Chapter K1, ASME A17.2, ASME A17.3 as modified by Appendix K, Chapter K3, ASME A17.5, ASME A17.6, ASME A17.7/CSA B44.7, ASME A18.1, ASME A90.1, ASME B20.1 as modified by Appendix K, Chapter K2, ANSI A10.4, ANSI E1.42‡, ANSI E1.46, ANSI/
+ICC A117.1
+, and ASCE 24 for
+construction
+in
+flood hazard areas
+established in
+Appendix G
+. Where this code makes reference to the nationally recognized standards ASME A17.1/CSA B44, ASME A17.3, and ASME B20.1, such standard(s) shall be as modified for New York City in accordance with
+Appendix K
+of this code.
+
+---
+
+Except as otherwise provided for in this code, the
+design
+,
+construction
+,
+installation
+, alteration, repair and
+maintenance
+of elevators and conveying systems and their components shall conform to
+ASME A17.1/CSA B44
+as modified by Appendix K, Chapter K1, ASME A17.2, ASME A17.3 as modified by Appendix K, Chapter K3, ASME A17.5, ASME A17.6, ASME A17.7/CSA B44.7, ASME A18.1, ASME A90.1, ASME B20.1 as modified by Appendix K, Chapter K2, ANSI A10.4, ANSI E1.42‡, ANSI E1.46, ANSI/
+ICC A117.1
+, and ASCE 24 for
+construction
+in
+flood hazard areas
+established in
+Appendix G
+. Where this code makes reference to the nationally recognized standards ASME A17.1/CSA B44, ASME A17.3, and ASME B20.1, such standard(s) shall be as modified for New York City in accordance with
+Appendix K
+of this code.
+
+---
+
+‡‡‡ 3001.3 Accessibility
+The following elevators and lifts shall conform to
+ICC A117.1
+:
+Passenger elevators, including destination-oriented elevators, required to be accessible by
+Chapter 11
+;
+Limited-Use/Limited-
+Application
+(LULA) elevators permitted to be installed on an
+accessible route
+pursuant to
+Section 1109.7.1
+;
+Platform
+lifts permitted to be installed on an
+accessible route
+pursuant to
+Section 1109.8
+;
+Private residence elevators serving within an
+individual dwelling unit
+in Occupancy Groups
+R-2
+and
+R-3
+occupancies on an
+accessible route
+; and
+Elevators provided in accordance with Sections
+3002.4.3.2
+and
+3002.4.3.3
+.
+‡‡‡
+Chapter 30
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+UpCodes Diagrams (3)
+
+---
+
+The following elevators and lifts shall conform to
+ICC A117.1
+:
+Passenger elevators, including destination-oriented elevators, required to be accessible by
+Chapter 11
+;
+Limited-Use/Limited-
+Application
+(LULA) elevators permitted to be installed on an
+accessible route
+pursuant to
+Section 1109.7.1
+;
+Platform
+lifts permitted to be installed on an
+accessible route
+pursuant to
+Section 1109.8
+;
+Private residence elevators serving within an
+individual dwelling unit
+in Occupancy Groups
+R-2
+and
+R-3
+occupancies on an
+accessible route
+; and
+Elevators provided in accordance with Sections
+3002.4.3.2
+and
+3002.4.3.3
+.
+‡‡‡
+Chapter 30
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+## Section 3001.4: Change in Use
+
+3001.4 Change in Use
+A change in use of an elevator from freight to passenger, passenger to freight, or from one freight class to another freight class shall comply with
+Section 8.7
+of
+ASME A17.1/CSA B44
+.
+
+---
+
+A change in use of an elevator from freight to passenger, passenger to freight, or from one freight class to another freight class shall comply with
+Section 8.7
+of
+ASME A17.1/CSA B44
+.
+
+---
+
+## Section 3001.5: Piping or Ductwork
+
+3001.5 Piping or Ductwork
+No piping or ductwork, except as permitted by
+ASME A17.1/CSA B44
+, Section 2.8, shall be permitted within
+hoistway
+or elevator enclosures except:
+As required for the elevator
+installation
+; and
+Low-voltage wiring less than 50 volts required for
+fire alarm systems
+required by this code.
+
+---
+
+No piping or ductwork, except as permitted by
+ASME A17.1/CSA B44
+, Section 2.8, shall be permitted within
+hoistway
+or elevator enclosures except:
+As required for the elevator
+installation
+; and
+Low-voltage wiring less than 50 volts required for
+fire alarm systems
+required by this code.
+
+---
+
+## Section 3001.6: Elevator Mirrors
+
+3001.6 Elevator Mirrors
+A mirror shall be installed in each self-service passenger elevator in
+multiple dwellings
+. Such mirror shall be affixed and maintained in a manner sufficient to enable persons entering such elevator to view the inside thereof prior to entry to determine whether any person is in the elevator.
+
+---
+
+A mirror shall be installed in each self-service passenger elevator in
+multiple dwellings
+. Such mirror shall be affixed and maintained in a manner sufficient to enable persons entering such elevator to view the inside thereof prior to entry to determine whether any person is in the elevator.
+
+---
+
+## Section 3001.7: Car Switch Operation
+
+3001.7 Car Switch Operation
+Elevators with car switch
+operation
+(manual
+operation
+) shall be provided with a signal system by means of which signals can be given from any landing whenever the elevator is desired at that landing.
+
+---
+
+Elevators with car switch
+operation
+(manual
+operation
+) shall be provided with a signal system by means of which signals can be given from any landing whenever the elevator is desired at that landing.
+
+---
+
+## Section 3001.8: Prohibited Devices
+
+3001.8 Prohibited Devices
+The following devices shall be prohibited:
+
+---
+
+The following devices shall be prohibited:
+
+---
+
+## Section 3001.8.1: Manlifts
+
+3001.8.1 Manlifts
+The
+installation
+of manlifts is prohibited.
+
+---
+
+The
+installation
+of manlifts is prohibited.
+
+---
+
+## Section 3001.8.2: Sidewalk Elevators
+
+3001.8.2 Sidewalk Elevators
+The
+installation
+of sidewalk elevators located outside the
+street line
+is prohibited.
+
+---
+
+The
+installation
+of sidewalk elevators located outside the
+street line
+is prohibited.
+
+---
+
+## Section 3001.9: Approved Equipment
+
+3001.9 Approved Equipment
+All
+equipment
+listed in
+ASME A17.1/CSA B44
+, Section 8.3 as modified by
+New York City Building Code
+, Appendix K, Chapter K1, shall be listed by an
+approved agency
+in accordance with Section 28-113.2.3 of the
+Administrative Code
+,
+Section 8.3.1
+of
+ASME A17.1/CSA B44
+, and the rules of the department, and shall be approved by the commissioner.
+
+---
+
+All
+equipment
+listed in
+ASME A17.1/CSA B44
+, Section 8.3 as modified by
+New York City Building Code
+, Appendix K, Chapter K1, shall be listed by an
+approved agency
+in accordance with Section 28-113.2.3 of the
+Administrative Code
+,
+Section 8.3.1
+of
+ASME A17.1/CSA B44
+, and the rules of the department, and shall be approved by the commissioner.
+
+---
+
+## Section 3001.10: Construction Documents
+
+3001.10 Construction Documents
+Applications
+for elevator, escalator, moving walkway and
+stairway
+, dumbwaiter, and similar
+equipment
+shall contain
+construction documents
+that include the following:
+The location of all machinery, switchboards, junction boxes, and reaction points, with
+loads
+indicated;
+The details of all
+hoistway
+conditions including bracket spacing;
+The estimated maximum vertical forces on the guide rails on
+application
+of the safety device;
+In the case of freight elevators for Class B or C loading, the horizontal forces on the guide-rail faces during loading and unloading; and the estimated maximum horizontal forces in a postwise direction on the guide-rail faces on
+application
+of the safety device;
+The size and weight per foot of any rail
+reinforcements
+where provided;
+Compliance with the
+accessibility
+features of this code;
+The details of capability of the withstanding forces (impact) on
+door
+entrance assembly and retaining devices;
+The withstanding hourly fire rating of the
+hoistway
+and the
+hoistway
+door
+assembly;
+The impact
+loads
+imposed on machinery and sheave beams, supports and floors or foundations;
+The impact load on buffer supports due to buffer engagement at the maximum permissible speed and
+load
+;
+Where compensation tie down is applied, the
+load
+on the compensation tie down supports; and
+The total static and dynamic
+loads
+from the governor, buffer and tension system.
+
+---
+
+Applications
+for elevator, escalator, moving walkway and
+stairway
+, dumbwaiter, and similar
+equipment
+shall contain
+construction documents
+that include the following:
+The location of all machinery, switchboards, junction boxes, and reaction points, with
+loads
+indicated;
+The details of all
+hoistway
+conditions including bracket spacing;
+The estimated maximum vertical forces on the guide rails on
+application
+of the safety device;
+In the case of freight elevators for Class B or C loading, the horizontal forces on the guide-rail faces during loading and unloading; and the estimated maximum horizontal forces in a postwise direction on the guide-rail faces on
+application
+of the safety device;
+The size and weight per foot of any rail
+reinforcements
+where provided;
+Compliance with the
+accessibility
+features of this code;
+The details of capability of the withstanding forces (impact) on
+door
+entrance assembly and retaining devices;
+The withstanding hourly fire rating of the
+hoistway
+and the
+hoistway
+door
+assembly;
+The impact
+loads
+imposed on machinery and sheave beams, supports and floors or foundations;
+The impact load on buffer supports due to buffer engagement at the maximum permissible speed and
+load
+;
+Where compensation tie down is applied, the
+load
+on the compensation tie down supports; and
+The total static and dynamic
+loads
+from the governor, buffer and tension system.
+
+---
+
+## Section 3001.11: Special Provisions for Prior Code Buildings
+
+3001.11 Special Provisions for Prior Code Buildings
+Prior code buildings shall be permitted to comply with
+Section 3001.11.1
+.
+
+---
+
+Prior code buildings shall be permitted to comply with
+Section 3001.11.1
+.
+
+---
+
+## Section 3001.11.1: Existing Shafts
+
+3001.11.1 Existing Shafts
+Elevator cabs installed in existing
+shafts
+shall be permitted to be smaller than that required by this chapter where necessary to fit in the existing
+shaft
+.
+Exception:
+An existing elevator
+shaft
+shall be enlarged or a new elevator
+shaft
+shall be constructed to accommodate an elevator cab in compliance with
+Chapter 11
+where the entire
+building
+is required to be accessible pursuant to either Item 1 of
+Section 1101.3.1
+, or
+Section 1101.3.2
+.
+
+---
+
+Elevator cabs installed in existing
+shafts
+shall be permitted to be smaller than that required by this chapter where necessary to fit in the existing
+shaft
+.
+Exception:
+An existing elevator
+shaft
+shall be enlarged or a new elevator
+shaft
+shall be constructed to accommodate an elevator cab in compliance with
+Chapter 11
+where the entire
+building
+is required to be accessible pursuant to either Item 1 of
+Section 1101.3.1
+, or
+Section 1101.3.2
+.
+
+---
+
+Section BC 3002 Hoistway Enclosures
+
+---
+
+## Section 3002.1: Hoistway Enclosure Protection
+
+3002.1 Hoistway Enclosure Protection
+Elevator, dumbwaiter and other
+hoistway
+enclosures shall be
+shaft enclosures
+complying with Section 713.
+
+---
+
+Elevator, dumbwaiter and other
+hoistway
+enclosures shall be
+shaft enclosures
+complying with Section 713.
+
+---
+
+## Section 3002.1.1: Definitions
+
+3002.1.1 Definitions
+The following terms are defined in
+Chapter 2
+:
+HOISTWAY
+.
+ZERO CLEARANCE VESTIBULE
+.
+
+---
+
+The following terms are defined in
+Chapter 2
+:
+HOISTWAY
+.
+ZERO CLEARANCE VESTIBULE
+.
+
+---
+
+## Section 3002.1.2: Opening Protectives
+
+3002.1.2 Opening Protectives
+Openings
+in
+hoistway
+enclosures shall be protected as required in
+Chapter 7
+.
+Exception:
+The elevator car doors and the associated
+hoistway
+enclosure doors at the floor level designated for recall in accordance with
+Section 3003.2
+shall be permitted to remain open during Phase I Emergency Recall
+Operation
+in accordance with
+ASME A17.1/CSA B44
+, as modified by
+Appendix K
+,
+Chapter K1
+.
+
+---
+
+Openings
+in
+hoistway
+enclosures shall be protected as required in
+Chapter 7
+.
+Exception:
+The elevator car doors and the associated
+hoistway
+enclosure doors at the floor level designated for recall in accordance with
+Section 3003.2
+shall be permitted to remain open during Phase I Emergency Recall
+Operation
+in accordance with
+ASME A17.1/CSA B44
+, as modified by
+Appendix K
+,
+Chapter K1
+.
+
+---
+
+## Section 3002.1.3: Hardware
+
+3002.1.3 Hardware
+Hardware on opening protectives shall be of an approved type installed as tested, except that approved interlocks, mechanical locks and electric contacts,
+door
+and gate electric contacts and
+door
+-operating mechanisms shall be exempt from the fire test requirements.
+
+---
+
+Hardware on opening protectives shall be of an approved type installed as tested, except that approved interlocks, mechanical locks and electric contacts,
+door
+and gate electric contacts and
+door
+-operating mechanisms shall be exempt from the fire test requirements.
+
+---
+
+## Section 3002.2: Number of Elevator Cars in a Hoistway
+
+3002.2 Number of Elevator Cars in a Hoistway
+Where four or more elevator cars serve all or the same portion of a
+building
+, the elevators shall be located in not fewer than two separate
+hoistways
+.
+Where five or more elevators serve the same portion of a
+building
+, not more than four elevator cars shall be located in any single
+hoistway
+enclosure.
+Elevators that service different rises shall be located in separate
+hoistways
+.
+
+---
+
+Where four or more elevator cars serve all or the same portion of a
+building
+, the elevators shall be located in not fewer than two separate
+hoistways
+.
+Where five or more elevators serve the same portion of a
+building
+, not more than four elevator cars shall be located in any single
+hoistway
+enclosure.
+Elevators that service different rises shall be located in separate
+hoistways
+.
+
+---
+
+## Section 3002.3: Emergency Signs
+
+3002.3 Emergency Signs
+A
+sign
+shall be posted and maintained on every floor at the
+elevator landing
+. The
+sign
+shall read "IN FIRE EMERGENCY, DO NOT USE ELEVATOR. USE THE
+EXIT
+STAIRS
+." The lettering shall be at least
+1
+/
+2
+inch (13 mm) block letters in red with white background or as otherwise approved by the commissioner. Such lettering shall be properly spaced to provide good legibility. The
+sign
+shall also contain a diagram showing the location where it is posted and the location and letter identification of the
+stairs
+on the floor. The
+sign
+shall be at least 10 inches by 12 inches (255 mm by 305 mm), located directly above a call button and securely attached to the
+wall
+or partition. The top of such
+sign
+shall not be more than 6 feet (1829 mm) above the floor level. The diagram on such
+sign
+may be omitted provided that
+signs
+containing such diagram are posted in conspicuous places on the respective floor. In such case, the
+sign
+at the
+elevator landing
+shall be at least 2
+1
+/
+2
+inches by 10 inches (64 mm by 254 mm) and the diagram
+signs
+shall be at least 8 inches by 12 inches (203 mm by 305 mm).
+
+---
+
+A
+sign
+shall be posted and maintained on every floor at the
+elevator landing
+. The
+sign
+shall read "IN FIRE EMERGENCY, DO NOT USE ELEVATOR. USE THE
+EXIT
+STAIRS
+." The lettering shall be at least
+1
+/
+2
+inch (13 mm) block letters in red with white background or as otherwise approved by the commissioner. Such lettering shall be properly spaced to provide good legibility. The
+sign
+shall also contain a diagram showing the location where it is posted and the location and letter identification of the
+stairs
+on the floor. The
+sign
+shall be at least 10 inches by 12 inches (255 mm by 305 mm), located directly above a call button and securely attached to the
+wall
+or partition. The top of such
+sign
+shall not be more than 6 feet (1829 mm) above the floor level. The diagram on such
+sign
+may be omitted provided that
+signs
+containing such diagram are posted in conspicuous places on the respective floor. In such case, the
+sign
+at the
+elevator landing
+shall be at least 2
+1
+/
+2
+inches by 10 inches (64 mm by 254 mm) and the diagram
+signs
+shall be at least 8 inches by 12 inches (203 mm by 305 mm).
+
+---
+
+## Section 3002.3.1: Stair and Elevator Identification Signs
+
+3002.3.1 Stair and Elevator Identification Signs
+Each
+stair
+and each bank of elevators shall be identified by an alphabetic letter. A
+sign
+indicating the letter of identification for the elevator bank shall be posted and maintained at each
+elevator landing
+directly above or as part of the
+sign
+specified in
+Section 3002.3
+. The
+stair
+identification
+sign
+shall be posted and maintained on the occupancy side of the
+stair
+door
+. The letter on the
+sign
+shall be at least 3 inches (76 mm) high, of bold type and of contrasting color from the background. Such
+signs
+shall be securely attached.
+Exceptions:
+The emergency
+sign
+shall not be required for elevators that are part of an
+accessible means of egress
+complying with
+Section 1009.4
+.
+The emergency
+sign
+shall not be required for elevators that are used for occupant self-evacuation in accordance with Section 3008.
+
+---
+
+Each
+stair
+and each bank of elevators shall be identified by an alphabetic letter. A
+sign
+indicating the letter of identification for the elevator bank shall be posted and maintained at each
+elevator landing
+directly above or as part of the
+sign
+specified in
+Section 3002.3
+. The
+stair
+identification
+sign
+shall be posted and maintained on the occupancy side of the
+stair
+door
+. The letter on the
+sign
+shall be at least 3 inches (76 mm) high, of bold type and of contrasting color from the background. Such
+signs
+shall be securely attached.
+Exceptions:
+The emergency
+sign
+shall not be required for elevators that are part of an
+accessible means of egress
+complying with
+Section 1009.4
+.
+The emergency
+sign
+shall not be required for elevators that are used for occupant self-evacuation in accordance with Section 3008.
+
+---
+
+## Section 3002.4: Elevator Required
+
+3002.4 Elevator Required
+In buildings five
+stories
+in
+height
+or more and buildings with four or more
+stories
+below
+grade plane
+, at least one elevator shall provide access to all floors.
+
+---
+
+In buildings five
+stories
+in
+height
+or more and buildings with four or more
+stories
+below
+grade plane
+, at least one elevator shall provide access to all floors.
+
+---
+
+## Section 3002.4.1: Standby Power Required for Elevators
+
+3002.4.1 Standby Power Required for Elevators
+Standby power shall be provided to elevators in the following categories:
+Elevator(s) in
+high-rise buildings
+covered by
+Section 403.1
+, other than Group
+R-2
+occupancies, as required by
+Section 403.4.8.4.1
+;
+Elevator(s) in
+high-rise buildings
+in Group
+R-2
+occupancies more than 125 feet (38 100 mm) in
+height
+, as required by
+Section 403.4.8.4.2
+;
+Elevator(s) in underground buildings, as required by
+Section 405.8
+;
+Elevator(s) in Groups B, E, and
+R-1
+occupancies that are subject to
+Section 2702.2.20
+; and
+Elevator(s) serving as
+accessible means of egress
+pursuant to
+Section 1009.4
+.
+
+---
+
+Standby power shall be provided to elevators in the following categories:
+Elevator(s) in
+high-rise buildings
+covered by
+Section 403.1
+, other than Group
+R-2
+occupancies, as required by
+Section 403.4.8.4.1
+;
+Elevator(s) in
+high-rise buildings
+in Group
+R-2
+occupancies more than 125 feet (38 100 mm) in
+height
+, as required by
+Section 403.4.8.4.2
+;
+Elevator(s) in underground buildings, as required by
+Section 405.8
+;
+Elevator(s) in Groups B, E, and
+R-1
+occupancies that are subject to
+Section 2702.2.20
+; and
+Elevator(s) serving as
+accessible means of egress
+pursuant to
+Section 1009.4
+.
+
+---
+
+## Section 3002.4.2: Elevator Car to Accommodate Ambulance Stretcher
+
+3002.4.2 Elevator Car to Accommodate Ambulance Stretcher
+Where elevators are provided in buildings five or more
+stories
+above, or four or more
+stories
+below
+grade plane
+, or underground buildings as described in
+Section 405.1
+, not fewer than one elevator subject to
+Section 3003.3
+shall be provided with an elevator car of such a size and arrangement to accommodate an ambulance stretcher 24 inches by 84 inches (610 mm by 2134 mm), with not less than 5 inch (127 mm) radius corners, in the horizontal, open position and shall be identified by the international symbol for emergency medical
+services
+(star of life). The symbol shall be not less than 3 inches (76 mm) in
+height
+and shall be placed on both jambs of the
+hoistway
+entrances on each floor. Standby power shall be required for such an elevator if it serves a
+building
+subject to
+Section 3002.4.1
+.
+Exceptions:
+An elevator serving not more than one
+individual dwelling unit
+in a
+building
+pursuant to
+Section 3002.4.3.1
+or
+3002.4.3.2
+.
+Limited-Use/Limited-
+Application
+(LULA) elevators (25 feet maximum rise).
+
+---
+
+Where elevators are provided in buildings five or more
+stories
+above, or four or more
+stories
+below
+grade plane
+, or underground buildings as described in
+Section 405.1
+, not fewer than one elevator subject to
+Section 3003.3
+shall be provided with an elevator car of such a size and arrangement to accommodate an ambulance stretcher 24 inches by 84 inches (610 mm by 2134 mm), with not less than 5 inch (127 mm) radius corners, in the horizontal, open position and shall be identified by the international symbol for emergency medical
+services
+(star of life). The symbol shall be not less than 3 inches (76 mm) in
+height
+and shall be placed on both jambs of the
+hoistway
+entrances on each floor. Standby power shall be required for such an elevator if it serves a
+building
+subject to
+Section 3002.4.1
+.
+Exceptions:
+An elevator serving not more than one
+individual dwelling unit
+in a
+building
+pursuant to
+Section 3002.4.3.1
+or
+3002.4.3.2
+.
+Limited-Use/Limited-
+Application
+(LULA) elevators (25 feet maximum rise).
+
+---
+
+## Section 3002.4.3: Elevator Serving Individual Dwelling Unit
+
+3002.4.3 Elevator Serving Individual Dwelling Unit
+Elevators provided in
+individual dwelling units
+in buildings in Occupancy Groups
+R-2
+and
+R-3
+shall comply with
+Section 3002.4.3.1
+through
+3002.4.3.3
+, as applicable.
+
+---
+
+Elevators provided in
+individual dwelling units
+in buildings in Occupancy Groups
+R-2
+and
+R-3
+shall comply with
+Section 3002.4.3.1
+through
+3002.4.3.3
+, as applicable.
+
+---
+
+## Section 3002.4.3.1: Maximum Rise of 60 Feet (18 288 mm)
+
+3002.4.3.1 Maximum Rise of 60 Feet (18 288 mm)
+A private residence elevator with 60 feet (18 288 mm) of maximum rise shall be permitted to serve within an
+individual dwelling unit
+provided the elevator car is in compliance with
+ASME A17.1/CSA B44
+, and Section 3001.3 of this code.
+
+---
+
+A private residence elevator with 60 feet (18 288 mm) of maximum rise shall be permitted to serve within an
+individual dwelling unit
+provided the elevator car is in compliance with
+ASME A17.1/CSA B44
+, and Section 3001.3 of this code.
+
+---
+
+## Section 3002.4.3.2: Rise of Over 60 Feet (18 288 mm) but Not More Than 75 Feet (22 860 mm)
+
+3002.4.3.2 Rise of Over 60 Feet (18 288 mm) but Not More Than 75 Feet (22 860 mm)
+An elevator with 60 feet (18 288 mm) but not more than 75 feet (22 860 mm) of maximum rise shall be permitted to serve within an
+individual dwelling unit
+provided the elevator car is in compliance with Parts
+2
+or
+3
+of
+ASME A17.1/CSA B44
+and Section 3001.3 of this code even if it does not serve on an
+accessible route
+within the
+dwelling unit
+.
+
+---
+
+An elevator with 60 feet (18 288 mm) but not more than 75 feet (22 860 mm) of maximum rise shall be permitted to serve within an
+individual dwelling unit
+provided the elevator car is in compliance with Parts
+2
+or
+3
+of
+ASME A17.1/CSA B44
+and Section 3001.3 of this code even if it does not serve on an
+accessible route
+within the
+dwelling unit
+.
+
+---
+
+## Section 3002.4.3.3: Maximum Rise of More Than 75 Feet (22 860 mm)
+
+3002.4.3.3 Maximum Rise of More Than 75 Feet (22 860 mm)
+A passenger elevator shall be required to serve within an
+individual dwelling unit
+where the maximum rise is over 75 feet (22 860 mm). Such elevator shall comply with
+ASME A17.1/CSA B44
+, and Sections 3001.3 and
+3002.4.2
+of this code even if it does not serve on an
+accessible route
+within the
+dwelling unit
+.
+
+---
+
+A passenger elevator shall be required to serve within an
+individual dwelling unit
+where the maximum rise is over 75 feet (22 860 mm). Such elevator shall comply with
+ASME A17.1/CSA B44
+, and Sections 3001.3 and
+3002.4.2
+of this code even if it does not serve on an
+accessible route
+within the
+dwelling unit
+.
+
+---
+
+## Section 3002.5: Emergency Doors
+
+3002.5 Emergency Doors
+Where an elevator is installed in a single blind
+hoistway
+or on the outside of a
+building
+, there shall be installed in the blind portion of the
+hoistway
+or blank face of the
+building
+, an emergency
+door
+in accordance with
+ASME A17.1/CSA B44
+.
+
+---
+
+Where an elevator is installed in a single blind
+hoistway
+or on the outside of a
+building
+, there shall be installed in the blind portion of the
+hoistway
+or blank face of the
+building
+, an emergency
+door
+in accordance with
+ASME A17.1/CSA B44
+.
+
+---
+
+## Section 3002.6: Prohibited Doors
+
+3002.6 Prohibited Doors
+Doors, other than
+hoistway
+doors and the elevator car
+door
+, shall be prohibited at the point of egress from an elevator car unless such doors are readily openable from the car side without a key, tool, special knowledge or effort.
+
+---
+
+Doors, other than
+hoistway
+doors and the elevator car
+door
+, shall be prohibited at the point of egress from an elevator car unless such doors are readily openable from the car side without a key, tool, special knowledge or effort.
+
+---
+
+## Section 3002.7: Common Enclosure With Stairway
+
+3002.7 Common Enclosure With Stairway
+Elevators shall not be in a common
+shaft enclosure
+with a
+stairway
+.
+Exception:
+Elevators within
+open parking garages
+need not be separated from
+stairway
+enclosures.
+
+---
+
+Elevators shall not be in a common
+shaft enclosure
+with a
+stairway
+.
+Exception:
+Elevators within
+open parking garages
+need not be separated from
+stairway
+enclosures.
+
+---
+
+## Section 3002.8: Glass in Elevator Enclosures
+
+3002.8 Glass in Elevator Enclosures
+Glass in elevator enclosures shall comply with
+ASME A17.1/CSA B44
+and Section 2409.2 of this code.
+
+---
+
+Glass in elevator enclosures shall comply with
+ASME A17.1/CSA B44
+and Section 2409.2 of this code.
+
+---
+
+## Section 3002.9: Plumbing and Mechanical Systems
+
+3002.9 Plumbing and Mechanical Systems
+Plumbing and
+mechanical systems
+shall not be located in an elevator
+hoistway
+enclosure.
+Exceptions:
+Floor drains, sumps and sump pumps shall be permitted at the base of the
+hoistway
+enclosure provided they are indirectly connected to the plumbing system.
+Sprinklers shall be permitted when otherwise required.
+UpCodes Diagram (1)
+
+---
+
+Plumbing and
+mechanical systems
+shall not be located in an elevator
+hoistway
+enclosure.
+Exceptions:
+Floor drains, sumps and sump pumps shall be permitted at the base of the
+hoistway
+enclosure provided they are indirectly connected to the plumbing system.
+Sprinklers shall be permitted when otherwise required.
+
+---
+
+Section BC 3003 Emergency Operations
+
+---
+
+## Section 3003.1: Standby Power
+
+3003.1 Standby Power
+In buildings and structures where standby power is required or furnished to operate an elevator, the
+operation
+shall be in accordance with Sections
+3002.4.1
+and
+3003.1.1
+through
+3003.1.4
+.
+
+---
+
+In buildings and structures where standby power is required or furnished to operate an elevator, the
+operation
+shall be in accordance with Sections
+3002.4.1
+and
+3003.1.1
+through
+3003.1.4
+.
+
+---
+
+## Section 3003.1.1: Manual Transfer
+
+3003.1.1 Manual Transfer
+Standby power shall be manually transferable to all elevators in each bank.
+
+---
+
+Standby power shall be manually transferable to all elevators in each bank.
+
+---
+
+## Section 3003.1.2: One Elevator
+
+3003.1.2 One Elevator
+Where only one elevator is installed, the elevator shall automatically transfer to standby power within 60 seconds after failure of normal power.
+
+---
+
+Where only one elevator is installed, the elevator shall automatically transfer to standby power within 60 seconds after failure of normal power.
+
+---
+
+## Section 3003.1.3: Two or More Elevators
+
+3003.1.3 Two or More Elevators
+Where two or more elevators are controlled by a common operating system, all elevators shall automatically transfer to standby power within 60 seconds after failure of normal power where the standby power source is of sufficient capacity to operate all elevators at the same time. Where the standby power source is not of sufficient capacity to operate all elevators at the same time, all elevators shall transfer to standby power in sequence, return to the designated landing and disconnect from the standby power source. For buildings with multiple banks of elevators, at least one elevator from each bank shall remain operable from the standby power source.
+
+---
+
+Where two or more elevators are controlled by a common operating system, all elevators shall automatically transfer to standby power within 60 seconds after failure of normal power where the standby power source is of sufficient capacity to operate all elevators at the same time. Where the standby power source is not of sufficient capacity to operate all elevators at the same time, all elevators shall transfer to standby power in sequence, return to the designated landing and disconnect from the standby power source. For buildings with multiple banks of elevators, at least one elevator from each bank shall remain operable from the standby power source.
+
+---
+
+## Section 3003.1.4: Venting
+
+3003.1.4 Venting
+Where standby power is connected to elevators, the machine room
+ventilation
+or air conditioning shall be connected to the standby power source.
+
+---
+
+Where standby power is connected to elevators, the machine room
+ventilation
+or air conditioning shall be connected to the standby power source.
+
+---
+
+## Section 3003.2: Fire-Fighters' Emergency Operation
+
+3003.2 Fire-Fighters' Emergency Operation
+Elevators shall be provided with Phase I emergency recall
+operation
+and Phase II emergency in-car
+operation
+where required by
+ASME A17.1/CSA B44
+as modified by
+Appendix K
+.
+
+---
+
+Elevators shall be provided with Phase I emergency recall
+operation
+and Phase II emergency in-car
+operation
+where required by
+ASME A17.1/CSA B44
+as modified by
+Appendix K
+.
+
+---
+
+## Section 3003.3: Elevator in Readiness
+
+3003.3 Elevator in Readiness
+Requirements for elevator in readiness shall be as defined in Sections
+3003.3.1
+through
+3003.3.2
+.
+
+---
+
+Requirements for elevator in readiness shall be as defined in Sections
+3003.3.1
+through
+3003.3.2
+.
+
+---
+
+## Section 3003.3.1: Elevator in Readiness for Fire Department Emergency Access
+
+3003.3.1 Elevator in Readiness for Fire Department Emergency Access
+Except as provided in
+Section 3003.3.2
+, in buildings five
+stories
+in
+height
+or more, underground buildings as described in
+Section 405.1
+, and
+high-rise buildings
+, at least one elevator shall be kept available for immediate use by the Fire Department during all hours of the night and day, including holidays, Saturdays and Sundays. The elevator in readiness shall serve all floors of the
+building
+. For buildings where a Fire Service Access Elevator (FSAE) is provided, the FSAE shall serve all floors of the
+building
+. There shall be available at all times a person competent to operate the elevator. However, an attendant shall not be required for buildings with occupied floors of 150 feet (45 720 mm) or less above the lowest level of the Fire Department vehicle access that have elevators with
+automatic
+or continuous pressure
+operation
+with keyed switches meeting the requirements of
+ASME A17.1/CSA B44
+as modified by
+Appendix K
+so as to permit sole use of the elevators by the Fire Department.
+
+---
+
+Except as provided in
+Section 3003.3.2
+, in buildings five
+stories
+in
+height
+or more, underground buildings as described in
+Section 405.1
+, and
+high-rise buildings
+, at least one elevator shall be kept available for immediate use by the Fire Department during all hours of the night and day, including holidays, Saturdays and Sundays. The elevator in readiness shall serve all floors of the
+building
+. For buildings where a Fire Service Access Elevator (FSAE) is provided, the FSAE shall serve all floors of the
+building
+. There shall be available at all times a person competent to operate the elevator. However, an attendant shall not be required for buildings with occupied floors of 150 feet (45 720 mm) or less above the lowest level of the Fire Department vehicle access that have elevators with
+automatic
+or continuous pressure
+operation
+with keyed switches meeting the requirements of
+ASME A17.1/CSA B44
+as modified by
+Appendix K
+so as to permit sole use of the elevators by the Fire Department.
+
+---
+
+## Section 3003.3.2: Number of Elevators
+
+3003.3.2 Number of Elevators
+A number of elevators shall be kept available at every floor for the sole use of the Fire Department as required by Sections
+3003.3.2.1
+and
+3003.3.2.2
+. This requirement shall apply to the following types of buildings:
+High-rise buildings
+with occupancies classified in Groups A, B, E, I, F, H,
+M
+and
+S
+;
+Buildings with
+Group B
+occupancies with a gross area of 200,000 square feet (18 581 m
+2
+); and
+Buildings with a main use or dominant occupancy in Group
+R-1
+or
+R-2
+.
+Exception:
+In buildings that are five
+stories
+or more in
+height
+but are not one of the types of buildings described in Items 1 through 3 in Section 3003.3.2, at least one elevator car in such buildings shall be kept available for sole use by the Fire Department.
+
+---
+
+A number of elevators shall be kept available at every floor for the sole use of the Fire Department as required by Sections
+3003.3.2.1
+and
+3003.3.2.2
+. This requirement shall apply to the following types of buildings:
+High-rise buildings
+with occupancies classified in Groups A, B, E, I, F, H,
+M
+and
+S
+;
+Buildings with
+Group B
+occupancies with a gross area of 200,000 square feet (18 581 m
+2
+); and
+Buildings with a main use or dominant occupancy in Group
+R-1
+or
+R-2
+.
+Exception:
+In buildings that are five
+stories
+or more in
+height
+but are not one of the types of buildings described in Items 1 through 3 in Section 3003.3.2, at least one elevator car in such buildings shall be kept available for sole use by the Fire Department.
+
+---
+
+## Section 3003.3.2.1: Three or Fewer Elevators
+
+3003.3.2.1 Three or Fewer Elevators
+Where a floor is serviced by three or fewer elevator cars, every car shall be kept available for sole use by the Fire Department.
+
+---
+
+Where a floor is serviced by three or fewer elevator cars, every car shall be kept available for sole use by the Fire Department.
+
+---
+
+## Section 3003.3.2.2: More Than Three Elevators
+
+3003.3.2.2 More Than Three Elevators
+Where a floor is serviced by more than three elevator cars, at least three elevator cars with a total rated
+load
+capacity of not less than 6,000 pounds (2722 kg) shall be kept available for the sole use of the Fire Department. Such cars shall include not more than two cars that service all floors and at least one other car in another bank servicing that floor. If the total
+load
+capacity of all cars servicing the floor is less than 6,000 pounds (2722 kg), all such cars shall be kept available for sole use of the Fire Department.
+
+---
+
+Where a floor is serviced by more than three elevator cars, at least three elevator cars with a total rated
+load
+capacity of not less than 6,000 pounds (2722 kg) shall be kept available for the sole use of the Fire Department. Such cars shall include not more than two cars that service all floors and at least one other car in another bank servicing that floor. If the total
+load
+capacity of all cars servicing the floor is less than 6,000 pounds (2722 kg), all such cars shall be kept available for sole use of the Fire Department.
+
+---
+
+## Section 3003.3.3: Operation and Control
+
+3003.3.3 Operation and Control
+Elevators that are kept for the sole use of the Fire Department and that have
+automatic
+or continuous pressure
+operation
+shall be controlled by keyed switches meeting the requirements of
+ASME A17.1/CSA B44
+.
+
+---
+
+Elevators that are kept for the sole use of the Fire Department and that have
+automatic
+or continuous pressure
+operation
+shall be controlled by keyed switches meeting the requirements of
+ASME A17.1/CSA B44
+.
+
+---
+
+## Section 3003.3.4: Other Elevator Cars
+
+3003.3.4 Other Elevator Cars
+In
+high-rise buildings
+classified in Occupancy Groups A, B, E, F, H, I,
+M
+and
+S
+, in
+low-rise buildings
+classified in Occupancy
+Group B
+with a gross area of 200,000 square feet (18581 m
+2
+) or more and in buildings classified in Occupancy Group
+R-1
+or
+R-2
+, all other automatically operated cars shall have manual
+operation
+capability.
+
+---
+
+In
+high-rise buildings
+classified in Occupancy Groups A, B, E, F, H, I,
+M
+and
+S
+, in
+low-rise buildings
+classified in Occupancy
+Group B
+with a gross area of 200,000 square feet (18581 m
+2
+) or more and in buildings classified in Occupancy Group
+R-1
+or
+R-2
+, all other automatically operated cars shall have manual
+operation
+capability.
+
+---
+
+Section BC 3004 Conveying Systems
+
+---
+
+## Section 3004.1: General
+
+3004.1 General
+Escalators, moving walks, conveyors, and amusement devices shall comply with the provisions of Sections
+3004.2
+through
+3004.5
+as applicable.
+
+---
+
+Escalators, moving walks, conveyors, and amusement devices shall comply with the provisions of Sections
+3004.2
+through
+3004.5
+as applicable.
+
+---
+
+## Section 3004.2: Escalators and Moving Walks
+
+3004.2 Escalators and Moving Walks
+Escalators and moving walks shall be constructed of approved noncombustible and fire-retardant
+materials
+. This requirement shall not apply to electrical
+equipment
+, wiring, wheels,
+handrails
+and the use of
+1
+/
+28
+-inch (0.9 mm) wood
+veneers
+on balustrades backed up with noncombustible
+materials
+.
+UpCodes Diagram (1)
+
+---
+
+Escalators and moving walks shall be constructed of approved noncombustible and fire-retardant
+materials
+. This requirement shall not apply to electrical
+equipment
+, wiring, wheels,
+handrails
+and the use of
+1
+/
+28
+-inch (0.9 mm) wood
+veneers
+on balustrades backed up with noncombustible
+materials
+.
+
+---
+
+## Section 3004.2.1: Enclosure
+
+3004.2.1 Enclosure
+Escalator floor
+openings
+shall be enclosed with
+shaft enclosures
+complying with Section 713.
+
+---
+
+Escalator floor
+openings
+shall be enclosed with
+shaft enclosures
+complying with Section 713.
+
+---
+
+## Section 3004.2.2: Escalators
+
+3004.2.2 Escalators
+Where provided in below-grade transportation stations, escalators shall have a clear width of not less than 32 inches (813 mm).
+Exception:
+The clear width is not required in existing
+facilities
+undergoing alterations.
+UpCodes Diagram (1)
+
+---
+
+Where provided in below-grade transportation stations, escalators shall have a clear width of not less than 32 inches (813 mm).
+Exception:
+The clear width is not required in existing
+facilities
+undergoing alterations.
+
+---
+
+## Section 3004.3: Conveyors
+
+3004.3 Conveyors
+Conveyors and conveying systems shall comply with ASME B20.1.
+
+---
+
+Conveyors and conveying systems shall comply with ASME B20.1.
+
+---
+
+## Section 3004.3.1: Enclosure
+
+3004.3.1 Enclosure
+Conveyors and related
+equipment
+connecting successive floors or levels shall be enclosed with
+shaft enclosures
+complying with Section 713.
+
+---
+
+Conveyors and related
+equipment
+connecting successive floors or levels shall be enclosed with
+shaft enclosures
+complying with Section 713.
+
+---
+
+## Section 3004.3.2: Conveyor Safeties
+
+3004.3.2 Conveyor Safeties
+Power-operated conveyors, belts and other material-moving devices shall be equipped with
+automatic
+limit switches that will shut off the power in an emergency and automatically stop all
+operation
+of the device.
+
+---
+
+Power-operated conveyors, belts and other material-moving devices shall be equipped with
+automatic
+limit switches that will shut off the power in an emergency and automatically stop all
+operation
+of the device.
+
+---
+
+## Section 3004.4: Reserved
+
+3004.4 Reserved
+
+---
+
+## Section 3004.5: Amusement Devices
+
+3004.5 Amusement Devices
+Amusement devices shall comply with rules of the department.
+
+---
+
+Amusement devices shall comply with rules of the department.
+
+---
+
+Section BC 3005 Machinery Spaces, Machine Rooms, Control Spaces and Control Rooms
+
+---
+
+## Section 3005.1: Access
+
+3005.1 Access
+An approved means of access shall be provided to elevator machine rooms, control rooms, control spaces and machinery spaces.
+
+---
+
+An approved means of access shall be provided to elevator machine rooms, control rooms, control spaces and machinery spaces.
+
+---
+
+## Section 3005.2: Temperature Control
+
+3005.2 Temperature Control
+Elevator machine rooms, machinery spaces that contain the driving machine, and control rooms or spaces that contain the
+operation
+or motion controller for elevator
+operation
+shall be provided with an independent
+ventilation
+or air-conditioning system to protect against the overheating of the electrical
+equipment
+. The system shall be capable of maintaining temperatures within the range established for the elevator
+equipment
+.
+
+---
+
+Elevator machine rooms, machinery spaces that contain the driving machine, and control rooms or spaces that contain the
+operation
+or motion controller for elevator
+operation
+shall be provided with an independent
+ventilation
+or air-conditioning system to protect against the overheating of the electrical
+equipment
+. The system shall be capable of maintaining temperatures within the range established for the elevator
+equipment
+.
+
+---
+
+## Section 3005.3: Pressurization
+
+3005.3 Pressurization
+The elevator machine room, control rooms or
+control space
+with
+openings
+into a pressurized elevator
+hoistway
+shall be pressurized upon activation of a heat or
+smoke detector
+located in the elevator machine room, control room or
+control space
+.
+UpCodes Diagram (1)
+
+---
+
+The elevator machine room, control rooms or
+control space
+with
+openings
+into a pressurized elevator
+hoistway
+shall be pressurized upon activation of a heat or
+smoke detector
+located in the elevator machine room, control room or
+control space
+.
+
+---
+
+## Section 3005.4: Machine Rooms, Control Rooms, Machinery Spaces, and Control Spaces
+
+3005.4 Machine Rooms, Control Rooms, Machinery Spaces, and Control Spaces
+Elevator machine rooms, control rooms, control spaces and machinery spaces shall be enclosed with
+fire barriers
+constructed in accordance with Section 707 or
+horizontal assemblies
+constructed in accordance with Section 711, or both. The
+fire-resistance rating
+shall be not less than the required rating of the
+hoistway
+enclosure served by the machinery.
+Openings
+in the
+fire barriers
+shall be protected with assemblies having a
+fire protection rating
+not less than that required for the
+hoistway
+enclosure doors.
+Exception:
+For other than fire service access elevators and occupant evacuation elevators, where machine rooms, machinery spaces, control rooms and control spaces do not abut and have no
+openings
+to the
+hoistway
+enclosure they serve, the
+fire barriers
+constructed in accordance with Section 707 or
+horizontal assemblies
+constructed in accordance with Section 711, or both, shall be permitted to be reduced to a 2-hour
+fire-resistance rating
+.
+Assemblies (3)
+Building products (7)
+
+---
+
+Elevator machine rooms, control rooms, control spaces and machinery spaces shall be enclosed with
+fire barriers
+constructed in accordance with Section 707 or
+horizontal assemblies
+constructed in accordance with Section 711, or both. The
+fire-resistance rating
+shall be not less than the required rating of the
+hoistway
+enclosure served by the machinery.
+Openings
+in the
+fire barriers
+shall be protected with assemblies having a
+fire protection rating
+not less than that required for the
+hoistway
+enclosure doors.
+Exception:
+For other than fire service access elevators and occupant evacuation elevators, where machine rooms, machinery spaces, control rooms and control spaces do not abut and have no
+openings
+to the
+hoistway
+enclosure they serve, the
+fire barriers
+constructed in accordance with Section 707 or
+horizontal assemblies
+constructed in accordance with Section 711, or both, shall be permitted to be reduced to a 2-hour
+fire-resistance rating
+.
+
+---
+
+## Section 3005.5: Sprinklers and Shunt Trip
+
+3005.5 Sprinklers and Shunt Trip
+Sprinklers are not permitted in elevator machine rooms, machine spaces, control rooms and control spaces. Where elevator
+hoistways
+are protected with
+automatic
+sprinklers, a means installed in accordance with
+Section 21.4
+of
+NFPA 72
+as modified by
+Appendix Q
+shall be provided, where required, to disconnect automatically the main line power supply to the affected elevator prior to the
+application
+of water. This means shall not be self-resetting. The activation of
+automatic
+sprinklers outside the
+hoistway
+, machine room, machinery space, control room or
+control space
+shall not disconnect the main line power supply.
+
+---
+
+Sprinklers are not permitted in elevator machine rooms, machine spaces, control rooms and control spaces. Where elevator
+hoistways
+are protected with
+automatic
+sprinklers, a means installed in accordance with
+Section 21.4
+of
+NFPA 72
+as modified by
+Appendix Q
+shall be provided, where required, to disconnect automatically the main line power supply to the affected elevator prior to the
+application
+of water. This means shall not be self-resetting. The activation of
+automatic
+sprinklers outside the
+hoistway
+, machine room, machinery space, control room or
+control space
+shall not disconnect the main line power supply.
+
+---
+
+## Section 3005.6: Plumbing Systems
+
+3005.6 Plumbing Systems
+Plumbing systems not related to elevator machinery shall not be located in elevator
+equipment
+rooms.
+
+---
+
+Plumbing systems not related to elevator machinery shall not be located in elevator
+equipment
+rooms.
+
+---
+
+## Section 3005.7: Elevator Machinery Noise Control in Multiple Dwellings
+
+3005.7 Elevator Machinery Noise Control in Multiple Dwellings
+Gear-driven machinery, gearless machinery, and motor generators located in an elevator machinery room or
+shaft
+on a roof, or on a floor other than a floor on grade, shall be supported on vibration isolator pads having a minimum thickness of
+1
+/
+2
+inch (12.7 mm).
+
+---
+
+Gear-driven machinery, gearless machinery, and motor generators located in an elevator machinery room or
+shaft
+on a roof, or on a floor other than a floor on grade, shall be supported on vibration isolator pads having a minimum thickness of
+1
+/
+2
+inch (12.7 mm).
+
+---
+
+Section BC 3006 Elevator Lobbies and Hoistway Opening Protection
+
+---
+
+## Section 3006.1: Elevator, Dumbwaiter and Other Hoistways
+
+3006.1 Elevator, Dumbwaiter and Other Hoistways
+Elevator, dumbwaiter, and other
+hoistway
+enclosures shall be constructed in accordance with Section 713 and
+Chapter 30
+.
+
+---
+
+Elevator, dumbwaiter, and other
+hoistway
+enclosures shall be constructed in accordance with Section 713 and
+Chapter 30
+.
+
+---
+
+## Section 3006.1.1: Elevator Lobby
+
+3006.1.1 Elevator Lobby
+Except as provided by Sections
+403.6.1
+and
+403.6.2
+, an enclosed elevator lobby shall be provided in
+high-rise buildings
+at the following locations:
+Elevators opening onto a
+fire-resistance
+-rated
+corridor
+, in all occupancy groups.
+Elevators serving
+Group B
+occupancies. Elevators that serve four or more
+stories
+that contain space classified in occupancy
+Group B
+, inclusive of any lobby or entrance level, shall provide elevator lobbies at every level served by such elevator.
+The lobby enclosure shall separate the elevator
+shaft enclosure
+doors from each floor by
+smoke partitions
+. In addition to the requirements in Section 710 for
+smoke partitions
+, doors protecting
+openings
+in the elevator lobby enclosure
+walls
+shall also comply with
+Section 710.5.2.3
+and
+penetrations
+of the elevator lobby enclosure by
+ducts and air transfer openings
+shall be protected in accordance with
+Section 710.8
+. Elevator lobbies shall have at least one
+means of egress
+complying with
+Chapter 10
+and
+other provisions
+within this code. Access to an
+exit
+on any
+story
+through an elevator lobby shall be permitted provided that access to at least one other required
+exit
+does not require passing through the elevator lobby.
+Exceptions:
+Enclosed elevator lobbies are not required at the
+street floor
+, provided the entire
+street floor
+is equipped with an
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+.
+Elevators not required to be located in a
+shaft
+in accordance with Section 712 are not required to have enclosed elevator lobbies.
+Enclosed elevator lobbies are not required where zero-clearance doors are provided at the
+hoistway
+opening in accordance with
+Section 3002.6
+. Such doors shall be tested in accordance with UL 1784 without an artificial bottom seal.
+Enclosed elevator lobbies are not required on floors with less than 2,500 square feet (232 m
+2
+), provided that the commissioner accepts an alternative
+design
+or
+construction
+method that accomplishes the purposes of this section, or provided that the commissioner determines that compliance with this section is impracticable in whole or in part, whereby the commissioner may authorize an exemption from the requirements of this section.
+Enclosed elevator lobbies are not required on Group
+R-2
+occupied floors.
+Enclosed elevator lobbies are not required where the elevator
+hoistway
+is pressurized in accordance with
+Section 3006.1.2
+.
+Enclosed elevator lobbies are not required where the elevator serves only
+open parking garages
+in accordance with
+Section 406.5
+.
+
+---
+
+Except as provided by Sections
+403.6.1
+and
+403.6.2
+, an enclosed elevator lobby shall be provided in
+high-rise buildings
+at the following locations:
+Elevators opening onto a
+fire-resistance
+-rated
+corridor
+, in all occupancy groups.
+Elevators serving
+Group B
+occupancies. Elevators that serve four or more
+stories
+that contain space classified in occupancy
+Group B
+, inclusive of any lobby or entrance level, shall provide elevator lobbies at every level served by such elevator.
+The lobby enclosure shall separate the elevator
+shaft enclosure
+doors from each floor by
+smoke partitions
+. In addition to the requirements in Section 710 for
+smoke partitions
+, doors protecting
+openings
+in the elevator lobby enclosure
+walls
+shall also comply with
+Section 710.5.2.3
+and
+penetrations
+of the elevator lobby enclosure by
+ducts and air transfer openings
+shall be protected in accordance with
+Section 710.8
+. Elevator lobbies shall have at least one
+means of egress
+complying with
+Chapter 10
+and
+other provisions
+within this code. Access to an
+exit
+on any
+story
+through an elevator lobby shall be permitted provided that access to at least one other required
+exit
+does not require passing through the elevator lobby.
+Exceptions:
+Enclosed elevator lobbies are not required at the
+street floor
+, provided the entire
+street floor
+is equipped with an
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+.
+Elevators not required to be located in a
+shaft
+in accordance with Section 712 are not required to have enclosed elevator lobbies.
+Enclosed elevator lobbies are not required where zero-clearance doors are provided at the
+hoistway
+opening in accordance with
+Section 3002.6
+. Such doors shall be tested in accordance with UL 1784 without an artificial bottom seal.
+Enclosed elevator lobbies are not required on floors with less than 2,500 square feet (232 m
+2
+), provided that the commissioner accepts an alternative
+design
+or
+construction
+method that accomplishes the purposes of this section, or provided that the commissioner determines that compliance with this section is impracticable in whole or in part, whereby the commissioner may authorize an exemption from the requirements of this section.
+Enclosed elevator lobbies are not required on Group
+R-2
+occupied floors.
+Enclosed elevator lobbies are not required where the elevator
+hoistway
+is pressurized in accordance with
+Section 3006.1.2
+.
+Enclosed elevator lobbies are not required where the elevator serves only
+open parking garages
+in accordance with
+Section 406.5
+.
+
+---
+
+## Section 3006.1.1.1: Areas of Rescue Assistance
+
+3006.1.1.1 Areas of Rescue Assistance
+Areas of rescue assistance
+shall be provided as required in
+Section 1009.6
+.
+
+---
+
+Areas of rescue assistance
+shall be provided as required in
+Section 1009.6
+.
+
+---
+
+## Section 3006.1.2: Enclosed Elevator Lobby
+
+3006.1.2 Enclosed Elevator Lobby
+Where elevator
+hoistway
+pressurization
+is provided in lieu of required enclosed elevator lobbies, the
+pressurization
+system shall comply with this section except as provided by Sections
+403.6.1
+and
+403.6.2
+.
+
+---
+
+Where elevator
+hoistway
+pressurization
+is provided in lieu of required enclosed elevator lobbies, the
+pressurization
+system shall comply with this section except as provided by Sections
+403.6.1
+and
+403.6.2
+.
+
+---
+
+## Section 3006.1.2.1: Pressurization Requirements
+
+3006.1.2.1 Pressurization Requirements
+Elevator
+hoistways
+shall be pressurized to maintain a minimum positive pressure of 0.10 inches of water (25 Pa) and a maximum positive pressure of 0.25 inches of water (67 Pa) with respect to adjacent occupied space on all floors. This pressure shall be measured at the midpoint of each
+hoistway
+door
+, with all elevator cars at the floor of recall and all
+hoistway
+doors on the floor of recall open and all other
+hoistway
+doors closed. The opening and closing of
+hoistway
+doors at each level must be demonstrated during this test. The supply air intake shall be from an outside, uncontaminated source located a minimum distance of 20 feet (6096 mm) from any air exhaust system or outlet.
+
+---
+
+Elevator
+hoistways
+shall be pressurized to maintain a minimum positive pressure of 0.10 inches of water (25 Pa) and a maximum positive pressure of 0.25 inches of water (67 Pa) with respect to adjacent occupied space on all floors. This pressure shall be measured at the midpoint of each
+hoistway
+door
+, with all elevator cars at the floor of recall and all
+hoistway
+doors on the floor of recall open and all other
+hoistway
+doors closed. The opening and closing of
+hoistway
+doors at each level must be demonstrated during this test. The supply air intake shall be from an outside, uncontaminated source located a minimum distance of 20 feet (6096 mm) from any air exhaust system or outlet.
+
+---
+
+## Section 3006.1.2.2: Rational Analysis
+
+3006.1.2.2 Rational Analysis
+A rational analysis complying with
+Section 909.4
+shall be submitted with the
+construction documents
+.
+
+---
+
+A rational analysis complying with
+Section 909.4
+shall be submitted with the
+construction documents
+.
+
+---
+
+## Section 3006.1.2.3: Ducts for System
+
+3006.1.2.3 Ducts for System
+Any duct system that is part of the
+pressurization
+system shall be protected with the same
+fire-resistance rating
+as required for the elevator
+shaft enclosure
+.
+
+---
+
+Any duct system that is part of the
+pressurization
+system shall be protected with the same
+fire-resistance rating
+as required for the elevator
+shaft enclosure
+.
+
+---
+
+## Section 3006.1.2.4: Fan System
+
+3006.1.2.4 Fan System
+The fan system provided for the
+pressurization
+system shall be as required by this section.
+
+---
+
+The fan system provided for the
+pressurization
+system shall be as required by this section.
+
+---
+
+## Section 3006.1.2.4.1: Fire Resistance
+
+3006.1.2.4.1 Fire Resistance
+When located within the
+building
+, the fan system that provides the
+pressurization
+shall be protected with the same
+fire-resistance rating
+required for the elevator
+shaft enclosure
+.
+
+---
+
+When located within the
+building
+, the fan system that provides the
+pressurization
+shall be protected with the same
+fire-resistance rating
+required for the elevator
+shaft enclosure
+.
+
+---
+
+## Section 3006.1.2.4.2: Smoke Detection
+
+3006.1.2.4.2 Smoke Detection
+The fan system shall be equipped with a
+smoke detector
+that will automatically shut down the fan system when
+smoke
+is detected within the system.
+
+---
+
+The fan system shall be equipped with a
+smoke detector
+that will automatically shut down the fan system when
+smoke
+is detected within the system.
+
+---
+
+## Section 3006.1.2.4.3: Separate Systems
+
+3006.1.2.4.3 Separate Systems
+A separate fan system shall be used for each elevator
+hoistway
+.
+
+---
+
+A separate fan system shall be used for each elevator
+hoistway
+.
+
+---
+
+## Section 3006.1.2.4.4: Fan Capacity
+
+3006.1.2.4.4 Fan Capacity
+The supply fan shall either be adjustable with a capacity of at least
+1
+,000 cfm (0.4719 m
+3
+/s) per door, or that specified by a registered
+design
+professional to meet the requirements of a designed
+pressurization
+system.
+
+---
+
+The supply fan shall either be adjustable with a capacity of at least
+1
+,000 cfm (0.4719 m
+3
+/s) per door, or that specified by a registered
+design
+professional to meet the requirements of a designed
+pressurization
+system.
+
+---
+
+## Section 3006.1.2.5: Standby Power
+
+3006.1.2.5 Standby Power
+The
+pressurization
+system shall be provided with standby power from the same source as other required emergency systems for the
+building
+.
+
+---
+
+The
+pressurization
+system shall be provided with standby power from the same source as other required emergency systems for the
+building
+.
+
+---
+
+## Section 3006.1.2.6: Activation of Pressurization System
+
+3006.1.2.6 Activation of Pressurization System
+The elevator
+pressurization
+system shall be activated upon activation of the
+building
+fire alarm system
+or upon activation of the elevator lobby
+smoke detectors
+. Where both a
+building
+fire alarm system
+and elevator lobby
+smoke detectors
+are present, each shall be independently capable of activating the
+pressurization
+system.
+
+---
+
+The elevator
+pressurization
+system shall be activated upon activation of the
+building
+fire alarm system
+or upon activation of the elevator lobby
+smoke detectors
+. Where both a
+building
+fire alarm system
+and elevator lobby
+smoke detectors
+are present, each shall be independently capable of activating the
+pressurization
+system.
+
+---
+
+## Section 3006.1.2.7: Special Inspection
+
+3006.1.2.7 Special Inspection
+Special inspection
+for
+performance
+shall be required in accordance with
+Section 909.18.8
+. System acceptance shall be in accordance with
+Section 909.19
+.
+
+---
+
+Special inspection
+for
+performance
+shall be required in accordance with
+Section 909.18.8
+. System acceptance shall be in accordance with
+Section 909.19
+.
+
+---
+
+## Section 3006.1.2.8: Marking and Identification
+
+3006.1.2.8 Marking and Identification
+Detection and control systems shall be marked in accordance with
+Section 909.14
+.
+
+---
+
+Detection and control systems shall be marked in accordance with
+Section 909.14
+.
+
+---
+
+## Section 3006.1.2.9: Control Diagrams
+
+3006.1.2.9 Control Diagrams
+Control diagrams shall be provided in accordance with
+Section 909.15
+.
+
+---
+
+Control diagrams shall be provided in accordance with
+Section 909.15
+.
+
+---
+
+## Section 3006.1.2.10: Control Panel
+
+3006.1.2.10 Control Panel
+A fire-fighter's
+smoke
+control panel complying with
+Section 909.16
+shall be provided.
+
+---
+
+A fire-fighter's
+smoke
+control panel complying with
+Section 909.16
+shall be provided.
+
+---
+
+## Section 3006.1.2.11: System Response Time
+
+3006.1.2.11 System Response Time
+Hoistway
+pressurization
+systems shall comply with the requirements for
+smoke control system
+response time in
+Section 909.17
+.
+
+---
+
+Hoistway
+pressurization
+systems shall comply with the requirements for
+smoke control system
+response time in
+Section 909.17
+.
+
+---
+
+Section BC 3007 Fire Service Access Elevator
+
+---
+
+## Section 3007.1: General
+
+3007.1 General
+Where required by
+Section 403.6.1
+, every floor of the
+building
+shall be served by a fire service access elevator complying with Sections 3007.1 through
+3007.8
+. Except as modified in this section, the fire service access elevator shall be installed in accordance with this chapter and
+ASME A17.1/CSA B44
+as modified by
+Appendix K
+,
+Chapter K1
+.
+
+---
+
+Where required by
+Section 403.6.1
+, every floor of the
+building
+shall be served by a fire service access elevator complying with Sections 3007.1 through
+3007.8
+. Except as modified in this section, the fire service access elevator shall be installed in accordance with this chapter and
+ASME A17.1/CSA B44
+as modified by
+Appendix K
+,
+Chapter K1
+.
+
+---
+
+## Section 3007.2: Automatic Sprinkler System
+
+3007.2 Automatic Sprinkler System
+The
+building
+shall be equipped throughout with an
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+, except as otherwise permitted by
+Section 903.3.1.1.1
+and as prohibited by
+Section 3007.2.1
+.
+
+---
+
+The
+building
+shall be equipped throughout with an
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+, except as otherwise permitted by
+Section 903.3.1.1.1
+and as prohibited by
+Section 3007.2.1
+.
+
+---
+
+## Section 3007.2.1: Prohibited Locations
+
+3007.2.1 Prohibited Locations
+Automatic
+sprinklers shall not be installed in elevator machine rooms, machinery spaces, control rooms, control spaces, and elevator
+hoistways
+of fire service access elevators.
+
+---
+
+Automatic
+sprinklers shall not be installed in elevator machine rooms, machinery spaces, control rooms, control spaces, and elevator
+hoistways
+of fire service access elevators.
+
+---
+
+## Section 3007.2.2: Sprinkler System Monitoring
+
+3007.2.2 Sprinkler System Monitoring
+The sprinkler system shall have a sprinkler control valve supervisory switch and water-flow-
+initiating device
+provided for each floor that is monitored by the
+building
+'s
+fire alarm system
+.
+
+---
+
+The sprinkler system shall have a sprinkler control valve supervisory switch and water-flow-
+initiating device
+provided for each floor that is monitored by the
+building
+'s
+fire alarm system
+.
+
+---
+
+## Section 3007.3: Water Protection
+
+3007.3 Water Protection
+An approved method to prevent water from infiltrating into the
+hoistway
+enclosure from the
+operation
+of the
+automatic sprinkler system
+shall be provided:
+Where an elevator lobby is provided in accordance with
+Section 3007.6
+, with respect to the
+automatic sprinkler system
+outside of the enclosed elevator lobby.
+Where a
+corridor
+is provided in accordance with
+Section 3007.6
+, Exception
+2
+, with respect to the
+automatic sprinkler system
+outside of the
+corridor
+and with respect to the
+automatic
+sprinklers inside the
+corridor
+that are beyond 10 feet (3048 mm) of the entrance to the
+hoistway
+enclosure of the fire service access elevator.
+Where neither an enclosed elevator lobby nor a
+corridor
+is provided in accordance with
+Section 3007.6
+, Exception
+3
+, with respect to the
+automatic
+sprinklers that are located beyond 10 feet (3048 mm) of the entrance to the
+hoistway
+enclosure of the fire service access elevator.
+
+---
+
+An approved method to prevent water from infiltrating into the
+hoistway
+enclosure from the
+operation
+of the
+automatic sprinkler system
+shall be provided:
+Where an elevator lobby is provided in accordance with
+Section 3007.6
+, with respect to the
+automatic sprinkler system
+outside of the enclosed elevator lobby.
+Where a
+corridor
+is provided in accordance with
+Section 3007.6
+, Exception
+2
+, with respect to the
+automatic sprinkler system
+outside of the
+corridor
+and with respect to the
+automatic
+sprinklers inside the
+corridor
+that are beyond 10 feet (3048 mm) of the entrance to the
+hoistway
+enclosure of the fire service access elevator.
+Where neither an enclosed elevator lobby nor a
+corridor
+is provided in accordance with
+Section 3007.6
+, Exception
+3
+, with respect to the
+automatic
+sprinklers that are located beyond 10 feet (3048 mm) of the entrance to the
+hoistway
+enclosure of the fire service access elevator.
+
+---
+
+## Section 3007.4: Reserved
+
+3007.4 Reserved
+
+---
+
+## Section 3007.5: Hoistway Enclosures
+
+3007.5 Hoistway Enclosures
+The fire service access elevator
+hoistway
+shall be located in a
+shaft enclosure
+complying with Section 713.
+
+---
+
+The fire service access elevator
+hoistway
+shall be located in a
+shaft enclosure
+complying with Section 713.
+
+---
+
+## Section 3007.5.1: Structural Integrity of Hoistway Enclosures
+
+3007.5.1 Structural Integrity of Hoistway Enclosures
+The fire service access elevator
+hoistway
+enclosure shall comply with Sections
+403.2.3.1
+through
+403.2.3.4
+.
+
+---
+
+The fire service access elevator
+hoistway
+enclosure shall comply with Sections
+403.2.3.1
+through
+403.2.3.4
+.
+
+---
+
+## Section 3007.5.2: Hoistway Lighting
+
+3007.5.2 Hoistway Lighting
+When fire-fighters' emergency
+operation
+is active, the entire
+height
+of the
+hoistway
+shall be illuminated at not less than 1 footcandle (11 lux) as measured from the top of the car of each fire service access elevator.
+
+---
+
+When fire-fighters' emergency
+operation
+is active, the entire
+height
+of the
+hoistway
+shall be illuminated at not less than 1 footcandle (11 lux) as measured from the top of the car of each fire service access elevator.
+
+---
+
+‡‡‡ 3007.6 Fire Service Access Elevator Lobby
+The fire service access elevator shall open into a fire service access elevator lobby in accordance with Sections
+3007.6.1
+through
+3007.6.5
+. Egress is permitted through the elevator lobby in accordance with Item 1 of
+Section 1016.2
+.
+Exceptions:
+Where a fire service access elevator has two entrances onto a floor, the second entrance shall be permitted to open into an elevator lobby in accordance with
+Section 3006.1.1
+.
+A fire service access elevator lobby shall not be required on
+stories
+where the elevator opens to a
+corridor
+enclosed with a
+fire barrier
+, provided all doors opening onto such
+corridor
+are
+smoke
+and draft controlled doors complying with
+Section 716.5.3.1
+with the UL 1784 test conducted without the artificial bottom seal.
+A fire service access elevator lobby shall not be required on
+stories
+that are less than 3,000 square feet (279 m
+2
+) containing only Group
+R-2
+occupancies.
+‡‡‡
+Chapter 30
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+UpCodes Diagram (1)
+
+---
+
+The fire service access elevator shall open into a fire service access elevator lobby in accordance with Sections
+3007.6.1
+through
+3007.6.5
+. Egress is permitted through the elevator lobby in accordance with Item 1 of
+Section 1016.2
+.
+Exceptions:
+Where a fire service access elevator has two entrances onto a floor, the second entrance shall be permitted to open into an elevator lobby in accordance with
+Section 3006.1.1
+.
+A fire service access elevator lobby shall not be required on
+stories
+where the elevator opens to a
+corridor
+enclosed with a
+fire barrier
+, provided all doors opening onto such
+corridor
+are
+smoke
+and draft controlled doors complying with
+Section 716.5.3.1
+with the UL 1784 test conducted without the artificial bottom seal.
+A fire service access elevator lobby shall not be required on
+stories
+that are less than 3,000 square feet (279 m
+2
+) containing only Group
+R-2
+occupancies.
+‡‡‡
+Chapter 30
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+## Section 3007.6.1: Reserved
+
+3007.6.1 Reserved
+
+---
+
+## Section 3007.6.2: Lobby Enclosure
+
+3007.6.2 Lobby Enclosure
+The fire service access elevator lobby shall be enclosed with a
+smoke barrier
+having a
+fire-resistance rating
+of not less than 1 hour, except that lobby doorways shall comply with
+Section 3007.6.3
+.
+Exception:
+Enclosed fire service access elevator lobbies are not required at the
+levels of exit discharge
+.
+Building products (3)
+
+---
+
+The fire service access elevator lobby shall be enclosed with a
+smoke barrier
+having a
+fire-resistance rating
+of not less than 1 hour, except that lobby doorways shall comply with
+Section 3007.6.3
+.
+Exception:
+Enclosed fire service access elevator lobbies are not required at the
+levels of exit discharge
+.
+
+---
+
+## Section 3007.6.3: Lobby Doorways
+
+3007.6.3 Lobby Doorways
+Other than doors to the
+hoistway
+, elevator control room or elevator
+control space
+, each doorway to a fire service access elevator lobby shall be provided with a
+3
+/
+4
+-hour
+fire door assembly
+complying with
+Section 716.5
+. The
+fire door assembly
+shall comply with the
+smoke
+and draft control
+door
+assembly requirements of
+Section 716.5.3.1
+with the UL 1784 test conducted without the artificial bottom seal.
+Building products (4)
+
+---
+
+Other than doors to the
+hoistway
+, elevator control room or elevator
+control space
+, each doorway to a fire service access elevator lobby shall be provided with a
+3
+/
+4
+-hour
+fire door assembly
+complying with
+Section 716.5
+. The
+fire door assembly
+shall comply with the
+smoke
+and draft control
+door
+assembly requirements of
+Section 716.5.3.1
+with the UL 1784 test conducted without the artificial bottom seal.
+
+---
+
+## Section 3007.6.4: Lobby Size
+
+3007.6.4 Lobby Size
+The enclosed fire service access elevator lobby shall be not less than 120 square feet (11 m
+2
+) in an area with a
+minimum dimension
+of 6 feet (1828 mm).
+UpCodes Diagram (1)
+
+---
+
+The enclosed fire service access elevator lobby shall be not less than 120 square feet (11 m
+2
+) in an area with a
+minimum dimension
+of 6 feet (1828 mm).
+
+---
+
+## Section 3007.6.5: Fire Service Access Elevator Symbol
+
+3007.6.5 Fire Service Access Elevator Symbol
+A pictorial symbol of a standardized
+design
+designating which elevators are fire service access elevators shall be installed on each side of the
+hoistway
+door frame on the portion of the frame at right angles to the fire service access elevator lobby. The fire service access elevator symbol shall be designed as shown in Figure 3007.6.5 and shall comply with the following:
+The fire service access elevator symbol shall be not less than 3 inches (76 mm) in
+height
+.
+The helmet shall contrast with the background, with either a light helmet on a dark background or a dark helmet on a light background.
+The vertical center line of the fire service access elevator symbol shall be centered on the
+hoistway
+door frame. Each symbol shall be not less than 78 inches (1981 mm), and not more than 84 inches (2134 mm) above the finished floor at the threshold.
+FIGURE 3007.6.5
+FIRE SERVICE ACCESS ELEVATOR SYMBOL
+
+---
+
+A pictorial symbol of a standardized
+design
+designating which elevators are fire service access elevators shall be installed on each side of the
+hoistway
+door frame on the portion of the frame at right angles to the fire service access elevator lobby. The fire service access elevator symbol shall be designed as shown in Figure 3007.6.5 and shall comply with the following:
+The fire service access elevator symbol shall be not less than 3 inches (76 mm) in
+height
+.
+The helmet shall contrast with the background, with either a light helmet on a dark background or a dark helmet on a light background.
+The vertical center line of the fire service access elevator symbol shall be centered on the
+hoistway
+door frame. Each symbol shall be not less than 78 inches (1981 mm), and not more than 84 inches (2134 mm) above the finished floor at the threshold.
+FIGURE 3007.6.5
+FIRE SERVICE ACCESS ELEVATOR SYMBOL
+
+---
+
+## Section 3007.7: Elevator System Monitoring
+
+3007.7 Elevator System Monitoring
+The fire service access elevator shall be continuously monitored at the
+fire command center
+by a standard emergency service interface system meeting the requirements of
+NFPA 72
+as modified by
+Appendix Q
+.
+
+---
+
+The fire service access elevator shall be continuously monitored at the
+fire command center
+by a standard emergency service interface system meeting the requirements of
+NFPA 72
+as modified by
+Appendix Q
+.
+
+---
+
+## Section 3007.8: Electrical Power
+
+3007.8 Electrical Power
+The following features serving each fire service access elevator shall be supplied by both normal power and Type 60/Class 6/
+Level 1
+standby power:
+Elevator
+equipment
+.
+Elevator
+hoistway
+lighting.
+Ventilation
+and cooling
+equipment
+for elevator machine rooms, control rooms, machine spaces and machinery/control spaces.
+Elevator car lighting.
+Exception:
+Standby power relying on natural gas as a fuel source need not be Class 6.
+
+---
+
+The following features serving each fire service access elevator shall be supplied by both normal power and Type 60/Class 6/
+Level 1
+standby power:
+Elevator
+equipment
+.
+Elevator
+hoistway
+lighting.
+Ventilation
+and cooling
+equipment
+for elevator machine rooms, control rooms, machine spaces and machinery/control spaces.
+Elevator car lighting.
+Exception:
+Standby power relying on natural gas as a fuel source need not be Class 6.
+
+---
+
+## Section 3007.8.1: Protection of Wiring or Cables
+
+3007.8.1 Protection of Wiring or Cables
+Wires or cables that are located outside of the elevator
+hoistway
+and machine room and that provide normal or standby power, control signals, communication with the car, lighting, heating, air conditioning,
+ventilation
+and fire-detecting systems to fire service access elevators shall be protected by
+construction
+having a
+fire-resistance rating
+of not less than 2 hours, shall be a circuit integrity cable having a
+fire-resistance rating
+of not less than 2 hours or shall be protected by a listed electrical protective system having a
+fire-resistance rating
+of not less than 2 hours.
+Exception:
+Wiring and cables to control signals are not required to be protected provided that wiring and cables do not serve Phase II emergency in-car
+operations
+.
+Assembly (1)
+
+---
+
+Wires or cables that are located outside of the elevator
+hoistway
+and machine room and that provide normal or standby power, control signals, communication with the car, lighting, heating, air conditioning,
+ventilation
+and fire-detecting systems to fire service access elevators shall be protected by
+construction
+having a
+fire-resistance rating
+of not less than 2 hours, shall be a circuit integrity cable having a
+fire-resistance rating
+of not less than 2 hours or shall be protected by a listed electrical protective system having a
+fire-resistance rating
+of not less than 2 hours.
+Exception:
+Wiring and cables to control signals are not required to be protected provided that wiring and cables do not serve Phase II emergency in-car
+operations
+.
+
+---
+
+## Section 3007.9: Reserved
+
+3007.9 Reserved
+
+---
+
+Section BC 3008 Occupant Evacuation Elevators
+
+---
+
+## Section 3008.1: General
+
+3008.1 General
+Where elevators are to be used for occupant self-evacuation during fires, all passenger elevators for
+general
+public use shall comply with Sections 3008.1 through
+3008.10
+. Where other elevators are used for occupant self-evacuation, those elevators shall comply with these sections.
+
+---
+
+Where elevators are to be used for occupant self-evacuation during fires, all passenger elevators for
+general
+public use shall comply with Sections 3008.1 through
+3008.10
+. Where other elevators are used for occupant self-evacuation, those elevators shall comply with these sections.
+
+---
+
+## Section 3008.1.1: Additional Exit Stairway
+
+3008.1.1 Additional Exit Stairway
+Where an additional
+means of egress
+is required in accordance with
+Section 403.5.2
+, an additional
+exit
+stairway
+shall not be required to be installed in buildings provided with occupant evacuation elevators complying with
+Section 3008.1
+.
+
+---
+
+Where an additional
+means of egress
+is required in accordance with
+Section 403.5.2
+, an additional
+exit
+stairway
+shall not be required to be installed in buildings provided with occupant evacuation elevators complying with
+Section 3008.1
+.
+
+---
+
+## Section 3008.1.2: Fire Safety and Emergency Action Plans
+
+3008.1.2 Fire Safety and Emergency Action Plans
+The
+building
+shall have approved fire safety and emergency action plans in accordance with the applicable requirements of the
+New York City Fire Code
+. The fire safety and emergency action plans shall incorporate specific procedures for the occupants using evacuation elevators.
+
+---
+
+The
+building
+shall have approved fire safety and emergency action plans in accordance with the applicable requirements of the
+New York City Fire Code
+. The fire safety and emergency action plans shall incorporate specific procedures for the occupants using evacuation elevators.
+
+---
+
+## Section 3008.1.3: Operation
+
+3008.1.3 Operation
+The occupant evacuation elevators shall be used for occupant self-evacuation in accordance with the
+occupant evacuation operation
+requirements as per
+ASME A17.1/CSA B44
+as modified by
+Appendix K
+of this code and the
+building
+'s
+fire safety and emergency action plans
+.
+
+---
+
+The occupant evacuation elevators shall be used for occupant self-evacuation in accordance with the
+occupant evacuation operation
+requirements as per
+ASME A17.1/CSA B44
+as modified by
+Appendix K
+of this code and the
+building
+'s
+fire safety and emergency action plans
+.
+
+---
+
+## Section 3008.2: Reserved
+
+3008.2 Reserved
+
+---
+
+## Section 3008.3: Automatic Sprinkler System
+
+3008.3 Automatic Sprinkler System
+The
+building
+shall be protected throughout by an approved, electrically-supervised
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+, except as otherwise permitted by
+Section 903.3.1.1.1
+and as prohibited by
+Section 3008.3.1
+.
+
+---
+
+The
+building
+shall be protected throughout by an approved, electrically-supervised
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+, except as otherwise permitted by
+Section 903.3.1.1.1
+and as prohibited by
+Section 3008.3.1
+.
+
+---
+
+## Section 3008.3.1: Prohibited Locations
+
+3008.3.1 Prohibited Locations
+Automatic
+sprinklers shall not be installed in elevator machine rooms, machinery spaces, control rooms, control spaces and elevator
+hoistways
+of occupant evacuation elevators.
+
+---
+
+Automatic
+sprinklers shall not be installed in elevator machine rooms, machinery spaces, control rooms, control spaces and elevator
+hoistways
+of occupant evacuation elevators.
+
+---
+
+## Section 3008.3.2: Sprinkler System Monitoring
+
+3008.3.2 Sprinkler System Monitoring
+The sprinkler system shall have a sprinkler control valve supervisory switch and water flow
+initiating device
+provided for each floor that is monitored by the
+building
+'s
+fire alarm system
+.
+
+---
+
+The sprinkler system shall have a sprinkler control valve supervisory switch and water flow
+initiating device
+provided for each floor that is monitored by the
+building
+'s
+fire alarm system
+.
+
+---
+
+## Section 3008.4: Water Protection
+
+3008.4 Water Protection
+An approved method to prevent water from infiltrating into the
+hoistway
+enclosure from the
+operation
+of the
+automatic sprinkler system
+outside the enclosed occupant evacuation elevator lobby shall be provided.
+
+---
+
+An approved method to prevent water from infiltrating into the
+hoistway
+enclosure from the
+operation
+of the
+automatic sprinkler system
+outside the enclosed occupant evacuation elevator lobby shall be provided.
+
+---
+
+## Section 3008.5: Reserved
+
+3008.5 Reserved
+
+---
+
+## Section 3008.6: Hoistway Enclosure Protection
+
+3008.6 Hoistway Enclosure Protection
+Occupant evacuation elevator
+hoistways
+shall be located in
+shaft enclosures
+complying with Section 713.
+Assemblies (2)
+
+---
+
+Occupant evacuation elevator
+hoistways
+shall be located in
+shaft enclosures
+complying with Section 713.
+
+---
+
+## Section 3008.6.1: Structural Integrity of Hoistway Enclosures
+
+3008.6.1 Structural Integrity of Hoistway Enclosures
+Occupant evacuation elevator
+hoistway
+enclosures shall comply with Sections
+403.2.3.1
+through
+403.2.3.4
+.
+
+---
+
+Occupant evacuation elevator
+hoistway
+enclosures shall comply with Sections
+403.2.3.1
+through
+403.2.3.4
+.
+
+---
+
+## Section 3008.7: Occupant Evacuation Elevator Lobby
+
+3008.7 Occupant Evacuation Elevator Lobby
+The occupant evacuation elevators shall open into an elevator lobby in accordance with Sections
+3008.7.1
+through
+3008.7.6
+. Egress is permitted through the elevator lobby in accordance with Item 1 of
+Section 1016.2
+.
+
+---
+
+The occupant evacuation elevators shall open into an elevator lobby in accordance with Sections
+3008.7.1
+through
+3008.7.6
+. Egress is permitted through the elevator lobby in accordance with Item 1 of
+Section 1016.2
+.
+
+---
+
+## Section 3008.7.1: Access to Interior Exit Stairway or Ramp
+
+3008.7.1 Access to Interior Exit Stairway or Ramp
+The occupant evacuation elevator lobby shall have direct access from the enclosed elevator lobby to an interior
+exit
+stairway
+or
+ramp
+.
+Exception:
+Access to an interior
+exit
+stairway
+or
+ramp
+shall be permitted to be through a protected path of
+travel
+protected with
+smoke partitions
+complying with Section 710‡. The protected path shall be separated from the enclosed elevator lobby through an opening protected by a
+smoke
+and draft control assembly in accordance with
+Section 716.5.3
+.
+
+---
+
+The occupant evacuation elevator lobby shall have direct access from the enclosed elevator lobby to an interior
+exit
+stairway
+or
+ramp
+.
+Exception:
+Access to an interior
+exit
+stairway
+or
+ramp
+shall be permitted to be through a protected path of
+travel
+protected with
+smoke partitions
+complying with Section 710‡. The protected path shall be separated from the enclosed elevator lobby through an opening protected by a
+smoke
+and draft control assembly in accordance with
+Section 716.5.3
+.
+
+---
+
+## Section 3008.7.2: Lobby Enclosure
+
+3008.7.2 Lobby Enclosure
+The occupant evacuation elevator lobby shall be enclosed with a
+smoke barrier
+having a
+fire-resistance rating
+of not less than 1 hour, except that lobby doorways shall comply with
+Section 3008.7.3
+.
+Exception:
+Enclosed occupant evacuation elevator lobbies are not required at the
+levels of exit discharge
+.
+Assemblies (2)
+Building products (3)
+
+---
+
+The occupant evacuation elevator lobby shall be enclosed with a
+smoke barrier
+having a
+fire-resistance rating
+of not less than 1 hour, except that lobby doorways shall comply with
+Section 3008.7.3
+.
+Exception:
+Enclosed occupant evacuation elevator lobbies are not required at the
+levels of exit discharge
+.
+
+---
+
+## Section 3008.7.3: Lobby Doorways
+
+3008.7.3 Lobby Doorways
+Other than doors to the
+hoistway
+, and elevator machine rooms, machinery spaces, control rooms, and control spaces within the lobby enclosure
+smoke barrier
+, each doorway to an occupant evacuation elevator lobby shall comply with the
+smoke
+and draft control assembly requirements of
+Section 716.5.3.1
+with the UL 1784 test conducted without the artificial bottom seal. Such doorway shall not be required to have a
+fire-resistance rating
+.
+Building products (4)
+
+---
+
+Other than doors to the
+hoistway
+, and elevator machine rooms, machinery spaces, control rooms, and control spaces within the lobby enclosure
+smoke barrier
+, each doorway to an occupant evacuation elevator lobby shall comply with the
+smoke
+and draft control assembly requirements of
+Section 716.5.3.1
+with the UL 1784 test conducted without the artificial bottom seal. Such doorway shall not be required to have a
+fire-resistance rating
+.
+
+---
+
+## Section 3008.7.3.1: Vision Panel
+
+3008.7.3.1 Vision Panel
+A vision panel shall be installed in each
+door
+assembly protecting the lobby doorway. The vision panel shall consist of glazing and shall be located to furnish clear vision of the occupant evacuation elevator lobby.
+
+---
+
+A vision panel shall be installed in each
+door
+assembly protecting the lobby doorway. The vision panel shall consist of glazing and shall be located to furnish clear vision of the occupant evacuation elevator lobby.
+
+---
+
+## Section 3008.7.3.2: Door Closing
+
+3008.7.3.2 Door Closing
+Each
+door
+assembly protecting the lobby doorway shall be
+automatic
+closing upon receipt of any
+fire alarm signal
+from the emergency voice/alarm communication system serving the
+building
+.
+
+---
+
+Each
+door
+assembly protecting the lobby doorway shall be
+automatic
+closing upon receipt of any
+fire alarm signal
+from the emergency voice/alarm communication system serving the
+building
+.
+
+---
+
+## Section 3008.7.4: Lobby Size
+
+3008.7.4 Lobby Size
+Each occupant evacuation elevator lobby shall have minimum floor
+area
+as follows
+:
+The occupant evacuation elevator lobby floor
+area
+shall accommodate, at 3 square feet (0.28 m
+2
+) per person, not less than 25 percent of the
+occupant load
+of the floor
+area
+served by the lobby.
+The occupant evacuation elevator lobby floor
+area
+shall accommodate one
+wheelchair space
+of 30 inches by 48 inches (760 mm by 1220 mm) for each 50 persons, or portion thereof, of the
+occupant load
+of the floor
+area
+served by the lobby.
+Exception:
+The size of lobbies serving multiple banks of elevators shall have the minimum floor
+area
+approved on an individual basis and shall be consistent with the
+building
+'s
+fire safety and emergency action plans
+.
+
+---
+
+Each occupant evacuation elevator lobby shall have minimum floor
+area
+as follows
+:
+The occupant evacuation elevator lobby floor
+area
+shall accommodate, at 3 square feet (0.28 m
+2
+) per person, not less than 25 percent of the
+occupant load
+of the floor
+area
+served by the lobby.
+The occupant evacuation elevator lobby floor
+area
+shall accommodate one
+wheelchair space
+of 30 inches by 48 inches (760 mm by 1220 mm) for each 50 persons, or portion thereof, of the
+occupant load
+of the floor
+area
+served by the lobby.
+Exception:
+The size of lobbies serving multiple banks of elevators shall have the minimum floor
+area
+approved on an individual basis and shall be consistent with the
+building
+'s
+fire safety and emergency action plans
+.
+
+---
+
+## Section 3008.7.5: Signage
+
+3008.7.5 Signage
+An approved
+sign
+indicating elevators are suitable for occupant self-evacuation shall be posted on all floors adjacent to each elevator call station serving occupant evacuation elevators.
+
+---
+
+An approved
+sign
+indicating elevators are suitable for occupant self-evacuation shall be posted on all floors adjacent to each elevator call station serving occupant evacuation elevators.
+
+---
+
+## Section 3008.7.6: Two-Way Communication System
+
+3008.7.6 Two-Way Communication System
+A two-way communication system shall be provided in each occupant evacuation elevator lobby for the purpose of initiating communication with the
+fire command center
+or an alternate location approved by the Fire Department. The two-way communication system shall be designed and installed in accordance with Sections
+1009.8.1
+and
+1009.8.2
+.
+
+---
+
+A two-way communication system shall be provided in each occupant evacuation elevator lobby for the purpose of initiating communication with the
+fire command center
+or an alternate location approved by the Fire Department. The two-way communication system shall be designed and installed in accordance with Sections
+1009.8.1
+and
+1009.8.2
+.
+
+---
+
+## Section 3008.8: Elevator System Monitoring
+
+3008.8 Elevator System Monitoring
+The occupant evacuation elevators shall be continuously monitored at the
+fire command center
+or a central control point approved by the Fire Department and arranged to display all of the following information:
+Floor location of each elevator car.
+Direction of
+travel
+of each elevator car.
+Status of each elevator car with respect to whether it is occupied.
+Status of normal power to the elevator
+equipment
+, elevator machinery and electrical apparatus cooling
+equipment
+where provided, elevator machine room, control room and
+control space
+ventilation
+and cooling
+equipment
+.
+Status of emergency or standby power system that provides backup power to the elevator
+equipment
+, elevator machinery and electrical cooling
+equipment
+where provided, elevator machine room, control room and
+control space
+ventilation
+and cooling
+equipment
+.
+Activation of any fire alarm
+initiating device
+in any elevator lobby, elevator machine room, machine space containing a motor controller or electric driving machine,
+control space
+, control room or elevator
+hoistway
+.
+
+---
+
+The occupant evacuation elevators shall be continuously monitored at the
+fire command center
+or a central control point approved by the Fire Department and arranged to display all of the following information:
+Floor location of each elevator car.
+Direction of
+travel
+of each elevator car.
+Status of each elevator car with respect to whether it is occupied.
+Status of normal power to the elevator
+equipment
+, elevator machinery and electrical apparatus cooling
+equipment
+where provided, elevator machine room, control room and
+control space
+ventilation
+and cooling
+equipment
+.
+Status of emergency or standby power system that provides backup power to the elevator
+equipment
+, elevator machinery and electrical cooling
+equipment
+where provided, elevator machine room, control room and
+control space
+ventilation
+and cooling
+equipment
+.
+Activation of any fire alarm
+initiating device
+in any elevator lobby, elevator machine room, machine space containing a motor controller or electric driving machine,
+control space
+, control room or elevator
+hoistway
+.
+
+---
+
+## Section 3008.8.1: Elevator Recall
+
+3008.8.1 Elevator Recall
+The
+fire command center
+or an alternate location approved by the Fire Department shall be provided with the means to manually initiate a Phase I Emergency Recall of the occupant evacuation elevators in accordance with
+ASME A17.1/CSA B44
+as modified by
+Appendix K
+of this code.
+
+---
+
+The
+fire command center
+or an alternate location approved by the Fire Department shall be provided with the means to manually initiate a Phase I Emergency Recall of the occupant evacuation elevators in accordance with
+ASME A17.1/CSA B44
+as modified by
+Appendix K
+of this code.
+
+---
+
+## Section 3008.9: Electrical Power
+
+3008.9 Electrical Power
+The following features serving each occupant evacuation elevator shall be supplied by both normal power and Type 60/Class 6/
+Level 1
+standby power:
+Elevator
+equipment
+.
+Ventilation
+and cooling
+equipment
+for elevator machine rooms, control rooms, machinery and control spaces.
+Elevator car lighting.
+Exceptions:
+Standby power relying on natural gas as a fuel source need not be Class 6.
+Where Exception 2 of
+Section 403.5.2
+is utilized, the standby power generating
+equipment
+need only be sized to satisfy the
+loads
+required to simultaneously operate those elevators identified in the timed egress analysis described in Exception 2.2.
+
+---
+
+The following features serving each occupant evacuation elevator shall be supplied by both normal power and Type 60/Class 6/
+Level 1
+standby power:
+Elevator
+equipment
+.
+Ventilation
+and cooling
+equipment
+for elevator machine rooms, control rooms, machinery and control spaces.
+Elevator car lighting.
+Exceptions:
+Standby power relying on natural gas as a fuel source need not be Class 6.
+Where Exception 2 of
+Section 403.5.2
+is utilized, the standby power generating
+equipment
+need only be sized to satisfy the
+loads
+required to simultaneously operate those elevators identified in the timed egress analysis described in Exception 2.2.
+
+---
+
+## Section 3008.9.1: Protection of Wiring or Cables
+
+3008.9.1 Protection of Wiring or Cables
+Wires or cables that are located outside of the elevator
+hoistway
+, machine room, control room and
+control space
+and that provide normal or standby power, control signals, communication with the car, lighting, heating, air conditioning,
+ventilation
+and fire-detecting systems to occupant evacuation elevators shall be protected by
+construction
+having a
+fire-resistance rating
+of not less than 2 hours, or shall be circuit integrity cable having a
+fire-resistance rating
+of not less than 2 hours, or shall be protected by a listed
+electrical circuit protective system
+having a
+fire-resistance rating
+of not less than 2 hours.
+Exception:
+Wiring and cables to control signals are not required to be protected provided that wiring and cables do not serve Phase II emergency in-car
+operation
+.
+Assembly (1)
+
+---
+
+Wires or cables that are located outside of the elevator
+hoistway
+, machine room, control room and
+control space
+and that provide normal or standby power, control signals, communication with the car, lighting, heating, air conditioning,
+ventilation
+and fire-detecting systems to occupant evacuation elevators shall be protected by
+construction
+having a
+fire-resistance rating
+of not less than 2 hours, or shall be circuit integrity cable having a
+fire-resistance rating
+of not less than 2 hours, or shall be protected by a listed
+electrical circuit protective system
+having a
+fire-resistance rating
+of not less than 2 hours.
+Exception:
+Wiring and cables to control signals are not required to be protected provided that wiring and cables do not serve Phase II emergency in-car
+operation
+.
+
+---
+
+## Section 3008.10: Emergency Voice/Alarm Communication System
+
+3008.10 Emergency Voice/Alarm Communication System
+The
+building
+shall be provided with an emergency voice/alarm communication system. The emergency voice/alarm communication system shall be accessible to the Fire Department. The system shall be provided in accordance with
+Section 907.5.2.2
+.
+
+---
+
+The
+building
+shall be provided with an emergency voice/alarm communication system. The emergency voice/alarm communication system shall be accessible to the Fire Department. The system shall be provided in accordance with
+Section 907.5.2.2
+.
+
+---
+
+## Section 3008.10.1: Notification Appliances
+
+3008.10.1 Notification Appliances
+Not fewer than one audible and one visible notification appliance shall be installed within each occupant evacuation elevator lobby.
+
+---
+
+Not fewer than one audible and one visible notification appliance shall be installed within each occupant evacuation elevator lobby.
+
+---
+
+## Section 3008.11: Hazardous Material Areas
+
+3008.11 Hazardous Material Areas
+No
+building areas
+shall contain
+hazardous materials
+exceeding the maximum allowable quantities per
+control area
+as addressed in Se
+c
+tion
+414.2
+.
+UpCodes Diagram (1)
+
+---
+
+No
+building areas
+shall contain
+hazardous materials
+exceeding the maximum allowable quantities per
+control area
+as addressed in Se
+c
+tion
+414.2
+.
+
+---
+
+Section BC 3009 Service Equipment Certificates
+
+---
+
+## Section 3009.1: Required
+
+3009.1 Required
+No service
+equipment
+shall be placed in
+operation
+until a service
+equipment
+certificate of compliance
+has been obtained in accordance with the provisions of this code.
+
+---
+
+No service
+equipment
+shall be placed in
+operation
+until a service
+equipment
+certificate of compliance
+has been obtained in accordance with the provisions of this code.
+
+---
+
+## Section 3009.2: Posting of Inspection Certificate
+
+3009.2 Posting of Inspection Certificate
+At the time a service
+equipment
+Certificate of Compliance
+is issued, an
+inspection certificate
+issued by the commissioner shall be posted. No such
+inspection certificate
+shall be issued for elevators that are not subject to periodic
+inspections
+pursuant to this code. The
+inspection certificate
+shall be in such form as the commissioner shall determine by rule and shall be posted in a frame with a
+transparent
+cover in the car of every passenger and freight elevator and on or near every escalator and moving walk and power-operated
+scaffold
+.
+
+---
+
+At the time a service
+equipment
+Certificate of Compliance
+is issued, an
+inspection certificate
+issued by the commissioner shall be posted. No such
+inspection certificate
+shall be issued for elevators that are not subject to periodic
+inspections
+pursuant to this code. The
+inspection certificate
+shall be in such form as the commissioner shall determine by rule and shall be posted in a frame with a
+transparent
+cover in the car of every passenger and freight elevator and on or near every escalator and moving walk and power-operated
+scaffold
+.
+
+---
+
+## Section 3009.2.1: Alternate Posting Locations
+
+3009.2.1 Alternate Posting Locations
+In lieu of posting the
+inspection certificate
+in those locations specified in this section, the
+inspection certificate
+may be kept in the on-
+site
+building
+manager's office. In such case, the
+building
+manager's office must be open during normal business hours. In addition, notice must be posted in each location listed in
+Section 3009.2
+and kept in a frame with a
+transparent
+cover, or a plaque or on the car operating panel, with an indelible inscription, stating that the
+inspection certificate
+is located in the
+building
+manager's office and identifying the location of such office.
+
+---
+
+In lieu of posting the
+inspection certificate
+in those locations specified in this section, the
+inspection certificate
+may be kept in the on-
+site
+building
+manager's office. In such case, the
+building
+manager's office must be open during normal business hours. In addition, notice must be posted in each location listed in
+Section 3009.2
+and kept in a frame with a
+transparent
+cover, or a plaque or on the car operating panel, with an indelible inscription, stating that the
+inspection certificate
+is located in the
+building
+manager's office and identifying the location of such office.
+
+---
+
+## Section 3009.3: Temporary Use Certificates
+
+3009.3 Temporary Use Certificates
+The commissioner may issue temporary use certificates for any
+equipment
+or device regulated by this code, except power-operated
+scaffolds
+, provided that such partial use and
+operation
+may be made safely and without endangering public health, safety, and welfare and provided further that such temporary use certificate shall not be issued for a period of more than 30 calendar days, subject to renewal for additional 30-day periods at the discretion of the commissioner. Temporary use certificates for elevators shall also be conditioned upon compliance with the following:
+The class of service to be permitted shall be designated on the temporary use certificate.
+The
+hoistway
+shall be enclosed throughout in an enclosure complying with
+ASME A17.1/CSA B44
+or with a temporary enclosure in accordance with the requirements for workers' elevators (temporary elevators) of the
+Industrial Code of the State of New York
+, No. 23.
+
+---
+
+The commissioner may issue temporary use certificates for any
+equipment
+or device regulated by this code, except power-operated
+scaffolds
+, provided that such partial use and
+operation
+may be made safely and without endangering public health, safety, and welfare and provided further that such temporary use certificate shall not be issued for a period of more than 30 calendar days, subject to renewal for additional 30-day periods at the discretion of the commissioner. Temporary use certificates for elevators shall also be conditioned upon compliance with the following:
+The class of service to be permitted shall be designated on the temporary use certificate.
+The
+hoistway
+shall be enclosed throughout in an enclosure complying with
+ASME A17.1/CSA B44
+or with a temporary enclosure in accordance with the requirements for workers' elevators (temporary elevators) of the
+Industrial Code of the State of New York
+, No. 23.
+
+---
+
+## Section 3009.3.1: Posting of Temporary Use Certificate
+
+3009.3.1 Posting of Temporary Use Certificate
+The temporary use certificate shall be posted in a conspicuous location on, or adjacent to, the device covered by the certificate and shall state that the device has not been finally approved by the commissioner.
+
+---
+
+The temporary use certificate shall be posted in a conspicuous location on, or adjacent to, the device covered by the certificate and shall state that the device has not been finally approved by the commissioner.
+
+---
+
+Section BC 3010 Elevator, Amusement and Other Device Operators
+
+---
+
+## Section 3010.1: Elevator Operators
+
+3010.1 Elevator Operators
+With the exception of
+automatic
+operation
+elevators, every passenger and freight elevator with a rise of more than one
+story
+shall be in the charge of a designated competent operator, who shall be at least 18 years old and selected with consideration of his or her abilities to perform his or her duties in a careful and competent manner. Such designated competent operator shall be instructed in the safe and proper
+operation
+of the
+equipment
+.
+
+---
+
+With the exception of
+automatic
+operation
+elevators, every passenger and freight elevator with a rise of more than one
+story
+shall be in the charge of a designated competent operator, who shall be at least 18 years old and selected with consideration of his or her abilities to perform his or her duties in a careful and competent manner. Such designated competent operator shall be instructed in the safe and proper
+operation
+of the
+equipment
+.
+
+---
+
+## Section 3010.2: Amusement Device Operators
+
+3010.2 Amusement Device Operators
+Operators of amusement devices shall meet the requirements of rules of the department.
+
+---
+
+Operators of amusement devices shall meet the requirements of rules of the department.
+
+---
+
+## Section 3010.3: Other Device Operators
+
+3010.3 Other Device Operators
+Other devices regulated by this code shall, when deemed necessary by the commissioner to protect public safety, be in the charge of a designated competent operator conforming to such
+qualifications
+as the commissioner may prescribe, except that operators for workers' hoists shall be assigned as required by the applicable provisions of ANSI A10.4.
+
+---
+
+Other devices regulated by this code shall, when deemed necessary by the commissioner to protect public safety, be in the charge of a designated competent operator conforming to such
+qualifications
+as the commissioner may prescribe, except that operators for workers' hoists shall be assigned as required by the applicable provisions of ANSI A10.4.
+
+---
+
+## Section 3010.4: Sanction for Unlawful Operation
+
+3010.4 Sanction for Unlawful Operation
+If the commissioner finds that any person engaged in operating an elevator, amusement, or other device is not competent to operate the elevator, amusement or other device, the owner, agent or lessee of such elevator, amusement, or other device shall, upon notice from the commissioner, discontinue the
+operation
+of such device by such operator.
+
+---
+
+If the commissioner finds that any person engaged in operating an elevator, amusement, or other device is not competent to operate the elevator, amusement or other device, the owner, agent or lessee of such elevator, amusement, or other device shall, upon notice from the commissioner, discontinue the
+operation
+of such device by such operator.
+
+---
+
+Section BC 3011 Elevator Being Serviced, Repaired, Inspected or Tested
+
+---
+
+## Section 3011.1: Signage
+
+3011.1 Signage
+When an existing or new
+automatic
+passenger elevator in any
+building
+or structure is being serviced, repaired, inspected or tested by an elevator company, or elevator personnel, and there are no elevator personnel available to remain in the elevator car, "CAUTION"
+sign
+tapes shall be placed across the car door jamb. One strip of "CAUTION"
+sign
+tape shall be placed at a
+height
+of 18 inches (457 mm) above the car floor and another strip of "CAUTION"
+sign
+tape shall be placed at a
+height
+of 54 inches (1372 mm) above the car floor.
+
+---
+
+When an existing or new
+automatic
+passenger elevator in any
+building
+or structure is being serviced, repaired, inspected or tested by an elevator company, or elevator personnel, and there are no elevator personnel available to remain in the elevator car, "CAUTION"
+sign
+tapes shall be placed across the car door jamb. One strip of "CAUTION"
+sign
+tape shall be placed at a
+height
+of 18 inches (457 mm) above the car floor and another strip of "CAUTION"
+sign
+tape shall be placed at a
+height
+of 54 inches (1372 mm) above the car floor.
+
+---
+
+## Section 3011.1.1: Sign Tape
+
+3011.1.1 Sign Tape
+The "CAUTION"
+sign
+tape shall be 3 inches (76 mm) in width with the words "CAUTION — DO NOT ENTER" repeated every 6 inches (152 mm). The lettering shall be black on yellow background. The letters shall be at least 2 inches (51 mm) high. Caution tape may be replaced with
+OSHA
+approved elevator barricades.
+
+---
+
+The "CAUTION"
+sign
+tape shall be 3 inches (76 mm) in width with the words "CAUTION — DO NOT ENTER" repeated every 6 inches (152 mm). The lettering shall be black on yellow background. The letters shall be at least 2 inches (51 mm) high. Caution tape may be replaced with
+OSHA
+approved elevator barricades.
+
+---
+
+## Section 3011.1.2: Elevator Out of Service
+
+3011.1.2 Elevator Out of Service
+When an elevator is out of service with the car
+door
+open at a landing prior to the elevator personnel arriving, Sections
+3011.1
+and
+3011.1.1
+shall apply.
+
+---
+
+When an elevator is out of service with the car
+door
+open at a landing prior to the elevator personnel arriving, Sections
+3011.1
+and
+3011.1.1
+shall apply.
+
+---
+
+Section BC 3012 Accidents
+
+---
+
+## Section 3012.1: Accidents
+
+3012.1 Accidents
+The owner of any device regulated by this chapter shall promptly notify the commissioner of every accident involving injury to any person requiring the
+services
+of Emergency Medical Service (EMS) or damage to property or to apparatus exceeding $5,000 on, about, or in connection with such
+equipment
+, before commencing any
+repairs
+and shall afford the commissioner every
+facility
+for investigating such accident or damage. The commissioner shall make an investigation immediately thereafter, and shall prepare a full and complete report of such investigation. Such report shall give in detail all material facts and information available and the cause or causes as far as they can be determined. Such report shall be a public record. When an accident involves the failure or destruction of any part of the
+construction
+or operating mechanism of such
+equipment
+, no such
+equipment
+shall be used until it has been made safe, and re-inspected by the commissioner. The commissioner may order the discontinuance of such
+equipment
+until a new service
+equipment
+certificate has been issued by him or her for its use. No part shall be removed from the premises of the damaged
+construction
+or operating mechanism until permission to do so has been granted by the commissioner.
+
+---
+
+The owner of any device regulated by this chapter shall promptly notify the commissioner of every accident involving injury to any person requiring the
+services
+of Emergency Medical Service (EMS) or damage to property or to apparatus exceeding $5,000 on, about, or in connection with such
+equipment
+, before commencing any
+repairs
+and shall afford the commissioner every
+facility
+for investigating such accident or damage. The commissioner shall make an investigation immediately thereafter, and shall prepare a full and complete report of such investigation. Such report shall give in detail all material facts and information available and the cause or causes as far as they can be determined. Such report shall be a public record. When an accident involves the failure or destruction of any part of the
+construction
+or operating mechanism of such
+equipment
+, no such
+equipment
+shall be used until it has been made safe, and re-inspected by the commissioner. The commissioner may order the discontinuance of such
+equipment
+until a new service
+equipment
+certificate has been issued by him or her for its use. No part shall be removed from the premises of the damaged
+construction
+or operating mechanism until permission to do so has been granted by the commissioner.
+
+---
+
+Section BC 3013 Existing Installations
+
+---
+
+## Section 3013.1: General
+
+3013.1 General
+Existing
+installations
+shall be modified in accordance with
+Appendix K
+,
+Chapter K3
+.
+
+---
+
+Existing
+installations
+shall be modified in accordance with
+Appendix K
+,
+Chapter K3
+.
+
+---
+
+Section BC 3014 Inspection and Testing
+
+---
+
+## Section 3014.1: Elevators and Conveying Systems
+
+3014.1 Elevators and Conveying Systems
+Inspection
+and testing of elevators and conveying systems shall be in accordance with
+Appendix K
+, including Table N1. Refer to
+Chapter 3
+of
+Title
+28 of the
+Administrative Code
+for additional requirements.
+
+---
+
+Inspection
+and testing of elevators and conveying systems shall be in accordance with
+Appendix K
+, including Table N1. Refer to
+Chapter 3
+of
+Title
+28 of the
+Administrative Code
+for additional requirements.
+
+---
+
+## Section 3014.2: Amusement Devices
+
+3014.2 Amusement Devices
+Inspection
+and testing of amusement devices shall comply with rules of the department. Refer to
+Chapter 3
+of
+Title
+28 of the
+Administrative Code
+for additional requirements.
+Installation
+of amusement devices shall be subject to the requirements for special and progress
+inspections
+.
+
+---
+
+Inspection
+and testing of amusement devices shall comply with rules of the department. Refer to
+Chapter 3
+of
+Title
+28 of the
+Administrative Code
+for additional requirements.
+Installation
+of amusement devices shall be subject to the requirements for special and progress
+inspections
+.
+
+---
+

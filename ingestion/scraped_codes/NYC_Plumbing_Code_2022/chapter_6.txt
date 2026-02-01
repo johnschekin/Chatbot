@@ -1,0 +1,7328 @@
+# NYC Plumbing Code 2022 - Chapter 6
+
+New York City Plumbing Code 2022
+
+---
+
+New York City Plumbing Code Cover
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Chapter 4 Fixtures, Faucets and Fixture Fittings
+
+---
+
+Chapter 5 Water Heaters
+
+---
+
+Chapter 6 Water Supply and Distribution
+
+---
+
+601 General
+
+---
+
+602 Water Required
+
+---
+
+603 Water Service
+
+---
+
+604 Design of Building Water Distribution System
+
+---
+
+605 Materials, Joints and Connections
+
+---
+
+606 Installation of the Building Water Distribution System
+
+---
+
+607 Hot Water Supply System
+
+---
+
+608 Protection of Potable Water Supply
+
+---
+
+609 Health Care Plumbing
+
+---
+
+610 Disinfection of Potable Water System
+
+---
+
+611 Drinking Water Treatment Units
+
+---
+
+612 Solar Systems
+
+---
+
+613 Temperature Control Devices and Valves
+
+---
+
+614 Emergency Drinking Water Access
+
+---
+
+Chapter 7 Sanitary Drainage
+
+---
+
+Chapter 8 Indirect/Special Waste
+
+---
+
+Chapter 9 Vents
+
+---
+
+Chapter 10 Traps, Interceptors and Separators
+
+---
+
+Chapter 11 Storm Drainage
+
+---
+
+Chapter 12 Special Piping and Storage Systems
+
+---
+
+Chapter 13 Nonpotable Water Systems
+
+---
+
+Chapter 14 Subsurface Landscape Irrigation Systems
+
+---
+
+Chapter 15 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Structural Safety
+
+---
+
+Appendix D Reserved
+
+---
+
+Appendix E Sizing of Water Piping System
+
+---
+
+Appendix F Structural Safety Reserved
+
+---
+
+Appendix G Vacuum Drainage System Reserved
+
+---
+
+Title 28 New York City Construction Codes
+
+---
+
+Chapter 6 Water Supply and Distribution
+
+---
+
+Section 601 General
+
+---
+
+## Section 601.1: Scope
+
+601.1 Scope
+This chapter shall govern the
+materials
+, design and installation of
+water supply systems
+, both hot and cold, for utilization in connection with human
+occupancy
+and habitation and shall govern the installation of
+individual water supply
+systems.
+
+---
+
+This chapter shall govern the
+materials
+, design and installation of
+water supply systems
+, both hot and cold, for utilization in connection with human
+occupancy
+and habitation and shall govern the installation of
+individual water supply
+systems.
+
+---
+
+## Section 601.2: Solar Energy Utilization
+
+601.2 Solar Energy Utilization
+Solar energy systems used for heating
+potable water
+or using an independent medium for heating
+potable water
+shall comply with the applicable requirements of this code. The use of solar energy shall not compromise the requirements for
+cross connection
+or
+protection
+of the potable
+water supply system
+required by this code.
+
+---
+
+Solar energy systems used for heating
+potable water
+or using an independent medium for heating
+potable water
+shall comply with the applicable requirements of this code. The use of solar energy shall not compromise the requirements for
+cross connection
+or
+protection
+of the potable
+water supply system
+required by this code.
+
+---
+
+## Section 601.3: Existing Piping Used for Grounding
+
+601.3 Existing Piping Used for Grounding
+Existing metallic
+water
+service piping used for electrical grounding shall not be replaced with nonmetallic pipe or tubing until other
+approved
+means of grounding is provided.
+
+---
+
+Existing metallic
+water
+service piping used for electrical grounding shall not be replaced with nonmetallic pipe or tubing until other
+approved
+means of grounding is provided.
+
+---
+
+## Section 601.4: Tests
+
+601.4 Tests
+The
+potable water
+distribution system shall be tested in accordance with
+Section 312.5
+.
+
+---
+
+The
+potable water
+distribution system shall be tested in accordance with
+Section 312.5
+.
+
+---
+
+## Section 601.5: Rehabilitation of Piping Systems
+
+601.5 Rehabilitation of Piping Systems
+Cured-in-place pipe
+(
+CIPP
+) and epoxy spray pipe lining systems shall not be used.
+
+---
+
+Cured-in-place pipe
+(
+CIPP
+) and epoxy spray pipe lining systems shall not be used.
+
+---
+
+## Section 601.6: Water Supply
+
+601.6 Water Supply
+The
+water
+distribution system shall be connected to a
+public water main
+if available. Where a
+public water main
+is not available, an individual
+potable water
+supply shall be provided. Any such
+private
+system shall be provided subject to the approval of the
+commissioner
+and of any other agency or agencies having jurisdiction.
+
+---
+
+The
+water
+distribution system shall be connected to a
+public water main
+if available. Where a
+public water main
+is not available, an individual
+potable water
+supply shall be provided. Any such
+private
+system shall be provided subject to the approval of the
+commissioner
+and of any other agency or agencies having jurisdiction.
+
+---
+
+## Section 601.6.1: Extensions of Public Water Mains
+
+601.6.1 Extensions of Public Water Mains
+Extensions of
+public water mains
+shall be made in accordance with the regulations of the Department of Environmental
+Protection
+.
+
+---
+
+Extensions of
+public water mains
+shall be made in accordance with the regulations of the Department of Environmental
+Protection
+.
+
+---
+
+## Section 601.6.2: Availability of Public Water Main to Other Than One- or Two-Family Dwellings
+
+601.6.2 Availability of Public Water Main to Other Than One- or Two-Family Dwellings
+A
+public water main
+shall be deemed available to a building, other than a one- or two-family dwelling, if a property line of such building is within 500 feet (152 m), measured along a street, alley, or right-of-way, of the public
+water supply system
+. The extension and connection shall be made in accordance with the applicable standards of the Department of Environmental
+Protection
+.
+Exception:
+Where a substantial improvement of a building is contemplated on a tract of land, the public
+water supply system
+may be declared available thereto by the agencies having jurisdiction thereon even though the specified distance is exceeded.
+
+---
+
+A
+public water main
+shall be deemed available to a building, other than a one- or two-family dwelling, if a property line of such building is within 500 feet (152 m), measured along a street, alley, or right-of-way, of the public
+water supply system
+. The extension and connection shall be made in accordance with the applicable standards of the Department of Environmental
+Protection
+.
+Exception:
+Where a substantial improvement of a building is contemplated on a tract of land, the public
+water supply system
+may be declared available thereto by the agencies having jurisdiction thereon even though the specified distance is exceeded.
+
+---
+
+## Section 601.6.3: Availability of Public Water Main to One- or Two-Family Dwellings
+
+601.6.3 Availability of Public Water Main to One- or Two-Family Dwellings
+A
+public water main
+shall be deemed available to a one- and two-family dwelling if a property line of such dwelling is within 100 feet (30 480 mm), measured along a street, alley, or right-of-way, of the public
+water supply system
+. The extension and connection shall be made in accordance with the applicable standards of the Department of Environmental
+Protection
+.
+Exception:
+Where two or more one- or two-family dwellings are to be constructed on a tract of land, the public
+water supply system
+may be declared available thereto by the agencies having jurisdiction thereon even though the specified distance is exceeded.
+
+---
+
+A
+public water main
+shall be deemed available to a one- and two-family dwelling if a property line of such dwelling is within 100 feet (30 480 mm), measured along a street, alley, or right-of-way, of the public
+water supply system
+. The extension and connection shall be made in accordance with the applicable standards of the Department of Environmental
+Protection
+.
+Exception:
+Where two or more one- or two-family dwellings are to be constructed on a tract of land, the public
+water supply system
+may be declared available thereto by the agencies having jurisdiction thereon even though the specified distance is exceeded.
+
+---
+
+## Section 601.7: Destruction of Abandoned Corporation Stops and Wet Connections
+
+601.7 Destruction of Abandoned Corporation Stops and Wet Connections
+All
+driven
+corporation stops, when abandoned, shall be removed and replaced by plugs. All wet
+connections
+or screw corporation stops, when abandoned, shall be destroyed in place, and all exposed portions of the service pipe shall be cut and removed. Where a corporation stop or wet connection is destroyed and the connecting service pipe is one that is equipped with a curb valve and box, the curb box shall be removed in accordance with the rules of the Department of Environmental
+Protection
+. The expense in connection with the abandonment or destruction of a corporation stop or wet connection shall be chargeable to the owner of the property into which the service pipe entered.
+
+---
+
+All
+driven
+corporation stops, when abandoned, shall be removed and replaced by plugs. All wet
+connections
+or screw corporation stops, when abandoned, shall be destroyed in place, and all exposed portions of the service pipe shall be cut and removed. Where a corporation stop or wet connection is destroyed and the connecting service pipe is one that is equipped with a curb valve and box, the curb box shall be removed in accordance with the rules of the Department of Environmental
+Protection
+. The expense in connection with the abandonment or destruction of a corporation stop or wet connection shall be chargeable to the owner of the property into which the service pipe entered.
+
+---
+
+Section 602 Water Required
+
+---
+
+## Section 602.1: General
+
+602.1 General
+Structures equipped with
+plumbing fixtures
+and utilized for human
+occupancy
+or habitation shall be provided with a potable supply of
+water
+in the amounts and at the pressures specified in this chapter.
+
+---
+
+Structures equipped with
+plumbing fixtures
+and utilized for human
+occupancy
+or habitation shall be provided with a potable supply of
+water
+in the amounts and at the pressures specified in this chapter.
+
+---
+
+## Section 602.2: Potable Water Required
+
+602.2 Potable Water Required
+Only
+potable water
+shall be supplied to
+plumbing fixtures
+that provide
+water
+for drinking, bathing or culinary purposes, or for the processing of food, medical or pharmaceutical products. Unless otherwise provided in this code,
+potable water
+shall be supplied to all
+plumbing fixtures
+.
+
+---
+
+Only
+potable water
+shall be supplied to
+plumbing fixtures
+that provide
+water
+for drinking, bathing or culinary purposes, or for the processing of food, medical or pharmaceutical products. Unless otherwise provided in this code,
+potable water
+shall be supplied to all
+plumbing fixtures
+.
+
+---
+
+## Section 602.3: Individual Water Supply
+
+602.3 Individual Water Supply
+Where a potable public
+water supply
+is not available, individual sources of
+potable water
+supply shall be utilized. No well or
+individual water supply
+shall be installed for any purpose without approval of the
+commissioner
+, the Department of Health and Mental Hygiene and the Department of Environmental
+Protection
+.
+
+---
+
+Where a potable public
+water supply
+is not available, individual sources of
+potable water
+supply shall be utilized. No well or
+individual water supply
+shall be installed for any purpose without approval of the
+commissioner
+, the Department of Health and Mental Hygiene and the Department of Environmental
+Protection
+.
+
+---
+
+## Section 602.3.1: Sources
+
+602.3.1 Sources
+Dependent on geological and soil conditions and the amount of rainfall,
+individual water supplies
+are of the following types:
+drilled
+well,
+driven
+well, dug well,
+bored
+well, spring, stream or
+cistern
+. Surface bodies of
+water
+and land
+cisterns
+shall not be sources of
+individual water supply
+unless properly treated by
+approved
+means to prevent
+contamination
+.
+
+---
+
+Dependent on geological and soil conditions and the amount of rainfall,
+individual water supplies
+are of the following types:
+drilled
+well,
+driven
+well, dug well,
+bored
+well, spring, stream or
+cistern
+. Surface bodies of
+water
+and land
+cisterns
+shall not be sources of
+individual water supply
+unless properly treated by
+approved
+means to prevent
+contamination
+.
+
+---
+
+## Section 602.3.2: Minimum Quantity
+
+602.3.2 Minimum Quantity
+The
+combined
+capacity of the source and storage in an
+individual water supply
+system shall supply the fixtures with
+water
+at rates and pressures as required by this chapter.
+
+---
+
+The
+combined
+capacity of the source and storage in an
+individual water supply
+system shall supply the fixtures with
+water
+at rates and pressures as required by this chapter.
+
+---
+
+## Section 602.3.3: Water Quality
+
+602.3.3 Water Quality
+Water
+from an
+individual water supply
+shall be
+approved
+as potable by the authority having jurisdiction prior to connection to the
+plumbing system
+.
+
+---
+
+Water
+from an
+individual water supply
+shall be
+approved
+as potable by the authority having jurisdiction prior to connection to the
+plumbing system
+.
+
+---
+
+## Section 602.3.4: Disinfection of System
+
+602.3.4 Disinfection of System
+After construction or major repair, the
+individual water supply
+system shall be purged of deleterious matter and disinfected in accordance with
+Section 610
+.
+
+---
+
+After construction or major repair, the
+individual water supply
+system shall be purged of deleterious matter and disinfected in accordance with
+Section 610
+.
+
+---
+
+## Section 602.3.5: Pumps
+
+602.3.5 Pumps
+Pumps shall be rated for the transport of
+potable water
+. Pumps in an
+individual water supply
+system shall be constructed and installed so as to prevent
+contamination
+from entering a
+potable water
+supply through the pump units. Pumps shall be sealed to the well casing or covered with a
+water
+-tight seal. Pumps shall be designed to maintain a prime and installed such that
+ready access
+is provided to the pump parts of the entire assembly for repairs.
+
+---
+
+Pumps shall be rated for the transport of
+potable water
+. Pumps in an
+individual water supply
+system shall be constructed and installed so as to prevent
+contamination
+from entering a
+potable water
+supply through the pump units. Pumps shall be sealed to the well casing or covered with a
+water
+-tight seal. Pumps shall be designed to maintain a prime and installed such that
+ready access
+is provided to the pump parts of the entire assembly for repairs.
+
+---
+
+## Section 602.3.5.1: Pump Enclosure
+
+602.3.5.1 Pump Enclosure
+The pump room or enclosure around a well pump shall be drained and protected from freezing by heating or other
+approved
+means. Where pumps are installed in basements, such pumps shall be mounted on a block or shelf not less than 18 inches (457 mm) above the basement floor. Well pits shall be prohibited.
+
+---
+
+The pump room or enclosure around a well pump shall be drained and protected from freezing by heating or other
+approved
+means. Where pumps are installed in basements, such pumps shall be mounted on a block or shelf not less than 18 inches (457 mm) above the basement floor. Well pits shall be prohibited.
+
+---
+
+Section 603 Water Service
+
+---
+
+## Section 603.1: Size of Water Service Pipe
+
+603.1 Size of Water Service Pipe
+The
+water service pipe
+shall be sized to supply
+water
+to the structure in the quantities and at the pressures required in this code. The minimum diameter of
+water service pipe
+shall be 1 inch (25 mm).
+
+---
+
+The
+water service pipe
+shall be sized to supply
+water
+to the structure in the quantities and at the pressures required in this code. The minimum diameter of
+water service pipe
+shall be 1 inch (25 mm).
+
+---
+
+## Section 603.2: Separation From Water Service
+
+603.2 Separation From Water Service
+Underground
+water service pipe
+and the
+building sewer
+or the
+building drain
+shall be separated by not less than 5 feet (1524 mm) of undisturbed or compacted earth.
+Exceptions:
+The required separation distance shall not apply where the bottom of the
+water service pipe
+within 5 feet (1524 mm) of the
+sewer
+or
+drain
+is a minimum of 12 inches (305 mm) above the top of the highest point of the
+sewer
+or
+drain
+and the pipe
+materials
+conform to
+Section 703.1
+.
+Water service pipe
+is permitted to be located in the same trench with a
+building drain
+, provided such
+drain
+is constructed of
+materials
+listed in
+Table 702.2
+.
+The required separation distance shall not apply where a
+water service pipe
+crosses a
+sewer
+or
+drain
+pipe provided the
+water service pipe
+is sleeved to at least 5 feet (1524 mm) horizontally from the
+sewer
+or
+drain
+pipe centerline, on both sides of such crossing with pipe
+materials
+listed in Table 605.3,
+Table 702.2
+or
+Table 702.3
+.
+
+---
+
+Underground
+water service pipe
+and the
+building sewer
+or the
+building drain
+shall be separated by not less than 5 feet (1524 mm) of undisturbed or compacted earth.
+Exceptions:
+The required separation distance shall not apply where the bottom of the
+water service pipe
+within 5 feet (1524 mm) of the
+sewer
+or
+drain
+is a minimum of 12 inches (305 mm) above the top of the highest point of the
+sewer
+or
+drain
+and the pipe
+materials
+conform to
+Section 703.1
+.
+Water service pipe
+is permitted to be located in the same trench with a
+building drain
+, provided such
+drain
+is constructed of
+materials
+listed in
+Table 702.2
+.
+The required separation distance shall not apply where a
+water service pipe
+crosses a
+sewer
+or
+drain
+pipe provided the
+water service pipe
+is sleeved to at least 5 feet (1524 mm) horizontally from the
+sewer
+or
+drain
+pipe centerline, on both sides of such crossing with pipe
+materials
+listed in Table 605.3,
+Table 702.2
+or
+Table 702.3
+.
+
+---
+
+## Section 603.2.1: Water Service Near Sources of Pollution
+
+603.2.1 Water Service Near Sources of Pollution
+Potable
+water service pipes
+shall not be located in, under or above cesspools, septic tanks, septic tank
+drainage
+fields or seepage pits (see
+Section 605.1
+for soil and groundwater conditions) and shall be separated by a minimum of 10 feet (3048 mm) and shall meet all Department of Environmental
+Protection
+requirements.
+
+---
+
+Potable
+water service pipes
+shall not be located in, under or above cesspools, septic tanks, septic tank
+drainage
+fields or seepage pits (see
+Section 605.1
+for soil and groundwater conditions) and shall be separated by a minimum of 10 feet (3048 mm) and shall meet all Department of Environmental
+Protection
+requirements.
+
+---
+
+## Section 603.3: Installation of Service Pipe
+
+603.3 Installation of Service Pipe
+Each new service pipe shall be installed in accordance with the rules of the Department of Environmental
+Protection
+.
+
+---
+
+Each new service pipe shall be installed in accordance with the rules of the Department of Environmental
+Protection
+.
+
+---
+
+## Section 603.4: Location of Meters
+
+603.4 Location of Meters
+The service pipe between the house control valve and the meter shall be kept exposed. All meter
+locations
+shall be subject to approval by the Department of Environmental
+Protection
+.
+
+---
+
+The service pipe between the house control valve and the meter shall be kept exposed. All meter
+locations
+shall be subject to approval by the Department of Environmental
+Protection
+.
+
+---
+
+## Section 603.5: Connections to City Water Mains
+
+603.5 Connections to City Water Mains
+Connections
+to city
+water mains
+shall comply with the rules of the Department of Environmental
+Protection
+.
+
+---
+
+Connections
+to city
+water mains
+shall comply with the rules of the Department of Environmental
+Protection
+.
+
+---
+
+## Section 603.5.1: Separate Supply
+
+603.5.1 Separate Supply
+A separate tap and service shall be installed for each building in accordance with the rules of the Department of Environmental
+Protection
+.
+
+---
+
+A separate tap and service shall be installed for each building in accordance with the rules of the Department of Environmental
+Protection
+.
+
+---
+
+## Section 603.5.2: Connections
+
+603.5.2 Connections
+Corporation stops, wet
+connections
+, or other
+connections
+to a street
+main
+shall be made only by employees of the Department of Environmental
+Protection
+. The cost of the installation shall be borne by the owner of the property for which the connection is made.
+
+---
+
+Corporation stops, wet
+connections
+, or other
+connections
+to a street
+main
+shall be made only by employees of the Department of Environmental
+Protection
+. The cost of the installation shall be borne by the owner of the property for which the connection is made.
+
+---
+
+Section 604 Design of Building Water Distribution System
+UpCodes Diagrams (6)
+
+---
+
+## Section 604.1: General
+
+604.1 General
+The design of the
+water
+distribution system shall conform to
+accepted engineering practice
+.
+
+---
+
+The design of the
+water
+distribution system shall conform to
+accepted engineering practice
+.
+
+---
+
+## Section 604.2: System Interconnection
+
+604.2 System Interconnection
+At the points of interconnection between the hot and cold
+water supply
+piping systems and the individual fixtures, appliances or devices, provisions shall be made to prevent flow between such piping systems.
+UpCodes Diagram (1)
+
+---
+
+At the points of interconnection between the hot and cold
+water supply
+piping systems and the individual fixtures, appliances or devices, provisions shall be made to prevent flow between such piping systems.
+
+---
+
+## Section 604.3: Water Distribution System Design Criteria
+
+604.3 Water Distribution System Design Criteria
+The
+water
+distribution system shall be designed, and pipe sizes shall be selected such that under conditions of peak demand, the capacities at the
+fixture supply
+pipe outlets shall be not less than shown in Table 604.3. The minimum flow rate and
+flow pressure
+provided to fixtures and appliances not listed in Table 604.3 shall be in accordance with the manufacturer's instructions.
+TABLE 604.3
+WATER
+DISTRIBUTION SYSTEM DESIGN CRITERIA REQUIRED CAPACITY AT
+FIXTURE SUPPLY
+PIPE OUTLETS
+FIXTURE SUPPLY
+OUTLET SERVING
+FLOW RATE
+a
+(gpm)
+FLOW
+PRESSURE
+b
+(psi)
+Bathtub, no shower
+4
+20
+Bathtub with anti-scald
+protection
+4
+20
+Bidet
+1.5
+20
+Combination fixture
+4
+8
+Dishwasher, residential
+2.75
+8
+Drinking fountain
+0.75
+8
+Laundry tray
+4
+8
+Lavatory,
+private
+1.5
+8
+Lavatory,
+private
+, mixing valve
+1.5
+8
+Lavatory, public
+1.5
+8
+Shower
+2
+8
+Shower, balanced-pressure,
+thermostatic or combination
+balanced-pressure/thermostatic
+mixing valve
+2
+b
+20
+Sillcock, hose bibb
+5
+8
+Sink, residential
+2.2
+8
+Sink, service
+3
+8
+Urinal, valve
+18
+20
+Water
+closet, blow out,
+flushometer valve
+25
+25
+Water
+closet,
+flushometer tank
+3
+20
+Water
+closet, siphonic,
+flushometer valve
+25
+25
+Water
+closet, tank, close coupled
+3
+15
+Water
+closet, tank, one piece
+3
+20
+For SI:
+1
+pound per square inch = 6.895 kPa, 1 gallon per minute = 3.785 L/m.
+a. For additional requirements for flow rates and quantities, see
+Section 604.4
+.
+b. Where the shower mixing valve manufacturer indicates a lower flow rating for the mixing valve, the lower value shall be applied.
+
+---
+
+The
+water
+distribution system shall be designed, and pipe sizes shall be selected such that under conditions of peak demand, the capacities at the
+fixture supply
+pipe outlets shall be not less than shown in Table 604.3. The minimum flow rate and
+flow pressure
+provided to fixtures and appliances not listed in Table 604.3 shall be in accordance with the manufacturer's instructions.
+TABLE 604.3
+WATER
+DISTRIBUTION SYSTEM DESIGN CRITERIA REQUIRED CAPACITY AT
+FIXTURE SUPPLY
+PIPE OUTLETS
+FIXTURE SUPPLY
+OUTLET SERVING
+FLOW RATE
+a
+(gpm)
+FLOW
+PRESSURE
+b
+(psi)
+Bathtub, no shower
+4
+20
+Bathtub with anti-scald
+protection
+4
+20
+Bidet
+1.5
+20
+Combination fixture
+4
+8
+Dishwasher, residential
+2.75
+8
+Drinking fountain
+0.75
+8
+Laundry tray
+4
+8
+Lavatory,
+private
+1.5
+8
+Lavatory,
+private
+, mixing valve
+1.5
+8
+Lavatory, public
+1.5
+8
+Shower
+2
+8
+Shower, balanced-pressure,
+thermostatic or combination
+balanced-pressure/thermostatic
+mixing valve
+2
+b
+20
+Sillcock, hose bibb
+5
+8
+Sink, residential
+2.2
+8
+Sink, service
+3
+8
+Urinal, valve
+18
+20
+Water
+closet, blow out,
+flushometer valve
+25
+25
+Water
+closet,
+flushometer tank
+3
+20
+Water
+closet, siphonic,
+flushometer valve
+25
+25
+Water
+closet, tank, close coupled
+3
+15
+Water
+closet, tank, one piece
+3
+20
+For SI:
+1
+pound per square inch = 6.895 kPa, 1 gallon per minute = 3.785 L/m.
+a. For additional requirements for flow rates and quantities, see
+Section 604.4
+.
+b. Where the shower mixing valve manufacturer indicates a lower flow rating for the mixing valve, the lower value shall be applied.
+
+---
+
+## Section 604.4: Maximum Flow and Water Consumption
+
+604.4 Maximum Flow and Water Consumption
+The maximum
+water
+consumption flow rates and quantities for all
+plumbing fixtures
+and
+fixture fittings
+shall be in accordance with Table 604.4.
+Exceptions:
+Blowout design
+water
+closets having a
+water
+consumption not greater than 3
+1
+/
+2
+gallons (13 L) per flushing cycle.
+Vegetable sprays.
+Clinical sinks having a
+water
+consumption not greater than 4
+1
+/
+2
+gallons (17 L) per flushing cycle.
+Service sinks.
+Emergency showers.
+TABLE 604.4
+MAXIMUM FLOW RATES AND CONSUMPTION FOR
+PLUMBING FIXTURES
+AND
+FIXTURE FITTINGS
+PLUMBING FIXTURE
+OR
+FIXTURE FITTING
+MAXIMUM FLOW RATE
+OR QUANTITY
+b
+Lavatory,
+private
+1.5 gpm at 60 psi
+Lavatory, public, (metering)
+0.25 gallon per metering cycle
+Lavatory, public (other than metering)
+0.5 gpm at 60 psi
+Shower head
+a
+2.0 gpm at 80 psi
+d
+Sink
+faucet
+2.2 gpm at 60 psi
+Urinal
+0.5 gallon per flushing cycle
+Water
+closet
+1.28 gallons per flushing cycle
+or equivalent dual flush
+c
+For SI:
+1
+gallon = 3.785 L, 1 gallon per minute = 3.785 L/m, 1 pound per square inch = 6.895 kPa.
+a. A hand-held shower spray or body spray is a shower head.
+b. Consumption tolerances shall be determined from referenced standards.
+c. A
+dual flush water closet
+where one third of the sum of the high flush volume plus twice the low flush volume is less than or equal to 1.28 gallons per flush.
+d. The total flow of all shower heads in each shower compartment or bathing unit, in residential
+occupancies
+, shall be limited to 3 gpm operating simultaneously.
+Building products (14)
+
+---
+
+The maximum
+water
+consumption flow rates and quantities for all
+plumbing fixtures
+and
+fixture fittings
+shall be in accordance with Table 604.4.
+Exceptions:
+Blowout design
+water
+closets having a
+water
+consumption not greater than 3
+1
+/
+2
+gallons (13 L) per flushing cycle.
+Vegetable sprays.
+Clinical sinks having a
+water
+consumption not greater than 4
+1
+/
+2
+gallons (17 L) per flushing cycle.
+Service sinks.
+Emergency showers.
+TABLE 604.4
+MAXIMUM FLOW RATES AND CONSUMPTION FOR
+PLUMBING FIXTURES
+AND
+FIXTURE FITTINGS
+PLUMBING FIXTURE
+OR
+FIXTURE FITTING
+MAXIMUM FLOW RATE
+OR QUANTITY
+b
+Lavatory,
+private
+1.5 gpm at 60 psi
+Lavatory, public, (metering)
+0.25 gallon per metering cycle
+Lavatory, public (other than metering)
+0.5 gpm at 60 psi
+Shower head
+a
+2.0 gpm at 80 psi
+d
+Sink
+faucet
+2.2 gpm at 60 psi
+Urinal
+0.5 gallon per flushing cycle
+Water
+closet
+1.28 gallons per flushing cycle
+or equivalent dual flush
+c
+For SI:
+1
+gallon = 3.785 L, 1 gallon per minute = 3.785 L/m, 1 pound per square inch = 6.895 kPa.
+a. A hand-held shower spray or body spray is a shower head.
+b. Consumption tolerances shall be determined from referenced standards.
+c. A
+dual flush water closet
+where one third of the sum of the high flush volume plus twice the low flush volume is less than or equal to 1.28 gallons per flush.
+d. The total flow of all shower heads in each shower compartment or bathing unit, in residential
+occupancies
+, shall be limited to 3 gpm operating simultaneously.
+
+---
+
+## Section 604.4.1: WaterSense Program Label Required
+
+604.4.1 WaterSense Program Label Required
+Showerheads,
+private
+lavatory
+faucets
+,
+water
+closets and for urinals, the urinal flush valve or fixture/valve combination, shall meet the specifications required for the
+WaterSense program
+label and shall bear such label, or shall be
+approved
+in accordance with this code.
+
+---
+
+Showerheads,
+private
+lavatory
+faucets
+,
+water
+closets and for urinals, the urinal flush valve or fixture/valve combination, shall meet the specifications required for the
+WaterSense program
+label and shall bear such label, or shall be
+approved
+in accordance with this code.
+
+---
+
+## Section 604.5: Size of Fixture Supply
+
+604.5 Size of Fixture Supply
+The minimum size of a
+fixture supply
+pipe shall be as shown in Table 604.5. The
+fixture supply
+pipe shall terminate not more than 24 inches (610 mm) from the point of connection to the fixture. Each
+fixture supply
+shall have a stop valve. A reduced-size
+flexible
+water
+connector installed between the supply pipe and the fixture shall be of an
+approved
+type. The connector shall be used singularly. Coupling of two or more connectors shall not be allowed. The supply pipe shall extend to the floor or wall adjacent to the fixture. The minimum size of individual distribution lines utilized in parallel
+water
+distribution systems shall be as shown in Table 604.5.
+TABLE 604.5
+MINIMUM SIZES OF FIXTURE
+WATER SUPPLY
+PIPES
+FIXTURE
+MINIMUM PIPE SIZE (inch)
+Bathtubs
+1
+/
+2
+Bidet
+3
+/
+8
+Combination sink and tray
+1
+/
+2
+Dishwasher, domestic
+1
+/
+2
+Drinking fountain
+3
+/
+8
+Hose bibbs
+1
+/
+2
+Kitchen sink
+1
+/
+2
+Laundry, 1, 2 or 3 compartments
+1
+/
+2
+Lavatory
+3
+/
+8
+Shower, single head
+1
+/
+2
+Sinks, flushing rim
+3
+/
+4
+Sinks, service
+1
+/
+2
+Urinal,
+flush tank
+1
+/
+2
+Urinal,
+flushometer valve
+3
+/
+4
+Wall hydrant
+1
+/
+2
+Water
+closet,
+flush tank
+3
+/
+8
+Water
+closet,
+flushometer tank
+3
+/
+8
+Water
+closet,
+flushometer valve
+1
+Water
+closet, one piece
+1
+/
+2
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm, 1 pound per square inch = 6.895 kPa.
+UpCodes Diagrams (3)
+
+---
+
+The minimum size of a
+fixture supply
+pipe shall be as shown in Table 604.5. The
+fixture supply
+pipe shall terminate not more than 24 inches (610 mm) from the point of connection to the fixture. Each
+fixture supply
+shall have a stop valve. A reduced-size
+flexible
+water
+connector installed between the supply pipe and the fixture shall be of an
+approved
+type. The connector shall be used singularly. Coupling of two or more connectors shall not be allowed. The supply pipe shall extend to the floor or wall adjacent to the fixture. The minimum size of individual distribution lines utilized in parallel
+water
+distribution systems shall be as shown in Table 604.5.
+TABLE 604.5
+MINIMUM SIZES OF FIXTURE
+WATER SUPPLY
+PIPES
+FIXTURE
+MINIMUM PIPE SIZE (inch)
+Bathtubs
+1
+/
+2
+Bidet
+3
+/
+8
+Combination sink and tray
+1
+/
+2
+Dishwasher, domestic
+1
+/
+2
+Drinking fountain
+3
+/
+8
+Hose bibbs
+1
+/
+2
+Kitchen sink
+1
+/
+2
+Laundry, 1, 2 or 3 compartments
+1
+/
+2
+Lavatory
+3
+/
+8
+Shower, single head
+1
+/
+2
+Sinks, flushing rim
+3
+/
+4
+Sinks, service
+1
+/
+2
+Urinal,
+flush tank
+1
+/
+2
+Urinal,
+flushometer valve
+3
+/
+4
+Wall hydrant
+1
+/
+2
+Water
+closet,
+flush tank
+3
+/
+8
+Water
+closet,
+flushometer tank
+3
+/
+8
+Water
+closet,
+flushometer valve
+1
+Water
+closet, one piece
+1
+/
+2
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm, 1 pound per square inch = 6.895 kPa.
+
+---
+
+## Section 604.6: Variable Street Pressures
+
+604.6 Variable Street Pressures
+Where street
+water main
+pressures fluctuate, the building
+water
+distribution system shall be designed for the minimum
+pressure
+available.
+
+---
+
+Where street
+water main
+pressures fluctuate, the building
+water
+distribution system shall be designed for the minimum
+pressure
+available.
+
+---
+
+## Section 604.7: Inadequate Water Pressure
+
+604.7 Inadequate Water Pressure
+Wherever
+water
+pressure from the street
+main
+or other source of supply is insufficient to provide
+flow pressures
+at fixture outlets as required under
+Table 604.3
+, a
+water
+pressure booster system conforming to
+Section 606.5
+shall be installed on the building
+water supply system
+.
+UpCodes Diagram (1)
+
+---
+
+Wherever
+water
+pressure from the street
+main
+or other source of supply is insufficient to provide
+flow pressures
+at fixture outlets as required under
+Table 604.3
+, a
+water
+pressure booster system conforming to
+Section 606.5
+shall be installed on the building
+water supply system
+.
+
+---
+
+## Section 604.8: Water-Pressure Reducing Valve or Regulator
+
+604.8 Water-Pressure Reducing Valve or Regulator
+Where
+water
+pressure within a building exceeds 85 psi (586 kPa) static, an
+approved
+valve conforming to ASSE 1003 or CSA B356 with strainer shall be installed to reduce the pressure in the building
+water
+distribution piping to not greater than 85 psi (586 kPa) static.
+Exception:
+Service lines to sill cocks and outside hydrants, and
+main
+supply
+risers
+where pressure from the
+mains
+is reduced to 85 psi (586 kPa) or less at individual fixtures.
+UpCodes Diagram (1)
+
+---
+
+Where
+water
+pressure within a building exceeds 85 psi (586 kPa) static, an
+approved
+valve conforming to ASSE 1003 or CSA B356 with strainer shall be installed to reduce the pressure in the building
+water
+distribution piping to not greater than 85 psi (586 kPa) static.
+Exception:
+Service lines to sill cocks and outside hydrants, and
+main
+supply
+risers
+where pressure from the
+mains
+is reduced to 85 psi (586 kPa) or less at individual fixtures.
+
+---
+
+## Section 604.8.1: Valve Design
+
+604.8.1 Valve Design
+The
+pressure
+-reducing valve shall be designed to remain open to permit uninterrupted
+water
+flow in case of valve failure.
+
+---
+
+The
+pressure
+-reducing valve shall be designed to remain open to permit uninterrupted
+water
+flow in case of valve failure.
+
+---
+
+## Section 604.8.2: Repair and Removal
+
+604.8.2 Repair and Removal
+Water
+pressure-reducing valves, regulators and strainers shall be so constructed and installed as to permit repair or removal of parts without breaking a pipeline or removing the valve and strainer from the pipeline.
+
+---
+
+Water
+pressure-reducing valves, regulators and strainers shall be so constructed and installed as to permit repair or removal of parts without breaking a pipeline or removing the valve and strainer from the pipeline.
+
+---
+
+## Section 604.9: Water Hammer
+
+604.9 Water Hammer
+The flow velocity of the
+water
+distribution system shall be controlled to reduce the possibility of
+water
+hammer. A
+water-hammer arrestor
+shall be installed where
+quick-closing valves
+are utilized and when otherwise required by this code.
+Water-hammer arrestors
+shall be installed in accordance with the manufacturer's instructions.
+Water-hammer arrestors
+shall conform to ASSE 1010.
+UpCodes Diagram (1)
+
+---
+
+The flow velocity of the
+water
+distribution system shall be controlled to reduce the possibility of
+water
+hammer. A
+water-hammer arrestor
+shall be installed where
+quick-closing valves
+are utilized and when otherwise required by this code.
+Water-hammer arrestors
+shall be installed in accordance with the manufacturer's instructions.
+Water-hammer arrestors
+shall conform to ASSE 1010.
+
+---
+
+## Section 604.10: Reserved.
+
+604.10 Reserved.
+
+---
+
+## Section 604.11: Individual Pressure Balancing In-Line Valves for Individual Fixture Fittings
+
+604.11 Individual Pressure Balancing In-Line Valves for Individual Fixture Fittings
+Where individual
+pressure
+balancing in-line valves for individual
+fixture fittings
+are installed, such valves shall comply with ASSE 1066. Such valves shall be installed in an accessible
+location
+and shall not be utilized alone as a substitute for the balanced pressure, thermostatic or combination shower valves required in
+Section 424.3
+.
+UpCodes Diagrams (2)
+
+---
+
+Where individual
+pressure
+balancing in-line valves for individual
+fixture fittings
+are installed, such valves shall comply with ASSE 1066. Such valves shall be installed in an accessible
+location
+and shall not be utilized alone as a substitute for the balanced pressure, thermostatic or combination shower valves required in
+Section 424.3
+.
+
+---
+
+Section 605 Materials, Joints and Connections
+UpCodes Diagrams (7)
+
+---
+
+## Section 605.1: Soil and Ground Water
+
+605.1 Soil and Ground Water
+The installation of a
+water
+service or
+water distribution pipe
+shall be prohibited in soil and groundwater contaminated with solvents, fuels, organic compounds or other detrimental
+materials
+causing permeation, corrosion, degradation or structural failure of the piping material. Where detrimental conditions are suspected, a chemical analysis of the soil and ground
+water
+conditions shall be required to ascertain the acceptability of the
+water
+service or
+water
+distribution piping material for the specific installation. Where detrimental conditions exist,
+approved
+alternative
+materials
+or routing shall be required.
+
+---
+
+The installation of a
+water
+service or
+water distribution pipe
+shall be prohibited in soil and groundwater contaminated with solvents, fuels, organic compounds or other detrimental
+materials
+causing permeation, corrosion, degradation or structural failure of the piping material. Where detrimental conditions are suspected, a chemical analysis of the soil and ground
+water
+conditions shall be required to ascertain the acceptability of the
+water
+service or
+water
+distribution piping material for the specific installation. Where detrimental conditions exist,
+approved
+alternative
+materials
+or routing shall be required.
+
+---
+
+## Section 605.2: Lead Content of Drinking Water Pipe and Fittings
+
+605.2 Lead Content of Drinking Water Pipe and Fittings
+Pipe, pipe fittings,
+joints
+, valves,
+faucets
+, and
+fixture fittings
+utilized to supply
+water
+for drinking or cooking purposes shall comply with NSF 372 and shall have a weighted average lead content of 0.25 percent or less.
+Building products (9)
+
+---
+
+Pipe, pipe fittings,
+joints
+, valves,
+faucets
+, and
+fixture fittings
+utilized to supply
+water
+for drinking or cooking purposes shall comply with NSF 372 and shall have a weighted average lead content of 0.25 percent or less.
+
+---
+
+## Section 605.3: Water Service Pipe
+
+605.3 Water Service Pipe
+The
+water service pipe
+shall conform to one of the standards listed in the rules of the Department of Environmental
+Protection
+.
+
+---
+
+The
+water service pipe
+shall conform to one of the standards listed in the rules of the Department of Environmental
+Protection
+.
+
+---
+
+## Section 605.4: Water Distribution Pipe
+
+605.4 Water Distribution Pipe
+Water distribution pipe
+shall conform to NSF 61 and shall conform to one of the standards listed in Table 605.4.
+TABLE 605.4
+WATER DISTRIBUTION PIPE
+MATERIAL
+STANDARD
+Brass pipe
+ASTM B 43
+Copper or copper-alloy pipe
+ASTM B 42; ASTM B 302
+Copper or copper-alloy tubing
+(Type K, L)
+ASTM B 75; ASTM B 88;
+ASTM B 251; ASTM B 447
+Ductile iron pipe
+AWWA C151/A21.51;
+AWWA C115/A21.15
+Stainless steel pipe
+(Type 304/304L)
+ASTM A 312; ASTM A 778
+Stainless steel pipe
+(Type 316/316L)
+ASTM A 312; ASTM A 778
+
+---
+
+Water distribution pipe
+shall conform to NSF 61 and shall conform to one of the standards listed in Table 605.4.
+TABLE 605.4
+WATER DISTRIBUTION PIPE
+MATERIAL
+STANDARD
+Brass pipe
+ASTM B 43
+Copper or copper-alloy pipe
+ASTM B 42; ASTM B 302
+Copper or copper-alloy tubing
+(Type K, L)
+ASTM B 75; ASTM B 88;
+ASTM B 251; ASTM B 447
+Ductile iron pipe
+AWWA C151/A21.51;
+AWWA C115/A21.15
+Stainless steel pipe
+(Type 304/304L)
+ASTM A 312; ASTM A 778
+Stainless steel pipe
+(Type 316/316L)
+ASTM A 312; ASTM A 778
+
+---
+
+## Section 605.4.1: Underground Water Distribution Pipe
+
+605.4.1 Underground Water Distribution Pipe
+Underground
+water distribution pipe
+shall conform to NSF 61 and shall conform to one of the standards listed in
+Table 605.4
+.1.
+TABLE 605.4.1
+UNDERGROUND
+WATER DISTRIBUTION PIPE
+MATERIAL
+STANDARD
+Brass pipe
+ASTM B 43
+Copper or copper-alloy pipe
+ASTM B 42; ASTM B 302
+Copper or copper-alloy tubing
+(Type K)
+ASTM B 75; ASTM B 88;
+ASTM B 251; ASTM B 447
+Ductile iron
+water pipe
+AWWA C151/A21.51;
+AWWA C115/A21.15
+Stainless steel pipe
+(Type 304/304L)
+ASTM A 312; ASTM A 778
+Stainless steel pipe
+(Type 316/316L)
+ASTM A 312; ASTM A 778
+
+---
+
+Underground
+water distribution pipe
+shall conform to NSF 61 and shall conform to one of the standards listed in
+Table 605.4
+.1.
+TABLE 605.4.1
+UNDERGROUND
+WATER DISTRIBUTION PIPE
+MATERIAL
+STANDARD
+Brass pipe
+ASTM B 43
+Copper or copper-alloy pipe
+ASTM B 42; ASTM B 302
+Copper or copper-alloy tubing
+(Type K)
+ASTM B 75; ASTM B 88;
+ASTM B 251; ASTM B 447
+Ductile iron
+water pipe
+AWWA C151/A21.51;
+AWWA C115/A21.15
+Stainless steel pipe
+(Type 304/304L)
+ASTM A 312; ASTM A 778
+Stainless steel pipe
+(Type 316/316L)
+ASTM A 312; ASTM A 778
+
+---
+
+## Section 605.5: Fittings
+
+605.5 Fittings
+Pipe fittings shall be
+approved
+for installation with the piping material installed and shall comply with the applicable standards listed in Table 605.5. Pipe fittings utilized in
+water supply systems
+shall also comply with NSF 61.
+TABLE 605.5
+PIPE FITTINGS
+MATERIAL
+STANDARD
+Brass
+ASTM B 62
+Cast-iron
+ASME B16.4
+Copper or copper alloy
+ASSE 1061; ASME B16.15;
+ASME B16.18; ASME B16.22;
+ASME B16.23; ASME B 16.26;
+ASME B16.51; ASSE 1061;
+ASTM F 1476; ASTM F 1548
+Gray iron and ductile iron
+ASTM F 1476; ASTM F 1548;
+AWWA C110/A21.10;
+AWWA C153/A21.53
+Stainless steel (Type 304/304L)
+ASTM A 312; ASTM A 778;
+ASTM F 1476; ASTM F 1548
+Stainless steel (Type 316/316L)
+ASTM A 312; ASTM A 778;
+ASTM A403/A403M;
+ASTM F 1476; ASTM F 1548
+
+---
+
+Pipe fittings shall be
+approved
+for installation with the piping material installed and shall comply with the applicable standards listed in Table 605.5. Pipe fittings utilized in
+water supply systems
+shall also comply with NSF 61.
+TABLE 605.5
+PIPE FITTINGS
+MATERIAL
+STANDARD
+Brass
+ASTM B 62
+Cast-iron
+ASME B16.4
+Copper or copper alloy
+ASSE 1061; ASME B16.15;
+ASME B16.18; ASME B16.22;
+ASME B16.23; ASME B 16.26;
+ASME B16.51; ASSE 1061;
+ASTM F 1476; ASTM F 1548
+Gray iron and ductile iron
+ASTM F 1476; ASTM F 1548;
+AWWA C110/A21.10;
+AWWA C153/A21.53
+Stainless steel (Type 304/304L)
+ASTM A 312; ASTM A 778;
+ASTM F 1476; ASTM F 1548
+Stainless steel (Type 316/316L)
+ASTM A 312; ASTM A 778;
+ASTM A403/A403M;
+ASTM F 1476; ASTM F 1548
+
+---
+
+## Section 605.5.1: Mechanically Formed Tee Fittings
+
+605.5.1 Mechanically Formed Tee Fittings
+Mechanically extracted outlets shall have a height not less than three times the thickness of the
+branch
+tube wall.
+UpCodes Diagram (1)
+
+---
+
+Mechanically extracted outlets shall have a height not less than three times the thickness of the
+branch
+tube wall.
+
+---
+
+## Section 605.5.1.1: Full Flow Assurance
+
+605.5.1.1 Full Flow Assurance
+Branch
+tubes shall not restrict the flow in the run tube. A dimple serving as a depth stop shall be formed in the
+branch
+tube to ensure that penetration into the collar is of the correct depth. For inspection purposes, a second dimple shall be placed
+1
+/
+4
+inch (6.4 mm) above the first dimple. Dimples shall be aligned with the tube run.
+
+---
+
+Branch
+tubes shall not restrict the flow in the run tube. A dimple serving as a depth stop shall be formed in the
+branch
+tube to ensure that penetration into the collar is of the correct depth. For inspection purposes, a second dimple shall be placed
+1
+/
+4
+inch (6.4 mm) above the first dimple. Dimples shall be aligned with the tube run.
+
+---
+
+## Section 605.5.1.2: Brazed Joints
+
+605.5.1.2 Brazed Joints
+Mechanically formed tee fittings shall be brazed in accordance with
+Section 605.14.1
+.
+
+---
+
+Mechanically formed tee fittings shall be brazed in accordance with
+Section 605.14.1
+.
+
+---
+
+## Section 605.6: Flexible Water Connectors
+
+605.6 Flexible Water Connectors
+Flexible
+water
+connectors exposed to continuous pressure shall conform to ASME A112.18.6/CSA B125.6, shall not exceed 24 inches (610 mm), shall be used in exposed
+locations
+only and shall be used singularly; that is, two connectors cannot be joined.
+UpCodes Diagram (1)
+
+---
+
+Flexible
+water
+connectors exposed to continuous pressure shall conform to ASME A112.18.6/CSA B125.6, shall not exceed 24 inches (610 mm), shall be used in exposed
+locations
+only and shall be used singularly; that is, two connectors cannot be joined.
+
+---
+
+## Section 605.7: Valves
+
+605.7 Valves
+Valves shall be compatible with the type of piping material installed in the system. Valves shall conform to one of the standards listed in Table 605.7 or shall be
+approved
+. Valves intended to supply drinking
+water
+shall meet the requirements of NSF 61.
+TABLE 605.7
+VALVES
+MATERIAL
+STANDARD
+Copper or copper alloy
+ASME A112.4.14; ASME A112.18.1/CSA B125.1;
+ASME B16.34; CSA B125.3; MSS SP-67;
+MSS SP-80; MSS SP-110
+Gray iron and ductile iron
+AWWA C500; AWWA C504; AWWA C507;
+MSS SP-67; MSS SP-70; MSS SP-71;
+MSS SP-72; MSS SP-78
+Stainless steel (Type 304/304L
+and 316/316L)
+MSS SP-67; MSS SP-110
+
+---
+
+Valves shall be compatible with the type of piping material installed in the system. Valves shall conform to one of the standards listed in Table 605.7 or shall be
+approved
+. Valves intended to supply drinking
+water
+shall meet the requirements of NSF 61.
+TABLE 605.7
+VALVES
+MATERIAL
+STANDARD
+Copper or copper alloy
+ASME A112.4.14; ASME A112.18.1/CSA B125.1;
+ASME B16.34; CSA B125.3; MSS SP-67;
+MSS SP-80; MSS SP-110
+Gray iron and ductile iron
+AWWA C500; AWWA C504; AWWA C507;
+MSS SP-67; MSS SP-70; MSS SP-71;
+MSS SP-72; MSS SP-78
+Stainless steel (Type 304/304L
+and 316/316L)
+MSS SP-67; MSS SP-110
+
+---
+
+## Section 605.8: Manufactured Pipe Nipples
+
+605.8 Manufactured Pipe Nipples
+Manufactured pipe nipples shall conform to one of the standards listed in Table 605.8.
+TABLE 605.8
+MANUFACTURED PIPE NIPPLES
+MATERIAL
+STANDARD
+Brass-, copper-, chromium-plated
+ASTM B 687
+Stainless steel
+ASTM A 403/A 403M
+
+---
+
+Manufactured pipe nipples shall conform to one of the standards listed in Table 605.8.
+TABLE 605.8
+MANUFACTURED PIPE NIPPLES
+MATERIAL
+STANDARD
+Brass-, copper-, chromium-plated
+ASTM B 687
+Stainless steel
+ASTM A 403/A 403M
+
+---
+
+## Section 605.9: Prohibited Joints and Connections
+
+605.9 Prohibited Joints and Connections
+The following types of
+joints
+and
+connections
+shall be prohibited:
+Cement or concrete
+joints
+.
+Joints
+made with fittings not
+approved
+for the specific installation.
+Saddle-type fittings.
+Removable press-connect fittings.
+Removable push-fit fittings.
+Nail-type fittings.
+Compression type fittings for other than final fixture
+connections
+.
+
+---
+
+The following types of
+joints
+and
+connections
+shall be prohibited:
+Cement or concrete
+joints
+.
+Joints
+made with fittings not
+approved
+for the specific installation.
+Saddle-type fittings.
+Removable press-connect fittings.
+Removable push-fit fittings.
+Nail-type fittings.
+Compression type fittings for other than final fixture
+connections
+.
+
+---
+
+## Section 605.10: Reserved
+
+605.10 Reserved
+
+---
+
+## Section 605.11: Brass
+
+605.11 Brass
+Joints
+between brass pipe and fittings shall comply with Sections
+605.11.1
+through
+605.11.3
+.
+
+---
+
+Joints
+between brass pipe and fittings shall comply with Sections
+605.11.1
+through
+605.11.3
+.
+
+---
+
+## Section 605.11.1: Brazed Joints
+
+605.11.1 Brazed Joints
+All
+joint
+surfaces shall be cleaned. An
+approved
+flux shall be applied
+where required
+. The
+joint
+shall be brazed with a filler metal conforming to AWSA5.8.
+
+---
+
+All
+joint
+surfaces shall be cleaned. An
+approved
+flux shall be applied
+where required
+. The
+joint
+shall be brazed with a filler metal conforming to AWSA5.8.
+
+---
+
+## Section 605.11.2: Mechanical Joints
+
+605.11.2 Mechanical Joints
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+## Section 605.11.3: Threaded Joints
+
+605.11.3 Threaded Joints
+Threads shall conform to ASME B1.20.1. Pipe-
+joint
+compound or tape shall be applied on the male threads only.
+
+---
+
+Threads shall conform to ASME B1.20.1. Pipe-
+joint
+compound or tape shall be applied on the male threads only.
+
+---
+
+## Section 605.12: Gray Iron and Ductile Iron Joints
+
+605.12 Gray Iron and Ductile Iron Joints
+Joints
+for gray and ductile iron pipe and fittings shall comply with AWWA C111 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Joints
+for gray and ductile iron pipe and fittings shall comply with AWWA C111 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 605.13: Copper Pipe
+
+605.13 Copper Pipe
+Joints
+between copper or copper-alloy pipe and fittings shall comply with Sections
+605.13.1
+through
+605.13.4
+.
+
+---
+
+Joints
+between copper or copper-alloy pipe and fittings shall comply with Sections
+605.13.1
+through
+605.13.4
+.
+
+---
+
+## Section 605.13.1: Brazed Joints
+
+605.13.1 Brazed Joints
+All
+joint
+surfaces shall be cleaned. An
+approved
+flux shall be applied
+where required
+. The
+joint
+shall be brazed with a filler metal conforming to AWS A5.8.
+
+---
+
+All
+joint
+surfaces shall be cleaned. An
+approved
+flux shall be applied
+where required
+. The
+joint
+shall be brazed with a filler metal conforming to AWS A5.8.
+
+---
+
+## Section 605.13.2: Mechanical Joints
+
+605.13.2 Mechanical Joints
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+UpCodes Diagram (1)
+
+---
+
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+## Section 605.13.3: Reserved
+
+605.13.3 Reserved
+
+---
+
+## Section 605.13.4: Threaded Joints
+
+605.13.4 Threaded Joints
+Threads shall conform to ASME B1.20.1. Pipe-
+joint
+compound or tape shall be applied on the male threads only.
+
+---
+
+Threads shall conform to ASME B1.20.1. Pipe-
+joint
+compound or tape shall be applied on the male threads only.
+
+---
+
+## Section 605.14: Copper Tubing
+
+605.14 Copper Tubing
+Joints
+between copper or copper-alloy tubing and fittings shall comply with Sections
+605.14.1
+through
+605.14.6
+.
+
+---
+
+Joints
+between copper or copper-alloy tubing and fittings shall comply with Sections
+605.14.1
+through
+605.14.6
+.
+
+---
+
+## Section 605.14.1: Brazed Joints
+
+605.14.1 Brazed Joints
+Joint
+surfaces shall be cleaned. An
+approved
+flux shall be applied
+where required
+. The
+joint
+shall be brazed with a filler metal conforming to AWS A5.8.
+
+---
+
+Joint
+surfaces shall be cleaned. An
+approved
+flux shall be applied
+where required
+. The
+joint
+shall be brazed with a filler metal conforming to AWS A5.8.
+
+---
+
+## Section 605.14.2: Flared Joints
+
+605.14.2 Flared Joints
+Flared
+joints
+for
+water pipe
+shall be made by a tool designed for that operation.
+UpCodes Diagram (1)
+
+---
+
+Flared
+joints
+for
+water pipe
+shall be made by a tool designed for that operation.
+
+---
+
+## Section 605.14.3: Grooved and Shouldered Mechanical Joints
+
+605.14.3 Grooved and Shouldered Mechanical Joints
+Grooved and shouldered
+mechanical joints
+shall comply with ASTM F 1476, shall be made with an
+approved
+elastomeric seal and shall be installed in accordance with the manufacturer's instructions. Such
+joints
+shall be exposed or concealed.
+UpCodes Diagram (1)
+
+---
+
+Grooved and shouldered
+mechanical joints
+shall comply with ASTM F 1476, shall be made with an
+approved
+elastomeric seal and shall be installed in accordance with the manufacturer's instructions. Such
+joints
+shall be exposed or concealed.
+
+---
+
+## Section 605.14.4: Mechanical Joints
+
+605.14.4 Mechanical Joints
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and shall be tested, designed and evaluated in accordance with IAPMO PS 117 and ASSE 1061.
+UpCodes Diagram (1)
+
+---
+
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and shall be tested, designed and evaluated in accordance with IAPMO PS 117 and ASSE 1061.
+
+---
+
+## Section 605.14.5: Press-Connect Joints
+
+605.14.5 Press-Connect Joints
+Press-connect
+joints
+shall conform to one of the standards listed in
+Table 605.5
+, and shall be installed in accordance with the manufacturer's instructions. Cut tube ends shall be reamed to the full inside diameter of the tube end.
+Joint
+surfaces shall be cleaned. The tube shall be fully inserted into the pressconnect fitting. Press-connect
+joints
+shall be pressed with a tool certified by the manufacturer.
+UpCodes Diagram (1)
+
+---
+
+Press-connect
+joints
+shall conform to one of the standards listed in
+Table 605.5
+, and shall be installed in accordance with the manufacturer's instructions. Cut tube ends shall be reamed to the full inside diameter of the tube end.
+Joint
+surfaces shall be cleaned. The tube shall be fully inserted into the pressconnect fitting. Press-connect
+joints
+shall be pressed with a tool certified by the manufacturer.
+
+---
+
+## Section 605.14.6: Solder Joints
+
+605.14.6 Solder Joints
+Solder
+joints
+shall be made in accordance with the methods of ASTM B 828. All cut tube ends shall be reamed to the full inside diameter of the tube end. All
+joint
+surfaces shall be cleaned. A flux conforming to ASTM B 813 shall be applied. The
+joint
+shall be soldered with a solder conforming to ASTM B 32. The joining of
+water supply
+piping shall be made with lead-free solders and fluxes.
+
+---
+
+Solder
+joints
+shall be made in accordance with the methods of ASTM B 828. All cut tube ends shall be reamed to the full inside diameter of the tube end. All
+joint
+surfaces shall be cleaned. A flux conforming to ASTM B 813 shall be applied. The
+joint
+shall be soldered with a solder conforming to ASTM B 32. The joining of
+water supply
+piping shall be made with lead-free solders and fluxes.
+
+---
+
+## Section 605.15: Reserved
+
+605.15 Reserved
+
+---
+
+## Section 605.16: Reserved
+
+605.16 Reserved
+
+---
+
+## Section 605.17: Reserved
+
+605.17 Reserved
+
+---
+
+## Section 605.18: Reserved
+
+605.18 Reserved
+
+---
+
+## Section 605.19: Reserved
+
+605.19 Reserved
+
+---
+
+## Section 605.20: Reserved
+
+605.20 Reserved
+
+---
+
+## Section 605.21: Reserved
+
+605.21 Reserved
+
+---
+
+## Section 605.22: Reserved.
+
+605.22 Reserved.
+
+---
+
+## Section 605.23: Stainless Steel
+
+605.23 Stainless Steel
+Joints
+between stainless steel pipe and fittings shall comply with Sections
+605.23.1
+through
+605.23.3
+.
+
+---
+
+Joints
+between stainless steel pipe and fittings shall comply with Sections
+605.23.1
+through
+605.23.3
+.
+
+---
+
+## Section 605.23.1: Mechanical Joints
+
+605.23.1 Mechanical Joints
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+## Section 605.23.2: Welded Joints
+
+605.23.2 Welded Joints
+All
+joints
+shall be welded in accordance with ASME B31.9, inspected and tested in accordance with
+Section 312
+.
+
+---
+
+All
+joints
+shall be welded in accordance with ASME B31.9, inspected and tested in accordance with
+Section 312
+.
+
+---
+
+## Section 605.23.3: Grooved and Shouldered Mechanical Joints
+
+605.23.3 Grooved and Shouldered Mechanical Joints
+Grooved and shouldered
+mechanical joints
+shall comply with ASTM F 1476, shall be made with an
+approved
+elastomeric seal and shall be installed in accordance with the manufacturer's instructions. Such
+joints
+shall be exposed or concealed.
+
+---
+
+Grooved and shouldered
+mechanical joints
+shall comply with ASTM F 1476, shall be made with an
+approved
+elastomeric seal and shall be installed in accordance with the manufacturer's instructions. Such
+joints
+shall be exposed or concealed.
+
+---
+
+## Section 605.24: Joints Between Different Materials
+
+605.24 Joints Between Different Materials
+Joints
+between different piping
+materials
+shall be made with a
+mechanical joint
+of the compression or mechanical-sealing type, or as permitted in Sections
+605.24.1
+and
+605.24.3
+.
+Joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+Joints
+between different piping
+materials
+shall be made with a
+mechanical joint
+of the compression or mechanical-sealing type, or as permitted in Sections
+605.24.1
+and
+605.24.3
+.
+Joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+## Section 605.24.1: Copper or Copper-Alloy Tubing to Galvanized Steel Pipe
+
+605.24.1 Copper or Copper-Alloy Tubing to Galvanized Steel Pipe
+Joints
+between copper or copper-alloy tubing and galvanized steel pipe shall be made with a brass fitting or dielectric fitting or a dielectric union conforming to ASSE 1079. The copper tubing shall be soldered to the fitting in an
+approved
+manner, and the fitting shall be screwed to the threaded pipe.
+
+---
+
+Joints
+between copper or copper-alloy tubing and galvanized steel pipe shall be made with a brass fitting or dielectric fitting or a dielectric union conforming to ASSE 1079. The copper tubing shall be soldered to the fitting in an
+approved
+manner, and the fitting shall be screwed to the threaded pipe.
+
+---
+
+## Section 605.24.2: Reserved
+
+605.24.2 Reserved
+
+---
+
+## Section 605.24.3: Stainless Steel
+
+605.24.3 Stainless Steel
+Joints
+between stainless steel and different piping
+materials
+shall be made with a
+mechanical joint
+of the compression or mechanical sealing type or a dielectric fitting or a dielectric union conforming to ASSE 1079.
+
+---
+
+Joints
+between stainless steel and different piping
+materials
+shall be made with a
+mechanical joint
+of the compression or mechanical sealing type or a dielectric fitting or a dielectric union conforming to ASSE 1079.
+
+---
+
+## Section 605.25: Reserved
+
+605.25 Reserved
+
+---
+
+Section 606 Installation of the Building Water Distribution System
+UpCodes Diagrams (2)
+
+---
+
+## Section 606.1: Location of Shutoff Valves
+
+606.1 Location of Shutoff Valves
+Shutoff valves shall be installed in the following
+locations
+:
+On the
+water
+distribution supply pipe at the entrance into the structure.
+On the supply and discharge side of every
+water
+sub-meter.
+On the base of every
+water
+riser
+pipe in
+occupancies
+other than multiple-family residential
+occupancies
+that are two stories or less in height and in one- and two-family residential
+occupancies
+.
+On the top of every
+water
+down-feed pipe and on the base of every up-feed pipe in
+occupancies
+other than one- and two-family residential
+occupancies
+.
+On the entrance to every
+water supply
+pipe to a dwelling unit, except where supplying fixtures equipped with individual stops.
+On the
+water supply
+pipe to and from a
+gravity
+or pressurized
+water
+tank.
+On the
+water supply
+pipe to every
+water heater
+.
+On the
+water supply
+to each sillcock.
+On the
+water supply
+pipe to each appliance or mechanical equipment.
+UpCodes Diagram (1)
+
+---
+
+Shutoff valves shall be installed in the following
+locations
+:
+On the
+water
+distribution supply pipe at the entrance into the structure.
+On the supply and discharge side of every
+water
+sub-meter.
+On the base of every
+water
+riser
+pipe in
+occupancies
+other than multiple-family residential
+occupancies
+that are two stories or less in height and in one- and two-family residential
+occupancies
+.
+On the top of every
+water
+down-feed pipe and on the base of every up-feed pipe in
+occupancies
+other than one- and two-family residential
+occupancies
+.
+On the entrance to every
+water supply
+pipe to a dwelling unit, except where supplying fixtures equipped with individual stops.
+On the
+water supply
+pipe to and from a
+gravity
+or pressurized
+water
+tank.
+On the
+water supply
+pipe to every
+water heater
+.
+On the
+water supply
+to each sillcock.
+On the
+water supply
+pipe to each appliance or mechanical equipment.
+
+---
+
+## Section 606.2: Reserved
+
+606.2 Reserved
+
+---
+
+## Section 606.3: Access to Valves
+
+606.3 Access to Valves
+Access
+shall be provided to all full-open valves and shutoff valves.
+
+---
+
+Access
+shall be provided to all full-open valves and shutoff valves.
+
+---
+
+## Section 606.4: Valve Identification
+
+606.4 Valve Identification
+Service and hose bibb valves shall be identified. All other valves installed in
+locations
+that are not adjacent to the fixture or appliance shall be identified, indicating the fixture or appliance served.
+
+---
+
+Service and hose bibb valves shall be identified. All other valves installed in
+locations
+that are not adjacent to the fixture or appliance shall be identified, indicating the fixture or appliance served.
+
+---
+
+## Section 606.5: Water Pressure Booster and Gravity House Tank Systems
+
+606.5 Water Pressure Booster and Gravity House Tank Systems
+Water
+pressure booster or
+gravity
+house tank systems shall be provided as required by Sections
+606.5.1
+through
+606.5.10
+.
+UpCodes Diagram (1)
+
+---
+
+Water
+pressure booster or
+gravity
+house tank systems shall be provided as required by Sections
+606.5.1
+through
+606.5.10
+.
+
+---
+
+## Section 606.5.1: Water Pressure Booster or Gravity House Tank Systems Required
+
+606.5.1 Water Pressure Booster or Gravity House Tank Systems Required
+Where the
+water
+pressure in the
+public water main
+or
+individual water supply
+system is insufficient to supply the minimum pressures and quantities specified in this code, the supply shall be supplemented by an elevated
+water
+tank, a hydropneumatic
+pressure
+booster system or a
+water
+pressure
+booster pump installed in accordance with
+Section 606.5.5
+.
+
+---
+
+Where the
+water
+pressure in the
+public water main
+or
+individual water supply
+system is insufficient to supply the minimum pressures and quantities specified in this code, the supply shall be supplemented by an elevated
+water
+tank, a hydropneumatic
+pressure
+booster system or a
+water
+pressure
+booster pump installed in accordance with
+Section 606.5.5
+.
+
+---
+
+## Section 606.5.2: Support
+
+606.5.2 Support
+All
+water supply
+tanks shall be supported in accordance with the
+New York City Building Code
+.
+
+---
+
+All
+water supply
+tanks shall be supported in accordance with the
+New York City Building Code
+.
+
+---
+
+## Section 606.5.3: Covers
+
+606.5.3 Covers
+All
+water supply
+tanks shall be equipped with a lockable cover to keep out unauthorized persons, dirt and vermin. Such cover shall be tamper-proof and equipped with a local alarm. The covers of
+gravity
+tanks shall be vented with a return bend vent pipe with an area not less than the area of the down-feed
+riser
+pipe, and the vent shall be screened with a corrosion-resistant screen of not less than 16 by 20 mesh per inch (630 by 787 mesh per m).
+
+---
+
+All
+water supply
+tanks shall be equipped with a lockable cover to keep out unauthorized persons, dirt and vermin. Such cover shall be tamper-proof and equipped with a local alarm. The covers of
+gravity
+tanks shall be vented with a return bend vent pipe with an area not less than the area of the down-feed
+riser
+pipe, and the vent shall be screened with a corrosion-resistant screen of not less than 16 by 20 mesh per inch (630 by 787 mesh per m).
+
+---
+
+## Section 606.5.4: Overflows for Water Supply Tanks
+
+606.5.4 Overflows for Water Supply Tanks
+A
+gravity
+or suction
+water supply
+tank shall be provided with an overflow with a diameter not less than that shown in Table 606.5.4. The gallons per minute listed in the table shall be the total automatic pump capacity connected to the tank. The overflow outlet shall discharge at a point not less than 6 inches (152 mm) above the roof or
+roof drain
+, or over an open
+water
+-supplied fixture. The overflow outlet shall be covered with a corrosion-resistant screen of not less than 16 by 20 mesh per inch (630 by 787 mesh per m) and by
+1
+/
+4
+-inch (6.4 mm) hardware cloth or shall terminate in a horizontal angle seat check valve.
+Drainage
+from overflow pipes shall be directed so as not to freeze on roof walks.
+TABLE 606.5.4
+SIZE OF OVERFLOWS FOR
+GRAVITY
+AND SUCTION TANKS
+OVERFLOW
+PIPE SIZE
+(inches)
+MAXIMUM ALLOWABLE
+GPM FOR EACH ORIFICE
+OPENING INTO TANK
+MAXIMUM ALLOWABLE
+GPM FOR VERTICAL
+OVERFLOW (PIPING
+CONNECTING ORIFICES)
+2
+19
+25
+3
+43
+75
+4
+90
+163
+5
+159
+296
+6
+257
+472
+8
+505
+1,020
+10
+890
+1,870
+12
+1,400
+2,967
+For SI: 1 inch = 25.4 mm, 1 gallon per minute = 3.785 L/m.
+FIGURE 606.5.4
+METHODS OF CONNECTING OVERFLOW FROM
+GRAVITY
+HOUSE AND SUCTION
+WATER SUPPLY
+TANKS
+
+---
+
+A
+gravity
+or suction
+water supply
+tank shall be provided with an overflow with a diameter not less than that shown in Table 606.5.4. The gallons per minute listed in the table shall be the total automatic pump capacity connected to the tank. The overflow outlet shall discharge at a point not less than 6 inches (152 mm) above the roof or
+roof drain
+, or over an open
+water
+-supplied fixture. The overflow outlet shall be covered with a corrosion-resistant screen of not less than 16 by 20 mesh per inch (630 by 787 mesh per m) and by
+1
+/
+4
+-inch (6.4 mm) hardware cloth or shall terminate in a horizontal angle seat check valve.
+Drainage
+from overflow pipes shall be directed so as not to freeze on roof walks.
+TABLE 606.5.4
+SIZE OF OVERFLOWS FOR
+GRAVITY
+AND SUCTION TANKS
+OVERFLOW
+PIPE SIZE
+(inches)
+MAXIMUM ALLOWABLE
+GPM FOR EACH ORIFICE
+OPENING INTO TANK
+MAXIMUM ALLOWABLE
+GPM FOR VERTICAL
+OVERFLOW (PIPING
+CONNECTING ORIFICES)
+2
+19
+25
+3
+43
+75
+4
+90
+163
+5
+159
+296
+6
+257
+472
+8
+505
+1,020
+10
+890
+1,870
+12
+1,400
+2,967
+For SI: 1 inch = 25.4 mm, 1 gallon per minute = 3.785 L/m.
+FIGURE 606.5.4
+METHODS OF CONNECTING OVERFLOW FROM
+GRAVITY
+HOUSE AND SUCTION
+WATER SUPPLY
+TANKS
+
+---
+
+## Section 606.5.4.1: Water Piping Control and Location
+
+606.5.4.1 Water Piping Control and Location
+Water
+inlets to
+gravity
+house tanks shall be controlled by a ball cock or other automatic supply valve or emergency electrical cut-off so installed as to prevent the overflow of the tank in the event that the pumps filling the tanks do not shut off at the predetermined level or the street pressure rises to a point where it can fill the tank. The
+water
+inlet to a suction tank shall be controlled by a ball cock or other automatic supply valve. The inlet shall be terminated so as to provide an accepted air gap but in no case shall it be less than 4 inches (102 mm) above the top of the overflow. The outlet from a
+gravity
+tank to the distribution system shall be equipped with a strainer located at least 2 inches (51 mm) above the tank bottom to prevent solids from entering the piping system. All down-feed supplies from a tank cross connected in any manner with distribution supply piping in a building supplied by direct street or pump pressure shall be equipped with a check valve on the
+main
+cold
+water
+down supply to prevent
+backflow
+of
+water
+into the roof tank. All roof tanks shall be equipped with a high
+water
+level alarm, at or slightly below the overflow, designed to activate when the ball cock, automatic supply valve, or emergency electrical cut-off fails.
+
+---
+
+Water
+inlets to
+gravity
+house tanks shall be controlled by a ball cock or other automatic supply valve or emergency electrical cut-off so installed as to prevent the overflow of the tank in the event that the pumps filling the tanks do not shut off at the predetermined level or the street pressure rises to a point where it can fill the tank. The
+water
+inlet to a suction tank shall be controlled by a ball cock or other automatic supply valve. The inlet shall be terminated so as to provide an accepted air gap but in no case shall it be less than 4 inches (102 mm) above the top of the overflow. The outlet from a
+gravity
+tank to the distribution system shall be equipped with a strainer located at least 2 inches (51 mm) above the tank bottom to prevent solids from entering the piping system. All down-feed supplies from a tank cross connected in any manner with distribution supply piping in a building supplied by direct street or pump pressure shall be equipped with a check valve on the
+main
+cold
+water
+down supply to prevent
+backflow
+of
+water
+into the roof tank. All roof tanks shall be equipped with a high
+water
+level alarm, at or slightly below the overflow, designed to activate when the ball cock, automatic supply valve, or emergency electrical cut-off fails.
+
+---
+
+## Section 606.5.4.2: Design
+
+606.5.4.2 Design
+The
+gravity
+house supply tank shall be built of wood, steel, or equivalent
+materials
+. Subject to the approval of the
+commissioner
+, additional linings may be installed in the tank, provided the lining material complies with NSF 61 standards and does not have a toxic or otherwise objectionable effect on the
+potable water
+. Steel tanks shall be painted both inside and outside. If a tank with a dividing partition is installed, the total capacity of the
+combined
+compartments shall be considered as the capacity of a single tank for the purpose of determining storage capacities of the tank.
+
+---
+
+The
+gravity
+house supply tank shall be built of wood, steel, or equivalent
+materials
+. Subject to the approval of the
+commissioner
+, additional linings may be installed in the tank, provided the lining material complies with NSF 61 standards and does not have a toxic or otherwise objectionable effect on the
+potable water
+. Steel tanks shall be painted both inside and outside. If a tank with a dividing partition is installed, the total capacity of the
+combined
+compartments shall be considered as the capacity of a single tank for the purpose of determining storage capacities of the tank.
+
+---
+
+## Section 606.5.4.3: Cleaning or Painting
+
+606.5.4.3 Cleaning or Painting
+Water
+tanks shall be cleaned and painted in accordance with the following:
+
+---
+
+Water
+tanks shall be cleaned and painted in accordance with the following:
+
+---
+
+## Section 606.5.4.3.1: Prohibited Materials
+
+606.5.4.3.1 Prohibited Materials
+No
+water
+tank of any kind that is part of a building
+water supply system
+used for potable purposes shall be cleaned with any material or painted on the inside with any material that will have a toxic or otherwise objectionable effect on the potability of the
+water supply
+when the tank is put into service. No lead paint shall be used. The
+water supply
+connections
+to and from a tank shall be disconnected or plugged while the tank is being cleaned or painted to prevent any foreign fluid or substance from entering the distribution piping. Where the air in a tank may be insufficient to sustain human life, or may contain an injurious gas, adequate measures shall be taken for the
+protection
+of the workers.
+
+---
+
+No
+water
+tank of any kind that is part of a building
+water supply system
+used for potable purposes shall be cleaned with any material or painted on the inside with any material that will have a toxic or otherwise objectionable effect on the potability of the
+water supply
+when the tank is put into service. No lead paint shall be used. The
+water supply
+connections
+to and from a tank shall be disconnected or plugged while the tank is being cleaned or painted to prevent any foreign fluid or substance from entering the distribution piping. Where the air in a tank may be insufficient to sustain human life, or may contain an injurious gas, adequate measures shall be taken for the
+protection
+of the workers.
+
+---
+
+## Section 606.5.4.3.2: Disinfection
+
+606.5.4.3.2 Disinfection
+After the tank has been cleaned or painted, it shall be disinfected according to the following procedure before it is put back in service:
+The underside of the top, the bottom, and the walls shall be washed with a hypochlorite solution containing 100 or more parts per million of available chlorine.
+The tank shall be filled with
+water
+to which hypochlorite solution is added during the filling in sufficient quantity so that the treated
+water
+in the tank will contain at least 10 parts per million of available chlorine.
+The chlorinated
+water
+shall be allowed to remain in the tank for two hours.
+Finally, the tank shall be drained completely before refilling.
+
+---
+
+After the tank has been cleaned or painted, it shall be disinfected according to the following procedure before it is put back in service:
+The underside of the top, the bottom, and the walls shall be washed with a hypochlorite solution containing 100 or more parts per million of available chlorine.
+The tank shall be filled with
+water
+to which hypochlorite solution is added during the filling in sufficient quantity so that the treated
+water
+in the tank will contain at least 10 parts per million of available chlorine.
+The chlorinated
+water
+shall be allowed to remain in the tank for two hours.
+Finally, the tank shall be drained completely before refilling.
+
+---
+
+## Section 606.5.4.3.3: Maintenance Schedule
+
+606.5.4.3.3 Maintenance Schedule
+House and suction tanks shall be drained and cleaned at least once a year.
+
+---
+
+House and suction tanks shall be drained and cleaned at least once a year.
+
+---
+
+## Section 606.5.5: Low-Pressure Cutoff Required
+
+606.5.5 Low-Pressure Cutoff Required
+A low-pressure cutoff shall be installed on all house pumps filling a
+water
+tank, and booster pumps in a
+water
+pressure booster system to prevent creation of a
+vacuum
+or negative pressure on the suction side of the pump when a positive pressure of 10 psi (68.94 kPa) or less occurs on the suction side of the pump.
+
+---
+
+A low-pressure cutoff shall be installed on all house pumps filling a
+water
+tank, and booster pumps in a
+water
+pressure booster system to prevent creation of a
+vacuum
+or negative pressure on the suction side of the pump when a positive pressure of 10 psi (68.94 kPa) or less occurs on the suction side of the pump.
+
+---
+
+## Section 606.5.6: Reserved
+
+606.5.6 Reserved
+
+---
+
+## Section 606.5.7: Tank Drain Pipes
+
+606.5.7 Tank Drain Pipes
+A valved pipe shall be provided at the lowest point of each tank or tank compartment to permit emptying of the tank. The tank
+drain
+pipe shall discharge as required for overflow pipes and shall not be smaller in size than specified in Table 606.5.7.
+TABLE 606.5.7
+SIZE OF
+DRAIN
+PIPES FOR
+WATER
+TANKS
+TANK CAPACITY
+(gallons)
+DRAIN
+PIPE
+(inches)
+Up to 750
+1
+751 to 1,500
+1
+1
+/
+2
+1,501 to 3,000
+2
+3,001 to 5,000
+2
+1
+/
+2
+5,000 to 7,500
+3
+Over 7,500
+4
+For SI: 1 inch = 25.4 mm, 1 gallon = 3.785 L.
+
+---
+
+A valved pipe shall be provided at the lowest point of each tank or tank compartment to permit emptying of the tank. The tank
+drain
+pipe shall discharge as required for overflow pipes and shall not be smaller in size than specified in Table 606.5.7.
+TABLE 606.5.7
+SIZE OF
+DRAIN
+PIPES FOR
+WATER
+TANKS
+TANK CAPACITY
+(gallons)
+DRAIN
+PIPE
+(inches)
+Up to 750
+1
+751 to 1,500
+1
+1
+/
+2
+1,501 to 3,000
+2
+3,001 to 5,000
+2
+1
+/
+2
+5,000 to 7,500
+3
+Over 7,500
+4
+For SI: 1 inch = 25.4 mm, 1 gallon = 3.785 L.
+
+---
+
+## Section 606.5.8: Prohibited Location of Potable Supply Tanks
+
+606.5.8 Prohibited Location of Potable Supply Tanks
+Potable water
+gravity
+tanks or manholes of
+potable water
+pressure tanks shall not be located directly under any soil or
+waste
+piping or any source of
+contamination
+.
+
+---
+
+Potable water
+gravity
+tanks or manholes of
+potable water
+pressure tanks shall not be located directly under any soil or
+waste
+piping or any source of
+contamination
+.
+
+---
+
+## Section 606.5.9: Pressure Tanks, Vacuum Relief
+
+606.5.9 Pressure Tanks, Vacuum Relief
+All
+water
+pressure tanks shall be provided with a
+vacuum
+relief valve
+at the top of the tank that will operate up to a maximum
+water
+pressure of 200 psi (1380 kPa) and up to a maximum temperature of 200°F (93°C). The size of such
+vacuum
+relief valve
+shall be not less than
+1
+/
+2
+inch (12.7 mm).
+Exception:
+This section shall not apply to pressurized captive air diaphragm/bladder tanks.
+
+---
+
+All
+water
+pressure tanks shall be provided with a
+vacuum
+relief valve
+at the top of the tank that will operate up to a maximum
+water
+pressure of 200 psi (1380 kPa) and up to a maximum temperature of 200°F (93°C). The size of such
+vacuum
+relief valve
+shall be not less than
+1
+/
+2
+inch (12.7 mm).
+Exception:
+This section shall not apply to pressurized captive air diaphragm/bladder tanks.
+
+---
+
+## Section 606.5.10: Pressure Relief for Tanks
+
+606.5.10 Pressure Relief for Tanks
+Every
+pressure
+tank in a hydropneumatic
+pressure
+booster system shall be protected with a
+pressure relief valve
+. The
+pressure relief valve
+shall be set at a maximum
+pressure
+equal to the rating of the tank. The
+relief valve
+shall be installed on the supply pipe to the tank or on the tank. The
+relief valve
+shall discharge by
+gravity
+to a safe place of disposal.
+
+---
+
+Every
+pressure
+tank in a hydropneumatic
+pressure
+booster system shall be protected with a
+pressure relief valve
+. The
+pressure relief valve
+shall be set at a maximum
+pressure
+equal to the rating of the tank. The
+relief valve
+shall be installed on the supply pipe to the tank or on the tank. The
+relief valve
+shall discharge by
+gravity
+to a safe place of disposal.
+
+---
+
+## Section 606.6: Water Supply System Test
+
+606.6 Water Supply System Test
+Upon completion of a section of or the entire
+water supply system
+, the system, or portion completed, shall be tested in accordance with
+Section 312
+.
+
+---
+
+Upon completion of a section of or the entire
+water supply system
+, the system, or portion completed, shall be tested in accordance with
+Section 312
+.
+
+---
+
+## Section 606.7: Reserved
+
+606.7 Reserved
+
+---
+
+## Section 606.8: Water Sub-Meters Required
+
+606.8 Water Sub-Meters Required
+Water distribution pipe
+lines serving a commercial cooking facility, commercial laundry facility or commercial gym or spa shall be equipped with at least one
+water
+sub-meter to measure the amount of
+water
+supplied through such lines to the
+water
+using equipment within such facility, gym or spa. Makeup
+water
+lines serving an evaporative cooling tower or
+swimming pool
+shall be equipped with at least one
+water
+sub-meter to measure the amount of
+water
+supplied through such lines to such cooling tower or
+swimming pool
+. Makeup
+water
+lines to any boiler or boiler plant with heat input greater than 2.8 million btu/h (820 kW) shall be equipped with at least one
+water
+sub-meter to measure the amount of
+water
+supplied through such lines to such boilers.
+Water
+sub-meters shall be those models
+approved
+for billing purposes by the Department of Environmental
+Protection
+Exception:
+Water
+sub-meters shall not be required in Group R-3
+occupancies
+.
+
+---
+
+Water distribution pipe
+lines serving a commercial cooking facility, commercial laundry facility or commercial gym or spa shall be equipped with at least one
+water
+sub-meter to measure the amount of
+water
+supplied through such lines to the
+water
+using equipment within such facility, gym or spa. Makeup
+water
+lines serving an evaporative cooling tower or
+swimming pool
+shall be equipped with at least one
+water
+sub-meter to measure the amount of
+water
+supplied through such lines to such cooling tower or
+swimming pool
+. Makeup
+water
+lines to any boiler or boiler plant with heat input greater than 2.8 million btu/h (820 kW) shall be equipped with at least one
+water
+sub-meter to measure the amount of
+water
+supplied through such lines to such boilers.
+Water
+sub-meters shall be those models
+approved
+for billing purposes by the Department of Environmental
+Protection
+Exception:
+Water
+sub-meters shall not be required in Group R-3
+occupancies
+.
+
+---
+
+## Section 606.9: Pressure Tanks
+
+606.9 Pressure Tanks
+Tank systems containing
+water
+and air in combination under pressure exceeding 15 psi (103.4 kPa) above atmospheric
+pressure
+, where the
+pressure
+is supplied and maintained by pumps connected directly to the tanks, shall comply with the requirements of this section.
+
+---
+
+Tank systems containing
+water
+and air in combination under pressure exceeding 15 psi (103.4 kPa) above atmospheric
+pressure
+, where the
+pressure
+is supplied and maintained by pumps connected directly to the tanks, shall comply with the requirements of this section.
+
+---
+
+## Section 606.9.1: Design Requirements
+
+606.9.1 Design Requirements
+The
+pressure
+tank system shall be designed by a
+registered design professional
+. An application for a permit and plans shall be filed with the department. The plans and application shall contain, but not be limited to:
+Size and
+location
+of high pressure tanks;
+The operating
+pressures
+and temperatures; and
+The
+location
+, type and specifications of
+pressure relief valves
+.
+
+---
+
+The
+pressure
+tank system shall be designed by a
+registered design professional
+. An application for a permit and plans shall be filed with the department. The plans and application shall contain, but not be limited to:
+Size and
+location
+of high pressure tanks;
+The operating
+pressures
+and temperatures; and
+The
+location
+, type and specifications of
+pressure relief valves
+.
+
+---
+
+## Section 606.9.2: Location Requirements
+
+606.9.2 Location Requirements
+All high pressure tanks shall be located at least 5 feet (1524 mm) horizontally from a gas service or distribution line or its vertical projection upon the floor.
+
+---
+
+All high pressure tanks shall be located at least 5 feet (1524 mm) horizontally from a gas service or distribution line or its vertical projection upon the floor.
+
+---
+
+## Section 606.9.3: Required Separation
+
+606.9.3 Required Separation
+All pressure tanks shall be located in rooms separated from gas service or distribution lines by fire-resistance-rated enclosures.
+
+---
+
+All pressure tanks shall be located in rooms separated from gas service or distribution lines by fire-resistance-rated enclosures.
+
+---
+
+Section 607 Hot Water Supply System
+UpCodes Diagram (1)
+
+---
+
+## Section 607.1: Where Required
+
+607.1 Where Required
+In residential
+occupancies
+,
+hot water
+shall be supplied to all
+plumbing fixtures
+and equipment utilized for bathing, washing, culinary purposes, cleansing, laundry or building maintenance. In nonresidential
+occupancies
+,
+hot water
+shall be supplied for culinary purposes, cleansing, laundry or building maintenance purposes. In nonresidential
+occupancies
+,
+hot water
+or
+tempered water
+shall be supplied for bathing and washing purposes.
+Tempered water
+shall be supplied through a
+water
+temperature limiting device that conforms to ASSE 1070 and shall limit the
+tempered water
+to a maximum of 110°F (43°C). This provision shall not supersede the requirement for protective shower valves in accordance with
+Section 424.3
+.
+
+---
+
+In residential
+occupancies
+,
+hot water
+shall be supplied to all
+plumbing fixtures
+and equipment utilized for bathing, washing, culinary purposes, cleansing, laundry or building maintenance. In nonresidential
+occupancies
+,
+hot water
+shall be supplied for culinary purposes, cleansing, laundry or building maintenance purposes. In nonresidential
+occupancies
+,
+hot water
+or
+tempered water
+shall be supplied for bathing and washing purposes.
+Tempered water
+shall be supplied through a
+water
+temperature limiting device that conforms to ASSE 1070 and shall limit the
+tempered water
+to a maximum of 110°F (43°C). This provision shall not supersede the requirement for protective shower valves in accordance with
+Section 424.3
+.
+
+---
+
+## Section 607.1.1: Temperature Limiting Means
+
+607.1.1 Temperature Limiting Means
+A thermostat control for a
+water heater
+shall not serve as the temperature limiting means for the purposes of complying with the requirements of this code for maximum allowable hot or
+tempered water
+delivery temperature at fixtures.
+
+---
+
+A thermostat control for a
+water heater
+shall not serve as the temperature limiting means for the purposes of complying with the requirements of this code for maximum allowable hot or
+tempered water
+delivery temperature at fixtures.
+
+---
+
+## Section 607.1.2: Tempered Water Temperature Control
+
+607.1.2 Tempered Water Temperature Control
+Tempered water
+shall be supplied through a
+water
+temperature limiting device that conforms to ASSE 1070 and shall limit the
+tempered water
+to a maximum of 110°F (43°C). This provision shall not supersede the requirement for protective shower valves in accordance with
+Section 424.3
+.
+UpCodes Diagram (1)
+
+---
+
+Tempered water
+shall be supplied through a
+water
+temperature limiting device that conforms to ASSE 1070 and shall limit the
+tempered water
+to a maximum of 110°F (43°C). This provision shall not supersede the requirement for protective shower valves in accordance with
+Section 424.3
+.
+
+---
+
+## Section 607.2: Hot or Tempered Water Supply to Fixtures
+
+607.2 Hot or Tempered Water Supply to Fixtures
+The
+developed length
+of hot or
+tempered water
+piping, from the source of
+hot water
+to the fixtures that require hot or
+tempered water
+, shall not exceed 20 feet (6096 mm) or the maximum length in accordance with the
+New York City Energy Conservation Code
+. Recirculating system piping and heat-traced piping shall be considered to be sources of hot or
+tempered water
+.
+
+---
+
+The
+developed length
+of hot or
+tempered water
+piping, from the source of
+hot water
+to the fixtures that require hot or
+tempered water
+, shall not exceed 20 feet (6096 mm) or the maximum length in accordance with the
+New York City Energy Conservation Code
+. Recirculating system piping and heat-traced piping shall be considered to be sources of hot or
+tempered water
+.
+
+---
+
+## Section 607.2.1: Circulation Systems and Heat Trace Systems for Maintaining Heated Water Temperature in Distribution Systems
+
+607.2.1 Circulation Systems and Heat Trace Systems for Maintaining Heated Water Temperature in Distribution Systems
+For residential
+occupancies
+, the installation of heated
+water
+circulation and temperature maintenance systems shall be in accordance with the
+New York City Energy Conservation Code
+. For commercial
+occupancies
+that are three stories or less in height above grade plane, the installation of heated
+water
+circulation and heat trace systems shall be in accordance with the
+New York City Energy Conservation Code
+.
+
+---
+
+For residential
+occupancies
+, the installation of heated
+water
+circulation and temperature maintenance systems shall be in accordance with the
+New York City Energy Conservation Code
+. For commercial
+occupancies
+that are three stories or less in height above grade plane, the installation of heated
+water
+circulation and heat trace systems shall be in accordance with the
+New York City Energy Conservation Code
+.
+
+---
+
+## Section 607.2.1.1: Pump Controls for Hot Water Storage Systems
+
+607.2.1.1 Pump Controls for Hot Water Storage Systems
+The controls on pumps that circulate
+water
+between a
+water heater
+and a storage tank for heated
+water
+shall limit operation of the pump from heating cycle startup to not greater than 5 minutes after the end of the cycle.
+
+---
+
+The controls on pumps that circulate
+water
+between a
+water heater
+and a storage tank for heated
+water
+shall limit operation of the pump from heating cycle startup to not greater than 5 minutes after the end of the cycle.
+
+---
+
+## Section 607.2.1.2: Demand Recirculation Controls for Distribution Systems
+
+607.2.1.2 Demand Recirculation Controls for Distribution Systems
+A
+water
+distribution system having one or more recirculation pumps that pump
+water
+from a heated
+water supply
+pipe back to the heated
+water
+source through a cold
+water supply
+pipe shall be a
+demand recirculation water system
+. Pumps shall have controls that comply with both of the following:
+The control shall start the pump upon receiving a signal from the action of a user of a fixture or appliance, sensing the presence of a user of a fixture, or sensing the flow of hot or
+tempered water
+to a
+fixture fitting
+or appliance.
+The control shall limit the temperature of the
+water
+entering the cold
+water
+piping to 104°F (40°C).
+UpCodes Diagram (1)
+
+---
+
+A
+water
+distribution system having one or more recirculation pumps that pump
+water
+from a heated
+water supply
+pipe back to the heated
+water
+source through a cold
+water supply
+pipe shall be a
+demand recirculation water system
+. Pumps shall have controls that comply with both of the following:
+The control shall start the pump upon receiving a signal from the action of a user of a fixture or appliance, sensing the presence of a user of a fixture, or sensing the flow of hot or
+tempered water
+to a
+fixture fitting
+or appliance.
+The control shall limit the temperature of the
+water
+entering the cold
+water
+piping to 104°F (40°C).
+
+---
+
+## Section 607.2.2: Piping for Recirculation Systems Having Master Thermostatic Valves
+
+607.2.2 Piping for Recirculation Systems Having Master Thermostatic Valves
+Where a thermostatic mixing valve is used in a system with a
+hot water
+recirculating pump, the
+hot water
+or
+tempered water
+return line shall be routed to the cold
+water
+inlet pipe of the
+water heater
+and the cold
+water
+inlet pipe or the
+hot water
+return connection of the thermostatic mixing valve.
+
+---
+
+Where a thermostatic mixing valve is used in a system with a
+hot water
+recirculating pump, the
+hot water
+or
+tempered water
+return line shall be routed to the cold
+water
+inlet pipe of the
+water heater
+and the cold
+water
+inlet pipe or the
+hot water
+return connection of the thermostatic mixing valve.
+
+---
+
+## Section 607.3: Thermal Expansion Control
+
+607.3 Thermal Expansion Control
+Where a storage
+water heater
+is supplied with cold
+water
+that passes through a check valve, pressure reducing valve or
+backflow preventer
+, a thermal
+expansion
+tank shall be connected to the
+water heater
+cold
+water supply
+pipe at a point that is downstream of all check valves, pressure reducing valves and
+backflow preventers
+. Thermal
+expansion
+tanks shall be sized in accordance with the tank manufacturer's instructions and shall be sized such that the pressure in the
+water
+distribution system shall not exceed that required by
+Section 604.8
+.
+UpCodes Diagram (1)
+Building product (1)
+
+---
+
+Where a storage
+water heater
+is supplied with cold
+water
+that passes through a check valve, pressure reducing valve or
+backflow preventer
+, a thermal
+expansion
+tank shall be connected to the
+water heater
+cold
+water supply
+pipe at a point that is downstream of all check valves, pressure reducing valves and
+backflow preventers
+. Thermal
+expansion
+tanks shall be sized in accordance with the tank manufacturer's instructions and shall be sized such that the pressure in the
+water
+distribution system shall not exceed that required by
+Section 604.8
+.
+
+---
+
+## Section 607.4: Flow of Hot Water to Fixtures
+
+607.4 Flow of Hot Water to Fixtures
+Fixture fittings
+,
+faucets
+and diverters shall be installed and adjusted so that the flow of
+hot water
+from the fittings corresponds to the left-hand side of the
+fixture fitting
+.
+Exception:
+Shower and tub/shower mixing valves conforming to ASSE 10161016/ASME A112.1016/CSA B125.16 or ASME A112.18.1/CSA B125.1 where the flow of
+hot water
+corresponds to the markings on the device.
+UpCodes Diagram (1)
+
+---
+
+Fixture fittings
+,
+faucets
+and diverters shall be installed and adjusted so that the flow of
+hot water
+from the fittings corresponds to the left-hand side of the
+fixture fitting
+.
+Exception:
+Shower and tub/shower mixing valves conforming to ASSE 10161016/ASME A112.1016/CSA B125.16 or ASME A112.18.1/CSA B125.1 where the flow of
+hot water
+corresponds to the markings on the device.
+
+---
+
+## Section 607.5: Insulation of Piping
+
+607.5 Insulation of Piping
+For other than residential
+occupancies
+, as defined in the
+New York City Energy Conservation Code
+that are three stories or less in height above grade plane, piping to the inlet of a
+water heater
+and piping conveying
+water
+heated by a
+water heater
+shall be insulated in accordance with Section C404 of the
+New York City Energy Conservation Code
+. For residential
+occupancies
+, as defined in the New York City Energy Conservation Code that are three stories or less in height above grade plane, piping to the inlet of a
+water heater
+and piping conveying
+water
+heated by a
+water heater
+shall be insulated in accordance with Section R403 of the
+New York City Energy Conservation Code
+.
+
+---
+
+For other than residential
+occupancies
+, as defined in the
+New York City Energy Conservation Code
+that are three stories or less in height above grade plane, piping to the inlet of a
+water heater
+and piping conveying
+water
+heated by a
+water heater
+shall be insulated in accordance with Section C404 of the
+New York City Energy Conservation Code
+. For residential
+occupancies
+, as defined in the New York City Energy Conservation Code that are three stories or less in height above grade plane, piping to the inlet of a
+water heater
+and piping conveying
+water
+heated by a
+water heater
+shall be insulated in accordance with Section R403 of the
+New York City Energy Conservation Code
+.
+
+---
+
+Section 608 Protection of Potable Water Supply
+UpCodes Diagram (1)
+
+---
+
+## Section 608.1: General
+
+608.1 General
+A potable
+water supply system
+shall be designed, installed and maintained in such a manner so as to prevent
+contamination
+from nonpotable liquids, solids or gases being introduced into the
+potable water
+supply through
+cross connections
+or any other piping
+connections
+to the system.
+Backflow preventer
+applications shall conform to
+Table 608.1
+, except as specifically stated in Sections
+608.2
+through
+608.16.10
+. Primary
+backflow
+prevention devices shall comply with the requirements of the Department of Environmental
+Protection
+.
+TABLE 608.1
+APPLICATION OF
+BACKFLOW PREVENTERS
+DEVICE
+DEGREE OF
+HAZARD
+a
+APPLICATION
+b
+APPLICABLE STANDARDS
+Backflow
+prevention assemblies:
+Double check
+backflow
+prevention assembly
+Low hazard
+Backpressure
+or
+backsiphonage
+Sizes
+3
+/
+8
+" - 12"
+ASSE 1015, AWWA C510,
+CSA B64.5, CSA B64.5.1
+Double check detector fire
+protection
+backflow
+prevention assemblies
+Low hazard
+Backpressure
+or
+backsiphonage
+Sizes 2" - 12"
+ASSE 1048
+Pressure
+vacuum breaker
+assembly
+c
+High or low hazard
+Backsiphonage
+only
+Sizes
+1
+/
+2
+" - 2"
+ASSE 1020, CSA B64.1.2
+Reduced pressure principle backflow preventer
+High or low hazard
+Backpressure
+or
+backsiphonage
+Sizes
+3
+/
+8
+"- 12"
+ASSE 1013, AWWA C511,
+CSA B64.4, CSA B64.4.1
+Reduced pressure detector fire
+protection
+backflow
+prevention assemblies
+High or low hazard
+Backsiphonage
+or
+backpressure
+ASSE 1047
+Spill-resistant
+vacuum breaker
+assembly
+c
+High or low hazard
+Backsiphonage
+only
+Sizes
+1
+/
+4
+" - 2"
+ASSE 1056
+Backflow preventer
+plumbing
+devices:
+Antisiphon
+-type
+fill valves
+for
+gravity
+water
+closet
+flush tanks
+High hazard
+Backsiphonage
+only
+ASSE 1002, CSA B 125.3
+Backflow preventer
+for carbonated beverage machines
+Low hazard
+Backpressure
+or
+backsiphonage
+Sizes 1/4"- 3/8"
+ASSE 1022
+Backflow preventer
+with intermediate atmospheric vents
+Low hazard
+Backpressure
+or
+backsiphonage
+Sizes 1/4"- 3/8"
+ASSE 1012, CSA B64.3
+Dual-check-valve-type
+backflow preventer
+Low hazard
+Backpressure
+or
+backsiphonage
+Sizes 1/4" - 1"
+ASSE 1024, CSA B64.6
+Hose connection
+backflow preventer
+High or low hazard
+Low head backpressure
+, rated working pressure,
+backpressure
+or
+backsiphonage
+Sizes 1/2" - 1"
+ASME A112.21.3, ASSE 1052, CSA B64.2.1.1
+Hose connection
+vacuum breaker
+High or low hazard
+Low head backpressure
+or
+backsiphonage
+Sizes 1/2", 3/4", 1"
+ASME A112.21.3, ASSE 1011, CSA B64.2, CSA B64.2.1
+Laboratory
+faucet
+backflow preventer
+High or low hazard
+Low head backpressure
+and
+backsiphonage
+ASSE 1035, CSA B64.7
+Pipe-applied atmospheric-type
+vacuum breaker
+High or low hazard
+Backsiphonage
+only
+Sizes 1/4" - 4"
+ASSE 1001, CSA B64.1.1
+Vacuum breaker
+wall hydrants, frost-resistant, automatic-draining type
+High or low hazard
+Low head backpressure
+or
+backsiphonage
+Sizes 3/4", 1"
+ASME A112.21.3, ASSE 1019, CSA B64.2.2
+Other means or methods:
+Air gap
+High or low hazard
+Backsiphonage
+or
+backpressure
+ASME A112.1.2
+Air gap
+fittings for use with
+plumbing fixtures
+, appliances and appurtenances
+High or low hazard
+Backsiphonage
+or
+backpressure
+ASME A112.1.3
+Barometric loop
+High or low hazard
+Backsiphonage
+only
+(See
+Section 608.13.4
+)
+For SI: 1 inch = 25.4 mm.
+Low hazard.
+High hazard—See
+Contamination
+(
+Section 202
+).
+See
+Backpressure, low head
+(
+Section 202
+).
+See
+Backsiphonage
+(
+Section 202
+).
+The regulations of the Department of Environmental
+Protection
+prohibit use of
+vacuum breaker
+assemblies as primary
+backflow
+prevention devices.
+Building products (2)
+
+---
+
+A potable
+water supply system
+shall be designed, installed and maintained in such a manner so as to prevent
+contamination
+from nonpotable liquids, solids or gases being introduced into the
+potable water
+supply through
+cross connections
+or any other piping
+connections
+to the system.
+Backflow preventer
+applications shall conform to
+Table 608.1
+, except as specifically stated in Sections
+608.2
+through
+608.16.10
+. Primary
+backflow
+prevention devices shall comply with the requirements of the Department of Environmental
+Protection
+.
+TABLE 608.1
+APPLICATION OF
+BACKFLOW PREVENTERS
+DEVICE
+DEGREE OF
+HAZARD
+a
+APPLICATION
+b
+APPLICABLE STANDARDS
+Backflow
+prevention assemblies:
+Double check
+backflow
+prevention assembly
+Low hazard
+Backpressure
+or
+backsiphonage
+Sizes
+3
+/
+8
+" - 12"
+ASSE 1015, AWWA C510,
+CSA B64.5, CSA B64.5.1
+Double check detector fire
+protection
+backflow
+prevention assemblies
+Low hazard
+Backpressure
+or
+backsiphonage
+Sizes 2" - 12"
+ASSE 1048
+Pressure
+vacuum breaker
+assembly
+c
+High or low hazard
+Backsiphonage
+only
+Sizes
+1
+/
+2
+" - 2"
+ASSE 1020, CSA B64.1.2
+Reduced pressure principle backflow preventer
+High or low hazard
+Backpressure
+or
+backsiphonage
+Sizes
+3
+/
+8
+"- 12"
+ASSE 1013, AWWA C511,
+CSA B64.4, CSA B64.4.1
+Reduced pressure detector fire
+protection
+backflow
+prevention assemblies
+High or low hazard
+Backsiphonage
+or
+backpressure
+ASSE 1047
+Spill-resistant
+vacuum breaker
+assembly
+c
+High or low hazard
+Backsiphonage
+only
+Sizes
+1
+/
+4
+" - 2"
+ASSE 1056
+Backflow preventer
+plumbing
+devices:
+Antisiphon
+-type
+fill valves
+for
+gravity
+water
+closet
+flush tanks
+High hazard
+Backsiphonage
+only
+ASSE 1002, CSA B 125.3
+Backflow preventer
+for carbonated beverage machines
+Low hazard
+Backpressure
+or
+backsiphonage
+Sizes 1/4"- 3/8"
+ASSE 1022
+Backflow preventer
+with intermediate atmospheric vents
+Low hazard
+Backpressure
+or
+backsiphonage
+Sizes 1/4"- 3/8"
+ASSE 1012, CSA B64.3
+Dual-check-valve-type
+backflow preventer
+Low hazard
+Backpressure
+or
+backsiphonage
+Sizes 1/4" - 1"
+ASSE 1024, CSA B64.6
+Hose connection
+backflow preventer
+High or low hazard
+Low head backpressure
+, rated working pressure,
+backpressure
+or
+backsiphonage
+Sizes 1/2" - 1"
+ASME A112.21.3, ASSE 1052, CSA B64.2.1.1
+Hose connection
+vacuum breaker
+High or low hazard
+Low head backpressure
+or
+backsiphonage
+Sizes 1/2", 3/4", 1"
+ASME A112.21.3, ASSE 1011, CSA B64.2, CSA B64.2.1
+Laboratory
+faucet
+backflow preventer
+High or low hazard
+Low head backpressure
+and
+backsiphonage
+ASSE 1035, CSA B64.7
+Pipe-applied atmospheric-type
+vacuum breaker
+High or low hazard
+Backsiphonage
+only
+Sizes 1/4" - 4"
+ASSE 1001, CSA B64.1.1
+Vacuum breaker
+wall hydrants, frost-resistant, automatic-draining type
+High or low hazard
+Low head backpressure
+or
+backsiphonage
+Sizes 3/4", 1"
+ASME A112.21.3, ASSE 1019, CSA B64.2.2
+Other means or methods:
+Air gap
+High or low hazard
+Backsiphonage
+or
+backpressure
+ASME A112.1.2
+Air gap
+fittings for use with
+plumbing fixtures
+, appliances and appurtenances
+High or low hazard
+Backsiphonage
+or
+backpressure
+ASME A112.1.3
+Barometric loop
+High or low hazard
+Backsiphonage
+only
+(See
+Section 608.13.4
+)
+For SI: 1 inch = 25.4 mm.
+Low hazard.
+High hazard—See
+Contamination
+(
+Section 202
+).
+See
+Backpressure, low head
+(
+Section 202
+).
+See
+Backsiphonage
+(
+Section 202
+).
+The regulations of the Department of Environmental
+Protection
+prohibit use of
+vacuum breaker
+assemblies as primary
+backflow
+prevention devices.
+
+---
+
+## Section 608.2: Plumbing Fixtures
+
+608.2 Plumbing Fixtures
+The supply lines and fittings for
+plumbing fixtures
+shall be installed so as to prevent
+backflow
+.
+Plumbing fixture
+fittings shall provide
+backflow
+protection
+in accordance with ASME A112.18.1/CSA B125.1.
+
+---
+
+The supply lines and fittings for
+plumbing fixtures
+shall be installed so as to prevent
+backflow
+.
+Plumbing fixture
+fittings shall provide
+backflow
+protection
+in accordance with ASME A112.18.1/CSA B125.1.
+
+---
+
+## Section 608.3: Devices, Appurtenances, Appliances and Apparatus
+
+608.3 Devices, Appurtenances, Appliances and Apparatus
+Devices, appurtenances, appliances and apparatus intended to serve some special function, such as sterilization, distillation, processing, cooling, or storage of ice or foods, and that connect to the
+water supply system
+, shall be provided with
+protection
+against
+backflow
+and
+contamination
+of the
+water supply system
+.
+Water
+pumps, filters, softeners, tanks and other appliances and devices that handle or treat
+potable water
+shall be protected against
+contamination
+.
+
+---
+
+Devices, appurtenances, appliances and apparatus intended to serve some special function, such as sterilization, distillation, processing, cooling, or storage of ice or foods, and that connect to the
+water supply system
+, shall be provided with
+protection
+against
+backflow
+and
+contamination
+of the
+water supply system
+.
+Water
+pumps, filters, softeners, tanks and other appliances and devices that handle or treat
+potable water
+shall be protected against
+contamination
+.
+
+---
+
+## Section 608.3.1: Special Equipment, Water Supply Protection
+
+608.3.1 Special Equipment, Water Supply Protection
+The
+water supply
+for hospital fixtures shall be protected against
+backflow
+with a reduced pressure principle
+backflow
+prevention assembly, an atmospheric or spill-resistant
+vacuum breaker
+, assembly or an air gap.
+Vacuum breakers
+for
+bedpan washer hoses
+shall not be located less than 5 feet (1524 mm) above the floor.
+Vacuum breakers
+for hose
+connections
+in health care or laboratory areas shall not be less than 6 feet (1829 mm) above the floor.
+
+---
+
+The
+water supply
+for hospital fixtures shall be protected against
+backflow
+with a reduced pressure principle
+backflow
+prevention assembly, an atmospheric or spill-resistant
+vacuum breaker
+, assembly or an air gap.
+Vacuum breakers
+for
+bedpan washer hoses
+shall not be located less than 5 feet (1524 mm) above the floor.
+Vacuum breakers
+for hose
+connections
+in health care or laboratory areas shall not be less than 6 feet (1829 mm) above the floor.
+
+---
+
+## Section 608.4: Water Service Piping
+
+608.4 Water Service Piping
+Water
+service piping shall be protected in accordance with Sections
+603.2
+and
+603.2.1
+.
+
+---
+
+Water
+service piping shall be protected in accordance with Sections
+603.2
+and
+603.2.1
+.
+
+---
+
+## Section 608.5: Chemicals and Other Substances
+
+608.5 Chemicals and Other Substances
+Chemicals and other substances that produce either toxic conditions, taste, odor or discoloration in a
+potable water
+system shall not be introduced into, or utilized in, such systems.
+
+---
+
+Chemicals and other substances that produce either toxic conditions, taste, odor or discoloration in a
+potable water
+system shall not be introduced into, or utilized in, such systems.
+
+---
+
+## Section 608.6: Cross Connection Control
+
+608.6 Cross Connection Control
+Cross connections
+shall be prohibited, except where
+approved
+backflow
+prevention assemblies,
+backflow
+prevention devices or other means or methods are installed to protect the
+potable water
+supply.
+
+---
+
+Cross connections
+shall be prohibited, except where
+approved
+backflow
+prevention assemblies,
+backflow
+prevention devices or other means or methods are installed to protect the
+potable water
+supply.
+
+---
+
+## Section 608.6.1: Private Water Supplies
+
+608.6.1 Private Water Supplies
+Cross connections
+between a
+private
+water supply
+and a potable public supply shall be prohibited.
+
+---
+
+Cross connections
+between a
+private
+water supply
+and a potable public supply shall be prohibited.
+
+---
+
+## Section 608.7: Valves and Outlets Prohibited Below Grade
+
+608.7 Valves and Outlets Prohibited Below Grade
+Potable water
+outlets and combination stop-and-
+waste
+valves shall not be installed underground or below grade. Freezeproof yard hydrants that
+drain
+the
+riser
+into the ground are considered to be stop-and-
+waste
+valves.
+Exception:
+Freezeproof yard hydrants that
+drain
+the
+riser
+into the ground shall be permitted to be installed, provided that the
+potable water
+supply to such hydrants is protected upstream of the hydrants in accordance with
+Section 608
+and the hydrants are permanently identified as nonpotable outlets by
+approved
+signage that reads as follows: "Caution,
+Nonpotable Water
+. Do Not Drink."
+
+---
+
+Potable water
+outlets and combination stop-and-
+waste
+valves shall not be installed underground or below grade. Freezeproof yard hydrants that
+drain
+the
+riser
+into the ground are considered to be stop-and-
+waste
+valves.
+Exception:
+Freezeproof yard hydrants that
+drain
+the
+riser
+into the ground shall be permitted to be installed, provided that the
+potable water
+supply to such hydrants is protected upstream of the hydrants in accordance with
+Section 608
+and the hydrants are permanently identified as nonpotable outlets by
+approved
+signage that reads as follows: "Caution,
+Nonpotable Water
+. Do Not Drink."
+
+---
+
+## Section 608.8: Identification of Nonpotable Water Systems
+
+608.8 Identification of Nonpotable Water Systems
+Where
+nonpotable water
+systems are installed, the piping conveying the
+nonpotable water
+shall be identified either by color marking, metal tags or tape in accordance with Sections
+608.8.1
+through
+608.8.2.3
+.
+
+---
+
+Where
+nonpotable water
+systems are installed, the piping conveying the
+nonpotable water
+shall be identified either by color marking, metal tags or tape in accordance with Sections
+608.8.1
+through
+608.8.2.3
+.
+
+---
+
+## Section 608.8.1: Signage Required
+
+608.8.1 Signage Required
+Nonpotable water
+outlets, such as hose
+connections
+, open ended pipes and
+faucets
+, shall be identified with signage that reads as follows: "
+Nonpotable water
+is utilized for (application name). CAUTION:
+NONPOTABLE WATER
+— DO NOT DRINK." The words shall be legibly and indelibly printed on a tag or sign constructed of corrosion-resistant waterproof material or shall be indelibly printed on the fixture. The letters of the words shall be not less than 0.5 inch (12.7 mm) in height and in colors in contrast to the background on which they are applied. In addition to the required wordage, the pictograph shown in Figure 608.8.1 shall appear on the required signage.
+FIGURE 608.8.1
+PICTOGRAPH—DO NOT DRINK
+
+---
+
+Nonpotable water
+outlets, such as hose
+connections
+, open ended pipes and
+faucets
+, shall be identified with signage that reads as follows: "
+Nonpotable water
+is utilized for (application name). CAUTION:
+NONPOTABLE WATER
+— DO NOT DRINK." The words shall be legibly and indelibly printed on a tag or sign constructed of corrosion-resistant waterproof material or shall be indelibly printed on the fixture. The letters of the words shall be not less than 0.5 inch (12.7 mm) in height and in colors in contrast to the background on which they are applied. In addition to the required wordage, the pictograph shown in Figure 608.8.1 shall appear on the required signage.
+FIGURE 608.8.1
+PICTOGRAPH—DO NOT DRINK
+
+---
+
+## Section 608.8.2: Distribution Pipe Labeling and Marking
+
+608.8.2 Distribution Pipe Labeling and Marking
+Nonpotable distribution piping shall be purple in color and shall be embossed, or integrally stamped or marked, with the words: "CAUTION:
+NONPOTABLE WATER
+— DO NOT DRINK" or the piping shall be installed with a purple identification tape or wrap. Pipe identification shall include the contents of the piping system and an arrow indicating the direction of flow. Hazardous piping systems shall also contain information addressing the nature of the hazard. Pipe identification shall be repeated at intervals not exceeding 25 feet (7620 mm) and at each point where the piping passes through a wall, floor or roof. Lettering shall be readily observable within the room or space where the piping is located.
+
+---
+
+Nonpotable distribution piping shall be purple in color and shall be embossed, or integrally stamped or marked, with the words: "CAUTION:
+NONPOTABLE WATER
+— DO NOT DRINK" or the piping shall be installed with a purple identification tape or wrap. Pipe identification shall include the contents of the piping system and an arrow indicating the direction of flow. Hazardous piping systems shall also contain information addressing the nature of the hazard. Pipe identification shall be repeated at intervals not exceeding 25 feet (7620 mm) and at each point where the piping passes through a wall, floor or roof. Lettering shall be readily observable within the room or space where the piping is located.
+
+---
+
+## Section 608.8.2.1: Color
+
+608.8.2.1 Color
+The color of the pipe identification shall be discernable and consistent throughout the building. The color purple shall be used to identify
+nonpotable water
+distribution systems.
+
+---
+
+The color of the pipe identification shall be discernable and consistent throughout the building. The color purple shall be used to identify
+nonpotable water
+distribution systems.
+
+---
+
+## Section 608.8.2.2: Lettering Size
+
+608.8.2.2 Lettering Size
+The size of the background color field and lettering shall comply with Table 608.8.2.2.
+TABLE 608.8.2.2
+SIZE OF PIPE IDENTIFICATION
+PIPE DIAMETER (inches)
+LENGTH BACKGROUND
+COLOR FIELD (inches)
+SIZE OF
+LETTERS
+(inches)
+3
+/
+4
+to 1
+1
+/
+4
+8
+0.5
+1
+1
+/
+2
+to 2
+8
+0.75
+2
+1
+/
+2
+to 6
+12
+1.25
+8 to 10
+24
+2.5
+over 10
+32
+3.5
+For SI: 1 inch = 25.4 mm.
+
+---
+
+The size of the background color field and lettering shall comply with Table 608.8.2.2.
+TABLE 608.8.2.2
+SIZE OF PIPE IDENTIFICATION
+PIPE DIAMETER (inches)
+LENGTH BACKGROUND
+COLOR FIELD (inches)
+SIZE OF
+LETTERS
+(inches)
+3
+/
+4
+to 1
+1
+/
+4
+8
+0.5
+1
+1
+/
+2
+to 2
+8
+0.75
+2
+1
+/
+2
+to 6
+12
+1.25
+8 to 10
+24
+2.5
+over 10
+32
+3.5
+For SI: 1 inch = 25.4 mm.
+
+---
+
+## Section 608.8.2.3: Identification Tape
+
+608.8.2.3 Identification Tape
+Where used, identification tape shall be at least 3 inches (76 mm) wide and have white or black lettering on a purple field stating "CAUTION:
+NONPOTABLE WATER
+— DO NOT DRINK." Identification tape shall be installed on top of nonpotable
+water distribution pipes
+, fastened at least every 10 feet (3048 mm) to each pipe length and run continuously the entire length of the pipe.
+
+---
+
+Where used, identification tape shall be at least 3 inches (76 mm) wide and have white or black lettering on a purple field stating "CAUTION:
+NONPOTABLE WATER
+— DO NOT DRINK." Identification tape shall be installed on top of nonpotable
+water distribution pipes
+, fastened at least every 10 feet (3048 mm) to each pipe length and run continuously the entire length of the pipe.
+
+---
+
+## Section 608.9: Reutilization Prohibited
+
+608.9 Reutilization Prohibited
+Water
+utilized for the cooling of equipment or other processes shall not be returned to the
+potable water
+system. Such
+water
+shall be discharged into a
+drainage system
+through an air gap or shall be utilized for nonpotable purposes.
+
+---
+
+Water
+utilized for the cooling of equipment or other processes shall not be returned to the
+potable water
+system. Such
+water
+shall be discharged into a
+drainage system
+through an air gap or shall be utilized for nonpotable purposes.
+
+---
+
+## Section 608.10: Reuse of Piping
+
+608.10 Reuse of Piping
+Piping that has been utilized for any purpose other than conveying
+potable water
+shall not be utilized for conveying
+potable water
+.
+
+---
+
+Piping that has been utilized for any purpose other than conveying
+potable water
+shall not be utilized for conveying
+potable water
+.
+
+---
+
+## Section 608.11: Painting of Water Tanks
+
+608.11 Painting of Water Tanks
+The interior surface of a
+potable water
+tank shall not be lined, painted or repaired with any material that changes the taste, odor, color or potability of the
+water supply
+when the tank is placed in, or returned to, service. Linings, paints, and repairs must be in accordance with the requirements of the Department of Health and Mental Hygiene.
+
+---
+
+The interior surface of a
+potable water
+tank shall not be lined, painted or repaired with any material that changes the taste, odor, color or potability of the
+water supply
+when the tank is placed in, or returned to, service. Linings, paints, and repairs must be in accordance with the requirements of the Department of Health and Mental Hygiene.
+
+---
+
+## Section 608.12: Pumps and Other Appliances
+
+608.12 Pumps and Other Appliances
+Water
+pumps, filters, softeners, tanks and all other devices that handle or treat
+potable water
+shall be protected against
+contamination
+.
+
+---
+
+Water
+pumps, filters, softeners, tanks and all other devices that handle or treat
+potable water
+shall be protected against
+contamination
+.
+
+---
+
+## Section 608.13: Backflow Protection
+
+608.13 Backflow Protection
+Means of
+protection
+against secondary
+backflow
+shall be provided in accordance with Sections
+608.13.1
+through
+608.13.10
+and tested and inspected in accordance with
+Chapter 3
+.
+
+---
+
+Means of
+protection
+against secondary
+backflow
+shall be provided in accordance with Sections
+608.13.1
+through
+608.13.10
+and tested and inspected in accordance with
+Chapter 3
+.
+
+---
+
+## Section 608.13.1: Air Gap
+
+608.13.1 Air Gap
+The minimum required
+air gap
+shall be measured vertically from the lowest end of a
+potable water
+outlet to the
+flood level rim
+of the fixture or receptacle into which such
+potable water
+outlet discharges.
+Air gaps
+shall comply with ASME A112.1.2 and air gap fittings shall comply with ASME A112.1.3.
+
+---
+
+The minimum required
+air gap
+shall be measured vertically from the lowest end of a
+potable water
+outlet to the
+flood level rim
+of the fixture or receptacle into which such
+potable water
+outlet discharges.
+Air gaps
+shall comply with ASME A112.1.2 and air gap fittings shall comply with ASME A112.1.3.
+
+---
+
+## Section 608.13.2: Reduced Pressure Principle Backflow Prevention Assemblies
+
+608.13.2 Reduced Pressure Principle Backflow Prevention Assemblies
+Reduced pressure principle
+backflow
+prevention assemblies shall conform to ASSE 1013, AWWA C511, CSA B64.4 or CSA B64.4.1. Reduced pressure detector assembly
+backflow preventers
+shall conform to ASSE 1047. These devices shall be permitted to be installed where subject to continuous pressure conditions. The relief opening shall discharge by
+air gap
+and shall be prevented from being submerged.
+
+---
+
+Reduced pressure principle
+backflow
+prevention assemblies shall conform to ASSE 1013, AWWA C511, CSA B64.4 or CSA B64.4.1. Reduced pressure detector assembly
+backflow preventers
+shall conform to ASSE 1047. These devices shall be permitted to be installed where subject to continuous pressure conditions. The relief opening shall discharge by
+air gap
+and shall be prevented from being submerged.
+
+---
+
+## Section 608.13.3: Backflow Preventer With Intermediate Atmospheric Vent
+
+608.13.3 Backflow Preventer With Intermediate Atmospheric Vent
+Backflow preventers
+with intermediate atmospheric vents shall conform to ASSE 1012 or CSA B64.3. These devices shall be permitted to be installed where subject to continuous pressure conditions. The relief opening shall discharge by
+air gap
+and shall be prevented from being submerged.
+
+---
+
+Backflow preventers
+with intermediate atmospheric vents shall conform to ASSE 1012 or CSA B64.3. These devices shall be permitted to be installed where subject to continuous pressure conditions. The relief opening shall discharge by
+air gap
+and shall be prevented from being submerged.
+
+---
+
+## Section 608.13.4: Barometric Loop
+
+608.13.4 Barometric Loop
+Barometric loops shall precede the point of connection and shall extend vertically to a height of 35 feet (10 668 mm). A barometric loop shall only be utilized as an atmospheric-type or pressure-type
+vacuum breaker
+.
+
+---
+
+Barometric loops shall precede the point of connection and shall extend vertically to a height of 35 feet (10 668 mm). A barometric loop shall only be utilized as an atmospheric-type or pressure-type
+vacuum breaker
+.
+
+---
+
+## Section 608.13.5: Pressure Vacuum Breaker Assemblies
+
+608.13.5 Pressure Vacuum Breaker Assemblies
+Pressure
+vacuum breaker
+assemblies shall conform to ASSE 1020 or CSA B64.1.2. Spill-resistant
+vacuum breaker
+assemblies shall comply with ASSE 1056. These assemblies are designed for installation under continuous
+pressure
+conditions where the
+critical level
+is installed at the required height. Pressure
+vacuum breaker
+assemblies shall not be installed in
+locations
+where spillage could cause damage to the structure.
+
+---
+
+Pressure
+vacuum breaker
+assemblies shall conform to ASSE 1020 or CSA B64.1.2. Spill-resistant
+vacuum breaker
+assemblies shall comply with ASSE 1056. These assemblies are designed for installation under continuous
+pressure
+conditions where the
+critical level
+is installed at the required height. Pressure
+vacuum breaker
+assemblies shall not be installed in
+locations
+where spillage could cause damage to the structure.
+
+---
+
+## Section 608.13.6: Atmospheric-Type Vacuum Breakers
+
+608.13.6 Atmospheric-Type Vacuum Breakers
+Pipe applied atmospheric-type
+vacuum breakers
+shall conform to ASSE 1001 or CSA B64.1.1. Hose-connection
+vacuum breakers
+shall conform to ASME A112.21.3, ASSE 1011, ASSE 1019, ASSE 1035, ASSE 1052, CSA B64.2, CSA B64.2.1, CSA B64.2.1.1, CSA B64.2.2 or CSA B64.7. These devices shall operate under normal atmospheric pressure when the
+critical level
+is installed at the required height.
+
+---
+
+Pipe applied atmospheric-type
+vacuum breakers
+shall conform to ASSE 1001 or CSA B64.1.1. Hose-connection
+vacuum breakers
+shall conform to ASME A112.21.3, ASSE 1011, ASSE 1019, ASSE 1035, ASSE 1052, CSA B64.2, CSA B64.2.1, CSA B64.2.1.1, CSA B64.2.2 or CSA B64.7. These devices shall operate under normal atmospheric pressure when the
+critical level
+is installed at the required height.
+
+---
+
+## Section 608.13.7: Double Check Backflow Prevention Assemblies
+
+608.13.7 Double Check Backflow Prevention Assemblies
+Double check
+backflow
+prevention assemblies shall conform to ASSE 1015, CSA B64.5, CSA B64.5.1 or AWWA C510. Double check detector fire
+protection
+backflow
+prevention assemblies shall conform to ASSE 1048. These assemblies shall be capable of operating under continuous pressure conditions.
+Building products (2)
+
+---
+
+Double check
+backflow
+prevention assemblies shall conform to ASSE 1015, CSA B64.5, CSA B64.5.1 or AWWA C510. Double check detector fire
+protection
+backflow
+prevention assemblies shall conform to ASSE 1048. These assemblies shall be capable of operating under continuous pressure conditions.
+
+---
+
+## Section 608.13.8: Spill-Resistant Pressure Vacuum Breaker Assemblies
+
+608.13.8 Spill-Resistant Pressure Vacuum Breaker Assemblies
+Spill-resistant pressure
+vacuum breaker
+assemblies shall conform to ASSE 1056 or CSA B64.1.3. These assemblies are designed for installation under continuous-
+pressure
+conditions where the
+critical level
+is installed at the required height.
+
+---
+
+Spill-resistant pressure
+vacuum breaker
+assemblies shall conform to ASSE 1056 or CSA B64.1.3. These assemblies are designed for installation under continuous-
+pressure
+conditions where the
+critical level
+is installed at the required height.
+
+---
+
+## Section 608.13.9: Chemical Dispenser Backflow Devices
+
+608.13.9 Chemical Dispenser Backflow Devices
+Backflow
+devices for chemical dispensers shall comply with ASSE 1055 or shall be equipped with an air gap fitting.
+
+---
+
+Backflow
+devices for chemical dispensers shall comply with ASSE 1055 or shall be equipped with an air gap fitting.
+
+---
+
+## Section 608.13.10: Dual Check Backflow Preventer
+
+608.13.10 Dual Check Backflow Preventer
+Dual check
+backflow preventers
+shall conform to ASSE 1024 or CSA B64.6.
+
+---
+
+Dual check
+backflow preventers
+shall conform to ASSE 1024 or CSA B64.6.
+
+---
+
+## Section 608.14: Location of Backflow Preventers
+
+608.14 Location of Backflow Preventers
+Access
+shall be provided to
+backflow preventers
+as specified by the manufacturer's instructions.
+
+---
+
+Access
+shall be provided to
+backflow preventers
+as specified by the manufacturer's instructions.
+
+---
+
+## Section 608.14.1: Outdoor Enclosures for Backflow Prevention Devices
+
+608.14.1 Outdoor Enclosures for Backflow Prevention Devices
+Outdoor enclosures for
+backflow
+prevention devices shall comply with ASSE 1060.
+
+---
+
+Outdoor enclosures for
+backflow
+prevention devices shall comply with ASSE 1060.
+
+---
+
+## Section 608.14.2: Protection of Backflow Preventers
+
+608.14.2 Protection of Backflow Preventers
+Backflow preventers
+shall not be located in areas subject to freezing except where they can be removed by means of unions or are protected from freezing by heat, insulation or both.
+
+---
+
+Backflow preventers
+shall not be located in areas subject to freezing except where they can be removed by means of unions or are protected from freezing by heat, insulation or both.
+
+---
+
+## Section 608.14.2.1: Relief Port Piping
+
+608.14.2.1 Relief Port Piping
+The termination of the piping from the relief port or air gap fitting of a
+backflow preventer
+shall discharge to an
+approved
+indirect
+waste receptor
+or to the outdoors where it will not cause damage or create a nuisance.
+
+---
+
+The termination of the piping from the relief port or air gap fitting of a
+backflow preventer
+shall discharge to an
+approved
+indirect
+waste receptor
+or to the outdoors where it will not cause damage or create a nuisance.
+
+---
+
+## Section 608.15: Protection of Potable Water Outlets
+
+608.15 Protection of Potable Water Outlets
+All
+potable water
+openings and outlets shall be protected against
+backflow
+in accordance with
+Section 608.15.1
+,
+608.15.2
+,
+608.15.3
+,
+608.15.4
+,
+608.15.4.1
+or
+608.15.4.2
+.
+UpCodes Diagram (1)
+
+---
+
+All
+potable water
+openings and outlets shall be protected against
+backflow
+in accordance with
+Section 608.15.1
+,
+608.15.2
+,
+608.15.3
+,
+608.15.4
+,
+608.15.4.1
+or
+608.15.4.2
+.
+
+---
+
+## Section 608.15.1: Protection by Air Gap
+
+608.15.1 Protection by Air Gap
+Openings and outlets shall be protected by an
+air gap
+between the opening and the fixture
+flood level rim
+as specified in Table 608.15.1. Openings and outlets equipped for hose connection shall be protected by means other than an air gap.
+TABLE 608.15.1
+MINIMUM REQUIRED AIR GAPS
+FIXTURE
+MINIMUM AIR GAP
+Away from a wall
+a
+(inches)
+Close to a wall (inches)
+Lavatories and other fixtures with
+effective openings
+not greater than
+1
+/
+2
+inch in
+diameter
+1
+1
+1
+/
+2
+Sinks, laundry trays, gooseneck back
+faucets
+and other fixtures with effective
+openings not greater than
+3
+/
+4
+inch in diameter
+1
+1
+/
+2
+2
+1
+/
+2
+Over-rim bath fillers and other fixtures with
+effective openings
+not greater
+than 1 inch in diameter
+2
+3
+Drinking
+water
+fountains, single orifice not greater than
+7
+/
+16
+inch in diameter
+or multiple orifices with a total area of 0.150 square inch (area of circle
+7
+/
+16
+inch in diameter)
+1
+1
+1
+/
+2
+Effective openings
+greater than 1 inch
+Two times the diameter
+of the
+effective opening
+Three times the diameter
+of the
+effective opening
+For SI: 1 inch = 25.4 mm. 1 square inch = 645 mm
+2
+.
+a. Applicable where walls or obstructions are spaced from the nearest inside-edge of the spout opening a distance greater than three times the diameter of the
+effective opening
+for a single wall, or a distance greater than four times the diameter of the
+effective opening
+for two intersecting walls.
+
+---
+
+Openings and outlets shall be protected by an
+air gap
+between the opening and the fixture
+flood level rim
+as specified in Table 608.15.1. Openings and outlets equipped for hose connection shall be protected by means other than an air gap.
+TABLE 608.15.1
+MINIMUM REQUIRED AIR GAPS
+FIXTURE
+MINIMUM AIR GAP
+Away from a wall
+a
+(inches)
+Close to a wall (inches)
+Lavatories and other fixtures with
+effective openings
+not greater than
+1
+/
+2
+inch in
+diameter
+1
+1
+1
+/
+2
+Sinks, laundry trays, gooseneck back
+faucets
+and other fixtures with effective
+openings not greater than
+3
+/
+4
+inch in diameter
+1
+1
+/
+2
+2
+1
+/
+2
+Over-rim bath fillers and other fixtures with
+effective openings
+not greater
+than 1 inch in diameter
+2
+3
+Drinking
+water
+fountains, single orifice not greater than
+7
+/
+16
+inch in diameter
+or multiple orifices with a total area of 0.150 square inch (area of circle
+7
+/
+16
+inch in diameter)
+1
+1
+1
+/
+2
+Effective openings
+greater than 1 inch
+Two times the diameter
+of the
+effective opening
+Three times the diameter
+of the
+effective opening
+For SI: 1 inch = 25.4 mm. 1 square inch = 645 mm
+2
+.
+a. Applicable where walls or obstructions are spaced from the nearest inside-edge of the spout opening a distance greater than three times the diameter of the
+effective opening
+for a single wall, or a distance greater than four times the diameter of the
+effective opening
+for two intersecting walls.
+
+---
+
+## Section 608.15.2: Protection by Reduced Pressure Principle Backflow Prevention Assembly
+
+608.15.2 Protection by Reduced Pressure Principle Backflow Prevention Assembly
+Openings and outlets shall be protected by a reduced pressure principle
+backflow
+prevention assembly or a reduced pressure principle fire
+protection
+backflow
+prevention assembly on potable
+water supplies
+.
+
+---
+
+Openings and outlets shall be protected by a reduced pressure principle
+backflow
+prevention assembly or a reduced pressure principle fire
+protection
+backflow
+prevention assembly on potable
+water supplies
+.
+
+---
+
+## Section 608.15.3: Protection by a Backflow Preventer With Intermediate Atmospheric Vent
+
+608.15.3 Protection by a Backflow Preventer With Intermediate Atmospheric Vent
+Openings and outlets shall be protected by a
+backflow preventer
+with an intermediate atmospheric vent.
+
+---
+
+Openings and outlets shall be protected by a
+backflow preventer
+with an intermediate atmospheric vent.
+
+---
+
+## Section 608.15.4: Protection by a Vacuum Breaker
+
+608.15.4 Protection by a Vacuum Breaker
+Openings and outlets shall be protected by atmospheric-type or pressure-type
+vacuum breakers
+. The
+critical level
+of the
+vacuum breaker
+shall be set not less than 6 inches (152 mm) above the
+flood level rim
+of the fixture or device.
+Fill valves
+shall be set in accordance with
+Section 425.3.1
+.
+Vacuum breakers
+shall not be installed under exhaust hoods or similar that will contain toxic fumes or vapors. Pipe-applied
+vacuum breakers
+shall be installed not less than 6 inches (152 mm) above the
+flood level rim
+of the fixture, receptor or device served.
+
+---
+
+Openings and outlets shall be protected by atmospheric-type or pressure-type
+vacuum breakers
+. The
+critical level
+of the
+vacuum breaker
+shall be set not less than 6 inches (152 mm) above the
+flood level rim
+of the fixture or device.
+Fill valves
+shall be set in accordance with
+Section 425.3.1
+.
+Vacuum breakers
+shall not be installed under exhaust hoods or similar that will contain toxic fumes or vapors. Pipe-applied
+vacuum breakers
+shall be installed not less than 6 inches (152 mm) above the
+flood level rim
+of the fixture, receptor or device served.
+
+---
+
+## Section 608.15.4.1: Deck-Mounted and Integral Vacuum Breakers
+
+608.15.4.1 Deck-Mounted and Integral Vacuum Breakers
+Approved
+deck-mounted or equipment-mounted
+vacuum breakers
+and
+faucets
+with integral atmospheric
+vacuum breakers
+or spill-resistant
+vacuum breaker
+assemblies shall be installed in accordance with the manufacturer's instructions and the requirements for labeling with the
+critical level
+not less than 1 inch (25 mm) above the
+flood level rim
+.
+
+---
+
+Approved
+deck-mounted or equipment-mounted
+vacuum breakers
+and
+faucets
+with integral atmospheric
+vacuum breakers
+or spill-resistant
+vacuum breaker
+assemblies shall be installed in accordance with the manufacturer's instructions and the requirements for labeling with the
+critical level
+not less than 1 inch (25 mm) above the
+flood level rim
+.
+
+---
+
+## Section 608.15.4.2: Hose Connections
+
+608.15.4.2 Hose Connections
+Sillcocks, hose bibbs, wall hydrants and other openings with a hose connection shall be protected by an atmospheric-type or pressure-type
+vacuum breaker
+or a permanently attached hose connection
+vacuum breaker
+.
+Exceptions:
+This section shall not apply to
+water heater
+and boiler
+drain valves
+that are provided with hose connection threads and that are intended only for tank or vessel draining.
+This section shall not apply to
+water supply
+valves intended for connection of clothes washing machines where
+backflow
+prevention is otherwise provided or is integral with the machine.
+UpCodes Diagram (1)
+
+---
+
+Sillcocks, hose bibbs, wall hydrants and other openings with a hose connection shall be protected by an atmospheric-type or pressure-type
+vacuum breaker
+or a permanently attached hose connection
+vacuum breaker
+.
+Exceptions:
+This section shall not apply to
+water heater
+and boiler
+drain valves
+that are provided with hose connection threads and that are intended only for tank or vessel draining.
+This section shall not apply to
+water supply
+valves intended for connection of clothes washing machines where
+backflow
+prevention is otherwise provided or is integral with the machine.
+
+---
+
+## Section 608.16: Connections to the Potable Water System
+
+608.16 Connections to the Potable Water System
+Connections
+to the
+potable water
+system shall conform to Sections
+608.16.1
+through
+608.16.10
+.
+
+---
+
+Connections
+to the
+potable water
+system shall conform to Sections
+608.16.1
+through
+608.16.10
+.
+
+---
+
+## Section 608.16.1: Beverage Dispensers
+
+608.16.1 Beverage Dispensers
+The
+water supply
+connection to beverage dispensers shall be protected against
+backflow
+by a
+backflow preventer
+conforming to ASSE 1022 or by an
+air gap
+. The portion of the
+backflow preventer
+device downstream from the second check valve and the piping downstream therefrom shall not be affected by carbon dioxide gas.
+
+---
+
+The
+water supply
+connection to beverage dispensers shall be protected against
+backflow
+by a
+backflow preventer
+conforming to ASSE 1022 or by an
+air gap
+. The portion of the
+backflow preventer
+device downstream from the second check valve and the piping downstream therefrom shall not be affected by carbon dioxide gas.
+
+---
+
+## Section 608.16.2: Connections to Boilers
+
+608.16.2 Connections to Boilers
+The potable supply to the boiler shall be protected by an air gap or a
+reduced pressure principle backflow preventer
+, complying with ASSE 1013, CSA B64.4 or AWWA C511.
+Exception:
+An atmospheric vent complying with ASSE 1012 or CSA B64.3 may be installed in buildings classified as
+Occupancy
+Group R-3 and which do not utilize conditioning chemicals.
+
+---
+
+The potable supply to the boiler shall be protected by an air gap or a
+reduced pressure principle backflow preventer
+, complying with ASSE 1013, CSA B64.4 or AWWA C511.
+Exception:
+An atmospheric vent complying with ASSE 1012 or CSA B64.3 may be installed in buildings classified as
+Occupancy
+Group R-3 and which do not utilize conditioning chemicals.
+
+---
+
+## Section 608.16.3: Heat Exchangers
+
+608.16.3 Heat Exchangers
+Heat exchangers utilizing an
+essentially toxic transfer fluid
+shall be separated from the
+potable water
+by double-wall construction. An
+air gap
+open to the atmosphere shall be provided between the two walls. Heat exchangers utilizing an
+essentially nontoxic transfer fluid
+shall be permitted to be of single-wall construction.
+Exceptions:
+Double-wall construction shall not be required for the following:
+Heat exchangers supplied directly from the Consolidated Edison steam system; and
+Low-pressure steam-heating boilers
+.
+
+---
+
+Heat exchangers utilizing an
+essentially toxic transfer fluid
+shall be separated from the
+potable water
+by double-wall construction. An
+air gap
+open to the atmosphere shall be provided between the two walls. Heat exchangers utilizing an
+essentially nontoxic transfer fluid
+shall be permitted to be of single-wall construction.
+Exceptions:
+Double-wall construction shall not be required for the following:
+Heat exchangers supplied directly from the Consolidated Edison steam system; and
+Low-pressure steam-heating boilers
+.
+
+---
+
+## Section 608.16.4: Connections to Automatic Fire Sprinkler Systems and Standpipe Systems
+
+608.16.4 Connections to Automatic Fire Sprinkler Systems and Standpipe Systems
+The
+potable water
+supply to automatic fire sprinkler and standpipe systems shall be protected against
+backflow
+by a double check
+backflow
+prevention assembly, a double check detector fire
+protection
+backflow
+prevention assembly, reduced pressure principle
+backflow
+prevention assembly, or a reduced pressure detector fire
+protection
+backflow
+prevention assembly.
+Exceptions:
+Where systems are installed as a portion of the
+water
+distribution system in accordance with the requirements of this code and are not provided with a fire department connection, isolation of the
+water supply system
+shall not be required.
+Isolation of the
+water
+distribution system is not required for deluge, preaction or dry pipe systems.
+UpCodes Diagram (1)
+
+---
+
+The
+potable water
+supply to automatic fire sprinkler and standpipe systems shall be protected against
+backflow
+by a double check
+backflow
+prevention assembly, a double check detector fire
+protection
+backflow
+prevention assembly, reduced pressure principle
+backflow
+prevention assembly, or a reduced pressure detector fire
+protection
+backflow
+prevention assembly.
+Exceptions:
+Where systems are installed as a portion of the
+water
+distribution system in accordance with the requirements of this code and are not provided with a fire department connection, isolation of the
+water supply system
+shall not be required.
+Isolation of the
+water
+distribution system is not required for deluge, preaction or dry pipe systems.
+
+---
+
+## Section 608.16.4.1: Additives or Nonpotable Source
+
+608.16.4.1 Additives or Nonpotable Source
+Where systems under continuous pressure contain chemical additives or antifreeze, or where systems are connected to a nonpotable secondary
+water supply
+, the
+potable water
+supply shall be protected against
+backflow
+by a reduced pressure principle
+backflow
+prevention assembly or a reduced pressure detector fire
+protection
+backflow
+prevention assembly. Where chemical additives or antifreeze are added to only a portion of an automatic fire sprinkler or standpipe system, the reduced pressure principle
+backflow
+prevention assembly or the reduced pressure detector fire
+protection
+backflow
+prevention assembly shall be permitted to be located so as to isolate that portion of the system. Where systems are not under continuous pressure, the
+potable water
+supply shall be protected against
+backflow
+by an air gap or an atmospheric
+vacuum breaker
+conforming to ASSE 1001or CSA B64.1.1.
+
+---
+
+Where systems under continuous pressure contain chemical additives or antifreeze, or where systems are connected to a nonpotable secondary
+water supply
+, the
+potable water
+supply shall be protected against
+backflow
+by a reduced pressure principle
+backflow
+prevention assembly or a reduced pressure detector fire
+protection
+backflow
+prevention assembly. Where chemical additives or antifreeze are added to only a portion of an automatic fire sprinkler or standpipe system, the reduced pressure principle
+backflow
+prevention assembly or the reduced pressure detector fire
+protection
+backflow
+prevention assembly shall be permitted to be located so as to isolate that portion of the system. Where systems are not under continuous pressure, the
+potable water
+supply shall be protected against
+backflow
+by an air gap or an atmospheric
+vacuum breaker
+conforming to ASSE 1001or CSA B64.1.1.
+
+---
+
+## Section 608.16.5: Connections to Lawn Irrigation Systems
+
+608.16.5 Connections to Lawn Irrigation Systems
+The
+potable water
+supply to lawn irrigation systems shall be protected against
+backflow
+by an atmospheric
+vacuum breaker
+, a
+pressure
+vacuum breaker
+assembly or a reduced
+pressure
+principle
+backflow
+prevention assembly. Valves shall not be installed downstream from an atmospheric
+vacuum breaker
+. Where chemicals are introduced into the system, the
+potable water
+supply shall be protected against
+backflow
+by a reduced pressure principle
+backflow
+prevention assembly.
+
+---
+
+The
+potable water
+supply to lawn irrigation systems shall be protected against
+backflow
+by an atmospheric
+vacuum breaker
+, a
+pressure
+vacuum breaker
+assembly or a reduced
+pressure
+principle
+backflow
+prevention assembly. Valves shall not be installed downstream from an atmospheric
+vacuum breaker
+. Where chemicals are introduced into the system, the
+potable water
+supply shall be protected against
+backflow
+by a reduced pressure principle
+backflow
+prevention assembly.
+
+---
+
+## Section 608.16.6: Connections Subject to Backpressure
+
+608.16.6 Connections Subject to Backpressure
+Where a
+potable water
+connection is made to a nonpotable line, fixture, tank, vat, pump, cooling tower or other equipment subject to high-hazard
+backpressure
+, the
+potable water
+connection shall be protected by a reduced pressure principle
+backflow
+prevention assembly.
+
+---
+
+Where a
+potable water
+connection is made to a nonpotable line, fixture, tank, vat, pump, cooling tower or other equipment subject to high-hazard
+backpressure
+, the
+potable water
+connection shall be protected by a reduced pressure principle
+backflow
+prevention assembly.
+
+---
+
+## Section 608.16.7: Chemical Dispensers
+
+608.16.7 Chemical Dispensers
+Where chemical dispensers connect to the
+potable water
+distribution system, the
+water supply system
+shall be protected against
+backflow
+in accordance with
+Section 608.13.1
+,
+608.13.2
+,
+608.13.5
+,
+608.13.6
+,
+608.13.8
+or
+608.13.9
+.
+
+---
+
+Where chemical dispensers connect to the
+potable water
+distribution system, the
+water supply system
+shall be protected against
+backflow
+in accordance with
+Section 608.13.1
+,
+608.13.2
+,
+608.13.5
+,
+608.13.6
+,
+608.13.8
+or
+608.13.9
+.
+
+---
+
+## Section 608.16.8: Portable Cleaning Equipment
+
+608.16.8 Portable Cleaning Equipment
+Where the portable cleaning equipment connects to the
+water
+distribution system, the
+water supply system
+shall be protected against
+backflow
+in accordance with
+Section 608.13.1
+,
+608.13.2
+,
+608.13.3
+,
+608.13.7
+or
+608.13.8
+.
+
+---
+
+Where the portable cleaning equipment connects to the
+water
+distribution system, the
+water supply system
+shall be protected against
+backflow
+in accordance with
+Section 608.13.1
+,
+608.13.2
+,
+608.13.3
+,
+608.13.7
+or
+608.13.8
+.
+
+---
+
+## Section 608.16.9: Dental Pump Equipment
+
+608.16.9 Dental Pump Equipment
+Where dental pumping equipment connects to the
+water
+distribution system, the
+water supply system
+shall be protected against
+backflow
+in accordance with
+Section 608.13.1
+,
+608.13.2
+,
+608.13.5
+,
+608.13.6
+or
+608.13.8
+.
+
+---
+
+Where dental pumping equipment connects to the
+water
+distribution system, the
+water supply system
+shall be protected against
+backflow
+in accordance with
+Section 608.13.1
+,
+608.13.2
+,
+608.13.5
+,
+608.13.6
+or
+608.13.8
+.
+
+---
+
+## Section 608.16.10: Coffee Machines and Noncarbonated Beverage Dispensers
+
+608.16.10 Coffee Machines and Noncarbonated Beverage Dispensers
+The
+water supply
+connection to coffee machines and noncarbonated beverage dispensers shall be protected against
+backflow
+by a
+backflow preventer
+conforming to ASSE 1022 or by an air gap.
+
+---
+
+The
+water supply
+connection to coffee machines and noncarbonated beverage dispensers shall be protected against
+backflow
+by a
+backflow preventer
+conforming to ASSE 1022 or by an air gap.
+
+---
+
+## Section 608.17: Protection of Individual Water Supplies
+
+608.17 Protection of Individual Water Supplies
+An
+individual water supply
+shall be located and constructed so as to be safeguarded against
+contamination
+in accordance with Sections
+608.17.1
+through
+608.17.8
+.
+
+---
+
+An
+individual water supply
+shall be located and constructed so as to be safeguarded against
+contamination
+in accordance with Sections
+608.17.1
+through
+608.17.8
+.
+
+---
+
+## Section 608.17.1: Well Locations
+
+608.17.1 Well Locations
+A potable ground
+water
+source or pump suction line shall not be located closer to potential sources of
+contamination
+than the distances shown in Table 608.17.1. In the event the underlying rock structure is limestone or fragmented shale, the local or state health department shall be consulted on well site
+location
+. The distances in Table 608.17.1 constitute minimum separation and shall be increased in areas of creviced rock or limestone, or where the direction of movement of the ground
+water
+is from sources of
+contamination
+toward the well.
+TABLE 608.17.1
+DISTANCE FROM
+CONTAMINATION
+TO
+PRIVATE
+WATER SUPPLIES
+AND PUMP SUCTION LINES
+SOURCE OF
+CONTAMINATION
+DISTANCE (feet)
+Barnyard
+100
+Farm silo
+25
+Pasture
+100
+Pumphouse
+floor drain
+of cast iron draining
+to ground surface
+2
+Seepage pits
+50
+Septic tank
+25
+Sewer
+10
+Subsurface disposal fields
+50
+Subsurface pits
+50
+For SI: 1 foot = 304.8 mm.
+
+---
+
+A potable ground
+water
+source or pump suction line shall not be located closer to potential sources of
+contamination
+than the distances shown in Table 608.17.1. In the event the underlying rock structure is limestone or fragmented shale, the local or state health department shall be consulted on well site
+location
+. The distances in Table 608.17.1 constitute minimum separation and shall be increased in areas of creviced rock or limestone, or where the direction of movement of the ground
+water
+is from sources of
+contamination
+toward the well.
+TABLE 608.17.1
+DISTANCE FROM
+CONTAMINATION
+TO
+PRIVATE
+WATER SUPPLIES
+AND PUMP SUCTION LINES
+SOURCE OF
+CONTAMINATION
+DISTANCE (feet)
+Barnyard
+100
+Farm silo
+25
+Pasture
+100
+Pumphouse
+floor drain
+of cast iron draining
+to ground surface
+2
+Seepage pits
+50
+Septic tank
+25
+Sewer
+10
+Subsurface disposal fields
+50
+Subsurface pits
+50
+For SI: 1 foot = 304.8 mm.
+
+---
+
+## Section 608.17.2: Elevation
+
+608.17.2 Elevation
+Well sites shall be positively drained and shall be at higher elevations than potential sources of
+contamination
+.
+
+---
+
+Well sites shall be positively drained and shall be at higher elevations than potential sources of
+contamination
+.
+
+---
+
+## Section 608.17.3: Depth
+
+608.17.3 Depth
+Private
+potable well supplies shall not be developed from a
+water
+table less than 10 feet (3048 mm) below the ground surface.
+
+---
+
+Private
+potable well supplies shall not be developed from a
+water
+table less than 10 feet (3048 mm) below the ground surface.
+
+---
+
+## Section 608.17.4: Water-Tight Casings
+
+608.17.4 Water-Tight Casings
+Each well shall be provided with a
+water
+-tight casing extending to 10 feet (3048 mm) below the ground surface. Casings shall extend not less than 6 inches (152 mm) above the well platform. Casing shall be large enough to permit installation of a separate drop pipe. Casings shall be sealed at the bottom in an impermeable stratum or extend several feet into the
+water
+-bearing stratum.
+
+---
+
+Each well shall be provided with a
+water
+-tight casing extending to 10 feet (3048 mm) below the ground surface. Casings shall extend not less than 6 inches (152 mm) above the well platform. Casing shall be large enough to permit installation of a separate drop pipe. Casings shall be sealed at the bottom in an impermeable stratum or extend several feet into the
+water
+-bearing stratum.
+
+---
+
+## Section 608.17.5: Drilled or Driven Well Casings
+
+608.17.5 Drilled or Driven Well Casings
+Drilled
+or
+driven
+well casings shall be of steel or other
+approved
+material. Where
+drilled
+wells extend into a rock formation, the well casing shall extend to and set firmly in the formation. The annular space between the earth and the outside of the casing shall be filled with cement grout to a depth of not less than 10 feet (3048 mm) below the ground surface. In an instance of casing to rock installation, the grout shall extend to the rock surface.
+
+---
+
+Drilled
+or
+driven
+well casings shall be of steel or other
+approved
+material. Where
+drilled
+wells extend into a rock formation, the well casing shall extend to and set firmly in the formation. The annular space between the earth and the outside of the casing shall be filled with cement grout to a depth of not less than 10 feet (3048 mm) below the ground surface. In an instance of casing to rock installation, the grout shall extend to the rock surface.
+
+---
+
+## Section 608.17.6: Dug or Bored Well Casings
+
+608.17.6 Dug or Bored Well Casings
+Dug or
+bored
+well casings shall be of
+water
+-tight concrete, tile or galvanized or corrugated metal pipe extending to not less than 10 feet (3048 mm) below the ground surface. Where the
+water
+table is more than 10 feet (3048 mm) below the ground surface, the
+water
+-tight casing shall extend below the table surface. Well casings for dug wells or
+bored
+wells constructed with sections of concrete, tile or galvanized or corrugated metal pipe shall be surrounded by 6 inches (152 mm) of grout poured into the hole between the outside of the casing and the ground and extending not less than 10 feet (3048 mm) below the ground surface.
+
+---
+
+Dug or
+bored
+well casings shall be of
+water
+-tight concrete, tile or galvanized or corrugated metal pipe extending to not less than 10 feet (3048 mm) below the ground surface. Where the
+water
+table is more than 10 feet (3048 mm) below the ground surface, the
+water
+-tight casing shall extend below the table surface. Well casings for dug wells or
+bored
+wells constructed with sections of concrete, tile or galvanized or corrugated metal pipe shall be surrounded by 6 inches (152 mm) of grout poured into the hole between the outside of the casing and the ground and extending not less than 10 feet (3048 mm) below the ground surface.
+
+---
+
+## Section 608.17.7: Cover
+
+608.17.7 Cover
+Potable water
+wells shall be equipped with an overlapping
+water
+-tight cover at the top of the well casing or pipe sleeve such that contaminated
+water
+or other substances are prevented from entering the well through the annular opening at the top of the well casing, wall or pipe sleeve. Covers shall extend downward not less than 2 inches (51 mm) over the outside of the well casing or wall. A dug well cover shall be provided with a pipe sleeve permitting the withdrawal of the pump suction pipe, cylinder or jet body without disturbing the cover. Where pump sections or
+discharge pipes
+enter or leave a well through the side of the casing, the circle of contact shall be
+water
+tight.
+
+---
+
+Potable water
+wells shall be equipped with an overlapping
+water
+-tight cover at the top of the well casing or pipe sleeve such that contaminated
+water
+or other substances are prevented from entering the well through the annular opening at the top of the well casing, wall or pipe sleeve. Covers shall extend downward not less than 2 inches (51 mm) over the outside of the well casing or wall. A dug well cover shall be provided with a pipe sleeve permitting the withdrawal of the pump suction pipe, cylinder or jet body without disturbing the cover. Where pump sections or
+discharge pipes
+enter or leave a well through the side of the casing, the circle of contact shall be
+water
+tight.
+
+---
+
+## Section 608.17.8: Drainage
+
+608.17.8 Drainage
+Potable water
+wells and springs shall be constructed such that surface
+drainage
+will be diverted away from the well or spring.
+
+---
+
+Potable water
+wells and springs shall be constructed such that surface
+drainage
+will be diverted away from the well or spring.
+
+---
+
+Section 609 Health Care Plumbing
+
+---
+
+## Section 609.1: Scope
+
+609.1 Scope
+This section shall govern those aspects of health care
+plumbing systems
+that differ from
+plumbing systems
+in other structures. Health care
+plumbing systems
+shall conform to the requirements of this section in addition to the other requirements of this code. The provisions of this section shall apply to the special devices and equipment installed and maintained in the following
+occupancies
+: hospitals,nursing homes, homes for the aged, orphanages, infirmaries, first aid stations, psychiatric facilities, clinics, professional offices of dentists and doctors, mortuaries, educational facilities, surgery, dentistry, research and testing laboratories, establishments manufacturing pharmaceutical drugs and medicines, animal care facilities, and other structures with similar apparatus and equipment classified as
+plumbing
+.
+
+---
+
+This section shall govern those aspects of health care
+plumbing systems
+that differ from
+plumbing systems
+in other structures. Health care
+plumbing systems
+shall conform to the requirements of this section in addition to the other requirements of this code. The provisions of this section shall apply to the special devices and equipment installed and maintained in the following
+occupancies
+: hospitals,nursing homes, homes for the aged, orphanages, infirmaries, first aid stations, psychiatric facilities, clinics, professional offices of dentists and doctors, mortuaries, educational facilities, surgery, dentistry, research and testing laboratories, establishments manufacturing pharmaceutical drugs and medicines, animal care facilities, and other structures with similar apparatus and equipment classified as
+plumbing
+.
+
+---
+
+## Section 609.2: Water Service
+
+609.2 Water Service
+Hospitals shall have two
+water service pipes
+installed in such a manner so as to minimize the potential for an interruption of the supply of
+water
+in the event of a
+water main
+or
+water service pipe
+failure.
+
+---
+
+Hospitals shall have two
+water service pipes
+installed in such a manner so as to minimize the potential for an interruption of the supply of
+water
+in the event of a
+water main
+or
+water service pipe
+failure.
+
+---
+
+## Section 609.3: Hot Water
+
+609.3 Hot Water
+Hot water
+shall be provided to supply all of the hospital fixture, kitchen and laundry requirements. Special fixtures and equipment shall have
+hot water
+supplied at a temperature specified by the manufacturer. The
+hot water
+system shall be installed in accordance with
+Section 607
+.
+
+---
+
+Hot water
+shall be provided to supply all of the hospital fixture, kitchen and laundry requirements. Special fixtures and equipment shall have
+hot water
+supplied at a temperature specified by the manufacturer. The
+hot water
+system shall be installed in accordance with
+Section 607
+.
+
+---
+
+## Section 609.4: Vacuum Breaker Installation
+
+609.4 Vacuum Breaker Installation
+Vacuum breakers
+shall be installed not less than 6 inches (152 mm) above the
+flood level rim
+of the fixture or device in accordance with
+Section 608
+. The
+flood level rim
+of hose
+connections
+shall be the maximum height at which any hose is utilized.
+
+---
+
+Vacuum breakers
+shall be installed not less than 6 inches (152 mm) above the
+flood level rim
+of the fixture or device in accordance with
+Section 608
+. The
+flood level rim
+of hose
+connections
+shall be the maximum height at which any hose is utilized.
+
+---
+
+## Section 609.5: Prohibited Water Closet and Clinical Sink Supply
+
+609.5 Prohibited Water Closet and Clinical Sink Supply
+Jet- or
+water
+-supplied orifices, except those supplied by the flush
+connections
+, shall not be located in or connected with a
+water
+closet bowl or clinical sink. This section shall not prohibit an
+approved
+bidet installation.
+
+---
+
+Jet- or
+water
+-supplied orifices, except those supplied by the flush
+connections
+, shall not be located in or connected with a
+water
+closet bowl or clinical sink. This section shall not prohibit an
+approved
+bidet installation.
+
+---
+
+## Section 609.6: Clinical, Hydrotherapeutic and Radiological Equipment
+
+609.6 Clinical, Hydrotherapeutic and Radiological Equipment
+Clinical, hydrotherapeutic, radiological or any equipment that is supplied with
+water
+or that discharges to the
+waste
+system shall conform to the requirements of this section and
+Section 608
+.
+
+---
+
+Clinical, hydrotherapeutic, radiological or any equipment that is supplied with
+water
+or that discharges to the
+waste
+system shall conform to the requirements of this section and
+Section 608
+.
+
+---
+
+## Section 609.7: Condensate Drain Trap Seal
+
+609.7 Condensate Drain Trap Seal
+A
+water supply
+shall be provided for cleaning, flushing and resealing the condensate
+trap
+, and the
+trap
+shall discharge through an air gap in accordance with
+Section 608
+.
+
+---
+
+A
+water supply
+shall be provided for cleaning, flushing and resealing the condensate
+trap
+, and the
+trap
+shall discharge through an air gap in accordance with
+Section 608
+.
+
+---
+
+## Section 609.8: Valve Leakage Diverter
+
+609.8 Valve Leakage Diverter
+Each
+water
+sterilizer
+filled with
+water
+through directly connected piping shall be equipped with an
+approved
+leakage diverter or bleed line on the
+water supply
+control valve to indicate and conduct any leakage of unsterile
+water
+away from the sterile zone.
+
+---
+
+Each
+water
+sterilizer
+filled with
+water
+through directly connected piping shall be equipped with an
+approved
+leakage diverter or bleed line on the
+water supply
+control valve to indicate and conduct any leakage of unsterile
+water
+away from the sterile zone.
+
+---
+
+Section 610 Disinfection of Potable Water System
+
+---
+
+## Section 610.1: General
+
+610.1 General
+Potable water
+systems shall be purged of deleterious matter and disinfected prior to utilization. The method to be followed shall be that prescribed by the health authority or
+water
+purveyor having jurisdiction or, in the absence of a prescribed method, the procedure described in either AWWA C651 or AWWA C652, or as described in this section. This requirement shall apply to "on-site" or "implant" fabrication of a system or to a modular portion of a system.
+The pipe system shall be flushed with clean,
+potable water
+until dirty
+water
+does not appear at the points of outlet.
+The system or part thereof shall be filled with a
+water
+/chlorine solution containing not less than 50 parts per million (50 mg/L) of chlorine, and the system or part thereof shall be valved off and allowed to stand for 24 hours; or the system or part thereof shall be filled with a
+water
+/chlorine solution containing not less than 200 parts per million (200 mg/L) of chlorine and allowed to stand for 3 hours.
+Following the required standing time, the system shall be flushed with clean
+potable water
+until the chlorine is purged from the system.
+The procedure shall be repeated where shown by a bacteriological examination that
+contamination
+remains present in the system.
+Exception:
+Potable water
+systems are not required to be purged and disinfected after ordinary repairs.
+
+---
+
+Potable water
+systems shall be purged of deleterious matter and disinfected prior to utilization. The method to be followed shall be that prescribed by the health authority or
+water
+purveyor having jurisdiction or, in the absence of a prescribed method, the procedure described in either AWWA C651 or AWWA C652, or as described in this section. This requirement shall apply to "on-site" or "implant" fabrication of a system or to a modular portion of a system.
+The pipe system shall be flushed with clean,
+potable water
+until dirty
+water
+does not appear at the points of outlet.
+The system or part thereof shall be filled with a
+water
+/chlorine solution containing not less than 50 parts per million (50 mg/L) of chlorine, and the system or part thereof shall be valved off and allowed to stand for 24 hours; or the system or part thereof shall be filled with a
+water
+/chlorine solution containing not less than 200 parts per million (200 mg/L) of chlorine and allowed to stand for 3 hours.
+Following the required standing time, the system shall be flushed with clean
+potable water
+until the chlorine is purged from the system.
+The procedure shall be repeated where shown by a bacteriological examination that
+contamination
+remains present in the system.
+Exception:
+Potable water
+systems are not required to be purged and disinfected after ordinary repairs.
+
+---
+
+Section 611 Drinking Water Treatment Units
+
+---
+
+## Section 611.1: Design
+
+611.1 Design
+Drinking
+water
+treatment units shall meet the requirements of NSF 42, NSF 44, NSF 53, NSF 62 or CSA B483.1.
+
+---
+
+Drinking
+water
+treatment units shall meet the requirements of NSF 42, NSF 44, NSF 53, NSF 62 or CSA B483.1.
+
+---
+
+## Section 611.2: Reverse Osmosis Systems
+
+611.2 Reverse Osmosis Systems
+The discharge from a reverse osmosis drinking
+water
+treatment unit shall enter the
+drainage system
+through an
+air gap
+or an
+air gap
+device that meets the requirements of NSF 58 or CSA B483.1.
+
+---
+
+The discharge from a reverse osmosis drinking
+water
+treatment unit shall enter the
+drainage system
+through an
+air gap
+or an
+air gap
+device that meets the requirements of NSF 58 or CSA B483.1.
+
+---
+
+## Section 611.3: Connection Tubing
+
+611.3 Connection Tubing
+The tubing to and from drinking
+water
+treatment units shall be of a size and material as recommended by the manufacturer. The tubing shall comply with NSF 14, NSF 42, NSF 44, NSF 53, NSF 58 or NSF 61.
+
+---
+
+The tubing to and from drinking
+water
+treatment units shall be of a size and material as recommended by the manufacturer. The tubing shall comply with NSF 14, NSF 42, NSF 44, NSF 53, NSF 58 or NSF 61.
+
+---
+
+Section 612 Solar Systems
+
+---
+
+## Section 612.1: Solar Systems
+
+612.1 Solar Systems
+The construction, installation, alterations and repair of systems, equipment and appliances intended to capture and utilize solar energy for space heating or cooling, domestic
+hot water
+heating,
+swimming pool
+heating or process heating shall be in accordance with the
+New York City Mechanical Code
+and this code.
+
+---
+
+The construction, installation, alterations and repair of systems, equipment and appliances intended to capture and utilize solar energy for space heating or cooling, domestic
+hot water
+heating,
+swimming pool
+heating or process heating shall be in accordance with the
+New York City Mechanical Code
+and this code.
+
+---
+
+Section 613 Temperature Control Devices and Valves
+
+---
+
+## Section 613.1: Temperature-Actuated Mixing Valves
+
+613.1 Temperature-Actuated Mixing Valves
+Temperature actuated mixing valves, which are installed to reduce
+water
+temperatures to defined limits, shall comply with ASSE 1016 and ASSE 1017.
+
+---
+
+Temperature actuated mixing valves, which are installed to reduce
+water
+temperatures to defined limits, shall comply with ASSE 1016 and ASSE 1017.
+
+---
+
+Section 614 Emergency Drinking Water Access
+
+---
+
+## Section 614.1: Buildings Required to Provide Alternative Potable Water Access
+
+614.1 Buildings Required to Provide Alternative Potable Water Access
+Buildings that supply
+potable water
+from the
+public water main
+for dwelling units and sleeping units in
+Occupancy
+Groups I-1, R-1, R-2, and R-3 with the assistance of pumps shall provide additional fixtures that in an emergency when such pumps are inoperable are capable of supplying
+potable water
+from the
+public water main
+to the building utilizing only the available pressure from the
+public water main
+. Such fixtures shall comply with Sections
+614.1.1
+through
+614.1.5
+.
+Exception:
+Buildings where the pumps used to supply
+potable water
+for the dwelling units or sleeping units are connected to an emergency or a standby power system that complies with the requirements of
+Chapter 27
+of the
+New York City Building Code
+.
+
+---
+
+Buildings that supply
+potable water
+from the
+public water main
+for dwelling units and sleeping units in
+Occupancy
+Groups I-1, R-1, R-2, and R-3 with the assistance of pumps shall provide additional fixtures that in an emergency when such pumps are inoperable are capable of supplying
+potable water
+from the
+public water main
+to the building utilizing only the available pressure from the
+public water main
+. Such fixtures shall comply with Sections
+614.1.1
+through
+614.1.5
+.
+Exception:
+Buildings where the pumps used to supply
+potable water
+for the dwelling units or sleeping units are connected to an emergency or a standby power system that complies with the requirements of
+Chapter 27
+of the
+New York City Building Code
+.
+
+---
+
+## Section 614.1.1: Emergency Water Fixture
+
+614.1.1 Emergency Water Fixture
+Fixtures capable of supplying an emergency source of
+potable water
+in accordance with this section shall consist of a
+faucet
+conforming to
+Section 424
+or a fixture conforming to
+Section 424
+that is capable of attaching to a splitter either:
+a sink conforming to
+Section 418
+; or
+a
+floor drain
+conforming to
+Section 412
+.
+
+---
+
+Fixtures capable of supplying an emergency source of
+potable water
+in accordance with this section shall consist of a
+faucet
+conforming to
+Section 424
+or a fixture conforming to
+Section 424
+that is capable of attaching to a splitter either:
+a sink conforming to
+Section 418
+; or
+a
+floor drain
+conforming to
+Section 412
+.
+
+---
+
+## Section 614.1.2: Number of Emergency Water Fixtures Required
+
+614.1.2 Number of Emergency Water Fixtures Required
+One such fixture shall be provided for each 100 occupants as determined by the occupant load of the building.
+
+---
+
+One such fixture shall be provided for each 100 occupants as determined by the occupant load of the building.
+
+---
+
+## Section 614.1.3: Access to Emergency Water Fixtures
+
+614.1.3 Access to Emergency Water Fixtures
+Fixtures capable of supplying an emergency source of
+potable water
+in accordance with this section shall be located indoors in one or more common areas of the building. Such area shall be on an accessible route that complies with
+Section 1104.3
+of the
+New York City Building Code
+. Where such area requires users to pass through a doorway
+to access
+the emergency
+water
+fixture, such area shall further comply with
+Section 1107.3
+of the
+New York City Building Code
+. Emergency fixtures shall comply with
+Section 1109.12
+of the
+New York City Building Code
+.
+Exception:
+Such fixtures shall not be located in a bathroom or toilet room.
+
+---
+
+Fixtures capable of supplying an emergency source of
+potable water
+in accordance with this section shall be located indoors in one or more common areas of the building. Such area shall be on an accessible route that complies with
+Section 1104.3
+of the
+New York City Building Code
+. Where such area requires users to pass through a doorway
+to access
+the emergency
+water
+fixture, such area shall further comply with
+Section 1107.3
+of the
+New York City Building Code
+. Emergency fixtures shall comply with
+Section 1109.12
+of the
+New York City Building Code
+.
+Exception:
+Such fixtures shall not be located in a bathroom or toilet room.
+
+---
+
+## Section 614.1.4: Signage
+
+614.1.4 Signage
+Fixtures capable of supplying an emergency source of
+potable water
+in accordance with this section shall be identified by a legible sign stating: "EMERGENCY DRINKING
+WATER
+." Signs shall be readily visible and located near such fixtures and on the door to any room or closet in which such a fixture is located.
+
+---
+
+Fixtures capable of supplying an emergency source of
+potable water
+in accordance with this section shall be identified by a legible sign stating: "EMERGENCY DRINKING
+WATER
+." Signs shall be readily visible and located near such fixtures and on the door to any room or closet in which such a fixture is located.
+
+---
+
+## Section 614.1.5: Retroactive Requirement for Existing Buildings
+
+614.1.5 Retroactive Requirement for Existing Buildings
+Existing buildings greater than five stories that supply
+potable water
+from the
+public water main
+for dwelling units and sleeping units in
+Occupancy
+Groups I-1, R-1, R-2, and R-3 with the assistance of pumps shall be provided with fixtures capable of supplying an emergency source of
+potable water
+in accordance with this section within
+8
+years after the effective date of this section.
+Exception:
+Areas in such existing buildings greater than five stories where emergency fixtures are installed are not required to comply with
+Section 1104.3
+or
+1107.3
+of the
+New York City Building Code
+unless
+where required
+pursuant to
+Section 1101.3
+.
+
+---
+
+Existing buildings greater than five stories that supply
+potable water
+from the
+public water main
+for dwelling units and sleeping units in
+Occupancy
+Groups I-1, R-1, R-2, and R-3 with the assistance of pumps shall be provided with fixtures capable of supplying an emergency source of
+potable water
+in accordance with this section within
+8
+years after the effective date of this section.
+Exception:
+Areas in such existing buildings greater than five stories where emergency fixtures are installed are not required to comply with
+Section 1104.3
+or
+1107.3
+of the
+New York City Building Code
+unless
+where required
+pursuant to
+Section 1101.3
+.
+
+---
+

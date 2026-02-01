@@ -1,0 +1,3505 @@
+# NYC Fire Code 2022 - Chapter 20
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+2001 General
+
+---
+
+2002 Definitions
+
+---
+
+2003 General Precautions
+
+---
+
+2004 Aircraft Maintenance
+
+---
+
+2005 Portable Fire Extinguishers
+
+---
+
+2006 Aircraft and Motor Vehicle Fueling
+
+---
+
+2007 Helistops and Heliports
+
+---
+
+2008 Seaplane Base Operations
+
+---
+
+2009 Helicopter Landing Operations
+
+---
+
+2010 Helicopter Lift Operations
+
+---
+
+2011 Hot Air Balloon Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Section 2001 General
+
+---
+
+## Section 2001.1: Scope
+
+2001.1 Scope
+This chapter shall govern the design, installation, operation and
+maintenance
+of
+aviation facilities
+, including
+aircraft landing sites
+,
+airports
+,
+heliports
+,
+helistops
+, helicopter landings,
+seaplane bases
+and
+helicopter lift operations
+.
+
+---
+
+This chapter shall govern the design, installation, operation and
+maintenance
+of
+aviation facilities
+, including
+aircraft landing sites
+,
+airports
+,
+heliports
+,
+helistops
+, helicopter landings,
+seaplane bases
+and
+helicopter lift operations
+.
+
+---
+
+## Section 2001.2: Regulations Not Covered
+
+2001.2 Regulations Not Covered
+Except as otherwise provided in this chapter or any other federal, state or local law, rule or regulation,
+aviation facilities
+and related operations shall be operated or conducted in accordance with nationally recognized standards.
+
+---
+
+Except as otherwise provided in this chapter or any other federal, state or local law, rule or regulation,
+aviation facilities
+and related operations shall be operated or conducted in accordance with nationally recognized standards.
+
+---
+
+## Section 2001.3: General
+
+2001.3 General
+Aircraft landing sites
+,
+airports
+,
+heliports
+,
+helistops
+and
+seaplane bases
+shall be designed, installed, operated and maintained in accordance with this chapter. Aviation operations, including helicopter landings,
+helicopter lift operations
+and
+hot air balloon operations
+, shall be conducted in accordance with this chapter.
+
+---
+
+Aircraft landing sites
+,
+airports
+,
+heliports
+,
+helistops
+and
+seaplane bases
+shall be designed, installed, operated and maintained in accordance with this chapter. Aviation operations, including helicopter landings,
+helicopter lift operations
+and
+hot air balloon operations
+, shall be conducted in accordance with this chapter.
+
+---
+
+## Section 2001.4: Permits
+
+2001.4 Permits
+Permits
+shall be obtained for aircraft fueling vehicles, helicopter landing operations,
+helicopter lift operations
+and
+hot air balloon operations
+, as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be obtained for aircraft fueling vehicles, helicopter landing operations,
+helicopter lift operations
+and
+hot air balloon operations
+, as set forth in
+FC105.6
+.
+
+---
+
+Section 2002 Definitions
+
+---
+
+## Section 2002.1: Definitions
+
+2002.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+AIRCRAFT LANDING SITE
+.
+AIRCRAFT OPERATION AREA
+.
+AIRPORT
+.
+AVIATION
+FACILITY
+.
+DISCHARGE AREA
+.
+EXTERNAL LOAD
+.
+HELICOPTER LIFT OPERATION
+.
+HELIPORT
+.
+HELISTOP
+.
+HOT AIR BALLOON OPERATION
+.
+HYDRANT-FUELING VEHICLE
+.
+SEAPLANE BASE
+.
+STAGING AREA
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+AIRCRAFT LANDING SITE
+.
+AIRCRAFT OPERATION AREA
+.
+AIRPORT
+.
+AVIATION
+FACILITY
+.
+DISCHARGE AREA
+.
+EXTERNAL LOAD
+.
+HELICOPTER LIFT OPERATION
+.
+HELIPORT
+.
+HELISTOP
+.
+HOT AIR BALLOON OPERATION
+.
+HYDRANT-FUELING VEHICLE
+.
+SEAPLANE BASE
+.
+STAGING AREA
+.
+
+---
+
+Section 2003 General Precautions
+
+---
+
+## Section 2003.1: Sources of Ignition
+
+2003.1 Sources of Ignition
+It shall be unlawful to use or maintain an
+open flame
+, flame-producing device or other source of ignition in an aircraft hangar or other location within 50 feet (15 240 mm) of an aircraft-fueling or defueling operation.
+
+---
+
+It shall be unlawful to use or maintain an
+open flame
+, flame-producing device or other source of ignition in an aircraft hangar or other location within 50 feet (15 240 mm) of an aircraft-fueling or defueling operation.
+
+---
+
+## Section 2003.2: Smoking
+
+2003.2 Smoking
+It shall be unlawful to smoke in an aircraft hangar or other location used for aircraft fueling or defueling, cleaning, paint removal or painting operations. "No Smoking" signs shall be provided in accordance with
+FC310
+.
+
+---
+
+It shall be unlawful to smoke in an aircraft hangar or other location used for aircraft fueling or defueling, cleaning, paint removal or painting operations. "No Smoking" signs shall be provided in accordance with
+FC310
+.
+
+---
+
+## Section 2003.3: Maintenance
+
+2003.3 Maintenance
+The
+aircraft operation area
+and related areas shall be kept free from
+combustible waste
+at all times.
+
+---
+
+The
+aircraft operation area
+and related areas shall be kept free from
+combustible waste
+at all times.
+
+---
+
+## Section 2003.4: Fire Apparatus Access Roads
+
+2003.4 Fire Apparatus Access Roads
+Fire apparatus access roads
+shall be provided and maintained in accordance with
+FC Chapter 5
+and the
+construction codes
+, including the
+Building Code
+.
+Fire apparatus access roads
+and aircraft parking positions shall be designed in a manner so as to preclude the possibility of
+fire
+vehicles traveling under any portion of a parked aircraft.
+
+---
+
+Fire apparatus access roads
+shall be provided and maintained in accordance with
+FC Chapter 5
+and the
+construction codes
+, including the
+Building Code
+.
+Fire apparatus access roads
+and aircraft parking positions shall be designed in a manner so as to preclude the possibility of
+fire
+vehicles traveling under any portion of a parked aircraft.
+
+---
+
+## Section 2003.5: Dispensing of Flammable and Combustible Liquids
+
+2003.5 Dispensing of Flammable and Combustible Liquids
+Flammable and
+combustible liquids
+shall be dispensed and otherwise stored, handled and used in accordance with this chapter and
+FC Chapter 57
+. Automotive
+liquid motor fuel
+-
+dispensing
+facilities
+shall be designed, installed, operated and maintained in accordance with
+FC Chapter 23
+.
+
+---
+
+Flammable and
+combustible liquids
+shall be dispensed and otherwise stored, handled and used in accordance with this chapter and
+FC Chapter 57
+. Automotive
+liquid motor fuel
+-
+dispensing
+facilities
+shall be designed, installed, operated and maintained in accordance with
+FC Chapter 23
+.
+
+---
+
+## Section 2003.6: Combustible Material Storage
+
+2003.6 Combustible Material Storage
+Combustible materials stored in aircraft hangars shall be stored in
+approved locations
+and
+containers
+.
+
+---
+
+Combustible materials stored in aircraft hangars shall be stored in
+approved locations
+and
+containers
+.
+
+---
+
+## Section 2003.7: Hazardous Material Storage
+
+2003.7 Hazardous Material Storage
+Hazardous materials
+shall be stored in accordance with
+FC Chapter 50
+.
+
+---
+
+Hazardous materials
+shall be stored in accordance with
+FC Chapter 50
+.
+
+---
+
+Section 2004 Aircraft Maintenance
+
+---
+
+## Section 2004.1: Transferring Flammable and Combustible Liquids
+
+2004.1 Transferring Flammable and Combustible Liquids
+Flammable and
+combustible liquids
+shall not be dispensed into or removed from a
+container
+,
+tank
+, vehicle or aircraft, except in
+approved locations
+.
+
+---
+
+Flammable and
+combustible liquids
+shall not be dispensed into or removed from a
+container
+,
+tank
+, vehicle or aircraft, except in
+approved locations
+.
+
+---
+
+## Section 2004.2: Application of Flammable and Combustible Liquid Finishes
+
+2004.2 Application of Flammable and Combustible Liquid Finishes
+The
+application
+of flammable or Class II
+combustible liquid
+finishes shall be conducted in an
+approved
+location, using methods and procedures in accordance with
+FC Chapter 24
+.
+
+---
+
+The
+application
+of flammable or Class II
+combustible liquid
+finishes shall be conducted in an
+approved
+location, using methods and procedures in accordance with
+FC Chapter 24
+.
+
+---
+
+## Section 2004.3: Cleaning Parts
+
+2004.3 Cleaning Parts
+Class IA
+flammable liquids
+shall not be used to clean aircraft, aircraft parts or aircraft engines. Cleaning with other flammable and
+combustible liquids
+shall be in accordance with
+FC5705.3.6
+.
+
+---
+
+Class IA
+flammable liquids
+shall not be used to clean aircraft, aircraft parts or aircraft engines. Cleaning with other flammable and
+combustible liquids
+shall be in accordance with
+FC5705.3.6
+.
+
+---
+
+## Section 2004.4: Spills
+
+2004.4 Spills
+The following actions shall be taken in response to spills of flammable and
+combustible liquids
+and other
+hazardous materials
+, in addition to the procedures set forth in
+FC2006.11
+.
+
+---
+
+The following actions shall be taken in response to spills of flammable and
+combustible liquids
+and other
+hazardous materials
+, in addition to the procedures set forth in
+FC2006.11
+.
+
+---
+
+## Section 2004.4.1: Cessation of Work
+
+2004.4.1 Cessation of Work
+Activities in the affected area not related to the mitigation of the spill shall cease until the spilled material has been removed or the hazard has been mitigated.
+
+---
+
+Activities in the affected area not related to the mitigation of the spill shall cease until the spilled material has been removed or the hazard has been mitigated.
+
+---
+
+## Section 2004.4.2: Vehicle Movement
+
+2004.4.2 Vehicle Movement
+Aircraft or other vehicles shall not be moved through the spill area until the spilled material has been removed or the hazard has been mitigated.
+
+---
+
+Aircraft or other vehicles shall not be moved through the spill area until the spilled material has been removed or the hazard has been mitigated.
+
+---
+
+## Section 2004.4.3: Mitigation
+
+2004.4.3 Mitigation
+Spills shall be reported, documented and mitigated in accordance with this chapter and
+FC5003.3
+, and any other applicable law, rule or regulation.
+
+---
+
+Spills shall be reported, documented and mitigated in accordance with this chapter and
+FC5003.3
+, and any other applicable law, rule or regulation.
+
+---
+
+## Section 2004.5: Running Engines
+
+2004.5 Running Engines
+Aircraft engines shall not be operated in aircraft hangars, except in
+approved
+engine test areas.
+
+---
+
+Aircraft engines shall not be operated in aircraft hangars, except in
+approved
+engine test areas.
+
+---
+
+## Section 2004.6: Open Flame
+
+2004.6 Open Flame
+Repair of aircraft requiring the use of
+open flames
+, spark-producing devices or the heating of parts above 500°F (260°C) shall only be performed outdoors or in an area complying with the requirements of the
+construction codes
+, including the requirements of the
+Building Code
+for a
+Group F
+-1
+occupancy
+.
+
+---
+
+Repair of aircraft requiring the use of
+open flames
+, spark-producing devices or the heating of parts above 500°F (260°C) shall only be performed outdoors or in an area complying with the requirements of the
+construction codes
+, including the requirements of the
+Building Code
+for a
+Group F
+-1
+occupancy
+.
+
+---
+
+Section 2005 Portable Fire Extinguishers
+
+---
+
+## Section 2005.1: General
+
+2005.1 General
+Portable
+fire
+extinguishers suitable for flammable or
+combustible liquid
+and
+electrical
+-type
+fires
+shall be provided as set forth in
+FC 2005.2
+through
+2005.7
+, and 906. Portable
+fire
+extinguishers required by this section shall be inspected and maintained in accordance with
+FC906
+.
+
+---
+
+Portable
+fire
+extinguishers suitable for flammable or
+combustible liquid
+and
+electrical
+-type
+fires
+shall be provided as set forth in
+FC 2005.2
+through
+2005.7
+, and 906. Portable
+fire
+extinguishers required by this section shall be inspected and maintained in accordance with
+FC906
+.
+
+---
+
+## Section 2005.2: Towing Vehicles
+
+2005.2 Towing Vehicles
+Vehicles used for towing aircraft shall be equipped with a minimum of one listed portable
+fire
+extinguisher complying with the requirements of
+FC906
+and having a minimum rating of 20-B:C.
+
+---
+
+Vehicles used for towing aircraft shall be equipped with a minimum of one listed portable
+fire
+extinguisher complying with the requirements of
+FC906
+and having a minimum rating of 20-B:C.
+
+---
+
+## Section 2005.3: Welding Apparatus
+
+2005.3 Welding Apparatus
+Welding apparatus shall be equipped with a minimum of one listed portable
+fire
+extinguisher complying with the requirements of
+FC906
+and having a minimum rating of 2-A:20-B:C.
+
+---
+
+Welding apparatus shall be equipped with a minimum of one listed portable
+fire
+extinguisher complying with the requirements of
+FC906
+and having a minimum rating of 2-A:20-B:C.
+
+---
+
+## Section 2005.4: Aircraft-Fueling Vehicles
+
+2005.4 Aircraft-Fueling Vehicles
+Aircraft-fueling vehicles shall be equipped with a minimum of two listed portable
+fire
+extinguishers complying with the requirements of
+FC906
+, each having a minimum rating of 20-B:C. A portable
+fire
+extinguisher shall be readily accessible from either side of the vehicle.
+
+---
+
+Aircraft-fueling vehicles shall be equipped with a minimum of two listed portable
+fire
+extinguishers complying with the requirements of
+FC906
+, each having a minimum rating of 20-B:C. A portable
+fire
+extinguisher shall be readily accessible from either side of the vehicle.
+
+---
+
+## Section 2005.5: Hydrant-Fueling Vehicles
+
+2005.5 Hydrant-Fueling Vehicles
+Hydrant-fueling vehicles
+shall be equipped with a minimum of one listed portable
+fire
+extinguisher complying with the requirements of
+FC906
+, and having a minimum rating of 20-B:C.
+
+---
+
+Hydrant-fueling vehicles
+shall be equipped with a minimum of one listed portable
+fire
+extinguisher complying with the requirements of
+FC906
+, and having a minimum rating of 20-B:C.
+
+---
+
+## Section 2005.6: Fuel-Dispensing Stations
+
+2005.6 Fuel-Dispensing Stations
+Portable
+fire
+extinguishers shall be provided as follows:
+Where the open-hose discharge capacity of the fueling
+system
+is not more than 200 gallons per minute (13 L/s), a minimum of two listed portable
+fire
+extinguishers complying with the requirements of
+FC906
+and having a minimum rating of 20-B:C shall be provided.
+Where the open-hose discharge capacity of the fueling
+system
+is more than 200 gallons per minute (13 L/s) but not more than 350 gallons per minute (22 L/s), a minimum of one listed wheeled portable
+fire
+extinguisher complying with the requirements of
+FC906
+and having a minimum rating of 80-B:C, and a minimum agent capacity of 125 pounds (57 kg), shall be provided.
+Where the open-hose discharge capacity of the fueling
+system
+is more than 350 gallons per minute (22 L/s), a minimum of two listed wheeled portable
+fire
+extinguishers complying with the requirements of
+FC906
+and having a minimum rating of 80-B:C each, and a minimum agent capacity of 125 pounds (57 kg) of each, shall be provided.
+
+---
+
+Portable
+fire
+extinguishers shall be provided as follows:
+Where the open-hose discharge capacity of the fueling
+system
+is not more than 200 gallons per minute (13 L/s), a minimum of two listed portable
+fire
+extinguishers complying with the requirements of
+FC906
+and having a minimum rating of 20-B:C shall be provided.
+Where the open-hose discharge capacity of the fueling
+system
+is more than 200 gallons per minute (13 L/s) but not more than 350 gallons per minute (22 L/s), a minimum of one listed wheeled portable
+fire
+extinguisher complying with the requirements of
+FC906
+and having a minimum rating of 80-B:C, and a minimum agent capacity of 125 pounds (57 kg), shall be provided.
+Where the open-hose discharge capacity of the fueling
+system
+is more than 350 gallons per minute (22 L/s), a minimum of two listed wheeled portable
+fire
+extinguishers complying with the requirements of
+FC906
+and having a minimum rating of 80-B:C each, and a minimum agent capacity of 125 pounds (57 kg) of each, shall be provided.
+
+---
+
+## Section 2005.6.1: Location of Portable Fire Extinguishers
+
+2005.6.1 Location of Portable Fire Extinguishers
+Portable
+fire
+extinguishers at aircraft fuel-
+dispensing
+stations shall be located such that pumps or dispensers are not more than 75 feet (22 860 mm) from one such extinguisher.
+
+---
+
+Portable
+fire
+extinguishers at aircraft fuel-
+dispensing
+stations shall be located such that pumps or dispensers are not more than 75 feet (22 860 mm) from one such extinguisher.
+
+---
+
+## Section 2005.7: Fire Extinguisher Access
+
+2005.7 Fire Extinguisher Access
+Portable
+fire
+extinguishers required by this chapter shall be accessible at all times. Where necessary, provisions shall be made to clear accumulations of snow, ice and other forms of weather-related
+obstructions
+.
+
+---
+
+Portable
+fire
+extinguishers required by this chapter shall be accessible at all times. Where necessary, provisions shall be made to clear accumulations of snow, ice and other forms of weather-related
+obstructions
+.
+
+---
+
+## Section 2005.7.1: Cabinets
+
+2005.7.1 Cabinets
+Cabinets and enclosed compartments used to house portable
+fire
+extinguishers shall be clearly marked with the words "
+FIRE
+EXTINGUISHER" in letters at least 2 inches (51 mm) high. Cabinets and compartments shall be readily accessible at all times.
+
+---
+
+Cabinets and enclosed compartments used to house portable
+fire
+extinguishers shall be clearly marked with the words "
+FIRE
+EXTINGUISHER" in letters at least 2 inches (51 mm) high. Cabinets and compartments shall be readily accessible at all times.
+
+---
+
+Section 2006 Aircraft and Motor Vehicle Fueling
+
+---
+
+## Section 2006.1: Motor Vehicle Fuel-Dispensing Facilities
+
+2006.1 Motor Vehicle Fuel-Dispensing Facilities
+Motor vehicle
+fuel-
+dispensing
+facilities
+at
+aviation facilities
+shall be designed, installed, operated and maintained in accordance with
+FC Chapter 23
+.
+
+---
+
+Motor vehicle
+fuel-
+dispensing
+facilities
+at
+aviation facilities
+shall be designed, installed, operated and maintained in accordance with
+FC Chapter 23
+.
+
+---
+
+## Section 2006.2: Aircraft-Fueling Systems
+
+2006.2 Aircraft-Fueling Systems
+Aircraft-fueling
+systems
+shall be designed and constructed in accordance with NFPA 407.
+Exception:
+Aircraft fueling
+systems
+may be designed and constructed as a full service automotive
+liquid
+motor vehicle
+fuel-
+dispensing
+facility
+in accordance with
+FC Chapter 23
+, subject to such conditions as the
+commissioner
+may require.
+
+---
+
+Aircraft-fueling
+systems
+shall be designed and constructed in accordance with NFPA 407.
+Exception:
+Aircraft fueling
+systems
+may be designed and constructed as a full service automotive
+liquid
+motor vehicle
+fuel-
+dispensing
+facility
+in accordance with
+FC Chapter 23
+, subject to such conditions as the
+commissioner
+may require.
+
+---
+
+## Section 2006.3: Design of Aircraft-Fueling Vehicles
+
+2006.3 Design of Aircraft-Fueling Vehicles
+Aircraft-fueling vehicles shall be designed in accordance with FC2006 and NFPA 407.
+
+---
+
+Aircraft-fueling vehicles shall be designed in accordance with FC2006 and NFPA 407.
+
+---
+
+## Section 2006.3.1: Transfer Apparatus
+
+2006.3.1 Transfer Apparatus
+Aircraft-fueling vehicles shall be equipped and maintained with an
+approved
+transfer apparatus.
+
+---
+
+Aircraft-fueling vehicles shall be equipped and maintained with an
+approved
+transfer apparatus.
+
+---
+
+## Section 2006.3.1.1: Internal Combustion Type
+
+2006.3.1.1 Internal Combustion Type
+Where such transfer apparatus is operated by an individual unit of the internal-combustion-motor type, such power unit shall be located as remotely as practicable from pumps, piping, meters, air eliminators, water separators, hose reels, and similar equipment, and shall be housed in a separate compartment from any of the aforementioned items. The fuel
+tank
+in connection therewith shall be suitably designed and installed, and the maximum fuel capacity shall not exceed 5 gallons (19 L) where the
+tank
+is installed on the engine. The exhaust pipe, muffler and tail pipe shall be shielded.
+
+---
+
+Where such transfer apparatus is operated by an individual unit of the internal-combustion-motor type, such power unit shall be located as remotely as practicable from pumps, piping, meters, air eliminators, water separators, hose reels, and similar equipment, and shall be housed in a separate compartment from any of the aforementioned items. The fuel
+tank
+in connection therewith shall be suitably designed and installed, and the maximum fuel capacity shall not exceed 5 gallons (19 L) where the
+tank
+is installed on the engine. The exhaust pipe, muffler and tail pipe shall be shielded.
+
+---
+
+## Section 2006.3.1.2: Gear Operated
+
+2006.3.1.2 Gear Operated
+Where operated by gears or chains, the gears, chains, shafts, bearings, housing and all parts thereof shall be of an
+approved
+design and shall be installed and maintained in an
+approved
+manner.
+
+---
+
+Where operated by gears or chains, the gears, chains, shafts, bearings, housing and all parts thereof shall be of an
+approved
+design and shall be installed and maintained in an
+approved
+manner.
+
+---
+
+## Section 2006.3.1.3: Vibration Isolation
+
+2006.3.1.3 Vibration Isolation
+Flexible connections for the purpose of eliminating vibration are allowed if the material used therein is designed, installed, operated and maintained in an
+approved
+manner, provided such connections do not exceed 24 inches (610 mm) in length.
+
+---
+
+Flexible connections for the purpose of eliminating vibration are allowed if the material used therein is designed, installed, operated and maintained in an
+approved
+manner, provided such connections do not exceed 24 inches (610 mm) in length.
+
+---
+
+## Section 2006.3.2: Pumps
+
+2006.3.2 Pumps
+Pumps of a positive-displacement type shall be provided with a bypass relief valve set at a pressure of not more than 35 percent in excess of the normal working pressure of such unit. Such units shall be equipped and maintained with a pressure gauge on the discharge side of the pump.
+
+---
+
+Pumps of a positive-displacement type shall be provided with a bypass relief valve set at a pressure of not more than 35 percent in excess of the normal working pressure of such unit. Such units shall be equipped and maintained with a pressure gauge on the discharge side of the pump.
+
+---
+
+## Section 2006.3.3: Dispensing Hoses and Nozzles
+
+2006.3.3 Dispensing Hoses and Nozzles
+Hoses shall be designed for the transferring of hydrocarbon
+liquids
+and shall not be any longer than necessary to provide efficient fuel transfer operations. Hoses shall be equipped with an
+approved
+shutoff nozzle. Fuel-transfer nozzles shall be self-closing and designed to be actuated by hand pressure only. Notches and other devices shall not be used for holding a nozzle valve handle in the open position. Nozzles shall be equipped with a bonding cable complete with proper attachment for aircraft to be serviced.
+
+---
+
+Hoses shall be designed for the transferring of hydrocarbon
+liquids
+and shall not be any longer than necessary to provide efficient fuel transfer operations. Hoses shall be equipped with an
+approved
+shutoff nozzle. Fuel-transfer nozzles shall be self-closing and designed to be actuated by hand pressure only. Notches and other devices shall not be used for holding a nozzle valve handle in the open position. Nozzles shall be equipped with a bonding cable complete with proper attachment for aircraft to be serviced.
+
+---
+
+## Section 2006.3.4: Protection of Electrical Equipment
+
+2006.3.4 Protection of Electrical Equipment
+Electric wiring, switches, lights and other sources of ignition, when located in a compartment housing piping, pumps, air eliminators, water separators, hose reels or similar equipment, shall be enclosed in a vapor-tight housing.
+Electrical
+motors located in such a compartment shall be of a type
+approved
+for use as specified in the
+Electrical Code
+.
+
+---
+
+Electric wiring, switches, lights and other sources of ignition, when located in a compartment housing piping, pumps, air eliminators, water separators, hose reels or similar equipment, shall be enclosed in a vapor-tight housing.
+Electrical
+motors located in such a compartment shall be of a type
+approved
+for use as specified in the
+Electrical Code
+.
+
+---
+
+## Section 2006.3.5: Venting of Equipment Compartments
+
+2006.3.5 Venting of Equipment Compartments
+Compartments housing piping, pumps, air eliminators, water separators, hose reels and similar equipment shall be adequately ventilated at floor level or within the floor itself.
+
+---
+
+Compartments housing piping, pumps, air eliminators, water separators, hose reels and similar equipment shall be adequately ventilated at floor level or within the floor itself.
+
+---
+
+## Section 2006.3.6: Accessory Equipment
+
+2006.3.6 Accessory Equipment
+Ladders, hose reels and similar accessory equipment used for aircraft-fueling operations shall be of an
+approved
+type, as follows:
+Ladders constructed of noncombustible material are allowed to be used with or attached to aircraft-fueling vehicles, provided the manner of attachment or use of such ladders is
+approved
+and does not constitute an additional
+fire
+or accident hazard in the operation of such fueling vehicles.
+Hose reels used in connection with fueling vehicles shall be constructed of noncombustible materials and shall be provided with a packing gland or other device which will preclude fuel leakage between reels and fuel manifolds.
+
+---
+
+Ladders, hose reels and similar accessory equipment used for aircraft-fueling operations shall be of an
+approved
+type, as follows:
+Ladders constructed of noncombustible material are allowed to be used with or attached to aircraft-fueling vehicles, provided the manner of attachment or use of such ladders is
+approved
+and does not constitute an additional
+fire
+or accident hazard in the operation of such fueling vehicles.
+Hose reels used in connection with fueling vehicles shall be constructed of noncombustible materials and shall be provided with a packing gland or other device which will preclude fuel leakage between reels and fuel manifolds.
+
+---
+
+## Section 2006.3.7: Electrical Bonding Provisions
+
+2006.3.7 Electrical Bonding Provisions
+Transfer apparatus shall be metallically interconnected with
+tanks
+, chassis, axles and springs of aircraft-fueling vehicles.
+
+---
+
+Transfer apparatus shall be metallically interconnected with
+tanks
+, chassis, axles and springs of aircraft-fueling vehicles.
+
+---
+
+## Section 2006.3.7.1: Bonding Cables
+
+2006.3.7.1 Bonding Cables
+Aircraft-fueling vehicles shall be provided and maintained with a substantial heavy-duty
+electrical
+cable of sufficient length to be bonded to the aircraft to be serviced. Such cable shall be metallically connected to the transfer apparatus or chassis of the aircraft-fueling vehicle on one end and shall be provided with a suitable metal clamp on the other end, to be fixed to the aircraft.
+
+---
+
+Aircraft-fueling vehicles shall be provided and maintained with a substantial heavy-duty
+electrical
+cable of sufficient length to be bonded to the aircraft to be serviced. Such cable shall be metallically connected to the transfer apparatus or chassis of the aircraft-fueling vehicle on one end and shall be provided with a suitable metal clamp on the other end, to be fixed to the aircraft.
+
+---
+
+## Section 2006.3.7.2: Bonding Cable Protection
+
+2006.3.7.2 Bonding Cable Protection
+The bonding cable shall be bare or have a transparent protective sleeve and be stored on a reel or in a compartment provided for no other purpose. It shall be carried in such a manner that it will not be subjected to sharp kinks or accidental breakage under conditions of
+general
+use.
+
+---
+
+The bonding cable shall be bare or have a transparent protective sleeve and be stored on a reel or in a compartment provided for no other purpose. It shall be carried in such a manner that it will not be subjected to sharp kinks or accidental breakage under conditions of
+general
+use.
+
+---
+
+## Section 2006.3.8: Smoking
+
+2006.3.8 Smoking
+It shall be unlawful to smoke in aircraft-fueling vehicles. Signs to this effect shall be conspicuously posted in the driver's compartment of all fueling vehicles.
+
+---
+
+It shall be unlawful to smoke in aircraft-fueling vehicles. Signs to this effect shall be conspicuously posted in the driver's compartment of all fueling vehicles.
+
+---
+
+## Section 2006.3.9: Smoking Equipment
+
+2006.3.9 Smoking Equipment
+Smoking equipment such as cigarette lighters and ash trays shall not be provided in aircraft-fueling vehicles.
+
+---
+
+Smoking equipment such as cigarette lighters and ash trays shall not be provided in aircraft-fueling vehicles.
+
+---
+
+## Section 2006.4: Operation, Maintenance and Use of Aircraft-Fueling Vehicles
+
+2006.4 Operation, Maintenance and Use of Aircraft-Fueling Vehicles
+The operation,
+maintenance
+and use of aircraft-fueling vehicles shall be in accordance with
+FC 2006.4.1
+through
+2006.4.5
+and other applicable provisions of this chapter.
+
+---
+
+The operation,
+maintenance
+and use of aircraft-fueling vehicles shall be in accordance with
+FC 2006.4.1
+through
+2006.4.5
+and other applicable provisions of this chapter.
+
+---
+
+## Section 2006.4.1: Proper Maintenance
+
+2006.4.1 Proper Maintenance
+Aircraft-fueling vehicles and all related equipment shall be properly maintained and kept in good repair. Oil, grease, fuel and other flammable or
+combustible waste
+shall not be allowed to accumulate.
+Maintenance
+and servicing of such equipment shall be accomplished in
+approved
+areas.
+
+---
+
+Aircraft-fueling vehicles and all related equipment shall be properly maintained and kept in good repair. Oil, grease, fuel and other flammable or
+combustible waste
+shall not be allowed to accumulate.
+Maintenance
+and servicing of such equipment shall be accomplished in
+approved
+areas.
+
+---
+
+## Section 2006.4.2: Vehicle Integrity
+
+2006.4.2 Vehicle Integrity
+Tanks
+, pipes, hoses, valves and other fueling equipment shall be maintained leak free at all times.
+
+---
+
+Tanks
+, pipes, hoses, valves and other fueling equipment shall be maintained leak free at all times.
+
+---
+
+## Section 2006.4.3: Removal From Service
+
+2006.4.3 Removal From Service
+Aircraft-fueling vehicles and related equipment which are in violation of
+FC 2006.4.1
+or
+2006.4.2
+shall be immediately defueled, removed from service and properly repaired or disposed of.
+
+---
+
+Aircraft-fueling vehicles and related equipment which are in violation of
+FC 2006.4.1
+or
+2006.4.2
+shall be immediately defueled, removed from service and properly repaired or disposed of.
+
+---
+
+## Section 2006.4.4: Identification of Operator
+
+2006.4.4 Identification of Operator
+Aircraft-fueling vehicles that are operated by a person, firm or corporation other than the permittee or the permittee's authorized employee shall be provided with a legible sign visible from outside the vehicle showing the name of the person, firm or corporation operating such unit.
+
+---
+
+Aircraft-fueling vehicles that are operated by a person, firm or corporation other than the permittee or the permittee's authorized employee shall be provided with a legible sign visible from outside the vehicle showing the name of the person, firm or corporation operating such unit.
+
+---
+
+## Section 2006.4.5: Training
+
+2006.4.5 Training
+Aircraft-fueling vehicles shall be attended and operated by competent personnel familiar with the safety hazards of each type of fuel used at the
+facility
+.
+
+---
+
+Aircraft-fueling vehicles shall be attended and operated by competent personnel familiar with the safety hazards of each type of fuel used at the
+facility
+.
+
+---
+
+## Section 2006.5: Fueling and Defueling
+
+2006.5 Fueling and Defueling
+Aircraft-fueling and defueling operations shall be conducted in accordance with
+FC 2006.5.1
+through
+2006.5.4
+.
+
+---
+
+Aircraft-fueling and defueling operations shall be conducted in accordance with
+FC 2006.5.1
+through
+2006.5.4
+.
+
+---
+
+## Section 2006.5.1: Positioning of Aircraft-Fueling Vehicles
+
+2006.5.1 Positioning of Aircraft-Fueling Vehicles
+Aircraft-fueling vehicles shall not be parked or otherwise allowed to stop or stand in a position where such vehicle would obstruct egress from an aircraft, including emergency
+exits
+. Aircraft-fueling vehicles shall not be parked or otherwise allowed to stop or stand under any portion of an aircraft.
+Exception:
+Aircraft-fueling vehicles shall be allowed to be located under aircraft wings during underwing fueling of turbine-engine powered aircraft.
+
+---
+
+Aircraft-fueling vehicles shall not be parked or otherwise allowed to stop or stand in a position where such vehicle would obstruct egress from an aircraft, including emergency
+exits
+. Aircraft-fueling vehicles shall not be parked or otherwise allowed to stop or stand under any portion of an aircraft.
+Exception:
+Aircraft-fueling vehicles shall be allowed to be located under aircraft wings during underwing fueling of turbine-engine powered aircraft.
+
+---
+
+## Section 2006.5.1.1: Fueling Vehicle Egress
+
+2006.5.1.1 Fueling Vehicle Egress
+A clear path shall be maintained for aircraft-fueling vehicles to allow ready access to and egress from the fueling area.
+
+---
+
+A clear path shall be maintained for aircraft-fueling vehicles to allow ready access to and egress from the fueling area.
+
+---
+
+## Section 2006.5.1.2: Aircraft Vent Openings
+
+2006.5.1.2 Aircraft Vent Openings
+A clear space of at least 10 feet
+(3048 mm) shall be maintained between aircraft fuel-
+system
+vent openings and an aircraft-fueling vehicle.
+
+---
+
+A clear space of at least 10 feet
+(3048 mm) shall be maintained between aircraft fuel-
+system
+vent openings and an aircraft-fueling vehicle.
+
+---
+
+## Section 2006.5.1.3: Parking
+
+2006.5.1.3 Parking
+Prior to leaving the cab, the operator of an aircraft-fueling vehicle shall set the parking brake. At least two chock blocks not less than 5 inches by 5 inches by 12 inches (127 mm by 127 mm by 305 mm) in size and dished to fit the contour of the tires shall be utilized and positioned in such a manner so as to preclude movement of the vehicle in any direction.
+
+---
+
+Prior to leaving the cab, the operator of an aircraft-fueling vehicle shall set the parking brake. At least two chock blocks not less than 5 inches by 5 inches by 12 inches (127 mm by 127 mm by 305 mm) in size and dished to fit the contour of the tires shall be utilized and positioned in such a manner so as to preclude movement of the vehicle in any direction.
+
+---
+
+## Section 2006.5.2: Electrical Bonding
+
+2006.5.2 Electrical Bonding
+Aircraft-fueling vehicles shall be electrically bonded to the aircraft being fueled or defueled. Bonding connections shall be made prior to making fueling connections and shall not be disconnected until the fuel-transfer operations are completed and the fueling connections have been removed. Where a hydrant service vehicle or cart is used for fueling, the hydrant coupler shall be connected to the hydrant
+system
+prior to bonding the fueling equipment to the aircraft.
+
+---
+
+Aircraft-fueling vehicles shall be electrically bonded to the aircraft being fueled or defueled. Bonding connections shall be made prior to making fueling connections and shall not be disconnected until the fuel-transfer operations are completed and the fueling connections have been removed. Where a hydrant service vehicle or cart is used for fueling, the hydrant coupler shall be connected to the hydrant
+system
+prior to bonding the fueling equipment to the aircraft.
+
+---
+
+## Section 2006.5.2.1: Conductive Hose
+
+2006.5.2.1 Conductive Hose
+In addition to the bonding cable required by
+FC2006.5.2
+, conductive hose shall be used for all fueling operations.
+
+---
+
+In addition to the bonding cable required by
+FC2006.5.2
+, conductive hose shall be used for all fueling operations.
+
+---
+
+## Section 2006.5.2.2: Bonding Conductors on Transfer Nozzles
+
+2006.5.2.2 Bonding Conductors on Transfer Nozzles
+Transfer nozzles shall be equipped with
+approved
+bonding conductors which shall be clipped or otherwise positively engaged with the bonding attachment provided on the aircraft adjacent to the fuel
+tank
+cap prior to removal of the cap.
+Exception:
+In the case of overwing fueling where no appropriate bonding attachment adjacent to the fuel fill port has been provided on the aircraft, the fueling operator shall touch the fuel
+tank
+cap with the nozzle spout prior to removal of the cap. The nozzle shall be kept in contact with the fill port until fueling is completed.
+
+---
+
+Transfer nozzles shall be equipped with
+approved
+bonding conductors which shall be clipped or otherwise positively engaged with the bonding attachment provided on the aircraft adjacent to the fuel
+tank
+cap prior to removal of the cap.
+Exception:
+In the case of overwing fueling where no appropriate bonding attachment adjacent to the fuel fill port has been provided on the aircraft, the fueling operator shall touch the fuel
+tank
+cap with the nozzle spout prior to removal of the cap. The nozzle shall be kept in contact with the fill port until fueling is completed.
+
+---
+
+## Section 2006.5.2.3: Funnels
+
+2006.5.2.3 Funnels
+It shall be unlawful to use funnels in aircraft-fueling operations.
+
+---
+
+It shall be unlawful to use funnels in aircraft-fueling operations.
+
+---
+
+## Section 2006.5.3: Training
+
+2006.5.3 Training
+All personnel engaged in fuel storage and aircraft-fueling operations shall receive appropriate hazard and
+fire
+safety training relating to such storage and fueling operation, including training in the use of
+fire
+extinguishing equipment. The
+owner
+or operator of the
+aviation facilities
+shall maintain on the
+premises
+a record of all such training in accordance with
+FC107.7
+.
+
+---
+
+All personnel engaged in fuel storage and aircraft-fueling operations shall receive appropriate hazard and
+fire
+safety training relating to such storage and fueling operation, including training in the use of
+fire
+extinguishing equipment. The
+owner
+or operator of the
+aviation facilities
+shall maintain on the
+premises
+a record of all such training in accordance with
+FC107.7
+.
+
+---
+
+## Section 2006.5.4: Transfer Personnel
+
+2006.5.4 Transfer Personnel
+During fuel-transfer operations, a qualified person shall be in control of each transfer nozzle and another qualified person shall be in immediate control of the fuel-pumping equipment to shut off or otherwise control the flow of fuel from the time fueling operations are begun until they are completed.
+Exceptions:
+For underwing refueling, the person stationed at the point of fuel intake is not required.
+For overwing refueling, the person stationed at the fuel pumping equipment shall not be required when the person at the fuel
+dispensing device
+is within 75 feet (22 800 mm) of the emergency shutoff device, is not on the wing of the aircraft and has a clear and unencumbered path to the fuel pumping equipment; and, the fuel
+dispensing
+line does not exceed 50 feet (15 240 mm) in length.
+
+---
+
+During fuel-transfer operations, a qualified person shall be in control of each transfer nozzle and another qualified person shall be in immediate control of the fuel-pumping equipment to shut off or otherwise control the flow of fuel from the time fueling operations are begun until they are completed.
+Exceptions:
+For underwing refueling, the person stationed at the point of fuel intake is not required.
+For overwing refueling, the person stationed at the fuel pumping equipment shall not be required when the person at the fuel
+dispensing device
+is within 75 feet (22 800 mm) of the emergency shutoff device, is not on the wing of the aircraft and has a clear and unencumbered path to the fuel pumping equipment; and, the fuel
+dispensing
+line does not exceed 50 feet (15 240 mm) in length.
+
+---
+
+## Section 2006.5.4.1: Monitoring During Fueling
+
+2006.5.4.1 Monitoring During Fueling
+The fueling operator shall monitor the panel of the fueling equipment and the aircraft control panel during pressure fueling or shall monitor the fill port during overwing fueling.
+
+---
+
+The fueling operator shall monitor the panel of the fueling equipment and the aircraft control panel during pressure fueling or shall monitor the fill port during overwing fueling.
+
+---
+
+## Section 2006.6: Emergency Fuel Shutoff
+
+2006.6 Emergency Fuel Shutoff
+Emergency fuel shutoff
+controls and procedures shall comply with the requirements of
+FC 2006.6.1
+through
+2006.6.4
+.
+
+---
+
+Emergency fuel shutoff
+controls and procedures shall comply with the requirements of
+FC 2006.6.1
+through
+2006.6.4
+.
+
+---
+
+## Section 2006.6.1: Accessibility
+
+2006.6.1 Accessibility
+Emergency fuel shutoff
+controls shall be readily accessible at all times when the fueling
+system
+is being operated.
+
+---
+
+Emergency fuel shutoff
+controls shall be readily accessible at all times when the fueling
+system
+is being operated.
+
+---
+
+## Section 2006.6.2: Notification of the Department
+
+2006.6.2 Notification of the Department
+The
+owner
+or operator of the
+aviation facility
+shall establish a procedure by which the
+department
+will be notified in the event of an emergency involving the activation of an
+emergency fuel shutoff
+control.
+
+---
+
+The
+owner
+or operator of the
+aviation facility
+shall establish a procedure by which the
+department
+will be notified in the event of an emergency involving the activation of an
+emergency fuel shutoff
+control.
+
+---
+
+## Section 2006.6.3: Determining Cause
+
+2006.6.3 Determining Cause
+Prior to reestablishment of normal fuel flow, the cause of
+emergency fuel shutoff
+conditions shall be determined and corrected.
+
+---
+
+Prior to reestablishment of normal fuel flow, the cause of
+emergency fuel shutoff
+conditions shall be determined and corrected.
+
+---
+
+## Section 2006.6.4: Testing
+
+2006.6.4 Testing
+Emergency fuel shutoff
+devices shall be operationally tested at intervals not exceeding 3 months. The fueling-
+system
+operator shall maintain suitable records of these tests.
+
+---
+
+Emergency fuel shutoff
+devices shall be operationally tested at intervals not exceeding 3 months. The fueling-
+system
+operator shall maintain suitable records of these tests.
+
+---
+
+## Section 2006.7: Protection of Hoses
+
+2006.7 Protection of Hoses
+Before an aircraft-fueling vehicle is moved, fuel transfer hoses shall be properly placed on the
+approved
+reel or in the compartment provided, or stored on the top decking of the fueling vehicle if proper height rail is provided for security and protection of such equipment. Fuel-transfer hose shall not be looped or draped over any part of the fueling vehicle, except as herein provided. Fuel-transfer hose shall not be dragged when a fueling vehicle is moved from one fueling position to another.
+
+---
+
+Before an aircraft-fueling vehicle is moved, fuel transfer hoses shall be properly placed on the
+approved
+reel or in the compartment provided, or stored on the top decking of the fueling vehicle if proper height rail is provided for security and protection of such equipment. Fuel-transfer hose shall not be looped or draped over any part of the fueling vehicle, except as herein provided. Fuel-transfer hose shall not be dragged when a fueling vehicle is moved from one fueling position to another.
+
+---
+
+## Section 2006.8: Loading and Unloading of Aircraft-Fueling Vehicles
+
+2006.8 Loading and Unloading of Aircraft-Fueling Vehicles
+Aircraft-fueling vehicles shall be loaded only at an
+approved
+loading rack, except that aircraft-fueling vehicles may be loaded from the fuel
+tanks
+of an aircraft during defueling operations. Such loading racks shall be in accordance with
+FC Chapter 57
+.
+
+---
+
+Aircraft-fueling vehicles shall be loaded only at an
+approved
+loading rack, except that aircraft-fueling vehicles may be loaded from the fuel
+tanks
+of an aircraft during defueling operations. Such loading racks shall be in accordance with
+FC Chapter 57
+.
+
+---
+
+## Section 2006.8.1: Unloading of Aircraft-Fueling Vehicles
+
+2006.8.1 Unloading of Aircraft-Fueling Vehicles
+The fuel cargo of such vehicles shall be unloaded only by
+approved
+transfer apparatus into the fuel
+tanks
+of aircraft,
+approved
+underground storage
+tanks
+or
+approved
+aboveground storage
+tanks
+.
+
+---
+
+The fuel cargo of such vehicles shall be unloaded only by
+approved
+transfer apparatus into the fuel
+tanks
+of aircraft,
+approved
+underground storage
+tanks
+or
+approved
+aboveground storage
+tanks
+.
+
+---
+
+## Section 2006.9: Passengers
+
+2006.9 Passengers
+Passenger traffic is not allowed during the time that fuel transfer operations are in progress.
+
+---
+
+Passenger traffic is not allowed during the time that fuel transfer operations are in progress.
+
+---
+
+## Section 2006.10: Sources of Ignition
+
+2006.10 Sources of Ignition
+It shall be unlawful to smoke, or light or maintain an
+open flame
+, within 50 feet (15 240 mm) of any location where fuel is being transferred.
+Electrical
+and motor-driven devices shall not be connected to or disconnected from an aircraft at any time fueling operations are in progress on such aircraft.
+
+---
+
+It shall be unlawful to smoke, or light or maintain an
+open flame
+, within 50 feet (15 240 mm) of any location where fuel is being transferred.
+Electrical
+and motor-driven devices shall not be connected to or disconnected from an aircraft at any time fueling operations are in progress on such aircraft.
+
+---
+
+## Section 2006.11: Fuel Spill Prevention and Procedures
+
+2006.11 Fuel Spill Prevention and Procedures
+Fuel spill prevention and the procedures for
+handling
+spills shall comply with the requirements of
+FC 2006.11.1
+through
+2006.11.7
+.
+
+---
+
+Fuel spill prevention and the procedures for
+handling
+spills shall comply with the requirements of
+FC 2006.11.1
+through
+2006.11.7
+.
+
+---
+
+## Section 2006.11.1: Fueling Equipment Maintenance
+
+2006.11.1 Fueling Equipment Maintenance
+Aircraft fueling equipment shall be maintained and kept free from leaks. Fueling equipment that malfunctions or leaks shall be immediately defueled, removed from service and properly repaired or disposed of.
+
+---
+
+Aircraft fueling equipment shall be maintained and kept free from leaks. Fueling equipment that malfunctions or leaks shall be immediately defueled, removed from service and properly repaired or disposed of.
+
+---
+
+## Section 2006.11.2: Transporting Fuel Nozzles
+
+2006.11.2 Transporting Fuel Nozzles
+Fuel nozzles shall be carried utilizing appropriate handles. Dragging fuel nozzles along the ground is prohibited.
+
+---
+
+Fuel nozzles shall be carried utilizing appropriate handles. Dragging fuel nozzles along the ground is prohibited.
+
+---
+
+## Section 2006.11.3: Drum Fueling
+
+2006.11.3 Drum Fueling
+Fueling from drums or other
+containers
+is prohibited.
+
+---
+
+Fueling from drums or other
+containers
+is prohibited.
+
+---
+
+## Section 2006.11.4: Fuel Spill Procedures
+
+2006.11.4 Fuel Spill Procedures
+The
+owner
+or operator of the
+aviation facility
+shall establish comprehensive procedures to implement in the event of a fuel spill, which shall include the following actions:
+Upon observation of a fuel spill, the aircraft-fueling operator shall immediately stop the delivery of fuel by releasing hand pressure from the fuel flow-control valve.
+Failure of the fuel control valve to stop the continued spillage of fuel shall be cause for the activation of the appropriate
+emergency fuel shutoff
+device.
+A supervisor shall respond to the fuel spill area immediately.
+
+---
+
+The
+owner
+or operator of the
+aviation facility
+shall establish comprehensive procedures to implement in the event of a fuel spill, which shall include the following actions:
+Upon observation of a fuel spill, the aircraft-fueling operator shall immediately stop the delivery of fuel by releasing hand pressure from the fuel flow-control valve.
+Failure of the fuel control valve to stop the continued spillage of fuel shall be cause for the activation of the appropriate
+emergency fuel shutoff
+device.
+A supervisor shall respond to the fuel spill area immediately.
+
+---
+
+## Section 2006.11.5: Notification of the Department
+
+2006.11.5 Notification of the Department
+The
+department
+shall be notified of any fuel spill which is considered a hazard to people or property or which meets one or more of the following criteria:
+Any dimension of the spill is greater than 10 feet (3048 mm).
+The spill area is greater than 50 square feet (4.65 m
+2
+).
+The release of fuel is continuing.
+
+---
+
+The
+department
+shall be notified of any fuel spill which is considered a hazard to people or property or which meets one or more of the following criteria:
+Any dimension of the spill is greater than 10 feet (3048 mm).
+The spill area is greater than 50 square feet (4.65 m
+2
+).
+The release of fuel is continuing.
+
+---
+
+## Section 2006.11.6: Investigation Required
+
+2006.11.6 Investigation Required
+An investigation shall be conducted by the
+owner
+or operator of the
+aviation facility
+into the cause of all spills requiring notification of the
+department
+, the response thereto by the persons in charge of the aircraft fueling operation and other
+aviation facility
+personnel. Should it be determined that corrective measures are necessary to prevent future incidents of the same nature, such measures shall be implemented in a timely manner.
+
+---
+
+An investigation shall be conducted by the
+owner
+or operator of the
+aviation facility
+into the cause of all spills requiring notification of the
+department
+, the response thereto by the persons in charge of the aircraft fueling operation and other
+aviation facility
+personnel. Should it be determined that corrective measures are necessary to prevent future incidents of the same nature, such measures shall be implemented in a timely manner.
+
+---
+
+## Section 2006.11.7: Multiple Fuel Delivery Vehicles
+
+2006.11.7 Multiple Fuel Delivery Vehicles
+Simultaneous delivery of fuel from more than one aircraft-fueling vehicle to a single aircraft-fueling manifold is prohibited unless proper backflow prevention devices are installed to prevent fuel flow into the aircraft-fueling vehicles.
+
+---
+
+Simultaneous delivery of fuel from more than one aircraft-fueling vehicle to a single aircraft-fueling manifold is prohibited unless proper backflow prevention devices are installed to prevent fuel flow into the aircraft-fueling vehicles.
+
+---
+
+## Section 2006.12: Aircraft Engines and Heaters
+
+2006.12 Aircraft Engines and Heaters
+Aircraft onboard engines and combustion heaters shall be shut down prior to commencing fueling operations and shall remain off until the fueling operation is completed.
+Exception:
+In an emergency, a single jet engine is allowed to be operated with the onboard engine running during fueling operations where all of the following conditions are met:
+The emergency shall have resulted from an onboard failure of the aircraft's auxiliary power unit.
+Restoration of auxiliary power to the aircraft by ground support services is not available.
+The engine to be operated is either at the rear of the aircraft or on the opposite side of the aircraft from the fueling operations.
+The emergency operation is in accordance with a written procedure
+approved
+by the
+commissioner
+.
+
+---
+
+Aircraft onboard engines and combustion heaters shall be shut down prior to commencing fueling operations and shall remain off until the fueling operation is completed.
+Exception:
+In an emergency, a single jet engine is allowed to be operated with the onboard engine running during fueling operations where all of the following conditions are met:
+The emergency shall have resulted from an onboard failure of the aircraft's auxiliary power unit.
+Restoration of auxiliary power to the aircraft by ground support services is not available.
+The engine to be operated is either at the rear of the aircraft or on the opposite side of the aircraft from the fueling operations.
+The emergency operation is in accordance with a written procedure
+approved
+by the
+commissioner
+.
+
+---
+
+## Section 2006.13: Vehicle and Equipment Restrictions
+
+2006.13 Vehicle and Equipment Restrictions
+During aircraft-fueling operations, only aircraft-fueling vehicles or other equipment actively involved in the fueling operation are allowed within 50 feet (15 240 mm) of the aircraft being fueled. Other aircraft-fueling vehicles or equipment are prohibited in this area until the fueling operation is complete.
+Exception:
+Aircraft-fueling operations utilizing single-point refueling with a sealed, mechanically locked fuel line connection and the fuel is not a
+flammable liquid
+.
+
+---
+
+During aircraft-fueling operations, only aircraft-fueling vehicles or other equipment actively involved in the fueling operation are allowed within 50 feet (15 240 mm) of the aircraft being fueled. Other aircraft-fueling vehicles or equipment are prohibited in this area until the fueling operation is complete.
+Exception:
+Aircraft-fueling operations utilizing single-point refueling with a sealed, mechanically locked fuel line connection and the fuel is not a
+flammable liquid
+.
+
+---
+
+## Section 2006.13.1: Overwing Fueling
+
+2006.13.1 Overwing Fueling
+Vehicles or equipment shall not be allowed beneath the trailing edge of the wing when aircraft fueling takes place over the wing and the aircraft fuel-
+system
+vents are located on the upper surface of the wing.
+
+---
+
+Vehicles or equipment shall not be allowed beneath the trailing edge of the wing when aircraft fueling takes place over the wing and the aircraft fuel-
+system
+vents are located on the upper surface of the wing.
+
+---
+
+## Section 2006.14: Electrical Equipment
+
+2006.14 Electrical Equipment
+Electrical equipment
+, including but not limited to, battery chargers, ground or auxiliary power units, fans, compressors or
+tools
+, shall not be operated, nor shall they be connected or disconnected from their power source, during fueling operations.
+UpCodes Diagram (1)
+
+---
+
+Electrical equipment
+, including but not limited to, battery chargers, ground or auxiliary power units, fans, compressors or
+tools
+, shall not be operated, nor shall they be connected or disconnected from their power source, during fueling operations.
+
+---
+
+## Section 2006.14.1: Other Equipment
+
+2006.14.1 Other Equipment
+Electrical
+or other spark-producing equipment shall not be used within 10 feet (3048 mm) of fueling equipment, aircraft fill or vent points, or spill areas unless such equipment is intrinsically safe and
+approved
+for use in an
+explosive
+atmosphere.
+
+---
+
+Electrical
+or other spark-producing equipment shall not be used within 10 feet (3048 mm) of fueling equipment, aircraft fill or vent points, or spill areas unless such equipment is intrinsically safe and
+approved
+for use in an
+explosive
+atmosphere.
+
+---
+
+## Section 2006.15: Reserved
+
+2006.15 Reserved
+
+---
+
+## Section 2006.16: Lightning
+
+2006.16 Lightning
+The
+commissioner
+may require the
+owner
+or operator of an
+aviation facility
+to establish criteria for the suspension and resumption of aircraft-fueling operations and other written procedures to implement in the event of lightning flashes at or near the
+aviation facility
+.
+
+---
+
+The
+commissioner
+may require the
+owner
+or operator of an
+aviation facility
+to establish criteria for the suspension and resumption of aircraft-fueling operations and other written procedures to implement in the event of lightning flashes at or near the
+aviation facility
+.
+
+---
+
+## Section 2006.17: Fuel-Transfer Locations
+
+2006.17 Fuel-Transfer Locations
+It shall be unlawful to conduct aircraft-fueling operations
+indoors
+.
+Exception:
+In aircraft hangars designed in accordance with the
+Building Code
+for
+Group F
+-1
+occupancies
+, aircraft fuel-transfer operations are allowed where:
+Such operation is necessary to accomplish aircraft fuel-
+system
+maintenance
+operations. Such operations shall be performed in accordance with nationally recognized standards; or
+The fuel being used has a
+flash point
+greater than 100°F (37.8°C).
+
+---
+
+It shall be unlawful to conduct aircraft-fueling operations
+indoors
+.
+Exception:
+In aircraft hangars designed in accordance with the
+Building Code
+for
+Group F
+-1
+occupancies
+, aircraft fuel-transfer operations are allowed where:
+Such operation is necessary to accomplish aircraft fuel-
+system
+maintenance
+operations. Such operations shall be performed in accordance with nationally recognized standards; or
+The fuel being used has a
+flash point
+greater than 100°F (37.8°C).
+
+---
+
+## Section 2006.17.1: Position of Aircraft
+
+2006.17.1 Position of Aircraft
+Aircraft being fueled shall be positioned such that any fuel
+system
+vents and other fuel
+tank
+openings are a minimum of:
+Twenty-five feet (7620 mm) from buildings or structures other than jet bridges; and
+Fifty feet (15 240 mm) from air intake vents for boiler, heater or incinerator rooms.
+
+---
+
+Aircraft being fueled shall be positioned such that any fuel
+system
+vents and other fuel
+tank
+openings are a minimum of:
+Twenty-five feet (7620 mm) from buildings or structures other than jet bridges; and
+Fifty feet (15 240 mm) from air intake vents for boiler, heater or incinerator rooms.
+
+---
+
+## Section 2006.17.2: Fire Equipment Access
+
+2006.17.2 Fire Equipment Access
+Access for
+fire
+service equipment to aircraft shall be maintained during aircraft-fueling operations.
+
+---
+
+Access for
+fire
+service equipment to aircraft shall be maintained during aircraft-fueling operations.
+
+---
+
+## Section 2006.18: Defueling Operations
+
+2006.18 Defueling Operations
+The requirements for aircraft-fueling operations contained in this section shall also apply to aircraft-defueling operations. Additional procedures shall be established by the
+owner
+or operator of the
+aviation facility
+to prevent overfilling of the
+cargo tank
+or other vehicle used in the defueling operation.
+
+---
+
+The requirements for aircraft-fueling operations contained in this section shall also apply to aircraft-defueling operations. Additional procedures shall be established by the
+owner
+or operator of the
+aviation facility
+to prevent overfilling of the
+cargo tank
+or other vehicle used in the defueling operation.
+
+---
+
+## Section 2006.19: Maintenance of Aircraft-Fueling Hose
+
+2006.19 Maintenance of Aircraft-Fueling Hose
+Aircraft-fueling hoses shall be maintained in accordance with
+FC 2006.19.1
+through
+2006.19.4
+.
+
+---
+
+Aircraft-fueling hoses shall be maintained in accordance with
+FC 2006.19.1
+through
+2006.19.4
+.
+
+---
+
+## Section 2006.19.1: Inspections
+
+2006.19.1 Inspections
+Hoses used to fuel or defuel aircraft shall be inspected periodically to ensure their serviceability and suitability for continued service.
+
+---
+
+Hoses used to fuel or defuel aircraft shall be inspected periodically to ensure their serviceability and suitability for continued service.
+
+---
+
+## Section 2006.19.1.1: Daily Inspection
+
+2006.19.1.1 Daily Inspection
+Hoses shall be inspected daily. This inspection shall include a complete visual scan of the exterior for evidence of damage, blistering or leakage. Each coupling shall be inspected for evidence of leaks, slippage or misalignment.
+
+---
+
+Hoses shall be inspected daily. This inspection shall include a complete visual scan of the exterior for evidence of damage, blistering or leakage. Each coupling shall be inspected for evidence of leaks, slippage or misalignment.
+
+---
+
+## Section 2006.19.1.2: Monthly Inspection
+
+2006.19.1.2 Monthly Inspection
+A more thorough inspection, including pressure testing, shall be performed on each hose on a monthly basis. This inspection shall include examination of the fuel delivery inlet screen for rubber particles, which may indicate deterioration of the hose lining.
+
+---
+
+A more thorough inspection, including pressure testing, shall be performed on each hose on a monthly basis. This inspection shall include examination of the fuel delivery inlet screen for rubber particles, which may indicate deterioration of the hose lining.
+
+---
+
+## Section 2006.19.2: Damaged Hose
+
+2006.19.2 Damaged Hose
+Hose that has been damaged shall be immediately removed from service.
+
+---
+
+Hose that has been damaged shall be immediately removed from service.
+
+---
+
+## Section 2006.19.3: Repairing Hose
+
+2006.19.3 Repairing Hose
+Hoses are allowed to be repaired by removing the damaged portion and recoupling the undamaged end. When recoupling hoses, only couplings designed and
+approved
+for the size and type of hose in question shall be used. Hoses repaired in this manner shall be visually inspected and hydrostatically tested prior to being placed back in service.
+
+---
+
+Hoses are allowed to be repaired by removing the damaged portion and recoupling the undamaged end. When recoupling hoses, only couplings designed and
+approved
+for the size and type of hose in question shall be used. Hoses repaired in this manner shall be visually inspected and hydrostatically tested prior to being placed back in service.
+
+---
+
+## Section 2006.19.4: New Hose
+
+2006.19.4 New Hose
+New hose shall be visually inspected prior to being placed into service.
+
+---
+
+New hose shall be visually inspected prior to being placed into service.
+
+---
+
+## Section 2006.20: Aircraft-Fueling Vehicles Parking
+
+2006.20 Aircraft-Fueling Vehicles Parking
+Unattended aircraft-fueling vehicles shall be parked in areas that provide for both the unencumbered dispersal of vehicles in the event of an emergency and the control of leakage such that adjacent buildings and storm drains are not contaminated by leaking fuel.
+
+---
+
+Unattended aircraft-fueling vehicles shall be parked in areas that provide for both the unencumbered dispersal of vehicles in the event of an emergency and the control of leakage such that adjacent buildings and storm drains are not contaminated by leaking fuel.
+
+---
+
+## Section 2006.20.1: Parking Area Design
+
+2006.20.1 Parking Area Design
+Parking areas for aircraft-fueling vehicles shall be designed and utilized such that a clearance of 10 feet (3048 mm) is maintained between each parked vehicle for
+department
+access. In addition, a minimum clearance of 50 feet (15 240 mm) shall be maintained between aircraft-fueling vehicles and parked aircraft and structures other than those used for the
+maintenance
+of aircraft-fueling vehicles. Aircraft-fueling vehicles shall not be stored
+indoors
+.
+
+---
+
+Parking areas for aircraft-fueling vehicles shall be designed and utilized such that a clearance of 10 feet (3048 mm) is maintained between each parked vehicle for
+department
+access. In addition, a minimum clearance of 50 feet (15 240 mm) shall be maintained between aircraft-fueling vehicles and parked aircraft and structures other than those used for the
+maintenance
+of aircraft-fueling vehicles. Aircraft-fueling vehicles shall not be stored
+indoors
+.
+
+---
+
+## Section 2006.21: Radar Equipment
+
+2006.21 Radar Equipment
+Aircraft-fueling operations shall be prohibited while the weather-mapping radar of that aircraft is operating. Aircraft-fueling or other operations in which
+flammable liquids
+, vapors or mists may be present shall not be conducted within 300 feet (91 440 mm) of an operating aircraft surveillance radar. Aircraft-fueling operations shall not be conducted within 300 feet (91 440 mm) of
+airport
+flight traffic surveillance radar equipment. Aircraft-fueling or other operations in which
+flammable liquids
+, vapors or mists may be present shall not be conducted within 100 feet (30 480 mm) of
+airport
+ground traffic surveillance radar equipment.
+
+---
+
+Aircraft-fueling operations shall be prohibited while the weather-mapping radar of that aircraft is operating. Aircraft-fueling or other operations in which
+flammable liquids
+, vapors or mists may be present shall not be conducted within 300 feet (91 440 mm) of an operating aircraft surveillance radar. Aircraft-fueling operations shall not be conducted within 300 feet (91 440 mm) of
+airport
+flight traffic surveillance radar equipment. Aircraft-fueling or other operations in which
+flammable liquids
+, vapors or mists may be present shall not be conducted within 100 feet (30 480 mm) of
+airport
+ground traffic surveillance radar equipment.
+
+---
+
+## Section 2006.21.1: Direction of Radar Beams
+
+2006.21.1 Direction of Radar Beams
+The beam from ground radar equipment shall not be directed toward fuel storage or loading racks.
+Exceptions:
+Fuel storage and loading racks in excess of 300 feet (91 440mm) from
+airport
+flight traffic surveillance equipment.
+Fuel storage and loading racks in excess of 100 feet (30 480 mm) from
+airport
+ground traffic surveillance equipment.
+
+---
+
+The beam from ground radar equipment shall not be directed toward fuel storage or loading racks.
+Exceptions:
+Fuel storage and loading racks in excess of 300 feet (91 440mm) from
+airport
+flight traffic surveillance equipment.
+Fuel storage and loading racks in excess of 100 feet (30 480 mm) from
+airport
+ground traffic surveillance equipment.
+
+---
+
+Section 2007 Helistops and Heliports
+
+---
+
+## Section 2007.1: General
+
+2007.1 General
+Helistops
+and
+heliports
+shall be maintained in accordance with this section.
+Helistops
+and
+heliports
+on buildings or structures shall be constructed in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Helistops
+and
+heliports
+shall be maintained in accordance with this section.
+Helistops
+and
+heliports
+on buildings or structures shall be constructed in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2007.2: Clearances
+
+2007.2 Clearances
+The touchdown area shall be surrounded on all sides by a clear area having minimum average width at roof level of 15 feet (4572 mm) but no width less than 5 feet (1524 mm). The clear area shall be maintained.
+
+---
+
+The touchdown area shall be surrounded on all sides by a clear area having minimum average width at roof level of 15 feet (4572 mm) but no width less than 5 feet (1524 mm). The clear area shall be maintained.
+
+---
+
+## Section 2007.3: Flammable and Class II Combustible Liquid Spillage
+
+2007.3 Flammable and Class II Combustible Liquid Spillage
+Landing areas on buildings or structures shall be maintained so as to confine flammable or Class II
+combustible liquid
+spillage to the landing area itself, and provisions shall be made to drain such spillage away from
+exits
+or stairways serving the helicopter landing area or from a structure housing such
+exit
+or stairway.
+
+---
+
+Landing areas on buildings or structures shall be maintained so as to confine flammable or Class II
+combustible liquid
+spillage to the landing area itself, and provisions shall be made to drain such spillage away from
+exits
+or stairways serving the helicopter landing area or from a structure housing such
+exit
+or stairway.
+
+---
+
+## Section 2007.4: Exits
+
+2007.4 Exits
+Exits
+and stairways shall be maintained in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Exits
+and stairways shall be maintained in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2007.5: Standpipe Systems
+
+2007.5 Standpipe Systems
+Where a building with a rooftop
+helistop
+or
+heliport
+is equipped with a
+standpipe system
+, the
+system
+shall be extended to the roof level on which the
+helistop
+or
+heliport
+is located. All portions of the
+helistop
+and
+heliport
+area shall be within 150 feet (45 720 mm) of a
+standpipe system
+outlet connection.
+
+---
+
+Where a building with a rooftop
+helistop
+or
+heliport
+is equipped with a
+standpipe system
+, the
+system
+shall be extended to the roof level on which the
+helistop
+or
+heliport
+is located. All portions of the
+helistop
+and
+heliport
+area shall be within 150 feet (45 720 mm) of a
+standpipe system
+outlet connection.
+
+---
+
+## Section 2007.6: Foam Protection
+
+2007.6 Foam Protection
+Foam
+fire
+-protection capabilities shall be provided for rooftop
+heliports
+as required by the
+construction codes
+, including the
+Building Code
+. Such
+systems
+shall be designed, installed, operated and maintained in accordance with
+FC Chapter 9
+.
+
+---
+
+Foam
+fire
+-protection capabilities shall be provided for rooftop
+heliports
+as required by the
+construction codes
+, including the
+Building Code
+. Such
+systems
+shall be designed, installed, operated and maintained in accordance with
+FC Chapter 9
+.
+
+---
+
+## Section 2007.6.1: Initial Foam Fire Extinguishing System Test
+
+2007.6.1 Initial Foam Fire Extinguishing System Test
+Upon installation, a foam
+fire extinguishing system
+shall be tested in accordance with
+FC Chapter 9
+. The test shall be conducted at the
+owner
+'s risk by his or her representative before a representative of the
+department
+.
+
+---
+
+Upon installation, a foam
+fire extinguishing system
+shall be tested in accordance with
+FC Chapter 9
+. The test shall be conducted at the
+owner
+'s risk by his or her representative before a representative of the
+department
+.
+
+---
+
+## Section 2007.6.2: Periodic Foam Fire Extinguishing System Test
+
+2007.6.2 Periodic Foam Fire Extinguishing System Test
+The foam
+fire extinguishing system
+shall be inspected, tested and maintained in accordance with
+FC Chapter 9
+. Additionally, the foam
+fire extinguishing system
+shall be tested at least once every 2 years, as required in
+FC5706.4.10.7
+.
+
+---
+
+The foam
+fire extinguishing system
+shall be inspected, tested and maintained in accordance with
+FC Chapter 9
+. Additionally, the foam
+fire extinguishing system
+shall be tested at least once every 2 years, as required in
+FC5706.4.10.7
+.
+
+---
+
+## Section 2007.7: Portable Fire Extinguishers
+
+2007.7 Portable Fire Extinguishers
+A minimum of one portable
+fire
+extinguisher having a minimum 80-B:C rating shall be provided for each permanent takeoff and landing area and for the aircraft parking areas. Installation, inspection and
+maintenance
+of these portable
+fire
+extinguishers shall be in accordance with
+FC906
+.
+
+---
+
+A minimum of one portable
+fire
+extinguisher having a minimum 80-B:C rating shall be provided for each permanent takeoff and landing area and for the aircraft parking areas. Installation, inspection and
+maintenance
+of these portable
+fire
+extinguishers shall be in accordance with
+FC906
+.
+
+---
+
+## Section 2007.8: Federal Approval
+
+2007.8 Federal Approval
+Before operating helicopters from
+helistops
+and
+heliports
+, approval shall be obtained from the Federal Aviation Administration and any other federal, state or city authority having jurisdiction.
+
+---
+
+Before operating helicopters from
+helistops
+and
+heliports
+, approval shall be obtained from the Federal Aviation Administration and any other federal, state or city authority having jurisdiction.
+
+---
+
+Section 2008 Seaplane Base Operations
+
+---
+
+## Section 2008.1: General
+
+2008.1 General
+Seaplane bases
+shall be operated in accordance with the requirements of
+FC 2001
+through
+2006
+, as applicable. Notwithstanding any provision of this code to the contrary, a waterfront
+liquid motor fuel
+dispensing
+facility
+used for the fueling of seaplanes shall be deemed to constitute a marine
+liquid motor fuel
+dispensing
+facility
+.
+
+---
+
+Seaplane bases
+shall be operated in accordance with the requirements of
+FC 2001
+through
+2006
+, as applicable. Notwithstanding any provision of this code to the contrary, a waterfront
+liquid motor fuel
+dispensing
+facility
+used for the fueling of seaplanes shall be deemed to constitute a marine
+liquid motor fuel
+dispensing
+facility
+.
+
+---
+
+Section 2009 Helicopter Landing Operations
+
+---
+
+## Section 2009.1: General
+
+2009.1 General
+Helicopter landing operations, at other than an
+approved
+heliport
+or
+helistop
+, shall be conducted in accordance with this section.
+
+---
+
+Helicopter landing operations, at other than an
+approved
+heliport
+or
+helistop
+, shall be conducted in accordance with this section.
+
+---
+
+## Section 2009.2: Permit Application
+
+2009.2 Permit Application
+The
+owner
+or operator of the helicopter conducting the helicopter landing operation shall make a
+permit application
+to the
+department
+at least
+20
+calendar days prior to the proposed landing. The
+permit applications
+shall be on such form and include such information and documentation as the
+commissioner
+may require, including the following:
+A site map of the area in which the helicopter landing operation is proposed to be conducted.
+Proof of a liability and casualty
+insurance
+policy in an amount to be determined by the
+commissioner
+but not less than two million dollars. Such
+insurance
+policy shall cover the
+permit
+holder and the
+permit
+holder's employees, agents and contractors for any loss, damage or injury to persons or property by reason of the conduct of the helicopter landing operation, or the failure to comply with any requirement of this chapter or the
+rules
+, or the terms and conditions of the
+permit
+.
+A copy of the pilot's license issued by the Federal Aviation Administration.
+A copy of the aircraft's airworthiness certificate issued by the Federal Aviation Administration.
+An affidavit of the property
+owner
+authorizing the helicopter landing operation on their property.
+
+---
+
+The
+owner
+or operator of the helicopter conducting the helicopter landing operation shall make a
+permit application
+to the
+department
+at least
+20
+calendar days prior to the proposed landing. The
+permit applications
+shall be on such form and include such information and documentation as the
+commissioner
+may require, including the following:
+A site map of the area in which the helicopter landing operation is proposed to be conducted.
+Proof of a liability and casualty
+insurance
+policy in an amount to be determined by the
+commissioner
+but not less than two million dollars. Such
+insurance
+policy shall cover the
+permit
+holder and the
+permit
+holder's employees, agents and contractors for any loss, damage or injury to persons or property by reason of the conduct of the helicopter landing operation, or the failure to comply with any requirement of this chapter or the
+rules
+, or the terms and conditions of the
+permit
+.
+A copy of the pilot's license issued by the Federal Aviation Administration.
+A copy of the aircraft's airworthiness certificate issued by the Federal Aviation Administration.
+An affidavit of the property
+owner
+authorizing the helicopter landing operation on their property.
+
+---
+
+## Section 2009.3: Required Clearances
+
+2009.3 Required Clearances
+The location at which the helicopter landing operations are to be conducted is subject to the approval of the
+department
+. The
+commissioner
+may specify the open space clearances to be provided.
+
+---
+
+The location at which the helicopter landing operations are to be conducted is subject to the approval of the
+department
+. The
+commissioner
+may specify the open space clearances to be provided.
+
+---
+
+Section 2010 Helicopter Lift Operations
+
+---
+
+## Section 2010.1: General
+
+2010.1 General
+Helicopter lift operations
+shall be conducted in accordance with this section.
+
+---
+
+Helicopter lift operations
+shall be conducted in accordance with this section.
+
+---
+
+## Section 2010.1.1: Department of Buildings Approval
+
+2010.1.1 Department of Buildings Approval
+Helicopter lift operations
+shall not be conducted except when the
+Commissioner
+of Buildings has authorized such operation.
+
+---
+
+Helicopter lift operations
+shall not be conducted except when the
+Commissioner
+of Buildings has authorized such operation.
+
+---
+
+## Section 2010.2: Permit Application
+
+2010.2 Permit Application
+The
+owner
+or operator of the helicopter used to conduct the lift operation shall make
+application
+to the
+department
+for a
+permit
+at least
+20
+calendar days prior to the proposed lift operation. The
+permit application
+shall be on such form and include such information and documentation as the
+commissioner
+may require, including the following:
+A site map of the area in which the lifting operation is proposed to be conducted.
+Proof of a liability and casualty
+insurance
+policy in an amount to be determined by the
+commissioner
+but not less than five million dollars. Such
+insurance
+policy shall cover the
+permit
+holder and the
+permit
+holder's employees, agents and contractors from any loss, damage or injury to persons or property by reason of the conduct of the lift operation, or the failure to comply with any requirement of this chapter or the
+rules
+, or the terms and conditions of the
+permit
+.
+A copy of the pilot's license issued by the Federal Aviation Administration.
+A copy of the aircraft's airworthiness certificate issued by the Federal Aviation Administration.
+An affidavit of the property
+owner
+authorizing the
+helicopter lift operation
+on their property.
+
+---
+
+The
+owner
+or operator of the helicopter used to conduct the lift operation shall make
+application
+to the
+department
+for a
+permit
+at least
+20
+calendar days prior to the proposed lift operation. The
+permit application
+shall be on such form and include such information and documentation as the
+commissioner
+may require, including the following:
+A site map of the area in which the lifting operation is proposed to be conducted.
+Proof of a liability and casualty
+insurance
+policy in an amount to be determined by the
+commissioner
+but not less than five million dollars. Such
+insurance
+policy shall cover the
+permit
+holder and the
+permit
+holder's employees, agents and contractors from any loss, damage or injury to persons or property by reason of the conduct of the lift operation, or the failure to comply with any requirement of this chapter or the
+rules
+, or the terms and conditions of the
+permit
+.
+A copy of the pilot's license issued by the Federal Aviation Administration.
+A copy of the aircraft's airworthiness certificate issued by the Federal Aviation Administration.
+An affidavit of the property
+owner
+authorizing the
+helicopter lift operation
+on their property.
+
+---
+
+## Section 2010.3: Helicopter Fueling
+
+2010.3 Helicopter Fueling
+It shall be unlawful to fuel helicopters in the staging or
+discharge area
+.
+
+---
+
+It shall be unlawful to fuel helicopters in the staging or
+discharge area
+.
+
+---
+
+## Section 2010.3.1: Portable Fuel Tanks
+
+2010.3.1 Portable Fuel Tanks
+Portable fuel
+tanks
+or drums within or on the exterior of the helicopter are prohibited. Auxiliary fuel storage
+tanks
+may be used provided they are an integral part of the aircraft's fuel
+system
+and of a type meeting the requirements of the Federal Aviation Administration.
+
+---
+
+Portable fuel
+tanks
+or drums within or on the exterior of the helicopter are prohibited. Auxiliary fuel storage
+tanks
+may be used provided they are an integral part of the aircraft's fuel
+system
+and of a type meeting the requirements of the Federal Aviation Administration.
+
+---
+
+## Section 2010.4: Smoking
+
+2010.4 Smoking
+It shall be unlawful to smoke within 100 feet (30 480 mm) of a fuel storage area or fueling operation. It shall be unlawful to smoke within 100 feet (30 480 mm) of the helicopter
+staging area
+or
+discharge area
+while lift operations are being conducted.
+
+---
+
+It shall be unlawful to smoke within 100 feet (30 480 mm) of a fuel storage area or fueling operation. It shall be unlawful to smoke within 100 feet (30 480 mm) of the helicopter
+staging area
+or
+discharge area
+while lift operations are being conducted.
+
+---
+
+## Section 2010.5: Staging and Discharge Areas
+
+2010.5 Staging and Discharge Areas
+The location of the staging and
+discharge areas
+, and their distance from any buildings or other impediments to flight, shall be subject to the approval of the
+commissioner
+, and shall be arranged and operated as set forth in
+FC 2010.5.1
+and
+2010.5.2
+.
+
+---
+
+The location of the staging and
+discharge areas
+, and their distance from any buildings or other impediments to flight, shall be subject to the approval of the
+commissioner
+, and shall be arranged and operated as set forth in
+FC 2010.5.1
+and
+2010.5.2
+.
+
+---
+
+## Section 2010.5.1: Emergency Access
+
+2010.5.1 Emergency Access
+Entrances to and
+exits
+from any
+premises
+or other location wherein lifting operations are being conducted shall be safeguarded in accordance with applicable laws,
+rules
+and regulations, but shall not be obstructed in a manner that prevents access or egress in the event of an emergency.
+
+---
+
+Entrances to and
+exits
+from any
+premises
+or other location wherein lifting operations are being conducted shall be safeguarded in accordance with applicable laws,
+rules
+and regulations, but shall not be obstructed in a manner that prevents access or egress in the event of an emergency.
+
+---
+
+## Section 2010.5.2: Restricted Locations
+
+2010.5.2 Restricted Locations
+Bulk plants or terminals or other
+premises
+where hazardous operations or
+occupancies
+are maintained shall not be used as a
+staging area
+or
+discharge area
+unless
+approved
+by the
+commissioner
+.
+
+---
+
+Bulk plants or terminals or other
+premises
+where hazardous operations or
+occupancies
+are maintained shall not be used as a
+staging area
+or
+discharge area
+unless
+approved
+by the
+commissioner
+.
+
+---
+
+## Section 2010.6: Fire Protection
+
+2010.6 Fire Protection
+An adequate supply of water shall be provided at the location where lifting operations are conducted. When the
+discharge area
+or other area of the lifting operation requires the use of a
+fire pump
+or other auxiliary equipment to augment the water supply, such equipment shall be under the
+personal supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+An adequate supply of water shall be provided at the location where lifting operations are conducted. When the
+discharge area
+or other area of the lifting operation requires the use of a
+fire pump
+or other auxiliary equipment to augment the water supply, such equipment shall be under the
+personal supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+## Section 2010.6.1: Foam Protection
+
+2010.6.1 Foam Protection
+An air foam nozzle, pick-up tube and a minimum of 5 gallons (19 L) of foam, suitable for the fuel hazard presented, shall be available on site.
+
+---
+
+An air foam nozzle, pick-up tube and a minimum of 5 gallons (19 L) of foam, suitable for the fuel hazard presented, shall be available on site.
+
+---
+
+## Section 2010.6.2: Portable Fire Extinguishers
+
+2010.6.2 Portable Fire Extinguishers
+Both the
+staging area
+and
+discharge area
+shall be provided with a minimum of two portable
+fire
+extinguishers each having a minimum 80-B:C rating.
+
+---
+
+Both the
+staging area
+and
+discharge area
+shall be provided with a minimum of two portable
+fire
+extinguishers each having a minimum 80-B:C rating.
+
+---
+
+## Section 2010.6.3: Department Monitoring
+
+2010.6.3 Department Monitoring
+Lift operations allowed pursuant to this section may be monitored by representatives of the
+department
+to ensure compliance with the requirements of this chapter and the
+rules
+. Such representatives shall be allowed within the perimeter of the lift operation for such purpose.
+
+---
+
+Lift operations allowed pursuant to this section may be monitored by representatives of the
+department
+to ensure compliance with the requirements of this chapter and the
+rules
+. Such representatives shall be allowed within the perimeter of the lift operation for such purpose.
+
+---
+
+## Section 2010.7: Communication
+
+2010.7 Communication
+Radio and/or other two-way wireless communication shall be maintained between the helicopter pilot and the ground at all times during the lift operation. The
+department
+representatives monitoring the lifting operation shall be provided with the ability to monitor such communications.
+
+---
+
+Radio and/or other two-way wireless communication shall be maintained between the helicopter pilot and the ground at all times during the lift operation. The
+department
+representatives monitoring the lifting operation shall be provided with the ability to monitor such communications.
+
+---
+
+## Section 2010.8: Discontinuance
+
+2010.8 Discontinuance
+Department
+representatives may temporarily suspend or cancel any lifting operation if, in their judgment, conditions exist that endanger public safety.
+
+---
+
+Department
+representatives may temporarily suspend or cancel any lifting operation if, in their judgment, conditions exist that endanger public safety.
+
+---
+
+Section 2011 Hot Air Balloon Operations
+
+---
+
+## Section 2011.1: General
+
+2011.1 General
+Hot air balloon operations
+shall be conducted in accordance with this section.
+
+---
+
+Hot air balloon operations
+shall be conducted in accordance with this section.
+
+---
+
+## Section 2011.1.1: Storage, Handling and Use of Flammable Gas
+
+2011.1.1 Storage, Handling and Use of Flammable Gas
+The storage,
+handling
+and use of
+LPG
+or other
+flammable gas
+for
+hot air balloon operations
+shall additionally be conducted in accordance with FC Chapters
+58
+and
+61
+, as applicable, and the
+rules
+.
+
+---
+
+The storage,
+handling
+and use of
+LPG
+or other
+flammable gas
+for
+hot air balloon operations
+shall additionally be conducted in accordance with FC Chapters
+58
+and
+61
+, as applicable, and the
+rules
+.
+
+---
+
+## Section 2011.2: Permit Application
+
+2011.2 Permit Application
+The
+owner
+or operator of the hot air balloon, or in the case of an event involving multiple
+owners
+or operators of hot air balloons, the
+sponsor
+of such event, shall make
+application
+to the
+department
+for a
+permit
+at least
+20
+calendar days prior to any anticipated or scheduled operation.
+Permit applications
+shall be on such form and include such information and documentation as the
+commissioner
+may require, including the following:
+A site map of the area in which the
+hot air balloon operation
+is proposed to be conducted.
+Proof of a liability and casualty
+insurance
+policy in an amount to be determined by the
+commissioner
+but not less than two million dollars. Such
+insurance
+policy shall cover the
+permit
+holder and the
+permit
+holder's employees, agents and contractors from any loss, damage or injury to persons or property by reason of the conduct of the lifting operation, or the failure to comply with any requirement of this chapter or the
+rules
+, or the terms and conditions of the
+permit
+.
+A copy of the pilot's license issued by the Federal Aviation Administration.
+A copy of the aircraft's airworthiness certificate issued by the Federal Aviation Administration.
+An affidavit of the property
+owner
+authorizing the
+hot air balloon operation
+on their property.
+All information and documentation required for issuance of a
+permit
+for LPG storage,
+handling
+and use in connection with the
+hot air balloon operation
+pursuant to
+FC Chapter 61
+and the
+rules
+.
+
+---
+
+The
+owner
+or operator of the hot air balloon, or in the case of an event involving multiple
+owners
+or operators of hot air balloons, the
+sponsor
+of such event, shall make
+application
+to the
+department
+for a
+permit
+at least
+20
+calendar days prior to any anticipated or scheduled operation.
+Permit applications
+shall be on such form and include such information and documentation as the
+commissioner
+may require, including the following:
+A site map of the area in which the
+hot air balloon operation
+is proposed to be conducted.
+Proof of a liability and casualty
+insurance
+policy in an amount to be determined by the
+commissioner
+but not less than two million dollars. Such
+insurance
+policy shall cover the
+permit
+holder and the
+permit
+holder's employees, agents and contractors from any loss, damage or injury to persons or property by reason of the conduct of the lifting operation, or the failure to comply with any requirement of this chapter or the
+rules
+, or the terms and conditions of the
+permit
+.
+A copy of the pilot's license issued by the Federal Aviation Administration.
+A copy of the aircraft's airworthiness certificate issued by the Federal Aviation Administration.
+An affidavit of the property
+owner
+authorizing the
+hot air balloon operation
+on their property.
+All information and documentation required for issuance of a
+permit
+for LPG storage,
+handling
+and use in connection with the
+hot air balloon operation
+pursuant to
+FC Chapter 61
+and the
+rules
+.
+
+---
+
+## Section 2011.3: Required Clearances
+
+2011.3 Required Clearances
+The location at which
+hot air balloon operations
+are to be conducted are subject to the approval of the
+department
+, provided, however, that a balloon shall not be secured or filled unless there is at least 150 feet (45 720 mm) of open space in all directions when measured from the center of the balloon.
+
+---
+
+The location at which
+hot air balloon operations
+are to be conducted are subject to the approval of the
+department
+, provided, however, that a balloon shall not be secured or filled unless there is at least 150 feet (45 720 mm) of open space in all directions when measured from the center of the balloon.
+
+---
+
+## Section 2011.4: Securing of Balloons
+
+2011.4 Securing of Balloons
+Balloons shall have at least a three-point tie down to substantially immovable objects.
+
+---
+
+Balloons shall have at least a three-point tie down to substantially immovable objects.
+
+---
+
+## Section 2011.5: Weather Conditions
+
+2011.5 Weather Conditions
+Hot air balloon operations
+shall be conducted only under weather conditions conducive to such operation and in no circumstance when prevailing winds exceed 15 miles (24.135 km) per hour.
+
+---
+
+Hot air balloon operations
+shall be conducted only under weather conditions conducive to such operation and in no circumstance when prevailing winds exceed 15 miles (24.135 km) per hour.
+
+---
+
+## Section 2011.6: Discontinuance
+
+2011.6 Discontinuance
+Department
+representatives may temporarily suspend or cancel any
+hot air balloon operation
+if, in their judgment, conditions exist that endanger public safety.
+
+---
+
+Department
+representatives may temporarily suspend or cancel any
+hot air balloon operation
+if, in their judgment, conditions exist that endanger public safety.
+
+---
+

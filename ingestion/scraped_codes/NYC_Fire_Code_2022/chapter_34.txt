@@ -1,0 +1,876 @@
+# NYC Fire Code 2022 - Chapter 34
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+3401 General
+
+---
+
+3402 Definitions
+
+---
+
+3403 Tire Rebuilding
+
+---
+
+3404 Precautions Against Fire
+
+---
+
+3405 Outdoor Storage
+
+---
+
+3406 Fire Department Access
+
+---
+
+3407 Fencing
+
+---
+
+3408 Fire Protection
+
+---
+
+3409 Indoor Storage Arrangement
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Section 3401 General
+
+---
+
+## Section 3401.1: Scope
+
+3401.1 Scope
+This chapter shall govern the design, operation and
+maintenance
+of tire rebuilding plants, tire storage and tire byproduct
+facilities
+.
+
+---
+
+This chapter shall govern the design, operation and
+maintenance
+of tire rebuilding plants, tire storage and tire byproduct
+facilities
+.
+
+---
+
+## Section 3401.2: Permits
+
+3401.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 3401.3: General
+
+3401.3 General
+Tire rebuilding plants, tire storage and tire byproduct
+facilities
+shall be designed, operated and maintained in accordance with this chapter,
+NFPA 13
+, as modified by
+FC Appendix B
+, and if applicable,
+FC Chapter 32
+.
+
+---
+
+Tire rebuilding plants, tire storage and tire byproduct
+facilities
+shall be designed, operated and maintained in accordance with this chapter,
+NFPA 13
+, as modified by
+FC Appendix B
+, and if applicable,
+FC Chapter 32
+.
+
+---
+
+Section 3402 Definitions
+
+---
+
+## Section 3402.1: Terms Defined in FC Chapter 2
+
+3402.1 Terms Defined in FC Chapter 2
+Terms used in this chapter and defined in
+FC202
+shall have the meanings set forth therein.
+
+---
+
+Terms used in this chapter and defined in
+FC202
+shall have the meanings set forth therein.
+
+---
+
+Section 3403 Tire Rebuilding
+
+---
+
+## Section 3403.1: Construction
+
+3403.1 Construction
+Tire rebuilding plants shall comply with the requirements of the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Tire rebuilding plants shall comply with the requirements of the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 3403.2: Location
+
+3403.2 Location
+Buffing operations shall be conducted in a room separated from the remainder of the building housing the tire rebuilding or tire recapping operations by a 1-hour
+fire
+barrier.
+Exception:
+Buffing operations are not required to be separated where the following requirements are complied with:
+Buffing operations are protected throughout by a continuous water-spray
+fire protection system
+directed at the point of cutting action.
+Buffing machines are connected to particle-collecting
+systems
+providing a minimum air movement of 1,500 cubic feet per minute (cfm) (0.71m
+3
+/s) in volume and 4,500 feet per minute (fpm) (23 m/s) in-line velocity.
+The collecting
+system
+shall discharge the rubber particles to an
+approved
+outdoor noncombustible or noncombustible
+container
+, which is emptied at frequent intervals to prevent overflow.
+
+---
+
+Buffing operations shall be conducted in a room separated from the remainder of the building housing the tire rebuilding or tire recapping operations by a 1-hour
+fire
+barrier.
+Exception:
+Buffing operations are not required to be separated where the following requirements are complied with:
+Buffing operations are protected throughout by a continuous water-spray
+fire protection system
+directed at the point of cutting action.
+Buffing machines are connected to particle-collecting
+systems
+providing a minimum air movement of 1,500 cubic feet per minute (cfm) (0.71m
+3
+/s) in volume and 4,500 feet per minute (fpm) (23 m/s) in-line velocity.
+The collecting
+system
+shall discharge the rubber particles to an
+approved
+outdoor noncombustible or noncombustible
+container
+, which is emptied at frequent intervals to prevent overflow.
+
+---
+
+## Section 3403.3: Cleaning
+
+3403.3 Cleaning
+The buffing area shall be cleaned and
+combustible waste
+regularly removed and disposed of to prevent the accumulation of rubber particles.
+
+---
+
+The buffing area shall be cleaned and
+combustible waste
+regularly removed and disposed of to prevent the accumulation of rubber particles.
+
+---
+
+## Section 3403.4: Spray Rooms and Booths
+
+3403.4 Spray Rooms and Booths
+Spray rooms
+or
+spray booths
+wherein flammable or combustible solvents are applied shall comply with the requirements of
+FC Chapter 24
+.
+
+---
+
+Spray rooms
+or
+spray booths
+wherein flammable or combustible solvents are applied shall comply with the requirements of
+FC Chapter 24
+.
+
+---
+
+Section 3404 Precautions Against Fire
+
+---
+
+## Section 3404.1: Open Fires and Flames Prohibited
+
+3404.1 Open Fires and Flames Prohibited
+It shall be unlawful in a tire storage yard to ignite or maintain an open
+fire
+or
+open flame
+.
+
+---
+
+It shall be unlawful in a tire storage yard to ignite or maintain an open
+fire
+or
+open flame
+.
+
+---
+
+## Section 3404.2: Hot Work Prohibited
+
+3404.2 Hot Work Prohibited
+It shall be unlawful in a tire storage yard to conduct
+hot work
+operations.
+
+---
+
+It shall be unlawful in a tire storage yard to conduct
+hot work
+operations.
+
+---
+
+## Section 3404.3: Smoking Prohibited
+
+3404.3 Smoking Prohibited
+It shall be unlawful in a tire storage yard to smoke.
+
+---
+
+It shall be unlawful in a tire storage yard to smoke.
+
+---
+
+## Section 3404.4: Power Lines
+
+3404.4 Power Lines
+Tire storage piles shall not be located beneath
+electrical
+power lines having a voltage in excess of 750 volts or near lines supplying power to
+fire
+emergency
+systems
+where a
+fire
+in such storage piles would damage such lines.
+
+---
+
+Tire storage piles shall not be located beneath
+electrical
+power lines having a voltage in excess of 750 volts or near lines supplying power to
+fire
+emergency
+systems
+where a
+fire
+in such storage piles would damage such lines.
+
+---
+
+## Section 3404.5: Reserved
+
+3404.5 Reserved
+
+---
+
+## Section 3404.6: Emergency Telephone
+
+3404.6 Emergency Telephone
+A telephone not requiring a coin to operate, or another
+approved
+, clearly identified means to notify the
+department
+, shall be provided at the
+facility
+in an
+approved
+location. A sign shall be conspicuously posted at or near the telephone indicating that all
+fires
+shall be immediately reported to the
+department
+, and setting forth the
+facility
+'s address with cross-street reference and the
+fire
+department
+telephone number.
+
+---
+
+A telephone not requiring a coin to operate, or another
+approved
+, clearly identified means to notify the
+department
+, shall be provided at the
+facility
+in an
+approved
+location. A sign shall be conspicuously posted at or near the telephone indicating that all
+fires
+shall be immediately reported to the
+department
+, and setting forth the
+facility
+'s address with cross-street reference and the
+fire
+department
+telephone number.
+
+---
+
+Section 3405 Outdoor Storage
+
+---
+
+## Section 3405.1: Individual Piles
+
+3405.1 Individual Piles
+Tire storage shall be restricted to individual piles not exceeding 5,000 square feet (464.5 m
+2
+) of continuous area. Piles shall not exceed 50,000 cubic feet (1416 m
+3
+) in volume or 10 feet (3048 mm) in height.
+
+---
+
+Tire storage shall be restricted to individual piles not exceeding 5,000 square feet (464.5 m
+2
+) of continuous area. Piles shall not exceed 50,000 cubic feet (1416 m
+3
+) in volume or 10 feet (3048 mm) in height.
+
+---
+
+## Section 3405.2: Separation of Piles
+
+3405.2 Separation of Piles
+Individual tire storage piles shall be separated from other piles by a clear space of at least 40 feet (12 192 mm).
+
+---
+
+Individual tire storage piles shall be separated from other piles by a clear space of at least 40 feet (12 192 mm).
+
+---
+
+## Section 3405.3: Distance Between Piles of Other Stored Products
+
+3405.3 Distance Between Piles of Other Stored Products
+Tire storage piles shall be separated by a clear space of at least 40 feet (12 192 mm) from piles of other stored product.
+
+---
+
+Tire storage piles shall be separated by a clear space of at least 40 feet (12 192 mm) from piles of other stored product.
+
+---
+
+## Section 3405.4: Distance From Lot Lines and Buildings
+
+3405.4 Distance From Lot Lines and Buildings
+Tire storage piles shall be located at least 50 feet (15 240 mm) from lot lines and buildings unless the
+commissioner
+approves a lesser
+separation distance
+of tire storage piles in accordance with the criteria set forth in
+NFPA 13
+.
+
+---
+
+Tire storage piles shall be located at least 50 feet (15 240 mm) from lot lines and buildings unless the
+commissioner
+approves a lesser
+separation distance
+of tire storage piles in accordance with the criteria set forth in
+NFPA 13
+.
+
+---
+
+## Section 3405.5: Fire Breaks
+
+3405.5 Fire Breaks
+Storage yards shall be maintained free from combustible grass and weeds for a distance of 40 feet (12 192 mm) from the stored tires; and for a distance of 100 feet (30 480 mm) from the stored tires to brush and forested areas.
+
+---
+
+Storage yards shall be maintained free from combustible grass and weeds for a distance of 40 feet (12 192 mm) from the stored tires; and for a distance of 100 feet (30 480 mm) from the stored tires to brush and forested areas.
+
+---
+
+## Section 3405.6: Volume More Than 150,000 Cubic Feet
+
+3405.6 Volume More Than 150,000 Cubic Feet
+Where the bulk volume of stored material is more than 150,000 cubic feet (4248 m
+3
+),
+fire
+breaks shall be provided around the perimeter of each group of storage piles in accordance with the following:
+Individual storage piles shall be arranged so that there are not more than 16 individual storage piles per group.
+Fire
+breaks shall at least be 75 feet (22 860 mm) wide.
+
+---
+
+Where the bulk volume of stored material is more than 150,000 cubic feet (4248 m
+3
+),
+fire
+breaks shall be provided around the perimeter of each group of storage piles in accordance with the following:
+Individual storage piles shall be arranged so that there are not more than 16 individual storage piles per group.
+Fire
+breaks shall at least be 75 feet (22 860 mm) wide.
+
+---
+
+## Section 3405.7: Location
+
+3405.7 Location
+Outdoor tire storage shall not be located under bridges, elevated trestles, elevated roadways or elevated railroads.
+
+---
+
+Outdoor tire storage shall not be located under bridges, elevated trestles, elevated roadways or elevated railroads.
+
+---
+
+Section 3406 Fire Department Access
+
+---
+
+## Section 3406.1: Required Access
+
+3406.1 Required Access
+New and existing tire storage yards shall be provided with
+fire apparatus access roads
+in accordance with
+FC503
+and this section.
+
+---
+
+New and existing tire storage yards shall be provided with
+fire apparatus access roads
+in accordance with
+FC503
+and this section.
+
+---
+
+## Section 3406.2: Location
+
+3406.2 Location
+Fire apparatus access roads
+shall be located within all pile clearances identified in
+FC3405.4
+and within all
+fire
+breaks required in
+FC 3405.5
+and
+3405.6
+. Access roadways shall be within 150 feet (45 720 mm) of any point in the storage yard where storage piles are located, at least 20 feet (6096 mm) from any storage pile.
+
+---
+
+Fire apparatus access roads
+shall be located within all pile clearances identified in
+FC3405.4
+and within all
+fire
+breaks required in
+FC 3405.5
+and
+3405.6
+. Access roadways shall be within 150 feet (45 720 mm) of any point in the storage yard where storage piles are located, at least 20 feet (6096 mm) from any storage pile.
+
+---
+
+Section 3407 Fencing
+
+---
+
+## Section 3407.1: Where Required
+
+3407.1 Where Required
+Where the bulk volume of stored material is more than 20,000 cubic feet (566 m
+3
+), a firmly anchored fence or other
+approved
+method of security that controls unauthorized access to the storage yard shall surround the storage yard.
+
+---
+
+Where the bulk volume of stored material is more than 20,000 cubic feet (566 m
+3
+), a firmly anchored fence or other
+approved
+method of security that controls unauthorized access to the storage yard shall surround the storage yard.
+
+---
+
+## Section 3407.2: Construction
+
+3407.2 Construction
+The fence shall be constructed of
+approved
+materials and shall be at least 6 feet (1829 mm) high and provided with gates at least 20 feet (6096 mm) wide. Where gates are constructed, they shall comply with the vertical clearance requirements of
+FC503
+.
+
+---
+
+The fence shall be constructed of
+approved
+materials and shall be at least 6 feet (1829 mm) high and provided with gates at least 20 feet (6096 mm) wide. Where gates are constructed, they shall comply with the vertical clearance requirements of
+FC503
+.
+
+---
+
+## Section 3407.3: Security
+
+3407.3 Security
+All gates to the storage yard shall be locked when the storage yard is not staffed
+
+---
+
+All gates to the storage yard shall be locked when the storage yard is not staffed
+
+---
+
+Section 3408 Fire Protection
+
+---
+
+## Section 3408.1: Water Supply
+
+3408.1 Water Supply
+A public or private
+fire
+protection water supply shall be provided in accordance with
+FC507
+. The water supply shall be arranged such that any part of the storage yard can be reached by using not more than 300 feet (91 m) of hose.
+
+---
+
+A public or private
+fire
+protection water supply shall be provided in accordance with
+FC507
+. The water supply shall be arranged such that any part of the storage yard can be reached by using not more than 300 feet (91 m) of hose.
+
+---
+
+## Section 3408.2: Portable Fire Extinguishers
+
+3408.2 Portable Fire Extinguishers
+Buildings or structures shall be provided with portable
+fire
+extinguishers in accordance with
+FC906
+. Fuel-fired vehicles operating in the storage yard shall be equipped with a minimum 2-A:20-B:C rated portable
+fire
+extinguisher.
+
+---
+
+Buildings or structures shall be provided with portable
+fire
+extinguishers in accordance with
+FC906
+. Fuel-fired vehicles operating in the storage yard shall be equipped with a minimum 2-A:20-B:C rated portable
+fire
+extinguisher.
+
+---
+
+Section 3409 Indoor Storage Arrangement
+
+---
+
+## Section 3409.1: Pile Dimensions
+
+3409.1 Pile Dimensions
+Where tires are stored on-tread, the dimension of the pile in the direction of the wheel hole shall not be more than 50 feet (15 240 mm). Tires stored adjacent to or along one wall shall not extend more than 25 feet (7620 mm) from that wall. Other piles shall not be more than 50 feet (15 240 mm) in width.
+
+---
+
+Where tires are stored on-tread, the dimension of the pile in the direction of the wheel hole shall not be more than 50 feet (15 240 mm). Tires stored adjacent to or along one wall shall not extend more than 25 feet (7620 mm) from that wall. Other piles shall not be more than 50 feet (15 240 mm) in width.
+
+---
+

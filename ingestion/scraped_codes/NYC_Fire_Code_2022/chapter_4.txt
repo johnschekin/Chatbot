@@ -1,0 +1,7894 @@
+# NYC Fire Code 2022 - Chapter 4
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+401 General
+
+---
+
+402 Definitions
+
+---
+
+403 Public Gatherings
+
+---
+
+404 Office Buildings
+
+---
+
+405 Hotels, Motels and Other Transient Residential Occupancies
+
+---
+
+406 Apartment Buildings
+
+---
+
+407 Assembly Occupancies
+
+---
+
+408 Assisted Living Facilities and Similar Occupancies
+
+---
+
+409 Correctional Facilities and Other Secured Facilities
+
+---
+
+410 Educational Occupancies
+
+---
+
+411 Factories
+
+---
+
+412 High Hazard Occupancies
+
+---
+
+413 Hospitals, Nursing Homes and Other Patient and Residential Care Facilities
+
+---
+
+414 Mercantile Occupancies and Covered Malls
+
+---
+
+415 Warehouses and Other Storage Occupancies
+
+---
+
+416 Mixed Occupancy Buildings
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Section 401 General
+
+---
+
+## Section 401.1: Scope
+
+401.1 Scope
+This chapter governs
+emergency reporting
+, planning and preparedness.
+
+---
+
+This chapter governs
+emergency reporting
+, planning and preparedness.
+
+---
+
+## Section 401.2: Emergency Reporting
+
+401.2 Emergency Reporting
+
+---
+
+## Section 401.2.1: Reporting to Department
+
+401.2.1 Reporting to Department
+Any
+owner
+, occupant or other person who becomes aware of a
+fire
+or
+explosion
+or any other emergency shall immediately report such emergency to the
+department
+. No
+owner
+or other person shall issue any directive or take any action to prevent or delay the reporting of a
+fire
+or other emergency to the
+department
+.
+
+---
+
+Any
+owner
+, occupant or other person who becomes aware of a
+fire
+or
+explosion
+or any other emergency shall immediately report such emergency to the
+department
+. No
+owner
+or other person shall issue any directive or take any action to prevent or delay the reporting of a
+fire
+or other emergency to the
+department
+.
+
+---
+
+## Section 401.2.2: Signage
+
+401.2.2 Signage
+A durable, legible sign setting forth the following information for reporting a
+fire
+or other emergency (including the text to be inserted based on the building's location) shall be posted in a conspicuous location in the lobby of the main front entrance of a
+Group A
+, B, E, F, I, M and R-1 building:
+To report a
+fire
+or other emergency by telephone dial "911." Such sign may include, in buildings or
+occupancies
+with a designated telephone number for reporting of emergencies occurring in or affecting the building or
+occupancy
+, such telephone number, provided that such signage states that the
+fire
+and emergency first be reported to "911."
+Exception:
+Buildings exempt from such sign requirement as set forth in the
+rules
+.
+
+---
+
+A durable, legible sign setting forth the following information for reporting a
+fire
+or other emergency (including the text to be inserted based on the building's location) shall be posted in a conspicuous location in the lobby of the main front entrance of a
+Group A
+, B, E, F, I, M and R-1 building:
+To report a
+fire
+or other emergency by telephone dial "911." Such sign may include, in buildings or
+occupancies
+with a designated telephone number for reporting of emergencies occurring in or affecting the building or
+occupancy
+, such telephone number, provided that such signage states that the
+fire
+and emergency first be reported to "911."
+Exception:
+Buildings exempt from such sign requirement as set forth in the
+rules
+.
+
+---
+
+## Section 401.3: Emergency Preparedness Plans
+
+401.3 Emergency Preparedness Plans
+The emergency preparedness plans required by this chapter shall serve to assure that procedures are in place that can be timely implemented in the event of a
+fire
+or
+non-fire emergency
+to provide the information, guidance, direction and assistance needed to protect the safety of
+building occupants
+, including, if necessary, effecting their
+evacuation
+, relocation or sheltering in place. Such emergency preparedness plans shall further serve to assure that knowledgeable assistance is readily available on the
+premises
+to emergency response personnel responding to a
+fire
+or
+non-fire emergency
+at the
+premises
+.
+
+---
+
+The emergency preparedness plans required by this chapter shall serve to assure that procedures are in place that can be timely implemented in the event of a
+fire
+or
+non-fire emergency
+to provide the information, guidance, direction and assistance needed to protect the safety of
+building occupants
+, including, if necessary, effecting their
+evacuation
+, relocation or sheltering in place. Such emergency preparedness plans shall further serve to assure that knowledgeable assistance is readily available on the
+premises
+to emergency response personnel responding to a
+fire
+or
+non-fire emergency
+at the
+premises
+.
+
+---
+
+## Section 401.3.1: General
+
+401.3.1 General
+The
+owner
+of any
+premises
+required by this chapter to have an emergency preparedness plan shall cause such plan to be prepared for such
+premises
+in the form prescribed by the
+commissioner
+, and periodically reviewed and amended, in accordance with this section and the
+rules
+. The
+commissioner
+may prescribe by rule the qualifications of the person preparing such plans.
+
+---
+
+The
+owner
+of any
+premises
+required by this chapter to have an emergency preparedness plan shall cause such plan to be prepared for such
+premises
+in the form prescribed by the
+commissioner
+, and periodically reviewed and amended, in accordance with this section and the
+rules
+. The
+commissioner
+may prescribe by rule the qualifications of the person preparing such plans.
+
+---
+
+## Section 401.3.2: Types of Emergency Preparedness Plans
+
+401.3.2 Types of Emergency Preparedness Plans
+This chapter establishes the following three types of
+emergency preparedness plans
+, which reflect the use, size, complexity and risk vulnerability of the building or
+occupancy
+; the presence of building staff and/or other
+building occupants
+capable of implementing such plan; the availability of
+voice communication capability
+; and other considerations:
+Level 1
+:
+comprehensive fire safety/emergency action plan
+(FC
+401.4
+).
+Level 2
+:
+fire and emergency preparedness plan
+(FC
+401.5
+).
+Level 3
+:
+fire and emergency preparedness guide and notices
+(FC
+401.6
+).
+
+---
+
+This chapter establishes the following three types of
+emergency preparedness plans
+, which reflect the use, size, complexity and risk vulnerability of the building or
+occupancy
+; the presence of building staff and/or other
+building occupants
+capable of implementing such plan; the availability of
+voice communication capability
+; and other considerations:
+Level 1
+:
+comprehensive fire safety/emergency action plan
+(FC
+401.4
+).
+Level 2
+:
+fire and emergency preparedness plan
+(FC
+401.5
+).
+Level 3
+:
+fire and emergency preparedness guide and notices
+(FC
+401.6
+).
+
+---
+
+## Section 401.3.2.1: Multi-Building Campus Plans
+
+401.3.2.1 Multi-Building Campus Plans
+The
+fire
+commissioner
+may approve a multi-building campus emergency preparedness plan, including specific minimum staffing qualifications and levels, for educational and health care
+occupancies
+subject to FC408, 410 and/or FC413, with certain specified emergency preparedness functions performed by staff assigned to multiple campus buildings. Such multi-building campuses shall consist of a single block, contiguous blocks or other
+approved
+geographic area, or a series of physically interconnected buildings.
+
+---
+
+The
+fire
+commissioner
+may approve a multi-building campus emergency preparedness plan, including specific minimum staffing qualifications and levels, for educational and health care
+occupancies
+subject to FC408, 410 and/or FC413, with certain specified emergency preparedness functions performed by staff assigned to multiple campus buildings. Such multi-building campuses shall consist of a single block, contiguous blocks or other
+approved
+geographic area, or a series of physically interconnected buildings.
+
+---
+
+## Section 401.3.3: Maintenance on Premises
+
+401.3.3 Maintenance on Premises
+A copy of the emergency preparedness plan shall be maintained at the
+premises
+for which such plan is required and kept readily available for inspection at all times. The
+department
+may require that the emergency preparedness plan be maintained at an
+approved
+location on the
+premises
+in an
+approved
+first responder box secured by a
+citywide standard key
+to ensure availability of the plan at all times.
+
+---
+
+A copy of the emergency preparedness plan shall be maintained at the
+premises
+for which such plan is required and kept readily available for inspection at all times. The
+department
+may require that the emergency preparedness plan be maintained at an
+approved
+location on the
+premises
+in an
+approved
+first responder box secured by a
+citywide standard key
+to ensure availability of the plan at all times.
+
+---
+
+## Section 401.3.4: Building Information Card and Floor Plans
+
+401.3.4 Building Information Card and Floor Plans
+In buildings or
+occupancies
+required to prepare a comprehensive
+fire
+safety and emergency action plan, and in
+high-rise buildings
+and
+large-area buildings
+required to prepare a
+fire and emergency preparedness plan
+, or such other building or
+occupancy
+as required by this chapter or the
+rules
+, a building information card depicting and/or setting forth the
+fire
+safety information prescribed by the
+commissioner
+by rule shall be maintained on the
+premises
+and submitted or otherwise made available to the
+department
+as set forth in the
+rules
+. An amended building information card shall be submitted for
+department
+review and approval as set forth in the
+rules
+. When required by this code or rule, building floor plans shall be submitted to the
+department
+in an
+approved
+manner.
+
+---
+
+In buildings or
+occupancies
+required to prepare a comprehensive
+fire
+safety and emergency action plan, and in
+high-rise buildings
+and
+large-area buildings
+required to prepare a
+fire and emergency preparedness plan
+, or such other building or
+occupancy
+as required by this chapter or the
+rules
+, a building information card depicting and/or setting forth the
+fire
+safety information prescribed by the
+commissioner
+by rule shall be maintained on the
+premises
+and submitted or otherwise made available to the
+department
+as set forth in the
+rules
+. An amended building information card shall be submitted for
+department
+review and approval as set forth in the
+rules
+. When required by this code or rule, building floor plans shall be submitted to the
+department
+in an
+approved
+manner.
+
+---
+
+## Section 401.3.5: Periodic Review and Revision
+
+401.3.5 Periodic Review and Revision
+Emergency preparedness plans
+and building information cards shall be reviewed and updated as necessitated by changes in staff assignments, use or
+occupancy
+, or the design and arrangement of the
+premises
+, but at least annually. An entry shall be made in the log book required by
+FC401.8
+documenting such review, and indicating the
+general
+nature of any amendments to be made to such plan. Submission of an amended emergency preparedness plan shall not be required solely by reason of staffing changes or revisions to the building information card.
+Fire
+and emergency preparedness guides and notices shall be reviewed prior to each distribution required by this code or the
+rules
+, and shall be revised within
+60
+days of any change in building construction or service equipment materially affecting the content of such guide or notice.
+
+---
+
+Emergency preparedness plans
+and building information cards shall be reviewed and updated as necessitated by changes in staff assignments, use or
+occupancy
+, or the design and arrangement of the
+premises
+, but at least annually. An entry shall be made in the log book required by
+FC401.8
+documenting such review, and indicating the
+general
+nature of any amendments to be made to such plan. Submission of an amended emergency preparedness plan shall not be required solely by reason of staffing changes or revisions to the building information card.
+Fire
+and emergency preparedness guides and notices shall be reviewed prior to each distribution required by this code or the
+rules
+, and shall be revised within
+60
+days of any change in building construction or service equipment materially affecting the content of such guide or notice.
+
+---
+
+## Section 401.3.6: Applicability to Existing Buildings and Occupancies
+
+401.3.6 Applicability to Existing Buildings and Occupancies
+The preparation of an emergency preparedness plan shall constitute an operational requirement. Except as otherwise provided in this section,
+owners
+of buildings and
+occupancies
+required by this chapter to have a comprehensive
+fire
+safety and emergency action plan shall have 24 months from the promulgation of
+rules
+implementing such emergency preparedness plan provisions of this chapter to prepare such plan and submit it to the
+department
+for acceptance.
+Owners
+of buildings and
+occupancies
+required by this chapter to have any other emergency preparedness plan shall have 18 months from the promulgation of
+rules
+implementing such emergency preparedness plan provisions of this chapter to prepare such plan and, if required by this chapter, submit it to the
+department
+for acceptance.
+
+---
+
+The preparation of an emergency preparedness plan shall constitute an operational requirement. Except as otherwise provided in this section,
+owners
+of buildings and
+occupancies
+required by this chapter to have a comprehensive
+fire
+safety and emergency action plan shall have 24 months from the promulgation of
+rules
+implementing such emergency preparedness plan provisions of this chapter to prepare such plan and submit it to the
+department
+for acceptance.
+Owners
+of buildings and
+occupancies
+required by this chapter to have any other emergency preparedness plan shall have 18 months from the promulgation of
+rules
+implementing such emergency preparedness plan provisions of this chapter to prepare such plan and, if required by this chapter, submit it to the
+department
+for acceptance.
+
+---
+
+## Section 401.3.6.1: New and Existing Buildings and Occupancies
+
+401.3.6.1 New and Existing Buildings and Occupancies
+Until
+rules
+implementing the emergency preparedness plan provisions of this chapter take effect, buildings and
+occupancies
+required to prepare an emergency preparedness plan under this code shall comply with the emergency preparedness plan requirements set forth in the
+Fire
+Code and
+rules
+in effect on the date prior to the effective date of this section.
+
+---
+
+Until
+rules
+implementing the emergency preparedness plan provisions of this chapter take effect, buildings and
+occupancies
+required to prepare an emergency preparedness plan under this code shall comply with the emergency preparedness plan requirements set forth in the
+Fire
+Code and
+rules
+in effect on the date prior to the effective date of this section.
+
+---
+
+## Section 401.3.7: Existing Emergency Preparedness Staffing
+
+401.3.7 Existing Emergency Preparedness Staffing
+Any building or
+occupancy
+that prior to March 30, 2014, obtained
+department
+approval of the voluntary installation of a
+fire alarm system
+with a
+staged evacuation
+sequence and was required to provide a
+fire
+safety director or other specified emergency preparedness staffing shall provide staffing in accordance with this chapter and the
+rules
+.
+
+---
+
+Any building or
+occupancy
+that prior to March 30, 2014, obtained
+department
+approval of the voluntary installation of a
+fire alarm system
+with a
+staged evacuation
+sequence and was required to provide a
+fire
+safety director or other specified emergency preparedness staffing shall provide staffing in accordance with this chapter and the
+rules
+.
+
+---
+
+## Section 401.3.8: Cooperation
+
+401.3.8 Cooperation
+All
+owners
+, employers of
+building occupants
+(including lessees of tenant spaces and similar
+occupancies
+) and
+building occupants
+shall cooperate in the development and coordination of
+emergency preparedness plans
+, including designation of
+building occupants
+to assist in the implementation of such plan.
+
+---
+
+All
+owners
+, employers of
+building occupants
+(including lessees of tenant spaces and similar
+occupancies
+) and
+building occupants
+shall cooperate in the development and coordination of
+emergency preparedness plans
+, including designation of
+building occupants
+to assist in the implementation of such plan.
+
+---
+
+## Section 401.4: Comprehensive Fire Safety/Emergency Action Plan (Level 1)
+
+401.4 Comprehensive Fire Safety/Emergency Action Plan (Level 1)
+Level 1
+plans and staffing shall be in accordance with
+FC 401.4.1
+through
+401.4.5
+, the provision of the FC 404 through 415, as applicable, and the
+rules
+.
+
+---
+
+Level 1
+plans and staffing shall be in accordance with
+FC 401.4.1
+through
+401.4.5
+, the provision of the FC 404 through 415, as applicable, and the
+rules
+.
+
+---
+
+## Section 401.4.1: General
+
+401.4.1 General
+The
+commissioner
+shall promulgate
+rules
+establishing standards, procedures and requirements for a written comprehensive
+fire
+safety and emergency action plan that addresses the safety of occupants of
+premises
+in the event of a
+fire
+,
+explosion
+, biological,
+chemical
+or nuclear incident or release, natural disaster, or other emergency, or the threat thereof, or a declaration of emergency by a lawful authority, and for the coordination of the emergency response to a medical emergency at the
+premises
+.
+
+---
+
+The
+commissioner
+shall promulgate
+rules
+establishing standards, procedures and requirements for a written comprehensive
+fire
+safety and emergency action plan that addresses the safety of occupants of
+premises
+in the event of a
+fire
+,
+explosion
+, biological,
+chemical
+or nuclear incident or release, natural disaster, or other emergency, or the threat thereof, or a declaration of emergency by a lawful authority, and for the coordination of the emergency response to a medical emergency at the
+premises
+.
+
+---
+
+## Section 401.4.2: Form
+
+401.4.2 Form
+The
+rules
+shall specify the form of the comprehensive
+fire
+safety and emergency action plan and supporting documentation.
+
+---
+
+The
+rules
+shall specify the form of the comprehensive
+fire
+safety and emergency action plan and supporting documentation.
+
+---
+
+## Section 401.4.3: Content
+
+401.4.3 Content
+The
+rules
+shall specify the information to be contained in the comprehensive
+fire
+safety and emergency action plan, which shall include the following information and documentation, and/or such other information and documentation as the
+commissioner
+may prescribe:
+The designation of an
+FLS
+director and other
+FLS staff
+, and their respective duties and responsibilities, including
+FLS staff
+responsible for the operation of building elevators,
+fire protection systems
+, mechanical
+ventilation
+systems
+, building utilities, and other building service equipment.
+The procedures for reporting a
+fire
+or other emergency to the
+department
+, including the primary and alternative means of such reporting.
+The procedures for coordinating with firefighting, emergency medical service and other emergency response personnel, including notifying such personnel upon arrival of the location of the emergency and the response thereto.
+The means provided for receiving and monitoring public emergency notification
+systems
+in accordance with
+FC401.9
+.
+The procedures for notifying
+building occupants
+of a
+fire
+or other emergency, including the primary and alternative means of such notification, the alarm or tone sounded to alert
+building occupants
+, and the information communicated to
+building occupants
+.
+The actions to be taken in response to a
+fire
+and each type of
+non-fire emergency
+, and whether the response will require the sheltering in place,
+in-building relocation
+, partial or full
+evacuation
+of
+building occupants
+, or combination thereof, and the procedures for each such response.
+The procedures for accounting for
+building occupants
+after such occupants have been in-building relocated, or partially or fully evacuated to a safe area.
+The procedures for identifying any persons on the
+premises
+who are qualified and willing to provide cardio-pulmonary resuscitation or other emergency medical care to
+building occupants
+upon notification by the
+FLS
+director.
+Site plans indicating the following:
+Surrounding buildings and streets, including cross streets, and
+fire apparatus access roads
+.
+The location of building occupant
+assembly areas
+.
+A written description of the following building components and service equipment and their location, as applicable:
+Access to and egress from the building, including entrances and
+exits
+.
+Corridors and
+exit
+passageways providing access to
+exit
+stairwells or
+exit discharges
+.
+Stairwells with letter designation.
+Access and convenience stairs.
+Elevators, with bank letter and car number designations.
+Fire command center
+.
+Floor warden and firefighter telephones.
+Manual fire alarm boxes
+.
+Fire
+department
+connections, and sprinkler and
+standpipe system
+control valves.
+Areas of the building not protected by a
+sprinkler system
+.
+Emergency power
+generators and associated fuel storage.
+Evacuation
+and
+in-building relocation
+routes.
+Areas of refuge and
+in-building relocation areas
+.
+Any
+evacuation
+assistance devices.
+Automatic
+external defibrillators required by law to be maintained for public use.
+Sprinkler system
+and
+standpipe system
+riser diagrams, identifying the locations of the following, as applicable:
+Water supply.
+Fire
+department
+connections.
+Gravity and pressure
+tanks
+.
+Fire pumps
+.
+Water supply control valves.
+Piping, except branch sprinkler piping.
+Locations of hazardous material storage in quantities requiring a
+permit
+, and hazardous material operations and
+facilities
+regulated by this code.
+Procedures for identifying in advance
+building occupants
+who require assistance to participate in the plan because of an infirmity or disability or other special need, and
+approved
+procedures for providing for such assistance.
+A
+fire
+safety
+maintenance
+program.
+A building information card in accordance with
+FC401.3.4
+.
+
+---
+
+The
+rules
+shall specify the information to be contained in the comprehensive
+fire
+safety and emergency action plan, which shall include the following information and documentation, and/or such other information and documentation as the
+commissioner
+may prescribe:
+The designation of an
+FLS
+director and other
+FLS staff
+, and their respective duties and responsibilities, including
+FLS staff
+responsible for the operation of building elevators,
+fire protection systems
+, mechanical
+ventilation
+systems
+, building utilities, and other building service equipment.
+The procedures for reporting a
+fire
+or other emergency to the
+department
+, including the primary and alternative means of such reporting.
+The procedures for coordinating with firefighting, emergency medical service and other emergency response personnel, including notifying such personnel upon arrival of the location of the emergency and the response thereto.
+The means provided for receiving and monitoring public emergency notification
+systems
+in accordance with
+FC401.9
+.
+The procedures for notifying
+building occupants
+of a
+fire
+or other emergency, including the primary and alternative means of such notification, the alarm or tone sounded to alert
+building occupants
+, and the information communicated to
+building occupants
+.
+The actions to be taken in response to a
+fire
+and each type of
+non-fire emergency
+, and whether the response will require the sheltering in place,
+in-building relocation
+, partial or full
+evacuation
+of
+building occupants
+, or combination thereof, and the procedures for each such response.
+The procedures for accounting for
+building occupants
+after such occupants have been in-building relocated, or partially or fully evacuated to a safe area.
+The procedures for identifying any persons on the
+premises
+who are qualified and willing to provide cardio-pulmonary resuscitation or other emergency medical care to
+building occupants
+upon notification by the
+FLS
+director.
+Site plans indicating the following:
+Surrounding buildings and streets, including cross streets, and
+fire apparatus access roads
+.
+The location of building occupant
+assembly areas
+.
+A written description of the following building components and service equipment and their location, as applicable:
+Access to and egress from the building, including entrances and
+exits
+.
+Corridors and
+exit
+passageways providing access to
+exit
+stairwells or
+exit discharges
+.
+Stairwells with letter designation.
+Access and convenience stairs.
+Elevators, with bank letter and car number designations.
+Fire command center
+.
+Floor warden and firefighter telephones.
+Manual fire alarm boxes
+.
+Fire
+department
+connections, and sprinkler and
+standpipe system
+control valves.
+Areas of the building not protected by a
+sprinkler system
+.
+Emergency power
+generators and associated fuel storage.
+Evacuation
+and
+in-building relocation
+routes.
+Areas of refuge and
+in-building relocation areas
+.
+Any
+evacuation
+assistance devices.
+Automatic
+external defibrillators required by law to be maintained for public use.
+Sprinkler system
+and
+standpipe system
+riser diagrams, identifying the locations of the following, as applicable:
+Water supply.
+Fire
+department
+connections.
+Gravity and pressure
+tanks
+.
+Fire pumps
+.
+Water supply control valves.
+Piping, except branch sprinkler piping.
+Locations of hazardous material storage in quantities requiring a
+permit
+, and hazardous material operations and
+facilities
+regulated by this code.
+Procedures for identifying in advance
+building occupants
+who require assistance to participate in the plan because of an infirmity or disability or other special need, and
+approved
+procedures for providing for such assistance.
+A
+fire
+safety
+maintenance
+program.
+A building information card in accordance with
+FC401.3.4
+.
+
+---
+
+## Section 401.4.4: Submission and Acceptance
+
+401.4.4 Submission and Acceptance
+Every comprehensive
+fire
+safety and emergency action plan shall be submitted to the
+department
+for acceptance in the manner prescribed by the
+department
+. Acceptance of such plans shall be obtained prior to
+occupancy
+of the building or
+occupancy
+.
+
+---
+
+Every comprehensive
+fire
+safety and emergency action plan shall be submitted to the
+department
+for acceptance in the manner prescribed by the
+department
+. Acceptance of such plans shall be obtained prior to
+occupancy
+of the building or
+occupancy
+.
+
+---
+
+## Section 401.4.5: Fire and Life Safety Staff
+
+401.4.5 Fire and Life Safety Staff
+The
+owner
+of any
+premises
+required by this chapter to have a comprehensive
+fire
+safety and emergency action plan shall designate competent persons to act as
+FLS staff
+, including a person designated to serve as
+FLS
+director. The
+owner
+shall employ or otherwise retain sufficient
+FLS staff
+to implement such plan during
+regular business hours
+and to otherwise comply with the requirements of this chapter and the
+rules
+. The persons designated as
+FLS staff
+shall possess such qualifications and/or hold such
+certificates of fitness
+as are required by this chapter or the
+rules
+.
+
+---
+
+The
+owner
+of any
+premises
+required by this chapter to have a comprehensive
+fire
+safety and emergency action plan shall designate competent persons to act as
+FLS staff
+, including a person designated to serve as
+FLS
+director. The
+owner
+shall employ or otherwise retain sufficient
+FLS staff
+to implement such plan during
+regular business hours
+and to otherwise comply with the requirements of this chapter and the
+rules
+. The persons designated as
+FLS staff
+shall possess such qualifications and/or hold such
+certificates of fitness
+as are required by this chapter or the
+rules
+.
+
+---
+
+## Section 401.4.5.1: Fire and Life Safety Director
+
+401.4.5.1 Fire and Life Safety Director
+The comprehensive
+fire
+safety and emergency action plan shall designate an
+FLS
+director and deputy
+FLS
+directors who shall hold an
+FLS
+director
+certificate of fitness
+. The
+FLS
+director shall have the following duties and responsibilities and such other duties and responsibilities as the
+commissioner
+may prescribe by rule:
+The
+FLS
+director shall be present in the building at all times during
+regular business hours
+. When the
+FLS
+director is absent during
+regular business hours
+, a deputy
+FLS
+director shall be present in the building and shall perform the duties of the
+FLS
+director. When a building other than a
+Group R
+-1 transient residential building or
+occupancy
+is occupied, but the number of
+building occupants
+falls below the level requiring the presence of an
+FLS
+director, the
+FLS
+building
+evacuation
+supervisor may perform the duties of the
+FLS
+director. The
+FLS
+director shall endeavor to ensure that adequate
+FLS staff
+is present during
+regular business hours
+, and, in the absence of designated staff, shall designate interim
+FLS staff
+.
+In the event of a
+fire
+, a medical emergency or other
+non-fire emergency
+in the building, the
+FLS
+director shall report to the
+fire command center
+or designated alternative location; implement such
+fire
+safety and/or
+non-fire emergency
+actions as are warranted by the circumstances, in accordance with the provisions of the comprehensive
+fire
+safety and emergency action plan, this code and the
+rules
+; notify arriving emergency response personnel of the nature of the emergency and the response thereto; and comply with the directions of the emergency response personnel and/or other lawful authority.
+The
+FLS
+director designated shall be fully familiar with the provisions of the comprehensive
+fire
+safety and emergency action plan and shall conduct the
+FLS staff
+training and
+fire
+and
+non-fire emergency drills
+required by
+FC 401.4.5.2
+and
+401.7
+.
+Exception:
+FLS staff
+training and
+fire
+and
+non-fire emergency drills
+may be conducted by a person holding a
+certificate of fitness
+as
+FEP
+coordinator or
+fire drill
+conductor under the
+personal supervision
+of the
+FLS
+director.
+
+---
+
+The comprehensive
+fire
+safety and emergency action plan shall designate an
+FLS
+director and deputy
+FLS
+directors who shall hold an
+FLS
+director
+certificate of fitness
+. The
+FLS
+director shall have the following duties and responsibilities and such other duties and responsibilities as the
+commissioner
+may prescribe by rule:
+The
+FLS
+director shall be present in the building at all times during
+regular business hours
+. When the
+FLS
+director is absent during
+regular business hours
+, a deputy
+FLS
+director shall be present in the building and shall perform the duties of the
+FLS
+director. When a building other than a
+Group R
+-1 transient residential building or
+occupancy
+is occupied, but the number of
+building occupants
+falls below the level requiring the presence of an
+FLS
+director, the
+FLS
+building
+evacuation
+supervisor may perform the duties of the
+FLS
+director. The
+FLS
+director shall endeavor to ensure that adequate
+FLS staff
+is present during
+regular business hours
+, and, in the absence of designated staff, shall designate interim
+FLS staff
+.
+In the event of a
+fire
+, a medical emergency or other
+non-fire emergency
+in the building, the
+FLS
+director shall report to the
+fire command center
+or designated alternative location; implement such
+fire
+safety and/or
+non-fire emergency
+actions as are warranted by the circumstances, in accordance with the provisions of the comprehensive
+fire
+safety and emergency action plan, this code and the
+rules
+; notify arriving emergency response personnel of the nature of the emergency and the response thereto; and comply with the directions of the emergency response personnel and/or other lawful authority.
+The
+FLS
+director designated shall be fully familiar with the provisions of the comprehensive
+fire
+safety and emergency action plan and shall conduct the
+FLS staff
+training and
+fire
+and
+non-fire emergency drills
+required by
+FC 401.4.5.2
+and
+401.7
+.
+Exception:
+FLS staff
+training and
+fire
+and
+non-fire emergency drills
+may be conducted by a person holding a
+certificate of fitness
+as
+FEP
+coordinator or
+fire drill
+conductor under the
+personal supervision
+of the
+FLS
+director.
+
+---
+
+## Section 401.4.5.2: Training
+
+401.4.5.2 Training
+FLS staff
+shall be trained in the performance of their duties in accordance with the comprehensive
+fire
+safety and emergency action plan.
+
+---
+
+FLS staff
+shall be trained in the performance of their duties in accordance with the comprehensive
+fire
+safety and emergency action plan.
+
+---
+
+## Section 401.4.5.2.1: Initial Training
+
+401.4.5.2.1 Initial Training
+FLS staff
+shall receive initial training in the contents of the comprehensive
+fire
+safety and emergency action plan upon their designation as
+FLS staff
+. Such training shall familiarize them with:
+their duties in the event that it is necessary to implement
+fire
+safety or
+non-fire emergency
+actions in accordance with such plan; and
+appropriate
+fire
+prevention measures for the
+occupancy
+.
+
+---
+
+FLS staff
+shall receive initial training in the contents of the comprehensive
+fire
+safety and emergency action plan upon their designation as
+FLS staff
+. Such training shall familiarize them with:
+their duties in the event that it is necessary to implement
+fire
+safety or
+non-fire emergency
+actions in accordance with such plan; and
+appropriate
+fire
+prevention measures for the
+occupancy
+.
+
+---
+
+## Section 401.4.5.2.2: Refresher Training
+
+401.4.5.2.2 Refresher Training
+With the exception of the
+FLS
+director,
+FLS staff
+shall receive, and participate in, periodic refresher training to maintain their state of readiness.
+
+---
+
+With the exception of the
+FLS
+director,
+FLS staff
+shall receive, and participate in, periodic refresher training to maintain their state of readiness.
+
+---
+
+## Section 401.4.5.2.3: Duration and Frequency of Training
+
+401.4.5.2.3 Duration and Frequency of Training
+The duration and
+frequency
+of initial and refresher training of
+FLS staff
+shall be in accordance with FC Table 401.4.5.2.3.
+FC
+TABLE 401.4.5.2.3
+FLS STAFF
+TRAINING
+FLS STAFF
+MEMBER
+INITIAL TRAINING DURATION
+REFRESHER TRAINING DURATION AND
+FREQUENCY
+FIRE
+SAFETY
+NON-FIRE EMERGENCY
+FIRE
+SAFETY
+NON-FIRE EMERGENCY
+Deputy
+FLS
+directors (all
+occupancies
+)
+Not applicable
+Not applicable
+1 hour annually
+1 hour semiannually
+FLS
+building
+evacuation
+supervisors
+2 hours
+3 hours
+1 hour annually
+1 hour semiannually
+All other
+FLS staff
+1 hour
+2 hours
+1 hour annually
+1 hour annually
+
+---
+
+The duration and
+frequency
+of initial and refresher training of
+FLS staff
+shall be in accordance with FC Table 401.4.5.2.3.
+FC
+TABLE 401.4.5.2.3
+FLS STAFF
+TRAINING
+FLS STAFF
+MEMBER
+INITIAL TRAINING DURATION
+REFRESHER TRAINING DURATION AND
+FREQUENCY
+FIRE
+SAFETY
+NON-FIRE EMERGENCY
+FIRE
+SAFETY
+NON-FIRE EMERGENCY
+Deputy
+FLS
+directors (all
+occupancies
+)
+Not applicable
+Not applicable
+1 hour annually
+1 hour semiannually
+FLS
+building
+evacuation
+supervisors
+2 hours
+3 hours
+1 hour annually
+1 hour semiannually
+All other
+FLS staff
+1 hour
+2 hours
+1 hour annually
+1 hour annually
+
+---
+
+## Section 401.4.5.2.4: Training Methods
+
+401.4.5.2.4 Training Methods
+FLS staff
+training sessions shall be provided in the form of live instruction and, if desired, computerized training. At least one-half (
+1
+/
+2
+) of the
+FLS staff
+training sessions required each year shall be in the form of live instruction, which may incorporate video presentations and/or review of other educational materials. The balance of the required training sessions may be conducted in the form of
+approved
+computerized training, without live instruction, provided that such computerized training is interactive, and includes an evaluation of the
+FLS staff
+members' understanding of the training materials.
+
+---
+
+FLS staff
+training sessions shall be provided in the form of live instruction and, if desired, computerized training. At least one-half (
+1
+/
+2
+) of the
+FLS staff
+training sessions required each year shall be in the form of live instruction, which may incorporate video presentations and/or review of other educational materials. The balance of the required training sessions may be conducted in the form of
+approved
+computerized training, without live instruction, provided that such computerized training is interactive, and includes an evaluation of the
+FLS staff
+members' understanding of the training materials.
+
+---
+
+## Section 401.4.5.2.5: Recordkeeping
+
+401.4.5.2.5 Recordkeeping
+A written record of
+FLS staff
+training shall be maintained in the log book required by
+FC401.8
+. An entry shall be made in such log book for each training session conducted.
+
+---
+
+A written record of
+FLS staff
+training shall be maintained in the log book required by
+FC401.8
+. An entry shall be made in such log book for each training session conducted.
+
+---
+
+## Section 401.5: Fire and Emergency Preparedness Plan (Level 2)
+
+401.5 Fire and Emergency Preparedness Plan (Level 2)
+Level 2
+plans and staffing shall be in accordance with
+FC 401.5.1
+through
+401.5.5
+, the provisions of FC 404 through 415, as applicable, and the
+rules
+.
+
+---
+
+Level 2
+plans and staffing shall be in accordance with
+FC 401.5.1
+through
+401.5.5
+, the provisions of FC 404 through 415, as applicable, and the
+rules
+.
+
+---
+
+## Section 401.5.1: General
+
+401.5.1 General
+The
+commissioner
+shall promulgate
+rules
+establishing standards, procedures and requirements for a written
+fire and emergency preparedness plan
+that provides for
+fire
+safety and
+non-fire emergency
+preparedness in buildings or
+occupancies
+of a lesser size, complexity, and/or risk vulnerability than those requiring a comprehensive
+fire
+safety and emergency action plan, and for the coordination of the emergency response to a medical emergency at the
+premises
+.
+
+---
+
+The
+commissioner
+shall promulgate
+rules
+establishing standards, procedures and requirements for a written
+fire and emergency preparedness plan
+that provides for
+fire
+safety and
+non-fire emergency
+preparedness in buildings or
+occupancies
+of a lesser size, complexity, and/or risk vulnerability than those requiring a comprehensive
+fire
+safety and emergency action plan, and for the coordination of the emergency response to a medical emergency at the
+premises
+.
+
+---
+
+## Section 401.5.2: Form
+
+401.5.2 Form
+Fire and emergency preparedness plans
+shall have a simplified, standardized format that allows for completion by persons without specialized qualifications. The
+rules
+promulgated by the
+commissioner
+shall specify the form of such plans and any supporting documentation.
+
+---
+
+Fire and emergency preparedness plans
+shall have a simplified, standardized format that allows for completion by persons without specialized qualifications. The
+rules
+promulgated by the
+commissioner
+shall specify the form of such plans and any supporting documentation.
+
+---
+
+## Section 401.5.3: Content
+
+401.5.3 Content
+The
+rules
+promulgated by the
+commissioner
+shall specify the information to be contained in the
+fire and emergency preparedness plan
+, which shall include the following information and documentation, and/or such other information and documentation as the
+commissioner
+may prescribe:
+The designation of the
+FEP
+coordinator, by name, certificate number and position at the
+premises
+, and other
+FEP staff
+, by name and/or position at the
+premises
+, and certificate number, if required.
+The procedure by which a
+fire
+or other emergency is reported to the
+department
+, and the
+FEP staff
+responsible for ensuring such reporting.
+The procedure for notifying
+building occupants
+of a
+fire
+or other emergency, and the
+FEP staff
+responsible for ensuring such notification.
+The procedure for coordinating with firefighting, emergency medical service and other emergency response personnel, including notifying such personnel upon arrival of the location of the emergency and the response thereto, and the
+FEP staff
+responsible for such coordination.
+The procedure for monitoring a public emergency notification
+system
+in accordance with
+FC401.9
+.
+Procedures for identifying and assisting
+building occupants
+who require assistance because of an infirmity, disability or other special need.
+Identification of
+fire
+prevention measures appropriate to the
+occupancy
+, to be included in staff training and drills, and the
+FEP staff
+or building staff responsible for addressing any unsafe conditions, including:
+Unobstructed and unimpeded access to
+means of egress
+.
+Proper storage and removal of combustible materials and
+combustible waste
+on the
+premises
+.
+Maintenance
+of decorative
+vegetation
+.
+Proper use of extension cords, outlets and
+electrical equipment
+.
+Maintenance
+of sprinkler head clearances.
+Posting and
+maintenance
+of "No Smoking" signs required by this code.
+The procedure for the ongoing monitoring of the
+premises
+during
+regular business hours
+to verify compliance with the following requirements, and the
+FEP staff
+responsible for such monitoring:
+Access to the
+means of egress
+is unobstructed and unimpeded.
+The
+premises
+does not become overcrowded.
+Allowable use of
+open flames
+and
+open-flame devices
+is being conducted properly and safely.
+The
+prohibition
+against smoking, where required by this code or the
+rules
+, is being observed.
+
+---
+
+The
+rules
+promulgated by the
+commissioner
+shall specify the information to be contained in the
+fire and emergency preparedness plan
+, which shall include the following information and documentation, and/or such other information and documentation as the
+commissioner
+may prescribe:
+The designation of the
+FEP
+coordinator, by name, certificate number and position at the
+premises
+, and other
+FEP staff
+, by name and/or position at the
+premises
+, and certificate number, if required.
+The procedure by which a
+fire
+or other emergency is reported to the
+department
+, and the
+FEP staff
+responsible for ensuring such reporting.
+The procedure for notifying
+building occupants
+of a
+fire
+or other emergency, and the
+FEP staff
+responsible for ensuring such notification.
+The procedure for coordinating with firefighting, emergency medical service and other emergency response personnel, including notifying such personnel upon arrival of the location of the emergency and the response thereto, and the
+FEP staff
+responsible for such coordination.
+The procedure for monitoring a public emergency notification
+system
+in accordance with
+FC401.9
+.
+Procedures for identifying and assisting
+building occupants
+who require assistance because of an infirmity, disability or other special need.
+Identification of
+fire
+prevention measures appropriate to the
+occupancy
+, to be included in staff training and drills, and the
+FEP staff
+or building staff responsible for addressing any unsafe conditions, including:
+Unobstructed and unimpeded access to
+means of egress
+.
+Proper storage and removal of combustible materials and
+combustible waste
+on the
+premises
+.
+Maintenance
+of decorative
+vegetation
+.
+Proper use of extension cords, outlets and
+electrical equipment
+.
+Maintenance
+of sprinkler head clearances.
+Posting and
+maintenance
+of "No Smoking" signs required by this code.
+The procedure for the ongoing monitoring of the
+premises
+during
+regular business hours
+to verify compliance with the following requirements, and the
+FEP staff
+responsible for such monitoring:
+Access to the
+means of egress
+is unobstructed and unimpeded.
+The
+premises
+does not become overcrowded.
+Allowable use of
+open flames
+and
+open-flame devices
+is being conducted properly and safely.
+The
+prohibition
+against smoking, where required by this code or the
+rules
+, is being observed.
+
+---
+
+## Section 401.5.4: Submission and Acceptance
+
+401.5.4 Submission and Acceptance
+Except as otherwise provided in
+FC401.5.4.1
+,
+fire and emergency preparedness plans
+prepared for a
+high-rise building
+or a
+large-area building
+shall be submitted for
+department
+acceptance, prior to
+occupancy
+of the building or
+occupancy
+, in the manner prescribed by the
+department
+. All other
+fire and emergency preparedness plans
+shall be maintained on the
+premises
+and made available for review by a
+department
+representative. If such plan is unavailable or determined to be deficient, the
+department
+may order that a plan prepared in compliance with this chapter and the
+rules
+be submitted to the
+department
+for acceptance.
+
+---
+
+Except as otherwise provided in
+FC401.5.4.1
+,
+fire and emergency preparedness plans
+prepared for a
+high-rise building
+or a
+large-area building
+shall be submitted for
+department
+acceptance, prior to
+occupancy
+of the building or
+occupancy
+, in the manner prescribed by the
+department
+. All other
+fire and emergency preparedness plans
+shall be maintained on the
+premises
+and made available for review by a
+department
+representative. If such plan is unavailable or determined to be deficient, the
+department
+may order that a plan prepared in compliance with this chapter and the
+rules
+be submitted to the
+department
+for acceptance.
+
+---
+
+## Section 401.5.4.1: Submission of Plans Not Required
+
+401.5.4.1 Submission of Plans Not Required
+Fire and emergency preparedness plans
+prepared for a
+high-rise building
+or a
+large-area building
+are not required to be submitted for
+department
+acceptance in the following circumstances:
+High-rise buildings
+and
+large-area buildings
+with a
+fire
+alarm that is programmed for full, not staged,
+evacuation
+;
+Low-rise, large-area
+Group I
+-1 buildings; and
+Low-rise
+Group R
+-1 dormitories and low-rise
+Group R
+-2 student apartments, with more than fifty rooms above street level (which are treated as
+large-area buildings
+by the
+Building Code
+).
+
+---
+
+Fire and emergency preparedness plans
+prepared for a
+high-rise building
+or a
+large-area building
+are not required to be submitted for
+department
+acceptance in the following circumstances:
+High-rise buildings
+and
+large-area buildings
+with a
+fire
+alarm that is programmed for full, not staged,
+evacuation
+;
+Low-rise, large-area
+Group I
+-1 buildings; and
+Low-rise
+Group R
+-1 dormitories and low-rise
+Group R
+-2 student apartments, with more than fifty rooms above street level (which are treated as
+large-area buildings
+by the
+Building Code
+).
+
+---
+
+## Section 401.5.4.2: Electronic Filing of Plans
+
+401.5.4.2 Electronic Filing of Plans
+The following
+emergency preparedness plans
+and, when required, building information cards, building floor plans and other supporting documentation, shall be electronically filed with the
+department
+for review and approval in the manner prescribed by the
+department
+:
+Comprehensive
+fire
+safety/emergency action (
+Level 1
+) plans.
+Fire
+and emergency preparedness (
+Level 2
+) plans, when filing is required by the code or
+rules
+or ordered by the
+department
+for enforcement purposes.
+
+---
+
+The following
+emergency preparedness plans
+and, when required, building information cards, building floor plans and other supporting documentation, shall be electronically filed with the
+department
+for review and approval in the manner prescribed by the
+department
+:
+Comprehensive
+fire
+safety/emergency action (
+Level 1
+) plans.
+Fire
+and emergency preparedness (
+Level 2
+) plans, when filing is required by the code or
+rules
+or ordered by the
+department
+for enforcement purposes.
+
+---
+
+## Section 401.5.5: Fire and Emergency Preparedness Staff
+
+401.5.5 Fire and Emergency Preparedness Staff
+The
+owner
+of any
+premises
+required by this chapter to have a
+fire and emergency preparedness plan
+shall designate competent persons to act as
+FEP staff
+, including a person designated to serve as the
+FEP
+coordinator pursuant to
+FC401.5.5.1
+. An
+owner
+of such a
+premises
+shall not be required to employ or otherwise retain staff solely for purposes of complying with the requirements of this chapter, but shall designate persons employed or otherwise working at the
+premises
+to serve as
+FEP staff
+and assign them the duties and responsibilities necessary to implement the
+fire and emergency preparedness plan
+and otherwise comply with the requirements of this chapter and the
+rules
+.
+
+---
+
+The
+owner
+of any
+premises
+required by this chapter to have a
+fire and emergency preparedness plan
+shall designate competent persons to act as
+FEP staff
+, including a person designated to serve as the
+FEP
+coordinator pursuant to
+FC401.5.5.1
+. An
+owner
+of such a
+premises
+shall not be required to employ or otherwise retain staff solely for purposes of complying with the requirements of this chapter, but shall designate persons employed or otherwise working at the
+premises
+to serve as
+FEP staff
+and assign them the duties and responsibilities necessary to implement the
+fire and emergency preparedness plan
+and otherwise comply with the requirements of this chapter and the
+rules
+.
+
+---
+
+## Section 401.5.5.1: Fire/Emergency Preparedness Coordinator
+
+401.5.5.1 Fire/Emergency Preparedness Coordinator
+A manager or other responsible
+FEP staff
+member employed at the
+premises
+shall be designated in the
+fire and emergency preparedness plan
+as the
+FEP
+coordinator and shall hold an
+FEP
+coordinator
+certificate of fitness
+. A person holding a
+certificate of fitness
+as an
+FLS
+director may serve as the
+FEP
+coordinator without obtaining a separate
+certificate of fitness
+. The
+FEP
+coordinator shall have the following duties and responsibilities and such other duties and responsibilities as the
+commissioner
+may prescribe by rule:
+The
+FEP
+coordinator shall be fully familiar with the provisions of the
+fire and emergency preparedness plan
+and shall conduct the
+FEP staff
+training and
+fire
+and
+non-fire emergency drills
+required by
+FC 401.5.5.2
+and
+401.7
+.
+Exception:
+FEP staff
+training and
+fire
+and
+non-fire emergency drills
+may be conducted by a person holding a
+certificate of fitness
+as
+fire drill
+conductor under the
+general supervision
+of the
+FEP
+coordinator.
+The
+FEP
+coordinator need not be personally present on the
+premises
+during
+regular business hours
+, but shall be responsible for overseeing and monitoring the performance of the duties and responsibilities of the
+FEP staff
+set forth in the
+fire and emergency preparedness plan
+.
+The
+FEP
+coordinator shall endeavor to ensure that adequate
+FEP staff
+is present during
+regular business hours
+, and, in the absence of designated
+FEP staff
+, shall designate interim
+FEP staff
+.
+
+---
+
+A manager or other responsible
+FEP staff
+member employed at the
+premises
+shall be designated in the
+fire and emergency preparedness plan
+as the
+FEP
+coordinator and shall hold an
+FEP
+coordinator
+certificate of fitness
+. A person holding a
+certificate of fitness
+as an
+FLS
+director may serve as the
+FEP
+coordinator without obtaining a separate
+certificate of fitness
+. The
+FEP
+coordinator shall have the following duties and responsibilities and such other duties and responsibilities as the
+commissioner
+may prescribe by rule:
+The
+FEP
+coordinator shall be fully familiar with the provisions of the
+fire and emergency preparedness plan
+and shall conduct the
+FEP staff
+training and
+fire
+and
+non-fire emergency drills
+required by
+FC 401.5.5.2
+and
+401.7
+.
+Exception:
+FEP staff
+training and
+fire
+and
+non-fire emergency drills
+may be conducted by a person holding a
+certificate of fitness
+as
+fire drill
+conductor under the
+general supervision
+of the
+FEP
+coordinator.
+The
+FEP
+coordinator need not be personally present on the
+premises
+during
+regular business hours
+, but shall be responsible for overseeing and monitoring the performance of the duties and responsibilities of the
+FEP staff
+set forth in the
+fire and emergency preparedness plan
+.
+The
+FEP
+coordinator shall endeavor to ensure that adequate
+FEP staff
+is present during
+regular business hours
+, and, in the absence of designated
+FEP staff
+, shall designate interim
+FEP staff
+.
+
+---
+
+## Section 401.5.5.2: Training
+
+401.5.5.2 Training
+FEP staff
+shall be trained in the performance of their duties in accordance with the
+fire and emergency preparedness plan
+.
+
+---
+
+FEP staff
+shall be trained in the performance of their duties in accordance with the
+fire and emergency preparedness plan
+.
+
+---
+
+## Section 401.5.5.2.1: Initial Training
+
+401.5.5.2.1 Initial Training
+FEP staff
+shall receive 1 hour of initial training in the
+fire and emergency preparedness plan
+upon their designation as
+FEP staff
+. Such training shall familiarize them with:
+their duties in the event the
+fire and emergency preparedness plan
+is implemented; and
+appropriate
+fire
+prevention measures for the
+occupancy
+.
+
+---
+
+FEP staff
+shall receive 1 hour of initial training in the
+fire and emergency preparedness plan
+upon their designation as
+FEP staff
+. Such training shall familiarize them with:
+their duties in the event the
+fire and emergency preparedness plan
+is implemented; and
+appropriate
+fire
+prevention measures for the
+occupancy
+.
+
+---
+
+## Section 401.5.5.2.2: Refresher Training
+
+401.5.5.2.2 Refresher Training
+With the exception of the
+FEP
+coordinator,
+FEP staff
+shall receive 30-minutes quarterly refresher training.
+
+---
+
+With the exception of the
+FEP
+coordinator,
+FEP staff
+shall receive 30-minutes quarterly refresher training.
+
+---
+
+## Section 401.5.5.2.3: Training Methods
+
+401.5.5.2.3 Training Methods
+FEP staff
+training shall be provided in the manner set forth in
+FC401.4.5.2.4
+.
+
+---
+
+FEP staff
+training shall be provided in the manner set forth in
+FC401.4.5.2.4
+.
+
+---
+
+## Section 401.5.5.2.4: Recordkeeping
+
+401.5.5.2.4 Recordkeeping
+A written record of
+FEP staff
+training shall be maintained in the log book required by
+FC401.8
+. An entry shall be made in such log book for each training session conducted.
+
+---
+
+A written record of
+FEP staff
+training shall be maintained in the log book required by
+FC401.8
+. An entry shall be made in such log book for each training session conducted.
+
+---
+
+## Section 401.6: Fire and Emergency Preparedness Guide and Notices (Level 3)
+
+401.6 Fire and Emergency Preparedness Guide and Notices (Level 3)
+Level 3
+guides and notices shall be in accordance with
+FC 401.6.1
+through
+401.6.5
+, and the
+rules
+.
+
+---
+
+Level 3
+guides and notices shall be in accordance with
+FC 401.6.1
+through
+401.6.5
+, and the
+rules
+.
+
+---
+
+## Section 401.6.1: General
+
+401.6.1 General
+The
+commissioner
+shall promulgate
+rules
+establishing standards, procedures and requirements for a:
+fire
+and emergency preparedness guide that serves to inform
+building occupants
+and building staff about the building,
+fire
+prevention measures and
+fire
+and
+non-fire emergency
+preparedness; and/or
+fire
+and
+non-fire emergency
+notices that serve to inform building
+occupants, building
+staff and visitors as to whether to
+shelter in place
+or evacuate the building, and other procedures to be followed in the event of a
+fire
+or
+non-fire emergency
+.
+
+---
+
+The
+commissioner
+shall promulgate
+rules
+establishing standards, procedures and requirements for a:
+fire
+and emergency preparedness guide that serves to inform
+building occupants
+and building staff about the building,
+fire
+prevention measures and
+fire
+and
+non-fire emergency
+preparedness; and/or
+fire
+and
+non-fire emergency
+notices that serve to inform building
+occupants, building
+staff and visitors as to whether to
+shelter in place
+or evacuate the building, and other procedures to be followed in the event of a
+fire
+or
+non-fire emergency
+.
+
+---
+
+## Section 401.6.2: Form
+
+401.6.2 Form
+The
+fire and emergency preparedness guide and notices
+shall be in such form as prescribed by the
+commissioner
+by rule.
+
+---
+
+The
+fire and emergency preparedness guide and notices
+shall be in such form as prescribed by the
+commissioner
+by rule.
+
+---
+
+## Section 401.6.3: Content
+
+401.6.3 Content
+The
+rules
+promulgated by the
+commissioner
+shall specify the information to be contained in the
+fire and emergency preparedness guide and notices
+, which shall include the following information, and/or such other information and documentation as the
+commissioner
+may prescribe:
+Fire
+and Emergency Preparedness Guide.
+Construction type.
+Fire protection systems
+.
+Voice communication
+systems
+.
+Means of egress
+.
+Guidance with respect to sheltering in place,
+evacuation
+and other procedures to be followed in the event of
+fire
+or
+non-fire emergency
+.
+Lessons learned from
+fires
+in similar
+occupancies
+.
+Medical emergencies.
+Fire
+and Emergency Preparedness Notices.
+Construction type.
+Guidance with respect to sheltering in place,
+evacuation
+and other procedures to be followed in the event of
+fire
+or
+non-fire emergency
+.
+
+---
+
+The
+rules
+promulgated by the
+commissioner
+shall specify the information to be contained in the
+fire and emergency preparedness guide and notices
+, which shall include the following information, and/or such other information and documentation as the
+commissioner
+may prescribe:
+Fire
+and Emergency Preparedness Guide.
+Construction type.
+Fire protection systems
+.
+Voice communication
+systems
+.
+Means of egress
+.
+Guidance with respect to sheltering in place,
+evacuation
+and other procedures to be followed in the event of
+fire
+or
+non-fire emergency
+.
+Lessons learned from
+fires
+in similar
+occupancies
+.
+Medical emergencies.
+Fire
+and Emergency Preparedness Notices.
+Construction type.
+Guidance with respect to sheltering in place,
+evacuation
+and other procedures to be followed in the event of
+fire
+or
+non-fire emergency
+.
+
+---
+
+## Section 401.6.4: Distribution and Posting
+
+401.6.4 Distribution and Posting
+The
+fire
+and emergency preparedness guide shall be distributed to
+building occupants
+and building service employees as set forth in the
+rules
+. The
+fire
+and emergency preparedness notice shall be posted within each dwelling unit and at such other locations as set forth in the
+rules
+.
+
+---
+
+The
+fire
+and emergency preparedness guide shall be distributed to
+building occupants
+and building service employees as set forth in the
+rules
+. The
+fire
+and emergency preparedness notice shall be posted within each dwelling unit and at such other locations as set forth in the
+rules
+.
+
+---
+
+## Section 401.6.5: Occupancy-Specific Requirements
+
+401.6.5 Occupancy-Specific Requirements
+The form, content, distribution and posting of the
+fire and emergency preparedness guide and notices
+may vary by
+occupancy
+.
+Occupancies
+required to prepare a
+fire
+and emergency preparedness guide and/or notices shall be as set forth in this chapter or the
+rules
+.
+
+---
+
+The form, content, distribution and posting of the
+fire and emergency preparedness guide and notices
+may vary by
+occupancy
+.
+Occupancies
+required to prepare a
+fire
+and emergency preparedness guide and/or notices shall be as set forth in this chapter or the
+rules
+.
+
+---
+
+## Section 401.7: Drills and Education for Fire and Non-Fire Emergencies
+
+401.7 Drills and Education for Fire and Non-Fire Emergencies
+Separate
+fire
+and
+non-fire emergency drills
+and education shall be conducted, in the manner prescribed in this section and the
+rules
+, and with the
+frequency
+set forth in FC
+Table 401.7.6
+, in buildings and
+occupancies
+required to have an emergency preparedness plan pursuant to this chapter and in such other buildings and
+occupancies
+as provided in this chapter.
+Group R
+-2 apartment buildings and
+occupancies
+are not required to conduct drills, except in
+high-rise megastructures
+and student apartment buildings.
+
+---
+
+Separate
+fire
+and
+non-fire emergency drills
+and education shall be conducted, in the manner prescribed in this section and the
+rules
+, and with the
+frequency
+set forth in FC
+Table 401.7.6
+, in buildings and
+occupancies
+required to have an emergency preparedness plan pursuant to this chapter and in such other buildings and
+occupancies
+as provided in this chapter.
+Group R
+-2 apartment buildings and
+occupancies
+are not required to conduct drills, except in
+high-rise megastructures
+and student apartment buildings.
+
+---
+
+## Section 401.7.1: Content
+
+401.7.1 Content
+Drills and other forms of education shall be conducted to enhance the
+fire
+and
+non-fire emergency
+preparedness of
+building occupants
+, including building staff and employees of building tenants. Drills shall serve to familiarize
+building occupants
+as to the proper actions to take in the event of a
+fire
+or other emergency, the primary and secondary
+evacuation
+and
+in-building relocation
+routes, and
+fire
+prevention measures appropriate to the
+occupancy
+. The
+commissioner
+shall promulgate
+rules
+prescribing standards, procedures and requirements for the conduct of
+fire
+and
+non-fire emergency drills
+and educational sessions, including their subject matter and duration. Drills shall be in the form of live instruction, except as authorized by the
+rules
+.
+
+---
+
+Drills and other forms of education shall be conducted to enhance the
+fire
+and
+non-fire emergency
+preparedness of
+building occupants
+, including building staff and employees of building tenants. Drills shall serve to familiarize
+building occupants
+as to the proper actions to take in the event of a
+fire
+or other emergency, the primary and secondary
+evacuation
+and
+in-building relocation
+routes, and
+fire
+prevention measures appropriate to the
+occupancy
+. The
+commissioner
+shall promulgate
+rules
+prescribing standards, procedures and requirements for the conduct of
+fire
+and
+non-fire emergency drills
+and educational sessions, including their subject matter and duration. Drills shall be in the form of live instruction, except as authorized by the
+rules
+.
+
+---
+
+## Section 401.7.2: Reserved
+
+401.7.2 Reserved
+
+---
+
+## Section 401.7.3: Timing
+
+401.7.3 Timing
+Drills shall be scheduled in a manner that best assures the participation of regular
+building occupants
+. Drills may be conducted on different work shifts and/or during non-business hours to facilitate the participation of
+building occupants
+.
+
+---
+
+Drills shall be scheduled in a manner that best assures the participation of regular
+building occupants
+. Drills may be conducted on different work shifts and/or during non-business hours to facilitate the participation of
+building occupants
+.
+
+---
+
+## Section 401.7.4: Participation in Drills and Education
+
+401.7.4 Participation in Drills and Education
+Except as otherwise provided in this chapter, all
+building occupants
+in the building or
+occupancy
+, or part thereof, wherein a
+fire
+and
+non-fire emergency drill
+or educational activity is being conducted, shall participate in such drill or educational activity, including building staff and
+FLS
+or
+FEP staff
+with responsibility for such building or
+occupancy
+, or part thereof.
+Owners
+and employers of
+building occupants
+, including lessees of tenant spaces and similar
+occupancies
+, shall require such participation.
+
+---
+
+Except as otherwise provided in this chapter, all
+building occupants
+in the building or
+occupancy
+, or part thereof, wherein a
+fire
+and
+non-fire emergency drill
+or educational activity is being conducted, shall participate in such drill or educational activity, including building staff and
+FLS
+or
+FEP staff
+with responsibility for such building or
+occupancy
+, or part thereof.
+Owners
+and employers of
+building occupants
+, including lessees of tenant spaces and similar
+occupancies
+, shall require such participation.
+
+---
+
+## Section 401.7.5: Alarm Activation
+
+401.7.5 Alarm Activation
+The
+fire alarm system
+shall be activated each time a
+fire drill
+or
+non-fire emergency drill
+is conducted to initiate the drill and familiarize
+building occupants
+with the alarm tones. Nothing in this code shall be construed to prohibit the activation of the
+fire alarm signal
+for the purposes of conducting a
+fire drill
+or a
+non-fire emergency drill
+.
+Exception:
+In buildings or
+occupancies
+in which all
+building occupants
+are not required by this code to participate in the drill, the
+fire alarm system
+need not be activated to initiate the drill, provided that, in accordance with the
+rules
+, another means is employed to familiarize those
+building occupants
+participating in the drill with the
+fire
+alarm tones that would be sounded in the event of an actual emergency.
+
+---
+
+The
+fire alarm system
+shall be activated each time a
+fire drill
+or
+non-fire emergency drill
+is conducted to initiate the drill and familiarize
+building occupants
+with the alarm tones. Nothing in this code shall be construed to prohibit the activation of the
+fire alarm signal
+for the purposes of conducting a
+fire drill
+or a
+non-fire emergency drill
+.
+Exception:
+In buildings or
+occupancies
+in which all
+building occupants
+are not required by this code to participate in the drill, the
+fire alarm system
+need not be activated to initiate the drill, provided that, in accordance with the
+rules
+, another means is employed to familiarize those
+building occupants
+participating in the drill with the
+fire
+alarm tones that would be sounded in the event of an actual emergency.
+
+---
+
+## Section 401.7.6: Frequency
+
+401.7.6 Frequency
+The
+frequency
+of each required
+fire drill
+and each required
+non-fire emergency drill
+, for each type of
+occupancy
+, shall be in accordance with FC Table 401.7.6.
+FC
+TABLE 401.7.6
+DRILL PARTICIPATION AND
+FREQUENCY
+TYPE OF BUILDING OR
+OCCUPANCY
+REQUIRED PARTICIPATION
+FREQUENCY
+Group A
+Regular
+building occupants
+.
+Participation of patrons, guests and visitors not required.
+Semiannually
+Group M
+Group R
+-1, except homeless shelters and dormitories
+a
+Group R
+-1 homeless shelters and
+emergency shelters
+All
+building occupants
+Monthly
+Group B
+office
+a
+All
+building occupants
+Semiannually
+Group B
+colleges and universities
+All
+building occupants
+In accordance with
+New York State
+Education Law
+Group E
+educational
+Group R
+-1 dormitory and
+Group R
+-2 student apartment buildings
+Group R
+-2
+high-rise megastructures
+All
+building occupants
+Semi-annually
+Group E
+day care
+facilities
+All
+building occupants
+Monthly
+Group F
+All
+building occupants
+Monthly
+Group H
+All
+building occupants
+Semiannually
+Group I
+-1
+All
+building occupants
+Bimonthly
+b
+Group I
+-2
+Regular
+building occupants
+.
+Participation of patients and visitors not required.
+Semiannually
+Group S
+Regular
+building occupants
+.
+Participation of visitors not required.
+Semiannually
+In the 2 years following acceptance of a comprehensive
+fire
+safety and emergency action plan, drills shall be conducted quarterly.
+In the first year of
+occupancy
+of an I-1 building or
+occupancy
+, drills shall be conducted monthly.
+
+---
+
+The
+frequency
+of each required
+fire drill
+and each required
+non-fire emergency drill
+, for each type of
+occupancy
+, shall be in accordance with FC Table 401.7.6.
+FC
+TABLE 401.7.6
+DRILL PARTICIPATION AND
+FREQUENCY
+TYPE OF BUILDING OR
+OCCUPANCY
+REQUIRED PARTICIPATION
+FREQUENCY
+Group A
+Regular
+building occupants
+.
+Participation of patrons, guests and visitors not required.
+Semiannually
+Group M
+Group R
+-1, except homeless shelters and dormitories
+a
+Group R
+-1 homeless shelters and
+emergency shelters
+All
+building occupants
+Monthly
+Group B
+office
+a
+All
+building occupants
+Semiannually
+Group B
+colleges and universities
+All
+building occupants
+In accordance with
+New York State
+Education Law
+Group E
+educational
+Group R
+-1 dormitory and
+Group R
+-2 student apartment buildings
+Group R
+-2
+high-rise megastructures
+All
+building occupants
+Semi-annually
+Group E
+day care
+facilities
+All
+building occupants
+Monthly
+Group F
+All
+building occupants
+Monthly
+Group H
+All
+building occupants
+Semiannually
+Group I
+-1
+All
+building occupants
+Bimonthly
+b
+Group I
+-2
+Regular
+building occupants
+.
+Participation of patients and visitors not required.
+Semiannually
+Group S
+Regular
+building occupants
+.
+Participation of visitors not required.
+Semiannually
+In the 2 years following acceptance of a comprehensive
+fire
+safety and emergency action plan, drills shall be conducted quarterly.
+In the first year of
+occupancy
+of an I-1 building or
+occupancy
+, drills shall be conducted monthly.
+
+---
+
+## Section 401.7.7: Non-Fire Emergency Education
+
+401.7.7 Non-Fire Emergency Education
+When required by this chapter,
+building occupants
+shall receive
+non-fire emergency
+education. In buildings and
+occupancies
+in which
+non-fire emergency drills
+are not conducted, such education shall consist of the distribution of educational materials explaining the different types of
+non-fire emergencies
+and the types of responses to such emergencies, including sheltering in place, relocating within the building, or evacuating the building. Such materials shall be distributed to building staff and employees of building tenants prior to their commencing work at the
+premises
+.
+
+---
+
+When required by this chapter,
+building occupants
+shall receive
+non-fire emergency
+education. In buildings and
+occupancies
+in which
+non-fire emergency drills
+are not conducted, such education shall consist of the distribution of educational materials explaining the different types of
+non-fire emergencies
+and the types of responses to such emergencies, including sheltering in place, relocating within the building, or evacuating the building. Such materials shall be distributed to building staff and employees of building tenants prior to their commencing work at the
+premises
+.
+
+---
+
+## Section 401.7.8: Recordkeeping
+
+401.7.8 Recordkeeping
+Drills and education shall be documented by entries in the logbook required to be maintained in accordance with
+FC401.8
+.
+
+---
+
+Drills and education shall be documented by entries in the logbook required to be maintained in accordance with
+FC401.8
+.
+
+---
+
+## Section 401.8: Emergency Preparedness Recordkeeping
+
+401.8 Emergency Preparedness Recordkeeping
+Buildings and
+occupancies
+required to have an emergency preparedness plan pursuant to this chapter, except buildings and
+occupancies
+required to prepare a
+fire
+and emergency guide and notice, shall maintain a log book in accordance with this section.
+
+---
+
+Buildings and
+occupancies
+required to have an emergency preparedness plan pursuant to this chapter, except buildings and
+occupancies
+required to prepare a
+fire
+and emergency guide and notice, shall maintain a log book in accordance with this section.
+
+---
+
+## Section 401.8.1: General
+
+401.8.1 General
+A log book or other
+approved
+system
+of recordkeeping shall be maintained for purposes of documenting emergency preparedness.
+
+---
+
+A log book or other
+approved
+system
+of recordkeeping shall be maintained for purposes of documenting emergency preparedness.
+
+---
+
+## Section 401.8.2: Format
+
+401.8.2 Format
+A bound log book with consecutive numbered pages, an
+approved
+electronic format, or other
+approved
+form of recordkeeping, shall be maintained in accordance with the requirements of
+FC107.7
+.
+
+---
+
+A bound log book with consecutive numbered pages, an
+approved
+electronic format, or other
+approved
+form of recordkeeping, shall be maintained in accordance with the requirements of
+FC107.7
+.
+
+---
+
+## Section 401.8.3: Entries
+
+401.8.3 Entries
+Entries shall be made in the log book to document drills, education, staff training, plan review and amendment, plan implementation and/or such other information as the
+commissioner
+may require by rule.
+
+---
+
+Entries shall be made in the log book to document drills, education, staff training, plan review and amendment, plan implementation and/or such other information as the
+commissioner
+may require by rule.
+
+---
+
+## Section 401.9: Access to Public Emergency Notification Systems
+
+401.9 Access to Public Emergency Notification Systems
+While performing the duties of such position,
+FLS
+directors and
+FEP
+coordinators shall have access to NYC Notify, CorpNet or such other
+approved
+public emergency notification
+system
+providing notice of New York City emergencies as the
+commissioner
+may prescribe by rule. Such access may be by means of any portable or desktop device readily available for use on the
+premises
+under their
+supervision
+. The
+commissioner
+may prescribe by rule buildings and
+occupancies
+in which
+FLS
+directors and
+FEP
+coordinators shall have access to a public emergency notification
+system
+.
+
+---
+
+While performing the duties of such position,
+FLS
+directors and
+FEP
+coordinators shall have access to NYC Notify, CorpNet or such other
+approved
+public emergency notification
+system
+providing notice of New York City emergencies as the
+commissioner
+may prescribe by rule. Such access may be by means of any portable or desktop device readily available for use on the
+premises
+under their
+supervision
+. The
+commissioner
+may prescribe by rule buildings and
+occupancies
+in which
+FLS
+directors and
+FEP
+coordinators shall have access to a public emergency notification
+system
+.
+
+---
+
+## Section 401.10: Periodic Inspection
+
+401.10 Periodic Inspection
+Any building,
+occupancy
+, or part thereof required to have a comprehensive
+fire
+safety and emergency action plan,
+fire and emergency preparedness plan
+, and/or a public gathering site plan pursuant to the provisions of this chapter or the
+rules
+shall be subject to periodic
+fire
+safety inspection by the
+department
+, including inspection of any such plan to confirm that it has been prepared and/or implemented in compliance with the requirements of this chapter and the
+rules
+.
+
+---
+
+Any building,
+occupancy
+, or part thereof required to have a comprehensive
+fire
+safety and emergency action plan,
+fire and emergency preparedness plan
+, and/or a public gathering site plan pursuant to the provisions of this chapter or the
+rules
+shall be subject to periodic
+fire
+safety inspection by the
+department
+, including inspection of any such plan to confirm that it has been prepared and/or implemented in compliance with the requirements of this chapter and the
+rules
+.
+
+---
+
+## Section 401.11: Workplace Exit Inspections
+
+401.11 Workplace Exit Inspections
+In addition to any other inspections that the
+department
+may conduct, the
+department
+shall inspect
+Group M
+occupancies
+to determine whether workplace
+exits
+are locked in violation of
+Section 1001.3.1
+of the
+Building Code
+. A minimum of fifty unannounced inspections shall be conducted each year. Such inspections shall include, but not be limited to,
+premises
+at which violations of such section are known or suspected to have occurred.
+
+---
+
+In addition to any other inspections that the
+department
+may conduct, the
+department
+shall inspect
+Group M
+occupancies
+to determine whether workplace
+exits
+are locked in violation of
+Section 1001.3.1
+of the
+Building Code
+. A minimum of fifty unannounced inspections shall be conducted each year. Such inspections shall include, but not be limited to,
+premises
+at which violations of such section are known or suspected to have occurred.
+
+---
+
+Section 402 Definitions
+
+---
+
+## Section 402.1: Definitions
+
+402.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meaning set forth in
+FC202
+.
+ASSEMBLY AREA
+.
+BUILDING OCCUPANTS
+.
+COVERED MALL
+.
+EMERGENCY SHELTER
+.
+EVACUATION
+.
+FEP
+.
+FEP STAFF
+.
+FIRE DRILL
+.
+FLS
+.
+FLS STAFF
+.
+HIGH-RISE BUILDING
+.
+HIGH-RISE FLOOR
+.
+IN-BUILDING RELOCATION
+.
+IN-BUILDING RELOCATION AREA
+.
+LARGE-AREA BUILDING
+.
+MIXED-OCCUPANCY BUILDING
+.
+NON-FIRE EMERGENCY
+.
+NON-FIRE EMERGENCY DRILL
+.
+OFFICE BUILDING
+.
+REGULAR BUSINESS HOURS
+.
+SHELTER IN PLACE
+.
+STAGED EVACUATION
+.
+VOICE COMMUNICATION CAPABILITY
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meaning set forth in
+FC202
+.
+ASSEMBLY AREA
+.
+BUILDING OCCUPANTS
+.
+COVERED MALL
+.
+EMERGENCY SHELTER
+.
+EVACUATION
+.
+FEP
+.
+FEP STAFF
+.
+FIRE DRILL
+.
+FLS
+.
+FLS STAFF
+.
+HIGH-RISE BUILDING
+.
+HIGH-RISE FLOOR
+.
+IN-BUILDING RELOCATION
+.
+IN-BUILDING RELOCATION AREA
+.
+LARGE-AREA BUILDING
+.
+MIXED-OCCUPANCY BUILDING
+.
+NON-FIRE EMERGENCY
+.
+NON-FIRE EMERGENCY DRILL
+.
+OFFICE BUILDING
+.
+REGULAR BUSINESS HOURS
+.
+SHELTER IN PLACE
+.
+STAGED EVACUATION
+.
+VOICE COMMUNICATION CAPABILITY
+.
+
+---
+
+Section 403 Public Gatherings
+
+---
+
+## Section 403.1: General
+
+403.1 General
+The
+commissioner
+may establish requirements to ensure
+fire
+safety at
+indoor
+and outdoor public gatherings, including arcades, bazaars, cafes, carnivals, displays, entertainment, exhibits, rooftop events and street fairs. Such requirements may include preparation and submission to the
+department
+of a site plan, including identification of materials, operations and
+facilities
+regulated by the
+Fire
+Code that will be stored, conducted or maintained in conjunction with the public gathering; pre-event
+fire
+safety inspection; provision of
+fire guards
+or other qualified personnel; and provision and
+maintenance
+of
+fire
+apparatus access, and of aisles and other means of access to and egress from the public gathering. Persons conducting such
+fire watch
+shall have the duties and responsibilities set forth in
+FC901.7.2.1
+with respect to the areas being monitored in connection with public gatherings. The
+commissioner
+may conduct
+periodic inspections
+of public gathering places that are used or frequented on a regular basis.
+
+---
+
+The
+commissioner
+may establish requirements to ensure
+fire
+safety at
+indoor
+and outdoor public gatherings, including arcades, bazaars, cafes, carnivals, displays, entertainment, exhibits, rooftop events and street fairs. Such requirements may include preparation and submission to the
+department
+of a site plan, including identification of materials, operations and
+facilities
+regulated by the
+Fire
+Code that will be stored, conducted or maintained in conjunction with the public gathering; pre-event
+fire
+safety inspection; provision of
+fire guards
+or other qualified personnel; and provision and
+maintenance
+of
+fire
+apparatus access, and of aisles and other means of access to and egress from the public gathering. Persons conducting such
+fire watch
+shall have the duties and responsibilities set forth in
+FC901.7.2.1
+with respect to the areas being monitored in connection with public gatherings. The
+commissioner
+may conduct
+periodic inspections
+of public gathering places that are used or frequented on a regular basis.
+
+---
+
+## Section 403.2: Overcrowding Prohibited
+
+403.2 Overcrowding Prohibited
+Overcrowding
+shall not be caused, maintained or allowed in any
+indoor
+or outdoor area or space used for public gatherings.
+
+---
+
+Overcrowding
+shall not be caused, maintained or allowed in any
+indoor
+or outdoor area or space used for public gatherings.
+
+---
+
+## Section 403.3: Limitations on Standing
+
+403.3 Limitations on Standing
+Where the
+Building Code
+, certificate of
+occupancy
+or
+approved
+seating plan allows audience members to stand at performing arts or other
+indoor
+or outdoor events at which seating is provided for the audience, standing areas shall be maintained in accordance with
+FC407.5
+.
+
+---
+
+Where the
+Building Code
+, certificate of
+occupancy
+or
+approved
+seating plan allows audience members to stand at performing arts or other
+indoor
+or outdoor events at which seating is provided for the audience, standing areas shall be maintained in accordance with
+FC407.5
+.
+
+---
+
+Section 404 Office Buildings
+
+---
+
+## Section 404.1: General
+
+404.1 General
+Group B
+office buildings
+and
+occupancies
+shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section.
+
+---
+
+Group B
+office buildings
+and
+occupancies
+shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section.
+
+---
+
+## Section 404.2: Emergency Preparedness in Office Buildings and Occupancies With Comprehensive Fire Safety/Emergency Action Plans
+
+404.2 Emergency Preparedness in Office Buildings and Occupancies With Comprehensive Fire Safety/Emergency Action Plans
+Group B
+office buildings
+and
+occupancies
+required by
+FC404.2.1
+to have a comprehensive
+fire
+safety and emergency action plan shall comply with the emergency preparedness requirements of this section.
+
+---
+
+Group B
+office buildings
+and
+occupancies
+required by
+FC404.2.1
+to have a comprehensive
+fire
+safety and emergency action plan shall comply with the emergency preparedness requirements of this section.
+
+---
+
+## Section 404.2.1: Comprehensive Fire Safety/Emergency Action Plan (Level 1)
+
+404.2.1 Comprehensive Fire Safety/Emergency Action Plan (Level 1)
+A comprehensive
+fire
+safety and emergency action plan in accordance with
+FC401.4
+shall be prepared for:
+a high-rise or large-area
+Group B
+office building
+occupied or designed to be occupied by more than five hundred persons, or more than one hundred persons above or below the street level.
+a
+Group B
+office
+occupancy
+occupied or designed to be occupied by a total of more than one hundred persons on one or more
+high-rise floors
+.
+any other
+Group B
+office building
+, and any other
+Group B
+office
+occupancy
+, occupied or designed to be occupied by more than five hundred persons, or more than one hundred persons above or below the street level, that was required to have a
+fire
+safety director under the New York City
+Fire
+Prevention Code or this code prior to the effective date of this section.
+any other
+Group B
+office building
+or
+occupancy
+as to which the
+commissioner
+determines that preparation of such a plan is in the interest of public safety given the location, use or
+occupancy
+of the building.
+Exception:
+Office buildings
+and
+occupancies
+subject to FC404.2.1(1), (2) and (3) that have lawfully installed a
+fire alarm system
+without
+voice communication capability
+.
+
+---
+
+A comprehensive
+fire
+safety and emergency action plan in accordance with
+FC401.4
+shall be prepared for:
+a high-rise or large-area
+Group B
+office building
+occupied or designed to be occupied by more than five hundred persons, or more than one hundred persons above or below the street level.
+a
+Group B
+office
+occupancy
+occupied or designed to be occupied by a total of more than one hundred persons on one or more
+high-rise floors
+.
+any other
+Group B
+office building
+, and any other
+Group B
+office
+occupancy
+, occupied or designed to be occupied by more than five hundred persons, or more than one hundred persons above or below the street level, that was required to have a
+fire
+safety director under the New York City
+Fire
+Prevention Code or this code prior to the effective date of this section.
+any other
+Group B
+office building
+or
+occupancy
+as to which the
+commissioner
+determines that preparation of such a plan is in the interest of public safety given the location, use or
+occupancy
+of the building.
+Exception:
+Office buildings
+and
+occupancies
+subject to FC404.2.1(1), (2) and (3) that have lawfully installed a
+fire alarm system
+without
+voice communication capability
+.
+
+---
+
+## Section 404.2.2: Fire and Life Safety Staff
+
+404.2.2 Fire and Life Safety Staff
+The comprehensive
+fire
+safety and emergency action plan required by
+FC401.4
+shall designate
+FLS staff
+consisting of an
+FLS
+director, deputy
+FLS
+directors,
+FLS
+building
+evacuation
+supervisors,
+FLS
+wardens, deputy
+FLS
+wardens,
+FLS
+brigade members and searchers, to exercise the authority and perform the duties of their respective
+FLS
+assignments.
+FLS staff
+shall be provided with initial and refresher
+FLS staff
+training in accordance with
+FC401.4.5.2
+.
+FLS
+brigade members shall be trained in the use of portable
+fire
+extinguishers.
+
+---
+
+The comprehensive
+fire
+safety and emergency action plan required by
+FC401.4
+shall designate
+FLS staff
+consisting of an
+FLS
+director, deputy
+FLS
+directors,
+FLS
+building
+evacuation
+supervisors,
+FLS
+wardens, deputy
+FLS
+wardens,
+FLS
+brigade members and searchers, to exercise the authority and perform the duties of their respective
+FLS
+assignments.
+FLS staff
+shall be provided with initial and refresher
+FLS staff
+training in accordance with
+FC401.4.5.2
+.
+FLS
+brigade members shall be trained in the use of portable
+fire
+extinguishers.
+
+---
+
+## Section 404.3: Emergency Preparedness in Office Buildings and Occupancies With Fire and Emergency Preparedness Plans
+
+404.3 Emergency Preparedness in Office Buildings and Occupancies With Fire and Emergency Preparedness Plans
+Group B
+office buildings
+and
+occupancies
+required by
+FC404.3.1
+to have a
+fire and emergency preparedness plan
+shall comply with the emergency preparedness requirements of this section.
+
+---
+
+Group B
+office buildings
+and
+occupancies
+required by
+FC404.3.1
+to have a
+fire and emergency preparedness plan
+shall comply with the emergency preparedness requirements of this section.
+
+---
+
+## Section 404.3.1: Fire and Emergency Preparedness Plan (Level 2)
+
+404.3.1 Fire and Emergency Preparedness Plan (Level 2)
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a
+Group B
+office building
+or
+occupancy
+occupied or designed to be occupied by more than five hundred persons, or more than one hundred persons above or below street level, other than buildings and
+occupancies
+subject to
+FC404.2
+.
+
+---
+
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a
+Group B
+office building
+or
+occupancy
+occupied or designed to be occupied by more than five hundred persons, or more than one hundred persons above or below street level, other than buildings and
+occupancies
+subject to
+FC404.2
+.
+
+---
+
+## Section 404.3.2: Fire and Emergency Preparedness Staff
+
+404.3.2 Fire and Emergency Preparedness Staff
+The
+commissioner
+may prescribe by rule that, in
+Group B
+office buildings
+and
+occupancies
+that are provided with
+voice communication capability
+(other than buildings and
+occupancies
+subject to
+FC404.2
+), there shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+
+---
+
+The
+commissioner
+may prescribe by rule that, in
+Group B
+office buildings
+and
+occupancies
+that are provided with
+voice communication capability
+(other than buildings and
+occupancies
+subject to
+FC404.2
+), there shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+
+---
+
+Section 405 Hotels, Motels and Other Transient Residential Occupancies
+
+---
+
+## Section 405.1: General
+
+405.1 General
+Group R
+-1 buildings and
+occupancies
+, including any hotel, motel, boarding house, hostel and single room
+occupancy
+, shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+405.2
+,
+405.3
+,
+405.5
+and 416.
+Exceptions:
+Homeless shelters and
+emergency shelters
+, which shall comply with
+FC 401
+,
+405.4
+,
+405.5
+and
+416
+.
+Dormitories operated by or affiliated with educational institutions, which shall comply with the requirements of
+FC 401
+,
+410
+and
+416
+.
+
+---
+
+Group R
+-1 buildings and
+occupancies
+, including any hotel, motel, boarding house, hostel and single room
+occupancy
+, shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+405.2
+,
+405.3
+,
+405.5
+and 416.
+Exceptions:
+Homeless shelters and
+emergency shelters
+, which shall comply with
+FC 401
+,
+405.4
+,
+405.5
+and
+416
+.
+Dormitories operated by or affiliated with educational institutions, which shall comply with the requirements of
+FC 401
+,
+410
+and
+416
+.
+
+---
+
+## Section 405.2: Emergency Preparedness in Transient Residential Buildings and Occupancies With Comprehensive Fire Safety/Emergency Action Plans
+
+405.2 Emergency Preparedness in Transient Residential Buildings and Occupancies With Comprehensive Fire Safety/Emergency Action Plans
+Group R
+-1 residential buildings and
+occupancies
+required by
+FC405.2.1
+to have a comprehensive
+fire
+safety and emergency action plan shall comply with the emergency preparedness requirements of this section.
+
+---
+
+Group R
+-1 residential buildings and
+occupancies
+required by
+FC405.2.1
+to have a comprehensive
+fire
+safety and emergency action plan shall comply with the emergency preparedness requirements of this section.
+
+---
+
+## Section 405.2.1: Comprehensive Fire Safety/Emergency Action Plan (Level 1)
+
+405.2.1 Comprehensive Fire Safety/Emergency Action Plan (Level 1)
+A comprehensive
+fire
+safety and emergency action plan in accordance with
+FC401.4
+shall be prepared for:
+a high-rise
+Group R
+-1 residential building, including hotels and club houses providing similar accommodation.
+a
+Group R
+-1 residential building or
+occupancy
+with a total of more than fifty sleeping rooms above street level, or communal sleeping
+facilities
+above street level occupied or designed to be occupied by a total of more than fifty lodgers, and which is provided with
+voice communication capability
+.
+
+---
+
+A comprehensive
+fire
+safety and emergency action plan in accordance with
+FC401.4
+shall be prepared for:
+a high-rise
+Group R
+-1 residential building, including hotels and club houses providing similar accommodation.
+a
+Group R
+-1 residential building or
+occupancy
+with a total of more than fifty sleeping rooms above street level, or communal sleeping
+facilities
+above street level occupied or designed to be occupied by a total of more than fifty lodgers, and which is provided with
+voice communication capability
+.
+
+---
+
+## Section 405.2.2: Fire and Life Safety Staff
+
+405.2.2 Fire and Life Safety Staff
+The comprehensive
+fire
+safety and emergency action plan required by
+FC405.2.1
+shall designate
+FLS staff
+consisting of an
+FLS
+director, deputy
+FLS
+directors and a sufficient number of
+FLS staff
+members to exercise the authority and perform the duties of their respective
+FLS
+assignments.
+FLS staff
+shall be provided with initial and refresher
+FLS staff
+training in accordance with
+FC401.4.5.2
+.
+FLS staff
+members shall be trained in the use of portable
+fire
+extinguishers.
+
+---
+
+The comprehensive
+fire
+safety and emergency action plan required by
+FC405.2.1
+shall designate
+FLS staff
+consisting of an
+FLS
+director, deputy
+FLS
+directors and a sufficient number of
+FLS staff
+members to exercise the authority and perform the duties of their respective
+FLS
+assignments.
+FLS staff
+shall be provided with initial and refresher
+FLS staff
+training in accordance with
+FC401.4.5.2
+.
+FLS staff
+members shall be trained in the use of portable
+fire
+extinguishers.
+
+---
+
+## Section 405.3: Emergency Preparedness in Transient Residential Buildings and Occupancies With Fire and Emergency Preparedness Plans
+
+405.3 Emergency Preparedness in Transient Residential Buildings and Occupancies With Fire and Emergency Preparedness Plans
+Group R
+-1 residential buildings and
+occupancies
+required by
+FC405.3.1
+to have a
+fire and emergency preparedness plan
+shall comply with the emergency preparedness requirements of this section.
+
+---
+
+Group R
+-1 residential buildings and
+occupancies
+required by
+FC405.3.1
+to have a
+fire and emergency preparedness plan
+shall comply with the emergency preparedness requirements of this section.
+
+---
+
+## Section 405.3.1: Fire and Emergency Preparedness Plan (Level 2)
+
+405.3.1 Fire and Emergency Preparedness Plan (Level 2)
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a
+Group R
+-1 residential building or
+occupancy
+(other than buildings and
+occupancies
+subject to
+FC405.2
+) with a total of more than thirty sleeping rooms, or more than fifteen sleeping rooms above street level, or communal sleeping
+facilities
+occupied or designed to be occupied by a total of more than thirty lodgers, or more than fifteen lodgers above the street level.
+
+---
+
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a
+Group R
+-1 residential building or
+occupancy
+(other than buildings and
+occupancies
+subject to
+FC405.2
+) with a total of more than thirty sleeping rooms, or more than fifteen sleeping rooms above street level, or communal sleeping
+facilities
+occupied or designed to be occupied by a total of more than thirty lodgers, or more than fifteen lodgers above the street level.
+
+---
+
+## Section 405.3.2: Fire and Emergency Preparedness Staff
+
+405.3.2 Fire and Emergency Preparedness Staff
+The
+commissioner
+may prescribe by rule that in
+Group R
+-1 buildings and
+occupancies
+provided with
+voice communication capability
+(other than buildings and
+occupancies
+subject to
+FC405.2
+) there shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+Exception:
+Any
+Group R
+-1 residential building or
+occupancy
+with
+staged evacuation
+that was required by the New York City
+Fire
+Prevention Code or this code prior to the effective date of this section to have a
+fire
+safety director present in the building during
+regular business hours
+shall retain such staffing.
+
+---
+
+The
+commissioner
+may prescribe by rule that in
+Group R
+-1 buildings and
+occupancies
+provided with
+voice communication capability
+(other than buildings and
+occupancies
+subject to
+FC405.2
+) there shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+Exception:
+Any
+Group R
+-1 residential building or
+occupancy
+with
+staged evacuation
+that was required by the New York City
+Fire
+Prevention Code or this code prior to the effective date of this section to have a
+fire
+safety director present in the building during
+regular business hours
+shall retain such staffing.
+
+---
+
+## Section 405.4: Emergency Preparedness in Homeless Shelters and Emergency Shelters
+
+405.4 Emergency Preparedness in Homeless Shelters and Emergency Shelters
+Group R
+-1 residential buildings or
+occupancies
+operated or occupied as a homeless shelter, and any
+emergency shelter
+, shall comply with the emergency preparedness requirements of this section.
+
+---
+
+Group R
+-1 residential buildings or
+occupancies
+operated or occupied as a homeless shelter, and any
+emergency shelter
+, shall comply with the emergency preparedness requirements of this section.
+
+---
+
+## Section 405.4.1: Comprehensive Fire Safety/Emergency Action Plan (Level 1)
+
+405.4.1 Comprehensive Fire Safety/Emergency Action Plan (Level 1)
+A comprehensive
+fire
+safety and emergency action plan in accordance with
+FC401.4
+shall be prepared for a high-rise
+Group R
+-1 or high-rise
+Group I
+-1 homeless shelter.
+
+---
+
+A comprehensive
+fire
+safety and emergency action plan in accordance with
+FC401.4
+shall be prepared for a high-rise
+Group R
+-1 or high-rise
+Group I
+-1 homeless shelter.
+
+---
+
+## Section 405.4.2: Fire and Life Safety Staff
+
+405.4.2 Fire and Life Safety Staff
+The comprehensive
+fire
+safety and emergency action plan required by
+FC405.4.1
+shall designate
+fire
+and life safety staff in accordance with
+FC405.2.2
+.
+
+---
+
+The comprehensive
+fire
+safety and emergency action plan required by
+FC405.4.1
+shall designate
+fire
+and life safety staff in accordance with
+FC405.2.2
+.
+
+---
+
+## Section 405.4.3: Fire and Emergency Preparedness Plan (Level 2)
+
+405.4.3 Fire and Emergency Preparedness Plan (Level 2)
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a
+Group R
+-1 and
+Group I
+-1 building or
+occupancy
+operated or occupied as a homeless shelter (other than buildings and
+occupancies
+subject to
+FC405.4.1
+), and any
+emergency shelter
+.
+
+---
+
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a
+Group R
+-1 and
+Group I
+-1 building or
+occupancy
+operated or occupied as a homeless shelter (other than buildings and
+occupancies
+subject to
+FC405.4.1
+), and any
+emergency shelter
+.
+
+---
+
+## Section 405.4.4: Fire and Emergency Preparedness Staff
+
+405.4.4 Fire and Emergency Preparedness Staff
+The
+fire and emergency preparedness plan
+required by
+FC405.4.3
+shall designate an
+FEP
+coordinator and a sufficient number of shelter coordinators, with such qualifications, duties and authority as set forth in the
+rules
+.
+
+---
+
+The
+fire and emergency preparedness plan
+required by
+FC405.4.3
+shall designate an
+FEP
+coordinator and a sufficient number of shelter coordinators, with such qualifications, duties and authority as set forth in the
+rules
+.
+
+---
+
+## Section 405.4.4.1: FEP Coordinator and Shelter Coordinators
+
+405.4.4.1 FEP Coordinator and Shelter Coordinators
+The
+FEP
+coordinator and shelter coordinators designated in the
+fire and emergency preparedness plan
+shall hold the respective
+certificates of fitness
+for said duties, and shall have the following duties and responsibilities and such other duties and responsibilities as prescribed by rule:
+The
+FEP
+coordinator shall have the duties and responsibilities set forth in
+FC401.5
+.
+The
+FEP
+coordinator or a shelter coordinator shall be present in the building at all times while the building is occupied. When the
+FEP
+coordinator is absent, a
+FEP
+shelter coordinator shall be present in the building and shall perform the emergency preparedness duties designated in the
+rules
+and the
+fire and emergency preparedness plan
+.
+In the event of a
+fire
+, a medical emergency or other
+non-fire emergency
+, the
+FEP
+coordinator or the shelter coordinator on duty shall report to the
+fire command center
+or designated alternative location, and, if appropriate, implement the
+fire and emergency preparedness plan
+in accordance with its terms and the provisions of the
+rules
+, and notify arriving emergency response personnel and incident commander of the
+fire
+or
+non-fire emergency
+, the building response thereto, and the building's
+fire protection systems
+.
+The
+FEP
+coordinator and shelter coordinators designated in the
+FEP
+plan shall be fully familiar with the provisions of the
+fire and emergency preparedness plan
+. The
+FEP
+coordinator shall conduct staff training and
+fire
+and
+non-fire emergency drills
+required by FC401.
+
+---
+
+The
+FEP
+coordinator and shelter coordinators designated in the
+fire and emergency preparedness plan
+shall hold the respective
+certificates of fitness
+for said duties, and shall have the following duties and responsibilities and such other duties and responsibilities as prescribed by rule:
+The
+FEP
+coordinator shall have the duties and responsibilities set forth in
+FC401.5
+.
+The
+FEP
+coordinator or a shelter coordinator shall be present in the building at all times while the building is occupied. When the
+FEP
+coordinator is absent, a
+FEP
+shelter coordinator shall be present in the building and shall perform the emergency preparedness duties designated in the
+rules
+and the
+fire and emergency preparedness plan
+.
+In the event of a
+fire
+, a medical emergency or other
+non-fire emergency
+, the
+FEP
+coordinator or the shelter coordinator on duty shall report to the
+fire command center
+or designated alternative location, and, if appropriate, implement the
+fire and emergency preparedness plan
+in accordance with its terms and the provisions of the
+rules
+, and notify arriving emergency response personnel and incident commander of the
+fire
+or
+non-fire emergency
+, the building response thereto, and the building's
+fire protection systems
+.
+The
+FEP
+coordinator and shelter coordinators designated in the
+FEP
+plan shall be fully familiar with the provisions of the
+fire and emergency preparedness plan
+. The
+FEP
+coordinator shall conduct staff training and
+fire
+and
+non-fire emergency drills
+required by FC401.
+
+---
+
+## Section 405.4.5: Fire Guard Patrols in Emergency Shelters
+
+405.4.5 Fire Guard Patrols in Emergency Shelters
+Buildings or parts thereof occupied or operated to be occupied by
+emergency shelters
+shall be continuously patrolled by a
+fire guard
+. Every area of the building shall be patrolled at least once every hour.
+
+---
+
+Buildings or parts thereof occupied or operated to be occupied by
+emergency shelters
+shall be continuously patrolled by a
+fire guard
+. Every area of the building shall be patrolled at least once every hour.
+
+---
+
+## Section 405.5: Fire and Emergency Notice
+
+405.5 Fire and Emergency Notice
+There shall be posted on or immediately adjacent to the
+main entrance
+door of guest rooms in
+Group R
+-1 buildings and
+occupancies
+and any
+emergency shelter
+a notice that provides the following information and guidance to
+building occupants
+, and/or such other information as the
+commissioner
+may prescribe by rule:
+A visual representation of the location to each
+exit
+stairwell, the route thereto, and the number of doors opening onto the public corridor that must be passed to reach each such stairwell.
+Location of
+manual fire alarm boxes
+.
+A written description and/or visual representation of the procedures to be followed in the event of a
+fire
+, smoke condition or other emergency.
+
+---
+
+There shall be posted on or immediately adjacent to the
+main entrance
+door of guest rooms in
+Group R
+-1 buildings and
+occupancies
+and any
+emergency shelter
+a notice that provides the following information and guidance to
+building occupants
+, and/or such other information as the
+commissioner
+may prescribe by rule:
+A visual representation of the location to each
+exit
+stairwell, the route thereto, and the number of doors opening onto the public corridor that must be passed to reach each such stairwell.
+Location of
+manual fire alarm boxes
+.
+A written description and/or visual representation of the procedures to be followed in the event of a
+fire
+, smoke condition or other emergency.
+
+---
+
+Section 406 Apartment Buildings
+
+---
+
+## Section 406.1: General
+
+406.1 General
+Apartment buildings and other
+Group R
+-2 buildings and
+occupancies
+shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section.
+
+---
+
+Apartment buildings and other
+Group R
+-2 buildings and
+occupancies
+shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section.
+
+---
+
+## Section 406.2: Emergency Preparedness in Apartment Buildings
+
+406.2 Emergency Preparedness in Apartment Buildings
+Apartment buildings and other
+Group R
+-2 buildings and
+occupancies
+shall comply with the following emergency preparedness requirements:
+
+---
+
+Apartment buildings and other
+Group R
+-2 buildings and
+occupancies
+shall comply with the following emergency preparedness requirements:
+
+---
+
+## Section 406.2.1: Fire Emergency Preparedness Guide and Notices (Level 3)
+
+406.2.1 Fire Emergency Preparedness Guide and Notices (Level 3)
+Fire and emergency preparedness guide and notices
+in accordance with
+FC401.6
+and the
+rules
+shall be prepared, and periodically reviewed and amended, for a
+Group R
+-2 building or
+occupancy
+.
+
+---
+
+Fire and emergency preparedness guide and notices
+in accordance with
+FC401.6
+and the
+rules
+shall be prepared, and periodically reviewed and amended, for a
+Group R
+-2 building or
+occupancy
+.
+
+---
+
+## Section 406.2.2: Non-Sequential or Non-Standard Floor Numbering
+
+406.2.2 Non-Sequential or Non-Standard Floor Numbering
+The
+department
+shall promulgate
+rules
+establishing requirements for the electronic submission of floor numbering lists to the
+department
+by
+owners
+of
+Group R
+-2 buildings or
+occupancies
+that are 125 feet (38 100 mm) or more in height, and such other
+occupancies
+as the
+department
+may designate by rule. Such
+rules
+shall provide that each
+owner
+of a building with non-sequential or non-standard floor numbering, as defined by rule, shall submit to the
+department
+a floor numbering list indicating the floor numbers assigned to each floor, and submit an amended floor numbering list within 2 business days of a change in any floor numbering designation.
+
+---
+
+The
+department
+shall promulgate
+rules
+establishing requirements for the electronic submission of floor numbering lists to the
+department
+by
+owners
+of
+Group R
+-2 buildings or
+occupancies
+that are 125 feet (38 100 mm) or more in height, and such other
+occupancies
+as the
+department
+may designate by rule. Such
+rules
+shall provide that each
+owner
+of a building with non-sequential or non-standard floor numbering, as defined by rule, shall submit to the
+department
+a floor numbering list indicating the floor numbers assigned to each floor, and submit an amended floor numbering list within 2 business days of a change in any floor numbering designation.
+
+---
+
+## Section 406.2.3: Hurricane Evacuation Notices
+
+406.2.3 Hurricane Evacuation Notices
+The
+owner
+of any
+Group R
+-2 building or
+occupancy
+within a hurricane
+evacuation
+zone, as designated by the
+commissioner
+of the office of emergency management, shall cause a hurricane
+evacuation
+notice to be posted within the building or
+occupancy
+. Such notice shall serve to inform
+building occupants
+of the current hurricane
+evacuation
+zone designation for that building and the methodology for determining their closest hurricane
+evacuation
+centers, through 311 or the online Hurricane
+Evacuation
+Zone finder. Such notice shall be in such form as prescribed by the
+commissioner
+by rule and shall be posted within a common area of the building and such other locations as set forth in the
+rules
+.
+
+---
+
+The
+owner
+of any
+Group R
+-2 building or
+occupancy
+within a hurricane
+evacuation
+zone, as designated by the
+commissioner
+of the office of emergency management, shall cause a hurricane
+evacuation
+notice to be posted within the building or
+occupancy
+. Such notice shall serve to inform
+building occupants
+of the current hurricane
+evacuation
+zone designation for that building and the methodology for determining their closest hurricane
+evacuation
+centers, through 311 or the online Hurricane
+Evacuation
+Zone finder. Such notice shall be in such form as prescribed by the
+commissioner
+by rule and shall be posted within a common area of the building and such other locations as set forth in the
+rules
+.
+
+---
+
+## Section 406.2.4: Fire and Emergency Preparedness Plan (Level 2) and Fire and Emergency Preparedness Staff
+
+406.2.4 Fire and Emergency Preparedness Plan (Level 2) and Fire and Emergency Preparedness Staff
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for
+Group R
+-2
+high-rise megastructure
+buildings and
+occupancies
+, in addition to compliance with the requirements of
+FC401.6
+. There shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+
+---
+
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for
+Group R
+-2
+high-rise megastructure
+buildings and
+occupancies
+, in addition to compliance with the requirements of
+FC401.6
+. There shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+
+---
+
+## Section 406.3: Responsibility of Cooperative or Condominium Apartment Owners
+
+406.3 Responsibility of Cooperative or Condominium Apartment Owners
+In
+Group R
+-2 buildings and
+occupancies
+with a cooperative or condominium form of ownership and management, the board of directors, condominium association or other party generally responsible for
+maintenance
+of common areas shall be responsible for the preparation and distribution of the
+fire
+and emergency preparedness guide, the posting and
+maintenance
+of
+fire
+and emergency preparedness notices in common areas, and the preparation and distribution to individual dwelling unit
+owners
+or proprietary lessees of
+fire
+and
+non-fire emergency
+notices for dwelling unit doors, including instructions and the means for affixing the notice. The
+owners
+or proprietary lessees of the individual units in such residential buildings or parts thereof shall be responsible for the posting and
+maintenance
+of the
+fire
+and
+non-fire emergency
+notice on their respective dwelling unit doors. Such
+owners
+and proprietary lessees shall allow representatives of the building's management access to their individual dwelling units, upon reasonable notice, for purposes of confirming such
+owners
+and proprietary lessees' compliance with this section.
+
+---
+
+In
+Group R
+-2 buildings and
+occupancies
+with a cooperative or condominium form of ownership and management, the board of directors, condominium association or other party generally responsible for
+maintenance
+of common areas shall be responsible for the preparation and distribution of the
+fire
+and emergency preparedness guide, the posting and
+maintenance
+of
+fire
+and emergency preparedness notices in common areas, and the preparation and distribution to individual dwelling unit
+owners
+or proprietary lessees of
+fire
+and
+non-fire emergency
+notices for dwelling unit doors, including instructions and the means for affixing the notice. The
+owners
+or proprietary lessees of the individual units in such residential buildings or parts thereof shall be responsible for the posting and
+maintenance
+of the
+fire
+and
+non-fire emergency
+notice on their respective dwelling unit doors. Such
+owners
+and proprietary lessees shall allow representatives of the building's management access to their individual dwelling units, upon reasonable notice, for purposes of confirming such
+owners
+and proprietary lessees' compliance with this section.
+
+---
+
+Section 407 Assembly Occupancies
+
+---
+
+## Section 407.1: General
+
+407.1 General
+Group A
+occupancies
+and public gathering places, other than
+Group A
+occupancies
+operated or occupied exclusively for purposes of religious worship that have an occupant load less than two thousand, shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section. Such
+occupancies
+and places shall additionally comply with
+fire
+safety precautions required pursuant to
+FC403.1
+.
+
+---
+
+Group A
+occupancies
+and public gathering places, other than
+Group A
+occupancies
+operated or occupied exclusively for purposes of religious worship that have an occupant load less than two thousand, shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section. Such
+occupancies
+and places shall additionally comply with
+fire
+safety precautions required pursuant to
+FC403.1
+.
+
+---
+
+## Section 407.2: Emergency Preparedness in Assembly Occupancies With Comprehensive Fire Safety/Emergency Action Plans
+
+407.2 Emergency Preparedness in Assembly Occupancies With Comprehensive Fire Safety/Emergency Action Plans
+Group A
+occupancies
+required by FC407.2.1 to have a comprehensive
+fire
+safety and emergency action plan shall comply with the emergency preparedness requirements of this section.
+
+---
+
+Group A
+occupancies
+required by FC407.2.1 to have a comprehensive
+fire
+safety and emergency action plan shall comply with the emergency preparedness requirements of this section.
+
+---
+
+## Section 407.2.1: Comprehensive Fire Safety/Emergency Action Plan (Level 1)
+
+407.2.1 Comprehensive Fire Safety/Emergency Action Plan (Level 1)
+A comprehensive
+fire
+safety and emergency action plan in accordance with
+FC401.4
+shall be prepared for a
+Group A
+building with an
+occupancy
+of five thousand or more persons, or any other building or structure that houses one or more
+Group A
+occupancies
+where the combined
+occupancy
+of such
+Group A
+occupancies
+is five thousand or more persons.
+
+---
+
+A comprehensive
+fire
+safety and emergency action plan in accordance with
+FC401.4
+shall be prepared for a
+Group A
+building with an
+occupancy
+of five thousand or more persons, or any other building or structure that houses one or more
+Group A
+occupancies
+where the combined
+occupancy
+of such
+Group A
+occupancies
+is five thousand or more persons.
+
+---
+
+## Section 407.2.2: Fire and Life Safety Staff
+
+407.2.2 Fire and Life Safety Staff
+The comprehensive
+fire
+and emergency action plan required by
+FC407.2.1
+shall designate
+FLS staff
+consisting of an
+FLS
+director and such other
+FLS staff
+as the
+commissioner
+may prescribe by rule as appropriate for such building or
+occupancy
+.
+FLS staff
+shall be provided with initial and refresher
+FLS staff
+training in accordance with
+FC401.4.5.2
+. The
+commissioner
+may prescribe by rule that there be present during
+regular business hours
+one or more members of the
+FLS staff
+who hold a
+certificate of fitness
+for
+place of assembly
+fire
+safety.
+
+---
+
+The comprehensive
+fire
+and emergency action plan required by
+FC407.2.1
+shall designate
+FLS staff
+consisting of an
+FLS
+director and such other
+FLS staff
+as the
+commissioner
+may prescribe by rule as appropriate for such building or
+occupancy
+.
+FLS staff
+shall be provided with initial and refresher
+FLS staff
+training in accordance with
+FC401.4.5.2
+. The
+commissioner
+may prescribe by rule that there be present during
+regular business hours
+one or more members of the
+FLS staff
+who hold a
+certificate of fitness
+for
+place of assembly
+fire
+safety.
+
+---
+
+## Section 407.3: Emergency Preparedness in Assembly Occupancies With Fire and Emergency Preparedness Plans
+
+407.3 Emergency Preparedness in Assembly Occupancies With Fire and Emergency Preparedness Plans
+Group A
+buildings or
+occupancies
+and public gathering places that are required by
+FC407.3.1
+to have a
+fire and emergency preparedness plan
+shall comply with the emergency preparedness requirements of this section.
+
+---
+
+Group A
+buildings or
+occupancies
+and public gathering places that are required by
+FC407.3.1
+to have a
+fire and emergency preparedness plan
+shall comply with the emergency preparedness requirements of this section.
+
+---
+
+## Section 407.3.1: Fire and Emergency Preparedness Plan (Level 2)
+
+407.3.1 Fire and Emergency Preparedness Plan (Level 2)
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a
+Group A
+building or
+occupancy
+or public gathering place not subject to
+FC407.2
+that:
+is designed to be occupied by three hundred or more persons;
+is provided with
+voice communication capability
+;
+has a stage or in which entertainment or other activities that are the focus of attention are regularly conducted;
+is occupied or designed to be occupied as a ballroom, dance hall or night club; or
+is occupied or designed to be occupied as a bar, catering hall, restaurant or similar establishment, on one or more
+high-rise floors
+, including any rooftop area.
+
+---
+
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a
+Group A
+building or
+occupancy
+or public gathering place not subject to
+FC407.2
+that:
+is designed to be occupied by three hundred or more persons;
+is provided with
+voice communication capability
+;
+has a stage or in which entertainment or other activities that are the focus of attention are regularly conducted;
+is occupied or designed to be occupied as a ballroom, dance hall or night club; or
+is occupied or designed to be occupied as a bar, catering hall, restaurant or similar establishment, on one or more
+high-rise floors
+, including any rooftop area.
+
+---
+
+## Section 407.3.2: Fire and Emergency Preparedness Staff
+
+407.3.2 Fire and Emergency Preparedness Staff
+The
+commissioner
+may prescribe by rule that in
+Group A
+buildings or
+occupancies
+and public gathering places that there be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for
+place of assembly
+fire
+safety.
+
+---
+
+The
+commissioner
+may prescribe by rule that in
+Group A
+buildings or
+occupancies
+and public gathering places that there be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for
+place of assembly
+fire
+safety.
+
+---
+
+## Section 407.3.3: Assembly Spaces Without Staff
+
+407.3.3 Assembly Spaces Without Staff
+Halls or other assembly spaces that are rented or otherwise made available for events without dedicated staff, such as social halls in houses of worship and community organizations, are not required to prepare a
+fire and emergency preparedness plan
+pursuant to
+FC407.3.1
+.
+
+---
+
+Halls or other assembly spaces that are rented or otherwise made available for events without dedicated staff, such as social halls in houses of worship and community organizations, are not required to prepare a
+fire and emergency preparedness plan
+pursuant to
+FC407.3.1
+.
+
+---
+
+## Section 407.4: Seating Plan
+
+407.4 Seating Plan
+A copy of the seating plan required for
+Group A
+occupancies
+by the
+Building Code
+shall be electronically submitted to the
+department
+prior to
+occupancy
+. A seating plan depicting the arrangement of seating in a
+place of assembly
+, location of aisles and such other information as may be required by rule shall be submitted in a manner prescribed by the
+department
+. A copy of the
+approved
+seating plan shall be maintained on the
+premises
+and made available for inspection by any
+department
+representative.
+
+---
+
+A copy of the seating plan required for
+Group A
+occupancies
+by the
+Building Code
+shall be electronically submitted to the
+department
+prior to
+occupancy
+. A seating plan depicting the arrangement of seating in a
+place of assembly
+, location of aisles and such other information as may be required by rule shall be submitted in a manner prescribed by the
+department
+. A copy of the
+approved
+seating plan shall be maintained on the
+premises
+and made available for inspection by any
+department
+representative.
+
+---
+
+## Section 407.5: Limitations on Standing in Group A Occupancies and Public Gatherings
+
+407.5 Limitations on Standing in Group A Occupancies and Public Gatherings
+Where the
+Building Code
+, certificate of
+occupancy
+or
+approved
+seating plan allows audience members to stand at performing arts or other
+indoor
+or outdoor events at which seating is provided for the audience, standing areas shall be maintained in accordance with
+FC 407.5.1
+through
+407.5.4
+.
+
+---
+
+Where the
+Building Code
+, certificate of
+occupancy
+or
+approved
+seating plan allows audience members to stand at performing arts or other
+indoor
+or outdoor events at which seating is provided for the audience, standing areas shall be maintained in accordance with
+FC 407.5.1
+through
+407.5.4
+.
+
+---
+
+## Section 407.5.1: Standing Areas to Be Indicated
+
+407.5.1 Standing Areas to Be Indicated
+The space to be occupied by standing audience members shall be separated from the space to be left clear for passage by a rope, tape or other thin material at a height of not less than 3 feet (914 mm) nor more than 4 feet (1219 mm) above the floor, supported by lightweight posts, all to be constructed and placed so as not to constitute an obstruction in case of panic or emergency. Such standing areas shall be clearly demarcated by durable markings on the floor indicating the boundaries of the standing area.
+Exception:
+A single row of standees in an
+approved
+or other lawful area designated for such purpose in a performing arts theater, where the location for each such standee is durably marked in an
+approved
+manner.
+
+---
+
+The space to be occupied by standing audience members shall be separated from the space to be left clear for passage by a rope, tape or other thin material at a height of not less than 3 feet (914 mm) nor more than 4 feet (1219 mm) above the floor, supported by lightweight posts, all to be constructed and placed so as not to constitute an obstruction in case of panic or emergency. Such standing areas shall be clearly demarcated by durable markings on the floor indicating the boundaries of the standing area.
+Exception:
+A single row of standees in an
+approved
+or other lawful area designated for such purpose in a performing arts theater, where the location for each such standee is durably marked in an
+approved
+manner.
+
+---
+
+## Section 407.5.2: Standing in Aisles
+
+407.5.2 Standing in Aisles
+It shall be unlawful to stand, or allow any person to stand, in or at the head of an aisle.
+
+---
+
+It shall be unlawful to stand, or allow any person to stand, in or at the head of an aisle.
+
+---
+
+## Section 407.5.3: Standing in Passageways
+
+407.5.3 Standing in Passageways
+Standing is authorized in
+Group A
+occupancies
+and public gathering places in accordance with the following requirements.
+If the passageway is more than 6 feet (1829 mm) and less than 16 feet (4877 mm) deep, persons may stand therein, provided an unobstructed passageway of at least 6 feet (1829 mm) in depth is left open, and there are no more than four rows of persons standing.
+If the passageway is more than 16 feet (4877 mm) deep, any number of persons or rows of persons may stand therein, provided that an unobstructed passageway of at least 10 feet (3048 mm) in depth is left open.
+In
+places of assembly
+having a passageway to the rear of the seats, 6 feet (1829 mm) or less in depth, and having in addition an outer passageway in the rear thereof, to which all aisle heads have straight and direct access, a maximum of two rows of persons may be permitted to stand in the passageway to the rear of such seats.
+
+---
+
+Standing is authorized in
+Group A
+occupancies
+and public gathering places in accordance with the following requirements.
+If the passageway is more than 6 feet (1829 mm) and less than 16 feet (4877 mm) deep, persons may stand therein, provided an unobstructed passageway of at least 6 feet (1829 mm) in depth is left open, and there are no more than four rows of persons standing.
+If the passageway is more than 16 feet (4877 mm) deep, any number of persons or rows of persons may stand therein, provided that an unobstructed passageway of at least 10 feet (3048 mm) in depth is left open.
+In
+places of assembly
+having a passageway to the rear of the seats, 6 feet (1829 mm) or less in depth, and having in addition an outer passageway in the rear thereof, to which all aisle heads have straight and direct access, a maximum of two rows of persons may be permitted to stand in the passageway to the rear of such seats.
+
+---
+
+## Section 407.5.4: Standing in Balconies
+
+407.5.4 Standing in Balconies
+Only one row of persons shall be allowed to stand in balconies.
+
+---
+
+Only one row of persons shall be allowed to stand in balconies.
+
+---
+
+## Section 407.6: Announcements
+
+407.6 Announcements
+In performing arts theaters or motion picture theaters, and in any other
+Group A
+occupancy
+in which there is a non-continuous performance or program, other than an
+occupancy
+regularly attended by the same audience, an audible announcement shall be made not more than 10 minutes prior to the start of each performance or program informing the occupants of the location of the
+exits
+to be used in the event of a
+fire
+or other emergency, provided, however, that in any theater the announcement may be projected upon a screen or other surface
+approved
+by the
+commissioner
+in a manner
+approved
+by the
+commissioner
+. Notwithstanding the foregoing, the
+commissioner
+may grant an exception from such requirement upon a determination that the
+occupancy
+has at least one
+exit
+clearly visible from every seat or standing area from which members of the audience are authorized to view the performance.
+
+---
+
+In performing arts theaters or motion picture theaters, and in any other
+Group A
+occupancy
+in which there is a non-continuous performance or program, other than an
+occupancy
+regularly attended by the same audience, an audible announcement shall be made not more than 10 minutes prior to the start of each performance or program informing the occupants of the location of the
+exits
+to be used in the event of a
+fire
+or other emergency, provided, however, that in any theater the announcement may be projected upon a screen or other surface
+approved
+by the
+commissioner
+in a manner
+approved
+by the
+commissioner
+. Notwithstanding the foregoing, the
+commissioner
+may grant an exception from such requirement upon a determination that the
+occupancy
+has at least one
+exit
+clearly visible from every seat or standing area from which members of the audience are authorized to view the performance.
+
+---
+
+## Section 407.7: Trade Shows
+
+407.7 Trade Shows
+The
+owner
+of any
+Group A
+occupancy
+wherein a trade show or other similar temporary exhibition is to be conducted shall, at least one month before the date of such exhibition, submit to the
+department
+a written notice and a plan containing the following information and such other information and documentation as the
+commissioner
+may prescribe:
+The dates, times, location, and nature of the trade show or other exhibition, and whether the event will be open to the public or restricted to the trade.
+The design and arrangement of the trade show or other exhibition, including aisles, display booths,
+decorations
+and drapes, and equipment using any hazardous material or
+open flame
+.
+
+---
+
+The
+owner
+of any
+Group A
+occupancy
+wherein a trade show or other similar temporary exhibition is to be conducted shall, at least one month before the date of such exhibition, submit to the
+department
+a written notice and a plan containing the following information and such other information and documentation as the
+commissioner
+may prescribe:
+The dates, times, location, and nature of the trade show or other exhibition, and whether the event will be open to the public or restricted to the trade.
+The design and arrangement of the trade show or other exhibition, including aisles, display booths,
+decorations
+and drapes, and equipment using any hazardous material or
+open flame
+.
+
+---
+
+Section 408 Assisted Living Facilities and Similar Occupancies
+
+---
+
+## Section 408.1: General
+
+408.1 General
+Assisted living
+facilities
+, adult homes, community residences, congregate care
+facilities
+, enriched housing, halfway houses, intermediate care
+facilities
+, residential care
+facilities
+, social rehabilitation
+facilities
+, substance abuse rehabilitation centers and other
+Group I
+-1 buildings and
+occupancies
+in which
+building occupants
+are capable of self-preservation and capable of responding to a
+fire
+or other emergency without assistance from others shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section.
+
+---
+
+Assisted living
+facilities
+, adult homes, community residences, congregate care
+facilities
+, enriched housing, halfway houses, intermediate care
+facilities
+, residential care
+facilities
+, social rehabilitation
+facilities
+, substance abuse rehabilitation centers and other
+Group I
+-1 buildings and
+occupancies
+in which
+building occupants
+are capable of self-preservation and capable of responding to a
+fire
+or other emergency without assistance from others shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section.
+
+---
+
+## Section 408.2: Emergency Preparedness in Assisted Living Facilities and Similar Occupancies With Fire and Emergency Preparedness Plans (Level 2)
+
+408.2 Emergency Preparedness in Assisted Living Facilities and Similar Occupancies With Fire and Emergency Preparedness Plans (Level 2)
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a
+Group I
+-1 building or
+occupancy
+with more than twenty-five persons above or below street level.
+
+---
+
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a
+Group I
+-1 building or
+occupancy
+with more than twenty-five persons above or below street level.
+
+---
+
+## Section 408.3: Fire and Emergency Preparedness Staff
+
+408.3 Fire and Emergency Preparedness Staff
+The
+commissioner
+may prescribe by rule that in
+Group I
+-1 buildings or
+occupancies
+provided with
+voice communication capability
+there shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+
+---
+
+The
+commissioner
+may prescribe by rule that in
+Group I
+-1 buildings or
+occupancies
+provided with
+voice communication capability
+there shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+
+---
+
+## Section 408.4: Special Drill Requirements
+
+408.4 Special Drill Requirements
+In addition to the requirements of
+FC401.7
+, persons residing in
+Group I
+-1
+occupancies
+shall:
+participate in a full building
+evacuation
+on an annual basis.
+if capable of participating in an
+evacuation
+or
+in-building relocation
+without assistance, be trained to provide assistance to other such residents to the extent that their physical and mental abilities
+permit
+them to do so without additional personal risk.
+
+---
+
+In addition to the requirements of
+FC401.7
+, persons residing in
+Group I
+-1
+occupancies
+shall:
+participate in a full building
+evacuation
+on an annual basis.
+if capable of participating in an
+evacuation
+or
+in-building relocation
+without assistance, be trained to provide assistance to other such residents to the extent that their physical and mental abilities
+permit
+them to do so without additional personal risk.
+
+---
+
+## Section 408.5: Fire and Emergency Notice
+
+408.5 Fire and Emergency Notice
+A
+fire
+and emergency notice in accordance with
+FC405.5
+shall be posted within each dwelling unit in the building or
+occupancy
+, on or immediately adjacent to the
+main entrance
+door to the dwelling unit.
+
+---
+
+A
+fire
+and emergency notice in accordance with
+FC405.5
+shall be posted within each dwelling unit in the building or
+occupancy
+, on or immediately adjacent to the
+main entrance
+door to the dwelling unit.
+
+---
+
+Section 409 Correctional Facilities and Other Secured Facilities
+
+---
+
+## Section 409.1: General
+
+409.1 General
+Correctional
+facilities
+, secure psychiatric hospitals and other
+Group I
+-3 buildings and
+occupancies
+(including prisons, detention centers and pre-release centers) regulated by New York State
+Department
+of Correctional Services or the New York State Education
+Department
+, shall maintain the emergency preparedness staff and conduct the drills required by the regulations of the New York State
+Department
+of Correctional Services, and otherwise comply with the requirements of such regulations.
+
+---
+
+Correctional
+facilities
+, secure psychiatric hospitals and other
+Group I
+-3 buildings and
+occupancies
+(including prisons, detention centers and pre-release centers) regulated by New York State
+Department
+of Correctional Services or the New York State Education
+Department
+, shall maintain the emergency preparedness staff and conduct the drills required by the regulations of the New York State
+Department
+of Correctional Services, and otherwise comply with the requirements of such regulations.
+
+---
+
+## Section 409.2: Staffing and Staff Training
+
+409.2 Staffing and Staff Training
+The following staffing and staff training shall be provided in
+Group I
+-3 buildings and
+occupancies
+:
+
+---
+
+The following staffing and staff training shall be provided in
+Group I
+-3 buildings and
+occupancies
+:
+
+---
+
+## Section 409.2.1: Staffing
+
+409.2.1 Staffing
+In
+Group I
+-3
+occupancies
+, staff trained in emergency preparedness procedures shall be in the building at all times, and within three floors or 300 feet (91 440 mm) horizontal distance of the access door of each resident housing area. Keys necessary for unlocking doors installed in a
+means of egress
+shall be individually identifiable by both touch and sight. When movement of occupants from one smoke compartment to another or egress from the building is impeded by staff-controlled manual releases, the staff responsible for controlling such movement or egress must be continuously available to initiate emergency procedures within 2 minutes of an alarm.
+Exception:
+Staff shall not be required to be located within three floors or 300 feet (91 440 mm) of areas in which all locks may be unlocked automatically in accordance with
+Section 408.4
+of the
+Building Code
+.
+
+---
+
+In
+Group I
+-3
+occupancies
+, staff trained in emergency preparedness procedures shall be in the building at all times, and within three floors or 300 feet (91 440 mm) horizontal distance of the access door of each resident housing area. Keys necessary for unlocking doors installed in a
+means of egress
+shall be individually identifiable by both touch and sight. When movement of occupants from one smoke compartment to another or egress from the building is impeded by staff-controlled manual releases, the staff responsible for controlling such movement or egress must be continuously available to initiate emergency procedures within 2 minutes of an alarm.
+Exception:
+Staff shall not be required to be located within three floors or 300 feet (91 440 mm) of areas in which all locks may be unlocked automatically in accordance with
+Section 408.4
+of the
+Building Code
+.
+
+---
+
+## Section 409.2.2: Staff Training
+
+409.2.2 Staff Training
+The staff responsible for emergency preparedness procedures in
+Group I
+-3
+occupancies
+shall be trained in the use of portable
+fire
+extinguishers and other manual
+fire
+extinguishing equipment.
+
+---
+
+The staff responsible for emergency preparedness procedures in
+Group I
+-3
+occupancies
+shall be trained in the use of portable
+fire
+extinguishers and other manual
+fire
+extinguishing equipment.
+
+---
+
+## Section 409.2.3: Notification
+
+409.2.3 Notification
+Provision shall be made to promptly notify emergency preparedness staff of a
+fire
+or
+non-fire emergency
+.
+
+---
+
+Provision shall be made to promptly notify emergency preparedness staff of a
+fire
+or
+non-fire emergency
+.
+
+---
+
+Section 410 Educational Occupancies
+
+---
+
+## Section 410.1: General
+
+410.1 General
+Schools, colleges, universities and other
+Group B
+and
+Group E
+educational buildings and
+occupancies
+;
+Group R
+-1 dormitories operated by or on behalf of educational institutions; and
+Group E
+day care
+facilities
+shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section.
+
+---
+
+Schools, colleges, universities and other
+Group B
+and
+Group E
+educational buildings and
+occupancies
+;
+Group R
+-1 dormitories operated by or on behalf of educational institutions; and
+Group E
+day care
+facilities
+shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section.
+
+---
+
+## Section 410.2: Day Care Plans
+
+410.2 Day Care Plans
+Group E
+educational buildings and
+occupancies
+regulated by the New York City
+Department
+of Health and Mental Hygiene shall prepare and maintain a written safety plan addressing
+fire
+safety, medical emergencies and
+evacuation
+procedures, in compliance with the
+rules
+or other requirements of that agency.
+
+---
+
+Group E
+educational buildings and
+occupancies
+regulated by the New York City
+Department
+of Health and Mental Hygiene shall prepare and maintain a written safety plan addressing
+fire
+safety, medical emergencies and
+evacuation
+procedures, in compliance with the
+rules
+or other requirements of that agency.
+
+---
+
+## Section 410.3: Emergency Preparedness in Group B Educational Occupancies With Comprehensive Fire Safety/Emergency Action Plans
+
+410.3 Emergency Preparedness in Group B Educational Occupancies With Comprehensive Fire Safety/Emergency Action Plans
+Group B
+educational buildings and
+occupancies
+required by
+FC410.3.1
+to have a comprehensive
+fire
+safety and emergency action plan shall comply with the emergency preparedness requirements of this section.
+
+---
+
+Group B
+educational buildings and
+occupancies
+required by
+FC410.3.1
+to have a comprehensive
+fire
+safety and emergency action plan shall comply with the emergency preparedness requirements of this section.
+
+---
+
+## Section 410.3.1: Comprehensive Fire Safety/Emergency Action Plan (Level 1)
+
+410.3.1 Comprehensive Fire Safety/Emergency Action Plan (Level 1)
+A comprehensive
+fire
+safety and emergency action plan in accordance with
+FC401.4
+shall be prepared for:
+a high-rise
+Group B
+educational building with
+staged evacuation
+.
+a high-rise
+Group R
+-1 dormitory, or high-rise
+Group R
+-2 student apartment building, with
+staged evacuation
+.
+
+---
+
+A comprehensive
+fire
+safety and emergency action plan in accordance with
+FC401.4
+shall be prepared for:
+a high-rise
+Group B
+educational building with
+staged evacuation
+.
+a high-rise
+Group R
+-1 dormitory, or high-rise
+Group R
+-2 student apartment building, with
+staged evacuation
+.
+
+---
+
+## Section 410.3.2: Fire and Life Safety Staff
+
+410.3.2 Fire and Life Safety Staff
+The comprehensive
+fire
+and life safety plan required pursuant to
+FC410.3.1
+shall designate an
+FLS
+director and such other
+FLS staff
+as the
+commissioner
+may prescribe by rule as appropriate for the manner in which the building or
+occupancy
+, or floors thereof, is used or staffed.
+
+---
+
+The comprehensive
+fire
+and life safety plan required pursuant to
+FC410.3.1
+shall designate an
+FLS
+director and such other
+FLS staff
+as the
+commissioner
+may prescribe by rule as appropriate for the manner in which the building or
+occupancy
+, or floors thereof, is used or staffed.
+
+---
+
+## Section 410.4: Emergency Preparedness in Educational Occupancies and Dormitories With Fire and Emergency Preparedness Plans
+
+410.4 Emergency Preparedness in Educational Occupancies and Dormitories With Fire and Emergency Preparedness Plans
+Educational and dormitory buildings and
+occupancies
+required by
+FC410.4.1
+to have a
+fire and emergency preparedness plan
+shall comply with the emergency preparedness requirements of this section.
+
+---
+
+Educational and dormitory buildings and
+occupancies
+required by
+FC410.4.1
+to have a
+fire and emergency preparedness plan
+shall comply with the emergency preparedness requirements of this section.
+
+---
+
+## Section 410.4.1: Fire and Emergency Preparedness Plan (Level 2)
+
+410.4.1 Fire and Emergency Preparedness Plan (Level 2)
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for the following buildings and
+occupancies
+(other than buildings subject to
+FC410.3
+):
+a high-rise and large-area
+Group B
+educational building.
+a low-rise and high-rise
+Group E
+educational building.
+a
+Group B
+educational
+occupancy
+occupied or designed to be occupied by a total of more than one hundred persons on one or more
+high-rise floors
+.
+a
+Group E
+educational
+occupancy
+occupied or designed to be occupied by a total of more than one hundred persons on one or more
+high-rise floors
+.
+a high-rise
+Group R
+-1 dormitory, or high-rise
+Group R
+-2 student apartment building, without
+staged evacuation
+.
+a low-rise
+Group R
+-1 dormitory building or
+occupancy
+, or low-rise
+Group R
+-2 student apartment building or
+occupancy
+, with a total of more than fifty sleeping rooms above street level, or communal sleeping
+facilities
+above street level occupied or designed to be occupied by a total of more than fifty lodgers.
+
+---
+
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for the following buildings and
+occupancies
+(other than buildings subject to
+FC410.3
+):
+a high-rise and large-area
+Group B
+educational building.
+a low-rise and high-rise
+Group E
+educational building.
+a
+Group B
+educational
+occupancy
+occupied or designed to be occupied by a total of more than one hundred persons on one or more
+high-rise floors
+.
+a
+Group E
+educational
+occupancy
+occupied or designed to be occupied by a total of more than one hundred persons on one or more
+high-rise floors
+.
+a high-rise
+Group R
+-1 dormitory, or high-rise
+Group R
+-2 student apartment building, without
+staged evacuation
+.
+a low-rise
+Group R
+-1 dormitory building or
+occupancy
+, or low-rise
+Group R
+-2 student apartment building or
+occupancy
+, with a total of more than fifty sleeping rooms above street level, or communal sleeping
+facilities
+above street level occupied or designed to be occupied by a total of more than fifty lodgers.
+
+---
+
+## Section 410.4.2: Fire and Emergency Preparedness Staff
+
+410.4.2 Fire and Emergency Preparedness Staff
+The
+commissioner
+may prescribe by rule that in a
+Group B
+,
+E, Group
+R-1 dormitory building or
+occupancy
+and/or
+Group R
+-2 student apartment building subject to FC410.4.1 that is provided with
+voice communication capability
+there shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+
+---
+
+The
+commissioner
+may prescribe by rule that in a
+Group B
+,
+E, Group
+R-1 dormitory building or
+occupancy
+and/or
+Group R
+-2 student apartment building subject to FC410.4.1 that is provided with
+voice communication capability
+there shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+
+---
+
+## Section 410.4.3: Fire and Emergency Notice
+
+410.4.3 Fire and Emergency Notice
+In
+Group R
+-1 dormitory buildings or
+occupancies
+subject to
+FC410.4.1
+, a
+fire
+and emergency notice in accordance with
+FC405.5
+shall be posted within each dwelling unit in the building or
+occupancy
+, on or immediately adjacent to the
+main entrance
+door to the dwelling unit.
+
+---
+
+In
+Group R
+-1 dormitory buildings or
+occupancies
+subject to
+FC410.4.1
+, a
+fire
+and emergency notice in accordance with
+FC405.5
+shall be posted within each dwelling unit in the building or
+occupancy
+, on or immediately adjacent to the
+main entrance
+door to the dwelling unit.
+
+---
+
+## Section 410.5: Emergency Preparedness in Dormitories Without Fire and Emergency Preparedness Plans
+
+410.5 Emergency Preparedness in Dormitories Without Fire and Emergency Preparedness Plans
+Group R
+-1 dormitory buildings and
+occupancies
+, and
+Group R
+-2 buildings and
+occupancies
+, other than buildings and
+occupancies
+subject to
+FC410.4
+, shall comply with the following emergency preparedness requirements:
+
+---
+
+Group R
+-1 dormitory buildings and
+occupancies
+, and
+Group R
+-2 buildings and
+occupancies
+, other than buildings and
+occupancies
+subject to
+FC410.4
+, shall comply with the following emergency preparedness requirements:
+
+---
+
+## Section 410.5.1: Fire and Emergency Preparedness Guide and Notices (Level 3)
+
+410.5.1 Fire and Emergency Preparedness Guide and Notices (Level 3)
+Fire and emergency preparedness guide and notices
+in accordance with
+FC401.6
+and the
+rules
+shall be prepared, and periodically reviewed and amended, for a
+Group R
+-1 dormitory.
+
+---
+
+Fire and emergency preparedness guide and notices
+in accordance with
+FC401.6
+and the
+rules
+shall be prepared, and periodically reviewed and amended, for a
+Group R
+-1 dormitory.
+
+---
+
+## Section 410.6: Special Drill Requirements
+
+410.6 Special Drill Requirements
+Fire
+and
+non-fire emergency drills
+shall be conducted in all educational buildings and
+occupancies
+and dormitories in accordance with
+FC401.7
+and the
+rules
+. The
+frequency
+and timing of drills in educational
+occupancies
+shall be in accordance with the New York State Educational Law.
+Group E
+occupancies
+shall establish procedures for accounting for students after they have been relocated or evacuated during a drill.
+
+---
+
+Fire
+and
+non-fire emergency drills
+shall be conducted in all educational buildings and
+occupancies
+and dormitories in accordance with
+FC401.7
+and the
+rules
+. The
+frequency
+and timing of drills in educational
+occupancies
+shall be in accordance with the New York State Educational Law.
+Group E
+occupancies
+shall establish procedures for accounting for students after they have been relocated or evacuated during a drill.
+
+---
+
+Section 411 Factories
+
+---
+
+## Section 411.1: General
+
+411.1 General
+Group F
+buildings and
+occupancies
+shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section, except that
+Group F
+buildings and
+occupancies
+regulated by New York State Labor Law §279 shall maintain the emergency preparedness staff and conduct the drills required by the
+rules
+of the New York City Board of Standards and Appeals, as set forth in
+2
+RCNY §3-05, and otherwise comply with the requirements of such
+rules
+, and, if located in a
+mixed-occupancy building
+, shall additionally comply with the requirements of
+FC416
+.
+
+---
+
+Group F
+buildings and
+occupancies
+shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section, except that
+Group F
+buildings and
+occupancies
+regulated by New York State Labor Law §279 shall maintain the emergency preparedness staff and conduct the drills required by the
+rules
+of the New York City Board of Standards and Appeals, as set forth in
+2
+RCNY §3-05, and otherwise comply with the requirements of such
+rules
+, and, if located in a
+mixed-occupancy building
+, shall additionally comply with the requirements of
+FC416
+.
+
+---
+
+## Section 411.2: Emergency Preparedness in Factories With Fire and Emergency Preparedness Plans (Level 2)
+
+411.2 Emergency Preparedness in Factories With Fire and Emergency Preparedness Plans (Level 2)
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a
+Group F
+building and
+occupancy
+with more than twenty-five persons above or below street level during
+regular business hours
+.
+
+---
+
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a
+Group F
+building and
+occupancy
+with more than twenty-five persons above or below street level during
+regular business hours
+.
+
+---
+
+Section 412 High Hazard Occupancies
+
+---
+
+## Section 412.1: General
+
+412.1 General
+Group H
+buildings and
+occupancies
+shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section, except that such requirements shall not apply to
+Group H
+buildings and
+occupancies
+that have prepared one or more of the following plans in compliance with applicable requirements:
+An emergency action plan in accordance with the regulations of the United States
+Department
+of Labor, as set forth in
+29
+CFR Section 1910.119.
+A contingency plan and emergency procedures in accordance with the regulations of the New York State
+Department
+of Environmental Conservation, as set forth in 6 NYCRR Part 373.
+A risk management plan in accordance with the
+rules
+of the New York City
+Department of Environmental Protection
+, as set forth in 15 RCNY §41-08.
+
+---
+
+Group H
+buildings and
+occupancies
+shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section, except that such requirements shall not apply to
+Group H
+buildings and
+occupancies
+that have prepared one or more of the following plans in compliance with applicable requirements:
+An emergency action plan in accordance with the regulations of the United States
+Department
+of Labor, as set forth in
+29
+CFR Section 1910.119.
+A contingency plan and emergency procedures in accordance with the regulations of the New York State
+Department
+of Environmental Conservation, as set forth in 6 NYCRR Part 373.
+A risk management plan in accordance with the
+rules
+of the New York City
+Department of Environmental Protection
+, as set forth in 15 RCNY §41-08.
+
+---
+
+## Section 412.2: Emergency Preparedness in High-Hazard Buildings and Occupancies With Fire and Emergency Preparedness Plans (Level 2)
+
+412.2 Emergency Preparedness in High-Hazard Buildings and Occupancies With Fire and Emergency Preparedness Plans (Level 2)
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a
+Group H
+building and
+occupancy
+with more than twenty-five persons above or below street level during
+regular business hours
+, excluding
+Group H
+buildings and
+occupancies
+required to comply with
+FC412.1
+(1), (2) or (3).
+
+---
+
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a
+Group H
+building and
+occupancy
+with more than twenty-five persons above or below street level during
+regular business hours
+, excluding
+Group H
+buildings and
+occupancies
+required to comply with
+FC412.1
+(1), (2) or (3).
+
+---
+
+## Section 412.3: Group H-5 Occupancies
+
+412.3 Group H-5 Occupancies
+Group H
+-5
+occupancies
+shall additionally comply with the requirements of Sections
+412.3.1
+through
+412.3.4
+.
+
+---
+
+Group H
+-5
+occupancies
+shall additionally comply with the requirements of Sections
+412.3.1
+through
+412.3.4
+.
+
+---
+
+## Section 412.3.1: Plans and Diagrams
+
+412.3.1 Plans and Diagrams
+Plans and diagrams shall be maintained in an
+approved
+location on the
+premises
+indicating the plan for each area, the amount and type of HPM stored, handled and used, locations of shutoff valves for HPM supply piping,
+emergency telephone
+locations and locations of
+exits
+.
+
+---
+
+Plans and diagrams shall be maintained in an
+approved
+location on the
+premises
+indicating the plan for each area, the amount and type of HPM stored, handled and used, locations of shutoff valves for HPM supply piping,
+emergency telephone
+locations and locations of
+exits
+.
+
+---
+
+## Section 412.3.2: Periodic Review and Revision
+
+412.3.2 Periodic Review and Revision
+The plans and diagrams required by
+FC412.3.1
+shall be maintained up to date and the
+department
+shall be notified of all changes in use or
+occupancy
+, and design and arrangement of the
+premises
+.
+
+---
+
+The plans and diagrams required by
+FC412.3.1
+shall be maintained up to date and the
+department
+shall be notified of all changes in use or
+occupancy
+, and design and arrangement of the
+premises
+.
+
+---
+
+## Section 412.3.3: Emergency Response Team
+
+412.3.3 Emergency Response Team
+On-site emergency response personnel shall be familiar with the HPM stored, handled or used on the
+premises
+. Responsible persons shall be designated to an on-site emergency response team. An emergency response team shall be staffed for each workshift to coordinate their emergency response activities with emergency response personnel, and shall cooperate with the
+department
+in planning emergency responses.
+
+---
+
+On-site emergency response personnel shall be familiar with the HPM stored, handled or used on the
+premises
+. Responsible persons shall be designated to an on-site emergency response team. An emergency response team shall be staffed for each workshift to coordinate their emergency response activities with emergency response personnel, and shall cooperate with the
+department
+in planning emergency responses.
+
+---
+
+## Section 412.3.4: Emergency Response Drills
+
+412.3.4 Emergency Response Drills
+Emergency drills of the on-site emergency response team shall be conducted on a regular basis but not less than once every 3 months. Records of emergency drills conducted shall be maintained in the same manner as records of
+fire
+and
+non-fire emergency drills
+.
+
+---
+
+Emergency drills of the on-site emergency response team shall be conducted on a regular basis but not less than once every 3 months. Records of emergency drills conducted shall be maintained in the same manner as records of
+fire
+and
+non-fire emergency drills
+.
+
+---
+
+Section 413 Hospitals, Nursing Homes and Other Patient and Residential Care Facilities
+
+---
+
+## Section 413.1: General
+
+413.1 General
+Hospitals, nursing homes, adult homes, ambulatory care
+facilities
+, community residences, enriched housing, intermediate care
+facilities
+and other
+Group I
+-2 buildings and
+occupancies
+and ambulatory care
+facilities
+classified as
+Group B
+occupancies
+, caring for or housing more than three persons not capable of self-preservation and not capable of responding to a
+fire
+or other emergency without assistance from others shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section.
+
+---
+
+Hospitals, nursing homes, adult homes, ambulatory care
+facilities
+, community residences, enriched housing, intermediate care
+facilities
+and other
+Group I
+-2 buildings and
+occupancies
+and ambulatory care
+facilities
+classified as
+Group B
+occupancies
+, caring for or housing more than three persons not capable of self-preservation and not capable of responding to a
+fire
+or other emergency without assistance from others shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section.
+
+---
+
+## Section 413.2: Emergency Preparedness in Patient and Residential Care Facilities With Fire and Emergency Preparedness Plans (Level 2)
+
+413.2 Emergency Preparedness in Patient and Residential Care Facilities With Fire and Emergency Preparedness Plans (Level 2)
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a hospital, nursing home or other
+Group I
+-2 building or
+occupancy
+, and any ambulatory care
+facility
+.
+
+---
+
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for a hospital, nursing home or other
+Group I
+-2 building or
+occupancy
+, and any ambulatory care
+facility
+.
+
+---
+
+## Section 413.3: Fire and Emergency Preparedness Staff
+
+413.3 Fire and Emergency Preparedness Staff
+The
+commissioner
+may prescribe by rule that in all
+Group I
+-2 buildings or
+occupancies
+, and
+Group B
+ambulatory care
+facilities
+, provided with
+voice communication capability
+there shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+
+---
+
+The
+commissioner
+may prescribe by rule that in all
+Group I
+-2 buildings or
+occupancies
+, and
+Group B
+ambulatory care
+facilities
+, provided with
+voice communication capability
+there shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+
+---
+
+## Section 413.4: Drills
+
+413.4 Drills
+Fire
+and
+non-fire emergency drills
+in
+Group I
+-2 buildings and
+occupancies
+and
+Group B
+ambulatory care
+facilities
+may be conducted in accordance with the provisions of FC 413.4.1 and 413.4.2.
+
+---
+
+Fire
+and
+non-fire emergency drills
+in
+Group I
+-2 buildings and
+occupancies
+and
+Group B
+ambulatory care
+facilities
+may be conducted in accordance with the provisions of FC 413.4.1 and 413.4.2.
+
+---
+
+## Section 413.4.1: Coded Alarm Signal
+
+413.4.1 Coded Alarm Signal
+During drills, coded announcements may be made in lieu of an audible alarm to alert medical and other
+fire and emergency preparedness staff
+of such drill.
+
+---
+
+During drills, coded announcements may be made in lieu of an audible alarm to alert medical and other
+fire and emergency preparedness staff
+of such drill.
+
+---
+
+## Section 413.4.2: Relocation of Patients
+
+413.4.2 Relocation of Patients
+During drills, the
+in-building relocation
+of patients to safe areas or to the exterior of the building is not required.
+
+---
+
+During drills, the
+in-building relocation
+of patients to safe areas or to the exterior of the building is not required.
+
+---
+
+## Section 413.5: FEP Staff Training
+
+413.5 FEP Staff Training
+FEP staff
+training may be conducted throughout the entire building or
+occupancy
+or in specific areas thereof, but training shall be conducted in all areas of the building or
+occupancy
+within each 1 year period. Such training shall be conducted at least once each month for a total of not less than twelve training drills per year, as follows: at least three drills during the day shift; at least six drills during the evening shift, and at least three drills during the night shift.
+
+---
+
+FEP staff
+training may be conducted throughout the entire building or
+occupancy
+or in specific areas thereof, but training shall be conducted in all areas of the building or
+occupancy
+within each 1 year period. Such training shall be conducted at least once each month for a total of not less than twelve training drills per year, as follows: at least three drills during the day shift; at least six drills during the evening shift, and at least three drills during the night shift.
+
+---
+
+Section 414 Mercantile Occupancies and Covered Malls
+
+---
+
+## Section 414.1: General
+
+414.1 General
+Department
+stores, retail and wholesale stores and other
+Group M
+buildings and
+occupancies
+, including
+covered malls
+, shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section.
+
+---
+
+Department
+stores, retail and wholesale stores and other
+Group M
+buildings and
+occupancies
+, including
+covered malls
+, shall comply with the emergency preparedness requirements set forth in
+FC 401
+,
+416
+and this section.
+
+---
+
+## Section 414.2: Emergency Preparedness in Mercantile Occupancies With Comprehensive Fire Safety/Emergency Action Plans
+
+414.2 Emergency Preparedness in Mercantile Occupancies With Comprehensive Fire Safety/Emergency Action Plans
+Group M
+occupancies
+that are required by FC414.2.1 to have a comprehensive
+fire
+safety and emergency action plan shall comply with the emergency preparedness requirements of this section.
+
+---
+
+Group M
+occupancies
+that are required by FC414.2.1 to have a comprehensive
+fire
+safety and emergency action plan shall comply with the emergency preparedness requirements of this section.
+
+---
+
+## Section 414.2.1: Comprehensive Fire Safety/Emergency Action Plan (Level 1)
+
+414.2.1 Comprehensive Fire Safety/Emergency Action Plan (Level 1)
+A comprehensive
+fire
+safety and emergency action plan in accordance with
+FC401.4
+shall be prepared for:
+a high-rise
+Group M
+building.
+a building with one or more
+Group M
+occupancies
+with an aggregate area of more than 300,000 square feet (27 870 m
+2
+) on
+high-rise floors
+.
+a
+covered mall
+of more than 300,000 square feet (27 870 m
+2
+).
+
+---
+
+A comprehensive
+fire
+safety and emergency action plan in accordance with
+FC401.4
+shall be prepared for:
+a high-rise
+Group M
+building.
+a building with one or more
+Group M
+occupancies
+with an aggregate area of more than 300,000 square feet (27 870 m
+2
+) on
+high-rise floors
+.
+a
+covered mall
+of more than 300,000 square feet (27 870 m
+2
+).
+
+---
+
+## Section 414.2.2: Fire and Life Safety Staff
+
+414.2.2 Fire and Life Safety Staff
+The comprehensive
+fire
+safety and emergency action plan required by
+FC414.2.1
+shall designate
+FLS staff
+consisting of an
+FLS
+director and such other
+FLS staff
+as the
+commissioner
+may prescribe by rule as appropriate for such building or
+occupancy
+, including
+building occupants
+designated by lessees of tenant spaces and similar
+occupancies
+.
+FLS staff
+shall be provided with initial and refresher
+FLS staff
+training in accordance with
+FC401.4.5.2
+.
+
+---
+
+The comprehensive
+fire
+safety and emergency action plan required by
+FC414.2.1
+shall designate
+FLS staff
+consisting of an
+FLS
+director and such other
+FLS staff
+as the
+commissioner
+may prescribe by rule as appropriate for such building or
+occupancy
+, including
+building occupants
+designated by lessees of tenant spaces and similar
+occupancies
+.
+FLS staff
+shall be provided with initial and refresher
+FLS staff
+training in accordance with
+FC401.4.5.2
+.
+
+---
+
+## Section 414.3: Emergency Preparedness in Mercantile Buildings and Occupancies With Fire and Emergency Preparedness Plans
+
+414.3 Emergency Preparedness in Mercantile Buildings and Occupancies With Fire and Emergency Preparedness Plans
+Group M
+buildings and
+occupancies
+required by FC414.3.1 to have a
+fire and emergency preparedness plan
+shall comply with the emergency preparedness requirements of this section.
+
+---
+
+Group M
+buildings and
+occupancies
+required by FC414.3.1 to have a
+fire and emergency preparedness plan
+shall comply with the emergency preparedness requirements of this section.
+
+---
+
+## Section 414.3.1: Fire and Emergency Preparedness Plan (Level 2)
+
+414.3.1 Fire and Emergency Preparedness Plan (Level 2)
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for the following buildings and
+occupancies
+(other than buildings and
+occupancies
+subject to
+FC414.2
+):
+a
+Group M
+occupancy
+of more than 30,000 square feet (2787 m
+2
+), in which more than twenty-five persons are employed during
+regular business hours
+.
+a building with one or more
+Group M
+occupancies
+with an aggregate area of more than 30,000 square feet (2787 m
+2
+) in which more than twenty-five persons are employed during
+regular business hours
+.
+a
+covered mall
+of more than 30,000 square feet (2787 m
+2
+).
+
+---
+
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for the following buildings and
+occupancies
+(other than buildings and
+occupancies
+subject to
+FC414.2
+):
+a
+Group M
+occupancy
+of more than 30,000 square feet (2787 m
+2
+), in which more than twenty-five persons are employed during
+regular business hours
+.
+a building with one or more
+Group M
+occupancies
+with an aggregate area of more than 30,000 square feet (2787 m
+2
+) in which more than twenty-five persons are employed during
+regular business hours
+.
+a
+covered mall
+of more than 30,000 square feet (2787 m
+2
+).
+
+---
+
+## Section 414.3.2: Fire and Emergency Preparedness Staff
+
+414.3.2 Fire and Emergency Preparedness Staff
+The
+commissioner
+may prescribe by rule that in a
+Group M
+building or
+occupancy
+provided with
+voice communication capability
+, other than buildings and
+occupancies
+subject to
+FC414.2
+, there shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+
+---
+
+The
+commissioner
+may prescribe by rule that in a
+Group M
+building or
+occupancy
+provided with
+voice communication capability
+, other than buildings and
+occupancies
+subject to
+FC414.2
+, there shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+
+---
+
+## Section 414.4: Special Circumstances
+
+414.4 Special Circumstances
+The
+commissioner
+shall, under circumstances prescribed by rule, modify the emergency preparedness requirements for any
+Group M
+building or
+covered mall
+where the configuration of such building or
+covered mall
+, including its pedestrian areas and
+means of egress
+, is such that the purposes of this section would be better served by requiring a different type of emergency preparedness plan or reducing the level of the emergency preparedness plan and/or staffing. The
+owner
+may request guidance from the
+department
+as to the appropriate emergency preparedness plan to be prepared for such a building or
+covered mall
+prior to preparation of the emergency preparedness plan required by this section. Such request shall be accompanied by a floor plan and other appropriate documentation of the configuration of the building or
+covered mall
+.
+
+---
+
+The
+commissioner
+shall, under circumstances prescribed by rule, modify the emergency preparedness requirements for any
+Group M
+building or
+covered mall
+where the configuration of such building or
+covered mall
+, including its pedestrian areas and
+means of egress
+, is such that the purposes of this section would be better served by requiring a different type of emergency preparedness plan or reducing the level of the emergency preparedness plan and/or staffing. The
+owner
+may request guidance from the
+department
+as to the appropriate emergency preparedness plan to be prepared for such a building or
+covered mall
+prior to preparation of the emergency preparedness plan required by this section. Such request shall be accompanied by a floor plan and other appropriate documentation of the configuration of the building or
+covered mall
+.
+
+---
+
+Section 415 Warehouses and Other Storage Occupancies
+
+---
+
+## Section 415.1: General
+
+415.1 General
+Warehouses and other
+Group S
+buildings shall comply with the emergency preparedness requirements set forth in
+FC401
+,
+FC416
+, and this section.
+
+---
+
+Warehouses and other
+Group S
+buildings shall comply with the emergency preparedness requirements set forth in
+FC401
+,
+FC416
+, and this section.
+
+---
+
+## Section 415.1.1: Emergency Preparedness in Buildings and Occupancies With Fire and Emergency Preparedness Plans (Level 2)
+
+415.1.1 Emergency Preparedness in Buildings and Occupancies With Fire and Emergency Preparedness Plans (Level 2)
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for:
+a high-rise or large-area
+Group S
+building in which more than twenty-five persons are employed during
+regular business hours
+.
+a non-high-rise
+Group S
+building with an aggregate of more than 20,000 square feet (1858 m
+2
+) of
+high-piled combustible storage
+.
+
+---
+
+A
+fire and emergency preparedness plan
+in accordance with
+FC401.5
+shall be prepared for:
+a high-rise or large-area
+Group S
+building in which more than twenty-five persons are employed during
+regular business hours
+.
+a non-high-rise
+Group S
+building with an aggregate of more than 20,000 square feet (1858 m
+2
+) of
+high-piled combustible storage
+.
+
+---
+
+## Section 415.1.2: Fire and Emergency Preparedness Staff
+
+415.1.2 Fire and Emergency Preparedness Staff
+The
+commissioner
+may prescribe by rule that in a
+Group S
+building or
+occupancy
+provided with
+voice communication capability
+there shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+
+---
+
+The
+commissioner
+may prescribe by rule that in a
+Group S
+building or
+occupancy
+provided with
+voice communication capability
+there shall be present during
+regular business hours
+one or more members of the
+FEP staff
+required pursuant to
+FC401.5.5
+who hold a
+certificate of fitness
+for emergency announcements and other
+fire
+safety duties.
+
+---
+
+Section 416 Mixed Occupancy Buildings
+
+---
+
+## Section 416.1: General
+
+416.1 General
+The
+owners
+of a
+mixed-occupancy building
+and each
+occupancy
+within such building required to have an emergency preparedness plan pursuant to this chapter shall comply with the emergency preparedness requirements of this section with respect to such building and
+occupancies
+.
+
+---
+
+The
+owners
+of a
+mixed-occupancy building
+and each
+occupancy
+within such building required to have an emergency preparedness plan pursuant to this chapter shall comply with the emergency preparedness requirements of this section with respect to such building and
+occupancies
+.
+
+---
+
+## Section 416.2: Single Plan
+
+416.2 Single Plan
+In lieu of a separate
+Level 1
+or 2 emergency preparedness plan for each
+occupancy
+, a single emergency preparedness plan may be developed for the entire building or multiple
+occupancies
+within a single building, provided that it meets or exceeds the level of emergency preparedness required for each
+occupancy
+.
+
+---
+
+In lieu of a separate
+Level 1
+or 2 emergency preparedness plan for each
+occupancy
+, a single emergency preparedness plan may be developed for the entire building or multiple
+occupancies
+within a single building, provided that it meets or exceeds the level of emergency preparedness required for each
+occupancy
+.
+
+---
+
+## Section 416.3: Coordination of Plans
+
+416.3 Coordination of Plans
+The
+owner
+preparing an emergency preparedness plan for an
+occupancy
+in a
+mixed-occupancy building
+shall consult the
+owner
+responsible for preparing the emergency preparedness plan for each other
+occupancy
+within such building with respect to
+evacuation
+and
+in-building relocation
+procedures, including use of stairwells and elevators and designation of
+in-building relocation areas
+and
+assembly areas
+.
+
+---
+
+The
+owner
+preparing an emergency preparedness plan for an
+occupancy
+in a
+mixed-occupancy building
+shall consult the
+owner
+responsible for preparing the emergency preparedness plan for each other
+occupancy
+within such building with respect to
+evacuation
+and
+in-building relocation
+procedures, including use of stairwells and elevators and designation of
+in-building relocation areas
+and
+assembly areas
+.
+
+---
+
+## Section 416.4: Coordination of Drills
+
+416.4 Coordination of Drills
+The
+owner
+of a
+mixed-occupancy building
+and the
+owner
+of each
+occupancy
+within such a building required to conduct emergency preparedness drills pursuant to this chapter shall conduct a coordinated drill at least once every 2 years.
+
+---
+
+The
+owner
+of a
+mixed-occupancy building
+and the
+owner
+of each
+occupancy
+within such a building required to conduct emergency preparedness drills pursuant to this chapter shall conduct a coordinated drill at least once every 2 years.
+
+---
+
+## Section 416.5: Communications
+
+416.5 Communications
+The
+owner
+of a
+mixed-occupancy building
+and the
+owner
+of each
+occupancy
+within such a building required to have emergency preparedness plan pursuant to this chapter shall arrange for a means of communication between their respective
+FLS
+directors,
+FEP
+coordinators and/or designated
+FEP staff
+, in the event of a
+fire
+or other emergency. Such communications may be by telephone (other than a telephone requiring a coin to operate), text message, e-mail, walkie-talkie, or other
+approved
+means.
+
+---
+
+The
+owner
+of a
+mixed-occupancy building
+and the
+owner
+of each
+occupancy
+within such a building required to have emergency preparedness plan pursuant to this chapter shall arrange for a means of communication between their respective
+FLS
+directors,
+FEP
+coordinators and/or designated
+FEP staff
+, in the event of a
+fire
+or other emergency. Such communications may be by telephone (other than a telephone requiring a coin to operate), text message, e-mail, walkie-talkie, or other
+approved
+means.
+
+---
+
+## Section 416.6: Notification of Fires and Non-Fire Emergencies and Coordination of Responses
+
+416.6 Notification of Fires and Non-Fire Emergencies and Coordination of Responses
+In the event of a
+fire
+or other emergency in a mixed-
+occupancy
+, notification shall be made to the other
+occupancies
+and, if necessary, the emergency preparedness staffs of the respective
+occupancies
+shall coordinate their responses to the emergency, as follows:
+
+---
+
+In the event of a
+fire
+or other emergency in a mixed-
+occupancy
+, notification shall be made to the other
+occupancies
+and, if necessary, the emergency preparedness staffs of the respective
+occupancies
+shall coordinate their responses to the emergency, as follows:
+
+---
+
+## Section 416.6.1: Fires
+
+416.6.1 Fires
+An
+FLS
+director,
+FEP
+coordinator and/or a designated emergency preparedness staff member who becomes aware of
+fire
+on the
+premises
+shall promptly notify the
+FLS
+director,
+FEP
+coordinator and/or designated staff in the other
+occupancies
+in the
+mixed-occupancy building
+. The staffs shall coordinate the
+evacuation
+,
+in-building relocation
+and/or sheltering in place of their respective
+building occupants
+, and other matters requiring coordination pursuant to their
+emergency preparedness plans
+.
+
+---
+
+An
+FLS
+director,
+FEP
+coordinator and/or a designated emergency preparedness staff member who becomes aware of
+fire
+on the
+premises
+shall promptly notify the
+FLS
+director,
+FEP
+coordinator and/or designated staff in the other
+occupancies
+in the
+mixed-occupancy building
+. The staffs shall coordinate the
+evacuation
+,
+in-building relocation
+and/or sheltering in place of their respective
+building occupants
+, and other matters requiring coordination pursuant to their
+emergency preparedness plans
+.
+
+---
+
+## Section 416.6.2: Non-Fire Emergencies
+
+416.6.2 Non-Fire Emergencies
+An
+FLS
+director,
+FEP
+coordinator and/or a designated emergency preparedness staff member who becomes aware of a
+non-fire emergency
+shall promptly notify the
+FLS
+director,
+FEP
+coordinator and/or designated emergency preparedness staff for any other
+occupancy
+that could be affected by such emergency, or who is situated in the building's entrance lobby and who would be first encountered by firefighters or other emergency personnel responding to the emergency.
+
+---
+
+An
+FLS
+director,
+FEP
+coordinator and/or a designated emergency preparedness staff member who becomes aware of a
+non-fire emergency
+shall promptly notify the
+FLS
+director,
+FEP
+coordinator and/or designated emergency preparedness staff for any other
+occupancy
+that could be affected by such emergency, or who is situated in the building's entrance lobby and who would be first encountered by firefighters or other emergency personnel responding to the emergency.
+
+---
+

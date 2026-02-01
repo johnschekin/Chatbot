@@ -1,0 +1,582 @@
+# NYC Mechanical Code 2022 - Chapter 14
+
+New York City Mechanical Code 2022
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Chapter 4 Ventilation
+
+---
+
+Chapter 5 Exhaust Systems
+
+---
+
+Chapter 6 Duct Systems
+
+---
+
+Chapter 7 Combustion, Ventilation, and Dilution Air
+
+---
+
+Chapter 8 Chimneys and Vents
+
+---
+
+Chapter 9 Specific Appliances and Equipment
+
+---
+
+Chapter 10 Boilers, Water Heaters and Pressure Vessels
+
+---
+
+Chapter 11 Refrigeration
+
+---
+
+Chapter 12 Hydronic Piping
+
+---
+
+Chapter 13 Fuel-Oil Piping and Storage
+
+---
+
+Chapter 14 Solar Systems
+
+---
+
+1401 General
+
+---
+
+1402 Installation
+
+---
+
+1403 Heat Transfer Fluids
+
+---
+
+1404 Materials
+
+---
+
+Chapter 15 Referenced Standards
+
+---
+
+Appendix A Chimney Connector Pass-Throughs
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Fuel Oil Storage Tank Venting Options
+
+---
+
+Chapter 14 Solar Systems
+
+---
+
+Section 1401 General
+
+---
+
+## Section 1401.1: Scope
+
+1401.1 Scope
+This chapter shall govern the
+design
+, construction,
+installation
+, alteration and
+repair
+of systems,
+equipment
+and
+appliances
+intended to utilize solar energy for space heating or cooling, domestic hot water heating, swimming pool heating or process heating.
+
+---
+
+This chapter shall govern the
+design
+, construction,
+installation
+, alteration and
+repair
+of systems,
+equipment
+and
+appliances
+intended to utilize solar energy for space heating or cooling, domestic hot water heating, swimming pool heating or process heating.
+
+---
+
+## Section 1401.2: Potable Water Supply
+
+1401.2 Potable Water Supply
+Potable water supplies to solar systems shall be protected against contamination in accordance with the
+New York City Plumbing Code
+.
+Exception:
+Where all solar system
+piping
+is a part of the potable water distribution system, in accordance with the requirements of the
+New York City Plumbing Code
+, and all components of the
+piping
+system are listed for potable water use, cross-connection
+protection
+measures shall not be required.
+
+---
+
+Potable water supplies to solar systems shall be protected against contamination in accordance with the
+New York City Plumbing Code
+.
+Exception:
+Where all solar system
+piping
+is a part of the potable water distribution system, in accordance with the requirements of the
+New York City Plumbing Code
+, and all components of the
+piping
+system are listed for potable water use, cross-connection
+protection
+measures shall not be required.
+
+---
+
+## Section 1401.3: Heat Exchangers
+
+1401.3 Heat Exchangers
+Heat exchangers
+used in domestic water-heating systems shall be approved for the intended use. The system shall have adequate
+protection
+to ensure that the potability of the water supply and distribution system is properly safeguarded.
+
+---
+
+Heat exchangers
+used in domestic water-heating systems shall be approved for the intended use. The system shall have adequate
+protection
+to ensure that the potability of the water supply and distribution system is properly safeguarded.
+
+---
+
+## Section 1401.4: Solar Energy Equipment and Appliances
+
+1401.4 Solar Energy Equipment and Appliances
+Solar energy
+equipment
+and
+appliances
+shall conform to the requirements of this chapter and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Solar energy
+equipment
+and
+appliances
+shall conform to the requirements of this chapter and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 1401.5: Ducts
+
+1401.5 Ducts
+Ducts
+utilized in solar heating and cooling systems shall be constructed and installed in accordance with
+Chapter 6
+of this code.
+
+---
+
+Ducts
+utilized in solar heating and cooling systems shall be constructed and installed in accordance with
+Chapter 6
+of this code.
+
+---
+
+Section 1402 Installation
+
+---
+
+## Section 1402.1: Access
+
+1402.1 Access
+Access
+shall be provided to
+solar energy equipment and appliances
+for
+maintenance
+. Solar systems and appurtenances shall be installed in accordance with the requirements of
+Chapter 5
+of the
+New York City Fire Code
+regarding rooftop
+access
+and
+obstructions
+, and shall not obstruct or interfere with fire-fighting
+operations
+or the
+operation
+of any doors, windows, fire escapes, or other means of egress or other building components requiring
+operation
+or
+access
+.
+
+---
+
+Access
+shall be provided to
+solar energy equipment and appliances
+for
+maintenance
+. Solar systems and appurtenances shall be installed in accordance with the requirements of
+Chapter 5
+of the
+New York City Fire Code
+regarding rooftop
+access
+and
+obstructions
+, and shall not obstruct or interfere with fire-fighting
+operations
+or the
+operation
+of any doors, windows, fire escapes, or other means of egress or other building components requiring
+operation
+or
+access
+.
+
+---
+
+## Section 1402.2: Protection of Equipment
+
+1402.2 Protection of Equipment
+Solar
+equipment
+exposed to vehicular traffic shall be installed not less than 6 feet (1828.8 mm) above the finished floor.
+Exception:
+This section shall not apply where the
+equipment
+is protected from motor vehicle impact.
+
+---
+
+Solar
+equipment
+exposed to vehicular traffic shall be installed not less than 6 feet (1828.8 mm) above the finished floor.
+Exception:
+This section shall not apply where the
+equipment
+is protected from motor vehicle impact.
+
+---
+
+## Section 1402.3: Controlling Condensation
+
+1402.3 Controlling Condensation
+Where attics or structural spaces are part of a passive solar system,
+ventilation
+of such spaces, as required by
+Section 406
+, is not required where other approved means of controlling condensation are provided.
+
+---
+
+Where attics or structural spaces are part of a passive solar system,
+ventilation
+of such spaces, as required by
+Section 406
+, is not required where other approved means of controlling condensation are provided.
+
+---
+
+## Section 1402.4: Roof-Mounted Collectors
+
+1402.4 Roof-Mounted Collectors
+Roof-mounted solar collectors that also serve as a roof covering shall conform to the requirements for roof coverings in accordance with the
+New York City Building Code
+.
+Exception:
+The use of plastic solar collector covers shall be limited to those approved plastics meeting the requirements for plastic roof panels in the
+New York City Building Code
+.
+
+---
+
+Roof-mounted solar collectors that also serve as a roof covering shall conform to the requirements for roof coverings in accordance with the
+New York City Building Code
+.
+Exception:
+The use of plastic solar collector covers shall be limited to those approved plastics meeting the requirements for plastic roof panels in the
+New York City Building Code
+.
+
+---
+
+## Section 1402.4.1: Collectors Mounted Above the Roof
+
+1402.4.1 Collectors Mounted Above the Roof
+Where mounted on or above the roof covering, the collector array and supporting construction shall be constructed of
+noncombustible materials
+or fire-retardant-treated wood conforming to the
+New York City Building Code
+to the extent required for the type of roof construction of the building to which the collectors are accessory.
+Exception:
+The use of plastic solar collector covers shall be limited to those approved plastics meeting the requirements for plastic roof panels in the
+New York City Building Code
+.
+
+---
+
+Where mounted on or above the roof covering, the collector array and supporting construction shall be constructed of
+noncombustible materials
+or fire-retardant-treated wood conforming to the
+New York City Building Code
+to the extent required for the type of roof construction of the building to which the collectors are accessory.
+Exception:
+The use of plastic solar collector covers shall be limited to those approved plastics meeting the requirements for plastic roof panels in the
+New York City Building Code
+.
+
+---
+
+## Section 1402.5: Equipment
+
+1402.5 Equipment
+The solar energy system shall be equipped in accordance with the requirements of Sections
+1402.5.1
+through
+1402.5.4
+.
+
+---
+
+The solar energy system shall be equipped in accordance with the requirements of Sections
+1402.5.1
+through
+1402.5.4
+.
+
+---
+
+## Section 1402.5.1: Pressure and Temperature
+
+1402.5.1 Pressure and Temperature
+Solar energy system components containing pressurized fluids shall be protected against pressures and temperatures exceeding
+design
+limitations with a pressure and temperature relief valve. Each section of the system in which excessive pressures are capable of developing shall have a relief device located so that a section cannot be valved off or otherwise isolated from a relief device. Relief valves shall comply with the requirements of
+Section 1006.4
+and discharge in accordance with
+Section 1006.6
+.
+
+---
+
+Solar energy system components containing pressurized fluids shall be protected against pressures and temperatures exceeding
+design
+limitations with a pressure and temperature relief valve. Each section of the system in which excessive pressures are capable of developing shall have a relief device located so that a section cannot be valved off or otherwise isolated from a relief device. Relief valves shall comply with the requirements of
+Section 1006.4
+and discharge in accordance with
+Section 1006.6
+.
+
+---
+
+## Section 1402.5.2: Vacuum
+
+1402.5.2 Vacuum
+The solar energy system components that are subjected to a vacuum while in
+operation
+or during shutdown shall be designed to withstand such vacuum or shall be protected with vacuum relief valves.
+
+---
+
+The solar energy system components that are subjected to a vacuum while in
+operation
+or during shutdown shall be designed to withstand such vacuum or shall be protected with vacuum relief valves.
+
+---
+
+## Section 1402.5.3: Protection From Freezing
+
+1402.5.3 Protection From Freezing
+System components shall be protected from damage by freezing of
+heat transfer liquids
+at the lowest ambient temperatures that will be encountered during the
+operation
+of the system.
+
+---
+
+System components shall be protected from damage by freezing of
+heat transfer liquids
+at the lowest ambient temperatures that will be encountered during the
+operation
+of the system.
+
+---
+
+## Section 1402.5.4: Expansion Tanks
+
+1402.5.4 Expansion Tanks
+Liquid single-phase solar energy systems shall be equipped with expansion tanks sized in accordance with
+Section 1009
+.
+
+---
+
+Liquid single-phase solar energy systems shall be equipped with expansion tanks sized in accordance with
+Section 1009
+.
+
+---
+
+## Section 1402.6: Penetrations
+
+1402.6 Penetrations
+Roof and wall penetrations shall be flashed and sealed to prevent entry of water, rodents and insects.
+
+---
+
+Roof and wall penetrations shall be flashed and sealed to prevent entry of water, rodents and insects.
+
+---
+
+## Section 1402.7: Filtering
+
+1402.7 Filtering
+Air transported to occupied spaces through rock or dust-producing materials by means other than natural convection shall be filtered at the
+outlet
+from the heat storage system.
+
+---
+
+Air transported to occupied spaces through rock or dust-producing materials by means other than natural convection shall be filtered at the
+outlet
+from the heat storage system.
+
+---
+
+Section 1403 Heat Transfer Fluids
+
+---
+
+## Section 1403.1: Flash Point
+
+1403.1 Flash Point
+The
+flash point
+of the actual heat transfer fluid utilized in a solar system shall be not less than 50°F (10°C) above the
+design
+maximum nonoperating (no-flow) temperature of the fluid attained in the collector.
+
+---
+
+The
+flash point
+of the actual heat transfer fluid utilized in a solar system shall be not less than 50°F (10°C) above the
+design
+maximum nonoperating (no-flow) temperature of the fluid attained in the collector.
+
+---
+
+## Section 1403.2: Flammable Gases and Liquids
+
+1403.2 Flammable Gases and Liquids
+A flammable liquid or gas shall not be utilized as a heat transfer fluid.
+
+---
+
+A flammable liquid or gas shall not be utilized as a heat transfer fluid.
+
+---
+
+Section 1404 Materials
+
+---
+
+## Section 1404.1: Collectors
+
+1404.1 Collectors
+Factory-built collectors shall be
+listed and labeled
+, and bear a label showing the manufacturer's name and address, model number, collector dry weight, collector maximum allowable operating and nonoperating temperatures and pressures, minimum allowable temperatures and the types of heat transfer fluids that are compatible with the collector. The label shall clarify that these specifications apply only to the collector.
+
+---
+
+Factory-built collectors shall be
+listed and labeled
+, and bear a label showing the manufacturer's name and address, model number, collector dry weight, collector maximum allowable operating and nonoperating temperatures and pressures, minimum allowable temperatures and the types of heat transfer fluids that are compatible with the collector. The label shall clarify that these specifications apply only to the collector.
+
+---
+
+## Section 1404.1.1: Types of Collectors
+
+1404.1.1 Types of Collectors
+The following types of collectors may be installed:
+Flat-plate collectors.
+Evacuated-tube collectors.
+Integral collector storage systems.
+Alternative collectors as approved by the commissioner in accordance with Section 28-113.2 of the
+Administrative Code
+.
+
+---
+
+The following types of collectors may be installed:
+Flat-plate collectors.
+Evacuated-tube collectors.
+Integral collector storage systems.
+Alternative collectors as approved by the commissioner in accordance with Section 28-113.2 of the
+Administrative Code
+.
+
+---
+
+## Section 1404.2: Thermal Storage Units
+
+1404.2 Thermal Storage Units
+Pressurized thermal storage units shall be
+listed and labeled
+, and bear a label showing the manufacturer's name and address, model number, serial number, storage unit maximum and minimum allowable operating temperatures, storage unit maximum and minimum allowable operating pressures and the types of heat transfer fluids compatible with the storage unit. The label shall clarify that these specifications apply only to the thermal storage unit.
+
+---
+
+Pressurized thermal storage units shall be
+listed and labeled
+, and bear a label showing the manufacturer's name and address, model number, serial number, storage unit maximum and minimum allowable operating temperatures, storage unit maximum and minimum allowable operating pressures and the types of heat transfer fluids compatible with the storage unit. The label shall clarify that these specifications apply only to the thermal storage unit.
+
+---
+

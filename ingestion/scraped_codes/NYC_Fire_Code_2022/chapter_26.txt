@@ -1,0 +1,744 @@
+# NYC Fire Code 2022 - Chapter 26
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+2601 General
+
+---
+
+2602 Definitions
+
+---
+
+2603 Fire Safety Requirements
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Section 2601 General
+
+---
+
+## Section 2601.1: Scope
+
+2601.1 Scope
+This chapter shall govern
+fumigation
+and
+insecticidal fogging
+operations within buildings and structures.
+
+---
+
+This chapter shall govern
+fumigation
+and
+insecticidal fogging
+operations within buildings and structures.
+
+---
+
+## Section 2601.2: Permits
+
+2601.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 2601.3: General
+
+2601.3 General
+Fumigation
+and
+insecticidal fogging
+operations within buildings and structures shall be conducted in accordance with this chapter.
+
+---
+
+Fumigation
+and
+insecticidal fogging
+operations within buildings and structures shall be conducted in accordance with this chapter.
+
+---
+
+## Section 2601.4: Supervision
+
+2601.4 Supervision
+Fumigation
+and
+insecticidal fogging
+operations shall be supervised in accordance with
+FC 2601.4.1
+and
+2601.4.2
+.
+
+---
+
+Fumigation
+and
+insecticidal fogging
+operations shall be supervised in accordance with
+FC 2601.4.1
+and
+2601.4.2
+.
+
+---
+
+## Section 2601.4.1: Fumigation and Insecticidal Fogging Operation Company Certificate
+
+2601.4.1 Fumigation and Insecticidal Fogging Operation Company Certificate
+Persons engaged in the business of
+fumigation
+and
+insecticidal fogging
+operations shall obtain a
+fumigation and insecticidal fogging operation company certificate
+.
+
+---
+
+Persons engaged in the business of
+fumigation
+and
+insecticidal fogging
+operations shall obtain a
+fumigation and insecticidal fogging operation company certificate
+.
+
+---
+
+## Section 2601.4.2: Fumigation and Insecticidal Fogging Operations
+
+2601.4.2 Fumigation and Insecticidal Fogging Operations
+Fumigation
+and
+insecticidal fogging
+operations requiring a
+permit
+or a company certificate shall be conducted by or under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+Fumigation
+and
+insecticidal fogging
+operations requiring a
+permit
+or a company certificate shall be conducted by or under the
+personal supervision
+of a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 2601.5: Compliance With Other Provisions of Law
+
+2601.5 Compliance With Other Provisions of Law
+Fumigation
+and
+insecticidal fogging
+operations shall comply with all applicable federal, state and city laws,
+rules
+and regulations.
+
+---
+
+Fumigation
+and
+insecticidal fogging
+operations shall comply with all applicable federal, state and city laws,
+rules
+and regulations.
+
+---
+
+## Section 2601.6: Prohibitions
+
+2601.6 Prohibitions
+It shall be unlawful to:
+Use
+insecticidal fogging
+liquids
+with a
+flash point
+below 100°F (38°C).
+Use carbon disulfide and hydrogen cyanide for
+fumigation
+unless conducted on a
+premises
+used solely for agriculture.
+
+---
+
+It shall be unlawful to:
+Use
+insecticidal fogging
+liquids
+with a
+flash point
+below 100°F (38°C).
+Use carbon disulfide and hydrogen cyanide for
+fumigation
+unless conducted on a
+premises
+used solely for agriculture.
+
+---
+
+Section 2602 Definitions
+
+---
+
+## Section 2602.1: Definitions
+
+2602.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+FUMIGANT
+.
+FUMIGATION
+.
+FUMIGATION AND
+INSECTICIDAL FOGGING
+OPERATION COMPANY CERTIFICATE.
+INSECTICIDAL FOGGING
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+FUMIGANT
+.
+FUMIGATION
+.
+FUMIGATION AND
+INSECTICIDAL FOGGING
+OPERATION COMPANY CERTIFICATE.
+INSECTICIDAL FOGGING
+.
+
+---
+
+Section 2603 Fire Safety Requirements
+
+---
+
+## Section 2603.1: General
+
+2603.1 General
+Fumigation
+and
+insecticidal fogging
+operations in buildings and structures shall be conducted in compliance with the
+fire
+protection and safety requirements of
+FC 2603.2
+through
+2603.5
+.
+
+---
+
+Fumigation
+and
+insecticidal fogging
+operations in buildings and structures shall be conducted in compliance with the
+fire
+protection and safety requirements of
+FC 2603.2
+through
+2603.5
+.
+
+---
+
+## Section 2603.2: Sources of Ignition
+
+2603.2 Sources of Ignition
+Open flames
+and similar sources of ignition shall be removed from the space in which
+fumigation
+or
+insecticidal fogging
+operations are being conducted. Heating, where needed, shall be of an
+approved
+type.
+
+---
+
+Open flames
+and similar sources of ignition shall be removed from the space in which
+fumigation
+or
+insecticidal fogging
+operations are being conducted. Heating, where needed, shall be of an
+approved
+type.
+
+---
+
+## Section 2603.2.1: Electricity
+
+2603.2.1 Electricity
+Electricity in any part of the building or structure where operation of switches or
+electrical
+devices, equipment and
+systems
+could serve as a source of ignition during and for a reasonable time after any
+fumigation
+or
+insecticidal fogging
+operation shall be shut off.
+Exception:
+Circulating fans that have been specifically designed for utilization in hazardous atmospheres and installed in accordance with the
+Electrical Code
+.
+
+---
+
+Electricity in any part of the building or structure where operation of switches or
+electrical
+devices, equipment and
+systems
+could serve as a source of ignition during and for a reasonable time after any
+fumigation
+or
+insecticidal fogging
+operation shall be shut off.
+Exception:
+Circulating fans that have been specifically designed for utilization in hazardous atmospheres and installed in accordance with the
+Electrical Code
+.
+
+---
+
+## Section 2603.2.2: Electronic Devices
+
+2603.2.2 Electronic Devices
+Electronic devices, including portable equipment and cellular phones, shall be shut off. Telephone lines shall be disconnected from telephones.
+
+---
+
+Electronic devices, including portable equipment and cellular phones, shall be shut off. Telephone lines shall be disconnected from telephones.
+
+---
+
+## Section 2603.3: Notification
+
+2603.3 Notification
+The
+department
+shall be notified in writing at least 48 hours before the building or structure is to be closed in connection with the utilization of any toxic or flammable
+fumigant
+. Notification shall give the location of the enclosed space to be fumigated or fogged, the
+occupancy
+, the
+fumigants
+or insecticides to be utilized, the person or persons responsible for the operation, and the date and time at which the operation will begin. Written notice of any
+fumigation
+or
+insecticidal fogging
+operation shall be given to all affected occupants of the building, structure or portion thereof in which such operations are to be conducted, with sufficient advance notice to allow all such spaces to be vacated in an orderly manner. Such notice shall inform the occupants as to the purposes and anticipated duration of the
+fumigation
+operations.
+
+---
+
+The
+department
+shall be notified in writing at least 48 hours before the building or structure is to be closed in connection with the utilization of any toxic or flammable
+fumigant
+. Notification shall give the location of the enclosed space to be fumigated or fogged, the
+occupancy
+, the
+fumigants
+or insecticides to be utilized, the person or persons responsible for the operation, and the date and time at which the operation will begin. Written notice of any
+fumigation
+or
+insecticidal fogging
+operation shall be given to all affected occupants of the building, structure or portion thereof in which such operations are to be conducted, with sufficient advance notice to allow all such spaces to be vacated in an orderly manner. Such notice shall inform the occupants as to the purposes and anticipated duration of the
+fumigation
+operations.
+
+---
+
+## Section 2603.3.1: Warning Signs
+
+2603.3.1 Warning Signs
+Approved
+warning signs indicating the danger, type of
+chemical
+involved and necessary precautions shall be posted on all doors and entrances to the
+premises
+and upon all gangplanks and ladders from the deck,
+pier
+or land to the marine
+vessel
+or watercraft. Such notices shall be printed in red ink on a white background. Letters in the headlines shall be at least 2 inches (51 mm) in height and shall state the date and time of the operation, the name and address of the person conducting the
+fumigation
+or
+insecticidal fogging
+, the name of the operator in charge, and a warning stating that the occupied
+premises
+shall be vacated at least 1 hour before the operation begins and shall not be reentered until the danger signs have been removed by the proper authorities. Advance notice shall be given to all occupants of the building or structure where
+fumigation
+and
+insecticidal fogging
+operations are to be conducted to warn of the hazards of such operation.
+
+---
+
+Approved
+warning signs indicating the danger, type of
+chemical
+involved and necessary precautions shall be posted on all doors and entrances to the
+premises
+and upon all gangplanks and ladders from the deck,
+pier
+or land to the marine
+vessel
+or watercraft. Such notices shall be printed in red ink on a white background. Letters in the headlines shall be at least 2 inches (51 mm) in height and shall state the date and time of the operation, the name and address of the person conducting the
+fumigation
+or
+insecticidal fogging
+, the name of the operator in charge, and a warning stating that the occupied
+premises
+shall be vacated at least 1 hour before the operation begins and shall not be reentered until the danger signs have been removed by the proper authorities. Advance notice shall be given to all occupants of the building or structure where
+fumigation
+and
+insecticidal fogging
+operations are to be conducted to warn of the hazards of such operation.
+
+---
+
+## Section 2603.3.2: Reserved
+
+2603.3.2 Reserved
+
+---
+
+## Section 2603.3.3: Watchperson
+
+2603.3.3 Watchperson
+During the period
+fumigation
+is in progress, except when
+fumigation
+is conducted in a gas-tight vault or
+tank
+, one or more watchpersons shall be provided at each entrance to the space being fumigated to prevent entry into such space until the
+fumigation
+is completed and the
+premises
+is properly ventilated and safe for
+occupancy
+.
+
+---
+
+During the period
+fumigation
+is in progress, except when
+fumigation
+is conducted in a gas-tight vault or
+tank
+, one or more watchpersons shall be provided at each entrance to the space being fumigated to prevent entry into such space until the
+fumigation
+is completed and the
+premises
+is properly ventilated and safe for
+occupancy
+.
+
+---
+
+## Section 2603.4: Wrapping of Buildings
+
+2603.4 Wrapping of Buildings
+Paper and other similar combustible materials that do not meet the flame propagation performance criteria of NFPA 701 shall not be used to wrap or cover a building in excess of that required for the sealing of cracks, casements and similar openings.
+
+---
+
+Paper and other similar combustible materials that do not meet the flame propagation performance criteria of NFPA 701 shall not be used to wrap or cover a building in excess of that required for the sealing of cracks, casements and similar openings.
+
+---
+
+## Section 2603.5: Ventilation and Cleanup
+
+2603.5 Ventilation and Cleanup
+At the end of the exposure period, fumigators shall safely and properly ventilate the
+premises
+and contents; properly dispose of
+fumigant
+containers
+, residues, debris and other waste materials; and clear
+obstructions
+from gas-fired appliance vents.
+
+---
+
+At the end of the exposure period, fumigators shall safely and properly ventilate the
+premises
+and contents; properly dispose of
+fumigant
+containers
+, residues, debris and other waste materials; and clear
+obstructions
+from gas-fired appliance vents.
+
+---
+

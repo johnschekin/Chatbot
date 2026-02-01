@@ -1,0 +1,6367 @@
+# NYC Building Code 2022 - Chapter 14
+
+New York City Building Code 2022
+
+---
+
+Dedications
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 Use and Occupancy Classification
+
+---
+
+Chapter 4 Special Detailed Requirements Based on Use and Occupancy
+
+---
+
+Chapter 5 General Building Heights and Areas; Separation of Occupancies
+
+---
+
+Chapter 6 Types of Construction
+
+---
+
+Chapter 7 Fire and Smoke Protection Features
+
+---
+
+Chapter 8 Interior Finishes
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Accessibility
+
+---
+
+Chapter 12 Interior Environment
+
+---
+
+Chapter 13 Energy Efficiency
+
+---
+
+Chapter 14 Exterior Walls
+
+---
+
+BC 1401 General
+
+---
+
+BC 1402 Definitions
+
+---
+
+BC 1403 Performance Requirements
+
+---
+
+BC 1404 Materials
+
+---
+
+BC 1405 Installation of Wall Coverings
+
+---
+
+BC 1406 Combustible Materials on the Exterior Side of Exterior Walls
+
+---
+
+BC 1407 Metal Composite Materials (MCM)
+
+---
+
+BC 1408 Exterior Insulation and Finish Systems (EIFS)
+
+---
+
+BC 1409 High-Pressure Decorative Exterior-Grade Compact Laminates (HPL)
+
+---
+
+BC 1410 Plastic Composite Decking
+
+---
+
+Chapter 15 Roof Assemblies and Rooftop Structures
+
+---
+
+Chapter 16 Structural Design
+
+---
+
+Chapter 17 Special Inspections and Tests
+
+---
+
+Chapter 18 Soils and Foundations
+
+---
+
+Chapter 19 Concrete
+
+---
+
+Chapter 20 Aluminum
+
+---
+
+Chapter 21 Masonry
+
+---
+
+Chapter 22 Steel
+
+---
+
+Chapter 23 Wood
+
+---
+
+Chapter 24 Glass and Glazing
+
+---
+
+Chapter 25 Gypsum Board, Gypsum Panel Products and Plaster
+
+---
+
+Chapter 26 Plastic
+
+---
+
+Chapter 27 Electrical
+
+---
+
+Chapter 28 Mechanical Systems
+
+---
+
+Chapter 29 Plumbing Systems
+
+---
+
+Chapter 30 Elevators and Conveying Systems
+
+---
+
+Chapter 31 Special Construction
+
+---
+
+Chapter 32 Encroachments Into the Public Right-of-Way
+
+---
+
+Chapter 33 Safeguards During Construction or Demolition
+
+---
+
+Chapter 34 Reserved
+
+---
+
+Chapter 35 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Reserved
+
+---
+
+Appendix D Fire Districts
+
+---
+
+Appendix E Supplementary Accessibility Requirements
+
+---
+
+Appendix F Rodentproofing
+
+---
+
+Appendix G Flood-Resistant Construction
+
+---
+
+Appendix H Outdoor Signs
+
+---
+
+Appendix I Reserved
+
+---
+
+Appendix J Reserved
+
+---
+
+Appendix K Modified Industry Standards for Elevators and Conveying Systems
+
+---
+
+Appendix L Reserved
+
+---
+
+Appendix M Supplementary Requirements for One- And Two-Family Dwellings
+
+---
+
+Appendix N Assistive Listening Systems Performance Standards
+
+---
+
+Appendix O Reserved
+
+---
+
+Appendix P Reserved
+
+---
+
+Appendix Q Modified National Standards for Automatic Sprinkler, Standpipe, Fire Pump, Fire Alarm, and Smoke Control Systems
+
+---
+
+Appendix R Acoustical Tile and Lay-in Panel Ceiling Suspension Systems
+
+---
+
+Appendix S Supplementary Figures for Luminous Egress Path Markings
+
+---
+
+Appendix U Ancillary Dwelling Units
+
+---
+
+Chapter 14 Exterior Walls
+Chapter 14 was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Chapter 14 was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Section BC 1401 General
+
+---
+
+## Section 1401.1: Scope
+
+1401.1 Scope
+The provisions of this chapter shall establish the
+minimum requirements
+for exterior:
+walls
+;
+wall
+coverings;
+wall
+openings
+;
+windows
+and doors; architectural
+trim
+; balconies; projections; and other appendages.
+UpCodes Diagrams (3)
+Building products (13)
+
+---
+
+The provisions of this chapter shall establish the
+minimum requirements
+for exterior:
+walls
+;
+wall
+coverings;
+wall
+openings
+;
+windows
+and doors; architectural
+trim
+; balconies; projections; and other appendages.
+
+---
+
+‡‡‡ 1401.2 Construction Documents
+Construction documents
+for
+exterior wall coverings
+required to be tested in accordance with NFPA 285 pursuant to this code shall include the following data and information:
+Design
+documentation of the NFPA 285 tested assembly from the manufacturer shall be included in the
+construction documents
+. This shall include section and elevation drawings that identify
+materials
+and components of the tested assembly, including panel
+sizes
+and
+joint
+locations. All components used in the tested assembly shall be clearly identified. Material thicknesses, relative locations of components and offsets shall be fully dimensioned.
+Information shall be provided for verification in accordance with Sections
+1705.16
+and
+1705.20
+special inspections
+.
+A certification by the applicant that "Any deviation which occurs during the course of
+installation
+will be evaluated and approved by the applicant of record or registered
+design
+professional. No deviation shall be approved that would result in an assembly that would otherwise fail to pass the acceptance
+criteria
+of NFPA 285."
+‡‡‡
+Chapter 14
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Construction documents
+for
+exterior wall coverings
+required to be tested in accordance with NFPA 285 pursuant to this code shall include the following data and information:
+Design
+documentation of the NFPA 285 tested assembly from the manufacturer shall be included in the
+construction documents
+. This shall include section and elevation drawings that identify
+materials
+and components of the tested assembly, including panel
+sizes
+and
+joint
+locations. All components used in the tested assembly shall be clearly identified. Material thicknesses, relative locations of components and offsets shall be fully dimensioned.
+Information shall be provided for verification in accordance with Sections
+1705.16
+and
+1705.20
+special inspections
+.
+A certification by the applicant that "Any deviation which occurs during the course of
+installation
+will be evaluated and approved by the applicant of record or registered
+design
+professional. No deviation shall be approved that would result in an assembly that would otherwise fail to pass the acceptance
+criteria
+of NFPA 285."
+‡‡‡
+Chapter 14
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Section BC 1402 Definitions
+
+---
+
+## Section 1402.1: Definitions
+
+1402.1 Definitions
+The following terms are defined in
+Chapter 2
+:
+ADHERED
+MASONRY
+VENEER
+.
+ANCHORED
+MASONRY
+VENEER
+.
+BACKING
+.
+BIRD FRIENDLY MATERIAL.
+*Section BC 1402.1 was amended by adding BIRD FRIENDLY MATERIAL in
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+BIRD HAZARD
+INSTALLATIONS
+.
+*Section BC 1402.1 was amended by adding BIRD HAZARD
+INSTALLATIONS
+in
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+CURTAIN
+WALL
+.
+EXTERIOR INSULATION AND FINISH SYSTEMS (EIFS)
+.
+EXTERIOR INSULATION AND FINISH SYSTEMS (EIFS) WITH
+DRAINAGE
+.
+EXTERIOR
+WALL
+.
+EXTERIOR
+WALL
+COVERING.
+EXTERIOR WALL ENVELOPE
+.
+FENESTRATION
+.
+FIBER-CEMENT SIDING
+.
+FLY-THROUGH CONDITIONS
+.
+*Section BC 1402.1 was amended by adding
+FLY-THROUGH CONDITIONS
+in
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+HIGH-PRESSURE DECORATIVE EXTERIOR-GRADE COMPACT LAMINATE (HPL)
+.
+METAL COMPOSITE MATERIAL (
+MCM
+).
+METAL COMPOSITE MATERIAL (
+MCM
+) SYSTEM.
+POLYPROPYLENE SIDING
+.
+PORCELAIN TILE
+.
+VENEER
+.
+VINYL SIDING
+.
+WATER-RESISTIVE BARRIER
+.
+
+---
+
+The following terms are defined in
+Chapter 2
+:
+ADHERED
+MASONRY
+VENEER
+.
+ANCHORED
+MASONRY
+VENEER
+.
+BACKING
+.
+BIRD FRIENDLY MATERIAL.
+*Section BC 1402.1 was amended by adding BIRD FRIENDLY MATERIAL in
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+BIRD HAZARD
+INSTALLATIONS
+.
+*Section BC 1402.1 was amended by adding BIRD HAZARD
+INSTALLATIONS
+in
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+CURTAIN
+WALL
+.
+EXTERIOR INSULATION AND FINISH SYSTEMS (EIFS)
+.
+EXTERIOR INSULATION AND FINISH SYSTEMS (EIFS) WITH
+DRAINAGE
+.
+EXTERIOR
+WALL
+.
+EXTERIOR
+WALL
+COVERING.
+EXTERIOR WALL ENVELOPE
+.
+FENESTRATION
+.
+FIBER-CEMENT SIDING
+.
+FLY-THROUGH CONDITIONS
+.
+*Section BC 1402.1 was amended by adding
+FLY-THROUGH CONDITIONS
+in
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+HIGH-PRESSURE DECORATIVE EXTERIOR-GRADE COMPACT LAMINATE (HPL)
+.
+METAL COMPOSITE MATERIAL (
+MCM
+).
+METAL COMPOSITE MATERIAL (
+MCM
+) SYSTEM.
+POLYPROPYLENE SIDING
+.
+PORCELAIN TILE
+.
+VENEER
+.
+VINYL SIDING
+.
+WATER-RESISTIVE BARRIER
+.
+
+---
+
+Section BC 1403 Performance Requirements
+
+---
+
+## Section 1403.1: General
+
+1403.1 General
+The provisions of this section shall apply to
+exterior walls
+,
+exterior wall coverings
+and components thereof.
+
+---
+
+The provisions of this section shall apply to
+exterior walls
+,
+exterior wall coverings
+and components thereof.
+
+---
+
+## Section 1403.2: Weather Protection
+
+1403.2 Weather Protection
+Exterior walls
+shall provide the
+building
+with a weather-resistant
+exterior wall envelope
+. The
+exterior wall envelope
+shall include flashing, as described in
+Section 1405.4
+. The
+exterior wall envelope
+shall be designed and constructed in such a manner as to prevent the accumulation of water within the
+wall
+assembly by providing a
+water-resistive barrier
+behind the exterior
+veneer
+, as described in
+Section 1404.2
+, and a means for draining water that enters the assembly to the exterior. Protection against condensation shall be provided as required.
+Exceptions:
+A weather-resistant
+exterior wall envelope
+shall not be required over
+concrete
+and
+masonry
+walls
+designed to resist water penetration and detrimental effects from freeze/thaw cycling and in accordance with Chapters
+19
+and
+21
+of this code, as applicable.
+Compliance with the requirements for a means of
+drainage
+, and the requirements of Sections
+1404.2
+and
+1405.4
+of this code, shall not be required for an
+exterior wall envelope
+that has been demonstrated through testing to resist wind-driven rain, including
+joints
+,
+penetrations
+and intersections with dissimilar
+materials
+, in accordance with ASTM E 331 under the following conditions:
+Exterior wall envelope
+test assemblies shall include at least one opening, one control
+joint
+, and where required, one
+wall
+/eave interface and one
+wall
+sill. Tested
+openings
+and
+penetrations
+shall be representative of the intended end-use configuration.
+Exterior wall envelope
+test assemblies shall be at least 4 feet by 8 feet (1220 mm by 2438.4 mm) in size.
+Exterior wall envelope
+assemblies shall be tested at a minimum differential pressure of 6.24 pounds per square foot (psf) (0.297 kN/m
+2
+) for a duration of 2 hours. The
+exterior wall envelope
+assemblies shall also be tested at a minimum differential pressure not less than 20 percent of the positive
+design
+wind
+load
+as calculated per
+Chapter 16
+, or
+15
+pounds per square foot (psf) (0.718 kN/m
+2
+) for a duration of 15 minutes.
+The
+exterior wall envelope
+design
+shall be considered to resist wind-driven rain where the results of testing indicate that water did not penetrate the test assembly including control
+joints
+in the
+exterior wall envelope
+,
+joints
+at the perimeter of
+openings
+or intersections of terminations with dissimilar
+materials
+.
+Exterior insulation and finish systems (EIFS)
+complying with
+Section 1408.4.1
+.
+Assembly (1)
+Building products (11)
+
+---
+
+Exterior walls
+shall provide the
+building
+with a weather-resistant
+exterior wall envelope
+. The
+exterior wall envelope
+shall include flashing, as described in
+Section 1405.4
+. The
+exterior wall envelope
+shall be designed and constructed in such a manner as to prevent the accumulation of water within the
+wall
+assembly by providing a
+water-resistive barrier
+behind the exterior
+veneer
+, as described in
+Section 1404.2
+, and a means for draining water that enters the assembly to the exterior. Protection against condensation shall be provided as required.
+Exceptions:
+A weather-resistant
+exterior wall envelope
+shall not be required over
+concrete
+and
+masonry
+walls
+designed to resist water penetration and detrimental effects from freeze/thaw cycling and in accordance with Chapters
+19
+and
+21
+of this code, as applicable.
+Compliance with the requirements for a means of
+drainage
+, and the requirements of Sections
+1404.2
+and
+1405.4
+of this code, shall not be required for an
+exterior wall envelope
+that has been demonstrated through testing to resist wind-driven rain, including
+joints
+,
+penetrations
+and intersections with dissimilar
+materials
+, in accordance with ASTM E 331 under the following conditions:
+Exterior wall envelope
+test assemblies shall include at least one opening, one control
+joint
+, and where required, one
+wall
+/eave interface and one
+wall
+sill. Tested
+openings
+and
+penetrations
+shall be representative of the intended end-use configuration.
+Exterior wall envelope
+test assemblies shall be at least 4 feet by 8 feet (1220 mm by 2438.4 mm) in size.
+Exterior wall envelope
+assemblies shall be tested at a minimum differential pressure of 6.24 pounds per square foot (psf) (0.297 kN/m
+2
+) for a duration of 2 hours. The
+exterior wall envelope
+assemblies shall also be tested at a minimum differential pressure not less than 20 percent of the positive
+design
+wind
+load
+as calculated per
+Chapter 16
+, or
+15
+pounds per square foot (psf) (0.718 kN/m
+2
+) for a duration of 15 minutes.
+The
+exterior wall envelope
+design
+shall be considered to resist wind-driven rain where the results of testing indicate that water did not penetrate the test assembly including control
+joints
+in the
+exterior wall envelope
+,
+joints
+at the perimeter of
+openings
+or intersections of terminations with dissimilar
+materials
+.
+Exterior insulation and finish systems (EIFS)
+complying with
+Section 1408.4.1
+.
+
+---
+
+## Section 1403.3: Structural
+
+1403.3 Structural
+Exterior wall envelope
+, and the associated
+openings
+, shall be designed and constructed to resist safely the superimposed
+loads
+required by
+Chapter 16
+.
+Building products (8)
+
+---
+
+Exterior wall envelope
+, and the associated
+openings
+, shall be designed and constructed to resist safely the superimposed
+loads
+required by
+Chapter 16
+.
+
+---
+
+## Section 1403.4: Fire Resistance
+
+1403.4 Fire Resistance
+Exterior wall envelope
+shall be
+fire-resistance
+rated as required by other sections of this code with opening protection as required by
+Chapter 7
+.
+UpCodes Diagrams (2)
+
+---
+
+Exterior wall envelope
+shall be
+fire-resistance
+rated as required by other sections of this code with opening protection as required by
+Chapter 7
+.
+
+---
+
+## Section 1403.5: Vertical and Lateral Flame Propagation
+
+1403.5 Vertical and Lateral Flame Propagation
+Exterior walls
+that contain
+foam plastic insulation
+including
+exterior insulation and finish systems (EIFS)
+,
+metal composite material
+(
+MCM
+) systems,
+high-pressure decorative exterior-grade compact laminates
+(HPL), and fiber-reinforced polymer
+(FRP) shall be tested in accordance with and comply with the acceptance
+criteria
+of NFPA 285. Foam
+plastic
+insulation assemblies and FRP shall be tested in accordance with
+Section 2603.5.5
+. MCM
+systems shall be tested in accordance with
+Section 1407.11
+. HPL systems shall be tested in accordance
+with
+Section 1409.11
+. Approved NFPA 285 tested assembly
+design
+documentation shall be included
+on the submitted
+construction documents
+complying with
+Section 1401.2
+. Deviation from the NFPA
+285 tested
+design
+shall be approved by the registered
+design
+professional and additional
+documentation shall be provided if requested by the department. Combustible
+exterior wall coverings
+shall comply with Section 1406 of this code.
+Exception:
+Fiber-reinforced polymer (FRP) where permitted by
+Section 2613.5
+not to be tested.
+
+---
+
+Exterior walls
+that contain
+foam plastic insulation
+including
+exterior insulation and finish systems (EIFS)
+,
+metal composite material
+(
+MCM
+) systems,
+high-pressure decorative exterior-grade compact laminates
+(HPL), and fiber-reinforced polymer
+(FRP) shall be tested in accordance with and comply with the acceptance
+criteria
+of NFPA 285. Foam
+plastic
+insulation assemblies and FRP shall be tested in accordance with
+Section 2603.5.5
+. MCM
+systems shall be tested in accordance with
+Section 1407.11
+. HPL systems shall be tested in accordance
+with
+Section 1409.11
+. Approved NFPA 285 tested assembly
+design
+documentation shall be included
+on the submitted
+construction documents
+complying with
+Section 1401.2
+. Deviation from the NFPA
+285 tested
+design
+shall be approved by the registered
+design
+professional and additional
+documentation shall be provided if requested by the department. Combustible
+exterior wall coverings
+shall comply with Section 1406 of this code.
+Exception:
+Fiber-reinforced polymer (FRP) where permitted by
+Section 2613.5
+not to be tested.
+
+---
+
+## Section 1403.5.1: Exterior Walls With Water-Resistive Barriers
+
+1403.5.1 Exterior Walls With Water-Resistive Barriers
+Exterior walls
+on buildings of Type I, II, III, or IV
+construction
+that are greater than 40 feet (12 192 mm) in
+height
+above
+grade plane
+and contain a combustible
+water-resistive barrier
+shall be tested in accordance with and comply with the acceptance
+criteria
+of NFPA 285. For the purposes of this section,
+fenestration
+products and flashing of
+fenestration
+products and
+water-resistive barrier
+flashing and accessories at other locations, including through
+wall
+flashings and attachment accessories, shall not be considered part of the
+water-resistive barrier
+.
+Exceptions:
+Walls
+in which the
+water-resistive barrier
+is the only combustible component and the
+exterior wall
+has a
+wall
+covering of
+brick
+,
+concrete
+, stone, terra cotta, stucco or steel with minimum thicknesses in accordance with
+Table 1405.2
+of this code.
+Walls
+in which the
+water-resistive barrier
+is the only combustible component and the
+water-resistive barrier
+has a peak heat release rate of less than 150 kW/m
+2
+(203.9 hp/m
+2
+), a total heat release of less than 20 MJ/m
+2
+(18 956 BTU/m
+2
+) and an effective heat of combustion of less than 18 MJ/kg (17 060 BTU/lb) as determined in accordance with ASTM E 1354 and has a
+flame spread index
+of 25 or less and a
+smoke-developed index
+of 450 or less as determined in accordance with ASTM E 84 or UL 723. The ASTM E 1354 test shall be conducted on specimens at the thickness intended for use, in the horizontal orientation and at an
+incident
+radiant heat flux of 50 kW/m
+2
+.
+
+---
+
+Exterior walls
+on buildings of Type I, II, III, or IV
+construction
+that are greater than 40 feet (12 192 mm) in
+height
+above
+grade plane
+and contain a combustible
+water-resistive barrier
+shall be tested in accordance with and comply with the acceptance
+criteria
+of NFPA 285. For the purposes of this section,
+fenestration
+products and flashing of
+fenestration
+products and
+water-resistive barrier
+flashing and accessories at other locations, including through
+wall
+flashings and attachment accessories, shall not be considered part of the
+water-resistive barrier
+.
+Exceptions:
+Walls
+in which the
+water-resistive barrier
+is the only combustible component and the
+exterior wall
+has a
+wall
+covering of
+brick
+,
+concrete
+, stone, terra cotta, stucco or steel with minimum thicknesses in accordance with
+Table 1405.2
+of this code.
+Walls
+in which the
+water-resistive barrier
+is the only combustible component and the
+water-resistive barrier
+has a peak heat release rate of less than 150 kW/m
+2
+(203.9 hp/m
+2
+), a total heat release of less than 20 MJ/m
+2
+(18 956 BTU/m
+2
+) and an effective heat of combustion of less than 18 MJ/kg (17 060 BTU/lb) as determined in accordance with ASTM E 1354 and has a
+flame spread index
+of 25 or less and a
+smoke-developed index
+of 450 or less as determined in accordance with ASTM E 84 or UL 723. The ASTM E 1354 test shall be conducted on specimens at the thickness intended for use, in the horizontal orientation and at an
+incident
+radiant heat flux of 50 kW/m
+2
+.
+
+---
+
+## Section 1403.6: Flood Resistance
+
+1403.6 Flood Resistance
+For buildings in
+flood hazard areas
+, the
+exterior wall envelope
+extending below the
+design flood elevation
+shall be resistant to water damage and shall comply with
+Appendix G
+.
+Building products (4)
+
+---
+
+For buildings in
+flood hazard areas
+, the
+exterior wall envelope
+extending below the
+design flood elevation
+shall be resistant to water damage and shall comply with
+Appendix G
+.
+
+---
+
+## Section 1403.7: Thermal and Condensation Resistance
+
+1403.7 Thermal and Condensation Resistance
+The
+exterior wall envelope
+shall be designed and constructed for thermal and condensation resistance as necessary to meet the requirements of the
+New York City Energy Conservation Code
+.
+
+---
+
+The
+exterior wall envelope
+shall be designed and constructed for thermal and condensation resistance as necessary to meet the requirements of the
+New York City Energy Conservation Code
+.
+
+---
+
+## Section 1403.8: Bird Friendly Materials
+
+1403.8 Bird Friendly Materials
+Bird friendly
+materials
+shall be required in accordance with Sections
+1403.8.1
+through
+1403.8.4
+.
+*Section BC 1403.8was added by
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+
+---
+
+Bird friendly
+materials
+shall be required in accordance with Sections
+1403.8.1
+through
+1403.8.4
+.
+*Section BC 1403.8was added by
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+
+---
+
+## Section 1403.8.1: Exterior  Wall  Envelope
+
+1403.8.1 Exterior Wall Envelope
+The
+exterior wall envelope
+, and any associated
+openings
+, shall be constructed with bird friendly
+materials
+up to 75 feet (22 860 mm) above grade.
+Materials
+other than bird friendly
+materials
+shall not exceed an aggregate of 10 square feet (0.93 m
+2
+) within any 10 feet (3048 mm) by 10 feet (3048 mm) square
+area
+of
+exterior wall
+below 75 feet (22 860 mm) above grade.
+Exceptions:
+Where ground floor transparency is required by the
+New York City Zoning Resolution
+,
+transparent
+bird friendly material with a UV-reflective pattern and a maximum threat factor of 27 shall be provided.
+In areas of special flood hazard and
+shaded X-Zones
+where flood resistant glazing is proposed and ground floor transparency is required by the
+New York City Zoning Resolution
+,
+transparent
+bird friendly material with a UV-reflective pattern and a maximum threat factor of 36 shall be provided.
+*Section BC 1403.8.1 was added by
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+
+---
+
+The
+exterior wall envelope
+, and any associated
+openings
+, shall be constructed with bird friendly
+materials
+up to 75 feet (22 860 mm) above grade.
+Materials
+other than bird friendly
+materials
+shall not exceed an aggregate of 10 square feet (0.93 m
+2
+) within any 10 feet (3048 mm) by 10 feet (3048 mm) square
+area
+of
+exterior wall
+below 75 feet (22 860 mm) above grade.
+Exceptions:
+Where ground floor transparency is required by the
+New York City Zoning Resolution
+,
+transparent
+bird friendly material with a UV-reflective pattern and a maximum threat factor of 27 shall be provided.
+In areas of special flood hazard and
+shaded X-Zones
+where flood resistant glazing is proposed and ground floor transparency is required by the
+New York City Zoning Resolution
+,
+transparent
+bird friendly material with a UV-reflective pattern and a maximum threat factor of 36 shall be provided.
+*Section BC 1403.8.1 was added by
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+
+---
+
+## Section 1403.8.2: Bird Hazard Installations
+
+1403.8.2 Bird Hazard Installations
+Bird hazard installations
+shall be constructed of bird friendly
+materials
+regardless of their
+height
+above grade.
+*Section BC 1403.8.2 was added by
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+
+---
+
+Bird hazard installations
+shall be constructed of bird friendly
+materials
+regardless of their
+height
+above grade.
+*Section BC 1403.8.2 was added by
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+
+---
+
+## Section 1403.8.3: Fly-Through Conditions
+
+1403.8.3 Fly-Through Conditions
+Fly-through conditions
+located 75 feet (22 860 mm) or less above grade shall be constructed with bird friendly
+materials
+.
+*Section BC 1403.8.3 was added by
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+
+---
+
+Fly-through conditions
+located 75 feet (22 860 mm) or less above grade shall be constructed with bird friendly
+materials
+.
+*Section BC 1403.8.3 was added by
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+
+---
+
+## Section 1403.8.4: Adjacency to Green Roofs
+
+1403.8.4 Adjacency to Green Roofs
+The
+exterior wall envelope
+, and any associated
+openings
+, installed adjacent to a green roof system on the same
+building
+shall be constructed with bird friendly
+materials
+up to 12 feet (3657.6 mm) above the walking surface.
+*Section BC 1403.8.4was added by
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+
+---
+
+The
+exterior wall envelope
+, and any associated
+openings
+, installed adjacent to a green roof system on the same
+building
+shall be constructed with bird friendly
+materials
+up to 12 feet (3657.6 mm) above the walking surface.
+*Section BC 1403.8.4was added by
+Local Law 15 of 2020
+. This law has an effective date of January 10, 2021.
+
+---
+
+## Section 1403.9: Air Barrier
+
+1403.9 Air Barrier
+The
+exterior wall envelope
+shall be designed and constructed with an air barrier
+as necessary to meet the requirements of the
+New York City Energy Conservation Code
+and this code.
+
+---
+
+The
+exterior wall envelope
+shall be designed and constructed with an air barrier
+as necessary to meet the requirements of the
+New York City Energy Conservation Code
+and this code.
+
+---
+
+Section BC 1404 Materials
+
+---
+
+## Section 1404.1: General
+
+1404.1 General
+Materials
+used for the
+construction
+of
+exterior walls
+shall comply with the provisions of this section.
+Materials
+not prescribed herein shall be permitted, provided that any such alternative has been approved.
+Building products (9)
+
+---
+
+Materials
+used for the
+construction
+of
+exterior walls
+shall comply with the provisions of this section.
+Materials
+not prescribed herein shall be permitted, provided that any such alternative has been approved.
+
+---
+
+## Section 1404.2: Water-Resistive Barrier
+
+1404.2 Water-Resistive Barrier
+Not fewer than one layer of No. 15
+asphalt
+felt complying with ASTM D 226 for Type 1 felt or other approved
+materials
+shall be attached to the studs or sheathing, with flashing as described in
+Section 1405.4
+of this code, in such a manner as to provide a continuous
+water-resistive barrier
+behind the
+exterior wall
+veneer
+. Combustible
+water-resistive barriers
+shall comply with
+special inspection
+requirements of
+Chapter 17
+of this code.
+
+---
+
+Not fewer than one layer of No. 15
+asphalt
+felt complying with ASTM D 226 for Type 1 felt or other approved
+materials
+shall be attached to the studs or sheathing, with flashing as described in
+Section 1405.4
+of this code, in such a manner as to provide a continuous
+water-resistive barrier
+behind the
+exterior wall
+veneer
+. Combustible
+water-resistive barriers
+shall comply with
+special inspection
+requirements of
+Chapter 17
+of this code.
+
+---
+
+## Section 1404.3: Wood
+
+1404.3 Wood
+Exterior walls
+of wood
+construction
+shall be designed and constructed in accordance with
+Chapter 23
+.
+UpCodes Diagram (1)
+
+---
+
+Exterior walls
+of wood
+construction
+shall be designed and constructed in accordance with
+Chapter 23
+.
+
+---
+
+## Section 1404.3.1: Basic Hardboard
+
+1404.3.1 Basic Hardboard
+Basic
+hardboard
+shall conform to the requirements of ANSI A135.4.
+
+---
+
+Basic
+hardboard
+shall conform to the requirements of ANSI A135.4.
+
+---
+
+## Section 1404.3.2: Hardboard Siding
+
+1404.3.2 Hardboard Siding
+Hardboard
+siding shall conform to the requirements of ANSI A135.6 and, where used structurally, shall be so identified by the
+label
+of an
+approved agency
+.
+
+---
+
+Hardboard
+siding shall conform to the requirements of ANSI A135.6 and, where used structurally, shall be so identified by the
+label
+of an
+approved agency
+.
+
+---
+
+## Section 1404.4: Masonry
+
+1404.4 Masonry
+Exterior walls
+of
+masonry
+construction
+shall be designed and constructed in accordance with this chapter and
+Chapter 21
+.
+Masonry units
+,
+mortar
+and metal accessories used in anchored and adhered
+veneer
+shall meet the physical requirements of
+Chapter 21
+. The
+backing
+of anchored and adhered
+veneer
+shall be of
+concrete
+,
+masonry
+, steel framing or
+wood framing
+. Continuous insulation meeting the applicable requirements of this code shall be permitted between
+the
+backing
+and the
+masonry
+veneer
+.
+Building products (30)
+
+---
+
+Exterior walls
+of
+masonry
+construction
+shall be designed and constructed in accordance with this chapter and
+Chapter 21
+.
+Masonry units
+,
+mortar
+and metal accessories used in anchored and adhered
+veneer
+shall meet the physical requirements of
+Chapter 21
+. The
+backing
+of anchored and adhered
+veneer
+shall be of
+concrete
+,
+masonry
+, steel framing or
+wood framing
+. Continuous insulation meeting the applicable requirements of this code shall be permitted between
+the
+backing
+and the
+masonry
+veneer
+.
+
+---
+
+## Section 1404.5: Metal
+
+1404.5 Metal
+Exterior walls
+constructed of cold-formed
+steel, structural
+steel or aluminum shall be designed in accordance with Chapters
+20
+and
+22
+, as applicable.
+UpCodes Diagram (1)
+Assemblies (2)
+
+---
+
+Exterior walls
+constructed of cold-formed
+steel, structural
+steel or aluminum shall be designed in accordance with Chapters
+20
+and
+22
+, as applicable.
+
+---
+
+## Section 1404.5.1: Aluminum Siding
+
+1404.5.1 Aluminum Siding
+Aluminum siding shall conform to the requirements of AAMA 1402.
+
+---
+
+Aluminum siding shall conform to the requirements of AAMA 1402.
+
+---
+
+## Section 1404.5.2: Cold-Rolled Copper
+
+1404.5.2 Cold-Rolled Copper
+Copper shall conform to the requirements of ASTM B 370.
+
+---
+
+Copper shall conform to the requirements of ASTM B 370.
+
+---
+
+## Section 1404.5.3: Lead-Coated Copper
+
+1404.5.3 Lead-Coated Copper
+Lead-coated copper shall conform to the requirements of ASTM B 101.
+
+---
+
+Lead-coated copper shall conform to the requirements of ASTM B 101.
+
+---
+
+## Section 1404.6: Concrete
+
+1404.6 Concrete
+Exterior walls
+of
+concrete
+construction
+shall be designed and constructed in accordance with
+Chapter 19
+.
+UpCodes Diagram (1)
+
+---
+
+Exterior walls
+of
+concrete
+construction
+shall be designed and constructed in accordance with
+Chapter 19
+.
+
+---
+
+## Section 1404.7: Glass-Unit Masonry
+
+1404.7 Glass-Unit Masonry
+Exterior walls
+of glass-unit
+masonry
+shall be designed and constructed in accordance with
+Chapter 21
+.
+
+---
+
+Exterior walls
+of glass-unit
+masonry
+shall be designed and constructed in accordance with
+Chapter 21
+.
+
+---
+
+## Section 1404.8: Plastics
+
+1404.8 Plastics
+Plastic
+panel, apron or spandrel
+walls
+as defined in this code shall not be limited in thickness, provided that such
+plastics
+and their assemblies conform to the requirements of
+Chapter 26
+and other applicable requirements of this chapter, and are constructed of approved weather-resistant
+materials
+of adequate
+strength
+to resist the wind
+loads
+for cladding specified in
+Chapter 16
+.
+
+---
+
+Plastic
+panel, apron or spandrel
+walls
+as defined in this code shall not be limited in thickness, provided that such
+plastics
+and their assemblies conform to the requirements of
+Chapter 26
+and other applicable requirements of this chapter, and are constructed of approved weather-resistant
+materials
+of adequate
+strength
+to resist the wind
+loads
+for cladding specified in
+Chapter 16
+.
+
+---
+
+## Section 1404.9: Vinyl Siding
+
+1404.9 Vinyl Siding
+Vinyl siding
+shall be certified and labeled as conforming to the requirements of ASTM D 3679 by an
+approved agency
+.
+Building products (2)
+
+---
+
+Vinyl siding
+shall be certified and labeled as conforming to the requirements of ASTM D 3679 by an
+approved agency
+.
+
+---
+
+## Section 1404.10: Fiber-Cement Siding
+
+1404.10 Fiber-Cement Siding
+Fiber-cement siding
+shall conform to the requirements of ASTM C 1186, Type A or ISO 8336, Category A, and shall be so identified on labeling listing an
+approved agency
+.
+
+---
+
+Fiber-cement siding
+shall conform to the requirements of ASTM C 1186, Type A or ISO 8336, Category A, and shall be so identified on labeling listing an
+approved agency
+.
+
+---
+
+## Section 1404.11: Exterior Insulation Finish System (EIFS)
+
+1404.11 Exterior Insulation Finish System (EIFS)
+EIFS shall be designed and constructed in accordance with Section 1408.
+
+---
+
+EIFS shall be designed and constructed in accordance with Section 1408.
+
+---
+
+## Section 1404.12: Polypropylene Siding
+
+1404.12 Polypropylene Siding
+Polypropylene siding
+shall be certified and labeled as conforming to
+the requirements of ASTM D 7254 and those of
+Section 1404.12.1
+or
+1404.12.2
+of this code by an
+approved agency
+.
+Polypropylene siding
+shall be installed in accordance with manufacturer's
+instructions and the requirements of
+Section 1405.18
+of this code.
+Polypropylene siding
+shall be
+secured to the
+building
+so as to provide weather protection for the
+exterior walls
+of the
+building
+.
+
+---
+
+Polypropylene siding
+shall be certified and labeled as conforming to
+the requirements of ASTM D 7254 and those of
+Section 1404.12.1
+or
+1404.12.2
+of this code by an
+approved agency
+.
+Polypropylene siding
+shall be installed in accordance with manufacturer's
+instructions and the requirements of
+Section 1405.18
+of this code.
+Polypropylene siding
+shall be
+secured to the
+building
+so as to provide weather protection for the
+exterior walls
+of the
+building
+.
+
+---
+
+## Section 1404.12.1: Flame Spread Index
+
+1404.12.1 Flame Spread Index
+The certification of the
+flame spread index
+shall be accompanied
+by a test report stating that all portions of the test specimen ahead of the flame front remained in
+position during the test in accordance with ASTM E 84 or UL 723.
+
+---
+
+The certification of the
+flame spread index
+shall be accompanied
+by a test report stating that all portions of the test specimen ahead of the flame front remained in
+position during the test in accordance with ASTM E 84 or UL 723.
+
+---
+
+## Section 1404.12.2: Distance Between Adjacent Buildings
+
+1404.12.2 Distance Between Adjacent Buildings
+The distance between a
+building
+with
+polypropylene siding
+and the adjacent
+building
+shall be not less than 10 feet (3048 mm).
+
+---
+
+The distance between a
+building
+with
+polypropylene siding
+and the adjacent
+building
+shall be not less than 10 feet (3048 mm).
+
+---
+
+## Section 1404.13: Foam Plastic Insulation
+
+1404.13 Foam Plastic Insulation
+Foam plastic insulation
+used in
+exterior wall covering
+assemblies
+shall comply with
+Chapter 26
+and be fireblocked in accordance with
+Section 718.2.6.1
+.
+Building products (7)
+
+---
+
+Foam plastic insulation
+used in
+exterior wall covering
+assemblies
+shall comply with
+Chapter 26
+and be fireblocked in accordance with
+Section 718.2.6.1
+.
+
+---
+
+Section BC 1405 Installation of Wall Coverings
+
+---
+
+## Section 1405.1: General
+
+1405.1 General
+Exterior wall coverings
+shall be designed and constructed in accordance with the applicable provisions of this section.
+Installations
+not prescribed herein shall be permitted, provided that such alternative has been approved.
+Installations
+shall be in accordance with approved
+construction documents
+where a permit is required.
+Installations
+of
+exterior wall coverings
+shall comply with the
+special inspection
+requirements of
+Chapter 17
+.
+
+---
+
+Exterior wall coverings
+shall be designed and constructed in accordance with the applicable provisions of this section.
+Installations
+not prescribed herein shall be permitted, provided that such alternative has been approved.
+Installations
+shall be in accordance with approved
+construction documents
+where a permit is required.
+Installations
+of
+exterior wall coverings
+shall comply with the
+special inspection
+requirements of
+Chapter 17
+.
+
+---
+
+## Section 1405.2: Weather Protection
+
+1405.2 Weather Protection
+The
+exterior wall envelope
+shall provide weather protection for the
+building
+. The
+materials
+of the minimum
+nominal
+thickness specified in Table 1405.2 shall be acceptable as approved weather coverings.
+Exception:
+Weather coverings not meeting the minimum
+nominal
+thicknesses specified in Table 1405.2 shall be permitted provided such alternative has been approved.
+TABLE 1405.2
+MINIMUM THICKNESS OF WEATHER COVERINGS
+COVERING TYPE
+MINIMUM THICKNESS
+(inches)
+Adhered masonry veneer
+*
+0.25
+Aluminum siding
+0.019
+Anchored masonry veneer
+2.625
+Asbestos-
+cement boards
+0.125
+Asbestos shingles
+0.156
+Cold-rolled copper
+d
+0.0216
+nominal
+Copper shingles
+d
+0.0162
+nominal
+Exterior
+plywood
+(with sheathing)
+0.313
+Exterior
+plywood
+(without sheathing)
+See
+Section 2304.6
+Fiber-cement lap siding
+0.25
+c
+Fiber-cement panel siding
+0.25
+c
+Fiberboard
+siding
+0.5
+Glass-fiber reinforced
+concrete
+panels
+0.375
+Hardboard
+siding
+c
+0.25
+High-yield copper
+d
+0.0162
+nominal
+Lead-coated copper
+d
+0.0216
+nominal
+Lead-coated high-yield copper
+0.0162
+nominal
+Marble slabs
+1
+Particleboard
+(with sheathing)
+See
+Section 2304.6
+Particleboard
+(without sheathing)
+See
+Section 2304.6
+Porcelain tile
+0.25
+Steel (approved corrosion resistant)
+0.0149
+Stone (cast artificial, anchored)
+1.5
+Stone (natural)
+2
+Structural glass
+0.344
+Stucco or exterior
+cement plaster
+Three-coat work over:
+Metal plaster base
+0.875
+b
+Unit
+masonry
+0.625
+b
+Cast-in-place or precast
+concrete
+0.625
+b
+Two-coat work over:
+Unit
+masonry
+0.5
+b
+Cast-in-place or precast
+concrete
+0.375
+b
+Terra cotta (anchored)
+1
+Terra cotta (adhered)
+0.25
+Vinyl siding
+0.035
+Wood shingles
+0.375
+Wood siding (without sheathing)
+a
+0.5
+For SI: 1 inch = 25.4 mm, 1 ounce = 28.35 g, 1 square foot = 0.093 m
+2
+Wood siding of thicknesses less than 0.5 inch shall be placed over sheathing that conforms to
+Section 2304.6
+.
+Exclusive of texture.
+As measured at the bottom of decorative grooves.
+16 ounces per square foot for cold-rolled copper and lead-coated copper, 12 ounces per square foot for copper shingles, high-yield copper and lead-coated high-yield copper.
+*
+Veneer
+units in this group shall be of an approved type and not be greater than 2 inches in thickness.
+Assemblies (2)
+
+---
+
+The
+exterior wall envelope
+shall provide weather protection for the
+building
+. The
+materials
+of the minimum
+nominal
+thickness specified in Table 1405.2 shall be acceptable as approved weather coverings.
+Exception:
+Weather coverings not meeting the minimum
+nominal
+thicknesses specified in Table 1405.2 shall be permitted provided such alternative has been approved.
+TABLE 1405.2
+MINIMUM THICKNESS OF WEATHER COVERINGS
+COVERING TYPE
+MINIMUM THICKNESS
+(inches)
+Adhered masonry veneer
+*
+0.25
+Aluminum siding
+0.019
+Anchored masonry veneer
+2.625
+Asbestos-
+cement boards
+0.125
+Asbestos shingles
+0.156
+Cold-rolled copper
+d
+0.0216
+nominal
+Copper shingles
+d
+0.0162
+nominal
+Exterior
+plywood
+(with sheathing)
+0.313
+Exterior
+plywood
+(without sheathing)
+See
+Section 2304.6
+Fiber-cement lap siding
+0.25
+c
+Fiber-cement panel siding
+0.25
+c
+Fiberboard
+siding
+0.5
+Glass-fiber reinforced
+concrete
+panels
+0.375
+Hardboard
+siding
+c
+0.25
+High-yield copper
+d
+0.0162
+nominal
+Lead-coated copper
+d
+0.0216
+nominal
+Lead-coated high-yield copper
+0.0162
+nominal
+Marble slabs
+1
+Particleboard
+(with sheathing)
+See
+Section 2304.6
+Particleboard
+(without sheathing)
+See
+Section 2304.6
+Porcelain tile
+0.25
+Steel (approved corrosion resistant)
+0.0149
+Stone (cast artificial, anchored)
+1.5
+Stone (natural)
+2
+Structural glass
+0.344
+Stucco or exterior
+cement plaster
+Three-coat work over:
+Metal plaster base
+0.875
+b
+Unit
+masonry
+0.625
+b
+Cast-in-place or precast
+concrete
+0.625
+b
+Two-coat work over:
+Unit
+masonry
+0.5
+b
+Cast-in-place or precast
+concrete
+0.375
+b
+Terra cotta (anchored)
+1
+Terra cotta (adhered)
+0.25
+Vinyl siding
+0.035
+Wood shingles
+0.375
+Wood siding (without sheathing)
+a
+0.5
+For SI: 1 inch = 25.4 mm, 1 ounce = 28.35 g, 1 square foot = 0.093 m
+2
+Wood siding of thicknesses less than 0.5 inch shall be placed over sheathing that conforms to
+Section 2304.6
+.
+Exclusive of texture.
+As measured at the bottom of decorative grooves.
+16 ounces per square foot for cold-rolled copper and lead-coated copper, 12 ounces per square foot for copper shingles, high-yield copper and lead-coated high-yield copper.
+*
+Veneer
+units in this group shall be of an approved type and not be greater than 2 inches in thickness.
+
+---
+
+## Section 1405.3: Vapor Retarders
+
+1405.3 Vapor Retarders
+Vapor retarders as described in
+Section 1405.3.3
+shall be
+provided based on an approved
+design
+using accepted engineering practice for hygrothermal analysis.
+UpCodes Diagram (1)
+Building products (3)
+
+---
+
+Vapor retarders as described in
+Section 1405.3.3
+shall be
+provided based on an approved
+design
+using accepted engineering practice for hygrothermal analysis.
+
+---
+
+## Section 1405.3.1: Reserved
+
+1405.3.1 Reserved
+
+---
+
+## Section 1405.3.2: Reserved
+
+1405.3.2 Reserved
+
+---
+
+## Section 1405.3.3: Material Vapor Retarder Class
+
+1405.3.3 Material Vapor Retarder Class
+The
+vapor retarder class
+shall be based on the manufacturer's certified testing or a tested assembly.
+The following shall be deemed to meet the class specified:
+Class I: Sheet polyethylene, non-perforated aluminum foil with a perm rating of less than or equal to 0.1.
+Class II: Kraft-faced fiberglass batts or paint with a perm rating greater than 0.1 and less than or equal to 1.0.
+Class III: Latex or enamel paint with a perm rating of greater than 1.0 and less than or equal to 10.0.
+UpCodes Diagram (1)
+
+---
+
+The
+vapor retarder class
+shall be based on the manufacturer's certified testing or a tested assembly.
+The following shall be deemed to meet the class specified:
+Class I: Sheet polyethylene, non-perforated aluminum foil with a perm rating of less than or equal to 0.1.
+Class II: Kraft-faced fiberglass batts or paint with a perm rating greater than 0.1 and less than or equal to 1.0.
+Class III: Latex or enamel paint with a perm rating of greater than 1.0 and less than or equal to 10.0.
+
+---
+
+## Section 1405.3.4: Minimum Clear Airspaces and Vented Openings for Vented Cladding
+
+1405.3.4 Minimum Clear Airspaces and Vented Openings for Vented Cladding
+For the purposes of this section, vented cladding shall include the following minimum clear airspaces:
+Vinyl lap or horizontal aluminum siding applied over a weather-resistive barrier as specified in this chapter.
+Brick
+veneer
+with a clear airspace as specified in this code.
+Other approved vented claddings.
+
+---
+
+For the purposes of this section, vented cladding shall include the following minimum clear airspaces:
+Vinyl lap or horizontal aluminum siding applied over a weather-resistive barrier as specified in this chapter.
+Brick
+veneer
+with a clear airspace as specified in this code.
+Other approved vented claddings.
+
+---
+
+## Section 1405.4: Flashing
+
+1405.4 Flashing
+Flashing shall be installed in such a manner so as to prevent moisture from entering the
+wall
+or to redirect moisture to the exterior. Flashing shall be installed where required at the perimeters of exterior
+door
+and window assemblies,
+penetrations
+and terminations of
+exterior wall
+assemblies,
+exterior wall
+intersections with roofs,
+chimneys
+, porches,
+decks
+, balconies and similar projections and at built-in gutters and similar locations where moisture could enter the
+wall
+. Flashing with projecting flanges shall be installed on both sides and the ends of copings, under sills and continuously above projecting
+trim
+.
+UpCodes Diagrams (3)
+
+---
+
+Flashing shall be installed in such a manner so as to prevent moisture from entering the
+wall
+or to redirect moisture to the exterior. Flashing shall be installed where required at the perimeters of exterior
+door
+and window assemblies,
+penetrations
+and terminations of
+exterior wall
+assemblies,
+exterior wall
+intersections with roofs,
+chimneys
+, porches,
+decks
+, balconies and similar projections and at built-in gutters and similar locations where moisture could enter the
+wall
+. Flashing with projecting flanges shall be installed on both sides and the ends of copings, under sills and continuously above projecting
+trim
+.
+
+---
+
+## Section 1405.4.1: Exterior Wall Pockets
+
+1405.4.1 Exterior Wall Pockets
+In
+exterior walls
+of buildings or structures,
+wall
+pockets or crevices in which moisture can accumulate shall be avoided or protected with caps or drips, or other approved means shall be provided to prevent water damage.
+
+---
+
+In
+exterior walls
+of buildings or structures,
+wall
+pockets or crevices in which moisture can accumulate shall be avoided or protected with caps or drips, or other approved means shall be provided to prevent water damage.
+
+---
+
+## Section 1405.4.2: Masonry
+
+1405.4.2 Masonry
+Flashing and weep holes in anchored
+veneer
+shall be located in the first course of
+masonry
+above finished ground level above the foundation
+wall
+or slab, and other points of support, including structural floors, shelf angles and lintels where anchored
+veneers
+are designed in accordance with
+Section 1405.6
+.
+Building products (13)
+
+---
+
+Flashing and weep holes in anchored
+veneer
+shall be located in the first course of
+masonry
+above finished ground level above the foundation
+wall
+or slab, and other points of support, including structural floors, shelf angles and lintels where anchored
+veneers
+are designed in accordance with
+Section 1405.6
+.
+
+---
+
+## Section 1405.5: Wood Veneers
+
+1405.5 Wood Veneers
+Wood
+veneers
+on
+exterior walls
+of buildings of Type I, II, III and IV
+construction
+shall be not less than 1-inch (25.4 mm)
+nominal
+thickness, 0.438-inch (11.1 mm) exterior
+hardboard
+siding or 0.375-inch (9.5 mm) exterior-type
+wood structural panels
+or
+particleboard
+and shall conform to the following:
+The
+veneer
+shall not exceed 40 feet (12 190 mm) in
+height
+above
+grade
+. Where
+fire-retardant-treated wood
+is used, the
+height
+shall not exceed 60 feet (18 290 mm) in
+height
+above grade.
+The
+veneer
+is attached to or furred from a noncombustible
+backing
+that is
+fire-resistance
+rated as required by
+other provisions
+of this code.
+Where open or spaced wood
+veneers
+(without
+concealed spaces
+) are used, they shall not project more than 24 inches (609.6 mm) from the
+building
+wall
+.
+UpCodes Diagram (1)
+
+---
+
+Wood
+veneers
+on
+exterior walls
+of buildings of Type I, II, III and IV
+construction
+shall be not less than 1-inch (25.4 mm)
+nominal
+thickness, 0.438-inch (11.1 mm) exterior
+hardboard
+siding or 0.375-inch (9.5 mm) exterior-type
+wood structural panels
+or
+particleboard
+and shall conform to the following:
+The
+veneer
+shall not exceed 40 feet (12 190 mm) in
+height
+above
+grade
+. Where
+fire-retardant-treated wood
+is used, the
+height
+shall not exceed 60 feet (18 290 mm) in
+height
+above grade.
+The
+veneer
+is attached to or furred from a noncombustible
+backing
+that is
+fire-resistance
+rated as required by
+other provisions
+of this code.
+Where open or spaced wood
+veneers
+(without
+concealed spaces
+) are used, they shall not project more than 24 inches (609.6 mm) from the
+building
+wall
+.
+
+---
+
+## Section 1405.6: Anchored Masonry Veneer
+
+1405.6 Anchored Masonry Veneer
+Anchored masonry veneer
+shall comply with the provisions of Sections 1405.6,
+1405.7
+,
+1405.8
+and
+1405.9
+and Sections
+12.1
+and
+12.2
+of TMS 402, as modified by
+Chapter 21
+of this code.
+Assemblies (2)
+Building products (13)
+
+---
+
+Anchored masonry veneer
+shall comply with the provisions of Sections 1405.6,
+1405.7
+,
+1405.8
+and
+1405.9
+and Sections
+12.1
+and
+12.2
+of TMS 402, as modified by
+Chapter 21
+of this code.
+
+---
+
+## Section 1405.6.1: Tolerances
+
+1405.6.1 Tolerances
+Anchored masonry veneers
+in accordance with Chapter 14 are not required to meet the tolerances in
+Article 3.3
+F1
+of TMS 602.
+
+---
+
+Anchored masonry veneers
+in accordance with Chapter 14 are not required to meet the tolerances in
+Article 3.3
+F1
+of TMS 602.
+
+---
+
+## Section 1405.6.2: Seismic Requirements
+
+1405.6.2 Seismic Requirements
+Anchored masonry veneer
+located in
+Seismic Design Category
+C or D shall conform to the requirements of
+Section 12.2.2.10
+of TMS 402, as modified by
+Chapter 21
+of this code.
+
+---
+
+Anchored masonry veneer
+located in
+Seismic Design Category
+C or D shall conform to the requirements of
+Section 12.2.2.10
+of TMS 402, as modified by
+Chapter 21
+of this code.
+
+---
+
+## Section 1405.7: Stone Veneer
+
+1405.7 Stone Veneer
+Anchored stone
+veneer
+units not exceeding 10 inches (254 mm) in thickness shall be anchored directly to
+masonry
+,
+concrete
+or to stud
+construction
+by one of the following methods:
+With
+concrete
+or
+masonry
+backing
+, anchor ties shall be not less than 0.1055-inch (2.68 mm) corrosion-resistant wire, or approved equal, formed beyond the base of the
+backing
+. The legs of the loops shall be not less than 6 inches (152.4 mm) in length bent at right angles and laid in the
+mortar
+joint
+, and spaced so that the eyes or loops are 12 inches (304.8 mm) maximum on center in both directions. There shall be provided not less than a 0.1055-inch (2.68 mm) corrosion-resistant wire tie, or approved equal, threaded through the exposed loops for every 2 square feet (0.2 m
+2
+) of stone
+veneer
+. This tie shall be a loop having legs not less than 15 inches (381 mm) in length, so bent that the tie will lie in the stone
+veneer
+mortar
+joint
+. The last 2 inches (50.8 mm) of each wire leg shall have a right-angle bend. One-inch (25.4 mm) minimum thickness of cement
+grout
+shall be placed between the
+backing
+and the stone
+veneer
+.
+With wood stud
+backing
+, a 2-inch by 2-inch (50.8 mm by 50.8 mm) 0.0625-inch (1.59 mm) zinc-coated or nonmetallic coated wire mesh with two layers of
+water-resistive barrier
+in accordance with
+Section 1404.2
+shall be applied directly to wood studs spaced not more than 16 inches (406.4 mm) on center. On studs, the mesh shall be attached with 2-inch (50.8 mm) long corrosion-resistant steel wire furring nails at 4 inches (101.6 mm) on center providing a minimum 1.125-inch (28.58 mm) penetration into each stud and with 8d (0.120 in. diameter) annular threaded nails at 8 inches (203.2 mm) on center into top and bottom plates or with equivalent wire ties. There shall be not less than a 0.1055-inch (2.68 mm) zinc-coated or nonmetallic coated wire, or approved equal, attached to the stud with not smaller than an 8d (0.120 in. diameter) annular threaded nail for every 2 square feet (0.2 m
+2
+) of stone
+veneer
+. This tie shall be a loop having legs not less than 15 inches (381 mm) in length, so bent that the tie will lie in the stone
+veneer
+mortar
+joint
+. The last 2 inches (50.8 mm) of each wire leg shall have a right-angle bend. One-inch (25.4 mm) minimum thickness of cement
+grout
+shall be placed between the
+backing
+and the stone
+veneer
+.
+With cold-formed steel stud
+backing
+, a 2-inch by 2-inch (50.8 mm by 50.8 mm) 0.0625-inch (1.59 mm) zinc-coated or nonmetallic coated wire mesh with two layers of
+water-resistive barrier
+in accordance with
+Section 1404.2
+shall be applied directly to steel studs spaced at not more than 16 inches (406.4 mm) on center. The mesh shall be attached with corrosion-resistant #8 self-drilling, tapping screws at 4 inches (101.6 mm) on center, and at 8 inches (203.2 mm) on center into top and bottom tracks or with equivalent wire ties. Screws shall extend through the steel connection not fewer than three exposed
+threads
+. There shall be not less than a 0.1055-inch (2.68 mm) corrosion-resistant wire, or approved equal, attached to the stud with not smaller than a #8 self-drilling, tapping screw extending through the steel framing not fewer than three exposed
+threads
+for every 2 square feet (0.2 m
+2
+) of stone
+veneer
+. This tie shall be a loop having legs not less than 15 inches (381 mm) in length, so bent that the tie will lie in the stone
+veneer
+mortar
+joint
+. The last 2 inches (50.8 mm) of each wire leg shall have a right-angle bend. One inch (25.4 mm) minimum thickness of cement
+grout
+shall be placed between the
+backing
+and the stone
+veneer
+. The cold-formed steel framing members shall have a minimum bare steel thickness of 0.0428 inches (1.087 mm).
+
+---
+
+Anchored stone
+veneer
+units not exceeding 10 inches (254 mm) in thickness shall be anchored directly to
+masonry
+,
+concrete
+or to stud
+construction
+by one of the following methods:
+With
+concrete
+or
+masonry
+backing
+, anchor ties shall be not less than 0.1055-inch (2.68 mm) corrosion-resistant wire, or approved equal, formed beyond the base of the
+backing
+. The legs of the loops shall be not less than 6 inches (152.4 mm) in length bent at right angles and laid in the
+mortar
+joint
+, and spaced so that the eyes or loops are 12 inches (304.8 mm) maximum on center in both directions. There shall be provided not less than a 0.1055-inch (2.68 mm) corrosion-resistant wire tie, or approved equal, threaded through the exposed loops for every 2 square feet (0.2 m
+2
+) of stone
+veneer
+. This tie shall be a loop having legs not less than 15 inches (381 mm) in length, so bent that the tie will lie in the stone
+veneer
+mortar
+joint
+. The last 2 inches (50.8 mm) of each wire leg shall have a right-angle bend. One-inch (25.4 mm) minimum thickness of cement
+grout
+shall be placed between the
+backing
+and the stone
+veneer
+.
+With wood stud
+backing
+, a 2-inch by 2-inch (50.8 mm by 50.8 mm) 0.0625-inch (1.59 mm) zinc-coated or nonmetallic coated wire mesh with two layers of
+water-resistive barrier
+in accordance with
+Section 1404.2
+shall be applied directly to wood studs spaced not more than 16 inches (406.4 mm) on center. On studs, the mesh shall be attached with 2-inch (50.8 mm) long corrosion-resistant steel wire furring nails at 4 inches (101.6 mm) on center providing a minimum 1.125-inch (28.58 mm) penetration into each stud and with 8d (0.120 in. diameter) annular threaded nails at 8 inches (203.2 mm) on center into top and bottom plates or with equivalent wire ties. There shall be not less than a 0.1055-inch (2.68 mm) zinc-coated or nonmetallic coated wire, or approved equal, attached to the stud with not smaller than an 8d (0.120 in. diameter) annular threaded nail for every 2 square feet (0.2 m
+2
+) of stone
+veneer
+. This tie shall be a loop having legs not less than 15 inches (381 mm) in length, so bent that the tie will lie in the stone
+veneer
+mortar
+joint
+. The last 2 inches (50.8 mm) of each wire leg shall have a right-angle bend. One-inch (25.4 mm) minimum thickness of cement
+grout
+shall be placed between the
+backing
+and the stone
+veneer
+.
+With cold-formed steel stud
+backing
+, a 2-inch by 2-inch (50.8 mm by 50.8 mm) 0.0625-inch (1.59 mm) zinc-coated or nonmetallic coated wire mesh with two layers of
+water-resistive barrier
+in accordance with
+Section 1404.2
+shall be applied directly to steel studs spaced at not more than 16 inches (406.4 mm) on center. The mesh shall be attached with corrosion-resistant #8 self-drilling, tapping screws at 4 inches (101.6 mm) on center, and at 8 inches (203.2 mm) on center into top and bottom tracks or with equivalent wire ties. Screws shall extend through the steel connection not fewer than three exposed
+threads
+. There shall be not less than a 0.1055-inch (2.68 mm) corrosion-resistant wire, or approved equal, attached to the stud with not smaller than a #8 self-drilling, tapping screw extending through the steel framing not fewer than three exposed
+threads
+for every 2 square feet (0.2 m
+2
+) of stone
+veneer
+. This tie shall be a loop having legs not less than 15 inches (381 mm) in length, so bent that the tie will lie in the stone
+veneer
+mortar
+joint
+. The last 2 inches (50.8 mm) of each wire leg shall have a right-angle bend. One inch (25.4 mm) minimum thickness of cement
+grout
+shall be placed between the
+backing
+and the stone
+veneer
+. The cold-formed steel framing members shall have a minimum bare steel thickness of 0.0428 inches (1.087 mm).
+
+---
+
+## Section 1405.8: Slab-Type Veneer
+
+1405.8 Slab-Type Veneer
+Anchored slab-type
+veneer
+units not exceeding 2 inches (50.8 mm) in thickness shall be anchored directly to
+masonry
+,
+concrete
+or
+light-frame construction
+. For
+veneer
+units of marble, travertine, granite or other stone units of slab form, ties of corrosion-resistant dowels in drilled holes shall be located in the middle third of the edge of the units, spaced not more than 24 inches (609.6 mm) apart around the periphery of each unit with not less than four ties per
+veneer
+unit. Units shall not exceed 20 square feet (1.9 m
+2
+) in area. If the dowels are not tight fitting, the holes shall be drilled not more than 0.063 inch (1.6 mm) larger in diameter than the dowel, with the hole countersunk to a diameter and depth equal to twice the diameter of the dowel in order to provide a tight-fitting key of cement
+mortar
+at the dowel locations where the
+mortar
+in the
+joint
+has set.
+Veneer
+ties shall be corrosion-resistant metal capable of resisting, in tension or compression, a force equal to two times the weight of the attached
+veneer
+. If made of sheet metal,
+veneer
+ties shall be not smaller in
+area
+than 0.0336 by 1 inch (0.853 by 25.4 mm) or, if made of wire, not smaller in diameter than 0.1483-inch (3.76 mm) wire.
+UpCodes Diagram (1)
+Building products (4)
+
+---
+
+Anchored slab-type
+veneer
+units not exceeding 2 inches (50.8 mm) in thickness shall be anchored directly to
+masonry
+,
+concrete
+or
+light-frame construction
+. For
+veneer
+units of marble, travertine, granite or other stone units of slab form, ties of corrosion-resistant dowels in drilled holes shall be located in the middle third of the edge of the units, spaced not more than 24 inches (609.6 mm) apart around the periphery of each unit with not less than four ties per
+veneer
+unit. Units shall not exceed 20 square feet (1.9 m
+2
+) in area. If the dowels are not tight fitting, the holes shall be drilled not more than 0.063 inch (1.6 mm) larger in diameter than the dowel, with the hole countersunk to a diameter and depth equal to twice the diameter of the dowel in order to provide a tight-fitting key of cement
+mortar
+at the dowel locations where the
+mortar
+in the
+joint
+has set.
+Veneer
+ties shall be corrosion-resistant metal capable of resisting, in tension or compression, a force equal to two times the weight of the attached
+veneer
+. If made of sheet metal,
+veneer
+ties shall be not smaller in
+area
+than 0.0336 by 1 inch (0.853 by 25.4 mm) or, if made of wire, not smaller in diameter than 0.1483-inch (3.76 mm) wire.
+
+---
+
+## Section 1405.9: Terra Cotta
+
+1405.9 Terra Cotta
+Anchored terra cotta or ceramic units
+not less than 1 inch (25.4 mm) thick shall be anchored directly to
+masonry
+,
+concrete
+or stud
+construction
+. Terra cotta or ceramic unit anchorage shall be engineered to transfer
+loads
+to stable
+backup
+walls
+utilizing not less than two non-corrosive anchors per unit.
+Building products (4)
+
+---
+
+Anchored terra cotta or ceramic units
+not less than 1 inch (25.4 mm) thick shall be anchored directly to
+masonry
+,
+concrete
+or stud
+construction
+. Terra cotta or ceramic unit anchorage shall be engineered to transfer
+loads
+to stable
+backup
+walls
+utilizing not less than two non-corrosive anchors per unit.
+
+---
+
+## Section 1405.10: Adhered Masonry Veneer
+
+1405.10 Adhered Masonry Veneer
+Adhered masonry veneer
+shall comply with the applicable requirements in this section and Sections
+12.1
+and
+12.3
+of TMS 402, as modified by
+Chapter 21
+of this code.
+Assemblies (2)
+Building products (9)
+
+---
+
+Adhered masonry veneer
+shall comply with the applicable requirements in this section and Sections
+12.1
+and
+12.3
+of TMS 402, as modified by
+Chapter 21
+of this code.
+
+---
+
+## Section 1405.10.1: Exterior Adhered Masonry Veneer
+
+1405.10.1 Exterior Adhered Masonry Veneer
+Exterior
+adhered masonry veneer
+shall be
+installed in accordance with the manufacturer's instructions and
+Section 1405.10
+.
+
+---
+
+Exterior
+adhered masonry veneer
+shall be
+installed in accordance with the manufacturer's instructions and
+Section 1405.10
+.
+
+---
+
+## Section 1405.10.1.1: Water-Resistive Barriers
+
+1405.10.1.1 Water-Resistive Barriers
+Water-resistive barriers
+shall be installed as required
+in
+Section 2510.6
+.
+
+---
+
+Water-resistive barriers
+shall be installed as required
+in
+Section 2510.6
+.
+
+---
+
+## Section 1405.10.1.2: Flashing
+
+1405.10.1.2 Flashing
+Flashing shall comply with this section and the applicable
+requirements of
+Section 1405.4
+.
+
+---
+
+Flashing shall comply with this section and the applicable
+requirements of
+Section 1405.4
+.
+
+---
+
+## Section 1405.10.1.2.1: Flashing at Foundation
+
+1405.10.1.2.1 Flashing at Foundation
+A corrosion-resistant screed or flashing of a
+minimum 0.019-inch (0.48 mm) or 26 gage galvanized or
+plastic
+with a minimum vertical
+attachment flange of 3
+1
+/
+2
+inches (88.9 mm) shall be installed to extend not less than 1 inch
+(25.4 mm) below the foundation plate line on exterior stud
+walls
+in accordance with
+Section 1405.4
+. The
+water-resistive barrier
+shall lap over the exterior of the attachment
+flange of the screed or flashing.
+
+---
+
+A corrosion-resistant screed or flashing of a
+minimum 0.019-inch (0.48 mm) or 26 gage galvanized or
+plastic
+with a minimum vertical
+attachment flange of 3
+1
+/
+2
+inches (88.9 mm) shall be installed to extend not less than 1 inch
+(25.4 mm) below the foundation plate line on exterior stud
+walls
+in accordance with
+Section 1405.4
+. The
+water-resistive barrier
+shall lap over the exterior of the attachment
+flange of the screed or flashing.
+
+---
+
+## Section 1405.10.1.3: Clearances
+
+1405.10.1.3 Clearances
+On exterior stud
+walls
+,
+adhered masonry veneer
+shall be installed
+not less than 4 inches (101.6 mm) above the earth, or not less than 2 inches (50.8 mm) above
+paved areas, or not less than
+1
+/
+2
+inch (12.7 mm) above exterior walking surfaces that are
+supported by the same foundation that supports the
+exterior wall
+.
+
+---
+
+On exterior stud
+walls
+,
+adhered masonry veneer
+shall be installed
+not less than 4 inches (101.6 mm) above the earth, or not less than 2 inches (50.8 mm) above
+paved areas, or not less than
+1
+/
+2
+inch (12.7 mm) above exterior walking surfaces that are
+supported by the same foundation that supports the
+exterior wall
+.
+
+---
+
+## Section 1405.10.1.4: Adhered Masonry Veneer Installed With Lath and Mortar
+
+1405.10.1.4 Adhered Masonry Veneer Installed With Lath and Mortar
+Exterior adhered
+masonry
+veneer
+installed with lath and
+mortar
+shall comply with the following.
+
+---
+
+Exterior adhered
+masonry
+veneer
+installed with lath and
+mortar
+shall comply with the following.
+
+---
+
+## Section 1405.10.1.4.1: Lathing
+
+1405.10.1.4.1 Lathing
+Lathing shall comply with the requirements of Section 2510.
+
+---
+
+Lathing shall comply with the requirements of Section 2510.
+
+---
+
+## Section 1405.10.1.4.2: Scratch Coat
+
+1405.10.1.4.2 Scratch Coat
+A
+nominal
+1
+/
+2
+-inch (12.7 mm) thick layer of
+mortar
+complying with the material requirements of Sections 2103 and
+2512.2
+shall be applied,
+encapsulating the lathing. The surface of this
+mortar
+shall be scored horizontally, resulting
+in a scratch coat.
+
+---
+
+A
+nominal
+1
+/
+2
+-inch (12.7 mm) thick layer of
+mortar
+complying with the material requirements of Sections 2103 and
+2512.2
+shall be applied,
+encapsulating the lathing. The surface of this
+mortar
+shall be scored horizontally, resulting
+in a scratch coat.
+
+---
+
+## Section 1405.10.1.4.3: Adhering Veneer
+
+1405.10.1.4.3 Adhering Veneer
+The
+masonry
+veneer
+units shall be adhered to the
+mortar
+scratch coat with a
+nominal
+1
+/
+2
+-inch (12.7 mm) thick setting bed of
+mortar
+complying with
+Sections 2103 and
+2512.2
+applied to create a full setting bed for the back of the
+masonry
+veneer
+units. The
+masonry
+veneer
+units shall be worked into the setting bed resulting in a
+nominal
+3
+/
+8
+-inch (9.5 mm) setting bed after the
+masonry
+veneer
+units are applied.
+
+---
+
+The
+masonry
+veneer
+units shall be adhered to the
+mortar
+scratch coat with a
+nominal
+1
+/
+2
+-inch (12.7 mm) thick setting bed of
+mortar
+complying with
+Sections 2103 and
+2512.2
+applied to create a full setting bed for the back of the
+masonry
+veneer
+units. The
+masonry
+veneer
+units shall be worked into the setting bed resulting in a
+nominal
+3
+/
+8
+-inch (9.5 mm) setting bed after the
+masonry
+veneer
+units are applied.
+
+---
+
+## Section 1405.10.1.5: Adhered Masonry Veneer Applied Directly to Masonry and Concrete
+
+1405.10.1.5 Adhered Masonry Veneer Applied Directly to Masonry and Concrete
+Adhered
+masonry
+veneer
+applied directly to
+masonry
+or
+concrete
+shall comply with the applicable
+requirements of
+Section 1405.10
+, and with the requirements of
+Section 1405.10.1.4
+or
+2510.7
+.
+
+---
+
+Adhered
+masonry
+veneer
+applied directly to
+masonry
+or
+concrete
+shall comply with the applicable
+requirements of
+Section 1405.10
+, and with the requirements of
+Section 1405.10.1.4
+or
+2510.7
+.
+
+---
+
+## Section 1405.10.1.6: Cold Weather Construction
+
+1405.10.1.6 Cold Weather Construction
+Cold weather
+construction
+of adhered
+masonry
+veneer
+shall comply with the requirements of Sections 2104 and
+2512.4
+.
+
+---
+
+Cold weather
+construction
+of adhered
+masonry
+veneer
+shall comply with the requirements of Sections 2104 and
+2512.4
+.
+
+---
+
+## Section 1405.10.1.7: Hot Weather Construction
+
+1405.10.1.7 Hot Weather Construction
+Hot weather
+construction
+of
+adhered masonry veneer
+shall comply with the requirements of Section 2104.
+
+---
+
+Hot weather
+construction
+of
+adhered masonry veneer
+shall comply with the requirements of Section 2104.
+
+---
+
+## Section 1405.10.2: Exterior Adhered Masonry Veneers—Porcelain Tile
+
+1405.10.2 Exterior Adhered Masonry Veneers—Porcelain Tile
+Adhered units shall not exceed
+5
+/
+8
+inch (15.8 mm) thickness and 24 inches (609.6 mm) in any face dimension nor more than 3 square feet (0.28 m
+2
+) in total face
+area
+and shall not weigh more than 9 pounds psf (0.43 kN/m
+2
+).
+Porcelain tile
+shall be adhered to an approved
+backing
+system.
+
+---
+
+Adhered units shall not exceed
+5
+/
+8
+inch (15.8 mm) thickness and 24 inches (609.6 mm) in any face dimension nor more than 3 square feet (0.28 m
+2
+) in total face
+area
+and shall not weigh more than 9 pounds psf (0.43 kN/m
+2
+).
+Porcelain tile
+shall be adhered to an approved
+backing
+system.
+
+---
+
+## Section 1405.10.3: Interior Adhered Masonry Veneers
+
+1405.10.3 Interior Adhered Masonry Veneers
+Interior
+adhered masonry veneers
+shall have a maximum weight of 20 psf (0.958 kg/m
+2
+) and shall be installed in accordance with
+Section 1405.10
+. The supporting members shall be designed to limit deflection to
+1
+/
+600
+of the span of the supporting members.
+
+---
+
+Interior
+adhered masonry veneers
+shall have a maximum weight of 20 psf (0.958 kg/m
+2
+) and shall be installed in accordance with
+Section 1405.10
+. The supporting members shall be designed to limit deflection to
+1
+/
+600
+of the span of the supporting members.
+
+---
+
+## Section 1405.11: Metal Veneers
+
+1405.11 Metal Veneers
+Veneers
+of metal shall be fabricated from approved corrosion-resistant
+materials
+or shall be protected front and back with porcelain enamel, or otherwise be treated to render the metal resistant to corrosion. Such
+veneers
+shall be not less than 0.0149-inch (0.378 mm)
+nominal
+thickness sheet steel mounted on wood or metal furring strips or approved sheathing on
+light-frame construction
+.
+Building products (4)
+
+---
+
+Veneers
+of metal shall be fabricated from approved corrosion-resistant
+materials
+or shall be protected front and back with porcelain enamel, or otherwise be treated to render the metal resistant to corrosion. Such
+veneers
+shall be not less than 0.0149-inch (0.378 mm)
+nominal
+thickness sheet steel mounted on wood or metal furring strips or approved sheathing on
+light-frame construction
+.
+
+---
+
+## Section 1405.11.1: Attachment
+
+1405.11.1 Attachment
+Exterior metal
+veneer
+shall be securely attached to the supporting
+masonry
+or framing members with corrosion-resistant fastenings, metal ties or by other approved devices or methods. The spacing of the fastenings or ties shall not exceed 24 inches (609.6 mm) either vertically or horizontally, but where units exceed 4 square feet (0.4 m
+2
+) in
+area
+there shall be not less than four attachments per unit. The metal attachments shall have a cross-sectional
+area
+not less than provided by W 1.7 wire. Such attachments and their supports shall be designed and constructed to resist the wind
+loads
+as specified in Section 1609 for
+components and cladding
+.
+
+---
+
+Exterior metal
+veneer
+shall be securely attached to the supporting
+masonry
+or framing members with corrosion-resistant fastenings, metal ties or by other approved devices or methods. The spacing of the fastenings or ties shall not exceed 24 inches (609.6 mm) either vertically or horizontally, but where units exceed 4 square feet (0.4 m
+2
+) in
+area
+there shall be not less than four attachments per unit. The metal attachments shall have a cross-sectional
+area
+not less than provided by W 1.7 wire. Such attachments and their supports shall be designed and constructed to resist the wind
+loads
+as specified in Section 1609 for
+components and cladding
+.
+
+---
+
+## Section 1405.11.2: Weather Protection
+
+1405.11.2 Weather Protection
+Metal supports for exterior metal
+veneer
+shall be protected by painting, galvanizing or by other approved coating or treatment. Wood studs, furring strips or other wood supports for exterior metal
+veneer
+shall be approved pressure-
+treated wood
+or protected as required in
+Section 1403.2
+.
+Joints
+and edges exposed to the weather shall be caulked with approved durable
+waterproofing
+material or by other approved means to prevent penetration of moisture.
+
+---
+
+Metal supports for exterior metal
+veneer
+shall be protected by painting, galvanizing or by other approved coating or treatment. Wood studs, furring strips or other wood supports for exterior metal
+veneer
+shall be approved pressure-
+treated wood
+or protected as required in
+Section 1403.2
+.
+Joints
+and edges exposed to the weather shall be caulked with approved durable
+waterproofing
+material or by other approved means to prevent penetration of moisture.
+
+---
+
+## Section 1405.11.3: Backup
+
+1405.11.3 Backup
+Masonry
+backup shall not be required for metal
+veneer
+unless required by the
+fire-resistance
+requirements of this code.
+
+---
+
+Masonry
+backup shall not be required for metal
+veneer
+unless required by the
+fire-resistance
+requirements of this code.
+
+---
+
+## Section 1405.11.4: Grounding
+
+1405.11.4 Grounding
+Grounding of metal
+veneers
+on buildings shall comply with the requirements of the
+New York City Electrical Code
+and
+Chapter 27
+of this code.
+
+---
+
+Grounding of metal
+veneers
+on buildings shall comply with the requirements of the
+New York City Electrical Code
+and
+Chapter 27
+of this code.
+
+---
+
+## Section 1405.12: Thin Exterior Structural Glass Veneer
+
+1405.12 Thin Exterior Structural Glass Veneer
+The
+area
+of a single section of thin exterior structural glass
+veneer
+shall not exceed 10 square feet (0.93 m
+2
+) where that section is not more than 15 feet (4572 mm) above the level of the sidewalk or grade level directly below, and shall not exceed 6 square feet (0.56 m
+2
+) where it is more than 15 feet (4572 mm) above that level. In no event shall thin exterior structural glass
+veneer
+be installed more than 35 feet (10 668 mm) above the level of the sidewalk or grade level directly below.
+
+---
+
+The
+area
+of a single section of thin exterior structural glass
+veneer
+shall not exceed 10 square feet (0.93 m
+2
+) where that section is not more than 15 feet (4572 mm) above the level of the sidewalk or grade level directly below, and shall not exceed 6 square feet (0.56 m
+2
+) where it is more than 15 feet (4572 mm) above that level. In no event shall thin exterior structural glass
+veneer
+be installed more than 35 feet (10 668 mm) above the level of the sidewalk or grade level directly below.
+
+---
+
+## Section 1405.12.1: Length and Height
+
+1405.12.1 Length and Height
+The length or
+height
+of any section of thin exterior structural glass
+veneer
+shall not exceed 48 inches (1220 mm).
+
+---
+
+The length or
+height
+of any section of thin exterior structural glass
+veneer
+shall not exceed 48 inches (1220 mm).
+
+---
+
+## Section 1405.12.2: Thickness
+
+1405.12.2 Thickness
+The thickness of thin exterior structural glass
+veneer
+shall be not less than 0.344 inch (8.7 mm).
+
+---
+
+The thickness of thin exterior structural glass
+veneer
+shall be not less than 0.344 inch (8.7 mm).
+
+---
+
+## Section 1405.12.3: Application
+
+1405.12.3 Application
+Thin exterior structural glass
+veneer
+shall be set only after
+backing
+is thoroughly dry and after
+application
+of an approved bond coat uniformly over the entire surface of the
+backing
+so as to effectively seal the surface. Glass shall be set in place with an approved mastic cement in sufficient quantity so that at least 50 percent of the area of each glass unit is directly bonded to the
+backing
+by mastic not less than
+1
+/
+4
+inch (6.4 mm) thick and not more than
+5
+/
+8
+inch (15.9 mm) thick. The bond coat and mastic shall be evaluated for compatibility and shall bond firmly together.
+
+---
+
+Thin exterior structural glass
+veneer
+shall be set only after
+backing
+is thoroughly dry and after
+application
+of an approved bond coat uniformly over the entire surface of the
+backing
+so as to effectively seal the surface. Glass shall be set in place with an approved mastic cement in sufficient quantity so that at least 50 percent of the area of each glass unit is directly bonded to the
+backing
+by mastic not less than
+1
+/
+4
+inch (6.4 mm) thick and not more than
+5
+/
+8
+inch (15.9 mm) thick. The bond coat and mastic shall be evaluated for compatibility and shall bond firmly together.
+
+---
+
+## Section 1405.12.4: Installation at Sidewalk Level
+
+1405.12.4 Installation at Sidewalk Level
+Where thin exterior structural glass
+veneer
+extends to a sidewalk surface, each section shall rest in an approved metal molding, and be set at least
+1
+/
+4
+inch (6.4 mm) above the highest point of the sidewalk. The space between the molding and the sidewalk shall be thoroughly caulked and made water tight.
+
+---
+
+Where thin exterior structural glass
+veneer
+extends to a sidewalk surface, each section shall rest in an approved metal molding, and be set at least
+1
+/
+4
+inch (6.4 mm) above the highest point of the sidewalk. The space between the molding and the sidewalk shall be thoroughly caulked and made water tight.
+
+---
+
+## Section 1405.12.4.1: Installation Above Sidewalk Level
+
+1405.12.4.1 Installation Above Sidewalk Level
+Where thin exterior structural glass
+veneer
+is installed above the level of the top of a
+bulkhead
+facing, or at a level more than 36 inches (914.4 mm) above the sidewalk level, the mastic cement binding shall be supplemented with approved nonferrous metal shelf angles located in the horizontal
+joints
+in every course. Such shelf angles shall be not less than 0.0478-inch (1.2 mm) thick and not less than 2 inches (50.8 mm) long and shall be spaced at approved intervals, with not less than two angles for each glass unit. Shelf angles shall be secured to the
+wall
+or
+backing
+with expansion bolts, toggle bolts or by other approved methods.
+
+---
+
+Where thin exterior structural glass
+veneer
+is installed above the level of the top of a
+bulkhead
+facing, or at a level more than 36 inches (914.4 mm) above the sidewalk level, the mastic cement binding shall be supplemented with approved nonferrous metal shelf angles located in the horizontal
+joints
+in every course. Such shelf angles shall be not less than 0.0478-inch (1.2 mm) thick and not less than 2 inches (50.8 mm) long and shall be spaced at approved intervals, with not less than two angles for each glass unit. Shelf angles shall be secured to the
+wall
+or
+backing
+with expansion bolts, toggle bolts or by other approved methods.
+
+---
+
+## Section 1405.12.5: Joints
+
+1405.12.5 Joints
+Unless otherwise specifically approved by the commissioner, abutting edges of thin exterior structural glass
+veneer
+shall be ground square. Mitered
+joints
+shall not be used except where specifically approved for wide angles.
+Joints
+shall be uniformly buttered with an approved jointing compound and horizontal
+joints
+shall be held to not less than 0.063 inch (1.6 mm) by an approved nonrigid substance or device. Where thin exterior structural glass
+veneer
+abuts nonresilient material at sides or top, expansion
+joints
+not less than
+1
+/
+4
+inch (6.4 mm) wide shall be provided.
+
+---
+
+Unless otherwise specifically approved by the commissioner, abutting edges of thin exterior structural glass
+veneer
+shall be ground square. Mitered
+joints
+shall not be used except where specifically approved for wide angles.
+Joints
+shall be uniformly buttered with an approved jointing compound and horizontal
+joints
+shall be held to not less than 0.063 inch (1.6 mm) by an approved nonrigid substance or device. Where thin exterior structural glass
+veneer
+abuts nonresilient material at sides or top, expansion
+joints
+not less than
+1
+/
+4
+inch (6.4 mm) wide shall be provided.
+
+---
+
+## Section 1405.12.6: Mechanical Fastenings
+
+1405.12.6 Mechanical Fastenings
+Thin exterior structural glass
+veneer
+installed above the level of the heads of show
+windows
+and
+veneer
+installed more than 12 feet (3657.6 mm) above sidewalk level shall, in addition to the mastic cement and shelf angles, be held in place by the use of fastenings at each vertical or horizontal edge, or at the four corners of each glass unit. Fastenings shall be secured to the
+wall
+or
+backing
+with expansion bolts, toggle bolts or by other methods. Fastenings shall be so designed as to hold the glass
+veneer
+in a vertical plane independent of the mastic cement. Shelf angles providing both support and fastenings shall be permitted.
+
+---
+
+Thin exterior structural glass
+veneer
+installed above the level of the heads of show
+windows
+and
+veneer
+installed more than 12 feet (3657.6 mm) above sidewalk level shall, in addition to the mastic cement and shelf angles, be held in place by the use of fastenings at each vertical or horizontal edge, or at the four corners of each glass unit. Fastenings shall be secured to the
+wall
+or
+backing
+with expansion bolts, toggle bolts or by other methods. Fastenings shall be so designed as to hold the glass
+veneer
+in a vertical plane independent of the mastic cement. Shelf angles providing both support and fastenings shall be permitted.
+
+---
+
+## Section 1405.12.7: Flashing
+
+1405.12.7 Flashing
+Exposed edges of thin exterior structural glass
+veneer
+shall be flashed with overlapping corrosion-resistant metal flashing or equivalent and caulked with a waterproof compound in a manner to effectively prevent the entrance of moisture between the glass
+veneer
+and the
+backing
+.
+
+---
+
+Exposed edges of thin exterior structural glass
+veneer
+shall be flashed with overlapping corrosion-resistant metal flashing or equivalent and caulked with a waterproof compound in a manner to effectively prevent the entrance of moisture between the glass
+veneer
+and the
+backing
+.
+
+---
+
+## Section 1405.13: Exterior Windows and Doors
+
+1405.13 Exterior Windows and Doors
+Windows
+and doors installed in
+exterior walls
+shall conform to the testing and
+performance
+requirements of
+Section 1709.5
+.
+UpCodes Diagram (1)
+Building products (14)
+
+---
+
+Windows
+and doors installed in
+exterior walls
+shall conform to the testing and
+performance
+requirements of
+Section 1709.5
+.
+
+---
+
+## Section 1405.13.1: Installation
+
+1405.13.1 Installation
+Windows
+and doors shall be installed in accordance with the manufacturer's instructions. Fastener size and spacing shall be provided in such instructions and shall be calculated based on maximum
+loads
+and spacing used in the tests.
+
+---
+
+Windows
+and doors shall be installed in accordance with the manufacturer's instructions. Fastener size and spacing shall be provided in such instructions and shall be calculated based on maximum
+loads
+and spacing used in the tests.
+
+---
+
+## Section 1405.13.2: Windows in Group R-2 and R-3 Occupancies
+
+1405.13.2 Windows in Group R-2 and R-3 Occupancies
+Windows
+in Group
+R-2
+and
+R-3
+occupancies shall comply with Sections
+1015.9
+and
+1015.8
+, respectively.
+
+---
+
+Windows
+in Group
+R-2
+and
+R-3
+occupancies shall comply with Sections
+1015.9
+and
+1015.8
+, respectively.
+
+---
+
+## Section 1405.14: Vinyl Siding
+
+1405.14 Vinyl Siding
+Vinyl siding
+conforming to the requirements of this section and complying with ASTM D 3679 shall be permitted on
+exterior walls
+of buildings located in areas where the
+allowable stress design
+speed
+V
+asd
+, as determined in accordance with
+Section 1609.3.1
+, does not exceed 100 miles per hour (44.7 m/s) and the
+building height
+is less than or equal to 40 feet (12 192 mm) in Exposure C. Where
+construction
+is located in areas where the
+allowable stress design
+speed
+V
+asd
+, as determined in accordance with
+Section 1609.3.1
+, exceeds 100 miles per hour (44.7 m/s), or
+building heights
+are in excess of 40 feet (12 192 mm), tests or calculations showing compliance with
+Chapter 16
+of this code shall be submitted.
+Vinyl siding
+shall be secured to the
+building
+so as to provide weather protection for the
+exterior walls
+of the
+building
+.
+
+---
+
+Vinyl siding
+conforming to the requirements of this section and complying with ASTM D 3679 shall be permitted on
+exterior walls
+of buildings located in areas where the
+allowable stress design
+speed
+V
+asd
+, as determined in accordance with
+Section 1609.3.1
+, does not exceed 100 miles per hour (44.7 m/s) and the
+building height
+is less than or equal to 40 feet (12 192 mm) in Exposure C. Where
+construction
+is located in areas where the
+allowable stress design
+speed
+V
+asd
+, as determined in accordance with
+Section 1609.3.1
+, exceeds 100 miles per hour (44.7 m/s), or
+building heights
+are in excess of 40 feet (12 192 mm), tests or calculations showing compliance with
+Chapter 16
+of this code shall be submitted.
+Vinyl siding
+shall be secured to the
+building
+so as to provide weather protection for the
+exterior walls
+of the
+building
+.
+
+---
+
+## Section 1405.14.1: Application
+
+1405.14.1 Application
+The siding shall be applied over sheathing or
+materials
+listed in
+Section 2304.6
+. Siding shall be applied to conform to the
+water-resistive barrier
+requirements in Section 1403. Siding and accessories shall be installed in accordance with the manufacturer's instructions. Unless otherwise specified in the manufacturer's instructions, nails used to fasten the siding and accessories shall have a minimum 0.313-inch (7.9 mm) head diameter and
+1
+/
+8
+-inch (3.18 mm) shank diameter. The nails shall be corrosion resistant and shall be long enough to penetrate the studs or
+nailing
+strip at least
+3
+/
+4
+inch (19.1 mm). For cold-formed steel
+light-frame construction
+, corrosion-resistant fasteners shall be used. Screw fasteners shall penetrate the cold-formed steel framing at least three exposed
+threads
+. Other fasteners shall be installed in accordance with the manufacturer's instructions. Where the siding is installed horizontally, the fastener spacing shall not exceed 16 inches (406.4 mm) horizontally and 12 inches (304.8 mm) vertically. Where the siding is installed vertically, the fastener spacing shall not exceed 12 inches (304.8 mm) horizontally and 12 inches (304.8 mm) vertically.
+
+---
+
+The siding shall be applied over sheathing or
+materials
+listed in
+Section 2304.6
+. Siding shall be applied to conform to the
+water-resistive barrier
+requirements in Section 1403. Siding and accessories shall be installed in accordance with the manufacturer's instructions. Unless otherwise specified in the manufacturer's instructions, nails used to fasten the siding and accessories shall have a minimum 0.313-inch (7.9 mm) head diameter and
+1
+/
+8
+-inch (3.18 mm) shank diameter. The nails shall be corrosion resistant and shall be long enough to penetrate the studs or
+nailing
+strip at least
+3
+/
+4
+inch (19.1 mm). For cold-formed steel
+light-frame construction
+, corrosion-resistant fasteners shall be used. Screw fasteners shall penetrate the cold-formed steel framing at least three exposed
+threads
+. Other fasteners shall be installed in accordance with the manufacturer's instructions. Where the siding is installed horizontally, the fastener spacing shall not exceed 16 inches (406.4 mm) horizontally and 12 inches (304.8 mm) vertically. Where the siding is installed vertically, the fastener spacing shall not exceed 12 inches (304.8 mm) horizontally and 12 inches (304.8 mm) vertically.
+
+---
+
+## Section 1405.15: Cement Plaster
+
+1405.15 Cement Plaster
+Cement plaster
+applied to
+exterior walls
+shall conform to the requirements specified in
+Chapter 25
+.
+UpCodes Diagram (1)
+
+---
+
+Cement plaster
+applied to
+exterior walls
+shall conform to the requirements specified in
+Chapter 25
+.
+
+---
+
+## Section 1405.16: Fiber-Cement Siding
+
+1405.16 Fiber-Cement Siding
+Fiber-cement siding
+complying with
+Section 1404.10
+shall be permitted on
+exterior walls
+of Type I, II, III, IV and
+V
+construction
+for wind pressure resistance or
+wind speed
+exposures as indicated by the manufacturer's listing and
+label
+, and the
+installation
+instructions. Where specified, the siding shall be installed over sheathing or
+materials
+listed in
+Section 2304.6
+and shall be installed to conform to the
+water-resistive barrier
+requirements in Section 1403. Siding and accessories shall be installed in accordance with the manufacturer's instructions. Unless otherwise specified in the manufacturer's instructions, nails used to fasten the siding to wood studs shall be corrosion-resistant round head smooth shank and shall be long enough to penetrate the studs at least 1 inch (25.4 mm). For cold-formed steel
+light-frame construction
+, corrosion-resistant fasteners shall be used. Screw fasteners shall penetrate the cold-formed steel framing at least three exposed full
+threads
+. Other fasteners shall be installed in accordance with the manufacturer's instructions.
+Building products (4)
+
+---
+
+Fiber-cement siding
+complying with
+Section 1404.10
+shall be permitted on
+exterior walls
+of Type I, II, III, IV and
+V
+construction
+for wind pressure resistance or
+wind speed
+exposures as indicated by the manufacturer's listing and
+label
+, and the
+installation
+instructions. Where specified, the siding shall be installed over sheathing or
+materials
+listed in
+Section 2304.6
+and shall be installed to conform to the
+water-resistive barrier
+requirements in Section 1403. Siding and accessories shall be installed in accordance with the manufacturer's instructions. Unless otherwise specified in the manufacturer's instructions, nails used to fasten the siding to wood studs shall be corrosion-resistant round head smooth shank and shall be long enough to penetrate the studs at least 1 inch (25.4 mm). For cold-formed steel
+light-frame construction
+, corrosion-resistant fasteners shall be used. Screw fasteners shall penetrate the cold-formed steel framing at least three exposed full
+threads
+. Other fasteners shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 1405.16.1: Panel Siding
+
+1405.16.1 Panel Siding
+Fiber-cement panels shall comply with the requirements of ASTM C 1186, Type A, minimum Grade II or ISO 8336, Category A, minimum Class 2. Panels shall be installed with the long dimension either parallel or perpendicular to framing. Vertical and horizontal
+joints
+shall occur over framing members and shall be protected with sealant, battens or flashing. Alternatively, vertical or horizontal
+joints
+shall be shiplap or otherwise designed to comply with
+Section 1403.2
+of this code. Panel siding shall be installed with fasteners in accordance with the manufacturer's instructions.
+
+---
+
+Fiber-cement panels shall comply with the requirements of ASTM C 1186, Type A, minimum Grade II or ISO 8336, Category A, minimum Class 2. Panels shall be installed with the long dimension either parallel or perpendicular to framing. Vertical and horizontal
+joints
+shall occur over framing members and shall be protected with sealant, battens or flashing. Alternatively, vertical or horizontal
+joints
+shall be shiplap or otherwise designed to comply with
+Section 1403.2
+of this code. Panel siding shall be installed with fasteners in accordance with the manufacturer's instructions.
+
+---
+
+## Section 1405.16.2: Lap Siding
+
+1405.16.2 Lap Siding
+Fiber-cement lap siding having a maximum width of 12 inches (304.8 mm) shall comply with the requirements of ASTM C 1186, Type A, minimum Grade II or ISO 8336, Category A, minimum Class 2. Lap siding shall be lapped a minimum of 1
+1
+/
+4
+inches (32 mm) and lap siding not having tongue-and-groove end
+joints
+shall have the ends protected with caulking, covered with an H-section
+joint
+cover, located over a strip of flashing or shall be otherwise designed to comply with
+Section 1403.2
+of this code. Lap siding courses shall be installed with the fastener heads exposed or concealed in accordance with the manufacturers' instructions.
+
+---
+
+Fiber-cement lap siding having a maximum width of 12 inches (304.8 mm) shall comply with the requirements of ASTM C 1186, Type A, minimum Grade II or ISO 8336, Category A, minimum Class 2. Lap siding shall be lapped a minimum of 1
+1
+/
+4
+inches (32 mm) and lap siding not having tongue-and-groove end
+joints
+shall have the ends protected with caulking, covered with an H-section
+joint
+cover, located over a strip of flashing or shall be otherwise designed to comply with
+Section 1403.2
+of this code. Lap siding courses shall be installed with the fastener heads exposed or concealed in accordance with the manufacturers' instructions.
+
+---
+
+## Section 1405.17: Fastening
+
+1405.17 Fastening
+Weather boarding and
+wall
+coverings shall be securely fastened with aluminum, copper, zinc, zinc-coated or other approved corrosion-resistant fasteners in accordance with the
+nailing
+schedule in Table 2304.10.1 or the manufacturer's instructions. Shingles and other weather coverings shall be attached with appropriate standard-shingle nails to furring strips securely nailed to studs, or with approved mechanically bonding nails, except where sheathing is of wood not less than 1-inch (25.4 mm)
+nominal
+thickness or of
+wood structural panels
+as specified in
+Table 2308.6.3(3)
+.
+Building products (2)
+
+---
+
+Weather boarding and
+wall
+coverings shall be securely fastened with aluminum, copper, zinc, zinc-coated or other approved corrosion-resistant fasteners in accordance with the
+nailing
+schedule in Table 2304.10.1 or the manufacturer's instructions. Shingles and other weather coverings shall be attached with appropriate standard-shingle nails to furring strips securely nailed to studs, or with approved mechanically bonding nails, except where sheathing is of wood not less than 1-inch (25.4 mm)
+nominal
+thickness or of
+wood structural panels
+as specified in
+Table 2308.6.3(3)
+.
+
+---
+
+## Section 1405.18: Polypropylene Siding
+
+1405.18 Polypropylene Siding
+Polypropylene siding
+conforming to the requirements of this section
+and complying with
+Section 1404.12
+shall be limited to
+exterior walls
+of Type VB
+construction
+located in areas where the wind speed specified in
+Chapter 16
+does not exceed 100 miles per hour (44.7 m/s) and the
+building height
+is less than or equal to 40 feet (12 192 mm) in Exposure C. Where
+construction
+is located in areas where the basic
+wind speed
+exceeds 100 miles per hour (44.7 m/s), or
+building heights
+are in excess of 40 feet (12 192 mm), tests or calculations showing compliance with
+Chapter 16
+shall be submitted.
+Polypropylene siding
+shall be installed in accordance with the
+manufacturer's instructions.
+Polypropylene siding
+shall be secured to the
+building
+so as to provide
+weather protection for the
+exterior walls
+of the
+building
+.
+
+---
+
+Polypropylene siding
+conforming to the requirements of this section
+and complying with
+Section 1404.12
+shall be limited to
+exterior walls
+of Type VB
+construction
+located in areas where the wind speed specified in
+Chapter 16
+does not exceed 100 miles per hour (44.7 m/s) and the
+building height
+is less than or equal to 40 feet (12 192 mm) in Exposure C. Where
+construction
+is located in areas where the basic
+wind speed
+exceeds 100 miles per hour (44.7 m/s), or
+building heights
+are in excess of 40 feet (12 192 mm), tests or calculations showing compliance with
+Chapter 16
+shall be submitted.
+Polypropylene siding
+shall be installed in accordance with the
+manufacturer's instructions.
+Polypropylene siding
+shall be secured to the
+building
+so as to provide
+weather protection for the
+exterior walls
+of the
+building
+.
+
+---
+
+Section BC 1406 Combustible Materials on the Exterior Side of Exterior Walls
+
+---
+
+## Section 1406.1: General
+
+1406.1 General
+Section 1406 shall apply to
+exterior wall coverings
+,
+exterior balconies
+and similar projections, bay and oriel
+windows
+,
+decks
+, porches, porticos, entranceways, and storm enclosures constructed of combustible
+materials
+. Combustible
+water-resistive barriers
+complying with Section
+1403.5.1
+shall be permitted in
+exterior wall coverings
+.
+Fireblocking
+shall be installed in accordance
+with
+Section 1406.2.3
+. Existing
+building
+retrofits utilizing combustible
+exterior wall coverings
+shall
+also comply with
+Section 1406.5
+. Combustible
+exterior wall coverings
+shall be subject to the special
+inspection
+requirements of
+Section 1705.16
+.
+
+---
+
+Section 1406 shall apply to
+exterior wall coverings
+,
+exterior balconies
+and similar projections, bay and oriel
+windows
+,
+decks
+, porches, porticos, entranceways, and storm enclosures constructed of combustible
+materials
+. Combustible
+water-resistive barriers
+complying with Section
+1403.5.1
+shall be permitted in
+exterior wall coverings
+.
+Fireblocking
+shall be installed in accordance
+with
+Section 1406.2.3
+. Existing
+building
+retrofits utilizing combustible
+exterior wall coverings
+shall
+also comply with
+Section 1406.5
+. Combustible
+exterior wall coverings
+shall be subject to the special
+inspection
+requirements of
+Section 1705.16
+.
+
+---
+
+## Section 1406.2: Combustible Exterior Wall Coverings
+
+1406.2 Combustible Exterior Wall Coverings
+Combustible
+exterior wall coverings
+, including architectural
+trim
+, shall comply with this section.
+Exceptions:
+Plastics
+complying with
+Chapter 26
+.
+Metal composite materials
+(
+MCM
+) complying with Section 1407.
+High-pressure decorative exterior-grade compact laminates
+(HPL) complying with
+Section 1409.
+
+---
+
+Combustible
+exterior wall coverings
+, including architectural
+trim
+, shall comply with this section.
+Exceptions:
+Plastics
+complying with
+Chapter 26
+.
+Metal composite materials
+(
+MCM
+) complying with Section 1407.
+High-pressure decorative exterior-grade compact laminates
+(HPL) complying with
+Section 1409.
+
+---
+
+## Section 1406.2.1: Type I, II, III and IV Construction
+
+1406.2.1 Type I, II, III and IV Construction
+In buildings of Type I, II, III and IV
+construction
+,
+exterior wall coverings
+shall be permitted to be constructed of combustible
+materials
+in accordance with
+Section 1406.2.1.1
+, subject to the following
+limitations
+:
+Combustible
+exterior wall coverings
+shall not exceed 10 percent of an
+exterior wall
+surface
+area
+on any given
+story
+. Such combustible
+exterior wall covering
+shall not be permitted on
+exterior walls
+where the
+fire separation distance
+is 5 feet (1524 mm) or less.
+Combustible
+exterior wall coverings
+shall be limited to 40 feet (12 192 mm) in
+height
+above
+grade plane
+.
+Combustible
+exterior wall coverings
+constructed of
+fire-retardant-treated wood
+complying with
+Section 2303.2
+for exterior
+installation
+shall not be limited in
+wall
+surface
+area
+where the
+fire separation distance
+is 5 feet (1524 mm) or less and shall be permitted up to 60 feet (18 288 mm) in
+height
+above
+grade plane
+, regardless of the
+fire separation distance
+.
+Wood
+veneers
+shall comply with
+Section 1405.5
+.
+Combustible
+exterior wall coverings
+shall not be permitted on buildings of Type IV
+construction
+utilizing CLT or SCL complying with
+Section 602.4
+.
+Combustible
+exterior wall coverings
+shall not be permitted at
+exterior balconies
+in accordance with
+Section 1406.3
+.
+UpCodes Diagram (1)
+
+---
+
+In buildings of Type I, II, III and IV
+construction
+,
+exterior wall coverings
+shall be permitted to be constructed of combustible
+materials
+in accordance with
+Section 1406.2.1.1
+, subject to the following
+limitations
+:
+Combustible
+exterior wall coverings
+shall not exceed 10 percent of an
+exterior wall
+surface
+area
+on any given
+story
+. Such combustible
+exterior wall covering
+shall not be permitted on
+exterior walls
+where the
+fire separation distance
+is 5 feet (1524 mm) or less.
+Combustible
+exterior wall coverings
+shall be limited to 40 feet (12 192 mm) in
+height
+above
+grade plane
+.
+Combustible
+exterior wall coverings
+constructed of
+fire-retardant-treated wood
+complying with
+Section 2303.2
+for exterior
+installation
+shall not be limited in
+wall
+surface
+area
+where the
+fire separation distance
+is 5 feet (1524 mm) or less and shall be permitted up to 60 feet (18 288 mm) in
+height
+above
+grade plane
+, regardless of the
+fire separation distance
+.
+Wood
+veneers
+shall comply with
+Section 1405.5
+.
+Combustible
+exterior wall coverings
+shall not be permitted on buildings of Type IV
+construction
+utilizing CLT or SCL complying with
+Section 602.4
+.
+Combustible
+exterior wall coverings
+shall not be permitted at
+exterior balconies
+in accordance with
+Section 1406.3
+.
+
+---
+
+## Section 1406.2.1.1: Ignition Resistance
+
+1406.2.1.1 Ignition Resistance
+Where permitted by Section 1406.2.1 of this code, combustible
+exterior wall coverings
+shall be tested in accordance with NFPA 268.
+Exceptions:
+The following
+materials
+are not required to be tested in accordance with NFPA 268. However, such
+materials
+shall comply with all
+other provisions
+of Section 1406 of this code.
+Wood or wood-based products.
+Other combustible
+materials
+covered with an exterior weather covering other than
+vinyl sidings
+included in and complying with the thickness requirements of
+Table 1405.2
+of this code.
+Aluminum having a minimum thickness of 0.019 inch (0.48 mm).
+
+---
+
+Where permitted by Section 1406.2.1 of this code, combustible
+exterior wall coverings
+shall be tested in accordance with NFPA 268.
+Exceptions:
+The following
+materials
+are not required to be tested in accordance with NFPA 268. However, such
+materials
+shall comply with all
+other provisions
+of Section 1406 of this code.
+Wood or wood-based products.
+Other combustible
+materials
+covered with an exterior weather covering other than
+vinyl sidings
+included in and complying with the thickness requirements of
+Table 1405.2
+of this code.
+Aluminum having a minimum thickness of 0.019 inch (0.48 mm).
+
+---
+
+## Section 1406.2.1.1.1: Fire Separation 5 Feet or Less
+
+1406.2.1.1.1 Fire Separation 5 Feet or Less
+Where installed on
+exterior walls
+having a
+fire separation distance
+of 5 feet (1524 mm) or less, combustible
+exterior wall coverings
+shall not exhibit sustained flaming as defined in NFPA 268.
+
+---
+
+Where installed on
+exterior walls
+having a
+fire separation distance
+of 5 feet (1524 mm) or less, combustible
+exterior wall coverings
+shall not exhibit sustained flaming as defined in NFPA 268.
+
+---
+
+## Section 1406.2.1.1.2: Fire Separation Greater Than 5 Feet
+
+1406.2.1.1.2 Fire Separation Greater Than 5 Feet
+For
+fire separation distances
+greater than 5 feet (1524 mm), any
+exterior wall covering
+shall be permitted that has been exposed to a reduced level of
+incident
+radiant heat flux in accordance with the NFPA 268 test method without exhibiting sustained flaming. The minimum
+fire separation distance
+required for the
+exterior wall covering
+shall be determined from Table 1406.2.1.1.2 of this code based on the maximum tolerable level of
+incident
+radiant heat flux that does not cause sustained flaming of the
+exterior wall covering
+.
+TABLE 1406.2.1.1.2
+MINIMUM FIRE SEPARATION FOR COMBUSTIBLE
+EXTERIOR WALL COVERINGS
+FIRE SEPARATION DISTANCE
+(feet)
+TOLERABLE LEVEL
+INCIDENT
+RADIANT HEAT ENERGY (kW/m
+2
+)
+FIRE SEPARATION DISTANCE
+(feet)
+TOLERABLE LEVEL
+INCIDENT
+RADIANT HEAT ENERGY (kW/m
+2
+)
+5
+12.5
+16
+5.9
+6
+11.8
+17
+5.5
+7
+11.0
+18
+5.2
+8
+10.3
+19
+4.9
+9
+9.6
+20
+4.6
+10
+8.9
+21
+4.4
+11
+8.3
+22
+4.1
+12
+7.7
+23
+3.9
+13
+7.2
+24
+3.7
+14
+6.7
+25
+3.5
+15
+6.3
+For SI: 1 foot = 304.8 mm, 1 Btu/H2 ×°F = 0.0057 kW/m
+2
+× K.
+
+---
+
+For
+fire separation distances
+greater than 5 feet (1524 mm), any
+exterior wall covering
+shall be permitted that has been exposed to a reduced level of
+incident
+radiant heat flux in accordance with the NFPA 268 test method without exhibiting sustained flaming. The minimum
+fire separation distance
+required for the
+exterior wall covering
+shall be determined from Table 1406.2.1.1.2 of this code based on the maximum tolerable level of
+incident
+radiant heat flux that does not cause sustained flaming of the
+exterior wall covering
+.
+TABLE 1406.2.1.1.2
+MINIMUM FIRE SEPARATION FOR COMBUSTIBLE
+EXTERIOR WALL COVERINGS
+FIRE SEPARATION DISTANCE
+(feet)
+TOLERABLE LEVEL
+INCIDENT
+RADIANT HEAT ENERGY (kW/m
+2
+)
+FIRE SEPARATION DISTANCE
+(feet)
+TOLERABLE LEVEL
+INCIDENT
+RADIANT HEAT ENERGY (kW/m
+2
+)
+5
+12.5
+16
+5.9
+6
+11.8
+17
+5.5
+7
+11.0
+18
+5.2
+8
+10.3
+19
+4.9
+9
+9.6
+20
+4.6
+10
+8.9
+21
+4.4
+11
+8.3
+22
+4.1
+12
+7.7
+23
+3.9
+13
+7.2
+24
+3.7
+14
+6.7
+25
+3.5
+15
+6.3
+For SI: 1 foot = 304.8 mm, 1 Btu/H2 ×°F = 0.0057 kW/m
+2
+× K.
+
+---
+
+## Section 1406.2.2: Location
+
+1406.2.2 Location
+Combustible
+exterior wall coverings
+located along the top of
+exterior walls
+shall be completely backed up by the
+exterior wall
+and shall not extend over or above the top of the
+exterior walls
+.
+
+---
+
+Combustible
+exterior wall coverings
+located along the top of
+exterior walls
+shall be completely backed up by the
+exterior wall
+and shall not extend over or above the top of the
+exterior walls
+.
+
+---
+
+## Section 1406.2.3: Fireblocking
+
+1406.2.3 Fireblocking
+Exterior wall coverings
+shall be fireblocked in accordance with Section
+718.2.6
+.
+UpCodes Diagrams (3)
+Building products (2)
+
+---
+
+Exterior wall coverings
+shall be fireblocked in accordance with Section
+718.2.6
+.
+
+---
+
+## Section 1406.3: Exterior Balconies and Similar Projections
+
+1406.3 Exterior Balconies and Similar Projections
+Exterior wall covering
+on
+walls
+abutting balconies, and cladding on the sides and underside of balconies,
+shall be constructed of noncombustible
+materials
+.
+Exterior walls
+abutting balconies shall be
+noncombustible up to 12 feet (3657.6 mm) above the walking surface or to the underside of the
+balcony above, whichever is less. On cantilevered balconies, the
+exterior wall
+abutting the
+balcony
+,
+plus 3 feet (914.4 mm) on each side, shall be constructed of noncombustible
+materials
+. On recessed
+and semirecessed balconies, the
+exterior walls
+abutting the balconies shall be constructed of
+noncombustible
+materials
+.
+Exception:
+Combustible
+exterior wall coverings
+shall be allowed on balconies in Type
+V
+construction
+with a
+fire separation distance
+greater than or equal to 5 feet (1524 mm).
+
+---
+
+Exterior wall covering
+on
+walls
+abutting balconies, and cladding on the sides and underside of balconies,
+shall be constructed of noncombustible
+materials
+.
+Exterior walls
+abutting balconies shall be
+noncombustible up to 12 feet (3657.6 mm) above the walking surface or to the underside of the
+balcony above, whichever is less. On cantilevered balconies, the
+exterior wall
+abutting the
+balcony
+,
+plus 3 feet (914.4 mm) on each side, shall be constructed of noncombustible
+materials
+. On recessed
+and semirecessed balconies, the
+exterior walls
+abutting the balconies shall be constructed of
+noncombustible
+materials
+.
+Exception:
+Combustible
+exterior wall coverings
+shall be allowed on balconies in Type
+V
+construction
+with a
+fire separation distance
+greater than or equal to 5 feet (1524 mm).
+
+---
+
+## Section 1406.4: Bay and Oriel Windows, Decks, Porches, Porticos, Entranceways, and Storm Enclosures
+
+1406.4 Bay and Oriel Windows, Decks, Porches, Porticos, Entranceways, and Storm Enclosures
+Bay and oriel
+windows
+,
+decks
+, porches, porticos, entranceways and storm enclosures shall conform to the type of
+construction
+required for the
+building
+to which they are attached, including required fire rating, unless otherwise modified by the requirements of this section. For the purposes of this section, such structures shall be referred to as, "appendages."
+Exception:
+Plastic
+complying with
+Chapter 26
+.
+
+---
+
+Bay and oriel
+windows
+,
+decks
+, porches, porticos, entranceways and storm enclosures shall conform to the type of
+construction
+required for the
+building
+to which they are attached, including required fire rating, unless otherwise modified by the requirements of this section. For the purposes of this section, such structures shall be referred to as, "appendages."
+Exception:
+Plastic
+complying with
+Chapter 26
+.
+
+---
+
+## Section 1406.4.1: Appendages on Type I and II Construction
+
+1406.4.1 Appendages on Type I and II Construction
+Appendages on buildings of Type I or II
+construction
+shall be constructed of noncombustible
+materials
+. However, on buildings not more than three
+stories
+or 40 feet (12 192 mm) in
+height
+, whichever is less,
+fire-retardant-treated wood
+shall be permitted.
+
+---
+
+Appendages on buildings of Type I or II
+construction
+shall be constructed of noncombustible
+materials
+. However, on buildings not more than three
+stories
+or 40 feet (12 192 mm) in
+height
+, whichever is less,
+fire-retardant-treated wood
+shall be permitted.
+
+---
+
+## Section 1406.4.2: Appendages on Type III, IV and VA Construction
+
+1406.4.2 Appendages on Type III, IV and VA Construction
+Appendages on buildings of Type III, IV and VA
+construction
+may be constructed of combustible
+materials
+, provided that all the following conditions are met:
+Such
+building
+does not exceed three
+stories
+or 40 feet (12 192 mm) in
+height
+, whichever is less.
+The main use or dominant occupancy of such
+building
+is classified in Occupancy Group
+R-2
+or
+R-3
+.
+The appendage has an exterior separation on all exposed sides of at least 15 feet (4572 mm), measured from the outermost surface of the appendage, except that appendages with exposed sides protected by minimum 1-hour fire-rated
+construction
+extending at least 36 inches (914.4 mm) above the highest combustible horizontal surface may be located up to a minimum distance of 36 inches (914.4 mm) from any property line.
+The appendage is so constructed that its removal or destruction will not reduce the structural
+stability
+or fire-resistive integrity of the
+building
+.
+The appendage has a superficial area not exceeding 150 square feet (13.9 m
+2
+) when viewed from directly above and is included in the
+area
+limitations
+of
+Chapter 5
+‡ for the entire
+building
+.
+The appendage is not higher than the sills of the second-
+story
+windows
+.
+The vertical surface area of the combustible portions of the appendage does not exceed 10 percent of the total
+wall
+area
+(
+windows
+excluded) of the
+building
+.
+For enclosed appendages, the roof of the appendage has a class A
+roof covering
+, and the soffit or ceiling covering the combustible roof framing shall have a minimum 1-hour
+fire-resistance rating
+.
+Exception:
+Appendages constructed of
+fire-retardant-treated wood
+, on buildings not exceeding 3
+stories
+or 40 feet (12 192 mm) in
+height
+, whichever is less, need not comply with Items 2 through 8.
+
+---
+
+Appendages on buildings of Type III, IV and VA
+construction
+may be constructed of combustible
+materials
+, provided that all the following conditions are met:
+Such
+building
+does not exceed three
+stories
+or 40 feet (12 192 mm) in
+height
+, whichever is less.
+The main use or dominant occupancy of such
+building
+is classified in Occupancy Group
+R-2
+or
+R-3
+.
+The appendage has an exterior separation on all exposed sides of at least 15 feet (4572 mm), measured from the outermost surface of the appendage, except that appendages with exposed sides protected by minimum 1-hour fire-rated
+construction
+extending at least 36 inches (914.4 mm) above the highest combustible horizontal surface may be located up to a minimum distance of 36 inches (914.4 mm) from any property line.
+The appendage is so constructed that its removal or destruction will not reduce the structural
+stability
+or fire-resistive integrity of the
+building
+.
+The appendage has a superficial area not exceeding 150 square feet (13.9 m
+2
+) when viewed from directly above and is included in the
+area
+limitations
+of
+Chapter 5
+‡ for the entire
+building
+.
+The appendage is not higher than the sills of the second-
+story
+windows
+.
+The vertical surface area of the combustible portions of the appendage does not exceed 10 percent of the total
+wall
+area
+(
+windows
+excluded) of the
+building
+.
+For enclosed appendages, the roof of the appendage has a class A
+roof covering
+, and the soffit or ceiling covering the combustible roof framing shall have a minimum 1-hour
+fire-resistance rating
+.
+Exception:
+Appendages constructed of
+fire-retardant-treated wood
+, on buildings not exceeding 3
+stories
+or 40 feet (12 192 mm) in
+height
+, whichever is less, need not comply with Items 2 through 8.
+
+---
+
+## Section 1406.4.3: Appendages on Type VB Construction
+
+1406.4.3 Appendages on Type VB Construction
+Appendages may be constructed of combustible
+materials
+on buildings of
+construction
+Type VB.
+
+---
+
+Appendages may be constructed of combustible
+materials
+on buildings of
+construction
+Type VB.
+
+---
+
+## Section 1406.5: Retrofit of Existing Buildings
+
+1406.5 Retrofit of Existing Buildings
+Combustible
+materials
+shall not be permitted for use at the
+outermost surface of the
+exterior wall covering
+for exterior envelope retrofits of existing
+nonsprinklered buildings over 75 feet (22 860 mm), unless the following conditions are satisfied:
+The outermost surface of the combustible
+exterior wall covering
+shall be interrupted by a
+noncombustible material at least 3 feet (914.4 mm) high between the top of one opening and
+the bottom of the opening immediately above to form a continuous band across
+building
+elevations.
+On
+walls
+without
+openings
+, a 3 feet (914.4 mm) high noncombustible band shall interrupt the
+outermost surface of the combustible
+exterior wall covering
+at least every 15 feet (4572 mm)
+vertically.
+
+---
+
+Combustible
+materials
+shall not be permitted for use at the
+outermost surface of the
+exterior wall covering
+for exterior envelope retrofits of existing
+nonsprinklered buildings over 75 feet (22 860 mm), unless the following conditions are satisfied:
+The outermost surface of the combustible
+exterior wall covering
+shall be interrupted by a
+noncombustible material at least 3 feet (914.4 mm) high between the top of one opening and
+the bottom of the opening immediately above to form a continuous band across
+building
+elevations.
+On
+walls
+without
+openings
+, a 3 feet (914.4 mm) high noncombustible band shall interrupt the
+outermost surface of the combustible
+exterior wall covering
+at least every 15 feet (4572 mm)
+vertically.
+
+---
+
+Section BC 1407 Metal Composite Materials (MCM)
+
+---
+
+## Section 1407.1: General
+
+1407.1 General
+The provisions of this section shall govern the
+materials
+,
+construction
+and quality of
+metal composite materials
+(
+MCM
+) for use as
+exterior wall coverings
+in addition to other applicable requirements of Chapters
+14
+and
+16
+.
+
+---
+
+The provisions of this section shall govern the
+materials
+,
+construction
+and quality of
+metal composite materials
+(
+MCM
+) for use as
+exterior wall coverings
+in addition to other applicable requirements of Chapters
+14
+and
+16
+.
+
+---
+
+## Section 1407.1.1: Plastic Core
+
+1407.1.1 Plastic Core
+The
+plastic
+core of the MCM shall not contain
+foam plastic insulation
+as defined in Section 202.
+
+---
+
+The
+plastic
+core of the MCM shall not contain
+foam plastic insulation
+as defined in Section 202.
+
+---
+
+## Section 1407.1.2: Prohibited Locations
+
+1407.1.2 Prohibited Locations
+The use of
+MCM
+in
+exterior wall coverings
+is subject to the following
+limitations
+:
+MCM
+is prohibited in
+exterior wall coverings
+in Type IV
+construction
+utilizing cross-laminated timer (
+CLT
+) or
+structural composite lumber
+(SCL) complying with
+Section 602.4
+.
+MCM
+is prohibited in
+exterior wall coverings
+at
+exterior balconies
+in accordance with
+Section 1406.3
+.
+
+---
+
+The use of
+MCM
+in
+exterior wall coverings
+is subject to the following
+limitations
+:
+MCM
+is prohibited in
+exterior wall coverings
+in Type IV
+construction
+utilizing cross-laminated timer (
+CLT
+) or
+structural composite lumber
+(SCL) complying with
+Section 602.4
+.
+MCM
+is prohibited in
+exterior wall coverings
+at
+exterior balconies
+in accordance with
+Section 1406.3
+.
+
+---
+
+## Section 1407.2: Exterior Wall Finish
+
+1407.2 Exterior Wall Finish
+MCM
+used as
+exterior wall
+finish or as elements of bay and oriel
+windows
+to provide cladding or weather resistance shall comply with Sections
+1407.4
+through
+1407.16
+.
+
+---
+
+MCM
+used as
+exterior wall
+finish or as elements of bay and oriel
+windows
+to provide cladding or weather resistance shall comply with Sections
+1407.4
+through
+1407.16
+.
+
+---
+
+## Section 1407.3: Architectural Trim and Embellishments
+
+1407.3 Architectural Trim and Embellishments
+MCM used as architectural
+trim
+or embellishments shall comply with Sections
+1407.7
+through
+1407.14
+.
+
+---
+
+MCM used as architectural
+trim
+or embellishments shall comply with Sections
+1407.7
+through
+1407.14
+.
+
+---
+
+## Section 1407.4: Structural Design
+
+1407.4 Structural Design
+MCM systems shall be designed and constructed to resist wind
+loads
+as required by
+Chapter 16
+for
+components and cladding
+.
+Building products (4)
+
+---
+
+MCM systems shall be designed and constructed to resist wind
+loads
+as required by
+Chapter 16
+for
+components and cladding
+.
+
+---
+
+## Section 1407.5: Approval
+
+1407.5 Approval
+Results of approved tests or an engineering analysis shall be submitted to the commissioner to verify compliance with the requirements of
+Chapter 16
+for wind
+loads
+.
+
+---
+
+Results of approved tests or an engineering analysis shall be submitted to the commissioner to verify compliance with the requirements of
+Chapter 16
+for wind
+loads
+.
+
+---
+
+## Section 1407.6: Weather Resistance
+
+1407.6 Weather Resistance
+MCM systems shall comply with Section 1403 and shall be designed and constructed to resist wind and rain in accordance with this section and the manufacturer's
+installation
+instructions.
+
+---
+
+MCM systems shall comply with Section 1403 and shall be designed and constructed to resist wind and rain in accordance with this section and the manufacturer's
+installation
+instructions.
+
+---
+
+## Section 1407.7: Durability
+
+1407.7 Durability
+MCM
+systems shall be constructed of approved
+materials
+that maintain the
+performance
+characteristics required in Section 1407 for the duration of use.
+
+---
+
+MCM
+systems shall be constructed of approved
+materials
+that maintain the
+performance
+characteristics required in Section 1407 for the duration of use.
+
+---
+
+## Section 1407.8: Fire-Resistance Rating
+
+1407.8 Fire-Resistance Rating
+Where
+MCM
+systems are used on
+exterior walls
+required to have a
+fire-resistance rating
+in accordance with Section 705, evidence shall be submitted to the commissioner that the required
+fire-resistance rating
+is maintained.
+Exception:
+MCM systems not containing
+foam plastic insulation
+, which are installed on the outer surface of a
+fire-resistance
+-rated
+exterior wall
+in a manner such that the attachments do not penetrate through the entire
+exterior wall
+assembly, shall not be required to comply with this section.
+
+---
+
+Where
+MCM
+systems are used on
+exterior walls
+required to have a
+fire-resistance rating
+in accordance with Section 705, evidence shall be submitted to the commissioner that the required
+fire-resistance rating
+is maintained.
+Exception:
+MCM systems not containing
+foam plastic insulation
+, which are installed on the outer surface of a
+fire-resistance
+-rated
+exterior wall
+in a manner such that the attachments do not penetrate through the entire
+exterior wall
+assembly, shall not be required to comply with this section.
+
+---
+
+## Section 1407.9: Surface-Burning Characteristics
+
+1407.9 Surface-Burning Characteristics
+MCM shall have a
+flame spread index
+of not more
+than
+25
+and a
+smoke-developed index
+of not more than 450 when tested as an assembly in the
+maximum thickness intended for use in accordance with ASTM E 84 or UL 723.
+
+---
+
+MCM shall have a
+flame spread index
+of not more
+than
+25
+and a
+smoke-developed index
+of not more than 450 when tested as an assembly in the
+maximum thickness intended for use in accordance with ASTM E 84 or UL 723.
+
+---
+
+## Section 1407.10: Thermal Barriers
+
+1407.10 Thermal Barriers
+MCM shall be separated from the interior of a
+building
+by an approved thermal
+barrier
+consisting of 5/8-inch (15.9 mm) Type X gypsum wallboard or equivalent thermal barrier material that will limit the average temperature rise of the unexposed surface to not more than 250°F (121°C) after 20 minutes of fire exposure in accordance with the standard time-temperature curve of ASTM E 119 or UL 263. The thermal barrier shall be installed in accordance with
+criteria
+established by testing in accordance with UL 1715, where the thermal barrier shall remain in place for 20 minutes.
+
+---
+
+MCM shall be separated from the interior of a
+building
+by an approved thermal
+barrier
+consisting of 5/8-inch (15.9 mm) Type X gypsum wallboard or equivalent thermal barrier material that will limit the average temperature rise of the unexposed surface to not more than 250°F (121°C) after 20 minutes of fire exposure in accordance with the standard time-temperature curve of ASTM E 119 or UL 263. The thermal barrier shall be installed in accordance with
+criteria
+established by testing in accordance with UL 1715, where the thermal barrier shall remain in place for 20 minutes.
+
+---
+
+## Section 1407.11: Full-Scale Tests
+
+1407.11 Full-Scale Tests
+All MCM systems shall be tested in accordance with, and comply with, the acceptance
+criteria
+of NFPA 285. Such testing shall be performed on the
+MCM
+system with the
+MCM
+in the maximum thickness intended for
+use
+, including any required
+fireblocking
+. Approved NFPA 285 tested assembly
+design
+documentation of the
+MCM
+system shall
+be included on the submitted
+construction documents
+complying with
+Section 1401.2
+of this code.
+Deviation from the NFPA 285 tested
+design
+shall be approved by the registered
+design
+professional
+and additional documentation shall be provided if requested by the department.
+
+---
+
+All MCM systems shall be tested in accordance with, and comply with, the acceptance
+criteria
+of NFPA 285. Such testing shall be performed on the
+MCM
+system with the
+MCM
+in the maximum thickness intended for
+use
+, including any required
+fireblocking
+. Approved NFPA 285 tested assembly
+design
+documentation of the
+MCM
+system shall
+be included on the submitted
+construction documents
+complying with
+Section 1401.2
+of this code.
+Deviation from the NFPA 285 tested
+design
+shall be approved by the registered
+design
+professional
+and additional documentation shall be provided if requested by the department.
+
+---
+
+## Section 1407.12: Reserved
+
+1407.12 Reserved
+
+---
+
+## Section 1407.13: Foam Plastic Insulation
+
+1407.13 Foam Plastic Insulation
+MCM systems containing
+foam plastic insulation
+shall also comply with the requirements of Section 2603.
+
+---
+
+MCM systems containing
+foam plastic insulation
+shall also comply with the requirements of Section 2603.
+
+---
+
+## Section 1407.14: Labeling
+
+1407.14 Labeling
+MCM shall be labeled in accordance with this code and Section 28-113 of the
+Administrative Code
+.
+
+---
+
+MCM shall be labeled in accordance with this code and Section 28-113 of the
+Administrative Code
+.
+
+---
+
+## Section 1407.15: Special Inspection
+
+1407.15 Special Inspection
+MCM shall be subject to
+special inspection
+in accordance with Chapter
+17
+.
+
+---
+
+MCM shall be subject to
+special inspection
+in accordance with Chapter
+17
+.
+
+---
+
+## Section 1407.16: Fireblocking
+
+1407.16 Fireblocking
+MCM
+installations
+shall be fireblocked in accordance with
+Section 718.2.6.1
+.
+
+---
+
+MCM
+installations
+shall be fireblocked in accordance with
+Section 718.2.6.1
+.
+
+---
+
+Section BC 1408 Exterior Insulation and Finish Systems (EIFS)
+
+---
+
+## Section 1408.1: General
+
+1408.1 General
+The provisions of this section shall govern the
+materials
+,
+construction
+and quality of
+exterior insulation and finish systems (EIFS)
+for use as
+exterior wall coverings
+in addition to other applicable requirements of Chapters
+7
+,
+14
+,
+16
+,
+17
+and
+26
+.
+
+---
+
+The provisions of this section shall govern the
+materials
+,
+construction
+and quality of
+exterior insulation and finish systems (EIFS)
+for use as
+exterior wall coverings
+in addition to other applicable requirements of Chapters
+7
+,
+14
+,
+16
+,
+17
+and
+26
+.
+
+---
+
+## Section 1408.1.1: Prohibited Locations
+
+1408.1.1 Prohibited Locations
+The use of EIFS containing
+foam plastic insulation
+in
+exterior wall coverings
+is subject to the following
+limitations
+:
+EIFS containing
+foam plastic insulation
+is prohibited in
+exterior wall coverings
+in Type IV
+construction
+utilizing
+cross-laminated timber
+(
+CLT
+) or
+structural composite lumber
+(SCL) complying with
+Section 602.4
+.
+EIFS containing
+foam plastic insulation
+is prohibited in
+exterior wall coverings
+at
+exterior balconies
+in accordance with
+Section 1406.3
+.
+
+---
+
+The use of EIFS containing
+foam plastic insulation
+in
+exterior wall coverings
+is subject to the following
+limitations
+:
+EIFS containing
+foam plastic insulation
+is prohibited in
+exterior wall coverings
+in Type IV
+construction
+utilizing
+cross-laminated timber
+(
+CLT
+) or
+structural composite lumber
+(SCL) complying with
+Section 602.4
+.
+EIFS containing
+foam plastic insulation
+is prohibited in
+exterior wall coverings
+at
+exterior balconies
+in accordance with
+Section 1406.3
+.
+
+---
+
+## Section 1408.2: Performance Characteristics
+
+1408.2 Performance Characteristics
+EIFS shall be constructed such that it meets the
+performance
+characteristics required in ASTM E 2568.
+
+---
+
+EIFS shall be constructed such that it meets the
+performance
+characteristics required in ASTM E 2568.
+
+---
+
+## Section 1408.3: Structural Design
+
+1408.3 Structural Design
+The underlying structural framing and substrate shall be designed and constructed to resist
+loads
+as required by
+Chapter 16
+.
+
+---
+
+The underlying structural framing and substrate shall be designed and constructed to resist
+loads
+as required by
+Chapter 16
+.
+
+---
+
+## Section 1408.4: Weather Resistance
+
+1408.4 Weather Resistance
+EIFS shall comply with Section 1403 and shall be designed and constructed to resist environmental conditions in accordance with this section, the approved
+construction
+documents and manufacturer's
+installation
+instructions.
+
+---
+
+EIFS shall comply with Section 1403 and shall be designed and constructed to resist environmental conditions in accordance with this section, the approved
+construction
+documents and manufacturer's
+installation
+instructions.
+
+---
+
+## Section 1408.4.1: EIFS With Drainage
+
+1408.4.1 EIFS With Drainage
+EIFS with
+drainage
+shall have an average minimum
+drainage
+efficiency of 90 percent when tested in accordance with requirements of ASTM E 2273 and is required on framed
+walls
+of Type
+V
+construction
+,
+residential
+Group R
+occupancies.
+
+---
+
+EIFS with
+drainage
+shall have an average minimum
+drainage
+efficiency of 90 percent when tested in accordance with requirements of ASTM E 2273 and is required on framed
+walls
+of Type
+V
+construction
+,
+residential
+Group R
+occupancies.
+
+---
+
+## Section 1408.4.1.1: Water-Resistive Barrier
+
+1408.4.1.1 Water-Resistive Barrier
+For EIFS with
+drainage
+, the
+water-resistive barrier
+shall comply with Section 1404.2 of this code or ASTM E 2570.
+
+---
+
+For EIFS with
+drainage
+, the
+water-resistive barrier
+shall comply with Section 1404.2 of this code or ASTM E 2570.
+
+---
+
+## Section 1408.5: Installation
+
+1408.5 Installation
+Installation
+of the EIFS and EIFS with
+drainage
+shall be in accordance with the EIFS manufacturer's instructions and this section.
+
+---
+
+Installation
+of the EIFS and EIFS with
+drainage
+shall be in accordance with the EIFS manufacturer's instructions and this section.
+
+---
+
+## Section 1408.6: Special Inspections
+
+1408.6 Special Inspections
+EIFS
+installations
+shall comply with the provisions of
+Chapter 17
+.
+
+---
+
+EIFS
+installations
+shall comply with the provisions of
+Chapter 17
+.
+
+---
+
+## Section 1408.7: Fireblocking
+
+1408.7 Fireblocking
+EIFS
+installations
+containing
+foam plastic insulation
+shall be fireblocked in
+accordance with
+Section 718.2.6.1
+.
+
+---
+
+EIFS
+installations
+containing
+foam plastic insulation
+shall be fireblocked in
+accordance with
+Section 718.2.6.1
+.
+
+---
+
+## Section 1408.8: Foam Plastic Insulation
+
+1408.8 Foam Plastic Insulation
+EIFS
+installations
+containing
+foam plastic insulation
+shall be tested
+and comply with the requirements of Section 2603.
+
+---
+
+EIFS
+installations
+containing
+foam plastic insulation
+shall be tested
+and comply with the requirements of Section 2603.
+
+---
+
+## Section 1408.9: Thermal Barrier
+
+1408.9 Thermal Barrier
+EIFS
+installations
+containing
+foam plastic insulation
+shall be separated
+from the interior of a
+building
+in accordance with
+Section 2603.5.2
+.
+
+---
+
+EIFS
+installations
+containing
+foam plastic insulation
+shall be separated
+from the interior of a
+building
+in accordance with
+Section 2603.5.2
+.
+
+---
+
+Section BC 1409 High-Pressure Decorative Exterior-Grade Compact Laminates (HPL)
+
+---
+
+## Section 1409.1: General
+
+1409.1 General
+The provisions of this section shall govern the
+materials
+,
+construction
+and quality
+of
+High-Pressure Decorative Exterior-Grade Compact Laminates
+(HPL) for use as
+exterior wall
+coverings in addition to other applicable requirements of Chapters
+14
+and
+16
+.
+
+---
+
+The provisions of this section shall govern the
+materials
+,
+construction
+and quality
+of
+High-Pressure Decorative Exterior-Grade Compact Laminates
+(HPL) for use as
+exterior wall
+coverings in addition to other applicable requirements of Chapters
+14
+and
+16
+.
+
+---
+
+## Section 1409.1.1: Prohibited Locations
+
+1409.1.1 Prohibited Locations
+The use of HPL in
+exterior wall coverings
+is subject to the following
+limitations
+:
+HPL is prohibited in
+exterior wall coverings
+in Type IV
+construction
+utilizing cross-laminated timer (
+CLT
+) or
+structural composite lumber
+(SCL) complying with
+Section 602.4
+.
+HPL is prohibited in
+exterior wall coverings
+at
+exterior balconies
+and shall comply with
+Section 1406.3
+.
+
+---
+
+The use of HPL in
+exterior wall coverings
+is subject to the following
+limitations
+:
+HPL is prohibited in
+exterior wall coverings
+in Type IV
+construction
+utilizing cross-laminated timer (
+CLT
+) or
+structural composite lumber
+(SCL) complying with
+Section 602.4
+.
+HPL is prohibited in
+exterior wall coverings
+at
+exterior balconies
+and shall comply with
+Section 1406.3
+.
+
+---
+
+## Section 1409.2: Exterior Wall Finish
+
+1409.2 Exterior Wall Finish
+HPL used as
+exterior wall covering
+or as elements of bay and oriel
+windows
+to provide cladding or weather resistance shall comply with Sections
+1409.4
+through
+1409.16
+.
+
+---
+
+HPL used as
+exterior wall covering
+or as elements of bay and oriel
+windows
+to provide cladding or weather resistance shall comply with Sections
+1409.4
+through
+1409.16
+.
+
+---
+
+## Section 1409.3: Architectural Trim and Embellishments
+
+1409.3 Architectural Trim and Embellishments
+HPL used as architectural
+trim
+or embellishments
+shall comply with Sections
+1409.7
+through
+1409.14
+.
+
+---
+
+HPL used as architectural
+trim
+or embellishments
+shall comply with Sections
+1409.7
+through
+1409.14
+.
+
+---
+
+## Section 1409.4: Structural Design
+
+1409.4 Structural Design
+HPL systems shall be designed and constructed to resist wind
+loads
+as
+required by
+Chapter 16
+for
+components and cladding
+.
+Building products (4)
+
+---
+
+HPL systems shall be designed and constructed to resist wind
+loads
+as
+required by
+Chapter 16
+for
+components and cladding
+.
+
+---
+
+## Section 1409.5: Approval
+
+1409.5 Approval
+Results of approved tests or an engineering analysis shall be submitted to the
+commissioner to verify compliance with the requirements of
+Chapter 16
+for wind
+loads
+.
+
+---
+
+Results of approved tests or an engineering analysis shall be submitted to the
+commissioner to verify compliance with the requirements of
+Chapter 16
+for wind
+loads
+.
+
+---
+
+## Section 1409.6: Weather Resistance
+
+1409.6 Weather Resistance
+HPL systems shall comply with Section 1403 and shall be designed and
+constructed to resist wind and rain in accordance with this section and the manufacturer's instructions.
+
+---
+
+HPL systems shall comply with Section 1403 and shall be designed and
+constructed to resist wind and rain in accordance with this section and the manufacturer's instructions.
+
+---
+
+## Section 1409.7: Durability
+
+1409.7 Durability
+HPL systems shall be constructed of approved
+materials
+that maintain the
+performance
+characteristics required in Section 1409 for the duration of use.
+
+---
+
+HPL systems shall be constructed of approved
+materials
+that maintain the
+performance
+characteristics required in Section 1409 for the duration of use.
+
+---
+
+## Section 1409.8: Fire-Resistance Rating
+
+1409.8 Fire-Resistance Rating
+Where HPL systems are used on
+exterior walls
+required to have a
+fire-resistance rating
+in accordance with Section 705, evidence shall be submitted to the commissioner
+that the required
+fire-resistance rating
+is maintained.
+Exception:
+HPL systems not containing
+foam plastic insulation
+that are installed on the outer
+surface of a
+fire-resistance
+-rated
+exterior wall
+in a manner such that the attachments do not
+penetrate through the entire
+exterior wall
+assembly shall not be required to comply with this
+section.
+
+---
+
+Where HPL systems are used on
+exterior walls
+required to have a
+fire-resistance rating
+in accordance with Section 705, evidence shall be submitted to the commissioner
+that the required
+fire-resistance rating
+is maintained.
+Exception:
+HPL systems not containing
+foam plastic insulation
+that are installed on the outer
+surface of a
+fire-resistance
+-rated
+exterior wall
+in a manner such that the attachments do not
+penetrate through the entire
+exterior wall
+assembly shall not be required to comply with this
+section.
+
+---
+
+## Section 1409.9: Surface-Burning Characteristics
+
+1409.9 Surface-Burning Characteristics
+HPL shall have a
+flame spread index
+of not more than
+25
+and a
+smoke-developed index
+of not more than 450 when tested in the minimum and maximum
+thicknesses intended for use in accordance with ASTM E 84 or UL 723.
+
+---
+
+HPL shall have a
+flame spread index
+of not more than
+25
+and a
+smoke-developed index
+of not more than 450 when tested in the minimum and maximum
+thicknesses intended for use in accordance with ASTM E 84 or UL 723.
+
+---
+
+## Section 1409.10: Thermal Barriers
+
+1409.10 Thermal Barriers
+HPL shall be separated from the interior of a
+building
+by an approved
+thermal
+barrier
+consisting of
+5
+/
+8
+-inch (15.9 mm) Type X gypsum wallboard or equivalent thermal
+barrier material that will limit the average temperature rise of the unexposed surface to not more than
+250°F (121°C) after 20 minutes of fire exposure in accordance with the standard time temperature
+curve of ASTM E 119 or UL 263. The thermal barrier shall be installed in accordance with
+criteria
+established by testing performed in accordance with UL 1715, where the thermal barrier shall remain
+in place for 20 minutes.
+
+---
+
+HPL shall be separated from the interior of a
+building
+by an approved
+thermal
+barrier
+consisting of
+5
+/
+8
+-inch (15.9 mm) Type X gypsum wallboard or equivalent thermal
+barrier material that will limit the average temperature rise of the unexposed surface to not more than
+250°F (121°C) after 20 minutes of fire exposure in accordance with the standard time temperature
+curve of ASTM E 119 or UL 263. The thermal barrier shall be installed in accordance with
+criteria
+established by testing performed in accordance with UL 1715, where the thermal barrier shall remain
+in place for 20 minutes.
+
+---
+
+## Section 1409.11: Full-Scale Tests
+
+1409.11 Full-Scale Tests
+All HPL systems shall be tested in accordance with, and comply with, the
+acceptance
+criteria
+of NFPA 285. Such testing shall be performed on the HPL system with the HPL
+in the minimum and maximum thicknesses intended for
+use
+, including any required
+fireblocking
+.
+Approved NFPA 285 tested assembly
+design
+documentation of the HPL system shall be included on
+the submitted
+construction documents
+complying with
+Section 1401.2
+of this code. Deviation from
+the NFPA 285 tested
+design
+shall be approved by the registered
+design
+professional and additional
+documentation shall be provided if requested by the department.
+
+---
+
+All HPL systems shall be tested in accordance with, and comply with, the
+acceptance
+criteria
+of NFPA 285. Such testing shall be performed on the HPL system with the HPL
+in the minimum and maximum thicknesses intended for
+use
+, including any required
+fireblocking
+.
+Approved NFPA 285 tested assembly
+design
+documentation of the HPL system shall be included on
+the submitted
+construction documents
+complying with
+Section 1401.2
+of this code. Deviation from
+the NFPA 285 tested
+design
+shall be approved by the registered
+design
+professional and additional
+documentation shall be provided if requested by the department.
+
+---
+
+## Section 1409.12: Reserved
+
+1409.12 Reserved
+
+---
+
+## Section 1409.13: Foam Plastic Insulation
+
+1409.13 Foam Plastic Insulation
+HPL systems containing
+foam plastic insulation
+shall also comply
+with the requirements of Section 2603.
+
+---
+
+HPL systems containing
+foam plastic insulation
+shall also comply
+with the requirements of Section 2603.
+
+---
+
+## Section 1409.14: Labeling
+
+1409.14 Labeling
+HPL shall be labeled in accordance with this code and Article 113 of
+title
+28
+of
+the
+Administrative Code
+.
+
+---
+
+HPL shall be labeled in accordance with this code and Article 113 of
+title
+28
+of
+the
+Administrative Code
+.
+
+---
+
+## Section 1409.15: Special Inspection
+
+1409.15 Special Inspection
+HPL shall be subject to the
+special inspection
+requirements of Chapter
+17
+.
+
+---
+
+HPL shall be subject to the
+special inspection
+requirements of Chapter
+17
+.
+
+---
+
+‡‡‡ 1409.16 Fireblocking
+HPL
+installations
+shall be fireblocked in accordance with
+Section 718.2.6.1
+.
+‡‡‡
+Chapter 14
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+HPL
+installations
+shall be fireblocked in accordance with
+Section 718.2.6.1
+.
+‡‡‡
+Chapter 14
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Section BC 1410 Plastic Composite Decking
+
+---
+
+## Section 1410.1: Plastic Composite Decking
+
+1410.1 Plastic Composite Decking
+Exterior
+deck
+boards,
+stair
+treads,
+handrails
+and guardrail
+systems constructed of
+plastic composites
+, including
+plastic lumber
+, shall comply with Section 2612.
+
+---
+
+Exterior
+deck
+boards,
+stair
+treads,
+handrails
+and guardrail
+systems constructed of
+plastic composites
+, including
+plastic lumber
+, shall comply with Section 2612.
+
+---
+

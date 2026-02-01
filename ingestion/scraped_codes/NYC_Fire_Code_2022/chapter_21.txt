@@ -1,0 +1,2183 @@
+# NYC Fire Code 2022 - Chapter 21
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+2101 General
+
+---
+
+2102 Definitions
+
+---
+
+2103 Classifications
+
+---
+
+2104 General Requirements
+
+---
+
+2105 Operating and Maintenance Requirements
+
+---
+
+2106 Spotting and Pretreating
+
+---
+
+2107 Dry Cleaning Systems
+
+---
+
+2108 Fire Protection
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Section 2101 General
+
+---
+
+## Section 2101.1: Scope
+
+2101.1 Scope
+This chapter shall govern the design, installation, operation and
+maintenance
+of
+dry cleaning facilities
+.
+
+---
+
+This chapter shall govern the design, installation, operation and
+maintenance
+of
+dry cleaning facilities
+.
+
+---
+
+## Section 2101.2: Permits
+
+2101.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 2101.3: General
+
+2101.3 General
+Dry cleaning facilities
+shall be designed, installed, operated and maintained in accordance with this chapter.
+
+---
+
+Dry cleaning facilities
+shall be designed, installed, operated and maintained in accordance with this chapter.
+
+---
+
+## Section 2101.4: Supervision
+
+2101.4 Supervision
+Dry cleaning facilities
+using Class II or III solvents in
+dry cleaning systems
+shall be under the
+general supervision
+of a
+certificate of fitness
+holder. Such
+certificate of fitness
+holder shall be an employee of the
+dry cleaning facility
+. The
+certificate of fitness
+holder shall monitor the equipment and
+facilities
+, ensure that the equipment and
+facilities
+are operated and maintained in accordance with this section, and instruct all employees who use or supervise the use of equipment in the proper operation and
+maintenance
+of such equipment.
+Exception:
+Dry cleaning facilities
+may be operated under the
+general supervision
+of a person who is not an employee of the
+dry cleaning facility
+, provided that such person:
+Holds a
+certificate of fitness
+.
+Is an authorized representative of the manufacturer of the
+dry cleaning
+equipment, and provides the
+owner
+of the
+dry cleaning facility
+with appropriate proof of such authority.
+Instructs all employees of the
+dry cleaning facility
+who use or supervise the use of the equipment in the proper operation and
+maintenance
+of the equipment.
+Personally conducts a monthly inspection of the equipment and
+facility
+to ensure that they are being operated and maintained in accordance with this section.
+Records each monthly inspection in a logbook maintained on the
+premises
+by the
+owner
+of the
+dry cleaning facility
+, by making the following entries: the date of the inspection, the name, address, and
+certificate of fitness
+number and expiration date of the person conducting the inspection and the certification that the equipment and
+facility
+are being operated and maintained in accordance with this section.
+
+---
+
+Dry cleaning facilities
+using Class II or III solvents in
+dry cleaning systems
+shall be under the
+general supervision
+of a
+certificate of fitness
+holder. Such
+certificate of fitness
+holder shall be an employee of the
+dry cleaning facility
+. The
+certificate of fitness
+holder shall monitor the equipment and
+facilities
+, ensure that the equipment and
+facilities
+are operated and maintained in accordance with this section, and instruct all employees who use or supervise the use of equipment in the proper operation and
+maintenance
+of such equipment.
+Exception:
+Dry cleaning facilities
+may be operated under the
+general supervision
+of a person who is not an employee of the
+dry cleaning facility
+, provided that such person:
+Holds a
+certificate of fitness
+.
+Is an authorized representative of the manufacturer of the
+dry cleaning
+equipment, and provides the
+owner
+of the
+dry cleaning facility
+with appropriate proof of such authority.
+Instructs all employees of the
+dry cleaning facility
+who use or supervise the use of the equipment in the proper operation and
+maintenance
+of the equipment.
+Personally conducts a monthly inspection of the equipment and
+facility
+to ensure that they are being operated and maintained in accordance with this section.
+Records each monthly inspection in a logbook maintained on the
+premises
+by the
+owner
+of the
+dry cleaning facility
+, by making the following entries: the date of the inspection, the name, address, and
+certificate of fitness
+number and expiration date of the person conducting the inspection and the certification that the equipment and
+facility
+are being operated and maintained in accordance with this section.
+
+---
+
+## Section 2101.4.1: Proof of Qualification
+
+2101.4.1 Proof of Qualification
+Photocopies of the
+certificates of fitness
+of all persons responsible for the
+supervision
+of a
+dry cleaning facility
+, and of the proof that such person is an authorized representative of the manufacturer, where applicable, shall be maintained on the
+premises
+and made available for inspection by any representative of the
+department
+.
+
+---
+
+Photocopies of the
+certificates of fitness
+of all persons responsible for the
+supervision
+of a
+dry cleaning facility
+, and of the proof that such person is an authorized representative of the manufacturer, where applicable, shall be maintained on the
+premises
+and made available for inspection by any representative of the
+department
+.
+
+---
+
+Section 2102 Definitions
+
+---
+
+## Section 2102.1: Definitions
+
+2102.1 Definitions
+The following terms shall, for the purposes of this chapter and as used
+elsewhere in this code, have the meanings set forth in
+FC202
+.
+DRY CLEANING
+.
+DRY CLEANING FACILITY
+.
+DRY CLEANING ROOM
+.
+DRY CLEANING SYSTEM
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used
+elsewhere in this code, have the meanings set forth in
+FC202
+.
+DRY CLEANING
+.
+DRY CLEANING FACILITY
+.
+DRY CLEANING ROOM
+.
+DRY CLEANING SYSTEM
+.
+
+---
+
+Section 2103 Classifications
+
+---
+
+## Section 2103.1: Dry Cleaning Solvent Classifications
+
+2103.1 Dry Cleaning Solvent Classifications
+Dry cleaning
+solvents shall be classified according to their
+flash points
+as follows:
+Class I solvents are
+flammable liquids
+having a
+flash point
+below 100°F (38°C).
+Class II solvents are
+combustible liquids
+having a
+flash point
+at or above 100°F (38°C) and below 140°F (60°C).
+Class IIIA solvents are
+combustible liquids
+having a
+flash point
+at or above 140°F (60°C) and below 200°F (93°C).
+Class IIIB solvents are
+combustible liquids
+having a
+flash point
+at or above 200°F (93°C).
+Class IV solvents are
+liquids
+that are neither flammable nor combustible.
+
+---
+
+Dry cleaning
+solvents shall be classified according to their
+flash points
+as follows:
+Class I solvents are
+flammable liquids
+having a
+flash point
+below 100°F (38°C).
+Class II solvents are
+combustible liquids
+having a
+flash point
+at or above 100°F (38°C) and below 140°F (60°C).
+Class IIIA solvents are
+combustible liquids
+having a
+flash point
+at or above 140°F (60°C) and below 200°F (93°C).
+Class IIIB solvents are
+combustible liquids
+having a
+flash point
+at or above 200°F (93°C).
+Class IV solvents are
+liquids
+that are neither flammable nor combustible.
+
+---
+
+## Section 2103.2: Classification of Dry Cleaning Systems and Facilities
+
+2103.2 Classification of Dry Cleaning Systems and Facilities
+Dry cleaning systems
+shall be classified based on the use of solvents as follows:
+Type I
+—
+systems
+using Class I solvents.
+Type II—
+systems
+using Class II solvents.
+Type III-A—
+systems
+using Class IIIA solvents.
+Type III-B—
+systems
+using Class IIIB solvents.
+Type IV—
+systems
+using Class IV solvents in which
+dry cleaning
+is not conducted by the public.
+Type V—
+systems
+using Class IV solvents in which
+dry cleaning
+is conducted by the public.
+
+---
+
+Dry cleaning systems
+shall be classified based on the use of solvents as follows:
+Type I
+—
+systems
+using Class I solvents.
+Type II—
+systems
+using Class II solvents.
+Type III-A—
+systems
+using Class IIIA solvents.
+Type III-B—
+systems
+using Class IIIB solvents.
+Type IV—
+systems
+using Class IV solvents in which
+dry cleaning
+is not conducted by the public.
+Type V—
+systems
+using Class IV solvents in which
+dry cleaning
+is conducted by the public.
+
+---
+
+## Section 2103.2.1: Multiple Solvents
+
+2103.2.1 Multiple Solvents
+Dry cleaning facilities
+using more than one class of
+dry cleaning system
+shall be classified based on the numerically lowest type of
+system
+.
+
+---
+
+Dry cleaning facilities
+using more than one class of
+dry cleaning system
+shall be classified based on the numerically lowest type of
+system
+.
+
+---
+
+## Section 2103.2.2: Spotting and Pretreating Operations
+
+2103.2.2 Spotting and Pretreating Operations
+Spotting and pretreating operations conducted in accordance with
+FC2106
+shall not affect the classification of the
+dry cleaning system
+or
+facility
+.
+
+---
+
+Spotting and pretreating operations conducted in accordance with
+FC2106
+shall not affect the classification of the
+dry cleaning system
+or
+facility
+.
+
+---
+
+## Section 2103.3: Design
+
+2103.3 Design
+Dry cleaning facilities
+shall be designed and constructed in accordance with the
+construction codes
+, including the
+Building Code
+, and located in accordance with the
+Zoning Resolution
+, including Sections 32-15(A) and 32-25(D).
+
+---
+
+Dry cleaning facilities
+shall be designed and constructed in accordance with the
+construction codes
+, including the
+Building Code
+, and located in accordance with the
+Zoning Resolution
+, including Sections 32-15(A) and 32-25(D).
+
+---
+
+Section 2104 General Requirements
+
+---
+
+## Section 2104.1: Prohibited Dry Cleaning Systems
+
+2104.1 Prohibited Dry Cleaning Systems
+It shall be unlawful to install, operate or maintain a
+Type I
+dry cleaning system
+.
+
+---
+
+It shall be unlawful to install, operate or maintain a
+Type I
+dry cleaning system
+.
+
+---
+
+## Section 2104.1.1: Allowed Use of Class I Solvents
+
+2104.1.1 Allowed Use of Class I Solvents
+Class I solvents stored, handled and used in the amounts authorized by FC2106 are allowed in
+dry cleaning facilities
+.
+
+---
+
+Class I solvents stored, handled and used in the amounts authorized by FC2106 are allowed in
+dry cleaning facilities
+.
+
+---
+
+## Section 2104.2: Building Services and Systems
+
+2104.2 Building Services and Systems
+Building services and
+systems
+shall be designed, installed, operated and maintained in accordance with this section,
+FC Chapter 6
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Building services and
+systems
+shall be designed, installed, operated and maintained in accordance with this section,
+FC Chapter 6
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2104.2.1: Ventilation
+
+2104.2.1 Ventilation
+Ventilation
+shall be provided in accordance with the
+construction codes
+, including
+Chapter 5
+of the
+Mechanical Code
+, and United States
+Department
+of Labor regulations, as set forth in 29 CFR Section 1910.1000, as applicable.
+
+---
+
+Ventilation
+shall be provided in accordance with the
+construction codes
+, including
+Chapter 5
+of the
+Mechanical Code
+, and United States
+Department
+of Labor regulations, as set forth in 29 CFR Section 1910.1000, as applicable.
+
+---
+
+## Section 2104.2.2: Heating
+
+2104.2.2 Heating
+In Type II
+dry cleaning facilities
+, heating shall be by indirect means using steam or hot water.
+
+---
+
+In Type II
+dry cleaning facilities
+, heating shall be by indirect means using steam or hot water.
+
+---
+
+## Section 2104.2.3: Electrical Wiring and Equipment
+
+2104.2.3 Electrical Wiring and Equipment
+Electrical
+wiring and equipment in
+dry cleaning rooms
+or other portions of the
+facility
+exposed to flammable vapors shall be installed in accordance with the
+Electrical Code
+.
+
+---
+
+Electrical
+wiring and equipment in
+dry cleaning rooms
+or other portions of the
+facility
+exposed to flammable vapors shall be installed in accordance with the
+Electrical Code
+.
+
+---
+
+## Section 2104.2.4: Bonding and Grounding
+
+2104.2.4 Bonding and Grounding
+Storage
+tanks
+, treatment
+tanks
+, filters, pumps, piping, ducts,
+dry cleaning
+units,
+stills
+, tumblers, drying cabinets and other
+dry cleaning
+equipment, where not inherently electrically conductive, shall be bonded together and grounded. Isolated equipment shall be grounded.
+
+---
+
+Storage
+tanks
+, treatment
+tanks
+, filters, pumps, piping, ducts,
+dry cleaning
+units,
+stills
+, tumblers, drying cabinets and other
+dry cleaning
+equipment, where not inherently electrically conductive, shall be bonded together and grounded. Isolated equipment shall be grounded.
+
+---
+
+## Section 2104.2.5: Smoking Prohibited
+
+2104.2.5 Smoking Prohibited
+It shall be unlawful to smoke in a
+dry cleaning facility
+. "NO SMOKING" signs in compliance with the requirements of
+FC310
+shall be conspicuously posted.
+
+---
+
+It shall be unlawful to smoke in a
+dry cleaning facility
+. "NO SMOKING" signs in compliance with the requirements of
+FC310
+shall be conspicuously posted.
+
+---
+
+Section 2105 Operating and Maintenance Requirements
+
+---
+
+## Section 2105.1: General
+
+2105.1 General
+Dry cleaning systems
+shall be operated and maintained in compliance with the requirements of this section, the manufacturer's specifications and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Dry cleaning systems
+shall be operated and maintained in compliance with the requirements of this section, the manufacturer's specifications and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2105.1.1: Written Instructions
+
+2105.1.1 Written Instructions
+The manufacturer's manuals for the installation, operation and
+maintenance
+of the equipment shall be maintained on the
+premises
+and made available for inspection by any representative of the
+department
+.
+
+---
+
+The manufacturer's manuals for the installation, operation and
+maintenance
+of the equipment shall be maintained on the
+premises
+and made available for inspection by any representative of the
+department
+.
+
+---
+
+## Section 2105.1.1.1: Type II, III-A, III-B and IV Systems
+
+2105.1.1.1 Type II, III-A, III-B and IV Systems
+Type II, III-A, III-B and IV
+dry cleaning systems
+shall be operated in accordance with the instructions provided by the manufacturer. The
+owner
+shall ensure that all persons operating
+dry cleaning
+equipment comply with such instructions.
+
+---
+
+Type II, III-A, III-B and IV
+dry cleaning systems
+shall be operated in accordance with the instructions provided by the manufacturer. The
+owner
+shall ensure that all persons operating
+dry cleaning
+equipment comply with such instructions.
+
+---
+
+## Section 2105.1.1.2: Type V Systems
+
+2105.1.1.2 Type V Systems
+Operating instructions for customer use of Type V
+dry cleaning systems
+shall be conspicuously posted in a location near the
+dry cleaning
+equipment. A telephone number shall be provided for emergency assistance.
+
+---
+
+Operating instructions for customer use of Type V
+dry cleaning systems
+shall be conspicuously posted in a location near the
+dry cleaning
+equipment. A telephone number shall be provided for emergency assistance.
+
+---
+
+## Section 2105.1.2: Equipment Identification
+
+2105.1.2 Equipment Identification
+The manufacturer shall permanently affix to
+dry cleaning
+equipment nameplates indicating the class of solvent for which each piece of equipment is designed. The name of the
+dry cleaning
+solvent
+approved
+for use in
+dry cleaning
+equipment shall be clearly and conspicuously marked or posted at the fill connection of the equipment.
+
+---
+
+The manufacturer shall permanently affix to
+dry cleaning
+equipment nameplates indicating the class of solvent for which each piece of equipment is designed. The name of the
+dry cleaning
+solvent
+approved
+for use in
+dry cleaning
+equipment shall be clearly and conspicuously marked or posted at the fill connection of the equipment.
+
+---
+
+## Section 2105.1.3: Prohibited Operations
+
+2105.1.3 Prohibited Operations
+It shall be unlawful to dry clean by immersion and agitation in
+open systems
+.
+
+---
+
+It shall be unlawful to dry clean by immersion and agitation in
+open systems
+.
+
+---
+
+## Section 2105.1.4: Prohibited Use of Solvent
+
+2105.1.4 Prohibited Use of Solvent
+Only solvents of a type listed for a particular piece of equipment shall be used in such equipment.
+
+---
+
+Only solvents of a type listed for a particular piece of equipment shall be used in such equipment.
+
+---
+
+## Section 2105.1.5: Equipment Maintenance and Housekeeping
+
+2105.1.5 Equipment Maintenance and Housekeeping
+Proper operating practices and
+maintenance
+shall be observed in order to prevent the leakage of solvent or the accumulation of lint. The
+handling
+of waste generated by
+dry cleaning
+operations and the
+maintenance
+of
+facilities
+shall comply with the requirements of this section.
+
+---
+
+Proper operating practices and
+maintenance
+shall be observed in order to prevent the leakage of solvent or the accumulation of lint. The
+handling
+of waste generated by
+dry cleaning
+operations and the
+maintenance
+of
+facilities
+shall comply with the requirements of this section.
+
+---
+
+## Section 2105.1.5.1: Floors
+
+2105.1.5.1 Floors
+Class I and II
+liquids
+as defined in FC202 shall not be used for cleaning floors.
+
+---
+
+Class I and II
+liquids
+as defined in FC202 shall not be used for cleaning floors.
+
+---
+
+## Section 2105.1.5.2: Filters
+
+2105.1.5.2 Filters
+Filter residue and other waste containing solvent shall be stored in covered metal
+containers
+and disposed of lawfully.
+
+---
+
+Filter residue and other waste containing solvent shall be stored in covered metal
+containers
+and disposed of lawfully.
+
+---
+
+## Section 2105.1.5.3: Lint
+
+2105.1.5.3 Lint
+Lint and other waste shall be removed from traps daily, deposited in
+approved
+waste cans and disposed of lawfully. Lint traps shall remain in place while the
+dry cleaning
+equipment is in operation.
+
+---
+
+Lint and other waste shall be removed from traps daily, deposited in
+approved
+waste cans and disposed of lawfully. Lint traps shall remain in place while the
+dry cleaning
+equipment is in operation.
+
+---
+
+## Section 2105.1.5.4: Customer Areas
+
+2105.1.5.4 Customer Areas
+In Type V
+dry cleaning systems
+, customer areas shall be kept free of
+rubbish
+and other
+combustible waste
+.
+
+---
+
+In Type V
+dry cleaning systems
+, customer areas shall be kept free of
+rubbish
+and other
+combustible waste
+.
+
+---
+
+## Section 2105.2: Type II Systems
+
+2105.2 Type II Systems
+Type II
+dry cleaning systems
+shall be operated in accordance with the following additional requirements.
+
+---
+
+Type II
+dry cleaning systems
+shall be operated in accordance with the following additional requirements.
+
+---
+
+## Section 2105.2.1: Inspection of Items
+
+2105.2.1 Inspection of Items
+Items to be dry cleaned shall be searched thoroughly, and foreign materials, including matches and metallic substances, shall be removed.
+
+---
+
+Items to be dry cleaned shall be searched thoroughly, and foreign materials, including matches and metallic substances, shall be removed.
+
+---
+
+## Section 2105.2.2: Transfer
+
+2105.2.2 Transfer
+In removing dry cleaned items from the washer, provision shall be made to minimize the dripping of solvent onto the floor. Where items are transferred from a washer to a drain tub, a nonferrous metal drip apron shall be placed so that the apron rests on the drain tub and the cylinder of the washer.
+
+---
+
+In removing dry cleaned items from the washer, provision shall be made to minimize the dripping of solvent onto the floor. Where items are transferred from a washer to a drain tub, a nonferrous metal drip apron shall be placed so that the apron rests on the drain tub and the cylinder of the washer.
+
+---
+
+## Section 2105.2.3: Ventilation
+
+2105.2.3 Ventilation
+A mechanical
+ventilation
+system
+shall be installed in
+dry cleaning rooms
+and in drying rooms in accordance with the
+construction codes
+, including the
+Mechanical Code
+. The
+ventilation
+system
+shall operate automatically when the
+dry cleaning
+equipment is in operation and shall have manual controls at an
+approved
+location.
+
+---
+
+A mechanical
+ventilation
+system
+shall be installed in
+dry cleaning rooms
+and in drying rooms in accordance with the
+construction codes
+, including the
+Mechanical Code
+. The
+ventilation
+system
+shall operate automatically when the
+dry cleaning
+equipment is in operation and shall have manual controls at an
+approved
+location.
+
+---
+
+## Section 2105.3: Type III, IV and V Systems
+
+2105.3 Type III, IV and V Systems
+Type III, IV and V
+dry cleaning systems
+shall be provided with an automatically activated exhaust
+ventilation
+system
+as required and in accordance with the
+construction codes
+, including the
+Mechanical Code
+.
+
+---
+
+Type III, IV and V
+dry cleaning systems
+shall be provided with an automatically activated exhaust
+ventilation
+system
+as required and in accordance with the
+construction codes
+, including the
+Mechanical Code
+.
+
+---
+
+## Section 2105.4: Periodic Inspection and Testing
+
+2105.4 Periodic Inspection and Testing
+All
+dry cleaning
+equipment using Class II or III solvents shall be inspected and tested on at least an annual basis. The
+owner
+of the
+dry cleaning facility
+shall remove from service any equipment that is found to be defective, and shall promptly repair such equipment or remove it from the
+premises
+. Such equipment shall not be returned to service until it has been inspected and tested. All such inspection and testing shall be performed by a person holding a
+certificate of fitness
+.
+
+---
+
+All
+dry cleaning
+equipment using Class II or III solvents shall be inspected and tested on at least an annual basis. The
+owner
+of the
+dry cleaning facility
+shall remove from service any equipment that is found to be defective, and shall promptly repair such equipment or remove it from the
+premises
+. Such equipment shall not be returned to service until it has been inspected and tested. All such inspection and testing shall be performed by a person holding a
+certificate of fitness
+.
+
+---
+
+## Section 2105.4.1: Inspection Reports
+
+2105.4.1 Inspection Reports
+The individual performing the inspection and testing of equipment shall prepare a written report identifying any defects in the condition and operation of the equipment and/or certifying that the equipment can be safely operated in accordance with this chapter. A certification that all equipment in service is in proper working order in accordance with this chapter shall be maintained on the
+premises
+for 3 years and made available for inspection by any representative of the
+department
+.
+
+---
+
+The individual performing the inspection and testing of equipment shall prepare a written report identifying any defects in the condition and operation of the equipment and/or certifying that the equipment can be safely operated in accordance with this chapter. A certification that all equipment in service is in proper working order in accordance with this chapter shall be maintained on the
+premises
+for 3 years and made available for inspection by any representative of the
+department
+.
+
+---
+
+## Section 2105.5: Filling and Emptying
+
+2105.5 Filling and Emptying
+The filling and emptying of
+dry cleaning
+equipment with Class II or III solvents shall be performed by a
+certificate of fitness
+holder. Each filling and emptying of
+dry cleaning
+equipment with a Class II or III solvent shall be recorded in a logbook. Such records shall include the date of the filling or emptying, the type and amount of
+dry cleaning
+solvent, the equipment filled or emptied, and the name and certificate number of the
+certificate of fitness
+holder who performed the filling or emptying.
+
+---
+
+The filling and emptying of
+dry cleaning
+equipment with Class II or III solvents shall be performed by a
+certificate of fitness
+holder. Each filling and emptying of
+dry cleaning
+equipment with a Class II or III solvent shall be recorded in a logbook. Such records shall include the date of the filling or emptying, the type and amount of
+dry cleaning
+solvent, the equipment filled or emptied, and the name and certificate number of the
+certificate of fitness
+holder who performed the filling or emptying.
+
+---
+
+Section 2106 Spotting and Pretreating
+
+---
+
+## Section 2106.1: General
+
+2106.1 General
+The storage,
+handling
+and use of
+dry cleaning
+solvents for spotting and pretreating operations in any
+dry cleaning facility
+shall comply with the requirements of this section, based on the classification of the solvent.
+
+---
+
+The storage,
+handling
+and use of
+dry cleaning
+solvents for spotting and pretreating operations in any
+dry cleaning facility
+shall comply with the requirements of this section, based on the classification of the solvent.
+
+---
+
+## Section 2106.2: Class I Solvents
+
+2106.2 Class I Solvents
+The maximum quantity of Class I solvents allowed at any
+dry cleaning facility
+shall be 1 gallon (4 L). Class I solvents shall be stored in
+approved
+metal
+containers
+or
+safety cans
+of not more than 2 quarts (2 L) capacity.
+
+---
+
+The maximum quantity of Class I solvents allowed at any
+dry cleaning facility
+shall be 1 gallon (4 L). Class I solvents shall be stored in
+approved
+metal
+containers
+or
+safety cans
+of not more than 2 quarts (2 L) capacity.
+
+---
+
+## Section 2106.3: Class II and III Solvents
+
+2106.3 Class II and III Solvents
+Spotting and pretreating, including scouring and brushing, shall be conducted with Class II or III solvents. The maximum quantity of Class II or III solvents allowed at any work station shall be 1 gallon (4 L). In an
+occupancy
+other than a
+Group H
+-2
+occupancy
+, the aggregate quantities of solvents shall not exceed the
+maximum allowable quantity per control area
+for use-
+open systems
+.
+
+---
+
+Spotting and pretreating, including scouring and brushing, shall be conducted with Class II or III solvents. The maximum quantity of Class II or III solvents allowed at any work station shall be 1 gallon (4 L). In an
+occupancy
+other than a
+Group H
+-2
+occupancy
+, the aggregate quantities of solvents shall not exceed the
+maximum allowable quantity per control area
+for use-
+open systems
+.
+
+---
+
+## Section 2106.3.1: Spotting Tables
+
+2106.3.1 Spotting Tables
+Scouring, brushing or spotting tables on which items are soaked in solvent shall have a
+liquid
+-tight top with a curb on all sides not less than 1 inch (25 mm) high. The top of the table shall be pitched to ensure thorough draining to a 1
+1
+/
+2
+-inch (38-mm) drain connected to an
+approved
+container
+.
+
+---
+
+Scouring, brushing or spotting tables on which items are soaked in solvent shall have a
+liquid
+-tight top with a curb on all sides not less than 1 inch (25 mm) high. The top of the table shall be pitched to ensure thorough draining to a 1
+1
+/
+2
+-inch (38-mm) drain connected to an
+approved
+container
+.
+
+---
+
+## Section 2106.3.2: Special Handling
+
+2106.3.2 Special Handling
+Items that may be damaged from being washed in the washing equipment may be manually cleaned in scrubbing tubs. Scrubbing tubs shall comply with the following requirements:
+Only Class II or III
+liquids
+shall be used.
+The total amount of solvent used in such tubs shall not exceed 3 gallons (11 L).
+Scrubbing tubs shall be secured to the floor.
+Scrubbing tubs shall be provided with permanent 1
+1
+/
+2
+-inch (38-mm) drains. Such drains shall be provided with a trap and shall be connected to an
+approved
+container
+.
+
+---
+
+Items that may be damaged from being washed in the washing equipment may be manually cleaned in scrubbing tubs. Scrubbing tubs shall comply with the following requirements:
+Only Class II or III
+liquids
+shall be used.
+The total amount of solvent used in such tubs shall not exceed 3 gallons (11 L).
+Scrubbing tubs shall be secured to the floor.
+Scrubbing tubs shall be provided with permanent 1
+1
+/
+2
+-inch (38-mm) drains. Such drains shall be provided with a trap and shall be connected to an
+approved
+container
+.
+
+---
+
+## Section 2106.3.3: Ventilation
+
+2106.3.3 Ventilation
+Scrubbing tubs, scouring, brushing or spotting operations shall be located such that solvent vapors are captured and exhausted by the ventilating
+system
+.
+
+---
+
+Scrubbing tubs, scouring, brushing or spotting operations shall be located such that solvent vapors are captured and exhausted by the ventilating
+system
+.
+
+---
+
+## Section 2106.3.4: Bonding and Grounding
+
+2106.3.4 Bonding and Grounding
+Metal scouring, brushing and spotting tables and scrubbing tubs shall be permanently and effectively bonded and grounded.
+
+---
+
+Metal scouring, brushing and spotting tables and scrubbing tubs shall be permanently and effectively bonded and grounded.
+
+---
+
+## Section 2106.4: Reserved
+
+2106.4 Reserved
+
+---
+
+## Section 2106.5: Prohibited Spotting and Pretreating Operation
+
+2106.5 Prohibited Spotting and Pretreating Operation
+It shall be unlawful to store, handle or use any Class I, Class II or Class III solvent for spotting or pretreating operations in any Type V
+dry cleaning facility
+or in connection with the use of any Type V
+dry cleaning system
+.
+
+---
+
+It shall be unlawful to store, handle or use any Class I, Class II or Class III solvent for spotting or pretreating operations in any Type V
+dry cleaning facility
+or in connection with the use of any Type V
+dry cleaning system
+.
+
+---
+
+Section 2107 Dry Cleaning Systems
+
+---
+
+## Section 2107.1: General Equipment Requirements
+
+2107.1 General Equipment Requirements
+Dry cleaning systems
+, including
+dry cleaning
+units, washing equipment,
+stills
+, drying cabinets, tumblers, and their appurtenances, including pumps, piping, valves, filters and solvent coolers, shall be designed, installed, operated and maintained in accordance with NFPA 32, the manufacturer's specifications, and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Dry cleaning systems
+, including
+dry cleaning
+units, washing equipment,
+stills
+, drying cabinets, tumblers, and their appurtenances, including pumps, piping, valves, filters and solvent coolers, shall be designed, installed, operated and maintained in accordance with NFPA 32, the manufacturer's specifications, and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2107.2: Type II Systems
+
+2107.2 Type II Systems
+Type II
+dry cleaning
+and solvent
+tank
+storage rooms shall not be located below grade or above the lowest floor level of the building and shall comply with the requirements of
+FC 2107.2.1
+through
+2107.2.3
+.
+Exception:
+Solvent storage
+tanks
+installed underground, in vaults or in special enclosures in accordance with
+FC Chapter 57
+.
+
+---
+
+Type II
+dry cleaning
+and solvent
+tank
+storage rooms shall not be located below grade or above the lowest floor level of the building and shall comply with the requirements of
+FC 2107.2.1
+through
+2107.2.3
+.
+Exception:
+Solvent storage
+tanks
+installed underground, in vaults or in special enclosures in accordance with
+FC Chapter 57
+.
+
+---
+
+## Section 2107.2.1: Firefighting Access
+
+2107.2.1 Firefighting Access
+Type II
+dry cleaning facilities
+shall be located so that access is provided and maintained from at least one side for firefighting and
+fire
+control purposes in accordance with
+FC503
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Type II
+dry cleaning facilities
+shall be located so that access is provided and maintained from at least one side for firefighting and
+fire
+control purposes in accordance with
+FC503
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2107.2.2: Means of Egress
+
+2107.2.2 Means of Egress
+Type II
+dry cleaning rooms
+shall have not less than two
+means of egress
+through doors located at opposite ends of the room, at least one of which shall lead directly to the outdoors.
+
+---
+
+Type II
+dry cleaning rooms
+shall have not less than two
+means of egress
+through doors located at opposite ends of the room, at least one of which shall lead directly to the outdoors.
+
+---
+
+## Section 2107.2.3: Spill Control and Secondary Containment
+
+2107.2.3 Spill Control and Secondary Containment
+Curbs, drains, or other provisions for spill control and
+secondary containment
+shall be provided in accordance with
+FC5004.2
+to collect solvent leakage and
+fire
+protection water and direct it to a safe location.
+
+---
+
+Curbs, drains, or other provisions for spill control and
+secondary containment
+shall be provided in accordance with
+FC5004.2
+to collect solvent leakage and
+fire
+protection water and direct it to a safe location.
+
+---
+
+## Section 2107.3: Solvent Storage Tanks
+
+2107.3 Solvent Storage Tanks
+Solvent storage
+tanks
+for Class II, IIIA and IIIB
+liquids
+shall conform to the requirements of
+FC Chapter 57
+and be located underground, or outdoors, aboveground.
+Exception:
+Indoor
+storage
+tanks
+in compliance with the requirements of NFPA 32 and FC Chapter 57.
+
+---
+
+Solvent storage
+tanks
+for Class II, IIIA and IIIB
+liquids
+shall conform to the requirements of
+FC Chapter 57
+and be located underground, or outdoors, aboveground.
+Exception:
+Indoor
+storage
+tanks
+in compliance with the requirements of NFPA 32 and FC Chapter 57.
+
+---
+
+Section 2108 Fire Protection
+
+---
+
+## Section 2108.1: General
+
+2108.1 General
+Where required by this section,
+fire
+protection devices, equipment and
+systems
+shall be designed, installed, operated and maintained in accordance with
+FC Chapter 9
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Where required by this section,
+fire
+protection devices, equipment and
+systems
+shall be designed, installed, operated and maintained in accordance with
+FC Chapter 9
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 2108.2: Fire Extinguishing Systems in Newly-Established Dry Cleaning Facilities
+
+2108.2 Fire Extinguishing Systems in Newly-Established Dry Cleaning Facilities
+Dry cleaning
+facilities
+established after the effective date of FC2108.2 shall be protected throughout by a
+sprinkler system
+, provided, however, that a heretofore lawfully-existing
+dry cleaning
+establishment in a newly-established
+facility
+may comply with the requirements of
+FC2108.3
+if
+the newly-established
+facility
+does not constitute a change in the use or
+occupancy
+of the
+premises
+,
+as determined by the
+Department of Buildings
+. The
+sprinkler system
+shall be designed and installed
+in accordance with the
+Building Code
+.
+
+---
+
+Dry cleaning
+facilities
+established after the effective date of FC2108.2 shall be protected throughout by a
+sprinkler system
+, provided, however, that a heretofore lawfully-existing
+dry cleaning
+establishment in a newly-established
+facility
+may comply with the requirements of
+FC2108.3
+if
+the newly-established
+facility
+does not constitute a change in the use or
+occupancy
+of the
+premises
+,
+as determined by the
+Department of Buildings
+. The
+sprinkler system
+shall be designed and installed
+in accordance with the
+Building Code
+.
+
+---
+
+## Section 2108.2.1: Type II Dry Cleaning Facilities
+
+2108.2.1 Type II Dry Cleaning Facilities
+Type II
+dry cleaning facilities
+shall be protected
+throughout by a
+sprinkler system
+. Type II
+dry cleaning
+units, washer-extractors and drying
+tumblers in such
+facilities
+shall additionally be protected by an
+approved
+automatic
+non-sprinkler
+fire extinguishing system
+installed and maintained in accordance with
+FC904
+.
+
+---
+
+Type II
+dry cleaning facilities
+shall be protected
+throughout by a
+sprinkler system
+. Type II
+dry cleaning
+units, washer-extractors and drying
+tumblers in such
+facilities
+shall additionally be protected by an
+approved
+automatic
+non-sprinkler
+fire extinguishing system
+installed and maintained in accordance with
+FC904
+.
+
+---
+
+## Section 2108.3: Fire Extinguishing Systems in Lawfully Existing Dry Cleaning Facilities
+
+2108.3 Fire Extinguishing Systems in Lawfully Existing Dry Cleaning Facilities
+Type III dry
+cleaning
+facilities
+lawfully existing as of the effective date of this provision (FC2108.3) shall be
+subject to the
+design and installation
+requirements set forth in
+FC 2108.3.1
+through
+2108.3.3
+, as
+applicable.
+
+---
+
+Type III dry
+cleaning
+facilities
+lawfully existing as of the effective date of this provision (FC2108.3) shall be
+subject to the
+design and installation
+requirements set forth in
+FC 2108.3.1
+through
+2108.3.3
+, as
+applicable.
+
+---
+
+## Section 2108.3.1: Fully-Sprinklered Facilities
+
+2108.3.1 Fully-Sprinklered Facilities
+A Type III
+dry cleaning facility
+protected throughout
+by a
+sprinkler system
+designed and installed in accordance with the
+Building Code
+shall
+maintain such existing
+fire protection system
+and is not subject to the
+dry cleaning system
+design requirements of
+FC2108.3.3
+.
+
+---
+
+A Type III
+dry cleaning facility
+protected throughout
+by a
+sprinkler system
+designed and installed in accordance with the
+Building Code
+shall
+maintain such existing
+fire protection system
+and is not subject to the
+dry cleaning system
+design requirements of
+FC2108.3.3
+.
+
+---
+
+## Section 2108.3.2: Partially-Sprinklered Facilities
+
+2108.3.2 Partially-Sprinklered Facilities
+A Type III
+dry cleaning facility
+in which the dry
+cleaning
+system
+is protected by one or more sprinkler heads shall maintain such existing
+fire
+protection
+system
+and is not subject to the
+dry cleaning system
+design requirements of
+FC
+2108.3.3
+. Any Type III
+dry cleaning
+equipment newly-introduced after the effective date of
+this provision shall comply with the requirements of
+FC2108.3.3
+(2). The aggregate quantity of
+Type III
+dry cleaning
+solvent stored, handled and used in the
+dry cleaning facility
+, including
+the solvent used in the
+dry cleaning system
+, shall not exceed 330 gallons (1249 L).
+
+---
+
+A Type III
+dry cleaning facility
+in which the dry
+cleaning
+system
+is protected by one or more sprinkler heads shall maintain such existing
+fire
+protection
+system
+and is not subject to the
+dry cleaning system
+design requirements of
+FC
+2108.3.3
+. Any Type III
+dry cleaning
+equipment newly-introduced after the effective date of
+this provision shall comply with the requirements of
+FC2108.3.3
+(2). The aggregate quantity of
+Type III
+dry cleaning
+solvent stored, handled and used in the
+dry cleaning facility
+, including
+the solvent used in the
+dry cleaning system
+, shall not exceed 330 gallons (1249 L).
+
+---
+
+## Section 2108.3.3: Unprotected Facilities
+
+2108.3.3 Unprotected Facilities
+A lawfully existing Type III
+dry cleaning facility
+that is not in compliance with
+FC 2108.3.1
+or
+2108.3.2
+shall, upon
+alteration
+on or after the effective date of this provision (FC
+2108.3
+), be subject to the following requirements:
+Two or more sprinkler heads designed and installed in accordance with the
+Building Code
+shall protect the
+dry cleaning system
+; and
+The
+dry cleaning system
+shall be designed and listed to accomplish one or more of the following criteria:
+Prevent oxygen concentrations from reaching 8 percent or more by volume; and/or
+Keep the temperature of the solvent at least 30°F (16.7°C) below the
+flash point
+; and/or
+Maintain the solvent vapor concentration at a level lower than 25 percent of the
+lower explosive limit
+(
+LEL
+); and/or
+Utilize equipment
+approved
+for use in Class I, Division 2 hazardous locations in accordance with the
+Electrical Code
+; and/or
+Utilize an integrated dry
+chemical
+,
+clean agent
+or water mist
+automatic
+fire
+-extinguishing
+system
+designed in accordance with
+Chapter 9
+; and
+The
+occupancy
+housing the
+dry cleaning
+establishment shall be in compliance with the
+Building Code
+and
+Mechanical Code
+. If not required and/or constructed with a 2-hour
+fire
+separation, the
+dry cleaning
+equipment shall be protected by a 1-hour
+fire
+rated enclosure provided with mechanical
+ventilation
+in accordance with the
+Mechanical Code
+.
+The aggregate quantity of Type III-A
+dry cleaning
+solvent stored, handled and used in the
+dry cleaning facility
+, including the solvent used in the
+dry cleaning system
+, shall not exceed 330 gallons (1249 L).
+The aggregate quantity of Type III-B
+dry cleaning
+solvent stored, handled and used in the
+dry cleaning facility
+, including the solvent used in the
+dry cleaning system
+, shall not exceed 660 gallons (2498 L).
+
+---
+
+A lawfully existing Type III
+dry cleaning facility
+that is not in compliance with
+FC 2108.3.1
+or
+2108.3.2
+shall, upon
+alteration
+on or after the effective date of this provision (FC
+2108.3
+), be subject to the following requirements:
+Two or more sprinkler heads designed and installed in accordance with the
+Building Code
+shall protect the
+dry cleaning system
+; and
+The
+dry cleaning system
+shall be designed and listed to accomplish one or more of the following criteria:
+Prevent oxygen concentrations from reaching 8 percent or more by volume; and/or
+Keep the temperature of the solvent at least 30°F (16.7°C) below the
+flash point
+; and/or
+Maintain the solvent vapor concentration at a level lower than 25 percent of the
+lower explosive limit
+(
+LEL
+); and/or
+Utilize equipment
+approved
+for use in Class I, Division 2 hazardous locations in accordance with the
+Electrical Code
+; and/or
+Utilize an integrated dry
+chemical
+,
+clean agent
+or water mist
+automatic
+fire
+-extinguishing
+system
+designed in accordance with
+Chapter 9
+; and
+The
+occupancy
+housing the
+dry cleaning
+establishment shall be in compliance with the
+Building Code
+and
+Mechanical Code
+. If not required and/or constructed with a 2-hour
+fire
+separation, the
+dry cleaning
+equipment shall be protected by a 1-hour
+fire
+rated enclosure provided with mechanical
+ventilation
+in accordance with the
+Mechanical Code
+.
+The aggregate quantity of Type III-A
+dry cleaning
+solvent stored, handled and used in the
+dry cleaning facility
+, including the solvent used in the
+dry cleaning system
+, shall not exceed 330 gallons (1249 L).
+The aggregate quantity of Type III-B
+dry cleaning
+solvent stored, handled and used in the
+dry cleaning facility
+, including the solvent used in the
+dry cleaning system
+, shall not exceed 660 gallons (2498 L).
+
+---
+
+## Section 2108.4: Portable Fire Extinguishers
+
+2108.4 Portable Fire Extinguishers
+Portable
+fire
+extinguishers shall be provided and maintained in accordance with this section and
+FC906
+.
+A
+minimum of two 2-A:10-B:C rated portable
+fire
+extinguishers shall be provided near the doors inside
+dry cleaning rooms
+containing Type II, Type III-A and Type III-B
+dry cleaning systems
+.
+
+---
+
+Portable
+fire
+extinguishers shall be provided and maintained in accordance with this section and
+FC906
+.
+A
+minimum of two 2-A:10-B:C rated portable
+fire
+extinguishers shall be provided near the doors inside
+dry cleaning rooms
+containing Type II, Type III-A and Type III-B
+dry cleaning systems
+.
+
+---
+

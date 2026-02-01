@@ -1,0 +1,6925 @@
+# NYC Mechanical Code 2022 - Chapter 11
+
+New York City Mechanical Code 2022
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Chapter 4 Ventilation
+
+---
+
+Chapter 5 Exhaust Systems
+
+---
+
+Chapter 6 Duct Systems
+
+---
+
+Chapter 7 Combustion, Ventilation, and Dilution Air
+
+---
+
+Chapter 8 Chimneys and Vents
+
+---
+
+Chapter 9 Specific Appliances and Equipment
+
+---
+
+Chapter 10 Boilers, Water Heaters and Pressure Vessels
+
+---
+
+Chapter 11 Refrigeration
+
+---
+
+1101 General
+
+---
+
+1102 System Requirements
+
+---
+
+1103 Refrigeration System Classification
+
+---
+
+1104 System Application Requirements
+
+---
+
+1105 Machinery Room, General Requirements
+
+---
+
+1106 Machinery Room, Special Requirements
+
+---
+
+1107 Refrigerant Piping
+
+---
+
+1108 Field Test
+
+---
+
+1109 Periodic Testing
+
+---
+
+Chapter 12 Hydronic Piping
+
+---
+
+Chapter 13 Fuel-Oil Piping and Storage
+
+---
+
+Chapter 14 Solar Systems
+
+---
+
+Chapter 15 Referenced Standards
+
+---
+
+Appendix A Chimney Connector Pass-Throughs
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Fuel Oil Storage Tank Venting Options
+
+---
+
+Chapter 11 Refrigeration
+
+---
+
+Section 1101 General
+
+---
+
+## Section 1101.1: Scope
+
+1101.1 Scope
+This chapter shall govern the
+design
+,
+installation
+, construction, alteration and
+repair
+of refrigeration systems that vaporize and liquefy a fluid during the refrigerating cycle.
+Refrigerant
+piping
+design
+and
+installation
+, including
+pressure vessels
+and
+pressure relief devices
+, shall conform to this code. Permanently installed
+refrigerant
+storage systems and other components shall be considered as part of the
+refrigeration system
+to which they are attached. This chapter shall also govern the change of
+refrigerants
+in existing
+refrigerating systems
+having a different safety group classification.
+
+---
+
+This chapter shall govern the
+design
+,
+installation
+, construction, alteration and
+repair
+of refrigeration systems that vaporize and liquefy a fluid during the refrigerating cycle.
+Refrigerant
+piping
+design
+and
+installation
+, including
+pressure vessels
+and
+pressure relief devices
+, shall conform to this code. Permanently installed
+refrigerant
+storage systems and other components shall be considered as part of the
+refrigeration system
+to which they are attached. This chapter shall also govern the change of
+refrigerants
+in existing
+refrigerating systems
+having a different safety group classification.
+
+---
+
+## Section 1101.2: Factory-Built Equipment and Appliances
+
+1101.2 Factory-Built Equipment and Appliances
+Listed and labeled
+self-contained, factory-built
+equipment
+and
+appliances
+shall be tested in accordance with UL 207, 412, 471 or 1995. Such
+equipment
+and
+appliances
+are deemed to meet the
+design
+, manufacture and factory test requirements of this code if installed in accordance with their listing and the manufacturer's instructions.
+
+---
+
+Listed and labeled
+self-contained, factory-built
+equipment
+and
+appliances
+shall be tested in accordance with UL 207, 412, 471 or 1995. Such
+equipment
+and
+appliances
+are deemed to meet the
+design
+, manufacture and factory test requirements of this code if installed in accordance with their listing and the manufacturer's instructions.
+
+---
+
+## Section 1101.3: Protection
+
+1101.3 Protection
+Any portion of a
+refrigeration system
+that is subject to physical damage shall be protected in an approved manner.
+
+---
+
+Any portion of a
+refrigeration system
+that is subject to physical damage shall be protected in an approved manner.
+
+---
+
+## Section 1101.4: Water Connection
+
+1101.4 Water Connection
+Water supply and discharge connections associated with refrigeration systems shall be made in accordance with this code and the
+New York City Plumbing Code
+.
+
+---
+
+Water supply and discharge connections associated with refrigeration systems shall be made in accordance with this code and the
+New York City Plumbing Code
+.
+
+---
+
+## Section 1101.5: Fuel-Oil and Fuel-Gas Connection
+
+1101.5 Fuel-Oil and Fuel-Gas Connection
+Refrigeration system
+devices,
+equipment
+and
+appliances
+utilizing
+fuel oil
+or
+fuel gas
+for
+combustion
+shall be installed in accordance with the applicable provisions of the
+New York City Fuel Gas Code
+and this code.
+
+---
+
+Refrigeration system
+devices,
+equipment
+and
+appliances
+utilizing
+fuel oil
+or
+fuel gas
+for
+combustion
+shall be installed in accordance with the applicable provisions of the
+New York City Fuel Gas Code
+and this code.
+
+---
+
+## Section 1101.6: General
+
+1101.6 General
+Refrigeration systems shall comply with the requirements of this code and, except as modified by this code,
+ASHRAE 15
+. Ammonia-
+refrigerating systems
+shall comply with this code and, except as modified by this code,
+ASHRAE 15
+and IIAR 2. Such systems shall be maintained in
+accordance with the
+New York City Fire Code
+.
+
+---
+
+Refrigeration systems shall comply with the requirements of this code and, except as modified by this code,
+ASHRAE 15
+. Ammonia-
+refrigerating systems
+shall comply with this code and, except as modified by this code,
+ASHRAE 15
+and IIAR 2. Such systems shall be maintained in
+accordance with the
+New York City Fire Code
+.
+
+---
+
+## Section 1101.7: Maintenance
+
+1101.7 Maintenance
+Mechanical refrigeration systems
+shall be maintained in proper operating condition, free from accumulations of oil, dirt, waste, excessive corrosion, other debris and leaks.
+
+---
+
+Mechanical refrigeration systems
+shall be maintained in proper operating condition, free from accumulations of oil, dirt, waste, excessive corrosion, other debris and leaks.
+
+---
+
+## Section 1101.8: Change in Refrigerant Type
+
+1101.8 Change in Refrigerant Type
+The type of
+refrigerant
+in refrigeration systems having a
+refrigerant
+circuit containing more than 220 pounds (99.8 kg) of Group A1 or 30 pounds (13.6 kg) of
+any other group
+refrigerant
+shall not be changed without prior notification to the commissioner and
+compliance with the applicable code provisions for the new
+refrigerant
+type. The
+refrigerant
+being
+considered shall be evaluated for suitability by an engineer. Whenever change in the type of
+refrigerant
+is to be done, consideration shall be given to the following:
+The effects of the substitute
+refrigerant
+on materials in the system;
+The possibility of overloading the
+liquid receiver
+, which shall not be more than 80 percent
+full of liquid;
+The possibility of exceeding motor rating,
+design working pressure
+, or other requirements
+that would violate any of the provisions of this code;
+The proper size of
+refrigerant
+controls
+;
+The effect of the
+operation
+and setting of safety devices;
+The possible hazards created by mixture of the original and the substituted
+refrigerant
+; and
+The effect of the classification of the
+refrigerant
+as provided.
+
+---
+
+The type of
+refrigerant
+in refrigeration systems having a
+refrigerant
+circuit containing more than 220 pounds (99.8 kg) of Group A1 or 30 pounds (13.6 kg) of
+any other group
+refrigerant
+shall not be changed without prior notification to the commissioner and
+compliance with the applicable code provisions for the new
+refrigerant
+type. The
+refrigerant
+being
+considered shall be evaluated for suitability by an engineer. Whenever change in the type of
+refrigerant
+is to be done, consideration shall be given to the following:
+The effects of the substitute
+refrigerant
+on materials in the system;
+The possibility of overloading the
+liquid receiver
+, which shall not be more than 80 percent
+full of liquid;
+The possibility of exceeding motor rating,
+design working pressure
+, or other requirements
+that would violate any of the provisions of this code;
+The proper size of
+refrigerant
+controls
+;
+The effect of the
+operation
+and setting of safety devices;
+The possible hazards created by mixture of the original and the substituted
+refrigerant
+; and
+The effect of the classification of the
+refrigerant
+as provided.
+
+---
+
+## Section 1101.9: Refrigerant Discharge
+
+1101.9 Refrigerant Discharge
+Notification of
+refrigerant
+discharge shall be provided in accordance with the
+New York City Fire Code
+.
+
+---
+
+Notification of
+refrigerant
+discharge shall be provided in accordance with the
+New York City Fire Code
+.
+
+---
+
+## Section 1101.10: Gas- And Oil-Fired Absorption Systems
+
+1101.10 Gas- And Oil-Fired Absorption Systems
+Refrigeration systems utilizing
+fuel oil
+or
+fuel gas
+for
+combustion
+shall be installed in accordance with the applicable provisions of the
+New York City Fuel Gas Code
+and this code.
+
+---
+
+Refrigeration systems utilizing
+fuel oil
+or
+fuel gas
+for
+combustion
+shall be installed in accordance with the applicable provisions of the
+New York City Fuel Gas Code
+and this code.
+
+---
+
+## Section 1101.11: Signs, Nameplates, and Operation and Emergency Shut-Down Instructions
+
+1101.11 Signs, Nameplates, and Operation and Emergency Shut-Down Instructions
+Signs, nameplates, and
+operation
+and emergency shut-down instructions for refrigeration systems shall comply with the following:
+Sections
+9.15
+, 11.2.1, 11.2.2, 11.2.4, and 11.7 of
+ASHRAE 15
+.
+Each refrigeration unit or system shall be provided with a nameplate indicating the horsepower of the prime mover or
+compressor
+and the equivalent of such horsepower in kilowatts.
+Section 1105.11
+of this code.
+
+---
+
+Signs, nameplates, and
+operation
+and emergency shut-down instructions for refrigeration systems shall comply with the following:
+Sections
+9.15
+, 11.2.1, 11.2.2, 11.2.4, and 11.7 of
+ASHRAE 15
+.
+Each refrigeration unit or system shall be provided with a nameplate indicating the horsepower of the prime mover or
+compressor
+and the equivalent of such horsepower in kilowatts.
+Section 1105.11
+of this code.
+
+---
+
+## Section 1101.12: Locking Access Port Caps
+
+1101.12 Locking Access Port Caps
+Refrigerant
+circuit
+access
+ports located outdoors shall be fitted with locking-type tamper-resistant caps requiring a special tool or key to open.
+
+---
+
+Refrigerant
+circuit
+access
+ports located outdoors shall be fitted with locking-type tamper-resistant caps requiring a special tool or key to open.
+
+---
+
+Section 1102 System Requirements
+
+---
+
+## Section 1102.1: General
+
+1102.1 General
+The system classification, allowable
+refrigerants
+, maximum quantity, enclosure requirements, location limitations, and field
+pressure
+test requirements shall be determined as follows:
+Determine the
+refrigeration system
+'s classification, in accordance with
+Section 1103.3
+.
+Determine the
+refrigerant
+classification in accordance with
+Section 1103.1
+.
+Determine the maximum allowable quantity of
+refrigerant
+in accordance with
+Section 1104
+, based on type of
+refrigerant
+, system classification and occupancy.
+Determine the system enclosure requirements in accordance with
+Section 1104
+.
+Refrigeration
+equipment
+and
+appliance
+location and
+installation
+shall be subject to the limitations of
+Chapter 3
+.
+Nonfactory-tested, field-erected
+equipment
+and
+appliances
+shall be
+pressure
+tested in accordance with
+Section 1108
+.
+
+---
+
+The system classification, allowable
+refrigerants
+, maximum quantity, enclosure requirements, location limitations, and field
+pressure
+test requirements shall be determined as follows:
+Determine the
+refrigeration system
+'s classification, in accordance with
+Section 1103.3
+.
+Determine the
+refrigerant
+classification in accordance with
+Section 1103.1
+.
+Determine the maximum allowable quantity of
+refrigerant
+in accordance with
+Section 1104
+, based on type of
+refrigerant
+, system classification and occupancy.
+Determine the system enclosure requirements in accordance with
+Section 1104
+.
+Refrigeration
+equipment
+and
+appliance
+location and
+installation
+shall be subject to the limitations of
+Chapter 3
+.
+Nonfactory-tested, field-erected
+equipment
+and
+appliances
+shall be
+pressure
+tested in accordance with
+Section 1108
+.
+
+---
+
+## Section 1102.2: Refrigerants
+
+1102.2 Refrigerants
+The
+refrigerant
+shall be that which the
+equipment
+or
+appliance
+was designed to utilize or converted to utilize.
+Refrigerants
+not identified in
+Table 1103.1
+shall be approved by the department before use.
+Refrigerants
+not identified in
+Table 1103.1
+, other than those having a Safety Group Classification of A-1 or A2L, shall also be approved by the Fire Department before use.
+
+---
+
+The
+refrigerant
+shall be that which the
+equipment
+or
+appliance
+was designed to utilize or converted to utilize.
+Refrigerants
+not identified in
+Table 1103.1
+shall be approved by the department before use.
+Refrigerants
+not identified in
+Table 1103.1
+, other than those having a Safety Group Classification of A-1 or A2L, shall also be approved by the Fire Department before use.
+
+---
+
+## Section 1102.2.1: Mixing
+
+1102.2.1 Mixing
+Refrigerants
+, including
+refrigerant
+blends, with different designations in ASHRAE 34 shall not be mixed in a system.
+Exception:
+Addition of a second
+refrigerant
+is allowed where permitted by the
+equipment
+or
+appliance
+manufacturer to improve oil return at low temperatures. The
+refrigerant
+and amount added shall be in accordance with the manufacturer's instructions.
+
+---
+
+Refrigerants
+, including
+refrigerant
+blends, with different designations in ASHRAE 34 shall not be mixed in a system.
+Exception:
+Addition of a second
+refrigerant
+is allowed where permitted by the
+equipment
+or
+appliance
+manufacturer to improve oil return at low temperatures. The
+refrigerant
+and amount added shall be in accordance with the manufacturer's instructions.
+
+---
+
+## Section 1102.2.2: Purity
+
+1102.2.2 Purity
+Refrigerants
+used in refrigeration systems shall be new, recovered or
+reclaimed refrigerants
+in accordance with
+Section 1102.2.2.1
+,
+1102.2.2.2
+or
+1102.2.2.3
+. Where required by the
+equipment
+or
+appliance
+owner, the installer shall furnish a signed declaration that the
+refrigerant
+used meets the requirements of
+Section 1102.2.2.1
+,
+1102.2.2.2
+or
+1102.2.2.3
+.
+Exception:
+The
+refrigerant
+used shall meet the purity specifications set by the manufacturer of the
+equipment
+or
+appliance
+in which such
+refrigerant
+is used where such specifications are different from that specified in Sections
+1102.2.2.1
+,
+1102.2.2.2
+and
+1102.2.2.3
+.
+
+---
+
+Refrigerants
+used in refrigeration systems shall be new, recovered or
+reclaimed refrigerants
+in accordance with
+Section 1102.2.2.1
+,
+1102.2.2.2
+or
+1102.2.2.3
+. Where required by the
+equipment
+or
+appliance
+owner, the installer shall furnish a signed declaration that the
+refrigerant
+used meets the requirements of
+Section 1102.2.2.1
+,
+1102.2.2.2
+or
+1102.2.2.3
+.
+Exception:
+The
+refrigerant
+used shall meet the purity specifications set by the manufacturer of the
+equipment
+or
+appliance
+in which such
+refrigerant
+is used where such specifications are different from that specified in Sections
+1102.2.2.1
+,
+1102.2.2.2
+and
+1102.2.2.3
+.
+
+---
+
+## Section 1102.2.2.1: New Refrigerants
+
+1102.2.2.1 New Refrigerants
+Refrigerants
+shall be of a purity level specified by the
+equipment
+or
+appliance
+manufacturer.
+
+---
+
+Refrigerants
+shall be of a purity level specified by the
+equipment
+or
+appliance
+manufacturer.
+
+---
+
+## Section 1102.2.2.2: Recovered Refrigerants
+
+1102.2.2.2 Recovered Refrigerants
+Refrigerants
+that are recovered from refrigeration and
+air-conditioning systems
+shall not be reused in other than the system from which they were recovered and in other systems of the same owner.
+Recovered refrigerants
+shall be filtered and dried before reuse.
+Recovered refrigerants
+that show clear signs of contamination shall not be reused unless reclaimed in accordance with
+Section 1102.2.2.3
+.
+
+---
+
+Refrigerants
+that are recovered from refrigeration and
+air-conditioning systems
+shall not be reused in other than the system from which they were recovered and in other systems of the same owner.
+Recovered refrigerants
+shall be filtered and dried before reuse.
+Recovered refrigerants
+that show clear signs of contamination shall not be reused unless reclaimed in accordance with
+Section 1102.2.2.3
+.
+
+---
+
+## Section 1102.2.2.3: Reclaimed Refrigerants
+
+1102.2.2.3 Reclaimed Refrigerants
+Used
+refrigerants
+shall not be reused in a different owner's
+equipment
+or
+appliances
+unless tested and found to meet the purity requirements of AHRI 700. Contaminated
+refrigerants
+shall not be used unless reclaimed and found to meet the purity requirements of AHRI 700.
+
+---
+
+Used
+refrigerants
+shall not be reused in a different owner's
+equipment
+or
+appliances
+unless tested and found to meet the purity requirements of AHRI 700. Contaminated
+refrigerants
+shall not be used unless reclaimed and found to meet the purity requirements of AHRI 700.
+
+---
+
+## Section 1102.3: Access Port Protection
+
+1102.3 Access Port Protection
+Refrigerant
+access
+ports shall be protected in accordance with
+Section 1101.12
+whenever
+refrigerant
+is added to or recovered from refrigeration or
+air-conditioning
+systems.
+
+---
+
+Refrigerant
+access
+ports shall be protected in accordance with
+Section 1101.12
+whenever
+refrigerant
+is added to or recovered from refrigeration or
+air-conditioning
+systems.
+
+---
+
+Section 1103 Refrigeration System Classification
+
+---
+
+## Section 1103.1: Refrigerant Classification
+
+1103.1 Refrigerant Classification
+Refrigerants
+shall be classified in accordance with ASHRAE 34 as listed in Table 1103.1.
+TABLE 1103.1
+REFRIGERANT
+DATA AND SAFETY CLASSIFICATIONS
+a
+RCL
+Refrigerant
+Number
+Chemical Name
+Chemical Formula/Composition
+Tolerances
+OEL
+d
+ppm v/v
+Safety
+c
+Group
+(ppm v/v)
+(g/m
+3
+)
+lb/Mcf
+Methane Series
+11
+b
+Trichlorofluoromethane
+CCl
+3
+F
+C1,000
+A1
+1,100
+6.2
+0.39
+12
+b
+Dichlorodifluoromethane
+CCl
+2
+F
+2
+1,000
+A1
+18,000
+90
+5.6
+13
+b
+Chlorotrifluoromethane
+CClF
+3
+1,000
+A1
+—
+—
+—
+13B1
+b
+Bromotrifluoromethane
+CBrF
+3
+1,000
+A1
+—
+—
+—
+14
+tetrafluoromethane
+(carbon tetrafluoride)
+CF
+4
+1,000
+A1
+110,000
+400
+25
+21
+Dichlorofluoromethane
+CHCl
+2
+F
+—
+B1
+—
+—
+—
+22
+Chlorodifluoromethane
+CHClF
+2
+1,000
+A1
+59,000
+210
+13
+23
+Trifluoromethane
+CHF
+3
+1,000
+A1
+41,000
+120
+7.3
+30
+dichloromethane (methylene chloride)
+CH
+2
+Cl
+2
+—
+B2
+—
+—
+—
+32
+difluoromethane (methylene fluoride)
+CH
+2
+F
+2
+1,000
+A2L
+36,000
+77
+4.8
+40
+chloromethane (methyl chloride)
+CH
+3
+Cl
+—
+B2
+—
+—
+—
+50
+Methane
+CH
+4
+1,000
+A3
+—
+—
+—
+Ethane Series
+113
+b
+1,1,2-trichloro-1,2,2-trifluoroethane
+CCl
+2
+FCClF
+2
+1,000
+A1
+2,600
+20
+1.2
+114
+b
+1,2-dichloro-1,1,2,2-tetrafluoroethane
+CClF
+2
+CClF
+2
+1,000
+A1
+20,000
+140
+8.7
+115
+b
+Chloropentafluoroethane
+CClF
+2
+CF
+3
+1,000
+A1
+120,000
+760
+47
+116
+Hexafluoroethane
+CF
+3
+CF
+3
+1,000
+A1
+97,000
+550
+34
+123
+2,2-dichloro-1,1,1,-trifluoroethane
+CHCl
+2
+CF
+3
+50
+B1
+9,100
+57
+3.5
+124
+2-chloro-1,1,1,2-tetrafluoroethane
+CHClFCF
+3
+1,000
+A1
+10,000
+56
+3.5
+125
+Pentafluoroethane
+CHF
+2
+CF
+3
+1,000
+A1
+75,000
+370
+23
+134
+a
+1,1,1,2-tetrafluoroethane
+CH
+2
+FCF
+3
+1,000
+A1
+50,000
+210
+13
+142
+b
+1-chloro-1, 1-difluoroethane
+CH
+3
+CClF
+2
+1,000
+A2
+20,000
+83
+5.1
+143
+a
+1,1,1-trifluoroethane
+CH
+3
+CF
+3
+1,000
+A2L
+21,000
+70
+4.5
+152
+a
+1,1-difluoroethane
+CH
+3
+CHF
+2
+1,000
+A2
+12,000
+32
+2.0
+170
+Ethane
+CH
+3
+CH
+3
+1,000
+A3
+7,000
+8.7
+0.54
+Ethers
+E170
+methoxymethane (dimethyl ether)
+CH
+3
+OCH
+3
+1,000
+A3
+8,500
+16
+1.0
+Propane
+218
+Octafluoropropane
+CF
+3
+,CF
+2
+CF
+3
+1,000
+A1
+90,000
+690
+43
+227
+ea
+1,1,1,2,3,3,3-heptafluoropropane
+CF3CHFCF
+3
+1,000
+A1
+84,000
+580
+36
+236
+fa
+1,1,1,3,3,3-hexafluoropropane
+CF
+3
+CH
+2
+CF
+3
+1,000
+A1
+55,000
+340
+21
+245
+fa
+1,1,1,3,3-pentafluoropropane
+CHF
+2
+CH
+2
+CF
+3
+300
+B1
+34,000
+190
+12
+290
+Propane
+CH
+3
+CH
+2
+CH
+3
+1,000
+A3
+5,300
+9.5
+0.56
+Cyclic Organic Compounds
+C318
+Octafluorocyclobutane
+-(CF
+2
+)
+4
+-
+1,000
+A1
+80,000
+660
+41
+Miscellaneous Organic Compounds Hydrocarbons
+600
+Butane
+CH
+3
+CH
+2
+CH
+2
+CH
+3
+1,000
+A3
+—
+—
+0.51
+600
+a
+2-methylpropane (isobutane)
+CH(CH
+3
+)
+2
+CH
+3
+1,000
+A3
+4,000
+9.6
+0.59
+601
+Pentane
+CH
+3
+CH
+2
+CH
+2
+CH
+2
+CH
+3
+600
+A3
+1,000
+2.9
+0.18
+601
+a
+2-methylbutane (isopentane)
+(CH
+3
+)
+2
+CHCH
+2
+CH
+3
+600
+A3
+1,000
+2.9
+0.18
+611
+methyl formate
+HCOOCH
+3
+100
+B2
+—
+—
+—
+Inorganic Compounds
+702
+Hydrogen
+H
+2
+—
+A3
+—
+—
+—
+704
+Helium
+He
+—
+A1
+—
+—
+—
+717
+Ammonia
+NH
+3
+25
+B2L
+320
+0.22
+0.014
+718
+Water
+H
+2
+O
+—
+A1
+—
+—
+—
+720
+Neon
+Ne
+—
+A1
+—
+—
+—
+728
+Nitrogen
+N
+2
+—
+A1
+—
+—
+—
+740
+Argon
+Ar
+—
+A1
+—
+—
+—
+744
+carbon dioxide
+CO
+2
+5,000
+A1
+40,000
+72
+4.5
+764
+sulfur dioxide
+SO
+2
+—
+B1
+—
+—
+—
+Unsaturated Organic Compounds
+1150
+ethene (ethylene)
+CH
+2
+= CH
+2
+200
+A3
+—
+—
+—
+1234yf
+2,3,3,3-tetrafluoro-1-propene
+CF
+3
+CF = CH
+2
+500
+A2L
+16,000
+75
+4.7
+1234ze(E)
+trans-1,3,3,3-tetrafluoro-1-propene
+CF
+3
+CH = CHF
+800
+A2L
+16,000
+75
+4.7
+1270
+propene (propylene)
+CH
+3
+CH = CH
+2
+500
+A3
+1,000
+1.7
+0.1
+Zeotropes (
+Refrigerant
+Blends)
+400 (50%/50%)
+b
+R-12/114 (50.0/50.0)
+1,000
+A1
+28,000
+160
+10
+400 (60%/40%)
+b
+R-12/114 (60.0/40.0)
+1,000
+A1
+30,000
+170
+11
+401A
+R-22/152a/124 (53.0/13.0/34.0)
+(±2.0/+0.5, - 1.5/±1.0)
+1,000
+A1
+27,000
+110
+6.6
+401B
+R-22,/152a/124 (61.0/11.0/28.0)
+(±2.0/+0.5, - 1.5/±1.0)
+1,000
+A1
+30,000
+120
+7.2
+401C
+R-22,/152a/124 (33.0/15.0/52.0)
+(±2.0/+0.5, - 1.5/±1.0)
+1,000
+A1
+20,000
+84
+5.2
+402A
+R-125/290/22 (60.0/2.0/38.0)
+(±2.0/+0.1, - 1.0/±2.0)
+1,000
+A1
+33,000
+140
+8.5
+402B
+R-125/290/22 (38.0/2.0/60.0)
+(±2.0/+0.1, - 1.0/±2.0)
+1,000
+A1
+63,000
+240
+15
+403A
+R-290/22/218 (5.0/75.0/20.0)
+(+.2, -2.0/±2.0/±2.0)
+1,000
+A2
+33,000
+120
+7.6
+403B
+R-290/22/218 (5.0/56.0/39.0)
+(+.2, -2.0/±2.0/±2.0)
+1,000
+A1
+70,000
+290
+18
+404A
+R-125/143a/134a (44.0/52.0/4.0)
+(±2.0/±1.0/±2.0)
+1,000
+A1
+130,000
+500
+31
+406A
+R-22/600a/142b (55.0/4.0/41.0)
+(±2.0/±1.0/±1.0)
+1,000
+A2
+21,000
+25
+4.7
+407A
+R-32/125/134a (20.0/40.0/40.0)
+(±2.0/±2.0/±2.0)
+1,000
+A1
+83,000
+300
+19
+407B
+R-32/125/134a (10.0/70.0/20.0)
+(±2.0/±2.0/±2.0)
+1,000
+A1
+79,000
+330
+21
+407C
+R-32/125/134a (23.0/25.0/52.0)
+(±2.0/±2.0/±2.0)
+1,000
+A1
+81,000
+290
+18
+407D
+R-32/125/134a (15.0/15.0/70.0)
+(±2.0/±2.0/±2.0)
+1,000
+A1
+68,000
+250
+16
+407E
+R-32/125/134a (25.0/15.0/60.0)
+(±2.0/±2.0/±2.0)
+1,000
+A1
+80,000
+280
+17
+407F
+R-32/125/134a (30.0/30.0/40.0)
+(±2.0/±2.0/±2.0)
+1,000
+A1
+95,000
+320
+20
+408A
+R-125/143a/22 (7.0/46.0/47.0)
+(±2.0/±1.0/±2.0)
+1,000
+A1
+95,000
+110
+21
+409A
+R-22/124/142b (60.0/25.0/15.0)
+(±2.0/±2.0/±1.0)
+1,000
+A1
+29,000
+120
+7.1
+409B
+R-22/124/142b (65.0/25.0/10.0)
+(±2.0/±2.0/±1.0)
+1,000
+A1
+30,000
+390
+7.3
+410A
+R-32/125 (50.0/50.0)
+(+0.5, -1.5/+1.5, -0.5)
+1,000
+A1
+140,000
+420
+26
+410B
+R-32/125 (45.0/55.0)
+(±1.0/±1.0)
+1,000
+A1
+140,000
+430
+27
+411A
+R-1270/22/152a (1.5/87.5/11.0)
+(+0.0, -1.0/+2.0,
+-0.0/+0.0, -1.0)
+990
+A2
+14,000
+46
+2.9
+411B
+R-1270/22/152a (3.0/94.0/3.0)
+(+0.0, -1.0/+2.0,
+-0.0/+0.0, -1.0)
+980
+A2
+13,000
+45
+2.8
+412A
+R-22/218/142b (70.0/5.0/25.0)
+(±2.0/±2.0/±1.0)
+1,000
+A2
+22,000
+82
+5.1
+413A
+R-218/134a/600a (9.0/88.0/3.0)
+±1.0/±2.0/+0.0,-1.0)
+1,000
+A2
+22,000
+95
+5.8
+414A
+R-22/124/600a/142b (51.0/28.5/4.0/16.5)
+(±2.0/±2.0/±0.5 /
++0.5, -1.0)
+1,000
+A1
+26,000
+100
+6.4
+414B
+R-22/124/600a/142b (50.0/39.0/1.5/9.5)
+(±2.0/±2.0/±0.5 /
++0.5, -1.0)
+1,000
+A1
+23,000
+95
+6.0
+415A
+R-22/152a (82.0/18.0)
+(±1.0/±1.0)
+1,000
+A2
+57,000
+190
+12
+415B
+R-22/152a (25.0/75.0)
+(±1.0/±1.0)
+1,000
+A2
+52,000
+120
+9.3
+416A
+R-134a/124/600 (59.0/39.5/1.5)
+(+0.5, -1.0/+1.0,
+-0.5/+1.0, -0.2)
+1,000
+A1
+14,000
+62
+3.9
+417A
+R-125/134a/600 (46.6/50.0/3.4)
+(±1.1/±1.0/+0.1,-0.4)
+1,000
+A1
+13,000
+56
+3.5
+417B
+R-125/134a/600 (79.0/18.3/2.7)
+(±1.0/±1.0/+0.1,-0.5)
+1,000
+A1
+15,000
+70
+4.3
+418A
+R-290/22/152a (1.5/96.0/2.5
+(±0.5/±1.0/±0.5)
+1,000
+A2
+59,000
+200
+13
+419A
+R-125/134a/E170 (77.0/19.0/4.0)
+(1.0/1.0/1.0)
+1,000
+A2
+70,000
+310
+19
+420A
+R-134a/142b (88.0/12.0)
+(+1.0,-0.0/+0.0,-1.0)
+1,000
+A1
+45,000
+190
+12
+421A
+R-125/134a (58.0/42.0)
+(±1.0/±1.0)
+1,000
+A1
+61,000
+280
+17
+421B
+R-125/134a (85.0/15.0)
+(±1.0/±1.0)
+1,000
+A1
+69,000
+330
+21
+422A
+R-125/134a/600a (55.0/42.0/3.0)
+(±1.0/±1.0/+0.1,-0.4)
+1,000
+A1
+63,000
+290
+18
+422B
+R-125/134a/600a (82.0/15.0/3.0)
+(±1.0/±1.0/+0.1,-0.5)
+1,000
+A1
+56,000
+250
+16
+422C
+R-125/134a/600a (82.0/15.0/3.0)
+(±1.0/±1.0/+0.1,-0.5)
+1,000
+A1
+62,000
+290
+18
+422D
+R-125/134a/600a (65.1/31.5/3.4)
+(+0.9,-1.1/±1.0/
++0.1,-0.4)
+1,000
+A1
+58,000
+260
+16
+423A
+R-134a/227ea (52.5/47.5)
+(±1.0/±1.0)
+1,000
+A1
+59,000
+310
+19
+424A
+R-125/134a/600a/600/601a (50.5/47.0/0.9/1.0/0.6)
+(±1.0/±1.0/+0.1,-0.2/
++0.1, +0.2/+0.1,-0.2)
+970
+A1
+23,000
+100
+6.2
+425A
+R-32/134a/227ea (18.5/69.5/12.0)
+(±0.5/±0.5/±0.5)
+1,000
+A1
+72,000
+260
+16
+426A
+R-125/134a/600/601a (5.1/93.0/1.3/0.6)
+(±1.0/±1.0/+0.1,-0.2/
++0.1, -0.2)
+990
+A1
+20,000
+83
+5.2
+427A
+R-32/125/143a/134a (15.0/25.0/10.0/50.0)
+(±2.0/±2.0/±2.0/±2.0)
+1,000
+A1
+79,000
+290
+18
+428A
+R-125/143a/290/600a (77.5/20.0/0.6/1.9)
+(±1.0/±1.0/+0.1,-0.2/
++0.1, -0.2)
+1,000
+A1
+83,000
+370
+23
+429A
+R-E170/152a/600a (60.0/10.0/30.0)
+(±1.0/±1.0/±1.0)
+1,000
+A3
+6,300
+13
+0.81
+430A
+R-152a/600a (76.0/24.0)
+(±1.0/±1.0)
+1,000
+A3
+8,000
+21
+1.3
+431A
+R-290/152a (71.0/29.0)
+(±1.0/±1.0)
+1,000
+A3
+5,500
+11
+0.69
+432A
+R-1270/E170 (80.0/20.0)
+(±1.0/±1.0)
+710
+A3
+1,200
+2.1
+0.13
+433A
+R-1270/290 (30.0/70.0)
+(±1.0/±1.0)
+880
+A3
+3,100
+5.5
+0.34
+433B
+R-1270/290 (5.0/95.0)
+(±1.0/±1.0)
+950
+A3
+4,500
+8.1
+0.51
+433C
+R-1270/290 (25.0/75.0)
+(±1.0/±1.0)
+790
+A3
+3,600
+6.6
+0.41
+434A
+R-125/143a/134a/600a (63.2/18.0/16.0/2.8)
+(±1.0/±1.0 ±1.0/+0.1,-0.2)
+1,000
+A1
+73,000
+320
+20
+435A
+R-E170/152a (80.0/20.0)
+(±1.0/±1.0)
+1,000
+A3
+8,500
+17
+1.1
+436A
+R-290/600a (56.0/44.0)
+(±1.0/±1.0)
+1,000
+A3
+4,000
+8.1
+0.5
+436B
+R-290/600a (52.0/48.0)
+(±1.0/±1.0)
+1,000
+A3
+4,000
+8.1
+0.5
+437A
+R-125/134a/600/601 (19.5/78.5/1.4/0.6)
+(+0.5,-1.8/+1.5,-0.7/
++0.1,-0.2/+0.1,-0.2)
+990
+A1
+19,000
+81
+5.0
+438A
+R-32/125/134a/600/601
+a
+(8.5/45.0/44.2/1.7/0.6)
+(+0.5,-1.5/±1.5/±1.5/
++0.1,-0.2/+0.1,-0.2)
+990
+A1
+20,000
+79
+4.9
+439A
+R-32/125/600a (50.0/47.0/3.0)
+(±1.0/±1.0/±0.5)
+990
+A2
+26,000
+76
+4.7
+440A
+R-290/134a/152a (0.6/1.6/97.8)
+(±1.0/±0.6/±0.5)
+1,000
+A2
+12,000
+31
+1.9
+441A
+R-179/290/600a/600 (3.1/54.8/6.0/36.1)
+(±0.3/±2.0/±0.6/±2.0)
+1,000
+A3
+3,200
+6.3
+0.39
+Azeotropes (
+Refrigerant
+Blends)
+500
+b
+R-12/152a (73.8/26.2)
+—
+1,000
+A1
+30,000
+120
+7.6
+501
+b
+R-22/12 (75.0/25.0)
+—
+1,000
+A1
+54,000
+210
+13
+502
+b
+R-22/115 (48.8/51.2)
+—
+1,000
+A1
+73,000
+330
+21
+504
+R-32/115 (48.2/51.8)
+—
+1,000
+140,000
+450
+28
+507A
+R-125/143a (50.0/50.0)
+—
+1,000
+A1
+130,000
+520
+32
+508A
+R-23/116 (39.0/61.0)
+—
+1,000
+A1
+55,000
+220
+14
+508B
+R-23/116 (46.0/54.0)
+—
+1,000
+A1
+52,000
+200
+13
+509A
+R-22/218 (44.0/56.0)
+—
+1,000
+A1
+75,000
+390
+24
+510A
+R-E170/600a (88.0/12.0)
+(±0.5/±0.5)
+1,000
+A3
+7,300
+14
+0.87
+511A
+R-290/E170 (95.0, 5.0)
+(±1.0/±1.0)
+1,000
+A3
+5,300
+9.5
+0.59
+For SI: 1 pound = 0.454 kg, 1 cubic foot = 0.0283 m
+3
+.
+Data based on ASHRAE 34 including Addenda a through o. For more complete data, see ASHRAE 34 and Addenda. Use of Addenda issued after Addendum o is subject to approval as set forth in
+Section 1102.2
+.
+Class I ozone depleting
+refrigerant
+. Not permitted for new
+installations
+.
+Refrigerants
+in Safety Group "A2L" shall comply with rules of the department.
+Refrigerants
+in Safety Group "B2L" shall comply with all applicable requirements for "B2"
+refrigerants
+.
+OCCUPATIONAL EXPOSURE LIMIT
+(
+OEL
+).
+The time-weighted average (TWA) concentration for a normal 8-hour workday and a 40-hour workweek to which nearly all workers can be repeatedly exposed without adverse effect, based on the OSHA PEL, ACGIH
+TLV-TWA
+, AIHA WEEL, or consistent value.
+
+---
+
+Refrigerants
+shall be classified in accordance with ASHRAE 34 as listed in Table 1103.1.
+TABLE 1103.1
+REFRIGERANT
+DATA AND SAFETY CLASSIFICATIONS
+a
+RCL
+Refrigerant
+Number
+Chemical Name
+Chemical Formula/Composition
+Tolerances
+OEL
+d
+ppm v/v
+Safety
+c
+Group
+(ppm v/v)
+(g/m
+3
+)
+lb/Mcf
+Methane Series
+11
+b
+Trichlorofluoromethane
+CCl
+3
+F
+C1,000
+A1
+1,100
+6.2
+0.39
+12
+b
+Dichlorodifluoromethane
+CCl
+2
+F
+2
+1,000
+A1
+18,000
+90
+5.6
+13
+b
+Chlorotrifluoromethane
+CClF
+3
+1,000
+A1
+—
+—
+—
+13B1
+b
+Bromotrifluoromethane
+CBrF
+3
+1,000
+A1
+—
+—
+—
+14
+tetrafluoromethane
+(carbon tetrafluoride)
+CF
+4
+1,000
+A1
+110,000
+400
+25
+21
+Dichlorofluoromethane
+CHCl
+2
+F
+—
+B1
+—
+—
+—
+22
+Chlorodifluoromethane
+CHClF
+2
+1,000
+A1
+59,000
+210
+13
+23
+Trifluoromethane
+CHF
+3
+1,000
+A1
+41,000
+120
+7.3
+30
+dichloromethane (methylene chloride)
+CH
+2
+Cl
+2
+—
+B2
+—
+—
+—
+32
+difluoromethane (methylene fluoride)
+CH
+2
+F
+2
+1,000
+A2L
+36,000
+77
+4.8
+40
+chloromethane (methyl chloride)
+CH
+3
+Cl
+—
+B2
+—
+—
+—
+50
+Methane
+CH
+4
+1,000
+A3
+—
+—
+—
+Ethane Series
+113
+b
+1,1,2-trichloro-1,2,2-trifluoroethane
+CCl
+2
+FCClF
+2
+1,000
+A1
+2,600
+20
+1.2
+114
+b
+1,2-dichloro-1,1,2,2-tetrafluoroethane
+CClF
+2
+CClF
+2
+1,000
+A1
+20,000
+140
+8.7
+115
+b
+Chloropentafluoroethane
+CClF
+2
+CF
+3
+1,000
+A1
+120,000
+760
+47
+116
+Hexafluoroethane
+CF
+3
+CF
+3
+1,000
+A1
+97,000
+550
+34
+123
+2,2-dichloro-1,1,1,-trifluoroethane
+CHCl
+2
+CF
+3
+50
+B1
+9,100
+57
+3.5
+124
+2-chloro-1,1,1,2-tetrafluoroethane
+CHClFCF
+3
+1,000
+A1
+10,000
+56
+3.5
+125
+Pentafluoroethane
+CHF
+2
+CF
+3
+1,000
+A1
+75,000
+370
+23
+134
+a
+1,1,1,2-tetrafluoroethane
+CH
+2
+FCF
+3
+1,000
+A1
+50,000
+210
+13
+142
+b
+1-chloro-1, 1-difluoroethane
+CH
+3
+CClF
+2
+1,000
+A2
+20,000
+83
+5.1
+143
+a
+1,1,1-trifluoroethane
+CH
+3
+CF
+3
+1,000
+A2L
+21,000
+70
+4.5
+152
+a
+1,1-difluoroethane
+CH
+3
+CHF
+2
+1,000
+A2
+12,000
+32
+2.0
+170
+Ethane
+CH
+3
+CH
+3
+1,000
+A3
+7,000
+8.7
+0.54
+Ethers
+E170
+methoxymethane (dimethyl ether)
+CH
+3
+OCH
+3
+1,000
+A3
+8,500
+16
+1.0
+Propane
+218
+Octafluoropropane
+CF
+3
+,CF
+2
+CF
+3
+1,000
+A1
+90,000
+690
+43
+227
+ea
+1,1,1,2,3,3,3-heptafluoropropane
+CF3CHFCF
+3
+1,000
+A1
+84,000
+580
+36
+236
+fa
+1,1,1,3,3,3-hexafluoropropane
+CF
+3
+CH
+2
+CF
+3
+1,000
+A1
+55,000
+340
+21
+245
+fa
+1,1,1,3,3-pentafluoropropane
+CHF
+2
+CH
+2
+CF
+3
+300
+B1
+34,000
+190
+12
+290
+Propane
+CH
+3
+CH
+2
+CH
+3
+1,000
+A3
+5,300
+9.5
+0.56
+Cyclic Organic Compounds
+C318
+Octafluorocyclobutane
+-(CF
+2
+)
+4
+-
+1,000
+A1
+80,000
+660
+41
+Miscellaneous Organic Compounds Hydrocarbons
+600
+Butane
+CH
+3
+CH
+2
+CH
+2
+CH
+3
+1,000
+A3
+—
+—
+0.51
+600
+a
+2-methylpropane (isobutane)
+CH(CH
+3
+)
+2
+CH
+3
+1,000
+A3
+4,000
+9.6
+0.59
+601
+Pentane
+CH
+3
+CH
+2
+CH
+2
+CH
+2
+CH
+3
+600
+A3
+1,000
+2.9
+0.18
+601
+a
+2-methylbutane (isopentane)
+(CH
+3
+)
+2
+CHCH
+2
+CH
+3
+600
+A3
+1,000
+2.9
+0.18
+611
+methyl formate
+HCOOCH
+3
+100
+B2
+—
+—
+—
+Inorganic Compounds
+702
+Hydrogen
+H
+2
+—
+A3
+—
+—
+—
+704
+Helium
+He
+—
+A1
+—
+—
+—
+717
+Ammonia
+NH
+3
+25
+B2L
+320
+0.22
+0.014
+718
+Water
+H
+2
+O
+—
+A1
+—
+—
+—
+720
+Neon
+Ne
+—
+A1
+—
+—
+—
+728
+Nitrogen
+N
+2
+—
+A1
+—
+—
+—
+740
+Argon
+Ar
+—
+A1
+—
+—
+—
+744
+carbon dioxide
+CO
+2
+5,000
+A1
+40,000
+72
+4.5
+764
+sulfur dioxide
+SO
+2
+—
+B1
+—
+—
+—
+Unsaturated Organic Compounds
+1150
+ethene (ethylene)
+CH
+2
+= CH
+2
+200
+A3
+—
+—
+—
+1234yf
+2,3,3,3-tetrafluoro-1-propene
+CF
+3
+CF = CH
+2
+500
+A2L
+16,000
+75
+4.7
+1234ze(E)
+trans-1,3,3,3-tetrafluoro-1-propene
+CF
+3
+CH = CHF
+800
+A2L
+16,000
+75
+4.7
+1270
+propene (propylene)
+CH
+3
+CH = CH
+2
+500
+A3
+1,000
+1.7
+0.1
+Zeotropes (
+Refrigerant
+Blends)
+400 (50%/50%)
+b
+R-12/114 (50.0/50.0)
+1,000
+A1
+28,000
+160
+10
+400 (60%/40%)
+b
+R-12/114 (60.0/40.0)
+1,000
+A1
+30,000
+170
+11
+401A
+R-22/152a/124 (53.0/13.0/34.0)
+(±2.0/+0.5, - 1.5/±1.0)
+1,000
+A1
+27,000
+110
+6.6
+401B
+R-22,/152a/124 (61.0/11.0/28.0)
+(±2.0/+0.5, - 1.5/±1.0)
+1,000
+A1
+30,000
+120
+7.2
+401C
+R-22,/152a/124 (33.0/15.0/52.0)
+(±2.0/+0.5, - 1.5/±1.0)
+1,000
+A1
+20,000
+84
+5.2
+402A
+R-125/290/22 (60.0/2.0/38.0)
+(±2.0/+0.1, - 1.0/±2.0)
+1,000
+A1
+33,000
+140
+8.5
+402B
+R-125/290/22 (38.0/2.0/60.0)
+(±2.0/+0.1, - 1.0/±2.0)
+1,000
+A1
+63,000
+240
+15
+403A
+R-290/22/218 (5.0/75.0/20.0)
+(+.2, -2.0/±2.0/±2.0)
+1,000
+A2
+33,000
+120
+7.6
+403B
+R-290/22/218 (5.0/56.0/39.0)
+(+.2, -2.0/±2.0/±2.0)
+1,000
+A1
+70,000
+290
+18
+404A
+R-125/143a/134a (44.0/52.0/4.0)
+(±2.0/±1.0/±2.0)
+1,000
+A1
+130,000
+500
+31
+406A
+R-22/600a/142b (55.0/4.0/41.0)
+(±2.0/±1.0/±1.0)
+1,000
+A2
+21,000
+25
+4.7
+407A
+R-32/125/134a (20.0/40.0/40.0)
+(±2.0/±2.0/±2.0)
+1,000
+A1
+83,000
+300
+19
+407B
+R-32/125/134a (10.0/70.0/20.0)
+(±2.0/±2.0/±2.0)
+1,000
+A1
+79,000
+330
+21
+407C
+R-32/125/134a (23.0/25.0/52.0)
+(±2.0/±2.0/±2.0)
+1,000
+A1
+81,000
+290
+18
+407D
+R-32/125/134a (15.0/15.0/70.0)
+(±2.0/±2.0/±2.0)
+1,000
+A1
+68,000
+250
+16
+407E
+R-32/125/134a (25.0/15.0/60.0)
+(±2.0/±2.0/±2.0)
+1,000
+A1
+80,000
+280
+17
+407F
+R-32/125/134a (30.0/30.0/40.0)
+(±2.0/±2.0/±2.0)
+1,000
+A1
+95,000
+320
+20
+408A
+R-125/143a/22 (7.0/46.0/47.0)
+(±2.0/±1.0/±2.0)
+1,000
+A1
+95,000
+110
+21
+409A
+R-22/124/142b (60.0/25.0/15.0)
+(±2.0/±2.0/±1.0)
+1,000
+A1
+29,000
+120
+7.1
+409B
+R-22/124/142b (65.0/25.0/10.0)
+(±2.0/±2.0/±1.0)
+1,000
+A1
+30,000
+390
+7.3
+410A
+R-32/125 (50.0/50.0)
+(+0.5, -1.5/+1.5, -0.5)
+1,000
+A1
+140,000
+420
+26
+410B
+R-32/125 (45.0/55.0)
+(±1.0/±1.0)
+1,000
+A1
+140,000
+430
+27
+411A
+R-1270/22/152a (1.5/87.5/11.0)
+(+0.0, -1.0/+2.0,
+-0.0/+0.0, -1.0)
+990
+A2
+14,000
+46
+2.9
+411B
+R-1270/22/152a (3.0/94.0/3.0)
+(+0.0, -1.0/+2.0,
+-0.0/+0.0, -1.0)
+980
+A2
+13,000
+45
+2.8
+412A
+R-22/218/142b (70.0/5.0/25.0)
+(±2.0/±2.0/±1.0)
+1,000
+A2
+22,000
+82
+5.1
+413A
+R-218/134a/600a (9.0/88.0/3.0)
+±1.0/±2.0/+0.0,-1.0)
+1,000
+A2
+22,000
+95
+5.8
+414A
+R-22/124/600a/142b (51.0/28.5/4.0/16.5)
+(±2.0/±2.0/±0.5 /
++0.5, -1.0)
+1,000
+A1
+26,000
+100
+6.4
+414B
+R-22/124/600a/142b (50.0/39.0/1.5/9.5)
+(±2.0/±2.0/±0.5 /
++0.5, -1.0)
+1,000
+A1
+23,000
+95
+6.0
+415A
+R-22/152a (82.0/18.0)
+(±1.0/±1.0)
+1,000
+A2
+57,000
+190
+12
+415B
+R-22/152a (25.0/75.0)
+(±1.0/±1.0)
+1,000
+A2
+52,000
+120
+9.3
+416A
+R-134a/124/600 (59.0/39.5/1.5)
+(+0.5, -1.0/+1.0,
+-0.5/+1.0, -0.2)
+1,000
+A1
+14,000
+62
+3.9
+417A
+R-125/134a/600 (46.6/50.0/3.4)
+(±1.1/±1.0/+0.1,-0.4)
+1,000
+A1
+13,000
+56
+3.5
+417B
+R-125/134a/600 (79.0/18.3/2.7)
+(±1.0/±1.0/+0.1,-0.5)
+1,000
+A1
+15,000
+70
+4.3
+418A
+R-290/22/152a (1.5/96.0/2.5
+(±0.5/±1.0/±0.5)
+1,000
+A2
+59,000
+200
+13
+419A
+R-125/134a/E170 (77.0/19.0/4.0)
+(1.0/1.0/1.0)
+1,000
+A2
+70,000
+310
+19
+420A
+R-134a/142b (88.0/12.0)
+(+1.0,-0.0/+0.0,-1.0)
+1,000
+A1
+45,000
+190
+12
+421A
+R-125/134a (58.0/42.0)
+(±1.0/±1.0)
+1,000
+A1
+61,000
+280
+17
+421B
+R-125/134a (85.0/15.0)
+(±1.0/±1.0)
+1,000
+A1
+69,000
+330
+21
+422A
+R-125/134a/600a (55.0/42.0/3.0)
+(±1.0/±1.0/+0.1,-0.4)
+1,000
+A1
+63,000
+290
+18
+422B
+R-125/134a/600a (82.0/15.0/3.0)
+(±1.0/±1.0/+0.1,-0.5)
+1,000
+A1
+56,000
+250
+16
+422C
+R-125/134a/600a (82.0/15.0/3.0)
+(±1.0/±1.0/+0.1,-0.5)
+1,000
+A1
+62,000
+290
+18
+422D
+R-125/134a/600a (65.1/31.5/3.4)
+(+0.9,-1.1/±1.0/
++0.1,-0.4)
+1,000
+A1
+58,000
+260
+16
+423A
+R-134a/227ea (52.5/47.5)
+(±1.0/±1.0)
+1,000
+A1
+59,000
+310
+19
+424A
+R-125/134a/600a/600/601a (50.5/47.0/0.9/1.0/0.6)
+(±1.0/±1.0/+0.1,-0.2/
++0.1, +0.2/+0.1,-0.2)
+970
+A1
+23,000
+100
+6.2
+425A
+R-32/134a/227ea (18.5/69.5/12.0)
+(±0.5/±0.5/±0.5)
+1,000
+A1
+72,000
+260
+16
+426A
+R-125/134a/600/601a (5.1/93.0/1.3/0.6)
+(±1.0/±1.0/+0.1,-0.2/
++0.1, -0.2)
+990
+A1
+20,000
+83
+5.2
+427A
+R-32/125/143a/134a (15.0/25.0/10.0/50.0)
+(±2.0/±2.0/±2.0/±2.0)
+1,000
+A1
+79,000
+290
+18
+428A
+R-125/143a/290/600a (77.5/20.0/0.6/1.9)
+(±1.0/±1.0/+0.1,-0.2/
++0.1, -0.2)
+1,000
+A1
+83,000
+370
+23
+429A
+R-E170/152a/600a (60.0/10.0/30.0)
+(±1.0/±1.0/±1.0)
+1,000
+A3
+6,300
+13
+0.81
+430A
+R-152a/600a (76.0/24.0)
+(±1.0/±1.0)
+1,000
+A3
+8,000
+21
+1.3
+431A
+R-290/152a (71.0/29.0)
+(±1.0/±1.0)
+1,000
+A3
+5,500
+11
+0.69
+432A
+R-1270/E170 (80.0/20.0)
+(±1.0/±1.0)
+710
+A3
+1,200
+2.1
+0.13
+433A
+R-1270/290 (30.0/70.0)
+(±1.0/±1.0)
+880
+A3
+3,100
+5.5
+0.34
+433B
+R-1270/290 (5.0/95.0)
+(±1.0/±1.0)
+950
+A3
+4,500
+8.1
+0.51
+433C
+R-1270/290 (25.0/75.0)
+(±1.0/±1.0)
+790
+A3
+3,600
+6.6
+0.41
+434A
+R-125/143a/134a/600a (63.2/18.0/16.0/2.8)
+(±1.0/±1.0 ±1.0/+0.1,-0.2)
+1,000
+A1
+73,000
+320
+20
+435A
+R-E170/152a (80.0/20.0)
+(±1.0/±1.0)
+1,000
+A3
+8,500
+17
+1.1
+436A
+R-290/600a (56.0/44.0)
+(±1.0/±1.0)
+1,000
+A3
+4,000
+8.1
+0.5
+436B
+R-290/600a (52.0/48.0)
+(±1.0/±1.0)
+1,000
+A3
+4,000
+8.1
+0.5
+437A
+R-125/134a/600/601 (19.5/78.5/1.4/0.6)
+(+0.5,-1.8/+1.5,-0.7/
++0.1,-0.2/+0.1,-0.2)
+990
+A1
+19,000
+81
+5.0
+438A
+R-32/125/134a/600/601
+a
+(8.5/45.0/44.2/1.7/0.6)
+(+0.5,-1.5/±1.5/±1.5/
++0.1,-0.2/+0.1,-0.2)
+990
+A1
+20,000
+79
+4.9
+439A
+R-32/125/600a (50.0/47.0/3.0)
+(±1.0/±1.0/±0.5)
+990
+A2
+26,000
+76
+4.7
+440A
+R-290/134a/152a (0.6/1.6/97.8)
+(±1.0/±0.6/±0.5)
+1,000
+A2
+12,000
+31
+1.9
+441A
+R-179/290/600a/600 (3.1/54.8/6.0/36.1)
+(±0.3/±2.0/±0.6/±2.0)
+1,000
+A3
+3,200
+6.3
+0.39
+Azeotropes (
+Refrigerant
+Blends)
+500
+b
+R-12/152a (73.8/26.2)
+—
+1,000
+A1
+30,000
+120
+7.6
+501
+b
+R-22/12 (75.0/25.0)
+—
+1,000
+A1
+54,000
+210
+13
+502
+b
+R-22/115 (48.8/51.2)
+—
+1,000
+A1
+73,000
+330
+21
+504
+R-32/115 (48.2/51.8)
+—
+1,000
+140,000
+450
+28
+507A
+R-125/143a (50.0/50.0)
+—
+1,000
+A1
+130,000
+520
+32
+508A
+R-23/116 (39.0/61.0)
+—
+1,000
+A1
+55,000
+220
+14
+508B
+R-23/116 (46.0/54.0)
+—
+1,000
+A1
+52,000
+200
+13
+509A
+R-22/218 (44.0/56.0)
+—
+1,000
+A1
+75,000
+390
+24
+510A
+R-E170/600a (88.0/12.0)
+(±0.5/±0.5)
+1,000
+A3
+7,300
+14
+0.87
+511A
+R-290/E170 (95.0, 5.0)
+(±1.0/±1.0)
+1,000
+A3
+5,300
+9.5
+0.59
+For SI: 1 pound = 0.454 kg, 1 cubic foot = 0.0283 m
+3
+.
+Data based on ASHRAE 34 including Addenda a through o. For more complete data, see ASHRAE 34 and Addenda. Use of Addenda issued after Addendum o is subject to approval as set forth in
+Section 1102.2
+.
+Class I ozone depleting
+refrigerant
+. Not permitted for new
+installations
+.
+Refrigerants
+in Safety Group "A2L" shall comply with rules of the department.
+Refrigerants
+in Safety Group "B2L" shall comply with all applicable requirements for "B2"
+refrigerants
+.
+OCCUPATIONAL EXPOSURE LIMIT
+(
+OEL
+).
+The time-weighted average (TWA) concentration for a normal 8-hour workday and a 40-hour workweek to which nearly all workers can be repeatedly exposed without adverse effect, based on the OSHA PEL, ACGIH
+TLV-TWA
+, AIHA WEEL, or consistent value.
+
+---
+
+## Section 1103.2: Occupancy Classification
+
+1103.2 Occupancy Classification
+Locations of
+refrigerating systems
+are described by occupancy classifications that consider the ability of people to respond to potential exposure to
+refrigerants
+. Where
+equipment
+or
+appliances
+, other than
+piping
+, are located outside a building and within 20 feet (6096 mm) of any building opening, such
+equipment
+or
+appliances
+shall be governed by the occupancy classification of the building. Occupancy classifications of buildings shall be in accordance with the building classifications in the
+New York City Building Code
+.
+Institutional occupancy shall include Occupancy Groups I-1, I-2, I-3 and I-4.
+Public assembly occupancy shall include Occupancy Groups A-1, A-2, A-3, A-4, A-5 and E.
+Residential occupancy shall include Occupancy Groups R-1, R-2 and R-3.
+Commercial occupancy shall include Occupancy Groups M and B, except Occupancy Group M with retail stores having an occupant load of more than 100 persons on any floor other than street level.
+Large mercantile occupancy shall include Occupancy Group M with retail stores having an occupant load of more than 100 persons on any floor other than street level.
+Industrial occupancy shall include Occupancy Groups F-1, F-2, H-1, H-2, H-3, H-4, H-5, S-1 and S-2.
+Mixed occupancy occurs where two or more occupancies are located within the same building. Where each occupancy is isolated from the rest of the building by tight walls, floors and ceilings and by self-closing doors, the requirements for each occupancy shall apply to its portion of the building. Where the various occupancies are not so isolated, the occupancy having the most stringent requirements shall be the governing occupancy.
+
+---
+
+Locations of
+refrigerating systems
+are described by occupancy classifications that consider the ability of people to respond to potential exposure to
+refrigerants
+. Where
+equipment
+or
+appliances
+, other than
+piping
+, are located outside a building and within 20 feet (6096 mm) of any building opening, such
+equipment
+or
+appliances
+shall be governed by the occupancy classification of the building. Occupancy classifications of buildings shall be in accordance with the building classifications in the
+New York City Building Code
+.
+Institutional occupancy shall include Occupancy Groups I-1, I-2, I-3 and I-4.
+Public assembly occupancy shall include Occupancy Groups A-1, A-2, A-3, A-4, A-5 and E.
+Residential occupancy shall include Occupancy Groups R-1, R-2 and R-3.
+Commercial occupancy shall include Occupancy Groups M and B, except Occupancy Group M with retail stores having an occupant load of more than 100 persons on any floor other than street level.
+Large mercantile occupancy shall include Occupancy Group M with retail stores having an occupant load of more than 100 persons on any floor other than street level.
+Industrial occupancy shall include Occupancy Groups F-1, F-2, H-1, H-2, H-3, H-4, H-5, S-1 and S-2.
+Mixed occupancy occurs where two or more occupancies are located within the same building. Where each occupancy is isolated from the rest of the building by tight walls, floors and ceilings and by self-closing doors, the requirements for each occupancy shall apply to its portion of the building. Where the various occupancies are not so isolated, the occupancy having the most stringent requirements shall be the governing occupancy.
+
+---
+
+## Section 1103.3: System Classification
+
+1103.3 System Classification
+Refrigeration systems shall be classified according to the degree of probability that
+refrigerant
+leaked from a failed connection, seal or component could enter an occupied area. The distinction is based on the basic
+design
+or location of the components.
+
+---
+
+Refrigeration systems shall be classified according to the degree of probability that
+refrigerant
+leaked from a failed connection, seal or component could enter an occupied area. The distinction is based on the basic
+design
+or location of the components.
+
+---
+
+## Section 1103.3.1: Low-Probability Systems
+
+1103.3.1 Low-Probability Systems
+Double-indirect open-spray systems
+, indirect
+closed systems
+and indirect-
+vented closed systems
+shall be classified as
+low-probability systems
+, provided that all
+refrigerant
+-containing
+piping
+and fittings are isolated when the quantities in
+Table 1103.1
+are exceeded.
+
+---
+
+Double-indirect open-spray systems
+, indirect
+closed systems
+and indirect-
+vented closed systems
+shall be classified as
+low-probability systems
+, provided that all
+refrigerant
+-containing
+piping
+and fittings are isolated when the quantities in
+Table 1103.1
+are exceeded.
+
+---
+
+## Section 1103.3.2: High-Probability Systems
+
+1103.3.2 High-Probability Systems
+Direct systems
+and indirect
+open-spray systems
+shall be classified as
+high-probability systems
+.
+Exception:
+An indirect
+open-spray system
+shall not be required to be classified as a high-probability system if the
+pressure
+of the secondary coolant is at all times (operating and standby) greater than the pressure of the
+refrigerant
+.
+
+---
+
+Direct systems
+and indirect
+open-spray systems
+shall be classified as
+high-probability systems
+.
+Exception:
+An indirect
+open-spray system
+shall not be required to be classified as a high-probability system if the
+pressure
+of the secondary coolant is at all times (operating and standby) greater than the pressure of the
+refrigerant
+.
+
+---
+
+Section 1104 System Application Requirements
+
+---
+
+## Section 1104.1: General
+
+1104.1 General
+The
+refrigerant
+, occupancy and system classification cited in this section shall be determined in accordance with Sections
+1103.1
+,
+1103.2
+and
+1103.3
+, respectively. For
+refrigerant
+blends assigned dual classifications, as formulated and for the worst case of fractionation, the classifications for the worst case of fractionation shall be used. For blends assigned only a single safety group classification in
+Table 1103.1
+or ASHRAE 34, that classification shall be used. Use of a Group A3 or Group B3
+refrigerant
+is prohibited. In an industrial occupancy, a Group A3 or Group B3
+refrigerant
+may be used in high- or
+low-probability systems
+only when approved by the commissioner and the Commissioner of the Fire Department. Such use will be approved only if the applicant can demonstrate to the satisfaction of the commissioner and the Commissioner of the Fire Department that the use of the
+refrigerant
+is a necessity and does not represent a substantial risk to life, limb, health or property.
+
+---
+
+The
+refrigerant
+, occupancy and system classification cited in this section shall be determined in accordance with Sections
+1103.1
+,
+1103.2
+and
+1103.3
+, respectively. For
+refrigerant
+blends assigned dual classifications, as formulated and for the worst case of fractionation, the classifications for the worst case of fractionation shall be used. For blends assigned only a single safety group classification in
+Table 1103.1
+or ASHRAE 34, that classification shall be used. Use of a Group A3 or Group B3
+refrigerant
+is prohibited. In an industrial occupancy, a Group A3 or Group B3
+refrigerant
+may be used in high- or
+low-probability systems
+only when approved by the commissioner and the Commissioner of the Fire Department. Such use will be approved only if the applicant can demonstrate to the satisfaction of the commissioner and the Commissioner of the Fire Department that the use of the
+refrigerant
+is a necessity and does not represent a substantial risk to life, limb, health or property.
+
+---
+
+## Section 1104.2: Machinery Room
+
+1104.2 Machinery Room
+Except as provided in Sections
+1104.2.1
+and
+1104.2.2
+, all components containing the
+refrigerant
+shall be located either outdoors or in a
+machinery room
+where the quantity of
+refrigerant
+in an independent circuit of a system exceeds the amounts shown in
+Table 1103.1
+. For
+refrigerant
+names not listed in
+Table 1103.1
+, the same requirement shall apply when the amount for any named component exceeds that indicated in
+Table 1103.1
+for that component. This requirement shall also apply when the combined amount of the named components exceeds a limit of 69,100 parts per million (ppm) by volume.
+Machinery rooms
+required by this section shall be constructed and maintained in accordance with
+Section 1105
+for Group A1 and B1
+refrigerants
+and in accordance with Sections
+1105
+and
+1106
+for Group A2, B2, A3 and B3
+refrigerants
+. Nothing in this section shall be construed to allow the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+Exceptions:
+Machinery rooms
+are not required for listed
+equipment
+and
+appliances
+containing not more than 6.6 pounds (3 kg) of
+refrigerant
+, regardless of the
+refrigerant
+'s safety classification, where installed in accordance with the
+equipment
+'s or
+appliance
+'s listing and the
+equipment
+or
+appliance
+manufacturer's
+installation
+instructions.
+Piping
+in conformance with Section 1107 of this chapter and
+Section 8.10
+of
+ASHRAE 15
+is allowed in other locations to connect components installed in a
+machinery room
+with those installed outdoors.
+
+---
+
+Except as provided in Sections
+1104.2.1
+and
+1104.2.2
+, all components containing the
+refrigerant
+shall be located either outdoors or in a
+machinery room
+where the quantity of
+refrigerant
+in an independent circuit of a system exceeds the amounts shown in
+Table 1103.1
+. For
+refrigerant
+names not listed in
+Table 1103.1
+, the same requirement shall apply when the amount for any named component exceeds that indicated in
+Table 1103.1
+for that component. This requirement shall also apply when the combined amount of the named components exceeds a limit of 69,100 parts per million (ppm) by volume.
+Machinery rooms
+required by this section shall be constructed and maintained in accordance with
+Section 1105
+for Group A1 and B1
+refrigerants
+and in accordance with Sections
+1105
+and
+1106
+for Group A2, B2, A3 and B3
+refrigerants
+. Nothing in this section shall be construed to allow the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+Exceptions:
+Machinery rooms
+are not required for listed
+equipment
+and
+appliances
+containing not more than 6.6 pounds (3 kg) of
+refrigerant
+, regardless of the
+refrigerant
+'s safety classification, where installed in accordance with the
+equipment
+'s or
+appliance
+'s listing and the
+equipment
+or
+appliance
+manufacturer's
+installation
+instructions.
+Piping
+in conformance with Section 1107 of this chapter and
+Section 8.10
+of
+ASHRAE 15
+is allowed in other locations to connect components installed in a
+machinery room
+with those installed outdoors.
+
+---
+
+## Section 1104.2.1: Institutional Occupancies
+
+1104.2.1 Institutional Occupancies
+The amounts shown in
+Table 1103.1
+shall be reduced by 50 percent for all areas of institutional occupancies except kitchens, laboratories and mortuaries. The total of all Group A2, B2, A3 and B3
+refrigerants
+shall not exceed 550 pounds (249.4 kg) in occupied areas or
+machinery rooms
+. Nothing in this section shall be construed to allow the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+
+---
+
+The amounts shown in
+Table 1103.1
+shall be reduced by 50 percent for all areas of institutional occupancies except kitchens, laboratories and mortuaries. The total of all Group A2, B2, A3 and B3
+refrigerants
+shall not exceed 550 pounds (249.4 kg) in occupied areas or
+machinery rooms
+. Nothing in this section shall be construed to allow the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+
+---
+
+## Section 1104.2.2: Industrial Occupancies and Refrigerated Rooms
+
+1104.2.2 Industrial Occupancies and Refrigerated Rooms
+This section applies only to industrial occupancies and refrigerated rooms for manufacturing, food and beverage preparation, meat cutting, other processes and storage.
+Machinery rooms
+are not required where all of the following conditions are met:
+The space containing the machinery is separated from other occupancies by tight construction with tight-fitting doors.
+Access
+is restricted to authorized personnel.
+The floor area per occupant is not less than 100 square feet (9.3 m
+2
+). Where provided with egress directly to the outdoors or into building
+exits
+meeting the requirements of the
+New York City Building Code
+, the minimum floor area shall not apply.
+Refrigerant
+detectors are installed as required for
+machinery rooms
+in accordance with
+Section 1105.3
+.
+Surfaces having temperatures exceeding 800°F (426.7°C) and open flames are not present where any Group A2, B2, A3 or B3
+refrigerant
+is used (see
+Section 1104.3.3
+). Nothing in this section shall be construed to allow the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+All
+electrical
+equipment
+and
+appliances
+conform to Class 1, Division 2,
+hazardous location
+classification requirements of the
+New York City Electrical Code
+where the quantity of any Group A2, B2, A3 or B3
+refrigerant
+, other than ammonia, in a single independent circuit would exceed 25 percent of the lower flammability limit (
+LFL
+) upon release to the space based on the volume determined by
+Section 1104.4
+. Nothing in this section shall be construed to allow the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+All
+refrigerant
+-containing parts in systems exceeding 100 hp (74.6 kW) drive power, except
+evaporators
+used for refrigeration or dehumidification;
+condensers
+used for heating;
+control
+and
+pressure relief valves
+for either; and connecting
+piping
+, shall be located either outdoors or in a
+machinery room
+.
+
+---
+
+This section applies only to industrial occupancies and refrigerated rooms for manufacturing, food and beverage preparation, meat cutting, other processes and storage.
+Machinery rooms
+are not required where all of the following conditions are met:
+The space containing the machinery is separated from other occupancies by tight construction with tight-fitting doors.
+Access
+is restricted to authorized personnel.
+The floor area per occupant is not less than 100 square feet (9.3 m
+2
+). Where provided with egress directly to the outdoors or into building
+exits
+meeting the requirements of the
+New York City Building Code
+, the minimum floor area shall not apply.
+Refrigerant
+detectors are installed as required for
+machinery rooms
+in accordance with
+Section 1105.3
+.
+Surfaces having temperatures exceeding 800°F (426.7°C) and open flames are not present where any Group A2, B2, A3 or B3
+refrigerant
+is used (see
+Section 1104.3.3
+). Nothing in this section shall be construed to allow the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+All
+electrical
+equipment
+and
+appliances
+conform to Class 1, Division 2,
+hazardous location
+classification requirements of the
+New York City Electrical Code
+where the quantity of any Group A2, B2, A3 or B3
+refrigerant
+, other than ammonia, in a single independent circuit would exceed 25 percent of the lower flammability limit (
+LFL
+) upon release to the space based on the volume determined by
+Section 1104.4
+. Nothing in this section shall be construed to allow the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+All
+refrigerant
+-containing parts in systems exceeding 100 hp (74.6 kW) drive power, except
+evaporators
+used for refrigeration or dehumidification;
+condensers
+used for heating;
+control
+and
+pressure relief valves
+for either; and connecting
+piping
+, shall be located either outdoors or in a
+machinery room
+.
+
+---
+
+## Section 1104.3: Refrigerant Restrictions
+
+1104.3 Refrigerant Restrictions
+Refrigerant
+applications, maximum quantities and use shall be restricted in accordance with Sections
+1104.3.1
+through
+1104.3.3
+.
+
+---
+
+Refrigerant
+applications, maximum quantities and use shall be restricted in accordance with Sections
+1104.3.1
+through
+1104.3.3
+.
+
+---
+
+## Section 1104.3.1: Air-Conditioning for Human Comfort
+
+1104.3.1 Air-Conditioning for Human Comfort
+Group A3, B1, B2 and B3
+refrigerants
+shall not be used in high-probability
+air-conditioning systems
+for human comfort.
+Exceptions:
+Sealed absorption and unit
+air-conditioning systems
+having
+refrigerant
+quantities not exceeding those set forth in Table 1104.3.1.
+Industrial occupancies.
+Nothing in this section shall be construed to allow the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+TABLE 1104.3.1
+SPECIAL QUANTITY LIMITS FOR SEALED AMMONIA/WATER ABSORPTION
+AND SELF-CONTAINED SYSTEMS
+TYPE OF
+REFRIGERATION SYSTEM
+MAXIMUM POUNDS FOR VARIOUS OCCUPANCIES
+Institutional
+Public Assembly/
+Large
+Mercantile
+Residential
+Commercial
+Sealed Ammonia/Water
+Absorption System
+In exit
+access
+or lobbies
+0
+0
+3.3
+3.3
+In adjacent outdoor locations
+0
+0
+22
+22
+In other than exit
+access
+or lobbies
+0
+6.6
+6.6
+22
+Unit Systems
+In other than exit
+access
+or lobbies
+0
+0
+6.6
+22
+For SI: 1 pound = 0.454 kg.
+
+---
+
+Group A3, B1, B2 and B3
+refrigerants
+shall not be used in high-probability
+air-conditioning systems
+for human comfort.
+Exceptions:
+Sealed absorption and unit
+air-conditioning systems
+having
+refrigerant
+quantities not exceeding those set forth in Table 1104.3.1.
+Industrial occupancies.
+Nothing in this section shall be construed to allow the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+TABLE 1104.3.1
+SPECIAL QUANTITY LIMITS FOR SEALED AMMONIA/WATER ABSORPTION
+AND SELF-CONTAINED SYSTEMS
+TYPE OF
+REFRIGERATION SYSTEM
+MAXIMUM POUNDS FOR VARIOUS OCCUPANCIES
+Institutional
+Public Assembly/
+Large
+Mercantile
+Residential
+Commercial
+Sealed Ammonia/Water
+Absorption System
+In exit
+access
+or lobbies
+0
+0
+3.3
+3.3
+In adjacent outdoor locations
+0
+0
+22
+22
+In other than exit
+access
+or lobbies
+0
+6.6
+6.6
+22
+Unit Systems
+In other than exit
+access
+or lobbies
+0
+0
+6.6
+22
+For SI: 1 pound = 0.454 kg.
+
+---
+
+## Section 1104.3.2: All Occupancies
+
+1104.3.2 All Occupancies
+The total of all Group A2, B2, A3 and B3
+refrigerants
+other than R-717, ammonia, shall not exceed 1,100 pounds (499 kg) except where approved. Nothing in this section shall be construed to allow the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+
+---
+
+The total of all Group A2, B2, A3 and B3
+refrigerants
+other than R-717, ammonia, shall not exceed 1,100 pounds (499 kg) except where approved. Nothing in this section shall be construed to allow the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+
+---
+
+## Section 1104.3.3: Protection From Refrigerant Decomposition
+
+1104.3.3 Protection From Refrigerant Decomposition
+Where any device having an open flame or surface temperature greater than 800°F (426.7°C) is used in a room containing more than 6.6 pounds (3 kg) of
+refrigerant
+in a single independent circuit, a
+hood
+and
+exhaust system
+shall be provided in accordance with
+Section 510
+. Such
+exhaust system
+shall exhaust
+combustion products
+to the outdoors.
+Exception:
+A
+hood
+and
+exhaust system
+shall not be required where any of the following apply:
+The
+refrigerant
+is R-717, R-718 or R-744.
+The
+combustion air
+is ducted from the outdoors in a manner that prevents leaked
+refrigerant
+from being combusted.
+A
+refrigerant
+detector is used to stop the
+combustion
+in the event of a
+refrigerant
+leak (see Sections
+1105.3
+and
+1105.5
+).
+
+---
+
+Where any device having an open flame or surface temperature greater than 800°F (426.7°C) is used in a room containing more than 6.6 pounds (3 kg) of
+refrigerant
+in a single independent circuit, a
+hood
+and
+exhaust system
+shall be provided in accordance with
+Section 510
+. Such
+exhaust system
+shall exhaust
+combustion products
+to the outdoors.
+Exception:
+A
+hood
+and
+exhaust system
+shall not be required where any of the following apply:
+The
+refrigerant
+is R-717, R-718 or R-744.
+The
+combustion air
+is ducted from the outdoors in a manner that prevents leaked
+refrigerant
+from being combusted.
+A
+refrigerant
+detector is used to stop the
+combustion
+in the event of a
+refrigerant
+leak (see Sections
+1105.3
+and
+1105.5
+).
+
+---
+
+## Section 1104.4: Volume Calculations
+
+1104.4 Volume Calculations
+Volume calculations shall be in accordance with Sections
+1104.4.1
+through
+1104.4.3
+.
+
+---
+
+Volume calculations shall be in accordance with Sections
+1104.4.1
+through
+1104.4.3
+.
+
+---
+
+## Section 1104.4.1: Noncommunicating Spaces
+
+1104.4.1 Noncommunicating Spaces
+Where the
+refrigerant
+-containing parts of a system are located in one or more spaces that do not communicate through permanent openings or HVAC
+ducts
+, the volume of the smallest, enclosed occupied space shall be used to determine the permissible quantity of
+refrigerant
+in the system.
+
+---
+
+Where the
+refrigerant
+-containing parts of a system are located in one or more spaces that do not communicate through permanent openings or HVAC
+ducts
+, the volume of the smallest, enclosed occupied space shall be used to determine the permissible quantity of
+refrigerant
+in the system.
+
+---
+
+## Section 1104.4.2: Communicating Spaces
+
+1104.4.2 Communicating Spaces
+Where an
+evaporator
+or
+condenser
+is located in an
+air
+duct system
+, the volume of the smallest, enclosed occupied space served by the
+duct system
+shall be used to determine the maximum allowable quantity of
+refrigerant
+in the system.
+Exception:
+If airflow to any enclosed space cannot be reduced below one-quarter of its maximum, the entire space served by the
+air
+duct system
+shall be used to determine the maximum allowable quantity of
+refrigerant
+in the system.
+
+---
+
+Where an
+evaporator
+or
+condenser
+is located in an
+air
+duct system
+, the volume of the smallest, enclosed occupied space served by the
+duct system
+shall be used to determine the maximum allowable quantity of
+refrigerant
+in the system.
+Exception:
+If airflow to any enclosed space cannot be reduced below one-quarter of its maximum, the entire space served by the
+air
+duct system
+shall be used to determine the maximum allowable quantity of
+refrigerant
+in the system.
+
+---
+
+## Section 1104.4.3: Plenums
+
+1104.4.3 Plenums
+Where the space above a suspended ceiling is continuous and part of the supply or
+return air
+plenum
+system, this space shall be included in calculating the volume of the enclosed space.
+
+---
+
+Where the space above a suspended ceiling is continuous and part of the supply or
+return air
+plenum
+system, this space shall be included in calculating the volume of the enclosed space.
+
+---
+
+Section 1105 Machinery Room, General Requirements
+
+---
+
+## Section 1105.1: Design and Construction
+
+1105.1 Design and Construction
+Machinery rooms
+shall be designed and constructed in accordance with the
+New York City Building Code
+and this section.
+
+---
+
+Machinery rooms
+shall be designed and constructed in accordance with the
+New York City Building Code
+and this section.
+
+---
+
+## Section 1105.2: Openings
+
+1105.2 Openings
+Ducts
+and
+air
+handlers in the
+machinery room
+that operate at a lower pressure than the room shall be sealed to prevent any
+refrigerant
+leakage from entering the airstream.
+
+---
+
+Ducts
+and
+air
+handlers in the
+machinery room
+that operate at a lower pressure than the room shall be sealed to prevent any
+refrigerant
+leakage from entering the airstream.
+
+---
+
+## Section 1105.3: Refrigerant Detector
+
+1105.3 Refrigerant Detector
+Refrigerant
+detectors in
+machinery rooms
+shall be provided as required by
+ASHRAE 15
+.
+
+---
+
+Refrigerant
+detectors in
+machinery rooms
+shall be provided as required by
+ASHRAE 15
+.
+
+---
+
+## Section 1105.4: Tests
+
+1105.4 Tests
+Periodic tests of the mechanical ventilating system shall be performed in accordance with manufacturer's specifications and as required by the Commissioner of the Fire Department.
+
+---
+
+Periodic tests of the mechanical ventilating system shall be performed in accordance with manufacturer's specifications and as required by the Commissioner of the Fire Department.
+
+---
+
+## Section 1105.5: Fuel-Burning Appliances
+
+1105.5 Fuel-Burning Appliances
+Open flames that use
+combustion air
+from the
+machinery room
+shall not be installed in a
+machinery room
+.
+Exceptions:
+Where the
+refrigerant
+is carbon dioxide or water.
+Fuel-burning appliances
+shall not be prohibited in the same
+machinery room
+with
+refrigerant
+-containing
+equipment
+or
+appliances
+where
+combustion air
+is ducted from
+outside the
+machinery room
+and sealed in such a manner as to prevent any
+refrigerant
+leakage from entering the
+combustion chamber
+, or where a
+refrigerant
+vapor detector is
+employed to automatically shut off the
+combustion
+process in the event of
+refrigerant
+leakage.
+
+---
+
+Open flames that use
+combustion air
+from the
+machinery room
+shall not be installed in a
+machinery room
+.
+Exceptions:
+Where the
+refrigerant
+is carbon dioxide or water.
+Fuel-burning appliances
+shall not be prohibited in the same
+machinery room
+with
+refrigerant
+-containing
+equipment
+or
+appliances
+where
+combustion air
+is ducted from
+outside the
+machinery room
+and sealed in such a manner as to prevent any
+refrigerant
+leakage from entering the
+combustion chamber
+, or where a
+refrigerant
+vapor detector is
+employed to automatically shut off the
+combustion
+process in the event of
+refrigerant
+leakage.
+
+---
+
+## Section 1105.6: Ventilation
+
+1105.6 Ventilation
+Machinery rooms
+shall be mechanically ventilated to the outdoors. Location of the mechanical
+ventilation
+openings within the
+machinery room
+shall be based on the relative density of the
+refrigerant
+to
+air
+. When
+compressors
+or self-contained unit system are housed in a machinery space, other than in a
+machinery room
+or
+plenum
+, the space shall be ventilated in accordance with the requirements of
+Section 1105.6.3
+.
+Exception:
+Where a
+refrigerating system
+is located outdoors more than 20 feet (6096 mm) from any building opening and is enclosed by a penthouse, lean-to or other open structure, natural or mechanical
+ventilation
+shall be provided. Location of the openings shall be based on the relative density of the
+refrigerant
+to air. The free-aperture cross section for the
+ventilation
+of the
+machinery room
+shall be not less than:
+(Equation 11-1)
+For SI:
+where:
+F
+=
+The free opening area in square feet (m
+2
+).
+G
+=
+The mass of
+refrigerant
+in pounds (kg) in the largest system, any part of which is located in the
+machinery room
+.
+
+---
+
+Machinery rooms
+shall be mechanically ventilated to the outdoors. Location of the mechanical
+ventilation
+openings within the
+machinery room
+shall be based on the relative density of the
+refrigerant
+to
+air
+. When
+compressors
+or self-contained unit system are housed in a machinery space, other than in a
+machinery room
+or
+plenum
+, the space shall be ventilated in accordance with the requirements of
+Section 1105.6.3
+.
+Exception:
+Where a
+refrigerating system
+is located outdoors more than 20 feet (6096 mm) from any building opening and is enclosed by a penthouse, lean-to or other open structure, natural or mechanical
+ventilation
+shall be provided. Location of the openings shall be based on the relative density of the
+refrigerant
+to air. The free-aperture cross section for the
+ventilation
+of the
+machinery room
+shall be not less than:
+(Equation 11-1)
+For SI:
+where:
+F
+=
+The free opening area in square feet (m
+2
+).
+G
+=
+The mass of
+refrigerant
+in pounds (kg) in the largest system, any part of which is located in the
+machinery room
+.
+
+---
+
+## Section 1105.6.1: Discharge Location
+
+1105.6.1 Discharge Location
+The discharge of the
+air
+shall be to the outdoors in accordance with
+Chapter 5
+. Exhaust from mechanical
+ventilation
+systems shall be discharged not less than 20 feet (6096 mm) from
+outdoor air
+intake or openings into buildings and 10 feet (3048 mm) from a fire escape or exterior stair.
+UpCodes Diagram (1)
+
+---
+
+The discharge of the
+air
+shall be to the outdoors in accordance with
+Chapter 5
+. Exhaust from mechanical
+ventilation
+systems shall be discharged not less than 20 feet (6096 mm) from
+outdoor air
+intake or openings into buildings and 10 feet (3048 mm) from a fire escape or exterior stair.
+
+---
+
+## Section 1105.6.2: Makeup Air
+
+1105.6.2 Makeup Air
+Provisions shall be made for
+makeup air
+to replace that being exhausted. Openings for
+makeup air
+shall be located to avoid intake of
+exhaust air
+. Supply and exhaust
+ducts
+serving the
+machinery room
+shall not serve any other area, shall be constructed in accordance with
+Chapter 5
+and shall be covered with corrosion-resistant screen of not less than
+1
+/
+4
+-inch (6.4 mm) mesh.
+Exception:
+The requirement for supply and exhaust
+ducts
+to the
+machinery room
+to serve no other area shall not apply to a change in the type of
+refrigerant
+in a lawfully installed existing
+refrigerating system
+being maintained and operated in accordance with these approved
+installation
+requirements:
+Where the replacement
+refrigerant
+has a safety classification of Group A1; or
+Where the replacement
+refrigerant
+is R123 and the engineer or architect demonstrates to the satisfaction of the commissioner that providing such
+air
+supply and exhaust
+ducts
+represents a hardship and that the proposed alternative provides an equivalent level of safety.
+
+---
+
+Provisions shall be made for
+makeup air
+to replace that being exhausted. Openings for
+makeup air
+shall be located to avoid intake of
+exhaust air
+. Supply and exhaust
+ducts
+serving the
+machinery room
+shall not serve any other area, shall be constructed in accordance with
+Chapter 5
+and shall be covered with corrosion-resistant screen of not less than
+1
+/
+4
+-inch (6.4 mm) mesh.
+Exception:
+The requirement for supply and exhaust
+ducts
+to the
+machinery room
+to serve no other area shall not apply to a change in the type of
+refrigerant
+in a lawfully installed existing
+refrigerating system
+being maintained and operated in accordance with these approved
+installation
+requirements:
+Where the replacement
+refrigerant
+has a safety classification of Group A1; or
+Where the replacement
+refrigerant
+is R123 and the engineer or architect demonstrates to the satisfaction of the commissioner that providing such
+air
+supply and exhaust
+ducts
+represents a hardship and that the proposed alternative provides an equivalent level of safety.
+
+---
+
+## Section 1105.6.3: Ventilation Rate
+
+1105.6.3 Ventilation Rate
+For other than ammonia systems, the mechanical
+ventilation
+systems
+shall be capable of exhausting the minimum quantity of air both at normal operating and
+emergency conditions, as required by Sections
+1105.6.3.1
+and
+1105.6.3.2
+. The minimum required
+ventilation
+rate for ammonia shall be 30
+air
+changes per hour in accordance with IIAR2. Multiple
+fans or multispeed fans shall be allowed to produce the emergency
+ventilation
+rate and to obtain
+a reduced airflow for normal
+ventilation
+.
+
+---
+
+For other than ammonia systems, the mechanical
+ventilation
+systems
+shall be capable of exhausting the minimum quantity of air both at normal operating and
+emergency conditions, as required by Sections
+1105.6.3.1
+and
+1105.6.3.2
+. The minimum required
+ventilation
+rate for ammonia shall be 30
+air
+changes per hour in accordance with IIAR2. Multiple
+fans or multispeed fans shall be allowed to produce the emergency
+ventilation
+rate and to obtain
+a reduced airflow for normal
+ventilation
+.
+
+---
+
+## Section 1105.6.3.1: Quantity-Normal Ventilation
+
+1105.6.3.1 Quantity-Normal Ventilation
+During occupied conditions, the mechanical
+ventilation
+system shall exhaust the larger of the following:
+Not less than 0.5 cfm per square foot (0.0025m
+3
+/s x m
+2
+) of
+machinery room
+area or 20 cfm (0.009 m
+3
+/s) per person.
+A volume required to limit the room temperature rise to 18°F (-7.8°C) taking into account the ambient heating effect of all machinery in the room but not above a maximum temperature of 122°F (50°C).
+
+---
+
+During occupied conditions, the mechanical
+ventilation
+system shall exhaust the larger of the following:
+Not less than 0.5 cfm per square foot (0.0025m
+3
+/s x m
+2
+) of
+machinery room
+area or 20 cfm (0.009 m
+3
+/s) per person.
+A volume required to limit the room temperature rise to 18°F (-7.8°C) taking into account the ambient heating effect of all machinery in the room but not above a maximum temperature of 122°F (50°C).
+
+---
+
+## Section 1105.6.3.2: Quantity-Emergency Conditions
+
+1105.6.3.2 Quantity-Emergency Conditions
+Upon actuation of the
+refrigerant
+detector required in
+Section 1105.3
+, the mechanical
+ventilation
+system shall
+exhaust air
+from the
+machinery room
+in the following quantity:
+(Equation 11-2)
+For SI:
+where:
+Q
+=
+The airflow in cubic feet per minute (m
+3
+/s).
+G
+=
+The
+design
+mass of
+refrigerant
+in pounds (kg) in the largest system, any part of which is located in the
+machinery room
+.
+
+---
+
+Upon actuation of the
+refrigerant
+detector required in
+Section 1105.3
+, the mechanical
+ventilation
+system shall
+exhaust air
+from the
+machinery room
+in the following quantity:
+(Equation 11-2)
+For SI:
+where:
+Q
+=
+The airflow in cubic feet per minute (m
+3
+/s).
+G
+=
+The
+design
+mass of
+refrigerant
+in pounds (kg) in the largest system, any part of which is located in the
+machinery room
+.
+
+---
+
+## Section 1105.7: Termination of Relief Devices
+
+1105.7 Termination of Relief Devices
+In addition to the requirements of
+Section 9.7.8
+of
+ASHRAE 15
+,
+pressure relief devices
+,
+fusible plugs
+and
+purge
+systems located within the
+machinery room
+shall terminate outside of the structure at a location not less than 15 feet (4572 mm) above the adjoining grade level and not less than 20 feet (6096 mm) from any window,
+ventilation
+opening or exit.
+UpCodes Diagram (1)
+
+---
+
+In addition to the requirements of
+Section 9.7.8
+of
+ASHRAE 15
+,
+pressure relief devices
+,
+fusible plugs
+and
+purge
+systems located within the
+machinery room
+shall terminate outside of the structure at a location not less than 15 feet (4572 mm) above the adjoining grade level and not less than 20 feet (6096 mm) from any window,
+ventilation
+opening or exit.
+
+---
+
+## Section 1105.7.1: Discharge of Group A2, B2, A3 and B3 Refrigerants
+
+1105.7.1 Discharge of Group A2, B2, A3 and B3 Refrigerants
+Discharge of systems containing Group A2 or B2
+refrigerants
+shall be acceptable to the commissioner. Discharge of systems containing Group A3 or B3
+refrigerants
+shall be subject to the approval of the commissioner and the Commissioner of the Fire Department. Nothing in this section shall be construed to approve the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+
+---
+
+Discharge of systems containing Group A2 or B2
+refrigerants
+shall be acceptable to the commissioner. Discharge of systems containing Group A3 or B3
+refrigerants
+shall be subject to the approval of the commissioner and the Commissioner of the Fire Department. Nothing in this section shall be construed to approve the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+
+---
+
+## Section 1105.7.2: Certificate of Qualification
+
+1105.7.2 Certificate of Qualification
+Discharge of
+pressure relief devices
+,
+fusible plugs
+and
+purge
+systems for
+refrigerating systems
+containing flammable, toxic and highly toxic
+refrigerants
+and ammonia shall comply with
+Section 606
+of the
+New York City Fire Code
+.
+
+---
+
+Discharge of
+pressure relief devices
+,
+fusible plugs
+and
+purge
+systems for
+refrigerating systems
+containing flammable, toxic and highly toxic
+refrigerants
+and ammonia shall comply with
+Section 606
+of the
+New York City Fire Code
+.
+
+---
+
+## Section 1105.8: Ammonia Discharge
+
+1105.8 Ammonia Discharge
+Pressure relief valves
+for ammonia systems shall discharge in accordance with
+ASHRAE 15
+.
+
+---
+
+Pressure relief valves
+for ammonia systems shall discharge in accordance with
+ASHRAE 15
+.
+
+---
+
+## Section 1105.9: Emergency Pressure Control System
+
+1105.9 Emergency Pressure Control System
+Permanently installed refrigeration systems containing more than 6.6 pounds (3 kg) of a
+refrigerant
+other than a Group A1
+refrigerant
+shall be provided with an emergency
+pressure
+control
+system in accordance with Sections
+1105.9.1
+and
+1105.9.2
+.
+
+---
+
+Permanently installed refrigeration systems containing more than 6.6 pounds (3 kg) of a
+refrigerant
+other than a Group A1
+refrigerant
+shall be provided with an emergency
+pressure
+control
+system in accordance with Sections
+1105.9.1
+and
+1105.9.2
+.
+
+---
+
+## Section 1105.9.1: Automatic Crossover Valves
+
+1105.9.1 Automatic Crossover Valves
+Each high- and intermediate-
+pressure
+zone
+in a
+refrigerating system
+shall be provided with a single automatic valve providing a crossover connection to a lower pressure
+zone
+. Such automatic crossover valves shall comply with Sections
+1105.9.1.1
+through
+1105.9.1.3
+.
+
+---
+
+Each high- and intermediate-
+pressure
+zone
+in a
+refrigerating system
+shall be provided with a single automatic valve providing a crossover connection to a lower pressure
+zone
+. Such automatic crossover valves shall comply with Sections
+1105.9.1.1
+through
+1105.9.1.3
+.
+
+---
+
+## Section 1105.9.1.1: Overpressure Limit Setpoint
+
+1105.9.1.1 Overpressure Limit Setpoint
+Automatic crossover valves shall be arranged to automatically relieve excess system
+pressure
+to a lower
+pressure
+zone
+if the
+pressure
+in a high- or intermediate-pressure
+zone
+rises to within 15 psi (
+108.4
+kPa) of the setpoint for pressure-relief devices.
+
+---
+
+Automatic crossover valves shall be arranged to automatically relieve excess system
+pressure
+to a lower
+pressure
+zone
+if the
+pressure
+in a high- or intermediate-pressure
+zone
+rises to within 15 psi (
+108.4
+kPa) of the setpoint for pressure-relief devices.
+
+---
+
+## Section 1105.9.1.2: Manual Operation
+
+1105.9.1.2 Manual Operation
+Automatic crossover valves shall be capable of manual
+operation
+for refrigeration systems containing more than 200 pounds (90.8 kg) of
+refrigerant
+.
+
+---
+
+Automatic crossover valves shall be capable of manual
+operation
+for refrigeration systems containing more than 200 pounds (90.8 kg) of
+refrigerant
+.
+
+---
+
+## Section 1105.9.1.3: System Design Pressure
+
+1105.9.1.3 System Design Pressure
+Refrigerating system
+zones
+that are connected to a higher
+pressure
+zone
+by an automatic crossover valve shall be designed to safely contain the maximum pressure that can be achieved by interconnection of the two
+zones
+.
+
+---
+
+Refrigerating system
+zones
+that are connected to a higher
+pressure
+zone
+by an automatic crossover valve shall be designed to safely contain the maximum pressure that can be achieved by interconnection of the two
+zones
+.
+
+---
+
+## Section 1105.9.2: Automatic Emergency Stop
+
+1105.9.2 Automatic Emergency Stop
+An automatic emergency stop feature shall be provided in accordance with Sections
+1105.9.2.1
+and
+1105.9.2.2
+.
+
+---
+
+An automatic emergency stop feature shall be provided in accordance with Sections
+1105.9.2.1
+and
+1105.9.2.2
+.
+
+---
+
+## Section 1105.9.2.1: Automatic Crossover Valves
+
+1105.9.2.1 Automatic Crossover Valves
+A
+refrigerating system
+equipped with an automatic crossover valve shall be designed, when such valve is activated, to cause all
+compressors
+on the affected system to immediately cease operating. Dedicated
+pressure
+-sensing devices located immediately adjacent to crossover valves may be used as a means for activating such crossover valve. To ensure that the automatic crossover valve system provides a redundant means of ceasing
+operation
+of the
+compressors
+in an overpressure condition, high-pressure cutout sensors associated with
+compressors
+shall not be used for purposes of activating such crossover valve.
+
+---
+
+A
+refrigerating system
+equipped with an automatic crossover valve shall be designed, when such valve is activated, to cause all
+compressors
+on the affected system to immediately cease operating. Dedicated
+pressure
+-sensing devices located immediately adjacent to crossover valves may be used as a means for activating such crossover valve. To ensure that the automatic crossover valve system provides a redundant means of ceasing
+operation
+of the
+compressors
+in an overpressure condition, high-pressure cutout sensors associated with
+compressors
+shall not be used for purposes of activating such crossover valve.
+
+---
+
+## Section 1105.9.2.2: Overpressure in Low-Pressure Zone
+
+1105.9.2.2 Overpressure in Low-Pressure Zone
+The lowest
+pressure
+zone
+in a
+refrigerating system
+shall be provided with a dedicated means of determining a rise in system
+pressure
+to within 15 psi (103.4 kPa) of the
+zone
+pressure relief device
+setpoint. Activation of such overpressure sensing device shall cause all
+compressors
+on the effected system to immediately cease
+operation
+.
+
+---
+
+The lowest
+pressure
+zone
+in a
+refrigerating system
+shall be provided with a dedicated means of determining a rise in system
+pressure
+to within 15 psi (103.4 kPa) of the
+zone
+pressure relief device
+setpoint. Activation of such overpressure sensing device shall cause all
+compressors
+on the effected system to immediately cease
+operation
+.
+
+---
+
+## Section 1105.10: Remote Control
+
+1105.10 Remote Control
+A clearly identified switch of the break-glass type shall provide off-only
+control
+of the
+compressors
+in the
+machinery room
+. A second clearly identified switch of the break-glass type shall provide on-only
+control
+of the
+machinery room
+ventilation
+fans. Such switches shall be located outside each entrance to the
+machinery room
+and as close to the entrance as practicable, except that when an outside location is impracticable, such switches may be located immediately inside the
+machinery room
+provided such location is accessible at all times.
+
+---
+
+A clearly identified switch of the break-glass type shall provide off-only
+control
+of the
+compressors
+in the
+machinery room
+. A second clearly identified switch of the break-glass type shall provide on-only
+control
+of the
+machinery room
+ventilation
+fans. Such switches shall be located outside each entrance to the
+machinery room
+and as close to the entrance as practicable, except that when an outside location is impracticable, such switches may be located immediately inside the
+machinery room
+provided such location is accessible at all times.
+
+---
+
+## Section 1105.11: Emergency Signs
+
+1105.11 Emergency Signs
+Signs shall comply with the following:
+Sections
+8.11.8
+and 11.2.4 of
+ASHRAE 15
+.
+Refrigeration units or systems having a
+refrigerant
+circuit containing more than 220 pounds (99.8 kg) of Group A1 or 30 pounds (13.6 kg) of any other group
+refrigerant
+shall be provided with approved emergency signs, charts, and labels in accordance with NFPA 704.
+
+---
+
+Signs shall comply with the following:
+Sections
+8.11.8
+and 11.2.4 of
+ASHRAE 15
+.
+Refrigeration units or systems having a
+refrigerant
+circuit containing more than 220 pounds (99.8 kg) of Group A1 or 30 pounds (13.6 kg) of any other group
+refrigerant
+shall be provided with approved emergency signs, charts, and labels in accordance with NFPA 704.
+
+---
+
+## Section 1105.12: Storing Refrigerant
+
+1105.12 Storing Refrigerant
+The total amount of
+refrigerant
+stored in a
+machinery room
+shall be the lesser of: (i) not more than twenty percent of the normal charge in the system; or (ii) not more than 330 pounds (149.7 kg) in addition to the charge in the system and the
+refrigerant
+contained in a permanently attached
+receiver
+.
+Refrigerant
+shall be stored in containers meeting the requirements of the
+New York City Fire Code
+.
+Exception:
+Recovery service containers used for storing
+refrigerant
+during periods of system
+maintenance
+or replacement may exceed 330 pounds (149.7 kg) provided such containers are securely fixed in position and have
+pressure relief valves
+piped to the outside in conformance with this code.
+
+---
+
+The total amount of
+refrigerant
+stored in a
+machinery room
+shall be the lesser of: (i) not more than twenty percent of the normal charge in the system; or (ii) not more than 330 pounds (149.7 kg) in addition to the charge in the system and the
+refrigerant
+contained in a permanently attached
+receiver
+.
+Refrigerant
+shall be stored in containers meeting the requirements of the
+New York City Fire Code
+.
+Exception:
+Recovery service containers used for storing
+refrigerant
+during periods of system
+maintenance
+or replacement may exceed 330 pounds (149.7 kg) provided such containers are securely fixed in position and have
+pressure relief valves
+piped to the outside in conformance with this code.
+
+---
+
+Section 1106 Machinery Room, Special Requirements
+
+---
+
+## Section 1106.1: General
+
+1106.1 General
+Where required by
+Section 1104.2
+, the
+machinery room
+shall meet the requirements of this section in addition to the requirements of
+Section 1105
+.
+
+---
+
+Where required by
+Section 1104.2
+, the
+machinery room
+shall meet the requirements of this section in addition to the requirements of
+Section 1105
+.
+
+---
+
+## Section 1106.2: Elevated Temperature
+
+1106.2 Elevated Temperature
+There shall not be an open flame-producing device or continuously operating hot surface over 800°F (426.7°C) permanently installed in the room.
+
+---
+
+There shall not be an open flame-producing device or continuously operating hot surface over 800°F (426.7°C) permanently installed in the room.
+
+---
+
+## Section 1106.3: Ammonia Room Ventilation
+
+1106.3 Ammonia Room Ventilation
+Ventilation
+systems in ammonia
+machinery rooms
+shall be operated continuously at the
+ventilation
+rate specified in
+Section 1105.6.3
+.
+Exceptions:
+Machinery rooms
+equipped with a vapor detector that will automatically start the
+ventilation
+system at the
+ventilation
+rate specified in
+Section 1105.6.3
+and that will actuate an alarm at a detection level not to exceed 1,000 ppm.
+Machinery rooms
+conforming to the Class 1, Division 2,
+hazardous location
+classification requirements of the
+New York City Electrical Code
+.
+
+---
+
+Ventilation
+systems in ammonia
+machinery rooms
+shall be operated continuously at the
+ventilation
+rate specified in
+Section 1105.6.3
+.
+Exceptions:
+Machinery rooms
+equipped with a vapor detector that will automatically start the
+ventilation
+system at the
+ventilation
+rate specified in
+Section 1105.6.3
+and that will actuate an alarm at a detection level not to exceed 1,000 ppm.
+Machinery rooms
+conforming to the Class 1, Division 2,
+hazardous location
+classification requirements of the
+New York City Electrical Code
+.
+
+---
+
+## Section 1106.4: Flammable Refrigerants
+
+1106.4 Flammable Refrigerants
+Where
+refrigerants
+of Groups A2, A3, B2 or B3 are used, the
+machinery room
+shall conform to the Class 1, Division 2,
+hazardous location
+classification requirements of the
+New York City Electrical Code
+.
+Exceptions:
+Ammonia
+machinery rooms
+that are provided with
+ventilation
+in accordance with
+Section 1106.3
+. Nothing in this section shall be construed to approve the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+Machinery rooms
+for systems containing Group A2L
+refrigerants
+that are in
+accordance with
+ASHRAE 15
+.
+
+---
+
+Where
+refrigerants
+of Groups A2, A3, B2 or B3 are used, the
+machinery room
+shall conform to the Class 1, Division 2,
+hazardous location
+classification requirements of the
+New York City Electrical Code
+.
+Exceptions:
+Ammonia
+machinery rooms
+that are provided with
+ventilation
+in accordance with
+Section 1106.3
+. Nothing in this section shall be construed to approve the use of Group A3 and B3
+refrigerants
+if otherwise prohibited.
+Machinery rooms
+for systems containing Group A2L
+refrigerants
+that are in
+accordance with
+ASHRAE 15
+.
+
+---
+
+## Section 1106.5: Remote Controls
+
+1106.5 Remote Controls
+Remote
+control
+of the mechanical
+equipment
+and
+appliances
+located in the
+machinery room
+shall be provided at an accessible location immediately outside the
+machinery room
+and adjacent to its principal entrance and shall comply with Sections
+1106.5.1
+and
+1106.5.2
+.
+
+---
+
+Remote
+control
+of the mechanical
+equipment
+and
+appliances
+located in the
+machinery room
+shall be provided at an accessible location immediately outside the
+machinery room
+and adjacent to its principal entrance and shall comply with Sections
+1106.5.1
+and
+1106.5.2
+.
+
+---
+
+## Section 1106.5.1: Refrigeration System Emergency Shutoff
+
+1106.5.1 Refrigeration System Emergency Shutoff
+A clearly identified switch of the break-glass
+type or an approved tamper-resistant switch shall provide off-only
+control
+of
+refrigerant
+compressors
+,
+refrigerant
+pumps, and normally
+closed, automatic
+refrigerant
+valves located in the
+machinery room
+. Additionally, this
+equipment
+shall be automatically shut off whenever the
+refrigerant
+vapor concentration in the
+machinery room
+exceeds the vapor detector's upper detection limit or 25 percent of the LEL, whichever is
+lower.
+
+---
+
+A clearly identified switch of the break-glass
+type or an approved tamper-resistant switch shall provide off-only
+control
+of
+refrigerant
+compressors
+,
+refrigerant
+pumps, and normally
+closed, automatic
+refrigerant
+valves located in the
+machinery room
+. Additionally, this
+equipment
+shall be automatically shut off whenever the
+refrigerant
+vapor concentration in the
+machinery room
+exceeds the vapor detector's upper detection limit or 25 percent of the LEL, whichever is
+lower.
+
+---
+
+## Section 1106.5.2: Ventilation System
+
+1106.5.2 Ventilation System
+A clearly identified switch of the break-glass type or an approved
+tamper-resistant switch shall provide on-only
+control
+of the
+machinery room
+ventilation
+fans.
+
+---
+
+A clearly identified switch of the break-glass type or an approved
+tamper-resistant switch shall provide on-only
+control
+of the
+machinery room
+ventilation
+fans.
+
+---
+
+## Section 1106.6: Reserved
+
+1106.6 Reserved
+
+---
+
+Section 1107 Refrigerant Piping
+
+---
+
+## Section 1107.1: General
+
+1107.1 General
+The
+design
+of
+refrigerant
+piping
+shall be in accordance with ASME B31.5.
+Refrigerant
+piping
+shall be installed, tested and placed in
+operation
+in accordance with this chapter.
+
+---
+
+The
+design
+of
+refrigerant
+piping
+shall be in accordance with ASME B31.5.
+Refrigerant
+piping
+shall be installed, tested and placed in
+operation
+in accordance with this chapter.
+
+---
+
+## Section 1107.1.1: Protection of Refrigerant Piping Located Inside Buildings
+
+1107.1.1 Protection of Refrigerant Piping Located Inside Buildings
+All
+refrigerant
+piping
+and fittings installed at a height less than 7 feet 3 inches (2209.8 mm) above the floor shall be concealed or otherwise protected from mechanical damage except at the point of connection to terminal
+equipment
+.
+
+---
+
+All
+refrigerant
+piping
+and fittings installed at a height less than 7 feet 3 inches (2209.8 mm) above the floor shall be concealed or otherwise protected from mechanical damage except at the point of connection to terminal
+equipment
+.
+
+---
+
+## Section 1107.2: Piping Location
+
+1107.2 Piping Location
+Refrigerant
+piping
+that crosses an open space that affords passageway in any building shall be not less than 7 feet 3 inches (2209.8 mm) above the floor unless the
+piping
+is located against the ceiling of such space.
+Refrigerant
+piping
+shall not be placed in any elevator, dumbwaiter or other
+shaft
+containing a moving object or in any
+shaft
+that has openings to living quarters or to means of egress.
+Refrigerant
+piping
+shall not be installed in an enclosed public stairway, stairway landing or an exit.
+
+---
+
+Refrigerant
+piping
+that crosses an open space that affords passageway in any building shall be not less than 7 feet 3 inches (2209.8 mm) above the floor unless the
+piping
+is located against the ceiling of such space.
+Refrigerant
+piping
+shall not be placed in any elevator, dumbwaiter or other
+shaft
+containing a moving object or in any
+shaft
+that has openings to living quarters or to means of egress.
+Refrigerant
+piping
+shall not be installed in an enclosed public stairway, stairway landing or an exit.
+
+---
+
+## Section 1107.2.1: Piping in Public Corridors
+
+1107.2.1 Piping in Public Corridors
+Refrigerant
+piping
+shall not be installed in public corridors.
+Exception:
+Refrigerant
+piping
+in public corridors that complies with either of the following conditions:
+Piping
+containing Group A1
+refrigerant
+may be located in public corridors provided that the complete discharge of any one
+refrigerant
+system into the public corridor will not result in a
+refrigerant
+density equal to or greater than 50 percent of the allowable density set forth in
+Table 1103.1
+; and
+There is not more than one
+refrigerant
+system's
+piping
+per tenant; and
+Refrigerant
+piping
+and fittings are concealed or otherwise protected from mechanical damage; and either
+Refrigerant
+piping
+and fittings are installed with
+brazed joints
+; or
+The
+refrigerant
+equipment
+manufacturer provided pre-charged
+tubing
+systems installed in accordance with the
+refrigerant
+equipment
+manufacturer's instructions;
+Piping
+containing Group A1
+refrigerant
+may be located in public corridors provided that the complete discharge of any one
+refrigerant
+system into the public corridor will not result in a
+refrigerant
+density of 100 percent of the allowable
+refrigerant
+density set forth in
+Table 1103.1
+; and
+Such system is provided with fast-acting shutoff valves on both high and low pressure
+refrigerant
+line sets, actuated by either local
+refrigerant
+monitors in the corridor, or on sensing a drop in pressure on either high or low pressure
+refrigerant
+line sets; and
+Upon accidental discharge, actuation of installed
+refrigerant
+shutoff valves shall initiate locally installed alarm; and
+Installation
+of fast-acting shutoff valves,
+refrigerant
+detectors, and alarms shall be in accordance with
+Appendix C
+; and
+There is not more than one
+refrigerant
+system's
+piping
+per tenant; and
+Refrigerant
+piping
+and fittings are concealed or otherwise protected from mechanical damage; and either
+Refrigerant
+piping
+and fittings are installed with
+brazed joints
+; or
+The
+refrigerant
+equipment
+manufacturer provided pre-charged
+tubing
+systems installed in accordance with the
+refrigerant
+equipment
+manufacturer's instructions.
+
+---
+
+Refrigerant
+piping
+shall not be installed in public corridors.
+Exception:
+Refrigerant
+piping
+in public corridors that complies with either of the following conditions:
+Piping
+containing Group A1
+refrigerant
+may be located in public corridors provided that the complete discharge of any one
+refrigerant
+system into the public corridor will not result in a
+refrigerant
+density equal to or greater than 50 percent of the allowable density set forth in
+Table 1103.1
+; and
+There is not more than one
+refrigerant
+system's
+piping
+per tenant; and
+Refrigerant
+piping
+and fittings are concealed or otherwise protected from mechanical damage; and either
+Refrigerant
+piping
+and fittings are installed with
+brazed joints
+; or
+The
+refrigerant
+equipment
+manufacturer provided pre-charged
+tubing
+systems installed in accordance with the
+refrigerant
+equipment
+manufacturer's instructions;
+Piping
+containing Group A1
+refrigerant
+may be located in public corridors provided that the complete discharge of any one
+refrigerant
+system into the public corridor will not result in a
+refrigerant
+density of 100 percent of the allowable
+refrigerant
+density set forth in
+Table 1103.1
+; and
+Such system is provided with fast-acting shutoff valves on both high and low pressure
+refrigerant
+line sets, actuated by either local
+refrigerant
+monitors in the corridor, or on sensing a drop in pressure on either high or low pressure
+refrigerant
+line sets; and
+Upon accidental discharge, actuation of installed
+refrigerant
+shutoff valves shall initiate locally installed alarm; and
+Installation
+of fast-acting shutoff valves,
+refrigerant
+detectors, and alarms shall be in accordance with
+Appendix C
+; and
+There is not more than one
+refrigerant
+system's
+piping
+per tenant; and
+Refrigerant
+piping
+and fittings are concealed or otherwise protected from mechanical damage; and either
+Refrigerant
+piping
+and fittings are installed with
+brazed joints
+; or
+The
+refrigerant
+equipment
+manufacturer provided pre-charged
+tubing
+systems installed in accordance with the
+refrigerant
+equipment
+manufacturer's instructions.
+
+---
+
+## Section 1107.2.2: Piping in Concrete Floors
+
+1107.2.2 Piping in Concrete Floors
+Refrigerant
+piping
+installed in concrete floors shall be encased in
+pipe
+ducts
+. The
+piping
+shall be isolated and supported to prevent damaging vibration, stress and corrosion.
+
+---
+
+Refrigerant
+piping
+installed in concrete floors shall be encased in
+pipe
+ducts
+. The
+piping
+shall be isolated and supported to prevent damaging vibration, stress and corrosion.
+
+---
+
+## Section 1107.2.3: Refrigerant Piping Penetrations
+
+1107.2.3 Refrigerant Piping Penetrations
+Refrigerant
+piping
+shall not penetrate floors, ceilings or roofs.
+Exceptions:
+Penetrations connecting the basement and the first floor.
+Penetrations connecting the top floor and a machinery penthouse or roof
+installation
+.
+Penetrations connecting adjacent floors served by the
+refrigeration system
+.
+Penetrations by
+piping
+in a
+direct system
+where the
+refrigerant
+quantity does not exceed
+Table 1103.1
+for the smallest occupied space through which the
+piping
+passes.
+Penetrations by
+piping
+in a
+direct system
+complying with
+Section 1107.2.3.1
+.
+In other than industrial occupancies and where the
+refrigerant
+quantity exceeds
+Table 1103.1
+for the smallest space, penetrations for
+piping
+that connects separate pieces of
+equipment
+that are either:
+Enclosed by an approved gas-tight, fire-resistive
+duct
+or
+shaft
+with openings to those floors served by the
+refrigeration system
+; or
+Located on the exterior of the building where vented to the outdoors or to the space served by the system and not used as an
+air
+shaft
+, closed court or similar space.
+
+---
+
+Refrigerant
+piping
+shall not penetrate floors, ceilings or roofs.
+Exceptions:
+Penetrations connecting the basement and the first floor.
+Penetrations connecting the top floor and a machinery penthouse or roof
+installation
+.
+Penetrations connecting adjacent floors served by the
+refrigeration system
+.
+Penetrations by
+piping
+in a
+direct system
+where the
+refrigerant
+quantity does not exceed
+Table 1103.1
+for the smallest occupied space through which the
+piping
+passes.
+Penetrations by
+piping
+in a
+direct system
+complying with
+Section 1107.2.3.1
+.
+In other than industrial occupancies and where the
+refrigerant
+quantity exceeds
+Table 1103.1
+for the smallest space, penetrations for
+piping
+that connects separate pieces of
+equipment
+that are either:
+Enclosed by an approved gas-tight, fire-resistive
+duct
+or
+shaft
+with openings to those floors served by the
+refrigeration system
+; or
+Located on the exterior of the building where vented to the outdoors or to the space served by the system and not used as an
+air
+shaft
+, closed court or similar space.
+
+---
+
+## Section 1107.2.3.1: Direct Systems
+
+1107.2.3.1 Direct Systems
+Piping
+containing a quantity of Group A1
+refrigerants
+in excess
+of
+Table 1103.1
+for the smallest occupied space through which the
+piping
+passes, shall comply
+with
+Section 1107.9
+.
+
+---
+
+Piping
+containing a quantity of Group A1
+refrigerants
+in excess
+of
+Table 1103.1
+for the smallest occupied space through which the
+piping
+passes, shall comply
+with
+Section 1107.9
+.
+
+---
+
+## Section 1107.3: Pipe Enclosures
+
+1107.3 Pipe Enclosures
+Rigid or flexible metal enclosures or
+pipe
+ducts
+shall be provided for soft, annealed copper
+tubing
+used for
+refrigerant
+piping
+erected on the
+premises
+and containing other than Group A1
+refrigerant
+. Enclosures shall not be required for connections between
+condensing units
+and the nearest riser box(es), provided such connections do not exceed 6 feet (1828.8 mm) in length.
+
+---
+
+Rigid or flexible metal enclosures or
+pipe
+ducts
+shall be provided for soft, annealed copper
+tubing
+used for
+refrigerant
+piping
+erected on the
+premises
+and containing other than Group A1
+refrigerant
+. Enclosures shall not be required for connections between
+condensing units
+and the nearest riser box(es), provided such connections do not exceed 6 feet (1828.8 mm) in length.
+
+---
+
+## Section 1107.4: Condensation
+
+1107.4 Condensation
+Refrigerating
+piping
+and fittings, brine
+piping
+and fittings that, during normal
+operation
+, will reach a surface temperature below the dew point of the surrounding air, and are located in spaces or areas where condensation will cause a safety hazard to the building occupants, structure,
+electrical
+equipment
+or any other
+equipment
+or
+appliances
+, shall be protected in an approved manner to prevent such damage.
+
+---
+
+Refrigerating
+piping
+and fittings, brine
+piping
+and fittings that, during normal
+operation
+, will reach a surface temperature below the dew point of the surrounding air, and are located in spaces or areas where condensation will cause a safety hazard to the building occupants, structure,
+electrical
+equipment
+or any other
+equipment
+or
+appliances
+, shall be protected in an approved manner to prevent such damage.
+
+---
+
+## Section 1107.5: Materials for Refrigerant Pipe and Tubing
+
+1107.5 Materials for Refrigerant Pipe and Tubing
+Piping
+materials shall be as set forth in Sections
+1107.5.1
+through
+1107.5.7
+.
+
+---
+
+Piping
+materials shall be as set forth in Sections
+1107.5.1
+through
+1107.5.7
+.
+
+---
+
+## Section 1107.5.1: Steel Pipe
+
+1107.5.1 Steel Pipe
+Carbon steel
+pipe
+with a wall thickness not less than Schedule 80 shall be used for Group A2, A3, B2 or B3
+refrigerant
+liquid lines for sizes 1.5 inches (38.1 mm) and smaller. Carbon steel
+pipe
+with a wall thickness not less than Schedule 40 shall be used for Group A1 or B1
+refrigerant
+liquid lines 6 inches (152.4 mm) and smaller, Group A2, A3, B2 or B3
+refrigerant
+liquid lines sizes 2 inches (50.8 mm) through 6 inches (152.4 mm) and all
+refrigerant
+suction and discharge lines 6 inches (152.4 mm) and smaller. Type F steel
+pipe
+shall not be used for
+refrigerant
+lines having an operating temperature less than -20°F (-28.9°C).
+
+---
+
+Carbon steel
+pipe
+with a wall thickness not less than Schedule 80 shall be used for Group A2, A3, B2 or B3
+refrigerant
+liquid lines for sizes 1.5 inches (38.1 mm) and smaller. Carbon steel
+pipe
+with a wall thickness not less than Schedule 40 shall be used for Group A1 or B1
+refrigerant
+liquid lines 6 inches (152.4 mm) and smaller, Group A2, A3, B2 or B3
+refrigerant
+liquid lines sizes 2 inches (50.8 mm) through 6 inches (152.4 mm) and all
+refrigerant
+suction and discharge lines 6 inches (152.4 mm) and smaller. Type F steel
+pipe
+shall not be used for
+refrigerant
+lines having an operating temperature less than -20°F (-28.9°C).
+
+---
+
+## Section 1107.5.2: Copper and Brass Pipe
+
+1107.5.2 Copper and Brass Pipe
+Standard iron-
+pipe
+size, copper and red brass (not less than 80-percent copper)
+pipe
+shall conform to ASTM B 42 and ASTM B 43.
+
+---
+
+Standard iron-
+pipe
+size, copper and red brass (not less than 80-percent copper)
+pipe
+shall conform to ASTM B 42 and ASTM B 43.
+
+---
+
+## Section 1107.5.3: Copper Tube
+
+1107.5.3 Copper Tube
+Copper tube used for
+refrigerant
+piping
+erected on the
+premises
+shall be seamless copper tube of Type ACR (hard or annealed) complying with ASTM B 280. Where approved, copper tube for
+refrigerant
+piping
+erected on the
+premises
+shall be seamless copper tube of Type K or L (drawn or annealed) in accordance with ASTM B 88. Annealed temper copper tube shall not be used in sizes larger than a 2-inch (50.8 mm) nominal size.
+Mechanical joints
+shall not be used on annealed temper copper tube in sizes larger than
+7
+/
+8
+-inch (22.2 mm) OD size.
+
+---
+
+Copper tube used for
+refrigerant
+piping
+erected on the
+premises
+shall be seamless copper tube of Type ACR (hard or annealed) complying with ASTM B 280. Where approved, copper tube for
+refrigerant
+piping
+erected on the
+premises
+shall be seamless copper tube of Type K or L (drawn or annealed) in accordance with ASTM B 88. Annealed temper copper tube shall not be used in sizes larger than a 2-inch (50.8 mm) nominal size.
+Mechanical joints
+shall not be used on annealed temper copper tube in sizes larger than
+7
+/
+8
+-inch (22.2 mm) OD size.
+
+---
+
+## Section 1107.5.4: Copper Tubing Joints
+
+1107.5.4 Copper Tubing Joints
+Copper
+tubing
+joints used in
+refrigerating systems
+containing Group A2, A3, B1, B2 or B3
+refrigerants
+shall be brazed.
+Soldered joints
+shall not be used in such
+refrigerating systems
+.
+Brazed joints
+shall be made in accordance with
+ASME
+Boiler
+and Pressure Vessel Code
+, Section IX Welding and
+Brazing
+Qualifications or in accordance with American Welding Society AWS B2.2
+Standard for
+Brazing
+Procedure and Performance Qualification
+.
+
+---
+
+Copper
+tubing
+joints used in
+refrigerating systems
+containing Group A2, A3, B1, B2 or B3
+refrigerants
+shall be brazed.
+Soldered joints
+shall not be used in such
+refrigerating systems
+.
+Brazed joints
+shall be made in accordance with
+ASME
+Boiler
+and Pressure Vessel Code
+, Section IX Welding and
+Brazing
+Qualifications or in accordance with American Welding Society AWS B2.2
+Standard for
+Brazing
+Procedure and Performance Qualification
+.
+
+---
+
+## Section 1107.5.5: Soldered Joints
+
+1107.5.5 Soldered Joints
+Soldered joints
+shall be made as follows:
+soldered joint
+surfaces shall be cleaned, a flux conforming to ASTM B 813 shall be applied, and the
+joint
+shall be soldered with a solder conforming to ASTM B 32.
+
+---
+
+Soldered joints
+shall be made as follows:
+soldered joint
+surfaces shall be cleaned, a flux conforming to ASTM B 813 shall be applied, and the
+joint
+shall be soldered with a solder conforming to ASTM B 32.
+
+---
+
+## Section 1107.5.6: Aluminum Tube
+
+1107.5.6 Aluminum Tube
+Type 3 003-0 aluminum
+tubing
+with high-pressure fittings shall not be used with methyl chloride and other
+refrigerants
+known to deteriorate aluminum.
+
+---
+
+Type 3 003-0 aluminum
+tubing
+with high-pressure fittings shall not be used with methyl chloride and other
+refrigerants
+known to deteriorate aluminum.
+
+---
+
+## Section 1107.5.7: Insulation
+
+1107.5.7 Insulation
+Pipe
+and other
+refrigerant
+-containing components' insulation shall meet the requirements of
+Section 1204.1
+of this code.
+
+---
+
+Pipe
+and other
+refrigerant
+-containing components' insulation shall meet the requirements of
+Section 1204.1
+of this code.
+
+---
+
+## Section 1107.6: Joints and Refrigerant-Containing Parts in Air Ducts
+
+1107.6 Joints and Refrigerant-Containing Parts in Air Ducts
+Joints and all
+refrigerant
+-containing parts of a
+refrigerating system
+located in an
+air
+duct
+of an
+air-conditioning system
+carrying conditioned
+air
+to and from human-occupied space shall be constructed to withstand, without leakage, a pressure of 150 percent of the higher of the
+design
+pressure or
+pressure relief device
+setting.
+
+---
+
+Joints and all
+refrigerant
+-containing parts of a
+refrigerating system
+located in an
+air
+duct
+of an
+air-conditioning system
+carrying conditioned
+air
+to and from human-occupied space shall be constructed to withstand, without leakage, a pressure of 150 percent of the higher of the
+design
+pressure or
+pressure relief device
+setting.
+
+---
+
+## Section 1107.7: Exposure of Refrigerant Pipe Joints
+
+1107.7 Exposure of Refrigerant Pipe Joints
+Refrigerant
+pipe
+joints erected on the
+premises
+shall be exposed for visual inspection prior to being covered or enclosed.
+
+---
+
+Refrigerant
+pipe
+joints erected on the
+premises
+shall be exposed for visual inspection prior to being covered or enclosed.
+
+---
+
+## Section 1107.8: Stop Valves
+
+1107.8 Stop Valves
+Systems containing more than 6.6 pounds (3 kg) of a
+refrigerant
+in systems using positive-displacement
+compressors
+shall have
+stop valves
+installed as follows:
+At the inlet of each
+compressor
+,
+compressor unit
+or
+condensing unit
+.
+At the discharge
+outlet
+of each
+compressor
+,
+compressor unit
+or
+condensing unit
+and of each
+liquid receiver
+.
+Exceptions:
+Systems that have a
+refrigerant
+pumpout function capable of storing the entire
+refrigerant
+charge in a
+receiver
+or
+heat exchanger
+.
+Systems that are equipped with provisions for pumpout of the
+refrigerant
+using either portable or permanently installed recovery
+equipment
+.
+Self-contained systems.
+
+---
+
+Systems containing more than 6.6 pounds (3 kg) of a
+refrigerant
+in systems using positive-displacement
+compressors
+shall have
+stop valves
+installed as follows:
+At the inlet of each
+compressor
+,
+compressor unit
+or
+condensing unit
+.
+At the discharge
+outlet
+of each
+compressor
+,
+compressor unit
+or
+condensing unit
+and of each
+liquid receiver
+.
+Exceptions:
+Systems that have a
+refrigerant
+pumpout function capable of storing the entire
+refrigerant
+charge in a
+receiver
+or
+heat exchanger
+.
+Systems that are equipped with provisions for pumpout of the
+refrigerant
+using either portable or permanently installed recovery
+equipment
+.
+Self-contained systems.
+
+---
+
+## Section 1107.8.1: Liquid Receivers
+
+1107.8.1 Liquid Receivers
+Systems containing 100 pounds (45.4 kg) or more of a
+refrigerant
+, other than systems utilizing nonpositive displacement
+compressors
+, shall have
+stop valves
+, in addition to those required by
+Section 1107.8
+, on each inlet of each
+liquid receiver
+.
+Stop valves
+shall not be required on the inlet of a
+receiver
+in a
+condensing unit
+, nor on the inlet of a
+receiver
+which is an integral part of the
+condenser
+.
+
+---
+
+Systems containing 100 pounds (45.4 kg) or more of a
+refrigerant
+, other than systems utilizing nonpositive displacement
+compressors
+, shall have
+stop valves
+, in addition to those required by
+Section 1107.8
+, on each inlet of each
+liquid receiver
+.
+Stop valves
+shall not be required on the inlet of a
+receiver
+in a
+condensing unit
+, nor on the inlet of a
+receiver
+which is an integral part of the
+condenser
+.
+
+---
+
+## Section 1107.8.2: Copper Tubing
+
+1107.8.2 Copper Tubing
+Stop valves
+used with soft annealed copper
+tubing
+or hard-drawn copper
+tubing
+7
+/
+8
+-inch (22.2 mm) OD standard size or smaller shall be securely mounted, independent of
+tubing
+fastenings or
+supports
+.
+
+---
+
+Stop valves
+used with soft annealed copper
+tubing
+or hard-drawn copper
+tubing
+7
+/
+8
+-inch (22.2 mm) OD standard size or smaller shall be securely mounted, independent of
+tubing
+fastenings or
+supports
+.
+
+---
+
+## Section 1107.8.3: Identification
+
+1107.8.3 Identification
+Stop valves
+shall be identified where their intended purpose is not obvious. Numbers shall not be used to label the valves, unless a key to the numbers is located near the valves.
+
+---
+
+Stop valves
+shall be identified where their intended purpose is not obvious. Numbers shall not be used to label the valves, unless a key to the numbers is located near the valves.
+
+---
+
+## Section 1107.9: Alternative Refrigerant Piping Safety
+
+1107.9 Alternative Refrigerant Piping Safety
+Where
+refrigerant
+piping
+penetrates floors, ceilings,
+or roofs pursuant to
+Section 1107.2.3
+, it shall comply with the alternative safety requirements of
+Sections
+1107.9.1
+through
+1107.9.5
+.
+
+---
+
+Where
+refrigerant
+piping
+penetrates floors, ceilings,
+or roofs pursuant to
+Section 1107.2.3
+, it shall comply with the alternative safety requirements of
+Sections
+1107.9.1
+through
+1107.9.5
+.
+
+---
+
+## Section 1107.9.1: Nongas Tight Enclosures
+
+1107.9.1 Nongas Tight Enclosures
+Where
+refrigerant
+piping
+and fittings pass through public
+corridors or occupied spaces in
+shafts
+or cavities that are not gas tight, such
+piping
+and fittings
+shall comply with the requirements of EN378 Part 1, Section 3.2.3.
+
+---
+
+Where
+refrigerant
+piping
+and fittings pass through public
+corridors or occupied spaces in
+shafts
+or cavities that are not gas tight, such
+piping
+and fittings
+shall comply with the requirements of EN378 Part 1, Section 3.2.3.
+
+---
+
+## Section 1107.9.2: Occupied Spaces
+
+1107.9.2 Occupied Spaces
+Refrigerant
+piping
+systems in occupied spaces shall comply with the
+requirements of EN378 Part 1, Section C.3.2.1.
+
+---
+
+Refrigerant
+piping
+systems in occupied spaces shall comply with the
+requirements of EN378 Part 1, Section C.3.2.1.
+
+---
+
+## Section 1107.9.2.1: Space Volume Calculations
+
+1107.9.2.1 Space Volume Calculations
+Space volume calculations shall comply with EN378
+Part 1, Section 7.
+
+---
+
+Space volume calculations shall comply with EN378
+Part 1, Section 7.
+
+---
+
+## Section 1107.9.2.2: Dilution Transfer Openings
+
+1107.9.2.2 Dilution Transfer Openings
+Where required, dilution transfer openings shall be
+provided in accordance with EN378 Part 3, Section 6.3.2.
+
+---
+
+Where required, dilution transfer openings shall be
+provided in accordance with EN378 Part 3, Section 6.3.2.
+
+---
+
+## Section 1107.9.3: Refrigerant Shutoff Valves
+
+1107.9.3 Refrigerant Shutoff Valves
+Where required,
+refrigerant
+shutoff valves shall comply
+with the requirements of EN378 Part 3, Sections 6.4.1 through 6.4.3.
+
+---
+
+Where required,
+refrigerant
+shutoff valves shall comply
+with the requirements of EN378 Part 3, Sections 6.4.1 through 6.4.3.
+
+---
+
+## Section 1107.9.4: Refrigerant Safety Alarms
+
+1107.9.4 Refrigerant Safety Alarms
+Where required,
+refrigerant
+safety alarms shall comply with
+the requirements of EN378 Part 3, Sections 8.1 through 8.2.
+
+---
+
+Where required,
+refrigerant
+safety alarms shall comply with
+the requirements of EN378 Part 3, Sections 8.1 through 8.2.
+
+---
+
+## Section 1107.9.5: Refrigerant Detectors
+
+1107.9.5 Refrigerant Detectors
+Where required,
+refrigerant
+detectors shall comply with the
+requirements of EN378 Part 3, Section 9.3.1.
+
+---
+
+Where required,
+refrigerant
+detectors shall comply with the
+requirements of EN378 Part 3, Section 9.3.1.
+
+---
+
+Section 1108 Field Test
+
+---
+
+## Section 1108.1: General
+
+1108.1 General
+Every
+refrigerant
+-containing part of every system that is erected on the
+premises
+, except
+compressors
+,
+condensers
+, vessels,
+evaporators
+, safety devices, pressure gauges and
+control
+mechanisms that are listed and factory tested, shall be tested and proved tight after complete
+installation
+, and before
+operation
+. Tests shall include both the high- and low-
+pressure
+sides of each system at not less than the lower of the
+design
+pressures or the setting of the
+pressure relief device
+(s). The
+design
+pressures for testing shall be those listed on the condensing
+unit, compressor
+or
+compressor unit
+name-plate, as required by
+ASHRAE 15
+.
+Exceptions:
+Gas bulk storage tanks that are not permanently connected to a
+refrigeration system
+.
+Systems using an A1
+refrigerant
+erected on the
+premises
+with copper
+tubing
+not exceeding
+5
+/
+8
+-inch (15.8 mm) OD, with wall thickness as required by
+ASHRAE 15
+, shall be tested in accordance with Section 1108.1, or by means of
+refrigerant
+charged into the system at the saturated vapor
+pressure
+of the
+refrigerant
+at 70°F (21.1°C) or higher.
+Limited-charge systems equipped with a
+pressure relief device
+, erected on the
+premises
+, shall be tested at a pressure not less than one and one-half times the pressure setting of the relief device. If the
+equipment
+or
+appliance
+has been tested by the manufacturer at one and one-half times the
+design
+pressure
+, the test after erection on the
+premises
+shall be conducted at the
+design
+pressure.
+
+---
+
+Every
+refrigerant
+-containing part of every system that is erected on the
+premises
+, except
+compressors
+,
+condensers
+, vessels,
+evaporators
+, safety devices, pressure gauges and
+control
+mechanisms that are listed and factory tested, shall be tested and proved tight after complete
+installation
+, and before
+operation
+. Tests shall include both the high- and low-
+pressure
+sides of each system at not less than the lower of the
+design
+pressures or the setting of the
+pressure relief device
+(s). The
+design
+pressures for testing shall be those listed on the condensing
+unit, compressor
+or
+compressor unit
+name-plate, as required by
+ASHRAE 15
+.
+Exceptions:
+Gas bulk storage tanks that are not permanently connected to a
+refrigeration system
+.
+Systems using an A1
+refrigerant
+erected on the
+premises
+with copper
+tubing
+not exceeding
+5
+/
+8
+-inch (15.8 mm) OD, with wall thickness as required by
+ASHRAE 15
+, shall be tested in accordance with Section 1108.1, or by means of
+refrigerant
+charged into the system at the saturated vapor
+pressure
+of the
+refrigerant
+at 70°F (21.1°C) or higher.
+Limited-charge systems equipped with a
+pressure relief device
+, erected on the
+premises
+, shall be tested at a pressure not less than one and one-half times the pressure setting of the relief device. If the
+equipment
+or
+appliance
+has been tested by the manufacturer at one and one-half times the
+design
+pressure
+, the test after erection on the
+premises
+shall be conducted at the
+design
+pressure.
+
+---
+
+## Section 1108.1.1: Booster Compressor
+
+1108.1.1 Booster Compressor
+Where a
+compressor
+is used as a booster to obtain an intermediate pressure and discharges into the suction side of another
+compressor
+, the booster
+compressor
+shall be considered a part of the low side, provided that itis protected by a
+pressure relief device
+.
+
+---
+
+Where a
+compressor
+is used as a booster to obtain an intermediate pressure and discharges into the suction side of another
+compressor
+, the booster
+compressor
+shall be considered a part of the low side, provided that itis protected by a
+pressure relief device
+.
+
+---
+
+## Section 1108.1.2: Centrifugal/Nonpositive Displacement Compressors
+
+1108.1.2 Centrifugal/Nonpositive Displacement Compressors
+In field-testing systems using centrifugal or other nonpositive displacement
+compressors
+, the entire system shall be considered as the
+low-side pressure
+for field test purposes.
+
+---
+
+In field-testing systems using centrifugal or other nonpositive displacement
+compressors
+, the entire system shall be considered as the
+low-side pressure
+for field test purposes.
+
+---
+
+## Section 1108.2: Test Gases
+
+1108.2 Test Gases
+Tests shall be performed with an inert dried gas including, but not limited to, nitrogen and carbon dioxide. Oxygen, air, flammable gases and mixtures containing such gases shall not be used.
+Exceptions:
+The use of air is allowed to test R-717, ammonia, systems provided that they are subsequently evacuated before charging with
+refrigerant
+.
+Mixtures of dry nitrogen, inert gases, or a combination of them with nonflammable
+refrigerants
+in concentrations of a
+refrigerant
+weight fraction (mass fraction) not exceeding five are allowed for tests.
+
+---
+
+Tests shall be performed with an inert dried gas including, but not limited to, nitrogen and carbon dioxide. Oxygen, air, flammable gases and mixtures containing such gases shall not be used.
+Exceptions:
+The use of air is allowed to test R-717, ammonia, systems provided that they are subsequently evacuated before charging with
+refrigerant
+.
+Mixtures of dry nitrogen, inert gases, or a combination of them with nonflammable
+refrigerants
+in concentrations of a
+refrigerant
+weight fraction (mass fraction) not exceeding five are allowed for tests.
+
+---
+
+## Section 1108.3: Test Apparatus
+
+1108.3 Test Apparatus
+The means used to build up the test
+pressure
+shall have either a
+pressure-limiting device
+or a pressure-reducing device and a gauge on the
+outlet
+side.
+
+---
+
+The means used to build up the test
+pressure
+shall have either a
+pressure-limiting device
+or a pressure-reducing device and a gauge on the
+outlet
+side.
+
+---
+
+## Section 1108.4: Declaration
+
+1108.4 Declaration
+A certificate of test shall be provided for all systems containing 55 pounds (24.9 kg) or more of
+refrigerant
+. The certificate shall give the name of the
+refrigerant
+and the
+field test pressure
+applied to the high side and the low side of the system. The certification of test shall be signed by the installer and shall be made part of the public record.
+
+---
+
+A certificate of test shall be provided for all systems containing 55 pounds (24.9 kg) or more of
+refrigerant
+. The certificate shall give the name of the
+refrigerant
+and the
+field test pressure
+applied to the high side and the low side of the system. The certification of test shall be signed by the installer and shall be made part of the public record.
+
+---
+
+Section 1109 Periodic Testing
+
+---
+
+## Section 1109.1: Testing Required
+
+1109.1 Testing Required
+The following emergency devices and systems shall be periodically tested and the results logged in accordance with the manufacturer's instructions and as required by the Commissioner of the Fire Department:
+Treatment and flaring systems.
+Valves and appurtenances necessary to the
+operation
+of emergency refrigeration
+control
+boxes.
+Fans and associated
+equipment
+intended to operate emergency
+purge
+ventilation
+systems.
+Detection and alarm systems.
+
+---
+
+The following emergency devices and systems shall be periodically tested and the results logged in accordance with the manufacturer's instructions and as required by the Commissioner of the Fire Department:
+Treatment and flaring systems.
+Valves and appurtenances necessary to the
+operation
+of emergency refrigeration
+control
+boxes.
+Fans and associated
+equipment
+intended to operate emergency
+purge
+ventilation
+systems.
+Detection and alarm systems.
+
+---
+
+## Section 1109.2: Operation
+
+1109.2 Operation
+Operating permits and qualification of operators for refrigeration systems shall comply with the requirements of the
+New York City Fire Code
+.
+
+---
+
+Operating permits and qualification of operators for refrigeration systems shall comply with the requirements of the
+New York City Fire Code
+.
+
+---
+

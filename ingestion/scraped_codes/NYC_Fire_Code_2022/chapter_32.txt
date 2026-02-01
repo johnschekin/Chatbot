@@ -1,0 +1,3818 @@
+# NYC Fire Code 2022 - Chapter 32
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+3201 General
+
+---
+
+3202 Definitions
+
+---
+
+3203 Commodity Classification
+
+---
+
+3204 Designation of High-Piled Storage Areas
+
+---
+
+3205 Housekeeping and Maintenance
+
+---
+
+3206 General Fire Protection and Life Safety Features
+
+---
+
+3207 Solid-Piled and Shelf Storage
+
+---
+
+3208 Rack Storage
+
+---
+
+3209 Automated Storage
+
+---
+
+3210 Record Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Section 3201 General
+
+---
+
+## Section 3201.1: Scope
+
+3201.1 Scope
+This chapter shall govern
+high-piled combustible storage
+, and the design, installation, operation and
+maintenance
+of any building, structure or
+premises
+used for such purpose.
+
+---
+
+This chapter shall govern
+high-piled combustible storage
+, and the design, installation, operation and
+maintenance
+of any building, structure or
+premises
+used for such purpose.
+
+---
+
+## Section 3201.2: Permits
+
+3201.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 3201.3: Permit Application
+
+3201.3 Permit Application
+Applications
+for
+permits
+for
+high-piled combustible storage
+shall include
+design and installation documents
+that contain the following information, and such other information and documentation as the
+commissioner
+may prescribe:
+Floor plan of the building showing locations and dimensions of
+high-piled storage areas
+.
+Usable storage height for each storage area.
+Number of tiers within each rack, if applicable.
+Commodity
+clearance between top of storage and the sprinkler deflector for each storage arrangement.
+Aisle dimensions between each storage
+array
+.
+Maximum pile volume for each storage
+array
+.
+Location and classification of
+commodities
+in accordance with
+FC3203
+.
+Location of
+commodities
+that are banded or encapsulated.
+Location of required
+fire
+department
+access doors.
+Type of
+fire
+extinguishing and
+fire
+detection
+systems
+.
+Location of valves controlling the water supply of ceiling and in-rack sprinklers.
+Type, location and specifications of smoke removal and curtain board
+systems
+.
+Dimension and location of transverse and
+longitudinal flue spaces
+.
+Such other information, regarding design features,
+commodities
+, storage arrangement and
+fire
+protection features within the
+high-piled storage area
+, as may be required by the
+commissioner
+to ensure compliance with the requirements of this chapter.
+
+---
+
+Applications
+for
+permits
+for
+high-piled combustible storage
+shall include
+design and installation documents
+that contain the following information, and such other information and documentation as the
+commissioner
+may prescribe:
+Floor plan of the building showing locations and dimensions of
+high-piled storage areas
+.
+Usable storage height for each storage area.
+Number of tiers within each rack, if applicable.
+Commodity
+clearance between top of storage and the sprinkler deflector for each storage arrangement.
+Aisle dimensions between each storage
+array
+.
+Maximum pile volume for each storage
+array
+.
+Location and classification of
+commodities
+in accordance with
+FC3203
+.
+Location of
+commodities
+that are banded or encapsulated.
+Location of required
+fire
+department
+access doors.
+Type of
+fire
+extinguishing and
+fire
+detection
+systems
+.
+Location of valves controlling the water supply of ceiling and in-rack sprinklers.
+Type, location and specifications of smoke removal and curtain board
+systems
+.
+Dimension and location of transverse and
+longitudinal flue spaces
+.
+Such other information, regarding design features,
+commodities
+, storage arrangement and
+fire
+protection features within the
+high-piled storage area
+, as may be required by the
+commissioner
+to ensure compliance with the requirements of this chapter.
+
+---
+
+## Section 3201.3.1: Records
+
+3201.3.1 Records
+A copy of the
+permit application
+documents shall be maintained on the
+premises
+and made available for inspection by any
+department
+representative.
+
+---
+
+A copy of the
+permit application
+documents shall be maintained on the
+premises
+and made available for inspection by any
+department
+representative.
+
+---
+
+## Section 3201.4: Egress Plan
+
+3201.4 Egress Plan
+Where the area of the
+high-piled combustible storage
+requires a
+permit
+, the
+owner
+shall prepare and familiarize employees with an egress plan that indicates the location and width of aisles,
+exits
+,
+exit access
+doors,
+exit
+signs, height of storage and location of
+hazardous materials
+. Such plan shall be maintained in an
+approved
+location and shall be made available for inspection by any representative of the
+department
+.
+Exception:
+Any
+high-piled combustible storage
+facility
+or area required to have an emergency preparedness plan pursuant to
+FC Chapter 4
+.
+
+---
+
+Where the area of the
+high-piled combustible storage
+requires a
+permit
+, the
+owner
+shall prepare and familiarize employees with an egress plan that indicates the location and width of aisles,
+exits
+,
+exit access
+doors,
+exit
+signs, height of storage and location of
+hazardous materials
+. Such plan shall be maintained in an
+approved
+location and shall be made available for inspection by any representative of the
+department
+.
+Exception:
+Any
+high-piled combustible storage
+facility
+or area required to have an emergency preparedness plan pursuant to
+FC Chapter 4
+.
+
+---
+
+## Section 3201.5: General
+
+3201.5 General
+All buildings, structures and
+premises
+that contain
+high-piled combustible storage
+shall be designed, installed, operated and maintained in accordance with this chapter. In addition to the requirements of this chapter, the following material-specific requirements shall apply:
+Aerosols
+shall be in accordance with
+FC Chapter 51
+.
+Flammable and
+combustible liquids
+shall be in accordance with
+FC Chapter 57
+.
+Hazardous materials
+shall be in accordance with
+FC Chapter 50
+.
+Storage of combustible paper records shall be in accordance with
+NFPA 13
+, as modified by
+FC Appendix B
+.
+Storage of
+combustible fibers
+shall be in accordance with
+FC Chapter 37
+.
+Storage of miscellaneous combustible material shall be in accordance with
+FC Chapter 3
+.
+
+---
+
+All buildings, structures and
+premises
+that contain
+high-piled combustible storage
+shall be designed, installed, operated and maintained in accordance with this chapter. In addition to the requirements of this chapter, the following material-specific requirements shall apply:
+Aerosols
+shall be in accordance with
+FC Chapter 51
+.
+Flammable and
+combustible liquids
+shall be in accordance with
+FC Chapter 57
+.
+Hazardous materials
+shall be in accordance with
+FC Chapter 50
+.
+Storage of combustible paper records shall be in accordance with
+NFPA 13
+, as modified by
+FC Appendix B
+.
+Storage of
+combustible fibers
+shall be in accordance with
+FC Chapter 37
+.
+Storage of miscellaneous combustible material shall be in accordance with
+FC Chapter 3
+.
+
+---
+
+Section 3202 Definitions
+
+---
+
+## Section 3202.1: Definitions
+
+3202.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+ARRAY
+.
+ARRAY, CLOSED
+.
+AUTOMATED RACK STORAGE
+.
+BIN BOX
+.
+COMMODITY
+.
+DRAFT CURTAIN
+.
+EARLY SUPPRESSION FAST-RESPONSE (ESFR) SPRINKLER
+.
+ENCAPSULATION
+.
+EXPANDED PLASTIC
+.
+EXTRA-HIGH-RACK COMBUSTIBLE STORAGE
+.
+FLUE SPACE, LONGITUDINAL
+.
+FLUE SPACE, TRANSVERSE
+.
+HIGH-PILED COMBUSTIBLE STORAGE
+.
+HIGH-PILED STORAGE AREA
+.
+MANUAL STOCKING METHODS
+.
+MECHANICAL STOCKING METHODS
+.
+RACK STORAGE
+.
+SHELF STORAGE
+.
+SOLID SHELVING
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+ARRAY
+.
+ARRAY, CLOSED
+.
+AUTOMATED RACK STORAGE
+.
+BIN BOX
+.
+COMMODITY
+.
+DRAFT CURTAIN
+.
+EARLY SUPPRESSION FAST-RESPONSE (ESFR) SPRINKLER
+.
+ENCAPSULATION
+.
+EXPANDED PLASTIC
+.
+EXTRA-HIGH-RACK COMBUSTIBLE STORAGE
+.
+FLUE SPACE, LONGITUDINAL
+.
+FLUE SPACE, TRANSVERSE
+.
+HIGH-PILED COMBUSTIBLE STORAGE
+.
+HIGH-PILED STORAGE AREA
+.
+MANUAL STOCKING METHODS
+.
+MECHANICAL STOCKING METHODS
+.
+RACK STORAGE
+.
+SHELF STORAGE
+.
+SOLID SHELVING
+.
+
+---
+
+Section 3203 Commodity Classification
+
+---
+
+## Section 3203.1: Classification of Commodities
+
+3203.1 Classification of Commodities
+Commodities
+shall be classified as Class I, II, III, IV or high hazard in accordance with this section. Materials listed within each
+commodity
+classification are assumed to be unmodified for improved combustibility characteristics. Use of flame-retarding modifiers or the physical form of the material could change the classification.
+Group A
+, B and C plastic
+commodities
+are classified in
+FC3203.7
+and plastic shelving and pallets are addressed in
+FC3208.2.1
+.
+
+---
+
+Commodities
+shall be classified as Class I, II, III, IV or high hazard in accordance with this section. Materials listed within each
+commodity
+classification are assumed to be unmodified for improved combustibility characteristics. Use of flame-retarding modifiers or the physical form of the material could change the classification.
+Group A
+, B and C plastic
+commodities
+are classified in
+FC3203.7
+and plastic shelving and pallets are addressed in
+FC3208.2.1
+.
+
+---
+
+## Section 3203.2: Class I Commodities
+
+3203.2 Class I Commodities
+Class I
+commodities
+are essentially noncombustible products on wooden pallets, in ordinary corrugated
+cartons
+with or without single-thickness dividers, or in ordinary paper wrappings with or without pallets. Class I
+commodities
+are allowed to contain a limited amount of
+Group A
+plastics in accordance with
+FC3203.7.4
+. Examples of Class I
+commodities
+include the following:
+Alcoholic beverages not more than 20-percent alcohol
+Cement in bags
+Ceramics
+Dairy products in nonwax-coated
+containers
+(excluding bottles)
+Dry insecticides
+Electrical
+appliances, noncombustible
+Foods in noncombustible
+containers
+Fresh fruits and vegetables in nonplastic trays or
+containers
+Frozen foods
+Glass
+Glycol in metal cans
+Gypsum board
+Inert materials, bagged
+Insulation, noncombustible
+Liquids
+, noncombustible, in plastic
+containers
+having less than a 5-gallon (19 L) capacity
+Metal products, noncombustible
+
+---
+
+Class I
+commodities
+are essentially noncombustible products on wooden pallets, in ordinary corrugated
+cartons
+with or without single-thickness dividers, or in ordinary paper wrappings with or without pallets. Class I
+commodities
+are allowed to contain a limited amount of
+Group A
+plastics in accordance with
+FC3203.7.4
+. Examples of Class I
+commodities
+include the following:
+Alcoholic beverages not more than 20-percent alcohol
+Cement in bags
+Ceramics
+Dairy products in nonwax-coated
+containers
+(excluding bottles)
+Dry insecticides
+Electrical
+appliances, noncombustible
+Foods in noncombustible
+containers
+Fresh fruits and vegetables in nonplastic trays or
+containers
+Frozen foods
+Glass
+Glycol in metal cans
+Gypsum board
+Inert materials, bagged
+Insulation, noncombustible
+Liquids
+, noncombustible, in plastic
+containers
+having less than a 5-gallon (19 L) capacity
+Metal products, noncombustible
+
+---
+
+## Section 3203.3: Class II Commodities
+
+3203.3 Class II Commodities
+Class II
+commodities
+are Class I products in slatted wooden crates,
+solid
+wooden boxes, multiple-thickness paperboard
+cartons
+or equivalent combustible packaging material with or without pallets. Class II
+commodities
+are allowed to contain a limited amount of
+Group A
+plastics in accordance with
+FC3203.7.4
+. Examples of Class II
+commodities
+include the following:
+Alcoholic beverages not more than 20-percent alcohol, in combustible
+containers
+Foods in combustible
+containers
+Incandescent or fluorescent light bulbs in
+cartons
+Thinly coated fine wire on reels or in
+cartons
+
+---
+
+Class II
+commodities
+are Class I products in slatted wooden crates,
+solid
+wooden boxes, multiple-thickness paperboard
+cartons
+or equivalent combustible packaging material with or without pallets. Class II
+commodities
+are allowed to contain a limited amount of
+Group A
+plastics in accordance with
+FC3203.7.4
+. Examples of Class II
+commodities
+include the following:
+Alcoholic beverages not more than 20-percent alcohol, in combustible
+containers
+Foods in combustible
+containers
+Incandescent or fluorescent light bulbs in
+cartons
+Thinly coated fine wire on reels or in
+cartons
+
+---
+
+## Section 3203.4: Class III Commodities
+
+3203.4 Class III Commodities
+Class III
+commodities
+are
+commodities
+of wood, paper, natural fiber cloth, or Group C plastics or products thereof, with or without pallets. Products are allowed to contain limited amounts of
+Group A
+or B plastics, such as metal bicycles with plastic handles, pedals, seats and tires.
+Group A
+plastics shall be limited in accordance with
+FC3203.7.4
+. Examples of Class III
+commodities
+include the following:
+Aerosol
+,
+Level 1
+(see
+FC Chapter 51
+)
+Combustible fiberboard
+Cork, baled
+Feed, bagged
+Fertilizers, bagged
+Food in plastic
+containers
+Furniture: wood, natural fiber, upholstered, nonplastic, wood or metal with plastic-padded and covered arm rests
+Glycol in combustible
+containers
+not more than 25 percent
+Liquids
+, noncombustible, in plastic
+containers
+having a capacity of more than 5 gallons (19 L)
+Lubricating or hydraulic fluid in metal cans
+Lumber
+Mattresses, excluding foam rubber and foam plastics
+Paints, oil base, in metal cans
+Paper, waste, baled
+Paper and pulp, horizontal storage, or vertical storage that is banded or protected with
+approved
+wrap
+Paper in cardboard boxes
+Pillows, excluding foam rubber and foam plastics
+Plastic-coated paper food
+containers
+Plywood
+Rags, baled
+Rugs, without foam backing
+Sugar, bagged
+Wood, baled
+Wood doors, frames and cabinets
+Yarns of natural fiber and viscose
+
+---
+
+Class III
+commodities
+are
+commodities
+of wood, paper, natural fiber cloth, or Group C plastics or products thereof, with or without pallets. Products are allowed to contain limited amounts of
+Group A
+or B plastics, such as metal bicycles with plastic handles, pedals, seats and tires.
+Group A
+plastics shall be limited in accordance with
+FC3203.7.4
+. Examples of Class III
+commodities
+include the following:
+Aerosol
+,
+Level 1
+(see
+FC Chapter 51
+)
+Combustible fiberboard
+Cork, baled
+Feed, bagged
+Fertilizers, bagged
+Food in plastic
+containers
+Furniture: wood, natural fiber, upholstered, nonplastic, wood or metal with plastic-padded and covered arm rests
+Glycol in combustible
+containers
+not more than 25 percent
+Liquids
+, noncombustible, in plastic
+containers
+having a capacity of more than 5 gallons (19 L)
+Lubricating or hydraulic fluid in metal cans
+Lumber
+Mattresses, excluding foam rubber and foam plastics
+Paints, oil base, in metal cans
+Paper, waste, baled
+Paper and pulp, horizontal storage, or vertical storage that is banded or protected with
+approved
+wrap
+Paper in cardboard boxes
+Pillows, excluding foam rubber and foam plastics
+Plastic-coated paper food
+containers
+Plywood
+Rags, baled
+Rugs, without foam backing
+Sugar, bagged
+Wood, baled
+Wood doors, frames and cabinets
+Yarns of natural fiber and viscose
+
+---
+
+## Section 3203.5: Class IV Commodities
+
+3203.5 Class IV Commodities
+Class IV
+commodities
+are Class I, II or III products containing
+Group A
+plastics in ordinary corrugated
+cartons
+and Class I, II and III products, with
+Group A
+plastic packaging, with or without pallets.
+Group B
+plastics and free-flowing
+Group A
+plastics are also included in this class. The total amount of nonfree-flowing
+Group A
+plastics shall be in accordance with
+FC3203.7.4
+. Examples of Class IV
+commodities
+include the following:
+Aerosol
+,
+Level 2
+(see
+FC Chapter 51
+)
+Alcoholic beverages, more than 20-percent but less than 80-percent alcohol, in cans or bottles in
+cartons
+Clothing, synthetic or nonviscose
+Combustible metal products (
+solid
+)
+Furniture, plastic upholstered
+Furniture, wood or metal with plastic covering and padding
+Glycol in combustible
+containers
+(more than 25 percent and less than 50 percent)
+Linoleum products
+Paints, oil base in combustible
+containers
+Pharmaceutical, alcoholic elixirs, tonics, etc.
+Rugs, foam back
+Shingles, asphalt
+Thread or yarn, synthetic or nonviscose
+
+---
+
+Class IV
+commodities
+are Class I, II or III products containing
+Group A
+plastics in ordinary corrugated
+cartons
+and Class I, II and III products, with
+Group A
+plastic packaging, with or without pallets.
+Group B
+plastics and free-flowing
+Group A
+plastics are also included in this class. The total amount of nonfree-flowing
+Group A
+plastics shall be in accordance with
+FC3203.7.4
+. Examples of Class IV
+commodities
+include the following:
+Aerosol
+,
+Level 2
+(see
+FC Chapter 51
+)
+Alcoholic beverages, more than 20-percent but less than 80-percent alcohol, in cans or bottles in
+cartons
+Clothing, synthetic or nonviscose
+Combustible metal products (
+solid
+)
+Furniture, plastic upholstered
+Furniture, wood or metal with plastic covering and padding
+Glycol in combustible
+containers
+(more than 25 percent and less than 50 percent)
+Linoleum products
+Paints, oil base in combustible
+containers
+Pharmaceutical, alcoholic elixirs, tonics, etc.
+Rugs, foam back
+Shingles, asphalt
+Thread or yarn, synthetic or nonviscose
+
+---
+
+## Section 3203.6: High-Hazard Commodities
+
+3203.6 High-Hazard Commodities
+High-hazard
+commodities
+are high-hazard products presenting special
+fire
+hazards beyond those of Class I, II, III or IV.
+Group A
+plastics not otherwise classified are included in this class. Examples of high-hazard
+commodities
+include the following:
+Aerosol
+,
+Level 3
+(see
+FC Chapter 51
+)
+Alcoholic beverages, more than 80-percent alcohol, in bottles or
+cartons
+Commodities
+of any class in plastic
+containers
+in carousel storage
+Flammable solids
+(except
+solid
+combustible metals)
+Glycol in combustible
+containers
+(50 percent or more)
+Lacquers, which dry by solvent evaporation, in metal cans or
+cartons
+Lubricating or hydraulic fluid in plastic
+containers
+Mattresses, foam rubber or foam plastics
+Pallets and flats which are idle combustible
+Paper, asphalt, rolled, horizontal storage
+Paper, asphalt, rolled, vertical storage
+Paper and pulp, rolled, in vertical storage which is unbanded or not protected with an
+approved
+wrap
+Pillows, foam rubber and foam plastics
+Pyroxylin
+Rubber tires
+Vegetable oil and butter in plastic
+containers
+
+---
+
+High-hazard
+commodities
+are high-hazard products presenting special
+fire
+hazards beyond those of Class I, II, III or IV.
+Group A
+plastics not otherwise classified are included in this class. Examples of high-hazard
+commodities
+include the following:
+Aerosol
+,
+Level 3
+(see
+FC Chapter 51
+)
+Alcoholic beverages, more than 80-percent alcohol, in bottles or
+cartons
+Commodities
+of any class in plastic
+containers
+in carousel storage
+Flammable solids
+(except
+solid
+combustible metals)
+Glycol in combustible
+containers
+(50 percent or more)
+Lacquers, which dry by solvent evaporation, in metal cans or
+cartons
+Lubricating or hydraulic fluid in plastic
+containers
+Mattresses, foam rubber or foam plastics
+Pallets and flats which are idle combustible
+Paper, asphalt, rolled, horizontal storage
+Paper, asphalt, rolled, vertical storage
+Paper and pulp, rolled, in vertical storage which is unbanded or not protected with an
+approved
+wrap
+Pillows, foam rubber and foam plastics
+Pyroxylin
+Rubber tires
+Vegetable oil and butter in plastic
+containers
+
+---
+
+## Section 3203.7: Classification of Plastics
+
+3203.7 Classification of Plastics
+Plastics shall be designated as
+Group A
+, B or C in accordance with this section.
+
+---
+
+Plastics shall be designated as
+Group A
+, B or C in accordance with this section.
+
+---
+
+## Section 3203.7.1: Group A Plastics
+
+3203.7.1 Group A Plastics
+Group A
+plastics are plastic materials having a heat of combustion that is much higher than that of ordinary combustibles, and a burning rate higher than that of
+Group B
+plastics. Examples of
+Group A
+plastics include the following:
+ABS (acrylonitrile-butadiene-styrene copolymer)
+Acetal (polyformaldehyde)
+Acrylic (polymethyl methacrylate)
+Butyl rubber
+EPDM (ethylene propylene rubber)
+FRP (fiberglass-reinforced polyester)
+Natural rubber (expanded)
+Nitrile rubber (acrylonitrile butadiene rubber)
+PET or PETE (polyethylene terephthalate)
+Polybutadiene
+Polycarbonate
+Polyester elastomer
+Polyethylene
+Polypropylene
+Polystyrene (expanded and unexpanded)
+Polyurethane (expanded and unexpanded)
+PVC (polyvinyl chloride more than 15 percent plasticized, e.g., coated fabric unsupported film)
+SAN (styrene acrylonitrile)
+SBR (styrene butadiene rubber)
+
+---
+
+Group A
+plastics are plastic materials having a heat of combustion that is much higher than that of ordinary combustibles, and a burning rate higher than that of
+Group B
+plastics. Examples of
+Group A
+plastics include the following:
+ABS (acrylonitrile-butadiene-styrene copolymer)
+Acetal (polyformaldehyde)
+Acrylic (polymethyl methacrylate)
+Butyl rubber
+EPDM (ethylene propylene rubber)
+FRP (fiberglass-reinforced polyester)
+Natural rubber (expanded)
+Nitrile rubber (acrylonitrile butadiene rubber)
+PET or PETE (polyethylene terephthalate)
+Polybutadiene
+Polycarbonate
+Polyester elastomer
+Polyethylene
+Polypropylene
+Polystyrene (expanded and unexpanded)
+Polyurethane (expanded and unexpanded)
+PVC (polyvinyl chloride more than 15 percent plasticized, e.g., coated fabric unsupported film)
+SAN (styrene acrylonitrile)
+SBR (styrene butadiene rubber)
+
+---
+
+## Section 3203.7.2: Group B Plastics
+
+3203.7.2 Group B Plastics
+Group B
+plastics are plastic materials having a heat of combustion and a burning rate higher than that of ordinary combustibles, but not as high as those of
+Group A
+plastics. Examples of
+Group B
+plastics include the following:
+Cellulosics (cellulose acetate, cellulose acetate butyrate, ethyl cellulose)
+Chloroprene rubber
+Fluoroplastics (ECTFE, ethylene-chlorotrifluoroethylene copolymer; ETFE, ethylene-tetrafluoroethylene copolymer;
+FEP
+, fluorinated ethylene-propylene copolymer)
+Natural rubber (nonexpanded)
+Nylon (Nylon 6, Nylon 6/6)
+PVC (polyvinyl chloride more than 5-percent, but not more than 15-percent plasticized)
+Silicone rubber
+
+---
+
+Group B
+plastics are plastic materials having a heat of combustion and a burning rate higher than that of ordinary combustibles, but not as high as those of
+Group A
+plastics. Examples of
+Group B
+plastics include the following:
+Cellulosics (cellulose acetate, cellulose acetate butyrate, ethyl cellulose)
+Chloroprene rubber
+Fluoroplastics (ECTFE, ethylene-chlorotrifluoroethylene copolymer; ETFE, ethylene-tetrafluoroethylene copolymer;
+FEP
+, fluorinated ethylene-propylene copolymer)
+Natural rubber (nonexpanded)
+Nylon (Nylon 6, Nylon 6/6)
+PVC (polyvinyl chloride more than 5-percent, but not more than 15-percent plasticized)
+Silicone rubber
+
+---
+
+## Section 3203.7.3: Group C Plastics
+
+3203.7.3 Group C Plastics
+Group C plastics are plastic materials having a heat of combustion and a burning rate similar to those of ordinary combustibles. Examples of Group C plastics include the following:
+Fluoroplastics (PCTFE, polychlorotrifluoroethylene; PTFE, polytetrafluoroethylene)
+Melamine (melamine formaldehyde)
+Phenol
+PVC (polyvinyl chloride, rigid or plasticized less than 5 percent, e.g., pipe, pipe fittings)
+PVDC (polyvinylidene chloride)
+PVDF (polyvinylidene fluoride)
+PVF (polyvinyl fluoride)
+Urea (urea formaldehyde)
+
+---
+
+Group C plastics are plastic materials having a heat of combustion and a burning rate similar to those of ordinary combustibles. Examples of Group C plastics include the following:
+Fluoroplastics (PCTFE, polychlorotrifluoroethylene; PTFE, polytetrafluoroethylene)
+Melamine (melamine formaldehyde)
+Phenol
+PVC (polyvinyl chloride, rigid or plasticized less than 5 percent, e.g., pipe, pipe fittings)
+PVDC (polyvinylidene chloride)
+PVDF (polyvinylidene fluoride)
+PVF (polyvinyl fluoride)
+Urea (urea formaldehyde)
+
+---
+
+## Section 3203.7.4: Limited Quantities of Group A Plastics in Mixed Commodities
+
+3203.7.4 Limited Quantities of Group A Plastics in Mixed Commodities
+FC Figure 3203.7.4 shall be used to determine the quantity of
+Group A
+plastics allowed to be stored in a package or
+carton
+or on a pallet without increasing the
+commodity
+classification.
+FC
+FIGURE 3203.7.4
+MIXED
+COMMODITIES
+a, b
+This figure is intended to determine the
+commodity
+classification of a mixed
+commodity
+in a package,
+carton
+or on a pallet where plastics are involved.
+The following is an example of how to apply the figure: A package containing a Class III
+commodity
+has 12-percent
+Group A
+expanded plastic
+by volume. The weight of the unexpanded
+Group A
+plastic is 10 percent. This
+commodity
+is classified as a Class IV
+commodity
+. If the weight of the unexpanded plastic is increased to 14 percent, the classification changes to a high-hazard
+commodity
+.
+Percent by volume  =
+Volume of plastic in pallet load
+Total volume of pallet load, including pallet
+Percent by weight  =
+Weight of plastic in pallet load
+Total weight of pallet load, including pallet
+
+---
+
+FC Figure 3203.7.4 shall be used to determine the quantity of
+Group A
+plastics allowed to be stored in a package or
+carton
+or on a pallet without increasing the
+commodity
+classification.
+FC
+FIGURE 3203.7.4
+MIXED
+COMMODITIES
+a, b
+This figure is intended to determine the
+commodity
+classification of a mixed
+commodity
+in a package,
+carton
+or on a pallet where plastics are involved.
+The following is an example of how to apply the figure: A package containing a Class III
+commodity
+has 12-percent
+Group A
+expanded plastic
+by volume. The weight of the unexpanded
+Group A
+plastic is 10 percent. This
+commodity
+is classified as a Class IV
+commodity
+. If the weight of the unexpanded plastic is increased to 14 percent, the classification changes to a high-hazard
+commodity
+.
+Percent by volume  =
+Volume of plastic in pallet load
+Total volume of pallet load, including pallet
+Percent by weight  =
+Weight of plastic in pallet load
+Total weight of pallet load, including pallet
+
+---
+
+Section 3204 Designation of High-Piled Storage Areas
+
+---
+
+## Section 3204.1: General
+
+3204.1 General
+High-piled storage areas
+, and portions of
+high-piled storage areas
+for storage of a
+commodity
+class different from adjacent areas, shall be designed and specifically designated to contain Class I, Class II, Class III, Class IV or high-hazard
+commodities
+. The designation of a
+high-piled combustible storage
+area, or portion thereof intended for storage of a different
+commodity
+class, shall be based on the highest hazard
+commodity
+class stored except as provided in
+FC3204.2
+.
+
+---
+
+High-piled storage areas
+, and portions of
+high-piled storage areas
+for storage of a
+commodity
+class different from adjacent areas, shall be designed and specifically designated to contain Class I, Class II, Class III, Class IV or high-hazard
+commodities
+. The designation of a
+high-piled combustible storage
+area, or portion thereof intended for storage of a different
+commodity
+class, shall be based on the highest hazard
+commodity
+class stored except as provided in
+FC3204.2
+.
+
+---
+
+## Section 3204.2: Designation Based on Engineering Analysis
+
+3204.2 Designation Based on Engineering Analysis
+The designation of a
+high-piled combustible storage
+area, or portion thereof, is allowed to be based on a lower hazard class than that of the highest class of
+commodity
+stored when a limited quantity of the higher hazard
+commodity
+has been demonstrated by engineering analysis to be adequately protected by the
+sprinkler system
+provided. The engineering analysis shall consider the ability of the
+sprinkler system
+to deliver the higher density required by the higher hazard
+commodity
+. The higher density shall be based on the actual storage height of the pile or rack and the minimum allowable design area for sprinkler operation as set forth in the density/area figures provided in
+NFPA 13
+, as modified by
+FC Appendix B
+. The contiguous area occupied by the higher hazard
+commodity
+shall not exceed 120 square feet (11 m
+2
+), and additional areas of higher hazard
+commodity
+shall be separated from other such areas by 25 feet (7620 mm) or more. The
+sprinkler system
+shall be capable of delivering the higher density over a minimum area of 900 square feet (84 m
+2
+) for wet pipe
+systems
+and 1,200 square feet (111 m
+2
+) for dry pipe
+systems
+. The shape of the design area shall be in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+The designation of a
+high-piled combustible storage
+area, or portion thereof, is allowed to be based on a lower hazard class than that of the highest class of
+commodity
+stored when a limited quantity of the higher hazard
+commodity
+has been demonstrated by engineering analysis to be adequately protected by the
+sprinkler system
+provided. The engineering analysis shall consider the ability of the
+sprinkler system
+to deliver the higher density required by the higher hazard
+commodity
+. The higher density shall be based on the actual storage height of the pile or rack and the minimum allowable design area for sprinkler operation as set forth in the density/area figures provided in
+NFPA 13
+, as modified by
+FC Appendix B
+. The contiguous area occupied by the higher hazard
+commodity
+shall not exceed 120 square feet (11 m
+2
+), and additional areas of higher hazard
+commodity
+shall be separated from other such areas by 25 feet (7620 mm) or more. The
+sprinkler system
+shall be capable of delivering the higher density over a minimum area of 900 square feet (84 m
+2
+) for wet pipe
+systems
+and 1,200 square feet (111 m
+2
+) for dry pipe
+systems
+. The shape of the design area shall be in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Section 3205 Housekeeping and Maintenance
+
+---
+
+## Section 3205.1: Rack Structures
+
+3205.1 Rack Structures
+The structural integrity of racks shall be maintained.
+
+---
+
+The structural integrity of racks shall be maintained.
+
+---
+
+## Section 3205.2: Ignition Sources
+
+3205.2 Ignition Sources
+Clearance from ignition sources shall be provided in accordance with
+FC305
+.
+
+---
+
+Clearance from ignition sources shall be provided in accordance with
+FC305
+.
+
+---
+
+## Section 3205.3: Smoking
+
+3205.3 Smoking
+Smoking is prohibited in
+high-piled storage areas
+. "No Smoking" signs complying with the requirements of
+FC310
+shall be conspicuously posted in such areas.
+
+---
+
+Smoking is prohibited in
+high-piled storage areas
+. "No Smoking" signs complying with the requirements of
+FC310
+shall be conspicuously posted in such areas.
+
+---
+
+## Section 3205.4: Aisle Maintenance
+
+3205.4 Aisle Maintenance
+When restocking is not being conducted, aisles shall be kept clear of stored or waste material.
+Fire
+department
+access doors, aisles and
+exit
+doors shall not be obstructed. During restocking operations using
+manual stocking methods
+, a minimum unobstructed aisle width of 24 inches (610 mm) shall be maintained in 48-inch (1219-mm) or smaller aisles, and a minimum unobstructed aisle width of one-half of the required aisle width shall be maintained in aisles greater than 48 inches (1219 mm). During mechanical stocking operations, a minimum unobstructed aisle width of 44 inches (1118 mm) shall be maintained in accordance with
+FC3206.9
+.
+
+---
+
+When restocking is not being conducted, aisles shall be kept clear of stored or waste material.
+Fire
+department
+access doors, aisles and
+exit
+doors shall not be obstructed. During restocking operations using
+manual stocking methods
+, a minimum unobstructed aisle width of 24 inches (610 mm) shall be maintained in 48-inch (1219-mm) or smaller aisles, and a minimum unobstructed aisle width of one-half of the required aisle width shall be maintained in aisles greater than 48 inches (1219 mm). During mechanical stocking operations, a minimum unobstructed aisle width of 44 inches (1118 mm) shall be maintained in accordance with
+FC3206.9
+.
+
+---
+
+## Section 3205.5: Pile Dimension and Height Limitations
+
+3205.5 Pile Dimension and Height Limitations
+Pile dimensions and height limitations shall comply with the requirements of
+FC3207.3
+.
+
+---
+
+Pile dimensions and height limitations shall comply with the requirements of
+FC3207.3
+.
+
+---
+
+## Section 3205.6: Arrays
+
+3205.6 Arrays
+Arrays
+shall comply with the requirements of
+FC3207.4
+.
+
+---
+
+Arrays
+shall comply with the requirements of
+FC3207.4
+.
+
+---
+
+## Section 3205.7: Flue Spaces
+
+3205.7 Flue Spaces
+Flue spaces shall comply with the requirements of
+FC3208.3
+.
+
+---
+
+Flue spaces shall comply with the requirements of
+FC3208.3
+.
+
+---
+
+Section 3206 General Fire Protection and Life Safety Features
+
+---
+
+## Section 3206.1: General
+
+3206.1 General
+Fire
+protection and life safety features for
+high-piled storage areas
+shall be in accordance with this section.
+
+---
+
+Fire
+protection and life safety features for
+high-piled storage areas
+shall be in accordance with this section.
+
+---
+
+## Section 3206.2: Extent and Type of Protection
+
+3206.2 Extent and Type of Protection
+Where required by FC Table 3206.2,
+fire
+detection
+systems
+, smoke and heat removal,
+draft curtains
+and sprinkler design densities shall extend the lesser of 15 feet (4572 mm) beyond the
+high-piled storage area
+or to a permanent partition. Where portions of
+high-piled storage areas
+have different
+fire
+protection requirements because of
+commodity
+, method of storage or storage height, the
+fire
+protection features required by FC Table 3206.2 within this area shall be based on the most restrictive design requirements.
+FC
+TABLE 3206.2
+GENERAL
+FIRE
+PROTECTION AND LIFE SAFETY REQUIREMENTS
+COMMODITY
+CLASS
+SIZE OF
+HIGH-PILED STORAGE AREA
+a
+(square feet)
+(see FC 3206.2 and
+3206.4
+)
+ALL STORAGE AREAS
+(See FC 3206, 3207 and 3208)
+b
+SOLID
+-PILED
+STORAGE, SHELF
+STORAGE AND PALLETIZED STORAGE (see
+FC3207.3
+)
+Automatic
+fire
+-extinguishing
+system
+(see
+FC3206.4
+)
+Fire
+detection
+system
+(see
+FC3206.5
+)
+Building Access
+(see
+FC3206.6
+)
+Smoke and heat removal
+(see
+FC3206.7
+)
+Draft curtains
+(see
+FC3206.7
+)
+Maximum pile dimension
+c
+(feet)
+Maximum permissible storage height
+d
+(feet)
+Maximum pile volume
+(cubic feet)
+I-IV
+0-500
+Not Required
+a
+Not Required
+Not Required
+e
+Not Required
+Not Required
+Not Required
+Not Required
+Not Required
+501-2,500
+Not Required
+a
+Yes
+i
+Not Required
+e
+Not Required
+Not Required
+100
+40
+100,000
+2,501-12,000 Public accessible
+Yes
+Not Required
+Not Required
+e
+Not Required
+Not Required
+100
+40
+400,000
+2,501-12,000 Nonpublic accessible (Option 1)
+Yes
+Not Required
+Not Required
+e
+Not Required
+Not Required
+100
+40
+400,000
+2,501-12,000 Nonpublic accessible (Option 2)
+Not Required
+a
+Yes
+Yes
+Yes
+j
+Yes
+j
+100
+30
+f
+200,000
+12,001-20,000
+Yes
+Not Required
+Yes
+Yes
+j
+Not Required
+100
+40
+400,000
+20,001-500,000
+Yes
+Not Required
+Yes
+Yes
+j
+Not Required
+100
+40
+400,000
+Greater than 500,000
+g
+Yes
+Not Required
+Yes
+Yes
+j
+Not Required
+100
+40
+400,000
+High hazard
+0-500
+Not Required
+a
+Not Required
+Not Required
+e
+Not Required
+Not Required
+50
+Not Required
+Not Required
+501-2,500 Public accessible
+Yes
+Not Required
+Not Required
+e
+Not Required
+Not Required
+50
+30
+75,000
+501-2,500 Nonpublic accessible (Option 1)
+Yes
+Not Required
+Not Required
+e
+Not Required
+Not Required
+50
+30
+75,000
+501-2,500 Nonpublic accessible (Option 2)
+Not Required
+a
+Yes
+Yes
+Yes
+j
+Yes
+j
+50
+20
+50,000
+2,501-300,000
+Yes
+Not Required
+Yes
+Yes
+j
+Not Required
+50
+30
+75,000
+300,001-500,000
+g, h
+Yes
+Not Required
+Yes
+Yes
+j
+Not Required
+50
+30
+75,000
+For SI: 1 foot = 304.8 mm, 1 cubic foot = 0.02832 m
+3
+, 1 square foot = 0.0929 m
+2
+.
+When
+sprinkler systems
+are required for reasons other than those in
+FC Chapter 32
+, the portion of the
+sprinkler system
+protecting the
+high-piled storage area
+shall be designed and installed in accordance with
+FC 3207
+and
+3208
+.
+For aisles, see
+FC3206.9
+.
+Piles shall be separated by aisles complying with the requirements of
+FC3206.9
+.
+For storage in excess of the height indicated, special
+fire
+protection shall be provided in accordance with Note g when required by the
+commissioner
+. See also FC Chapters
+51
+and
+57
+for special limitations for
+aerosols
+and flammable and
+combustible liquids
+.
+FC503 shall apply for
+fire
+apparatus access.
+For storage exceeding 30 feet in height, Option 1 shall be used.
+Special
+fire
+protection provisions including
+fire
+protection of exposed
+steel
+columns; increased sprinkler density; additional in-rack sprinklers, without associated reductions in ceiling sprinkler density; or additional
+fire
+department
+hose connections shall be provided when required by the
+commissioner
+.
+High-piled storage areas
+shall not exceed 500,000 square feet. A 2-hour
+fire
+wall constructed in accordance with the
+construction codes
+, including the
+Building Code
+shall be used to divide high-piled storage exceeding 500,000 square feet in area.
+Not required when a
+fire extinguishing system
+is designed and installed to protect the
+high-piled storage area
+in accordance with
+FC 3207
+and
+3208
+.
+Not required when storage areas are protected throughout by early suppression fast response (ESFR)
+sprinkler systems
+installed in accordance with
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+Where required by FC Table 3206.2,
+fire
+detection
+systems
+, smoke and heat removal,
+draft curtains
+and sprinkler design densities shall extend the lesser of 15 feet (4572 mm) beyond the
+high-piled storage area
+or to a permanent partition. Where portions of
+high-piled storage areas
+have different
+fire
+protection requirements because of
+commodity
+, method of storage or storage height, the
+fire
+protection features required by FC Table 3206.2 within this area shall be based on the most restrictive design requirements.
+FC
+TABLE 3206.2
+GENERAL
+FIRE
+PROTECTION AND LIFE SAFETY REQUIREMENTS
+COMMODITY
+CLASS
+SIZE OF
+HIGH-PILED STORAGE AREA
+a
+(square feet)
+(see FC 3206.2 and
+3206.4
+)
+ALL STORAGE AREAS
+(See FC 3206, 3207 and 3208)
+b
+SOLID
+-PILED
+STORAGE, SHELF
+STORAGE AND PALLETIZED STORAGE (see
+FC3207.3
+)
+Automatic
+fire
+-extinguishing
+system
+(see
+FC3206.4
+)
+Fire
+detection
+system
+(see
+FC3206.5
+)
+Building Access
+(see
+FC3206.6
+)
+Smoke and heat removal
+(see
+FC3206.7
+)
+Draft curtains
+(see
+FC3206.7
+)
+Maximum pile dimension
+c
+(feet)
+Maximum permissible storage height
+d
+(feet)
+Maximum pile volume
+(cubic feet)
+I-IV
+0-500
+Not Required
+a
+Not Required
+Not Required
+e
+Not Required
+Not Required
+Not Required
+Not Required
+Not Required
+501-2,500
+Not Required
+a
+Yes
+i
+Not Required
+e
+Not Required
+Not Required
+100
+40
+100,000
+2,501-12,000 Public accessible
+Yes
+Not Required
+Not Required
+e
+Not Required
+Not Required
+100
+40
+400,000
+2,501-12,000 Nonpublic accessible (Option 1)
+Yes
+Not Required
+Not Required
+e
+Not Required
+Not Required
+100
+40
+400,000
+2,501-12,000 Nonpublic accessible (Option 2)
+Not Required
+a
+Yes
+Yes
+Yes
+j
+Yes
+j
+100
+30
+f
+200,000
+12,001-20,000
+Yes
+Not Required
+Yes
+Yes
+j
+Not Required
+100
+40
+400,000
+20,001-500,000
+Yes
+Not Required
+Yes
+Yes
+j
+Not Required
+100
+40
+400,000
+Greater than 500,000
+g
+Yes
+Not Required
+Yes
+Yes
+j
+Not Required
+100
+40
+400,000
+High hazard
+0-500
+Not Required
+a
+Not Required
+Not Required
+e
+Not Required
+Not Required
+50
+Not Required
+Not Required
+501-2,500 Public accessible
+Yes
+Not Required
+Not Required
+e
+Not Required
+Not Required
+50
+30
+75,000
+501-2,500 Nonpublic accessible (Option 1)
+Yes
+Not Required
+Not Required
+e
+Not Required
+Not Required
+50
+30
+75,000
+501-2,500 Nonpublic accessible (Option 2)
+Not Required
+a
+Yes
+Yes
+Yes
+j
+Yes
+j
+50
+20
+50,000
+2,501-300,000
+Yes
+Not Required
+Yes
+Yes
+j
+Not Required
+50
+30
+75,000
+300,001-500,000
+g, h
+Yes
+Not Required
+Yes
+Yes
+j
+Not Required
+50
+30
+75,000
+For SI: 1 foot = 304.8 mm, 1 cubic foot = 0.02832 m
+3
+, 1 square foot = 0.0929 m
+2
+.
+When
+sprinkler systems
+are required for reasons other than those in
+FC Chapter 32
+, the portion of the
+sprinkler system
+protecting the
+high-piled storage area
+shall be designed and installed in accordance with
+FC 3207
+and
+3208
+.
+For aisles, see
+FC3206.9
+.
+Piles shall be separated by aisles complying with the requirements of
+FC3206.9
+.
+For storage in excess of the height indicated, special
+fire
+protection shall be provided in accordance with Note g when required by the
+commissioner
+. See also FC Chapters
+51
+and
+57
+for special limitations for
+aerosols
+and flammable and
+combustible liquids
+.
+FC503 shall apply for
+fire
+apparatus access.
+For storage exceeding 30 feet in height, Option 1 shall be used.
+Special
+fire
+protection provisions including
+fire
+protection of exposed
+steel
+columns; increased sprinkler density; additional in-rack sprinklers, without associated reductions in ceiling sprinkler density; or additional
+fire
+department
+hose connections shall be provided when required by the
+commissioner
+.
+High-piled storage areas
+shall not exceed 500,000 square feet. A 2-hour
+fire
+wall constructed in accordance with the
+construction codes
+, including the
+Building Code
+shall be used to divide high-piled storage exceeding 500,000 square feet in area.
+Not required when a
+fire extinguishing system
+is designed and installed to protect the
+high-piled storage area
+in accordance with
+FC 3207
+and
+3208
+.
+Not required when storage areas are protected throughout by early suppression fast response (ESFR)
+sprinkler systems
+installed in accordance with
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+## Section 3206.3: Separation of High-Piled Storage Areas
+
+3206.3 Separation of High-Piled Storage Areas
+High-piled storage areas
+shall be separated from other portions of the building where required by
+FC 3206.3.1
+through
+3206.3.2.2
+.
+
+---
+
+High-piled storage areas
+shall be separated from other portions of the building where required by
+FC 3206.3.1
+through
+3206.3.2.2
+.
+
+---
+
+## Section 3206.3.1: Separation From Other Uses
+
+3206.3.1 Separation From Other Uses
+Mixed
+occupancies
+shall be separated in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Mixed
+occupancies
+shall be separated in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 3206.3.2: Multiple High-Piled Storage Areas
+
+3206.3.2 Multiple High-Piled Storage Areas
+Multiple
+high-piled storage areas
+shall be designed and installed in accordance with
+FC 3206.3.2.1
+or
+3206.3.2.2
+.
+
+---
+
+Multiple
+high-piled storage areas
+shall be designed and installed in accordance with
+FC 3206.3.2.1
+or
+3206.3.2.2
+.
+
+---
+
+## Section 3206.3.2.1: Aggregate Area
+
+3206.3.2.1 Aggregate Area
+The aggregate of all
+high-piled storage areas
+within a building shall be used for
+application
+of FC
+Table 3206.2
+unless such areas are separated from each other by 1-hour
+fire
+-resistance-rated
+fire
+barrier walls constructed in accordance with the
+construction codes
+, including the
+Building Code
+. Openings in such walls shall be protected by opening protective assemblies having a 1-hour
+fire
+protection rating.
+
+---
+
+The aggregate of all
+high-piled storage areas
+within a building shall be used for
+application
+of FC
+Table 3206.2
+unless such areas are separated from each other by 1-hour
+fire
+-resistance-rated
+fire
+barrier walls constructed in accordance with the
+construction codes
+, including the
+Building Code
+. Openings in such walls shall be protected by opening protective assemblies having a 1-hour
+fire
+protection rating.
+
+---
+
+## Section 3206.3.2.2: Multiclass High-Piled Storage Areas
+
+3206.3.2.2 Multiclass High-Piled Storage Areas
+High-piled storage areas
+classified as Class I through Class IV not separated from
+high-piled storage areas
+classified as high hazard shall utilize the aggregate of all
+high-piled storage areas
+as high hazard for purposes of
+application
+of FC
+Table 3206.2
+. To be considered as separated, 1-hour
+fire
+-resistance-rated
+fire
+barrier walls shall be constructed in accordance with the
+construction codes
+, including the
+Building Code
+. Openings in such walls shall be protected by opening protective assemblies having a 1-hour
+fire
+protection rating.
+Exception:
+As provided for in
+FC3204.2
+.
+
+---
+
+High-piled storage areas
+classified as Class I through Class IV not separated from
+high-piled storage areas
+classified as high hazard shall utilize the aggregate of all
+high-piled storage areas
+as high hazard for purposes of
+application
+of FC
+Table 3206.2
+. To be considered as separated, 1-hour
+fire
+-resistance-rated
+fire
+barrier walls shall be constructed in accordance with the
+construction codes
+, including the
+Building Code
+. Openings in such walls shall be protected by opening protective assemblies having a 1-hour
+fire
+protection rating.
+Exception:
+As provided for in
+FC3204.2
+.
+
+---
+
+## Section 3206.4: Sprinkler Systems
+
+3206.4 Sprinkler Systems
+Sprinkler systems
+shall be provided in accordance with
+FC 3207
+,
+3208
+and
+3209
+.
+
+---
+
+Sprinkler systems
+shall be provided in accordance with
+FC 3207
+,
+3208
+and
+3209
+.
+
+---
+
+## Section 3206.5: Fire Detection
+
+3206.5 Fire Detection
+Where
+fire
+detection is required by FC
+Table 3206.2
+, an
+approved
+automatic
+fire
+detection
+system
+shall be installed throughout the
+high-piled storage area
+. The
+system
+shall be monitored and be in accordance with
+FC907
+.
+
+---
+
+Where
+fire
+detection is required by FC
+Table 3206.2
+, an
+approved
+automatic
+fire
+detection
+system
+shall be installed throughout the
+high-piled storage area
+. The
+system
+shall be monitored and be in accordance with
+FC907
+.
+
+---
+
+## Section 3206.6: Building Access
+
+3206.6 Building Access
+Where building access is required by FC
+Table 3206.2
+,
+fire apparatus access roads
+in accordance with
+FC503
+shall be provided within 150 feet (45 720 mm) of all portions of the exterior walls of buildings used for high-piled storage.
+Exception:
+Where
+fire apparatus access roads
+cannot be installed because of topography,
+railways
+, waterways, non-negotiable grades or other similar conditions, the
+commissioner
+may require additional
+fire
+protection.
+
+---
+
+Where building access is required by FC
+Table 3206.2
+,
+fire apparatus access roads
+in accordance with
+FC503
+shall be provided within 150 feet (45 720 mm) of all portions of the exterior walls of buildings used for high-piled storage.
+Exception:
+Where
+fire apparatus access roads
+cannot be installed because of topography,
+railways
+, waterways, non-negotiable grades or other similar conditions, the
+commissioner
+may require additional
+fire
+protection.
+
+---
+
+## Section 3206.6.1: Access Doors
+
+3206.6.1 Access Doors
+Where building access is required by FC
+Table 3206.2
+,
+fire
+department
+access doors shall be provided in accordance with this section. Access doors shall be accessible without the use of a ladder.
+
+---
+
+Where building access is required by FC
+Table 3206.2
+,
+fire
+department
+access doors shall be provided in accordance with this section. Access doors shall be accessible without the use of a ladder.
+
+---
+
+## Section 3206.6.1.1: Number of Doors Required
+
+3206.6.1.1 Number of Doors Required
+A minimum of one access door shall be provided in each 100 lineal feet (30 480 mm), or fraction thereof, of the exterior walls which face required
+fire apparatus access roads
+. The required access doors shall be distributed such that the lineal distance between adjacent access doors does not exceed 100 feet (30 480 mm).
+
+---
+
+A minimum of one access door shall be provided in each 100 lineal feet (30 480 mm), or fraction thereof, of the exterior walls which face required
+fire apparatus access roads
+. The required access doors shall be distributed such that the lineal distance between adjacent access doors does not exceed 100 feet (30 480 mm).
+
+---
+
+## Section 3206.6.1.2: Door Size and Type
+
+3206.6.1.2 Door Size and Type
+Access doors shall not be less than 3 feet (914 mm) in width and 6 feet 8 inches (2032 mm) in height. Roll-up doors shall not be used unless
+approved
+.
+
+---
+
+Access doors shall not be less than 3 feet (914 mm) in width and 6 feet 8 inches (2032 mm) in height. Roll-up doors shall not be used unless
+approved
+.
+
+---
+
+## Section 3206.6.1.3: Locking Devices
+
+3206.6.1.3 Locking Devices
+Only
+approved
+locking devices shall be used.
+
+---
+
+Only
+approved
+locking devices shall be used.
+
+---
+
+## Section 3206.7: Smoke and Heat Removal
+
+3206.7 Smoke and Heat Removal
+Where smoke and heat removal are required by FC
+Table 3206.2
+, smoke and heat vents shall be provided in accordance with the
+construction codes
+, including the
+Building Code
+. Where
+draft curtains
+are required by FC
+Table 3206.2
+, they shall be provided in accordance with the
+construction codes
+, including the
+Building Code
+.
+UpCodes Diagram (1)
+
+---
+
+Where smoke and heat removal are required by FC
+Table 3206.2
+, smoke and heat vents shall be provided in accordance with the
+construction codes
+, including the
+Building Code
+. Where
+draft curtains
+are required by FC
+Table 3206.2
+, they shall be provided in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 3206.8: Fire Department Hose Connections
+
+3206.8 Fire Department Hose Connections
+Where
+exit
+passageways are required by the
+construction codes
+, including the
+Building Code
+for egress, a Class I
+standpipe system
+shall be provided in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Where
+exit
+passageways are required by the
+construction codes
+, including the
+Building Code
+for egress, a Class I
+standpipe system
+shall be provided in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 3206.9: Aisles
+
+3206.9 Aisles
+Aisles providing access to
+exits
+and
+fire
+department
+access doors shall be provided in
+high-piled storage areas
+exceeding 500 square feet (46 m
+2
+), in accordance with
+FC 3206.9.1
+through
+3206.9.3
+. Aisles separating storage piles or racks shall comply with the requirements of
+NFPA 13
+, as modified by
+FC Appendix B
+. Aisles shall also comply with the requirements of the
+construction codes
+, including the
+Building Code
+.
+Exception:
+Where aisles are precluded by
+rack storage
+systems
+, alternate methods of access and protection are allowed when
+approved
+.
+
+---
+
+Aisles providing access to
+exits
+and
+fire
+department
+access doors shall be provided in
+high-piled storage areas
+exceeding 500 square feet (46 m
+2
+), in accordance with
+FC 3206.9.1
+through
+3206.9.3
+. Aisles separating storage piles or racks shall comply with the requirements of
+NFPA 13
+, as modified by
+FC Appendix B
+. Aisles shall also comply with the requirements of the
+construction codes
+, including the
+Building Code
+.
+Exception:
+Where aisles are precluded by
+rack storage
+systems
+, alternate methods of access and protection are allowed when
+approved
+.
+
+---
+
+## Section 3206.9.1: Width
+
+3206.9.1 Width
+Aisle width shall be in accordance with
+FC 3206.9.1.1
+and
+3206.9.1.2
+.
+Exceptions:
+Aisles crossing rack structures or storage piles, which are used only for employee access between aisles shall be a minimum of 24 inches (610 mm) wide.
+Aisles separating shelves classified as
+shelf storage
+shall be a minimum of 30 inches (762 mm) wide.
+
+---
+
+Aisle width shall be in accordance with
+FC 3206.9.1.1
+and
+3206.9.1.2
+.
+Exceptions:
+Aisles crossing rack structures or storage piles, which are used only for employee access between aisles shall be a minimum of 24 inches (610 mm) wide.
+Aisles separating shelves classified as
+shelf storage
+shall be a minimum of 30 inches (762 mm) wide.
+
+---
+
+## Section 3206.9.1.1: Sprinklered Buildings
+
+3206.9.1.1 Sprinklered Buildings
+Aisles in buildings protected throughout by a
+sprinkler system
+shall be a minimum of 44 inches (1118 mm) wide. Aisles shall be a minimum of 96 inches (2438 mm) wide in
+high-piled storage areas
+that exceed 2,500 square feet (232 m
+2
+) in area, and that are accessible to the public and designated to contain high-hazard
+commodities
+.
+Exception:
+Aisles in
+high-piled storage areas
+exceeding 2,500 square feet (232 m
+2
+) in area, that are accessible to the public and designated to contain high-hazard
+commodities
+, and that are protected throughout by a
+sprinkler system
+designed for multiple-row racks of high-hazard
+commodities
+, shall be a minimum of 44 inches (1118 mm) wide.
+Aisles shall be a minimum of 96 inches (2438 mm) wide in areas accessible to the public where
+mechanical stocking methods
+are used.
+
+---
+
+Aisles in buildings protected throughout by a
+sprinkler system
+shall be a minimum of 44 inches (1118 mm) wide. Aisles shall be a minimum of 96 inches (2438 mm) wide in
+high-piled storage areas
+that exceed 2,500 square feet (232 m
+2
+) in area, and that are accessible to the public and designated to contain high-hazard
+commodities
+.
+Exception:
+Aisles in
+high-piled storage areas
+exceeding 2,500 square feet (232 m
+2
+) in area, that are accessible to the public and designated to contain high-hazard
+commodities
+, and that are protected throughout by a
+sprinkler system
+designed for multiple-row racks of high-hazard
+commodities
+, shall be a minimum of 44 inches (1118 mm) wide.
+Aisles shall be a minimum of 96 inches (2438 mm) wide in areas accessible to the public where
+mechanical stocking methods
+are used.
+
+---
+
+## Section 3206.9.1.2: Nonsprinklered Buildings
+
+3206.9.1.2 Nonsprinklered Buildings
+Aisles in buildings not protected throughout by a
+sprinkler system
+shall be a minimum of 96 inches (2438 mm) wide.
+
+---
+
+Aisles in buildings not protected throughout by a
+sprinkler system
+shall be a minimum of 96 inches (2438 mm) wide.
+
+---
+
+## Section 3206.9.2: Clear Height
+
+3206.9.2 Clear Height
+The required aisle width shall extend from floor to ceiling. Rack structural supports and catwalks are allowed to cross aisles at a minimum height of 6 feet 8 inches (2032 mm) above the finished floor level, provided that such supports do not interfere with
+fire
+department
+hose stream trajectory.
+
+---
+
+The required aisle width shall extend from floor to ceiling. Rack structural supports and catwalks are allowed to cross aisles at a minimum height of 6 feet 8 inches (2032 mm) above the finished floor level, provided that such supports do not interfere with
+fire
+department
+hose stream trajectory.
+
+---
+
+## Section 3206.9.3: Dead Ends
+
+3206.9.3 Dead Ends
+Dead-end aisles shall be in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Dead-end aisles shall be in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 3206.10: Portable Fire Extinguishers
+
+3206.10 Portable Fire Extinguishers
+Portable
+fire
+extinguishers shall be provided in accordance with
+FC906
+.
+
+---
+
+Portable
+fire
+extinguishers shall be provided in accordance with
+FC906
+.
+
+---
+
+Section 3207 Solid-Piled and Shelf Storage
+
+---
+
+## Section 3207.1: General
+
+3207.1 General
+Shelf storage
+and storage in
+solid
+piles,
+solid
+piles on pallets and
+bin box
+storage in
+bin boxes
+not exceeding 5 feet (1524 mm) in any dimension, shall be designed and maintained in accordance with
+FC3206
+and this section.
+
+---
+
+Shelf storage
+and storage in
+solid
+piles,
+solid
+piles on pallets and
+bin box
+storage in
+bin boxes
+not exceeding 5 feet (1524 mm) in any dimension, shall be designed and maintained in accordance with
+FC3206
+and this section.
+
+---
+
+## Section 3207.2: Fire Protection
+
+3207.2 Fire Protection
+Where
+sprinkler systems
+are required for
+solid
+-piled and
+shelf storage
+pursuant to FC
+Table 3206.2
+, a
+sprinkler system
+shall be provided in any area containing such storage that is enclosed in 1-hour
+fire
+-rated walls in accordance with the
+Building Code
+, or, if such storage is not enclosed within such
+fire
+-rated walls, throughout the building. Openings in such walls shall be protected by opening protective assemblies having 1-hour
+fire
+protection ratings. The
+design and installation
+of the
+sprinkler system
+and other applicable
+fire
+protection shall be in accordance with this code, the
+construction codes
+, including the
+Building Code
+, and
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+Where
+sprinkler systems
+are required for
+solid
+-piled and
+shelf storage
+pursuant to FC
+Table 3206.2
+, a
+sprinkler system
+shall be provided in any area containing such storage that is enclosed in 1-hour
+fire
+-rated walls in accordance with the
+Building Code
+, or, if such storage is not enclosed within such
+fire
+-rated walls, throughout the building. Openings in such walls shall be protected by opening protective assemblies having 1-hour
+fire
+protection ratings. The
+design and installation
+of the
+sprinkler system
+and other applicable
+fire
+protection shall be in accordance with this code, the
+construction codes
+, including the
+Building Code
+, and
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+## Section 3207.2.1: Shelf Storage
+
+3207.2.1 Shelf Storage
+Shelf storage
+greater than 12 feet (3658 mm) but less than 15 feet (4572 mm) in height shall be in accordance with the
+fire
+protection requirements set forth in
+NFPA 13
+, as modified by
+FC Appendix B
+.
+Shelf storage
+15 feet (4572 mm) or more in height shall be protected in an
+approved
+manner with special
+fire
+protection, such as in-rack sprinklers.
+
+---
+
+Shelf storage
+greater than 12 feet (3658 mm) but less than 15 feet (4572 mm) in height shall be in accordance with the
+fire
+protection requirements set forth in
+NFPA 13
+, as modified by
+FC Appendix B
+.
+Shelf storage
+15 feet (4572 mm) or more in height shall be protected in an
+approved
+manner with special
+fire
+protection, such as in-rack sprinklers.
+
+---
+
+## Section 3207.3: Pile Dimension and Height Limitations
+
+3207.3 Pile Dimension and Height Limitations
+Pile dimensions, the maximum permissible storage height and pile volume shall be in accordance with FC
+Table 3206.2
+.
+
+---
+
+Pile dimensions, the maximum permissible storage height and pile volume shall be in accordance with FC
+Table 3206.2
+.
+
+---
+
+## Section 3207.4: Array
+
+3207.4 Array
+Where a
+sprinkler system
+design utilizes protection based on a
+closed array
+,
+array
+clearances shall be provided and maintained as specified by the standard used.
+
+---
+
+Where a
+sprinkler system
+design utilizes protection based on a
+closed array
+,
+array
+clearances shall be provided and maintained as specified by the standard used.
+
+---
+
+Section 3208 Rack Storage
+
+---
+
+## Section 3208.1: General
+
+3208.1 General
+Rack storage
+shall be designed and maintained in accordance with
+FC3206
+and this section.
+Bin boxes
+exceeding 5 feet (1524 mm) in any dimension shall be regulated as
+rack storage
+.
+
+---
+
+Rack storage
+shall be designed and maintained in accordance with
+FC3206
+and this section.
+Bin boxes
+exceeding 5 feet (1524 mm) in any dimension shall be regulated as
+rack storage
+.
+
+---
+
+## Section 3208.2: Fire Protection
+
+3208.2 Fire Protection
+Where a
+sprinkler system
+is required for
+rack storage
+pursuant to FC
+Table 3206.2
+, a
+sprinkler system
+shall be provided in any area containing such storage that is enclosed in 1-hour
+fire
+-rated walls in accordance with the
+Building Code
+, or, if such storage is not enclosed within such
+fire
+-rated walls, throughout the building. Openings in such walls shall be protected by opening protective assemblies having 1-hour
+fire
+protection ratings. The
+design and installation
+of the
+sprinkler system
+and other applicable
+fire
+protection shall be in accordance with this code, the
+construction codes
+, including the
+Building Code
+, and
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+Where a
+sprinkler system
+is required for
+rack storage
+pursuant to FC
+Table 3206.2
+, a
+sprinkler system
+shall be provided in any area containing such storage that is enclosed in 1-hour
+fire
+-rated walls in accordance with the
+Building Code
+, or, if such storage is not enclosed within such
+fire
+-rated walls, throughout the building. Openings in such walls shall be protected by opening protective assemblies having 1-hour
+fire
+protection ratings. The
+design and installation
+of the
+sprinkler system
+and other applicable
+fire
+protection shall be in accordance with this code, the
+construction codes
+, including the
+Building Code
+, and
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+## Section 3208.2.1: Plastic Pallets and Shelves
+
+3208.2.1 Plastic Pallets and Shelves
+Storage on plastic pallets or plastic shelves shall be protected by
+approved
+specially-engineered
+fire protection systems
+, except that plastic pallets listed and
+labeled
+in accordance with UL 2335 or FM 4996 shall be treated as wood pallets for determining required sprinkler protection.
+
+---
+
+Storage on plastic pallets or plastic shelves shall be protected by
+approved
+specially-engineered
+fire protection systems
+, except that plastic pallets listed and
+labeled
+in accordance with UL 2335 or FM 4996 shall be treated as wood pallets for determining required sprinkler protection.
+
+---
+
+## Section 3208.2.2: Racks With Solid Shelving
+
+3208.2.2 Racks With Solid Shelving
+Racks with
+solid shelving
+having an area greater than 32 square feet (3 m
+2
+), measured between
+approved
+flue spaces at all four edges of the shelf, shall be in accordance with this section.
+Exceptions:
+Racks with mesh, grated, slatted or similar shelves having uniform openings not more than 6 inches (152 mm) apart, comprising at least
+50
+percent of overall shelf area, and with
+approved
+flue spaces, are allowed to be treated as racks without
+solid
+shelves.
+Racks used for the storage of combustible paper records, with
+solid shelving
+, shall be in accordance with
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+Racks with
+solid shelving
+having an area greater than 32 square feet (3 m
+2
+), measured between
+approved
+flue spaces at all four edges of the shelf, shall be in accordance with this section.
+Exceptions:
+Racks with mesh, grated, slatted or similar shelves having uniform openings not more than 6 inches (152 mm) apart, comprising at least
+50
+percent of overall shelf area, and with
+approved
+flue spaces, are allowed to be treated as racks without
+solid
+shelves.
+Racks used for the storage of combustible paper records, with
+solid shelving
+, shall be in accordance with
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+## Section 3208.2.2.1: Fire Protection
+
+3208.2.2.1 Fire Protection
+Fire
+protection for racks with
+solid shelving
+shall be in accordance with
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+Fire
+protection for racks with
+solid shelving
+shall be in accordance with
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+## Section 3208.3: Flue Spaces
+
+3208.3 Flue Spaces
+Flue spaces shall be provided in accordance with FC Table 3208.3. Required flue spaces shall be maintained. When the flue spaces are not being maintained, the
+department
+may require the installation of
+approved
+devices to protect the flue spaces by preventing the placement or storage of obstructing materials in such spaces. Such protective devices shall not be removed or modified without
+department
+approval.
+FC
+TABLE 3208.3
+REQUIRED FLUE SPACES FOR
+RACK STORAGE
+RACK CONFIGURATION
+SPRINKLER PROTECTION
+SPRINKLER AT THE CEILING WITH OR WITHOUT MINIMUM IN-RACK SPRINKLERS
+IN-RACK SPRINKLERS AT EVERY TIER
+NONSPRINKLERED
+≤ 25 feet
+> 25 feet
+Any height
+Any height
+Storage height
+Option 1
+Option 2
+Single-row rack
+Transverse flue space
+Size
+b
+3 inches
+Not Applicable
+3 inches
+Not Required
+Not Required
+Vertically aligned
+Not Required
+Not Applicable
+Yes
+Not Applicable
+Not Required
+Longitudinal flue space
+Not Required
+Not Applicable
+Not Required
+Not Required
+Not Required
+Double-row rack
+Transverse flue space
+Size
+b
+6 inches
+a
+3 inches
+3 inches
+Not Required
+Not Required
+Vertically aligned
+Not Required
+Not Required
+Yes
+Not Applicable
+Not Required
+Longitudinal flue space
+Not Required
+6 inches
+6 inches
+Not Required
+Not Required
+Multi-row rack
+Transverse flue space
+Size
+b
+6 inches
+Not Applicable
+6 inches
+Not Required
+Not Required
+Vertically aligned
+Not Required
+Not Applicable
+Yes
+Not Applicable
+Not Required
+Longitudinal flue space
+Not Required
+Not Applicable
+Not Required
+Not Required
+Not Required
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
+Three-inch
+transverse flue spaces
+shall be provided at least every 10 feet where ESFR sprinkler protection is provided.
+Random variations are allowed, provided that the configuration does not obstruct water penetration.
+
+---
+
+Flue spaces shall be provided in accordance with FC Table 3208.3. Required flue spaces shall be maintained. When the flue spaces are not being maintained, the
+department
+may require the installation of
+approved
+devices to protect the flue spaces by preventing the placement or storage of obstructing materials in such spaces. Such protective devices shall not be removed or modified without
+department
+approval.
+FC
+TABLE 3208.3
+REQUIRED FLUE SPACES FOR
+RACK STORAGE
+RACK CONFIGURATION
+SPRINKLER PROTECTION
+SPRINKLER AT THE CEILING WITH OR WITHOUT MINIMUM IN-RACK SPRINKLERS
+IN-RACK SPRINKLERS AT EVERY TIER
+NONSPRINKLERED
+≤ 25 feet
+> 25 feet
+Any height
+Any height
+Storage height
+Option 1
+Option 2
+Single-row rack
+Transverse flue space
+Size
+b
+3 inches
+Not Applicable
+3 inches
+Not Required
+Not Required
+Vertically aligned
+Not Required
+Not Applicable
+Yes
+Not Applicable
+Not Required
+Longitudinal flue space
+Not Required
+Not Applicable
+Not Required
+Not Required
+Not Required
+Double-row rack
+Transverse flue space
+Size
+b
+6 inches
+a
+3 inches
+3 inches
+Not Required
+Not Required
+Vertically aligned
+Not Required
+Not Required
+Yes
+Not Applicable
+Not Required
+Longitudinal flue space
+Not Required
+6 inches
+6 inches
+Not Required
+Not Required
+Multi-row rack
+Transverse flue space
+Size
+b
+6 inches
+Not Applicable
+6 inches
+Not Required
+Not Required
+Vertically aligned
+Not Required
+Not Applicable
+Yes
+Not Applicable
+Not Required
+Longitudinal flue space
+Not Required
+Not Applicable
+Not Required
+Not Required
+Not Required
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
+Three-inch
+transverse flue spaces
+shall be provided at least every 10 feet where ESFR sprinkler protection is provided.
+Random variations are allowed, provided that the configuration does not obstruct water penetration.
+
+---
+
+## Section 3208.4: Column Protection
+
+3208.4 Column Protection
+Steel
+building columns shall be protected in accordance with
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+Steel
+building columns shall be protected in accordance with
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+## Section 3208.5: Extra-High-Rack Storage Systems
+
+3208.5 Extra-High-Rack Storage Systems
+Approval of the
+commissioner
+shall be obtained prior to installing
+extra-high-rack combustible storage
+.
+
+---
+
+Approval of the
+commissioner
+shall be obtained prior to installing
+extra-high-rack combustible storage
+.
+
+---
+
+## Section 3208.5.1: Fire Protection
+
+3208.5.1 Fire Protection
+Buildings with
+extra-high-rack combustible storage
+shall be protected with a specially engineered
+sprinkler system
+.
+Extra-high-rack combustible storage
+shall be provided with additional special
+fire
+protection, such as separation from other buildings and additional built-in
+fire
+protection features and
+fire
+department
+access, when required by the
+commissioner
+.
+
+---
+
+Buildings with
+extra-high-rack combustible storage
+shall be protected with a specially engineered
+sprinkler system
+.
+Extra-high-rack combustible storage
+shall be provided with additional special
+fire
+protection, such as separation from other buildings and additional built-in
+fire
+protection features and
+fire
+department
+access, when required by the
+commissioner
+.
+
+---
+
+Section 3209 Automated Storage
+
+---
+
+## Section 3209.1: General
+
+3209.1 General
+Automated storage shall be designed and maintained in accordance with this section.
+
+---
+
+Automated storage shall be designed and maintained in accordance with this section.
+
+---
+
+## Section 3209.2: Sprinkler Systems
+
+3209.2 Sprinkler Systems
+Where a
+sprinkler system
+is required by FC
+Table 3206.2
+, a
+sprinkler system
+shall be installed throughout the building. The
+design and installation
+of such
+system
+shall be in accordance with this code and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Where a
+sprinkler system
+is required by FC
+Table 3206.2
+, a
+sprinkler system
+shall be installed throughout the building. The
+design and installation
+of such
+system
+shall be in accordance with this code and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 3209.3: Carousel Storage
+
+3209.3 Carousel Storage
+High-piled storage areas
+having greater than 500 square feet (46 m
+2
+) of carousel storage shall be provided with
+automatic
+shutdown in accordance with one of the following:
+An
+automatic
+smoke detection
+system
+installed in accordance with the
+construction codes
+, including the
+Building Code
+, with coverage extending 15 feet (4572 mm) in all directions beyond unenclosed carousel storage
+systems
+and which sounds a local alarm at the operator's station and stops the carousel storage
+system
+upon the activation of a single detector.
+An
+automatic
+smoke detection
+system
+installed in accordance with the
+construction codes
+, including the
+Building Code
+and within enclosed carousel storage
+systems
+, that sounds a local alarm at the operator's station and stops the carousel storage
+system
+upon the activation of a single detector.
+A single dead-man-type control switch that allows the operation of the carousel storage
+system
+only when the operator is present. The switch shall be in the same room as the carousel storage
+system
+and located to allow for observation of the carousel
+system
+.
+
+---
+
+High-piled storage areas
+having greater than 500 square feet (46 m
+2
+) of carousel storage shall be provided with
+automatic
+shutdown in accordance with one of the following:
+An
+automatic
+smoke detection
+system
+installed in accordance with the
+construction codes
+, including the
+Building Code
+, with coverage extending 15 feet (4572 mm) in all directions beyond unenclosed carousel storage
+systems
+and which sounds a local alarm at the operator's station and stops the carousel storage
+system
+upon the activation of a single detector.
+An
+automatic
+smoke detection
+system
+installed in accordance with the
+construction codes
+, including the
+Building Code
+and within enclosed carousel storage
+systems
+, that sounds a local alarm at the operator's station and stops the carousel storage
+system
+upon the activation of a single detector.
+A single dead-man-type control switch that allows the operation of the carousel storage
+system
+only when the operator is present. The switch shall be in the same room as the carousel storage
+system
+and located to allow for observation of the carousel
+system
+.
+
+---
+
+## Section 3209.4: Automated Rack Storage
+
+3209.4 Automated Rack Storage
+High-piled storage areas
+with
+automated rack storage
+shall be provided with a manually activated emergency shutdown switch for use by firefighters and other emergency response personnel. The switch shall be clearly marked and shall be located at the
+fire command center
+. In buildings without a
+fire command center
+, such switch shall be located in a conspicuous, readily accessible location near the entrance to the building,
+occupancy
+or area containing the
+automated rack storage
+, or other
+approved
+location.
+
+---
+
+High-piled storage areas
+with
+automated rack storage
+shall be provided with a manually activated emergency shutdown switch for use by firefighters and other emergency response personnel. The switch shall be clearly marked and shall be located at the
+fire command center
+. In buildings without a
+fire command center
+, such switch shall be located in a conspicuous, readily accessible location near the entrance to the building,
+occupancy
+or area containing the
+automated rack storage
+, or other
+approved
+location.
+
+---
+
+Section 3210 Record Storage
+
+---
+
+## Section 3210.1: General
+
+3210.1 General
+Records storage
+facilities
+used for the rack or
+shelf storage
+of combustible paper records greater than 12 feet (3658 mm) in height shall be designed, installed, operated and maintained in accordance with
+FC 3206
+and
+3208
+and
+NFPA 13
+, as modified by
+FC Appendix B
+. Palletized storage of records shall be designed, installed, operated and maintained in accordance with
+FC3207
+.
+
+---
+
+Records storage
+facilities
+used for the rack or
+shelf storage
+of combustible paper records greater than 12 feet (3658 mm) in height shall be designed, installed, operated and maintained in accordance with
+FC 3206
+and
+3208
+and
+NFPA 13
+, as modified by
+FC Appendix B
+. Palletized storage of records shall be designed, installed, operated and maintained in accordance with
+FC3207
+.
+
+---
+

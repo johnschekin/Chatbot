@@ -1,0 +1,1355 @@
+# NYC Fire Code 2022 - Chapter 67
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+6701 General
+
+---
+
+6702 Definitions
+
+---
+
+6703 General Requirements
+
+---
+
+6704 Storage
+
+---
+
+6705 Handling and Use
+
+---
+
+6706 Manufacturing Restrictions
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Section 6701 General
+
+---
+
+## Section 6701.1: Scope
+
+6701.1 Scope
+This chapter shall govern the manufacture, storage,
+handling
+and use of water-reactive
+solids
+and
+liquids
+, except for the display and storage of water-reactive
+solids
+and
+liquids
+in
+Group M
+occupancies
+complying with the requirements of
+FC5003.11
+, and storage of water-reactive
+solids
+and
+liquids
+in
+Group S
+occupancies
+complying with the requirements of
+FC5003.11
+.
+
+---
+
+This chapter shall govern the manufacture, storage,
+handling
+and use of water-reactive
+solids
+and
+liquids
+, except for the display and storage of water-reactive
+solids
+and
+liquids
+in
+Group M
+occupancies
+complying with the requirements of
+FC5003.11
+, and storage of water-reactive
+solids
+and
+liquids
+in
+Group S
+occupancies
+complying with the requirements of
+FC5003.11
+.
+
+---
+
+## Section 6701.2: Permits
+
+6701.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 6701.3: General
+
+6701.3 General
+Water-reactive
+solids
+and
+liquids
+shall be manufactured, stored, handled and used in accordance with this chapter.
+
+---
+
+Water-reactive
+solids
+and
+liquids
+shall be manufactured, stored, handled and used in accordance with this chapter.
+
+---
+
+## Section 6701.4: Prohibited Manufacture, Storage, Handling and Use
+
+6701.4 Prohibited Manufacture, Storage, Handling and Use
+It shall be unlawful to manufacture, store, handle or use detonable water-reactive
+solids
+and
+liquids
+, except as specifically authorized by
+FC Chapter 56
+.
+
+---
+
+It shall be unlawful to manufacture, store, handle or use detonable water-reactive
+solids
+and
+liquids
+, except as specifically authorized by
+FC Chapter 56
+.
+
+---
+
+## Section 6701.5: Supervision
+
+6701.5 Supervision
+The
+handling
+and use of water-reactive
+solids
+and
+liquids
+in quantities requiring a
+permit
+shall be under the
+personal supervision
+of a
+certificate of fitness
+holder. The storage of water-reactive
+solids
+and
+liquids
+in quantities requiring a
+permit
+shall be under the
+general supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+The
+handling
+and use of water-reactive
+solids
+and
+liquids
+in quantities requiring a
+permit
+shall be under the
+personal supervision
+of a
+certificate of fitness
+holder. The storage of water-reactive
+solids
+and
+liquids
+in quantities requiring a
+permit
+shall be under the
+general supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+Section 6702 Definitions
+
+---
+
+## Section 6702.1: Definition
+
+6702.1 Definition
+The following term shall, for the purposes of this chapter and as used elsewhere in this code, have the meaning set forth in
+FC202
+.
+WATER-REACTIVE MATERIAL
+.
+
+---
+
+The following term shall, for the purposes of this chapter and as used elsewhere in this code, have the meaning set forth in
+FC202
+.
+WATER-REACTIVE MATERIAL
+.
+
+---
+
+Section 6703 General Requirements
+
+---
+
+## Section 6703.1: Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+
+6703.1 Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+The storage,
+handling
+and use of water-reactive
+solids
+and
+liquids
+in amounts not exceeding the
+maximum allowable quantity per control area
+indicated in
+FC5003.1
+shall be in accordance with
+FC 5001
+,
+5003
+,
+6701
+,
+6703
+and 6706.
+
+---
+
+The storage,
+handling
+and use of water-reactive
+solids
+and
+liquids
+in amounts not exceeding the
+maximum allowable quantity per control area
+indicated in
+FC5003.1
+shall be in accordance with
+FC 5001
+,
+5003
+,
+6701
+,
+6703
+and 6706.
+
+---
+
+## Section 6703.1.1: Prohibited Indoor Storage, Handling and Use by Occupancy
+
+6703.1.1 Prohibited Indoor Storage, Handling and Use by Occupancy
+It shall be unlawful to store, handle or use:
+Class 3 water-reactive
+solids
+and
+liquids
+in
+Group A
+, E, I, R or U
+occupancies
+.
+Class 3 water-reactive
+solids
+and
+liquids
+in offices in
+Group B
+, F, M or S
+occupancies
+, or any other areas of such
+occupancy
+accessible to the public.
+
+---
+
+It shall be unlawful to store, handle or use:
+Class 3 water-reactive
+solids
+and
+liquids
+in
+Group A
+, E, I, R or U
+occupancies
+.
+Class 3 water-reactive
+solids
+and
+liquids
+in offices in
+Group B
+, F, M or S
+occupancies
+, or any other areas of such
+occupancy
+accessible to the public.
+
+---
+
+## Section 6703.2: Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+
+6703.2 Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+The storage,
+handling
+and use of water-reactive
+solids
+and
+liquids
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in
+FC5003.1
+shall be in accordance with
+FC Chapter 50
+and this chapter.
+
+---
+
+The storage,
+handling
+and use of water-reactive
+solids
+and
+liquids
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in
+FC5003.1
+shall be in accordance with
+FC Chapter 50
+and this chapter.
+
+---
+
+## Section 6703.3: Multiple Hazard Sign
+
+6703.3 Multiple Hazard Sign
+Where more than one class of water-reactive
+solids
+and
+liquids
+is stored in immediate proximity to one another, such area shall be provided with hazard identification signs pursuant to
+FC Chapter 50
+for the most severe class present.
+
+---
+
+Where more than one class of water-reactive
+solids
+and
+liquids
+is stored in immediate proximity to one another, such area shall be provided with hazard identification signs pursuant to
+FC Chapter 50
+for the most severe class present.
+
+---
+
+## Section 6703.4: Multiple Class Storage
+
+6703.4 Multiple Class Storage
+Except as otherwise specifically provided in this code, where more than one class of water-reactive
+solids
+and
+liquids
+is stored in the same
+control area
+, the maximum quantity allowed of each water-reactive
+solid
+or
+liquid
+shall be limited as follows: the maximum quantity shall be reduced by the maximum allowable quantity for each such
+solid
+or
+liquid
+by the proportion that such
+solid
+or
+liquid
+bears to the total quantity of water-reactive
+solid
+and
+liquid
+stored in the
+control area
+. The total of the proportional amounts shall not exceed 100 percent.
+
+---
+
+Except as otherwise specifically provided in this code, where more than one class of water-reactive
+solids
+and
+liquids
+is stored in the same
+control area
+, the maximum quantity allowed of each water-reactive
+solid
+or
+liquid
+shall be limited as follows: the maximum quantity shall be reduced by the maximum allowable quantity for each such
+solid
+or
+liquid
+by the proportion that such
+solid
+or
+liquid
+bears to the total quantity of water-reactive
+solid
+and
+liquid
+stored in the
+control area
+. The total of the proportional amounts shall not exceed 100 percent.
+
+---
+
+Section 6704 Storage
+
+---
+
+## Section 6704.1: Indoor Storage
+
+6704.1 Indoor Storage
+Indoor
+storage of water-reactive
+solids
+and
+liquids
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(1)
+, shall be in accordance with
+FC 5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+Indoor
+storage of water-reactive
+solids
+and
+liquids
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(1)
+, shall be in accordance with
+FC 5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+## Section 6704.1.1: Detached Storage
+
+6704.1.1 Detached Storage
+Storage of water-reactive
+solids
+and
+liquids
+shall be in a
+detached building
+when required by
+FC5003.8.2
+.
+
+---
+
+Storage of water-reactive
+solids
+and
+liquids
+shall be in a
+detached building
+when required by
+FC5003.8.2
+.
+
+---
+
+## Section 6704.1.2: Liquid-Tight Floor
+
+6704.1.2 Liquid-Tight Floor
+In addition to the provisions of FC5004.12, floors in storage areas for water-reactive
+solids
+and
+liquids
+shall be of
+liquid-tight construction
+.
+
+---
+
+In addition to the provisions of FC5004.12, floors in storage areas for water-reactive
+solids
+and
+liquids
+shall be of
+liquid-tight construction
+.
+
+---
+
+## Section 6704.1.3: Waterproof Room
+
+6704.1.3 Waterproof Room
+Rooms or areas used for the storage of water-reactive
+solids
+and
+liquids
+shall be constructed in a manner which resists the penetration of water through the use of waterproof materials. Piping carrying water for other than
+sprinkler systems
+shall not be within such rooms or areas.
+
+---
+
+Rooms or areas used for the storage of water-reactive
+solids
+and
+liquids
+shall be constructed in a manner which resists the penetration of water through the use of waterproof materials. Piping carrying water for other than
+sprinkler systems
+shall not be within such rooms or areas.
+
+---
+
+## Section 6704.1.4: Water-Tight Containers
+
+6704.1.4 Water-Tight Containers
+When Class 2 and/or Class 3 water-reactive
+solids
+and
+liquids
+are stored in areas protected by a
+sprinkler system
+, the materials shall be stored in closed water-tight
+containers
+.
+
+---
+
+When Class 2 and/or Class 3 water-reactive
+solids
+and
+liquids
+are stored in areas protected by a
+sprinkler system
+, the materials shall be stored in closed water-tight
+containers
+.
+
+---
+
+## Section 6704.1.5: Storage Configuration
+
+6704.1.5 Storage Configuration
+Water-reactive
+solids
+and
+liquids
+stored in quantities greater than 500 cubic feet (14 m
+3
+) shall be separated into piles, each not larger than 500 cubic feet (14 m
+3
+). Aisle widths between piles shall not be less than the height of the pile or 4 feet (1219 mm), whichever is greater.
+Exception:
+Water-reactive
+solids
+and
+liquids
+stored in
+tanks
+.
+
+---
+
+Water-reactive
+solids
+and
+liquids
+stored in quantities greater than 500 cubic feet (14 m
+3
+) shall be separated into piles, each not larger than 500 cubic feet (14 m
+3
+). Aisle widths between piles shall not be less than the height of the pile or 4 feet (1219 mm), whichever is greater.
+Exception:
+Water-reactive
+solids
+and
+liquids
+stored in
+tanks
+.
+
+---
+
+## Section 6704.1.5.1: Class 2 Storage in Basements or Other Areas Below Grade
+
+6704.1.5.1 Class 2 Storage in Basements or Other Areas Below Grade
+Class 2 water-reactive
+solids
+and
+liquids
+shall not be stored in basements or other areas below grade unless such materials are stored in closed water-tight
+containers
+or
+tanks
+.
+
+---
+
+Class 2 water-reactive
+solids
+and
+liquids
+shall not be stored in basements or other areas below grade unless such materials are stored in closed water-tight
+containers
+or
+tanks
+.
+
+---
+
+## Section 6704.1.5.2: Class 3 Storage in Basements or Other Areas Below Grade
+
+6704.1.5.2 Class 3 Storage in Basements or Other Areas Below Grade
+Class 3 water-reactive
+solids
+and
+liquids
+shall not be stored in basements or other areas below grade.
+
+---
+
+Class 3 water-reactive
+solids
+and
+liquids
+shall not be stored in basements or other areas below grade.
+
+---
+
+## Section 6704.1.5.3: Flammable Liquids
+
+6704.1.5.3 Flammable Liquids
+Class 2 or Class 3 water-reactive
+solids
+and
+liquids
+shall not be stored with
+flammable liquids
+.
+
+---
+
+Class 2 or Class 3 water-reactive
+solids
+and
+liquids
+shall not be stored with
+flammable liquids
+.
+
+---
+
+## Section 6704.1.6: Explosion Control
+
+6704.1.6 Explosion Control
+Indoor
+storage rooms, areas and buildings containing Class 2 or Class 3 water-reactive
+solids
+and
+liquids
+shall be provided with
+explosion
+control in accordance with
+FC911
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Indoor
+storage rooms, areas and buildings containing Class 2 or Class 3 water-reactive
+solids
+and
+liquids
+shall be provided with
+explosion
+control in accordance with
+FC911
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 6704.1.7: Smoke and Heat Venting
+
+6704.1.7 Smoke and Heat Venting
+Rooms or areas for the storage of water-reactive
+solids
+and
+liquids
+shall be provided with smoke and heat venting in accordance with
+FC910
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Rooms or areas for the storage of water-reactive
+solids
+and
+liquids
+shall be provided with smoke and heat venting in accordance with
+FC910
+and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 6704.2: Outdoor Storage
+
+6704.2 Outdoor Storage
+Outdoor storage of water-reactive
+solids
+and
+liquids
+in
+quantities exceeding the maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(3)
+shall be in accordance with
+FC 5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+Outdoor storage of water-reactive
+solids
+and
+liquids
+in
+quantities exceeding the maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(3)
+shall be in accordance with
+FC 5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+## Section 6704.2.1: General
+
+6704.2.1 General
+Outdoor storage of water-reactive
+solids
+and
+liquids
+shall be within
+tanks
+or closed water-tight
+containers
+and shall be in accordance with
+FC 6704.2.2
+through
+6704.2.5
+
+---
+
+Outdoor storage of water-reactive
+solids
+and
+liquids
+shall be within
+tanks
+or closed water-tight
+containers
+and shall be in accordance with
+FC 6704.2.2
+through
+6704.2.5
+
+---
+
+## Section 6704.2.2: Distance to Exposures From Class 3 Material Outdoor Storage Areas
+
+6704.2.2 Distance to Exposures From Class 3 Material Outdoor Storage Areas
+Class 3 water-reactive
+solids
+and
+liquids
+shall not be stored within 75 feet (22 860 mm) of buildings, lot lines,
+public streets
+,
+private roads
+or
+means of egress
+.
+
+---
+
+Class 3 water-reactive
+solids
+and
+liquids
+shall not be stored within 75 feet (22 860 mm) of buildings, lot lines,
+public streets
+,
+private roads
+or
+means of egress
+.
+
+---
+
+## Section 6704.2.3: Distance to Exposures From Class 1 and Class 2 Material Outdoor Storage Areas
+
+6704.2.3 Distance to Exposures From Class 1 and Class 2 Material Outdoor Storage Areas
+Outdoor storage of Class 1 and Class 2 water-reactive
+solids
+and
+liquids
+shall not be within 20 feet (6096 mm) of buildings, lot lines,
+public streets
+,
+private roads
+or
+means of egress
+. A 2-hour
+fire
+barrier wall without openings or penetrations, and extending not less than 30 inches (762 mm) above and to the sides of the storage area, is allowed in lieu of such distance. The wall shall either be an independent structure, or the exterior wall of the building adjacent to the storage area.
+Assemblies (2)
+
+---
+
+Outdoor storage of Class 1 and Class 2 water-reactive
+solids
+and
+liquids
+shall not be within 20 feet (6096 mm) of buildings, lot lines,
+public streets
+,
+private roads
+or
+means of egress
+. A 2-hour
+fire
+barrier wall without openings or penetrations, and extending not less than 30 inches (762 mm) above and to the sides of the storage area, is allowed in lieu of such distance. The wall shall either be an independent structure, or the exterior wall of the building adjacent to the storage area.
+
+---
+
+## Section 6704.2.4: Storage Conditions
+
+6704.2.4 Storage Conditions
+Class 3 water-reactive
+solids
+and
+liquids
+shall be limited to piles not greater than 500 cubic feet (14 m
+3
+).
+
+---
+
+Class 3 water-reactive
+solids
+and
+liquids
+shall be limited to piles not greater than 500 cubic feet (14 m
+3
+).
+
+---
+
+## Section 6704.2.4.1: Class 1 and Class 2 Piles
+
+6704.2.4.1 Class 1 and Class 2 Piles
+Class 1 and Class 2 water-reactive
+solids
+and
+liquids
+shall be limited to piles not greater than 1,000 cubic feet (28 m
+3
+).
+
+---
+
+Class 1 and Class 2 water-reactive
+solids
+and
+liquids
+shall be limited to piles not greater than 1,000 cubic feet (28 m
+3
+).
+
+---
+
+## Section 6704.2.4.2: Aisle Widths
+
+6704.2.4.2 Aisle Widths
+Aisle widths between piles shall not be less than one-half the height of the pile or 10 feet (3048 mm), whichever is greater.
+
+---
+
+Aisle widths between piles shall not be less than one-half the height of the pile or 10 feet (3048 mm), whichever is greater.
+
+---
+
+## Section 6704.2.5: Containment
+
+6704.2.5 Containment
+Secondary containment
+shall be provided in accordance with
+FC5004.2.2
+.
+
+---
+
+Secondary containment
+shall be provided in accordance with
+FC5004.2.2
+.
+
+---
+
+Section 6705 Handling and Use
+
+---
+
+## Section 6705.1: General
+
+6705.1 General
+Water-reactive
+solids
+and
+liquids
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(1)
+or
+5003.1.1(3)
+shall be handled and used in accordance with
+FC 5001
+,
+5003
+,
+5005
+and this chapter.
+
+---
+
+Water-reactive
+solids
+and
+liquids
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(1)
+or
+5003.1.1(3)
+shall be handled and used in accordance with
+FC 5001
+,
+5003
+,
+5005
+and this chapter.
+
+---
+
+Section 6706 Manufacturing Restrictions
+
+---
+
+## Section 6706.1: Water-Reactive Solids and Liquids Classified as a Class IV Material
+
+6706.1 Water-Reactive Solids and Liquids Classified as a Class IV Material
+Water-reactive
+solids
+and
+liquids
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+may be utilized in manufacturing processes or other production in manufacturing districts only when authorized by a special
+permit
+pursuant to Section 42-276 of the
+Zoning Resolution
+.
+
+---
+
+Water-reactive
+solids
+and
+liquids
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+may be utilized in manufacturing processes or other production in manufacturing districts only when authorized by a special
+permit
+pursuant to Section 42-276 of the
+Zoning Resolution
+.
+
+---
+
+## Section 6706.1.1: Manufacture of Water-Reactive Solids and Liquids Classified as a Class IV Material
+
+6706.1.1 Manufacture of Water-Reactive Solids and Liquids Classified as a Class IV Material
+It shall be unlawful to manufacture water-reactive
+solids
+and
+liquids
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+.
+
+---
+
+It shall be unlawful to manufacture water-reactive
+solids
+and
+liquids
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+.
+
+---
+
+## Section 6706.1.2: Storage of Water-Reactive Solids and Liquids Classified as a Class IV Material
+
+6706.1.2 Storage of Water-Reactive Solids and Liquids Classified as a Class IV Material
+It shall be unlawful to store water-reactive
+solids
+and
+liquids
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+, except that accessory storage authorized by a special
+permit
+pursuant to Section 42-276 of the
+Zoning Resolution
+shall be allowed.
+
+---
+
+It shall be unlawful to store water-reactive
+solids
+and
+liquids
+classified as a Class IV material as defined in Section 42-272 of the
+Zoning Resolution
+, except that accessory storage authorized by a special
+permit
+pursuant to Section 42-276 of the
+Zoning Resolution
+shall be allowed.
+
+---
+

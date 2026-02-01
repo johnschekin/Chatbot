@@ -1,0 +1,246 @@
+# NYC Plumbing Code 2022 - Chapter 12
+
+New York City Plumbing Code 2022
+
+---
+
+New York City Plumbing Code Cover
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Chapter 4 Fixtures, Faucets and Fixture Fittings
+
+---
+
+Chapter 5 Water Heaters
+
+---
+
+Chapter 6 Water Supply and Distribution
+
+---
+
+Chapter 7 Sanitary Drainage
+
+---
+
+Chapter 8 Indirect/Special Waste
+
+---
+
+Chapter 9 Vents
+
+---
+
+Chapter 10 Traps, Interceptors and Separators
+
+---
+
+Chapter 11 Storm Drainage
+
+---
+
+Chapter 12 Special Piping and Storage Systems
+
+---
+
+1201 General
+
+---
+
+1202 Medical and Nonmedical Gases
+
+---
+
+1203 Nonmedical Oxygen Systems
+
+---
+
+1204 Other Cryogenic Systems
+
+---
+
+Chapter 13 Nonpotable Water Systems
+
+---
+
+Chapter 14 Subsurface Landscape Irrigation Systems
+
+---
+
+Chapter 15 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Structural Safety
+
+---
+
+Appendix D Reserved
+
+---
+
+Appendix E Sizing of Water Piping System
+
+---
+
+Appendix F Structural Safety Reserved
+
+---
+
+Appendix G Vacuum Drainage System Reserved
+
+---
+
+Title 28 New York City Construction Codes
+
+---
+
+Chapter 12 Special Piping and Storage Systems
+
+---
+
+Section 1201 General
+
+---
+
+## Section 1201.1: Scope
+
+1201.1 Scope
+The provisions of this chapter shall govern the design and installation of piping and storage systems for nonflammable medical and
+nonmedical gas systems
+.
+
+---
+
+The provisions of this chapter shall govern the design and installation of piping and storage systems for nonflammable medical and
+nonmedical gas systems
+.
+
+---
+
+## Section 1201.2: Storage, Handling, and Use
+
+1201.2 Storage, Handling, and Use
+The storage, handling, and use of medical and nonmedical gases shall be in accordance with the
+New York City Fire Code
+.
+
+---
+
+The storage, handling, and use of medical and nonmedical gases shall be in accordance with the
+New York City Fire Code
+.
+
+---
+
+Section 1202 Medical and Nonmedical Gases
+
+---
+
+## Section 1202.1: Nonflammable Medical and Nonmedical Gases
+
+1202.1 Nonflammable Medical and Nonmedical Gases
+Nonflammable medical and
+nonmedical gas systems
+shall be designed and installed in accordance with NFPA 99.
+Exceptions:
+This section shall not apply to portable systems or cylinder storage.
+Vacuum
+system exhaust terminations shall comply with the
+New York City Mechanical Code
+.
+
+---
+
+Nonflammable medical and
+nonmedical gas systems
+shall be designed and installed in accordance with NFPA 99.
+Exceptions:
+This section shall not apply to portable systems or cylinder storage.
+Vacuum
+system exhaust terminations shall comply with the
+New York City Mechanical Code
+.
+
+---
+
+Section 1203 Nonmedical Oxygen Systems
+
+---
+
+## Section 1203.1: Design and Installation
+
+1203.1 Design and Installation
+Nonmedical oxygen systems shall be designed and installed in accordance with NFPA 55 and NFPA 51.
+
+---
+
+Nonmedical oxygen systems shall be designed and installed in accordance with NFPA 55 and NFPA 51.
+
+---
+
+Section 1204 Other Cryogenic Systems
+
+---
+
+## Section 1204.1: Design and Installation
+
+1204.1 Design and Installation
+Design and installation of cryogenic systems shall be in accordance with Sections
+1202
+and
+1203
+.
+
+---
+
+Design and installation of cryogenic systems shall be in accordance with Sections
+1202
+and
+1203
+.
+
+---
+
+## Section 1204.2: Storage, Handling, and Use
+
+1204.2 Storage, Handling, and Use
+Storage, handling, and use
+of cryogenic gases and fluids shall be in accordance with the
+New York City Fire Code
+.
+
+---
+
+Storage, handling, and use
+of cryogenic gases and fluids shall be in accordance with the
+New York City Fire Code
+.
+
+---
+

@@ -1,0 +1,7061 @@
+# NYC Plumbing Code 2022 - Chapter 7
+
+New York City Plumbing Code 2022
+
+---
+
+New York City Plumbing Code Cover
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Chapter 4 Fixtures, Faucets and Fixture Fittings
+
+---
+
+Chapter 5 Water Heaters
+
+---
+
+Chapter 6 Water Supply and Distribution
+
+---
+
+Chapter 7 Sanitary Drainage
+
+---
+
+701 General
+
+---
+
+702 Materials
+
+---
+
+703 Building Drain
+
+---
+
+704 Drainage Piping Installation
+
+---
+
+705 Joints
+
+---
+
+706 Connections Between Drainage Piping and Fittings
+
+---
+
+707 Prohibited Joints and Connections
+
+---
+
+708 Cleanouts
+
+---
+
+709 Fixture Units
+
+---
+
+710 Drainage System Sizing
+
+---
+
+711 Offsets in Drainage Piping in Buildings of Five Stories or More
+
+---
+
+712 Ejectors
+
+---
+
+713 Health Care Plumbing
+
+---
+
+714 Computerized Drainage Design
+
+---
+
+715 Backwater Valves
+
+---
+
+716 Reserved
+
+---
+
+717 Reserved
+
+---
+
+Chapter 8 Indirect/Special Waste
+
+---
+
+Chapter 9 Vents
+
+---
+
+Chapter 10 Traps, Interceptors and Separators
+
+---
+
+Chapter 11 Storm Drainage
+
+---
+
+Chapter 12 Special Piping and Storage Systems
+
+---
+
+Chapter 13 Nonpotable Water Systems
+
+---
+
+Chapter 14 Subsurface Landscape Irrigation Systems
+
+---
+
+Chapter 15 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Structural Safety
+
+---
+
+Appendix D Reserved
+
+---
+
+Appendix E Sizing of Water Piping System
+
+---
+
+Appendix F Structural Safety Reserved
+
+---
+
+Appendix G Vacuum Drainage System Reserved
+
+---
+
+Title 28 New York City Construction Codes
+
+---
+
+Chapter 7 Sanitary Drainage
+
+---
+
+Section 701 General
+
+---
+
+## Section 701.1: Scope
+
+701.1 Scope
+The provisions of this chapter shall govern the
+materials
+, design, construction and installation of
+sanitary
+drainage systems
+.
+
+---
+
+The provisions of this chapter shall govern the
+materials
+, design, construction and installation of
+sanitary
+drainage systems
+.
+
+---
+
+## Section 701.2: Sewer Required
+
+701.2 Sewer Required
+Buildings in which
+plumbing fixtures
+are installed and premises having
+drainage
+piping shall be connected to a
+public sewer
+, where available and where connection thereto is feasible. Where neither a
+sanitary
+nor a
+combined sewer
+is available to which connection is feasible, a
+private sewer
+or
+private
+sewage
+disposal system shall be provided. See
+Section 107.6.1
+for required
+construction documents
+relating to provisions for discharge for
+sanitary
+sewage
+.
+
+---
+
+Buildings in which
+plumbing fixtures
+are installed and premises having
+drainage
+piping shall be connected to a
+public sewer
+, where available and where connection thereto is feasible. Where neither a
+sanitary
+nor a
+combined sewer
+is available to which connection is feasible, a
+private sewer
+or
+private
+sewage
+disposal system shall be provided. See
+Section 107.6.1
+for required
+construction documents
+relating to provisions for discharge for
+sanitary
+sewage
+.
+
+---
+
+## Section 701.2.1: Extensions of Public Sanitary or Combined Sewers
+
+701.2.1 Extensions of Public Sanitary or Combined Sewers
+Extensions of public
+sanitary
+or
+combined sewers
+shall be made in accordance with the regulations of the Department of Environmental
+Protection
+.
+
+---
+
+Extensions of public
+sanitary
+or
+combined sewers
+shall be made in accordance with the regulations of the Department of Environmental
+Protection
+.
+
+---
+
+## Section 701.2.2: Availability of Public Sanitary or Combined Sewer
+
+701.2.2 Availability of Public Sanitary or Combined Sewer
+The determination as to whether a public
+sanitary
+or
+combined sewer
+is available shall be made in accordance with the applicable standards of the Department of Environmental
+Protection
+.
+
+---
+
+The determination as to whether a public
+sanitary
+or
+combined sewer
+is available shall be made in accordance with the applicable standards of the Department of Environmental
+Protection
+.
+
+---
+
+## Section 701.2.3: Feasibility of Connecting to an Available Sanitary or Combined Public Sewer
+
+701.2.3 Feasibility of Connecting to an Available Sanitary or Combined Public Sewer
+The determination as to whether connection to an available
+sanitary
+or
+combined
+public sewer
+is feasible shall be in accordance with the applicable standards of the Department of Environmental
+Protection
+.
+
+---
+
+The determination as to whether connection to an available
+sanitary
+or
+combined
+public sewer
+is feasible shall be in accordance with the applicable standards of the Department of Environmental
+Protection
+.
+
+---
+
+## Section 701.2.4: Where Public Sewers Are Made Available to Premises With Private Sewage Disposal System
+
+701.2.4 Where Public Sewers Are Made Available to Premises With Private Sewage Disposal System
+When
+public sewers
+are made available to premises with individual on-site
+private
+disposal systems, such
+private
+sewage
+disposal system shall be abandoned in a manner prescribed by the
+commissioner
+, and the owner shall connect the building house
+sewer
+to the available
+public sewer
+within 6 months of the date of notification that the
+sewer
+has been accepted to receive flow by the agency or agencies having jurisdiction.
+
+---
+
+When
+public sewers
+are made available to premises with individual on-site
+private
+disposal systems, such
+private
+sewage
+disposal system shall be abandoned in a manner prescribed by the
+commissioner
+, and the owner shall connect the building house
+sewer
+to the available
+public sewer
+within 6 months of the date of notification that the
+sewer
+has been accepted to receive flow by the agency or agencies having jurisdiction.
+
+---
+
+## Section 701.2.5: Abandonment of Existing Building Sewer Connections
+
+701.2.5 Abandonment of Existing Building Sewer Connections
+All abandoned
+building sewers
+shall require plug
+permits
+from the Department of Environmental
+Protection
+and shall be securely sealed at a point inside the curb line and as close thereto as practicable.
+
+---
+
+All abandoned
+building sewers
+shall require plug
+permits
+from the Department of Environmental
+Protection
+and shall be securely sealed at a point inside the curb line and as close thereto as practicable.
+
+---
+
+## Section 701.3: Separate Sewer Connection
+
+701.3 Separate Sewer Connection
+A building having
+plumbing fixtures
+installed and intended for human habitation,
+occupancy
+or use on premises abutting on a street, alley or easement in which there is a
+public sewer
+shall have a separate connection with the
+sewer
+. Where located on the same lot, multiple buildings shall not be prohibited from connecting to a common
+building sewer
+that connects to the
+public sewer
+, provided, however, that the common elements of an internal
+private
+drain
+are located in a dedicated, unobstructed right-of-way that extends to the
+sewer
+with a minimum width of 10 feet (3048 mm) located entirely outside of the building footprint and outside of all overhangs and projections that are less than 14 feet (4267 mm) in height above grade.
+
+---
+
+A building having
+plumbing fixtures
+installed and intended for human habitation,
+occupancy
+or use on premises abutting on a street, alley or easement in which there is a
+public sewer
+shall have a separate connection with the
+sewer
+. Where located on the same lot, multiple buildings shall not be prohibited from connecting to a common
+building sewer
+that connects to the
+public sewer
+, provided, however, that the common elements of an internal
+private
+drain
+are located in a dedicated, unobstructed right-of-way that extends to the
+sewer
+with a minimum width of 10 feet (3048 mm) located entirely outside of the building footprint and outside of all overhangs and projections that are less than 14 feet (4267 mm) in height above grade.
+
+---
+
+## Section 701.4: Sewage Treatment
+
+701.4 Sewage Treatment
+Sewage
+or other
+waste
+shall not be discharged into surface or subsurface
+water
+unless it has been discharged by a method subject to the approval of the
+commissioner
+and of the Department of Health and Mental Hygiene, the Department of Environmental
+Protection
+, and the New York State Department of Environmental Conservation.
+
+---
+
+Sewage
+or other
+waste
+shall not be discharged into surface or subsurface
+water
+unless it has been discharged by a method subject to the approval of the
+commissioner
+and of the Department of Health and Mental Hygiene, the Department of Environmental
+Protection
+, and the New York State Department of Environmental Conservation.
+
+---
+
+## Section 701.5: Damage to Drainage System or Public Sewer
+
+701.5 Damage to Drainage System or Public Sewer
+Waste
+detrimental to the
+public sewer
+system or to the functioning of the
+sewage-treatment
+plant shall be treated and disposed of in accordance with applicable rules of the Department of Environmental
+Protection
+.
+
+---
+
+Waste
+detrimental to the
+public sewer
+system or to the functioning of the
+sewage-treatment
+plant shall be treated and disposed of in accordance with applicable rules of the Department of Environmental
+Protection
+.
+
+---
+
+## Section 701.6: Tests
+
+701.6 Tests
+The
+sanitary
+drainage system
+shall be tested in accordance with
+Section 312
+.
+
+---
+
+The
+sanitary
+drainage system
+shall be tested in accordance with
+Section 312
+.
+
+---
+
+## Section 701.7: Engineered Systems
+
+701.7 Engineered Systems
+Engineered
+sanitary
+drainage systems
+shall conform to the provisions of Section 28-113.2.2 of the
+Administrative Code
+and
+Section 714
+of this code.
+
+---
+
+Engineered
+sanitary
+drainage systems
+shall conform to the provisions of Section 28-113.2.2 of the
+Administrative Code
+and
+Section 714
+of this code.
+
+---
+
+## Section 701.8: Drainage Piping in Food Service Areas
+
+701.8 Drainage Piping in Food Service Areas
+Exposed soil or
+waste
+piping shall not be installed above any working, storage or eating surfaces in food service establishments.
+
+---
+
+Exposed soil or
+waste
+piping shall not be installed above any working, storage or eating surfaces in food service establishments.
+
+---
+
+## Section 701.9: Plastic Pipe
+
+701.9 Plastic Pipe
+Plastic piping and fittings shall not be used.
+Exceptions:
+Plastic piping and fittings may be used in residential buildings five stories or less in height.
+Plastic piping and fittings may be used as permitted in
+Section 803
+.
+
+---
+
+Plastic piping and fittings shall not be used.
+Exceptions:
+Plastic piping and fittings may be used in residential buildings five stories or less in height.
+Plastic piping and fittings may be used as permitted in
+Section 803
+.
+
+---
+
+## Section 701.10: Cured-in-Place Pipe
+
+701.10 Cured-in-Place Pipe
+Cured-in-place pipe
+(
+CIPP
+) and epoxy spray pipe lining systems shall not be used.
+
+---
+
+Cured-in-place pipe
+(
+CIPP
+) and epoxy spray pipe lining systems shall not be used.
+
+---
+
+## Section 701.11: Connections
+
+701.11 Connections
+Direct connection of a steam exhaust, blowoff or drip pipe shall not be made with the building
+drainage system
+. Wastewater when discharged into the building
+drainage system
+shall be at a temperature not higher than 150°F (65.6°C). When higher temperatures exist,
+approved
+cooling methods shall be provided.
+
+---
+
+Direct connection of a steam exhaust, blowoff or drip pipe shall not be made with the building
+drainage system
+. Wastewater when discharged into the building
+drainage system
+shall be at a temperature not higher than 150°F (65.6°C). When higher temperatures exist,
+approved
+cooling methods shall be provided.
+
+---
+
+Section 702 Materials
+
+---
+
+## Section 702.1: Above-Ground Sanitary Drainage and Vent Pipe
+
+702.1 Above-Ground Sanitary Drainage and Vent Pipe
+Above-ground soil,
+waste
+and vent pipe shall conform to one of the standards listed in Table 702.1.
+TABLE 702.1
+ABOVE-GROUND
+DRAINAGE
+AND VENT PIPE
+MATERIAL
+STANDARD
+Acrylonitrile butadiene styrene
+(ABS)
+plastic pipe
+in IPS
+diameters, including Schedule 40,
+DR 22 (PS 200) and DR 24 (PS
+140); with a solid, cellular core or
+composite wall
+a
+ASTM D 2661; ASTM F 628;
+ASTM F 1488; CSA B181.1
+Brass pipe
+ASTM B 43
+Cast-iron pipe
+ASTM A 74;
+ASTM A 888; CISPI 301
+Copper or copper-alloy pipe
+ASTM B 42; ASTM B 302
+Copper or copper-alloy tubing
+(Type K or L)
+ASTM B 75; ASTM B 88;
+ASTM B 251
+Ductile iron
+AWWA C151
+Galvanized steel pipe
+ASTM A 53
+Polyvinyl chloride (PVC) plastic
+pipe in IPS diameters, including
+Schedule 40, DR 22 (PS 200),
+and DR 24 (PS 140); with a solid,
+cellular core or composite wall
+a
+ASTM D 2665; ASTM F 891;
+ASTM F 1488; CSA B181.2
+Polyvinyl chloride (PVC) plastic
+pipe with a 3.25-inch O.D. and a
+solid, cellular core or composite
+wall
+a
+ASTM D 2949; ASTM F 1488
+Stainless steel
+drainage systems
+,
+Types 304 and 316L
+ASME A112.3.1
+For SI: 1 inch = 25.4 mm.
+Limited to residential buildings five stories or less in height.
+UpCodes Diagram (1)
+
+---
+
+Above-ground soil,
+waste
+and vent pipe shall conform to one of the standards listed in Table 702.1.
+TABLE 702.1
+ABOVE-GROUND
+DRAINAGE
+AND VENT PIPE
+MATERIAL
+STANDARD
+Acrylonitrile butadiene styrene
+(ABS)
+plastic pipe
+in IPS
+diameters, including Schedule 40,
+DR 22 (PS 200) and DR 24 (PS
+140); with a solid, cellular core or
+composite wall
+a
+ASTM D 2661; ASTM F 628;
+ASTM F 1488; CSA B181.1
+Brass pipe
+ASTM B 43
+Cast-iron pipe
+ASTM A 74;
+ASTM A 888; CISPI 301
+Copper or copper-alloy pipe
+ASTM B 42; ASTM B 302
+Copper or copper-alloy tubing
+(Type K or L)
+ASTM B 75; ASTM B 88;
+ASTM B 251
+Ductile iron
+AWWA C151
+Galvanized steel pipe
+ASTM A 53
+Polyvinyl chloride (PVC) plastic
+pipe in IPS diameters, including
+Schedule 40, DR 22 (PS 200),
+and DR 24 (PS 140); with a solid,
+cellular core or composite wall
+a
+ASTM D 2665; ASTM F 891;
+ASTM F 1488; CSA B181.2
+Polyvinyl chloride (PVC) plastic
+pipe with a 3.25-inch O.D. and a
+solid, cellular core or composite
+wall
+a
+ASTM D 2949; ASTM F 1488
+Stainless steel
+drainage systems
+,
+Types 304 and 316L
+ASME A112.3.1
+For SI: 1 inch = 25.4 mm.
+Limited to residential buildings five stories or less in height.
+
+---
+
+## Section 702.2: Underground Building Sanitary Drainage and Vent Pipe
+
+702.2 Underground Building Sanitary Drainage and Vent Pipe
+Underground building
+sanitary
+drainage
+and vent pipe shall conform to one of the standards listed in Table 702.2.
+TABLE 702.2
+UNDERGROUND BUILDING
+DRAINAGE
+AND VENT PIPE
+MATERIAL
+STANDARD
+Cast-iron pipe
+ASTM A 74; ASTM A 888;
+CISPI 301
+Copper or copper-alloy tubing
+(Type K or L)
+ASTM B 75; ASTM B 88;
+ASTM B 251
+Ductile iron
+AWWA C151
+Polyolefin pipe
+ASTM F 1412; CSA B181.3
+Polyvinyl chloride (PVC)
+plastic pipe
+in IPS diameters,
+including Schedule 40, DR 22 (PS 200), and DR 24 (PS 140);
+with a solid, cellular core or composite wall
+a
+ASTM D 2665; ASTM F 891;
+ASTM F 1488; CSA B181.2
+Stainless steel
+drainage systems
+, Type 316L
+ASME A112.3.1
+For SI: 1 inch = 25.4 mm.
+Limited to residential buildings five stories or less in height.
+
+---
+
+Underground building
+sanitary
+drainage
+and vent pipe shall conform to one of the standards listed in Table 702.2.
+TABLE 702.2
+UNDERGROUND BUILDING
+DRAINAGE
+AND VENT PIPE
+MATERIAL
+STANDARD
+Cast-iron pipe
+ASTM A 74; ASTM A 888;
+CISPI 301
+Copper or copper-alloy tubing
+(Type K or L)
+ASTM B 75; ASTM B 88;
+ASTM B 251
+Ductile iron
+AWWA C151
+Polyolefin pipe
+ASTM F 1412; CSA B181.3
+Polyvinyl chloride (PVC)
+plastic pipe
+in IPS diameters,
+including Schedule 40, DR 22 (PS 200), and DR 24 (PS 140);
+with a solid, cellular core or composite wall
+a
+ASTM D 2665; ASTM F 891;
+ASTM F 1488; CSA B181.2
+Stainless steel
+drainage systems
+, Type 316L
+ASME A112.3.1
+For SI: 1 inch = 25.4 mm.
+Limited to residential buildings five stories or less in height.
+
+---
+
+## Section 702.3: Building Drain Pipe
+
+702.3 Building Drain Pipe
+Building drain
+pipe shall conform to one of the standards listed in Table 702.3.
+TABLE 702.3
+BUILDING DRAIN
+PIPE
+MATERIAL
+STANDARD
+Cast-iron pipe
+ASTM A 74; ASTM A 888;
+CISPI 301
+Chlorinated polyvinyl chloride (CPVC) plastic
+a
+ASTM F 437; ASTM F 438; ASTM F 439
+Copper or copper-alloy tubing
+(Type K or L)
+ASTM B 75; ASTM B 88;
+ASTM B 251
+Ductile iron
+AWWA C151
+Galvanized steel pipe
+ASTM A 53; ASTM A 123
+Polyvinyl chloride (PVC) plastic
+pipe (Type DWV, SDR26,
+SDR35, SDR41, PS50 or
+PS100)
+a
+ASTM D 2665; ASTM D 3034;
+ASTM F 891; CSA B 182.2;
+CSA B 182.4; CSA B 181.2
+Stainless steel
+drainage systems
+,
+Types 304 and 316L
+ASME A112.3.1
+For SI: 1 inch = 25.4 mm.
+Limited to residential buildings five stories or less in height.
+
+---
+
+Building drain
+pipe shall conform to one of the standards listed in Table 702.3.
+TABLE 702.3
+BUILDING DRAIN
+PIPE
+MATERIAL
+STANDARD
+Cast-iron pipe
+ASTM A 74; ASTM A 888;
+CISPI 301
+Chlorinated polyvinyl chloride (CPVC) plastic
+a
+ASTM F 437; ASTM F 438; ASTM F 439
+Copper or copper-alloy tubing
+(Type K or L)
+ASTM B 75; ASTM B 88;
+ASTM B 251
+Ductile iron
+AWWA C151
+Galvanized steel pipe
+ASTM A 53; ASTM A 123
+Polyvinyl chloride (PVC) plastic
+pipe (Type DWV, SDR26,
+SDR35, SDR41, PS50 or
+PS100)
+a
+ASTM D 2665; ASTM D 3034;
+ASTM F 891; CSA B 182.2;
+CSA B 182.4; CSA B 181.2
+Stainless steel
+drainage systems
+,
+Types 304 and 316L
+ASME A112.3.1
+For SI: 1 inch = 25.4 mm.
+Limited to residential buildings five stories or less in height.
+
+---
+
+## Section 702.4: Fittings
+
+702.4 Fittings
+Pipe fittings shall be
+approved
+for installation with the piping material installed and shall comply with the applicable standards listed in Table 702.4.
+TABLE 702.4
+PIPE FITTINGS
+MATERIAL
+STANDARD
+Acrylonitrile butadiene styrene (ABS)
+plastic pipe
+in IPS diameters
+a
+ASTM D 2661; ASTM F 628; CSA B181.1
+Acrylonitrile butadiene styrene (ABS)
+plastic pipe
+in
+sewer
+and
+drain
+diameters
+ASTM D 2751
+Brass
+ASTM B 62
+Cast iron
+ASME B16.4; ASME B16.12; ASTM A 74; ASTM A 888; CISPI 301
+Chlorinated polyvinyl chloride (CPVC) plastic
+a
+ASTM F 437; ASTM F 438; ASTM F 439
+Copper or copper alloy
+ASME B16.15; ASME B16.18; ASME B16.22; ASME B16.23; ASME B16.26; ASME B16.29
+Galvanized steel
+ASTM A 153; ASME B16.3
+Ductile iron
+AWWA C110
+Malleable iron
+ASME B16.3
+Polyethylene (PE)
+plastic pipe
+a
+ASTM F 2306/F 2306M
+Polyvinyl chloride (PVC) plastic in IPS diameters
+a
+ASTM D 2665;
+ASTM F 1866
+Polyvinyl chloride (PVC)
+plastic pipe
+in
+sewer
+and
+drain
+diameters
+a
+ASTM D 3034
+Polyvinyl chloride (PVC)
+plastic pipe
+with a 3.25-inch O.D.
+a
+ASTM D 2949
+Stainless steel
+drainage systems
+, Types 304 and 3 16L
+ASME A 112.3.1
+For SI: 1 inch = 25.4 mm.
+Limited to residential buildings five stories or less in height.
+UpCodes Diagram (1)
+
+---
+
+Pipe fittings shall be
+approved
+for installation with the piping material installed and shall comply with the applicable standards listed in Table 702.4.
+TABLE 702.4
+PIPE FITTINGS
+MATERIAL
+STANDARD
+Acrylonitrile butadiene styrene (ABS)
+plastic pipe
+in IPS diameters
+a
+ASTM D 2661; ASTM F 628; CSA B181.1
+Acrylonitrile butadiene styrene (ABS)
+plastic pipe
+in
+sewer
+and
+drain
+diameters
+ASTM D 2751
+Brass
+ASTM B 62
+Cast iron
+ASME B16.4; ASME B16.12; ASTM A 74; ASTM A 888; CISPI 301
+Chlorinated polyvinyl chloride (CPVC) plastic
+a
+ASTM F 437; ASTM F 438; ASTM F 439
+Copper or copper alloy
+ASME B16.15; ASME B16.18; ASME B16.22; ASME B16.23; ASME B16.26; ASME B16.29
+Galvanized steel
+ASTM A 153; ASME B16.3
+Ductile iron
+AWWA C110
+Malleable iron
+ASME B16.3
+Polyethylene (PE)
+plastic pipe
+a
+ASTM F 2306/F 2306M
+Polyvinyl chloride (PVC) plastic in IPS diameters
+a
+ASTM D 2665;
+ASTM F 1866
+Polyvinyl chloride (PVC)
+plastic pipe
+in
+sewer
+and
+drain
+diameters
+a
+ASTM D 3034
+Polyvinyl chloride (PVC)
+plastic pipe
+with a 3.25-inch O.D.
+a
+ASTM D 2949
+Stainless steel
+drainage systems
+, Types 304 and 3 16L
+ASME A 112.3.1
+For SI: 1 inch = 25.4 mm.
+Limited to residential buildings five stories or less in height.
+
+---
+
+## Section 702.5: Temperature Rating
+
+702.5 Temperature Rating
+Where the
+waste
+water
+temperature will be greater than 140°F (60°C), the
+sanitary
+drainage
+piping material shall be rated for the highest temperature of the
+waste
+water
+.
+
+---
+
+Where the
+waste
+water
+temperature will be greater than 140°F (60°C), the
+sanitary
+drainage
+piping material shall be rated for the highest temperature of the
+waste
+water
+.
+
+---
+
+## Section 702.6: Chemical Waste System
+
+702.6 Chemical Waste System
+A chemical
+waste
+system shall be completely separated from the
+sanitary
+drainage system
+. The chemical
+waste
+shall be treated in accordance with
+Section 803.2
+before discharging to the
+sanitary
+drainage system
+. Separate
+drainage systems
+for chemical
+wastes
+and vent pipes shall be constructed in accordance with
+Section 803.3
+.
+
+---
+
+A chemical
+waste
+system shall be completely separated from the
+sanitary
+drainage system
+. The chemical
+waste
+shall be treated in accordance with
+Section 803.2
+before discharging to the
+sanitary
+drainage system
+. Separate
+drainage systems
+for chemical
+wastes
+and vent pipes shall be constructed in accordance with
+Section 803.3
+.
+
+---
+
+## Section 702.7: Lead Bends and Traps
+
+702.7 Lead Bends and Traps
+The wall thickness of lead bends and
+traps
+shall be not less than
+1
+/
+8
+inch (3.2 mm)
+
+---
+
+The wall thickness of lead bends and
+traps
+shall be not less than
+1
+/
+8
+inch (3.2 mm)
+
+---
+
+Section 703 Building Drain
+
+---
+
+## Section 703.1: Building Drain Pipe Near the Water Service
+
+703.1 Building Drain Pipe Near the Water Service
+Where the
+building drain
+is installed underground and within 5 feet (1524 mm) of the
+water
+service, as provided for in
+Section 603.2
+, the
+building drain
+pipe shall conform to one of the standards for, cast-iron pipe, copper or copper-alloy tubing, or ductile iron listed in
+Table 702.3
+.
+
+---
+
+Where the
+building drain
+is installed underground and within 5 feet (1524 mm) of the
+water
+service, as provided for in
+Section 603.2
+, the
+building drain
+pipe shall conform to one of the standards for, cast-iron pipe, copper or copper-alloy tubing, or ductile iron listed in
+Table 702.3
+.
+
+---
+
+## Section 703.2: Drainage Pipe in Filled Ground
+
+703.2 Drainage Pipe in Filled Ground
+Where a
+building drain
+is installed on filled or
+unstable ground
+, the
+drainage
+pipe shall conform to one of the standards for, cast-iron pipe, copper or copper-alloy tubing, ductile iron, nonasbestos fiber cement or concrete pipe listed in
+Table 702.3
+.
+
+---
+
+Where a
+building drain
+is installed on filled or
+unstable ground
+, the
+drainage
+pipe shall conform to one of the standards for, cast-iron pipe, copper or copper-alloy tubing, ductile iron, nonasbestos fiber cement or concrete pipe listed in
+Table 702.3
+.
+
+---
+
+## Section 703.3: Sanitary and Storm Drains
+
+703.3 Sanitary and Storm Drains
+Where separate systems of
+sanitary
+drainage
+and
+storm
+drainage
+are installed in the same property, the
+sanitary
+and
+storm
+building drains
+shall be permitted to be laid side by side in one trench.
+
+---
+
+Where separate systems of
+sanitary
+drainage
+and
+storm
+drainage
+are installed in the same property, the
+sanitary
+and
+storm
+building drains
+shall be permitted to be laid side by side in one trench.
+
+---
+
+## Section 703.4: Existing Building Drains
+
+703.4 Existing Building Drains
+Existing
+building drains
+shall connect with new building
+drainage systems
+only where found by examination and test to conform to the new system in quality of material. The
+commissioner
+shall notify the owner to make the changes necessary to conform to this code.
+
+---
+
+Existing
+building drains
+shall connect with new building
+drainage systems
+only where found by examination and test to conform to the new system in quality of material. The
+commissioner
+shall notify the owner to make the changes necessary to conform to this code.
+
+---
+
+## Section 703.5: Cleanouts on Building Drains
+
+703.5 Cleanouts on Building Drains
+Cleanouts
+on
+building drains
+shall be located as set forth in
+Section 708
+.
+UpCodes Diagrams (4)
+
+---
+
+Cleanouts
+on
+building drains
+shall be located as set forth in
+Section 708
+.
+
+---
+
+## Section 703.6: Combined Sanitary and Storm Public Sewer
+
+703.6 Combined Sanitary and Storm Public Sewer
+Where the
+public sewer
+is a
+combined
+system for both
+sanitary
+and
+storm
+water
+, the
+sanitary
+building drain
+shall be connected in accordance with
+Section 1109.1
+.
+
+---
+
+Where the
+public sewer
+is a
+combined
+system for both
+sanitary
+and
+storm
+water
+, the
+sanitary
+building drain
+shall be connected in accordance with
+Section 1109.1
+.
+
+---
+
+## Section 703.7: Building House Traps
+
+703.7 Building House Traps
+Building house
+traps
+shall be installed on all
+building drains
+in accordance with
+Section 1002.6
+.
+
+---
+
+Building house
+traps
+shall be installed on all
+building drains
+in accordance with
+Section 1002.6
+.
+
+---
+
+## Section 703.7.1: Fresh Air Inlets
+
+703.7.1 Fresh Air Inlets
+Every
+sanitary
+or
+combined
+building drain
+shall be provided with a fresh air inlet pipe connected to the
+building drain
+immediately upstream from and within 4 feet (1219 mm) of the
+building trap
+. Such connection shall be made in the same manner as prescribed in
+Section 905
+for vent
+connections
+to horizontal
+drains
+, and the fresh air inlet pipe shall be extended to the outer air and shall be terminated in an open end at least 6 inches (152 mm) above grade. The open end shall be protected by a perforated metal plate permanently fixed in the mouth of the inlet and having an open ventilating area at least equal to the area of the pipe, or by a return bend with its unprotected open end at least 6 inches (152 mm) above grade, located inside the street line. The size of the fresh air inlet pipe shall be at least one-half the diameter of the
+building drain
+at the point of connection, but not less than 3 inches (76 mm).
+
+---
+
+Every
+sanitary
+or
+combined
+building drain
+shall be provided with a fresh air inlet pipe connected to the
+building drain
+immediately upstream from and within 4 feet (1219 mm) of the
+building trap
+. Such connection shall be made in the same manner as prescribed in
+Section 905
+for vent
+connections
+to horizontal
+drains
+, and the fresh air inlet pipe shall be extended to the outer air and shall be terminated in an open end at least 6 inches (152 mm) above grade. The open end shall be protected by a perforated metal plate permanently fixed in the mouth of the inlet and having an open ventilating area at least equal to the area of the pipe, or by a return bend with its unprotected open end at least 6 inches (152 mm) above grade, located inside the street line. The size of the fresh air inlet pipe shall be at least one-half the diameter of the
+building drain
+at the point of connection, but not less than 3 inches (76 mm).
+
+---
+
+## Section 703.7.2: Fresh Air Inlets Located in Flood Hazard Areas
+
+703.7.2 Fresh Air Inlets Located in Flood Hazard Areas
+Fresh air inlets located in
+flood hazard areas
+shall be located above the
+design flood elevation
+in accordance with Section G304 of
+Appendix G
+of the
+New York City Building Code
+.
+
+---
+
+Fresh air inlets located in
+flood hazard areas
+shall be located above the
+design flood elevation
+in accordance with Section G304 of
+Appendix G
+of the
+New York City Building Code
+.
+
+---
+
+Section 704 Drainage Piping Installation
+UpCodes Diagrams (2)
+
+---
+
+## Section 704.1: Slope of Horizontal Drainage Piping
+
+704.1 Slope of Horizontal Drainage Piping
+Horizontal
+drainage
+piping shall be installed in uniform alignment at uniform
+slopes
+. The
+slope
+of a horizontal
+drainage
+pipe shall be not less than that indicated in Table 704.1.
+TABLE 704.1
+SLOPE
+OF HORIZONTAL
+DRAINAGE
+PIPE
+SIZE (inches)
+MINIMUM
+SLOPE
+(inch per
+foot)
+2
+1
+/
+2
+or less
+1
+/
+4
+3 to 6
+1
+/
+8
+8 or larger
+1
+/
+16
+For SI: 1 inch = 25.4 mm, 1 inch per foot = 83.33 mm/m.
+UpCodes Diagram (1)
+
+---
+
+Horizontal
+drainage
+piping shall be installed in uniform alignment at uniform
+slopes
+. The
+slope
+of a horizontal
+drainage
+pipe shall be not less than that indicated in Table 704.1.
+TABLE 704.1
+SLOPE
+OF HORIZONTAL
+DRAINAGE
+PIPE
+SIZE (inches)
+MINIMUM
+SLOPE
+(inch per
+foot)
+2
+1
+/
+2
+or less
+1
+/
+4
+3 to 6
+1
+/
+8
+8 or larger
+1
+/
+16
+For SI: 1 inch = 25.4 mm, 1 inch per foot = 83.33 mm/m.
+
+---
+
+## Section 704.2: Change in Size
+
+704.2 Change in Size
+The size of the
+drainage
+piping shall not be reduced in size in the direction of the flow. A 4-inch by 3-inch (102 mm by 76 mm)
+water
+closet connection shall not be considered as a reduction in size.
+
+---
+
+The size of the
+drainage
+piping shall not be reduced in size in the direction of the flow. A 4-inch by 3-inch (102 mm by 76 mm)
+water
+closet connection shall not be considered as a reduction in size.
+
+---
+
+## Section 704.3: Connections to Offsets and Bases of Stacks
+
+704.3 Connections to Offsets and Bases of Stacks
+Horizontal
+branches
+shall connect to the bases of
+stacks
+at a point located not less than 10 times the diameter of the
+drainage
+stack
+downstream from the
+stack
+. Horizontal
+branches
+shall connect to horizontal
+stack
+offsets
+at a point located not less than 10 times the diameter of the
+drainage
+stack
+downstream from the upper
+stack
+.
+UpCodes Diagram (1)
+
+---
+
+Horizontal
+branches
+shall connect to the bases of
+stacks
+at a point located not less than 10 times the diameter of the
+drainage
+stack
+downstream from the
+stack
+. Horizontal
+branches
+shall connect to horizontal
+stack
+offsets
+at a point located not less than 10 times the diameter of the
+drainage
+stack
+downstream from the upper
+stack
+.
+
+---
+
+## Section 704.4: Future Fixtures
+
+704.4 Future Fixtures
+Drainage
+piping for future fixtures shall terminate with an
+approved
+cap or plug.
+
+---
+
+Drainage
+piping for future fixtures shall terminate with an
+approved
+cap or plug.
+
+---
+
+## Section 704.5: Dead Ends
+
+704.5 Dead Ends
+In the installation or removal of any part of a
+drainage system
+,
+dead ends
+shall be prohibited.
+Cleanout
+extensions and
+approved
+future fixture
+drainage
+piping shall not be considered as
+dead ends
+.
+
+---
+
+In the installation or removal of any part of a
+drainage system
+,
+dead ends
+shall be prohibited.
+Cleanout
+extensions and
+approved
+future fixture
+drainage
+piping shall not be considered as
+dead ends
+.
+
+---
+
+## Section 704.6: Suds Pressure Zones Vents
+
+704.6 Suds Pressure Zones Vents
+Where sinks, laundry trays, laundry washing machines, bathtubs, and similar fixtures in which detergents producing suds are normally used and discharged at an upper floor level into a soil or
+waste
+stack
+that also serves fixtures in other
+occupancy
+units at a lower floor level, the
+drainage
+and vent piping for such lower fixtures shall be arranged so as to avoid connection to suds pressure zones in the
+sanitary
+drainage
+and
+vent systems
+. If connected to the
+sanitary
+system, a suds
+relief vent
+relieving to a nonpressure zone shall be provided at each suds pressure zone where such
+connections
+are installed. The diameter of such
+relief vent
+shall be at least three-quarters the diameter of the piping in which the pressure zone occurs, but not less than 2 inches (51 mm). Suds pressure zones shall be considered to exist at the following
+locations
+in
+sanitary
+drainage
+and
+vent systems
+when the piping serves fixtures on two or more floors that receive
+wastes
+that contain detergents producing suds:
+In a soil or
+waste
+stack
+a zone shall be considered to exist in the vertical portion within 40
+stack
+diameters of the base fitting.
+In the horizontal
+drain
+at the base of a soil or
+waste
+stack
+a zone shall be considered to exist in the horizontal portion within 10
+stack
+diameters of the base fitting. Where a 60-degree (1.05 rad) or 90-degree (1.57 rad) fitting is installed in the horizontal
+drain
+, a zone shall be considered to exist in the horizontal portion within 40
+drain
+diameters upstream of and 10
+drain
+diameters downstream of the fitting in accordance with Figure 704.6.
+In a soil or
+waste
+stack
+offset
+of 60 degrees (1.05 rad) or 90 degrees (1.57 rad), a zone shall be considered to exist in the vertical portion of the
+stack
+within 40
+stack
+diameters of the base fitting for the upper section of the
+stack
+. The zone shall be considered to exist in the horizontal
+offset
+within 10
+stack
+diameters of such base fitting and within 40
+stack
+diameters of the top fitting for the lower section of the
+stack
+.
+In a
+vent stack
+that has its base connected to a suds pressure zone in the
+sanitary
+drainage system
+, a zone shall be considered to exist in the portion of the
+vent stack
+extending from its base connection up to the lowest
+branch vent
+fitting located above the level of the suds pressure zone in the
+sanitary
+drainage system
+.
+FIGURE 704.6
+SUDS PRESSURE ZONES
+
+---
+
+Where sinks, laundry trays, laundry washing machines, bathtubs, and similar fixtures in which detergents producing suds are normally used and discharged at an upper floor level into a soil or
+waste
+stack
+that also serves fixtures in other
+occupancy
+units at a lower floor level, the
+drainage
+and vent piping for such lower fixtures shall be arranged so as to avoid connection to suds pressure zones in the
+sanitary
+drainage
+and
+vent systems
+. If connected to the
+sanitary
+system, a suds
+relief vent
+relieving to a nonpressure zone shall be provided at each suds pressure zone where such
+connections
+are installed. The diameter of such
+relief vent
+shall be at least three-quarters the diameter of the piping in which the pressure zone occurs, but not less than 2 inches (51 mm). Suds pressure zones shall be considered to exist at the following
+locations
+in
+sanitary
+drainage
+and
+vent systems
+when the piping serves fixtures on two or more floors that receive
+wastes
+that contain detergents producing suds:
+In a soil or
+waste
+stack
+a zone shall be considered to exist in the vertical portion within 40
+stack
+diameters of the base fitting.
+In the horizontal
+drain
+at the base of a soil or
+waste
+stack
+a zone shall be considered to exist in the horizontal portion within 10
+stack
+diameters of the base fitting. Where a 60-degree (1.05 rad) or 90-degree (1.57 rad) fitting is installed in the horizontal
+drain
+, a zone shall be considered to exist in the horizontal portion within 40
+drain
+diameters upstream of and 10
+drain
+diameters downstream of the fitting in accordance with Figure 704.6.
+In a soil or
+waste
+stack
+offset
+of 60 degrees (1.05 rad) or 90 degrees (1.57 rad), a zone shall be considered to exist in the vertical portion of the
+stack
+within 40
+stack
+diameters of the base fitting for the upper section of the
+stack
+. The zone shall be considered to exist in the horizontal
+offset
+within 10
+stack
+diameters of such base fitting and within 40
+stack
+diameters of the top fitting for the lower section of the
+stack
+.
+In a
+vent stack
+that has its base connected to a suds pressure zone in the
+sanitary
+drainage system
+, a zone shall be considered to exist in the portion of the
+vent stack
+extending from its base connection up to the lowest
+branch vent
+fitting located above the level of the suds pressure zone in the
+sanitary
+drainage system
+.
+FIGURE 704.6
+SUDS PRESSURE ZONES
+
+---
+
+## Section 704.7: Collection Pipe Labeling and Marking
+
+704.7 Collection Pipe Labeling and Marking
+Collection piping that conveys untreated
+water
+for reuse shall be painted gray in color or covered in a gray jacket and shall be labeled, embossed, or integrally stamped or marked, with the words: "CAUTION: UNTREATED
+WATER
+FOR RE-USE" or the piping shall be installed with a gray identification tape or wrap. Pipe identification shall include the contents of the piping system and an arrow indicating the direction of flow. Hazardous piping systems shall also contain information addressing the nature of the hazard. Pipe identification shall be repeated at intervals not exceeding 25 feet (7620 mm) and at each point where the piping passes through a wall, floor or roof. Lettering shall be readily observable within the room or space where the piping is located.
+
+---
+
+Collection piping that conveys untreated
+water
+for reuse shall be painted gray in color or covered in a gray jacket and shall be labeled, embossed, or integrally stamped or marked, with the words: "CAUTION: UNTREATED
+WATER
+FOR RE-USE" or the piping shall be installed with a gray identification tape or wrap. Pipe identification shall include the contents of the piping system and an arrow indicating the direction of flow. Hazardous piping systems shall also contain information addressing the nature of the hazard. Pipe identification shall be repeated at intervals not exceeding 25 feet (7620 mm) and at each point where the piping passes through a wall, floor or roof. Lettering shall be readily observable within the room or space where the piping is located.
+
+---
+
+Section 705 Joints
+
+---
+
+## Section 705.1: General
+
+705.1 General
+This section contains provisions applicable to
+joints
+specific to
+sanitary
+drainage
+piping.
+
+---
+
+This section contains provisions applicable to
+joints
+specific to
+sanitary
+drainage
+piping.
+
+---
+
+## Section 705.2: ABS Plastic
+
+705.2 ABS Plastic
+Joints
+between ABS
+plastic pipe
+or fittings shall comply with Sections
+705.2.1
+through
+705.2.3
+.
+
+---
+
+Joints
+between ABS
+plastic pipe
+or fittings shall comply with Sections
+705.2.1
+through
+705.2.3
+.
+
+---
+
+## Section 705.2.1: Mechanical Joints
+
+705.2.1 Mechanical Joints
+Mechanical joints
+on
+drainage
+pipes shall be made with an elastomeric seal conforming to ASTM C 1173, ASTM D 3212 or CSA B602.
+Mechanical joints
+shall be installed only in underground systems unless otherwise
+approved
+.
+Joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+Mechanical joints
+on
+drainage
+pipes shall be made with an elastomeric seal conforming to ASTM C 1173, ASTM D 3212 or CSA B602.
+Mechanical joints
+shall be installed only in underground systems unless otherwise
+approved
+.
+Joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+## Section 705.2.2: Solvent Cementing
+
+705.2.2 Solvent Cementing
+Joint
+surfaces shall be clean and free from moisture. Solvent cement that conforms to ASTM D 2235 or CSA B181.1 shall be applied to all
+joint
+surfaces. The
+joint
+shall be made while the cement is wet.
+Joints
+shall be made in accordance with ASTM D 2235, ASTM D 2661, ASTM F 628 or CSA B181.1. Solvent-cement
+joints
+shall be permitted above or below ground.
+
+---
+
+Joint
+surfaces shall be clean and free from moisture. Solvent cement that conforms to ASTM D 2235 or CSA B181.1 shall be applied to all
+joint
+surfaces. The
+joint
+shall be made while the cement is wet.
+Joints
+shall be made in accordance with ASTM D 2235, ASTM D 2661, ASTM F 628 or CSA B181.1. Solvent-cement
+joints
+shall be permitted above or below ground.
+
+---
+
+## Section 705.2.3: Threaded Joints
+
+705.2.3 Threaded Joints
+Threads shall conform to ASME B1.20.1. Schedule 80 or heavier pipe shall be permitted to be threaded with dies specifically designed for
+plastic pipe
+.
+Approved
+thread lubricant or tape shall be applied on the male threads only.
+
+---
+
+Threads shall conform to ASME B1.20.1. Schedule 80 or heavier pipe shall be permitted to be threaded with dies specifically designed for
+plastic pipe
+.
+Approved
+thread lubricant or tape shall be applied on the male threads only.
+
+---
+
+## Section 705.3: Brass
+
+705.3 Brass
+Joints
+between brass pipe or fittings shall comply with Sections
+705.3.1
+through
+705.3.4
+.
+
+---
+
+Joints
+between brass pipe or fittings shall comply with Sections
+705.3.1
+through
+705.3.4
+.
+
+---
+
+## Section 705.3.1: Brazed Joints
+
+705.3.1 Brazed Joints
+All
+joint
+surfaces shall be cleaned. An
+approved
+flux shall be applied
+where required
+. The
+joint
+shall be brazed with a filler metal conforming to AWS A5.8.
+
+---
+
+All
+joint
+surfaces shall be cleaned. An
+approved
+flux shall be applied
+where required
+. The
+joint
+shall be brazed with a filler metal conforming to AWS A5.8.
+
+---
+
+## Section 705.3.2: Mechanical Joints
+
+705.3.2 Mechanical Joints
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+## Section 705.3.3: Threaded Joints
+
+705.3.3 Threaded Joints
+Threads shall conform to ASME B1.20.1. Pipe-
+joint
+compound or tape shall be applied on the male threads only.
+
+---
+
+Threads shall conform to ASME B1.20.1. Pipe-
+joint
+compound or tape shall be applied on the male threads only.
+
+---
+
+## Section 705.3.4: Welded Joints
+
+705.3.4 Welded Joints
+All
+joint
+surfaces shall be cleaned. The
+joint
+shall be welded with an
+approved
+filler metal.
+
+---
+
+All
+joint
+surfaces shall be cleaned. The
+joint
+shall be welded with an
+approved
+filler metal.
+
+---
+
+## Section 705.4: Cast Iron
+
+705.4 Cast Iron
+Joints
+between cast-iron pipe or fittings shall comply with Sections
+705.4.1
+through
+705.4.3
+.
+
+---
+
+Joints
+between cast-iron pipe or fittings shall comply with Sections
+705.4.1
+through
+705.4.3
+.
+
+---
+
+## Section 705.4.1: Caulked Joints
+
+705.4.1 Caulked Joints
+Joints
+for hub and spigot pipe shall be firmly packed with oakum or hemp. Molten lead shall be poured in one operation to a depth of not less than 1 inch (25 mm). The lead shall not recede more than
+1
+/
+8
+inch (3.2 mm) below the rim of the hub and shall be caulked tight. Paint, varnish or other coatings shall not be permitted on the jointing material until after the
+joint
+has been tested and
+approved
+. Lead shall be run in one pouring and shall be caulked tight. Acid-resistant rope and acidproof cement shall be permitted.
+
+---
+
+Joints
+for hub and spigot pipe shall be firmly packed with oakum or hemp. Molten lead shall be poured in one operation to a depth of not less than 1 inch (25 mm). The lead shall not recede more than
+1
+/
+8
+inch (3.2 mm) below the rim of the hub and shall be caulked tight. Paint, varnish or other coatings shall not be permitted on the jointing material until after the
+joint
+has been tested and
+approved
+. Lead shall be run in one pouring and shall be caulked tight. Acid-resistant rope and acidproof cement shall be permitted.
+
+---
+
+## Section 705.4.2: Compression Gasket Joints
+
+705.4.2 Compression Gasket Joints
+Compression gaskets for hub and spigot pipe and fittings shall conform to ASTM C 564 and shall be tested to ASTM C 1563. Gaskets shall be compressed when the pipe is fully inserted.
+
+---
+
+Compression gaskets for hub and spigot pipe and fittings shall conform to ASTM C 564 and shall be tested to ASTM C 1563. Gaskets shall be compressed when the pipe is fully inserted.
+
+---
+
+## Section 705.4.3: Mechanical Joint Coupling
+
+705.4.3 Mechanical Joint Coupling
+Mechanical joint
+couplings for hubless pipe and fittings shall consist of an elastomeric sealing sleeve and a metallic shield that comply with CISPI 310, ASTM C 1277 or ASTM C 1540. The elastomeric sealing sleeve shall conform to ASTM C 564 or CSA B602 and shall be provided with a center stop.
+Mechanical joint
+couplings shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Mechanical joint
+couplings for hubless pipe and fittings shall consist of an elastomeric sealing sleeve and a metallic shield that comply with CISPI 310, ASTM C 1277 or ASTM C 1540. The elastomeric sealing sleeve shall conform to ASTM C 564 or CSA B602 and shall be provided with a center stop.
+Mechanical joint
+couplings shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 705.5: Concrete Joints
+
+705.5 Concrete Joints
+Joints
+between concrete pipe and fittings shall be made with an elastomeric seal conforming to ASTM C 443, ASTM C 1173, CSA A257.3M or CSA B602.
+
+---
+
+Joints
+between concrete pipe and fittings shall be made with an elastomeric seal conforming to ASTM C 443, ASTM C 1173, CSA A257.3M or CSA B602.
+
+---
+
+## Section 705.6: Copper Pipe
+
+705.6 Copper Pipe
+Joints
+between copper or copper-alloy pipe or fittings shall comply with Sections
+705.6.1
+through
+705.6.5
+.
+
+---
+
+Joints
+between copper or copper-alloy pipe or fittings shall comply with Sections
+705.6.1
+through
+705.6.5
+.
+
+---
+
+## Section 705.6.1: Brazed Joints
+
+705.6.1 Brazed Joints
+All
+joint
+surfaces shall be cleaned. An
+approved
+flux shall be applied
+where required
+. The
+joint
+shall be brazed with a filler metal conforming to AWS A5.8.
+
+---
+
+All
+joint
+surfaces shall be cleaned. An
+approved
+flux shall be applied
+where required
+. The
+joint
+shall be brazed with a filler metal conforming to AWS A5.8.
+
+---
+
+## Section 705.6.2: Mechanical Joints
+
+705.6.2 Mechanical Joints
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+## Section 705.6.3: Solder Joints
+
+705.6.3 Solder Joints
+Solder
+joints
+shall be made in accordance with the methods of ASTM B 828. Cut tube ends shall be reamed to the full inside diameter of the tube end. All
+joint
+surfaces shall be cleaned. A flux conforming to ASTM B 813 shall be applied. The
+joint
+shall be soldered with a solder conforming to ASTM B 32.
+
+---
+
+Solder
+joints
+shall be made in accordance with the methods of ASTM B 828. Cut tube ends shall be reamed to the full inside diameter of the tube end. All
+joint
+surfaces shall be cleaned. A flux conforming to ASTM B 813 shall be applied. The
+joint
+shall be soldered with a solder conforming to ASTM B 32.
+
+---
+
+## Section 705.6.4: Threaded Joints
+
+705.6.4 Threaded Joints
+Threads shall conform to ASME B1.20.1. Pipe-
+joint
+compound or tape shall be applied on the male threads only.
+
+---
+
+Threads shall conform to ASME B1.20.1. Pipe-
+joint
+compound or tape shall be applied on the male threads only.
+
+---
+
+## Section 705.6.5: Welded Joints
+
+705.6.5 Welded Joints
+All
+joint
+surfaces shall be cleaned. The
+joint
+shall be welded with an
+approved
+filler metal.
+
+---
+
+All
+joint
+surfaces shall be cleaned. The
+joint
+shall be welded with an
+approved
+filler metal.
+
+---
+
+## Section 705.7: Copper Tubing
+
+705.7 Copper Tubing
+Joints
+between copper or copper-alloy tubing or fittings shall comply with Sections
+705.7.1
+through
+705.7.3
+.
+
+---
+
+Joints
+between copper or copper-alloy tubing or fittings shall comply with Sections
+705.7.1
+through
+705.7.3
+.
+
+---
+
+## Section 705.7.1: Brazed Joints
+
+705.7.1 Brazed Joints
+All
+joint
+surfaces shall be cleaned. An
+approved
+flux shall be applied
+where required
+. The
+joint
+shall be brazed with a filler metal conforming to AWS A5.8.
+
+---
+
+All
+joint
+surfaces shall be cleaned. An
+approved
+flux shall be applied
+where required
+. The
+joint
+shall be brazed with a filler metal conforming to AWS A5.8.
+
+---
+
+## Section 705.7.2: Mechanical Joints
+
+705.7.2 Mechanical Joints
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+## Section 705.7.3: Solder Joints
+
+705.7.3 Solder Joints
+Solder
+joints
+shall be made in accordance with the methods of ASTM B 828. Cut tube ends shall be reamed to the full inside diameter of the tube end. All
+joint
+surfaces shall be cleaned. A flux conforming to ASTM B 813 shall be applied. The
+joint
+shall be soldered with a solder conforming to ASTM B 32.
+
+---
+
+Solder
+joints
+shall be made in accordance with the methods of ASTM B 828. Cut tube ends shall be reamed to the full inside diameter of the tube end. All
+joint
+surfaces shall be cleaned. A flux conforming to ASTM B 813 shall be applied. The
+joint
+shall be soldered with a solder conforming to ASTM B 32.
+
+---
+
+## Section 705.8: Reserved
+
+705.8 Reserved
+
+---
+
+## Section 705.9: Steel
+
+705.9 Steel
+Joints
+between galvanized steel pipe or fittings shall comply with Sections
+705.9.1
+and
+705.9.2
+.
+
+---
+
+Joints
+between galvanized steel pipe or fittings shall comply with Sections
+705.9.1
+and
+705.9.2
+.
+
+---
+
+## Section 705.9.1: Threaded Joints
+
+705.9.1 Threaded Joints
+Threads shall conform to ASME B1.20.1. Pipe-
+joint
+compound or tape shall be applied on the male threads only.
+
+---
+
+Threads shall conform to ASME B1.20.1. Pipe-
+joint
+compound or tape shall be applied on the male threads only.
+
+---
+
+## Section 705.9.2: Mechanical Joints
+
+705.9.2 Mechanical Joints
+Joints
+shall be made with an
+approved
+elastomeric seal.
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+Joints
+shall be made with an
+approved
+elastomeric seal.
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+## Section 705.10: Lead
+
+705.10 Lead
+Joints
+between lead pipe or fittings shall comply with Sections
+705.10.1
+and
+705.10.2
+.
+
+---
+
+Joints
+between lead pipe or fittings shall comply with Sections
+705.10.1
+and
+705.10.2
+.
+
+---
+
+## Section 705.10.1: Burned
+
+705.10.1 Burned
+Burned
+joints
+shall be uniformly fused together into one continuous piece. The thickness of the
+joint
+shall be at least as thick as the lead being joined. The filler metal shall be of the same material as the pipe.
+
+---
+
+Burned
+joints
+shall be uniformly fused together into one continuous piece. The thickness of the
+joint
+shall be at least as thick as the lead being joined. The filler metal shall be of the same material as the pipe.
+
+---
+
+## Section 705.10.2: Wiped
+
+705.10.2 Wiped
+Joints
+shall be fully wiped, with an exposed surface on each side of the
+joint
+not less than
+3
+/
+4
+inch (19.1 mm). The
+joint
+shall be not less than
+3
+/
+8
+inch (9.5 mm) thick at the thickest point.
+
+---
+
+Joints
+shall be fully wiped, with an exposed surface on each side of the
+joint
+not less than
+3
+/
+4
+inch (19.1 mm). The
+joint
+shall be not less than
+3
+/
+8
+inch (9.5 mm) thick at the thickest point.
+
+---
+
+## Section 705.11: PVC Plastic
+
+705.11 PVC Plastic
+Joints
+between PVC
+plastic pipe
+or fittings shall comply with Sections
+705.11.1
+through
+705.11.3
+.
+
+---
+
+Joints
+between PVC
+plastic pipe
+or fittings shall comply with Sections
+705.11.1
+through
+705.11.3
+.
+
+---
+
+## Section 705.11.1: Mechanical Joints
+
+705.11.1 Mechanical Joints
+Mechanical joints
+on
+drainage
+pipe shall be made with an elastomeric seal conforming to ASTM C 1173, ASTM D 3212 or CSA B602.
+Mechanical joints
+shall not be installed in above-ground systems, unless otherwise
+approved
+.
+Joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+Mechanical joints
+on
+drainage
+pipe shall be made with an elastomeric seal conforming to ASTM C 1173, ASTM D 3212 or CSA B602.
+Mechanical joints
+shall not be installed in above-ground systems, unless otherwise
+approved
+.
+Joints
+shall be installed in accordance with the manufacturer's instructions and in conformance with acceptance criteria established by the
+commissioner
+.
+
+---
+
+## Section 705.11.2: Solvent Cementing
+
+705.11.2 Solvent Cementing
+Joint
+surfaces shall be clean and free from moisture. A purple primer that conforms to ASTM F 656 shall be applied. Solvent cement not purple in color and conforming to ASTM D 2564, CSA B137.3, CSA B181.2 or CSA B182.1 shall be applied to all
+joint
+surfaces. The
+joint
+shall be made while the cement is wet and shall be in accordance with ASTM D 2855. Solvent cement
+joints
+shall be permitted above or below ground.
+Exception:
+A primer is not required where both of the following conditions apply:
+The solvent cement used is
+third-party certified
+as conforming to ASTM D 2564.
+The solvent cement is used only for joining PVC
+drain
+,
+waste
+and vent pipe and fittings in nonpressure applications in sizes up to and including 4 inches (102 mm) in diameter.
+
+---
+
+Joint
+surfaces shall be clean and free from moisture. A purple primer that conforms to ASTM F 656 shall be applied. Solvent cement not purple in color and conforming to ASTM D 2564, CSA B137.3, CSA B181.2 or CSA B182.1 shall be applied to all
+joint
+surfaces. The
+joint
+shall be made while the cement is wet and shall be in accordance with ASTM D 2855. Solvent cement
+joints
+shall be permitted above or below ground.
+Exception:
+A primer is not required where both of the following conditions apply:
+The solvent cement used is
+third-party certified
+as conforming to ASTM D 2564.
+The solvent cement is used only for joining PVC
+drain
+,
+waste
+and vent pipe and fittings in nonpressure applications in sizes up to and including 4 inches (102 mm) in diameter.
+
+---
+
+## Section 705.11.3: Threaded Joints
+
+705.11.3 Threaded Joints
+Threads shall conform to ASME B1.20.1. Schedule 80 or heavier pipe shall be permitted to be threaded with dies specifically designed for
+plastic pipe
+.
+Approved
+thread lubricant or tape shall be applied on the male threads only.
+
+---
+
+Threads shall conform to ASME B1.20.1. Schedule 80 or heavier pipe shall be permitted to be threaded with dies specifically designed for
+plastic pipe
+.
+Approved
+thread lubricant or tape shall be applied on the male threads only.
+
+---
+
+## Section 705.12: Vitrified Clay
+
+705.12 Vitrified Clay
+Joints
+between vitrified clay pipe or fittings shall be made with an elastomeric seal conforming to ASTM C 425, ASTM C 1173 or CSA B602.
+
+---
+
+Joints
+between vitrified clay pipe or fittings shall be made with an elastomeric seal conforming to ASTM C 425, ASTM C 1173 or CSA B602.
+
+---
+
+## Section 705.13: Polyethylene Plastic Pipe
+
+705.13 Polyethylene Plastic Pipe
+Joints
+between polyethylene
+plastic pipe
+and fittings shall be underground and shall comply with
+Section 705.13.1
+or
+705.13.2
+.
+
+---
+
+Joints
+between polyethylene
+plastic pipe
+and fittings shall be underground and shall comply with
+Section 705.13.1
+or
+705.13.2
+.
+
+---
+
+## Section 705.13.1: Heat-Fusion Joints
+
+705.13.1 Heat-Fusion Joints
+Joint
+surfaces shall be clean and free from moisture. All
+joint
+surfaces shall be cut, heated to melting temperature and joined using tools specifically designed for the operation.
+Joints
+shall be undisturbed until cool.
+Joints
+shall be made in accordance with ASTM D 2657 and the manufacturer's instructions.
+
+---
+
+Joint
+surfaces shall be clean and free from moisture. All
+joint
+surfaces shall be cut, heated to melting temperature and joined using tools specifically designed for the operation.
+Joints
+shall be undisturbed until cool.
+Joints
+shall be made in accordance with ASTM D 2657 and the manufacturer's instructions.
+
+---
+
+## Section 705.13.2: Mechanical Joints
+
+705.13.2 Mechanical Joints
+Mechanical joints
+in
+drainage
+piping shall be made with an elastomeric seal conforming to ASTM C 1173, ASTM D 3212 or CSA B602.
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Mechanical joints
+in
+drainage
+piping shall be made with an elastomeric seal conforming to ASTM C 1173, ASTM D 3212 or CSA B602.
+Mechanical joints
+shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 705.14: Reserved
+
+705.14 Reserved
+
+---
+
+## Section 705.15: Reserved
+
+705.15 Reserved
+
+---
+
+## Section 705.16: Joints Between Different Materials
+
+705.16 Joints Between Different Materials
+Joints
+between different piping
+materials
+shall be made with a
+mechanical joint
+of the compression or mechanical-sealing type conforming to ASTM C 1173, ASTM C 1460 or ASTM C 1461. Connectors and adapters shall be
+approved
+for the application and such
+joints
+shall have an elastomeric seal conforming to ASTM C 425, ASTM C 443, ASTM C 564, ASTM C 1440, ASTM F 477, CSA A257.3M or CSA B602, or as required in Sections
+705.16.1
+through
+705.16.7
+.
+Joints
+between glass pipe and other types of
+materials
+shall be made with adapters having a TFE seal.
+Joints
+shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Joints
+between different piping
+materials
+shall be made with a
+mechanical joint
+of the compression or mechanical-sealing type conforming to ASTM C 1173, ASTM C 1460 or ASTM C 1461. Connectors and adapters shall be
+approved
+for the application and such
+joints
+shall have an elastomeric seal conforming to ASTM C 425, ASTM C 443, ASTM C 564, ASTM C 1440, ASTM F 477, CSA A257.3M or CSA B602, or as required in Sections
+705.16.1
+through
+705.16.7
+.
+Joints
+between glass pipe and other types of
+materials
+shall be made with adapters having a TFE seal.
+Joints
+shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 705.16.1: Copper or Copper-Alloy Tubing to Cast-Iron Hub Pipe
+
+705.16.1 Copper or Copper-Alloy Tubing to Cast-Iron Hub Pipe
+Joints
+between copper or copper-alloy tubing and cast-iron hub pipe shall be made with a brass ferrule or compression
+joint
+. The copper or copper-alloy tubing shall be soldered to the ferrule in an
+approved
+manner, and the ferrule shall be joined to the cast-iron hub by a caulked
+joint
+or a mechanical compression
+joint
+.
+
+---
+
+Joints
+between copper or copper-alloy tubing and cast-iron hub pipe shall be made with a brass ferrule or compression
+joint
+. The copper or copper-alloy tubing shall be soldered to the ferrule in an
+approved
+manner, and the ferrule shall be joined to the cast-iron hub by a caulked
+joint
+or a mechanical compression
+joint
+.
+
+---
+
+## Section 705.16.2: Copper or Copper-Alloy Tubing to Galvanized Steel Pipe
+
+705.16.2 Copper or Copper-Alloy Tubing to Galvanized Steel Pipe
+Joints
+between copper or copper-alloy tubing and galvanized steel pipe shall be made with a brass converter fitting or dielectric fitting. The copper tubing shall be soldered to the fitting in an
+approved
+manner, and the fitting shall be screwed to the threaded pipe.
+
+---
+
+Joints
+between copper or copper-alloy tubing and galvanized steel pipe shall be made with a brass converter fitting or dielectric fitting. The copper tubing shall be soldered to the fitting in an
+approved
+manner, and the fitting shall be screwed to the threaded pipe.
+
+---
+
+## Section 705.16.3: Cast-Iron Pipe to Galvanized Steel or Brass Pipe
+
+705.16.3 Cast-Iron Pipe to Galvanized Steel or Brass Pipe
+Joints
+between cast-iron and galvanized steel or brass pipe shall be made by either caulked or threaded
+joints
+or with an
+approved
+adapter fitting
+.
+
+---
+
+Joints
+between cast-iron and galvanized steel or brass pipe shall be made by either caulked or threaded
+joints
+or with an
+approved
+adapter fitting
+.
+
+---
+
+## Section 705.16.4: Plastic Pipe or Tubing to Other Piping Material
+
+705.16.4 Plastic Pipe or Tubing to Other Piping Material
+Joints
+between different types of
+plastic pipe
+or between
+plastic pipe
+and other piping material shall be made with an
+approved
+adapter fitting
+.
+Joints
+between
+plastic pipe
+and cast-iron hub pipe shall be made by a caulked
+joint
+or a mechanical compression
+joint
+.
+
+---
+
+Joints
+between different types of
+plastic pipe
+or between
+plastic pipe
+and other piping material shall be made with an
+approved
+adapter fitting
+.
+Joints
+between
+plastic pipe
+and cast-iron hub pipe shall be made by a caulked
+joint
+or a mechanical compression
+joint
+.
+
+---
+
+## Section 705.16.5: Lead Pipe to Other Piping Material
+
+705.16.5 Lead Pipe to Other Piping Material
+Joints
+between lead pipe and other piping material shall be made by a wiped
+joint
+to a caulking ferrule, soldering nipple or bushing or shall be made with an
+approved
+adapter fitting
+.
+
+---
+
+Joints
+between lead pipe and other piping material shall be made by a wiped
+joint
+to a caulking ferrule, soldering nipple or bushing or shall be made with an
+approved
+adapter fitting
+.
+
+---
+
+## Section 705.16.6: Borosilicate Glass to Other Materials
+
+705.16.6 Borosilicate Glass to Other Materials
+Joints
+between glass pipe and other types of
+materials
+shall be made with adapters having a TFE seal and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Joints
+between glass pipe and other types of
+materials
+shall be made with adapters having a TFE seal and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 705.16.7: Stainless Steel Drainage Systems to Other Materials
+
+705.16.7 Stainless Steel Drainage Systems to Other Materials
+Joints
+between stainless steel
+drainage systems
+and other piping
+materials
+shall be made with
+approved
+mechanical couplings.
+
+---
+
+Joints
+between stainless steel
+drainage systems
+and other piping
+materials
+shall be made with
+approved
+mechanical couplings.
+
+---
+
+## Section 705.17: Drainage Slip Joints
+
+705.17 Drainage Slip Joints
+Slip
+joints
+shall comply with
+Section 405.8
+.
+
+---
+
+Slip
+joints
+shall comply with
+Section 405.8
+.
+
+---
+
+## Section 705.18: Caulking Ferrules
+
+705.18 Caulking Ferrules
+Ferrules shall be of red brass and shall be in accordance with Table 705.18.
+TABLE 705.18
+CAULKING FERRULE SPECIFICATIONS
+PIPE SIZES
+(inches)
+INSIDE DIAMETER
+(inches)
+LENGTH
+(inches)
+MINIMUM WEIGHT EACH
+2
+2
+1
+/
+4
+4
+1
+/
+2
+1 pound
+3
+3
+1
+/
+4
+4
+1
+/
+2
+1 pound 12 ounces
+4
+4
+1
+/
+4
+4
+1
+/
+2
+2 pounds 8 ounces
+For SI: 1 inch = 25.4 mm, 1 ounce = 28.35 g, 1 pound = 0.454 kg.
+
+---
+
+Ferrules shall be of red brass and shall be in accordance with Table 705.18.
+TABLE 705.18
+CAULKING FERRULE SPECIFICATIONS
+PIPE SIZES
+(inches)
+INSIDE DIAMETER
+(inches)
+LENGTH
+(inches)
+MINIMUM WEIGHT EACH
+2
+2
+1
+/
+4
+4
+1
+/
+2
+1 pound
+3
+3
+1
+/
+4
+4
+1
+/
+2
+1 pound 12 ounces
+4
+4
+1
+/
+4
+4
+1
+/
+2
+2 pounds 8 ounces
+For SI: 1 inch = 25.4 mm, 1 ounce = 28.35 g, 1 pound = 0.454 kg.
+
+---
+
+## Section 705.19: Soldering Bushings
+
+705.19 Soldering Bushings
+Soldering bushings shall be of red brass and shall be in accordance with Table 705.19.
+TABLE 705.19
+SOLDERING BUSHING SPECIFICATIONS
+PIPE SIZES
+(inches)
+MINIMUM WEIGHT
+EACH
+1
+1
+/
+4
+6 ounces
+1
+1
+/
+2
+8 ounces
+2
+14 ounces
+2
+1
+/
+2
+1 pound 6 ounces
+3
+2 pounds
+4
+3 pounds 8 ounces
+For SI: 1 inch = 25.4 mm, 1 ounce = 28.35 g, 1 pound = 0.454 kg.
+
+---
+
+Soldering bushings shall be of red brass and shall be in accordance with Table 705.19.
+TABLE 705.19
+SOLDERING BUSHING SPECIFICATIONS
+PIPE SIZES
+(inches)
+MINIMUM WEIGHT
+EACH
+1
+1
+/
+4
+6 ounces
+1
+1
+/
+2
+8 ounces
+2
+14 ounces
+2
+1
+/
+2
+1 pound 6 ounces
+3
+2 pounds
+4
+3 pounds 8 ounces
+For SI: 1 inch = 25.4 mm, 1 ounce = 28.35 g, 1 pound = 0.454 kg.
+
+---
+
+## Section 705.20: Stainless Steel Drainage Systems
+
+705.20 Stainless Steel Drainage Systems
+O-ring
+joints
+for stainless steel
+drainage systems
+shall be made with an
+approved
+elastomeric seal.
+
+---
+
+O-ring
+joints
+for stainless steel
+drainage systems
+shall be made with an
+approved
+elastomeric seal.
+
+---
+
+Section 706 Connections Between Drainage Piping and Fittings
+
+---
+
+## Section 706.1: Connections and Changes in Direction
+
+706.1 Connections and Changes in Direction
+All
+connections
+and changes in direction of the
+sanitary
+drainage system
+shall be made with
+approved
+drainage fittings
+.
+Connections
+between
+drainage
+piping and fixtures shall conform to
+Section 405
+.
+
+---
+
+All
+connections
+and changes in direction of the
+sanitary
+drainage system
+shall be made with
+approved
+drainage fittings
+.
+Connections
+between
+drainage
+piping and fixtures shall conform to
+Section 405
+.
+
+---
+
+## Section 706.2: Obstructions
+
+706.2 Obstructions
+The fittings shall not have ledges, shoulders or reductions capable of retarding or obstructing flow in the piping. Threaded
+drainage
+pipe fittings shall be of the recessed
+drainage
+type. This section shall not be applicable to tubular
+waste fittings
+used to convey vertical flow upstream of the
+trap seal
+liquid level of a fixture
+trap
+.
+
+---
+
+The fittings shall not have ledges, shoulders or reductions capable of retarding or obstructing flow in the piping. Threaded
+drainage
+pipe fittings shall be of the recessed
+drainage
+type. This section shall not be applicable to tubular
+waste fittings
+used to convey vertical flow upstream of the
+trap seal
+liquid level of a fixture
+trap
+.
+
+---
+
+## Section 706.3: Installation of Fittings
+
+706.3 Installation of Fittings
+Fittings shall be installed to guide
+sewage
+and
+waste
+in the direction of flow. Change in direction shall be made by fittings installed in accordance with Table 706.3. Change in direction by combination fittings, side inlets or increasers shall be installed in accordance with Table 706.3 based on the pattern of flow created by the fitting.
+TABLE 706.3
+FITTINGS FOR CHANGE IN DIRECTION
+TYPE OF FITTING
+PATTERN
+CHANGE IN DIRECTION
+Horizontal to
+vertical
+Vertical to
+horizontal
+Horizontal to
+horizontal
+Sixteenth bend
+X
+X
+X
+Eighth bend
+X
+X
+X
+Sixth bend
+X
+X
+X
+Quarter bend
+X
+X
+a
+X
+a
+Short sweep
+X
+X
+a,b
+X
+a
+Long sweep
+X
+X
+X
+Sanitary
+tee
+X
+c
+=
+=
+Wye
+X
+X
+X
+Combination wye and
+eighth bend
+X
+X
+X
+For SI: 1 inch = 25.4 mm.
+a. The fittings shall only be permitted for a 2-inch or smaller
+fixture drain
+.
+b. Three inches or larger.
+c. For a limitation on double
+sanitary
+tees, see Section 706.3.
+UpCodes Diagrams (10)
+
+---
+
+Fittings shall be installed to guide
+sewage
+and
+waste
+in the direction of flow. Change in direction shall be made by fittings installed in accordance with Table 706.3. Change in direction by combination fittings, side inlets or increasers shall be installed in accordance with Table 706.3 based on the pattern of flow created by the fitting.
+TABLE 706.3
+FITTINGS FOR CHANGE IN DIRECTION
+TYPE OF FITTING
+PATTERN
+CHANGE IN DIRECTION
+Horizontal to
+vertical
+Vertical to
+horizontal
+Horizontal to
+horizontal
+Sixteenth bend
+X
+X
+X
+Eighth bend
+X
+X
+X
+Sixth bend
+X
+X
+X
+Quarter bend
+X
+X
+a
+X
+a
+Short sweep
+X
+X
+a,b
+X
+a
+Long sweep
+X
+X
+X
+Sanitary
+tee
+X
+c
+=
+=
+Wye
+X
+X
+X
+Combination wye and
+eighth bend
+X
+X
+X
+For SI: 1 inch = 25.4 mm.
+a. The fittings shall only be permitted for a 2-inch or smaller
+fixture drain
+.
+b. Three inches or larger.
+c. For a limitation on double
+sanitary
+tees, see Section 706.3.
+
+---
+
+## Section 706.4: Reserved
+
+706.4 Reserved
+
+---
+
+Section 707 Prohibited Joints and Connections
+
+---
+
+## Section 707.1: Prohibited Joints
+
+707.1 Prohibited Joints
+The following types of
+joints
+and
+connections
+shall be prohibited:
+Cement or concrete
+joints
+.
+Mastic or hot-pour bituminous
+joints
+.
+Joints
+made with fittings not
+approved
+for the specific installation.
+Joints
+between different diameter pipes made with elastomeric rolling O-rings.
+Solvent-cement
+joints
+between different types of
+plastic pipe
+.
+Saddle-type fittings.
+
+---
+
+The following types of
+joints
+and
+connections
+shall be prohibited:
+Cement or concrete
+joints
+.
+Mastic or hot-pour bituminous
+joints
+.
+Joints
+made with fittings not
+approved
+for the specific installation.
+Joints
+between different diameter pipes made with elastomeric rolling O-rings.
+Solvent-cement
+joints
+between different types of
+plastic pipe
+.
+Saddle-type fittings.
+
+---
+
+Section 708 Cleanouts
+UpCodes Diagrams (8)
+
+---
+
+## Section 708.1: Cleanouts Required
+
+708.1 Cleanouts Required
+Cleanouts
+shall be provided for
+drainage
+piping in accordance with Sections
+708.1.1
+through
+708.1.12
+.
+
+---
+
+Cleanouts
+shall be provided for
+drainage
+piping in accordance with Sections
+708.1.1
+through
+708.1.12
+.
+
+---
+
+## Section 708.1.1: Horizontal Drains and Building Drains
+
+708.1.1 Horizontal Drains and Building Drains
+Horizontal
+drainage
+pipes in buildings shall have
+cleanouts
+located at intervals of not more than 100 feet (30 480 mm).
+Building drains
+shall have
+cleanouts
+located at intervals of not more than 100 feet (30 480 mm).
+Exception:
+Horizontal
+fixture drain
+piping serving a nonremovable
+trap
+shall not be required to have a
+cleanout
+for the section of piping between the
+trap
+and the vent connection for such
+trap
+.
+UpCodes Diagram (1)
+
+---
+
+Horizontal
+drainage
+pipes in buildings shall have
+cleanouts
+located at intervals of not more than 100 feet (30 480 mm).
+Building drains
+shall have
+cleanouts
+located at intervals of not more than 100 feet (30 480 mm).
+Exception:
+Horizontal
+fixture drain
+piping serving a nonremovable
+trap
+shall not be required to have a
+cleanout
+for the section of piping between the
+trap
+and the vent connection for such
+trap
+.
+
+---
+
+## Section 708.1.2: Building Sewers
+
+708.1.2 Building Sewers
+Building sewers
+smaller than 8 inches (203 mm) shall have
+cleanouts
+located at intervals of not more than 100 feet (30 480 mm).
+Building sewers
+8 inches (203 mm) and larger shall have a manhole located not more than 200 feet (60 960 mm) from the junction of the
+building drain
+and
+building sewer
+and at intervals of not more than 400 feet (122 m). The interval length shall be measured from the
+cleanout
+or manhole opening, along the
+developed length
+of the piping to the next
+drainage fitting
+providing
+access
+for cleaning, a manhole or the end of the
+building sewer
+.
+UpCodes Diagram (1)
+
+---
+
+Building sewers
+smaller than 8 inches (203 mm) shall have
+cleanouts
+located at intervals of not more than 100 feet (30 480 mm).
+Building sewers
+8 inches (203 mm) and larger shall have a manhole located not more than 200 feet (60 960 mm) from the junction of the
+building drain
+and
+building sewer
+and at intervals of not more than 400 feet (122 m). The interval length shall be measured from the
+cleanout
+or manhole opening, along the
+developed length
+of the piping to the next
+drainage fitting
+providing
+access
+for cleaning, a manhole or the end of the
+building sewer
+.
+
+---
+
+## Section 708.1.3: Building Drain and Building Sewer Junction
+
+708.1.3 Building Drain and Building Sewer Junction
+The junction of the
+building drain
+and the
+building sewer
+shall be served by a
+cleanout
+that is located at the junction or within 10 feet (3048 mm) of the
+developed length
+of piping upstream of the junction. For the requirements of this section, the
+cleanout
+access
+shall not be provided by
+water
+closet removal.
+UpCodes Diagrams (2)
+
+---
+
+The junction of the
+building drain
+and the
+building sewer
+shall be served by a
+cleanout
+that is located at the junction or within 10 feet (3048 mm) of the
+developed length
+of piping upstream of the junction. For the requirements of this section, the
+cleanout
+access
+shall not be provided by
+water
+closet removal.
+
+---
+
+## Section 708.1.4: Changes of Direction
+
+708.1.4 Changes of Direction
+Where a horizontal
+drainage
+pipe, a
+building drain
+or a
+building sewer
+has a change of horizontal direction greater than 45 degrees (0.79 rad), a
+cleanout
+shall be installed at the change of direction. Where more than one change of horizontal direction greater than 45 degrees (0.79 rad) occurs within 40 feet (12 192 mm) of
+developed length
+of piping, the
+cleanout
+installed for the first change of direction shall serve as the
+cleanout
+for all changes in direction within that 40 feet (12 192 mm) of
+developed length
+of piping.
+UpCodes Diagram (1)
+
+---
+
+Where a horizontal
+drainage
+pipe, a
+building drain
+or a
+building sewer
+has a change of horizontal direction greater than 45 degrees (0.79 rad), a
+cleanout
+shall be installed at the change of direction. Where more than one change of horizontal direction greater than 45 degrees (0.79 rad) occurs within 40 feet (12 192 mm) of
+developed length
+of piping, the
+cleanout
+installed for the first change of direction shall serve as the
+cleanout
+for all changes in direction within that 40 feet (12 192 mm) of
+developed length
+of piping.
+
+---
+
+## Section 708.1.5: Cleanout Size
+
+708.1.5 Cleanout Size
+Cleanouts
+shall be the same size as the piping served by the
+cleanout
+, except that
+cleanouts
+for piping larger than 4 inches (102 mm) need not be larger than 4 inches (102 mm).
+Exceptions:
+A removable P-
+trap
+with
+slip
+or ground
+joint
+connections
+can serve as a
+cleanout
+for
+drain
+piping that is one size larger than the P-
+trap
+size.
+Cleanouts
+located on
+stacks
+can be one size smaller than the
+stack
+size.
+The size of
+cleanouts
+for cast-iron piping can be in accordance with the referenced standards for cast-iron fittings as indicated in
+Table 702.4
+.
+UpCodes Diagram (1)
+
+---
+
+Cleanouts
+shall be the same size as the piping served by the
+cleanout
+, except that
+cleanouts
+for piping larger than 4 inches (102 mm) need not be larger than 4 inches (102 mm).
+Exceptions:
+A removable P-
+trap
+with
+slip
+or ground
+joint
+connections
+can serve as a
+cleanout
+for
+drain
+piping that is one size larger than the P-
+trap
+size.
+Cleanouts
+located on
+stacks
+can be one size smaller than the
+stack
+size.
+The size of
+cleanouts
+for cast-iron piping can be in accordance with the referenced standards for cast-iron fittings as indicated in
+Table 702.4
+.
+
+---
+
+## Section 708.1.6: Cleanout Plugs
+
+708.1.6 Cleanout Plugs
+Cleanout
+plugs shall be of brass, plastic or other
+approved
+materials
+.
+Cleanout
+plugs for borosilicate glass piping systems shall be of borosilicate glass. Brass
+cleanout
+plugs shall conform to ASTM A 74 and shall be limited for use only on metallic piping systems. Plastic
+cleanout
+plugs shall conform to the referenced standards for
+plastic pipe
+fittings, as indicated in
+Table 702.4
+.
+Cleanout
+plugs shall have a raised square head, a countersunk square head or a countersunk slot head. Where a
+cleanout
+plug will have a trim cover screw installed into the plug, the plug shall be manufactured with a blind end threaded hole for such purpose.
+
+---
+
+Cleanout
+plugs shall be of brass, plastic or other
+approved
+materials
+.
+Cleanout
+plugs for borosilicate glass piping systems shall be of borosilicate glass. Brass
+cleanout
+plugs shall conform to ASTM A 74 and shall be limited for use only on metallic piping systems. Plastic
+cleanout
+plugs shall conform to the referenced standards for
+plastic pipe
+fittings, as indicated in
+Table 702.4
+.
+Cleanout
+plugs shall have a raised square head, a countersunk square head or a countersunk slot head. Where a
+cleanout
+plug will have a trim cover screw installed into the plug, the plug shall be manufactured with a blind end threaded hole for such purpose.
+
+---
+
+## Section 708.1.7: Manholes
+
+708.1.7 Manholes
+Manholes and manhole covers shall be of an
+approved
+type. Manholes located inside of a building shall have gas-tight covers that require tools for removal.
+
+---
+
+Manholes and manhole covers shall be of an
+approved
+type. Manholes located inside of a building shall have gas-tight covers that require tools for removal.
+
+---
+
+## Section 708.1.8: Installation Arrangement
+
+708.1.8 Installation Arrangement
+The installation arrangement of a
+cleanout
+shall enable cleaning of
+drainage
+piping only in the direction of
+drainage
+flow.
+Exceptions:
+Test tees serving as
+cleanouts
+.
+A two-way
+cleanout
+installation that is
+approved
+for meeting the requirements of
+Section 708.1.3
+.
+UpCodes Diagrams (3)
+
+---
+
+The installation arrangement of a
+cleanout
+shall enable cleaning of
+drainage
+piping only in the direction of
+drainage
+flow.
+Exceptions:
+Test tees serving as
+cleanouts
+.
+A two-way
+cleanout
+installation that is
+approved
+for meeting the requirements of
+Section 708.1.3
+.
+
+---
+
+## Section 708.1.9: Required Clearance
+
+708.1.9 Required Clearance
+Cleanouts
+for 6-inch (153 mm) and smaller piping shall be provided with a clearance of not less than 18 inches (457 mm) from, and perpendicular to, the face of the opening to any obstruction.
+Cleanouts
+for 8-inch (203 mm) and larger piping shall be provided with a clearance of not less than 36 inches (914 mm) from, and perpendicular to, the face of the opening to any obstruction.
+UpCodes Diagram (1)
+
+---
+
+Cleanouts
+for 6-inch (153 mm) and smaller piping shall be provided with a clearance of not less than 18 inches (457 mm) from, and perpendicular to, the face of the opening to any obstruction.
+Cleanouts
+for 8-inch (203 mm) and larger piping shall be provided with a clearance of not less than 36 inches (914 mm) from, and perpendicular to, the face of the opening to any obstruction.
+
+---
+
+## Section 708.1.10: Cleanout Access
+
+708.1.10 Cleanout Access
+Required
+cleanouts
+shall be provided with
+access
+.
+Cleanouts
+on concealed piping or piping under a floor slab or in a crawl space of less than 24 inches (610 mm) in height or a plenum shall be extended through and terminate flush with the finished wall, floor or ground surface or shall be extended to the outside of the building.
+Cleanouts
+with openings at a finished wall shall have the face of the opening located within 1
+1
+/
+2
+inches (38 mm) of the finished wall surface.
+Cleanouts
+located below grade shall be extended to grade level so that the top of the
+cleanout
+plug is at or above grade. A
+cleanout
+installed in a floor or walkway that will not have a trim cover installed shall have a countersunk plug installed so the top surface of the plug is flush with the finished surface of the floor or walkway.
+
+---
+
+Required
+cleanouts
+shall be provided with
+access
+.
+Cleanouts
+on concealed piping or piping under a floor slab or in a crawl space of less than 24 inches (610 mm) in height or a plenum shall be extended through and terminate flush with the finished wall, floor or ground surface or shall be extended to the outside of the building.
+Cleanouts
+with openings at a finished wall shall have the face of the opening located within 1
+1
+/
+2
+inches (38 mm) of the finished wall surface.
+Cleanouts
+located below grade shall be extended to grade level so that the top of the
+cleanout
+plug is at or above grade. A
+cleanout
+installed in a floor or walkway that will not have a trim cover installed shall have a countersunk plug installed so the top surface of the plug is flush with the finished surface of the floor or walkway.
+
+---
+
+## Section 708.1.10.1: Cleanout Plug Trim Covers
+
+708.1.10.1 Cleanout Plug Trim Covers
+Trim covers and
+access
+doors for
+cleanout
+plugs shall be designed for such purposes and shall be
+approved
+. Trim cover fasteners that thread into
+cleanout
+plugs shall be corrosion resistant.
+Cleanout
+plugs shall not be covered with mortar, plaster or any other permanent material.
+
+---
+
+Trim covers and
+access
+doors for
+cleanout
+plugs shall be designed for such purposes and shall be
+approved
+. Trim cover fasteners that thread into
+cleanout
+plugs shall be corrosion resistant.
+Cleanout
+plugs shall not be covered with mortar, plaster or any other permanent material.
+
+---
+
+## Section 708.1.10.2: Floor Cleanout Assemblies
+
+708.1.10.2 Floor Cleanout Assemblies
+Where it is necessary to protect a
+cleanout
+plug from the loads of vehicular traffic,
+cleanout
+assemblies in accordance with ASME A112.36.2M shall be installed.
+
+---
+
+Where it is necessary to protect a
+cleanout
+plug from the loads of vehicular traffic,
+cleanout
+assemblies in accordance with ASME A112.36.2M shall be installed.
+
+---
+
+## Section 708.1.11: Prohibited Use
+
+708.1.11 Prohibited Use
+The use of a threaded
+cleanout
+opening to add a fixture or to extend piping shall be prohibited except where another
+cleanout
+of equal size is installed with the required
+access
+and clearance.
+
+---
+
+The use of a threaded
+cleanout
+opening to add a fixture or to extend piping shall be prohibited except where another
+cleanout
+of equal size is installed with the required
+access
+and clearance.
+
+---
+
+## Section 708.1.12: Base of Stack
+
+708.1.12 Base of Stack
+A
+cleanout
+shall be provided at the base of each
+waste
+or soil stack
+
+---
+
+A
+cleanout
+shall be provided at the base of each
+waste
+or soil stack
+
+---
+
+Section 709 Fixture Units
+
+---
+
+## Section 709.1: Values for Fixtures
+
+709.1 Values for Fixtures
+Drainage fixture unit
+values as given in Table 709.1 designate the relative load weight of different kinds of fixtures that shall be employed in estimating the total load carried by a soil or
+waste pipe
+, and shall be used in connection with
+Tables 710.1(1)
+and
+710.1(2)
+of sizes for soil,
+waste
+and vent pipes for which the permissible load is given in terms of fixture units.
+TABLE 709.1
+DRAINAGE FIXTURE UNITS
+FOR FIXTURES AND GROUPS
+FIXTURE TYPE
+DRAINAGE FIXTURE UNIT
+VALUE AS LOAD FACTORS
+MINIMUM SIZE OF
+TRAP
+(inches)
+Automatic clothes washers, commercial
+a,g
+3
+2
+Automatic clothes washers, residential
+g
+2
+2
+Bathroom group
+as defined in
+Section 202
+5
+—
+Bathtub
+b
+(with or without overhead shower or whirpool attachments)
+2
+1
+1
+/
+2
+Bidet
+1
+1
+1
+/
+4
+Combination sink and tray
+2
+1
+1
+/
+2
+Dental lavatory
+1
+1
+1
+/
+4
+Dental unit or cuspidor
+1
+1
+1
+/
+4
+Dishwashing machine
+c
+, domestic
+2
+1
+1
+/
+2
+Drinking fountain
+1
+/
+2
+1
+1
+/
+4
+Emergency floor drain
+0
+2
+Floor drains
+2
+h
+3
+Floor sinks
+Note h
+2
+Hand wash sinks and lavatories (circular or multiple) each
+faucet
+2
+1
+1
+/
+2
+Kitchen sink, domestic
+2
+2
+Kitchen sink, domestic with
+food waste disposer
+and/or dishwasher
+2
+2
+Laundry tray (1 or 2 compartments)
+2
+2
+Lavatory
+1
+1
+1
+/
+4
+Multiple (gang) shower (based on the total flow rate through shower heads and body sprays)
+Flow rate:
+5.7 gpm or less
+Greater than 5.7 gpm to 12.3 gpm
+Greater than 12.3 gpm to 25.8 gpm
+Greater than 25.8 gpm to 55.6 gpm
+2
+3
+5
+6
+2
+2
+3
+4
+Shower
+2
+2
+Sink
+2
+2
+Urinal
+4
+Note d
+Urinal, 1 gallon per flush or less
+2
+e
+Note d
+Urinal, nonwater supplied
+1
+/
+2
+Note d
+Water
+closet,
+flushometer tank
+, public or
+private
+4
+e
+Note d
+For SI: 1 inch = 25.4 mm, 1 gallon = 3.785 L, gpf = gallon per flushing cycle, gpm = gallon per minute.
+a. For
+traps
+larger than 3 inches, use
+Table 709.2
+.
+b. A showerhead over a bathtub or
+whirlpool bathtub
+attachment does not increase the
+drainage fixture unit
+value.
+c. See Sections
+709.2
+through
+709.4.1
+for methods of computing unit value of fixtures not listed in this table or for rating of devices with intermittent flows.
+d.
+Trap
+size shall be consistent with the fixture outlet size.
+e. For the purpose of computing loads on
+building drains
+and
+sewers
+,
+water
+closets and urinals shall not be rated at a lower
+drainage fixture unit
+unless the lower val-ues are confirmed by testing.
+f. For fixtures added to a
+bathroom group
+, add the
+dfu
+value of those additional fixtures to the
+bathroom group
+fixture count.
+g. See Section 406.3 for sizing requirements for
+fixture drain
+,
+branch
+drain
+and
+drainage
+stack
+for an automatic clothes washer standpipe.
+h. See Sections
+709.4
+and
+709.4.1
+.
+
+---
+
+Drainage fixture unit
+values as given in Table 709.1 designate the relative load weight of different kinds of fixtures that shall be employed in estimating the total load carried by a soil or
+waste pipe
+, and shall be used in connection with
+Tables 710.1(1)
+and
+710.1(2)
+of sizes for soil,
+waste
+and vent pipes for which the permissible load is given in terms of fixture units.
+TABLE 709.1
+DRAINAGE FIXTURE UNITS
+FOR FIXTURES AND GROUPS
+FIXTURE TYPE
+DRAINAGE FIXTURE UNIT
+VALUE AS LOAD FACTORS
+MINIMUM SIZE OF
+TRAP
+(inches)
+Automatic clothes washers, commercial
+a,g
+3
+2
+Automatic clothes washers, residential
+g
+2
+2
+Bathroom group
+as defined in
+Section 202
+5
+—
+Bathtub
+b
+(with or without overhead shower or whirpool attachments)
+2
+1
+1
+/
+2
+Bidet
+1
+1
+1
+/
+4
+Combination sink and tray
+2
+1
+1
+/
+2
+Dental lavatory
+1
+1
+1
+/
+4
+Dental unit or cuspidor
+1
+1
+1
+/
+4
+Dishwashing machine
+c
+, domestic
+2
+1
+1
+/
+2
+Drinking fountain
+1
+/
+2
+1
+1
+/
+4
+Emergency floor drain
+0
+2
+Floor drains
+2
+h
+3
+Floor sinks
+Note h
+2
+Hand wash sinks and lavatories (circular or multiple) each
+faucet
+2
+1
+1
+/
+2
+Kitchen sink, domestic
+2
+2
+Kitchen sink, domestic with
+food waste disposer
+and/or dishwasher
+2
+2
+Laundry tray (1 or 2 compartments)
+2
+2
+Lavatory
+1
+1
+1
+/
+4
+Multiple (gang) shower (based on the total flow rate through shower heads and body sprays)
+Flow rate:
+5.7 gpm or less
+Greater than 5.7 gpm to 12.3 gpm
+Greater than 12.3 gpm to 25.8 gpm
+Greater than 25.8 gpm to 55.6 gpm
+2
+3
+5
+6
+2
+2
+3
+4
+Shower
+2
+2
+Sink
+2
+2
+Urinal
+4
+Note d
+Urinal, 1 gallon per flush or less
+2
+e
+Note d
+Urinal, nonwater supplied
+1
+/
+2
+Note d
+Water
+closet,
+flushometer tank
+, public or
+private
+4
+e
+Note d
+For SI: 1 inch = 25.4 mm, 1 gallon = 3.785 L, gpf = gallon per flushing cycle, gpm = gallon per minute.
+a. For
+traps
+larger than 3 inches, use
+Table 709.2
+.
+b. A showerhead over a bathtub or
+whirlpool bathtub
+attachment does not increase the
+drainage fixture unit
+value.
+c. See Sections
+709.2
+through
+709.4.1
+for methods of computing unit value of fixtures not listed in this table or for rating of devices with intermittent flows.
+d.
+Trap
+size shall be consistent with the fixture outlet size.
+e. For the purpose of computing loads on
+building drains
+and
+sewers
+,
+water
+closets and urinals shall not be rated at a lower
+drainage fixture unit
+unless the lower val-ues are confirmed by testing.
+f. For fixtures added to a
+bathroom group
+, add the
+dfu
+value of those additional fixtures to the
+bathroom group
+fixture count.
+g. See Section 406.3 for sizing requirements for
+fixture drain
+,
+branch
+drain
+and
+drainage
+stack
+for an automatic clothes washer standpipe.
+h. See Sections
+709.4
+and
+709.4.1
+.
+
+---
+
+## Section 709.2: Fixtures Not Listed in Table 709.1
+
+709.2 Fixtures Not Listed in Table 709.1
+Fixtures not listed in
+Table 709.1
+shall have a
+drainage fixture unit
+load based on the outlet size of the fixture in accordance with Table 709.2. The minimum
+trap
+size for unlisted fixtures shall be the size of the
+drainage
+outlet but not less than 1
+1
+/
+4
+inches (32 mm).
+TABLE 709.2
+DRAINAGE FIXTURE UNITS
+FOR
+FIXTURE DRAINS
+OR
+TRAPS
+FIXTURE DRAIN
+OR
+TRAP
+SIZE
+(inches)
+DRAINAGE FIXTURE UNIT
+VALUE
+1
+1
+/
+4
+1
+1
+1
+/
+2
+2
+2
+3
+2
+1
+/
+2
+4
+3
+5
+4
+6
+For SI: 1 inch = 25.4 mm.
+
+---
+
+Fixtures not listed in
+Table 709.1
+shall have a
+drainage fixture unit
+load based on the outlet size of the fixture in accordance with Table 709.2. The minimum
+trap
+size for unlisted fixtures shall be the size of the
+drainage
+outlet but not less than 1
+1
+/
+4
+inches (32 mm).
+TABLE 709.2
+DRAINAGE FIXTURE UNITS
+FOR
+FIXTURE DRAINS
+OR
+TRAPS
+FIXTURE DRAIN
+OR
+TRAP
+SIZE
+(inches)
+DRAINAGE FIXTURE UNIT
+VALUE
+1
+1
+/
+4
+1
+1
+1
+/
+2
+2
+2
+3
+2
+1
+/
+2
+4
+3
+5
+4
+6
+For SI: 1 inch = 25.4 mm.
+
+---
+
+## Section 709.3: Values for Continuous and Semicontinuous Flow
+
+709.3 Values for Continuous and Semicontinuous Flow
+Drainage fixture unit
+values for continuous and semicontinuous flow into a
+drainage system
+shall be computed on the basis that 1 gpm (0.06 L/s) of flow is equivalent to two fixture units.
+
+---
+
+Drainage fixture unit
+values for continuous and semicontinuous flow into a
+drainage system
+shall be computed on the basis that 1 gpm (0.06 L/s) of flow is equivalent to two fixture units.
+
+---
+
+## Section 709.4: Values for Indirect Waste Receptor
+
+709.4 Values for Indirect Waste Receptor
+The
+drainage fixture unit
+load of an indirect
+waste receptor
+receiving the discharge of indirectly connected fixtures shall be the sum of the
+drainage fixture unit
+values of the fixtures that discharge to the receptor, but not less than the
+drainage fixture unit
+value given for the indirect
+waste receptor
+in
+Table 709.1
+or
+709.2
+.
+UpCodes Diagrams (2)
+
+---
+
+The
+drainage fixture unit
+load of an indirect
+waste receptor
+receiving the discharge of indirectly connected fixtures shall be the sum of the
+drainage fixture unit
+values of the fixtures that discharge to the receptor, but not less than the
+drainage fixture unit
+value given for the indirect
+waste receptor
+in
+Table 709.1
+or
+709.2
+.
+
+---
+
+## Section 709.4.1: Clear-Water Waste Receptors
+
+709.4.1 Clear-Water Waste Receptors
+Where
+waste receptors
+such as funnel
+drains
+, floor sinks and hub
+drains
+receive only clear-
+water
+waste
+from display cases, refrigerated display cases, ice bins, coolers and freezers, such receptors shall have a
+drainage fixture unit
+value of one-half.
+
+---
+
+Where
+waste receptors
+such as funnel
+drains
+, floor sinks and hub
+drains
+receive only clear-
+water
+waste
+from display cases, refrigerated display cases, ice bins, coolers and freezers, such receptors shall have a
+drainage fixture unit
+value of one-half.
+
+---
+
+Section 710 Drainage System Sizing
+
+---
+
+## Section 710.1: Maximum Fixture Unit Load
+
+710.1 Maximum Fixture Unit Load
+The maximum number of
+drainage fixture units
+connected to a given size of building
+sewer, building
+drain
+or horizontal
+branch
+of the
+building drain
+shall be determined using Table 710.1(1). The maximum number of
+drainage fixture units
+connected to a given size of horizontal
+branch
+or vertical soil or
+waste
+stack
+shall be determined using Table 710.1(2).
+TABLE 710.1(1)
+BUILDING DRAINS
+AND
+SEWERS
+DIAMETER OF PIPE
+(inches)
+MAXIMUM NUMBER OF
+DRAINAGE FIXTURE UNITS
+CONNECTED TO ANY PORTION OF THE
+BUILDING DRAIN
+OR THE
+BUILDING SEWER
+, INCLUDING
+BRANCHES
+OF THE
+BUILDING DRAIN
+a
+Slope
+per foot
+1
+/
+16
+inch
+1
+/
+8
+inch
+1
+/
+4
+inch
+1
+/
+2
+inch
+1
+1
+/
+4
+—
+—
+1
+1
+1
+1
+/
+2
+—
+—
+3
+3
+2
+—
+—
+21
+26
+2
+1
+/
+2
+—
+—
+24
+31
+3
+—
+36
+42
+50
+4
+—
+180
+216
+250
+5
+—
+390
+480
+575
+6
+—
+700
+840
+1,000
+8
+1,400
+1,600
+1,920
+2,300
+10
+2,500
+2,900
+3,500
+4,200
+12
+3,900
+4,600
+5,600
+6,700
+15
+7,000
+8,300
+10,000
+12,000
+For SI: 1 inch = 25.4 mm, 1 inch per foot = 83.3 mm/m.
+a. The minimum size of any
+building drain
+serving a
+water
+closet shall be 3 inches.
+TABLE 710.1(2)
+HORIZONTAL
+FIXTURE BRANCHES
+AND
+STACKS
+DIAMETER OF PIPE
+(inches)
+MAXIMUM NUMBER OF
+DRAINAGE FIXTURE UNITS
+(
+dfu
+)
+Total for horizontal
+branch
+Stacks
+b
+Total for
+stack
+of three
+branch Intervals
+or less
+Total for
+stack
+greater than
+three
+branch intervals
+1
+1
+/
+2
+3
+4
+8
+2
+6
+10
+24
+2
+1
+/
+2
+12
+20
+42
+3
+20
+48
+72
+4
+160
+240
+500
+5
+360
+540
+1,100
+6
+620
+960
+1,900
+8
+1,400
+2,200
+3,600
+10
+2,500
+3,800
+5,600
+12
+3,900
+6,000
+8,400
+15
+7,000
+Note c
+Note c
+For SI: 1 inch = 25.4 mm.
+a. Does not include
+branches
+of the
+building drain
+. Refer to Table 710.1(1).
+b.
+Stacks
+shall be sized based on the total accumulated connected load at each story or
+branch interval
+. No soil or
+waste
+stack
+shall be smaller than any horizontal
+branch
+connection thereto.
+c. Sizing load based on design criteria.
+UpCodes Diagram (1)
+
+---
+
+The maximum number of
+drainage fixture units
+connected to a given size of building
+sewer, building
+drain
+or horizontal
+branch
+of the
+building drain
+shall be determined using Table 710.1(1). The maximum number of
+drainage fixture units
+connected to a given size of horizontal
+branch
+or vertical soil or
+waste
+stack
+shall be determined using Table 710.1(2).
+TABLE 710.1(1)
+BUILDING DRAINS
+AND
+SEWERS
+DIAMETER OF PIPE
+(inches)
+MAXIMUM NUMBER OF
+DRAINAGE FIXTURE UNITS
+CONNECTED TO ANY PORTION OF THE
+BUILDING DRAIN
+OR THE
+BUILDING SEWER
+, INCLUDING
+BRANCHES
+OF THE
+BUILDING DRAIN
+a
+Slope
+per foot
+1
+/
+16
+inch
+1
+/
+8
+inch
+1
+/
+4
+inch
+1
+/
+2
+inch
+1
+1
+/
+4
+—
+—
+1
+1
+1
+1
+/
+2
+—
+—
+3
+3
+2
+—
+—
+21
+26
+2
+1
+/
+2
+—
+—
+24
+31
+3
+—
+36
+42
+50
+4
+—
+180
+216
+250
+5
+—
+390
+480
+575
+6
+—
+700
+840
+1,000
+8
+1,400
+1,600
+1,920
+2,300
+10
+2,500
+2,900
+3,500
+4,200
+12
+3,900
+4,600
+5,600
+6,700
+15
+7,000
+8,300
+10,000
+12,000
+For SI: 1 inch = 25.4 mm, 1 inch per foot = 83.3 mm/m.
+a. The minimum size of any
+building drain
+serving a
+water
+closet shall be 3 inches.
+TABLE 710.1(2)
+HORIZONTAL
+FIXTURE BRANCHES
+AND
+STACKS
+DIAMETER OF PIPE
+(inches)
+MAXIMUM NUMBER OF
+DRAINAGE FIXTURE UNITS
+(
+dfu
+)
+Total for horizontal
+branch
+Stacks
+b
+Total for
+stack
+of three
+branch Intervals
+or less
+Total for
+stack
+greater than
+three
+branch intervals
+1
+1
+/
+2
+3
+4
+8
+2
+6
+10
+24
+2
+1
+/
+2
+12
+20
+42
+3
+20
+48
+72
+4
+160
+240
+500
+5
+360
+540
+1,100
+6
+620
+960
+1,900
+8
+1,400
+2,200
+3,600
+10
+2,500
+3,800
+5,600
+12
+3,900
+6,000
+8,400
+15
+7,000
+Note c
+Note c
+For SI: 1 inch = 25.4 mm.
+a. Does not include
+branches
+of the
+building drain
+. Refer to Table 710.1(1).
+b.
+Stacks
+shall be sized based on the total accumulated connected load at each story or
+branch interval
+. No soil or
+waste
+stack
+shall be smaller than any horizontal
+branch
+connection thereto.
+c. Sizing load based on design criteria.
+
+---
+
+## Section 710.1.1: Horizontal Stack Offsets
+
+710.1.1 Horizontal Stack Offsets
+Horizontal
+stack
+offsets
+shall be sized as required for
+building drains
+in accordance with
+Table 710.1(1)
+, except as required by
+Section 711.3
+.
+
+---
+
+Horizontal
+stack
+offsets
+shall be sized as required for
+building drains
+in accordance with
+Table 710.1(1)
+, except as required by
+Section 711.3
+.
+
+---
+
+## Section 710.1.2: Vertical Stack Offsets
+
+710.1.2 Vertical Stack Offsets
+Vertical
+stack
+offsets
+shall be sized as required for straight
+stacks
+in accordance with
+Table 710.1(2)
+, except
+where required
+to be sized as a
+building drain
+in accordance with
+Section 711.1.1
+.
+
+---
+
+Vertical
+stack
+offsets
+shall be sized as required for straight
+stacks
+in accordance with
+Table 710.1(2)
+, except
+where required
+to be sized as a
+building drain
+in accordance with
+Section 711.1.1
+.
+
+---
+
+## Section 710.2: Future Fixtures
+
+710.2 Future Fixtures
+Where provision is made for the future installation of fixtures, those provided for shall be considered in determining the required sizes of
+drain
+pipes.
+
+---
+
+Where provision is made for the future installation of fixtures, those provided for shall be considered in determining the required sizes of
+drain
+pipes.
+
+---
+
+Section 711 Offsets in Drainage Piping in Buildings of Five Stories or More
+
+---
+
+## Section 711.1: Horizontal Branch Connections Above or Below Vertical Stack Offsets
+
+711.1 Horizontal Branch Connections Above or Below Vertical Stack Offsets
+If a horizontal
+branch
+connects to the
+stack
+within 2 feet (610 mm) above or below a vertical
+stack
+offset
+, and the
+offset
+is located more than four
+branch intervals
+below the top of the
+stack
+, the
+offset
+shall be vented in accordance with
+Section 907
+.
+
+---
+
+If a horizontal
+branch
+connects to the
+stack
+within 2 feet (610 mm) above or below a vertical
+stack
+offset
+, and the
+offset
+is located more than four
+branch intervals
+below the top of the
+stack
+, the
+offset
+shall be vented in accordance with
+Section 907
+.
+
+---
+
+## Section 711.1.1: Omission of Vents for Vertical Stack Offsets
+
+711.1.1 Omission of Vents for Vertical Stack Offsets
+Vents for vertical
+offsets
+required by
+Section 711.1
+shall not be required where the
+stack
+and its
+offset
+are sized as a
+building drain
+(see
+Table 710.1(1)
+, Column 5).
+
+---
+
+Vents for vertical
+offsets
+required by
+Section 711.1
+shall not be required where the
+stack
+and its
+offset
+are sized as a
+building drain
+(see
+Table 710.1(1)
+, Column 5).
+
+---
+
+## Section 711.2: Horizontal Stack Offsets
+
+711.2 Horizontal Stack Offsets
+A
+stack
+with a horizontal
+offset
+located more than four
+branch intervals
+below the top of the
+stack
+shall be vented in accordance with
+Section 907
+and sized as follows:
+The portion of the
+stack
+above the
+offset
+shall be sized as for a vertical
+stack
+based on the total number of
+drainage fixture units
+above the
+offset
+.
+The
+offset
+shall be sized in accordance with
+Section 710.1.1
+.
+The portion of the
+stack
+below the
+offset
+shall be sized as for the
+offset
+or based on the total number of
+drainage fixture units
+on the entire
+stack
+, whichever is larger (see
+Table 710.1(2)
+, Column 4).
+
+---
+
+A
+stack
+with a horizontal
+offset
+located more than four
+branch intervals
+below the top of the
+stack
+shall be vented in accordance with
+Section 907
+and sized as follows:
+The portion of the
+stack
+above the
+offset
+shall be sized as for a vertical
+stack
+based on the total number of
+drainage fixture units
+above the
+offset
+.
+The
+offset
+shall be sized in accordance with
+Section 710.1.1
+.
+The portion of the
+stack
+below the
+offset
+shall be sized as for the
+offset
+or based on the total number of
+drainage fixture units
+on the entire
+stack
+, whichever is larger (see
+Table 710.1(2)
+, Column 4).
+
+---
+
+## Section 711.2.1: Omission of Vents for Horizontal Stack Offsets
+
+711.2.1 Omission of Vents for Horizontal Stack Offsets
+Vents for horizontal
+stack
+offsets
+required by
+Section 711.2
+shall not be required where the
+stack
+and its
+offset
+are one pipe size larger than required for a
+building drain
+(see
+Table 710.1(1)
+, Column 5) and the entire
+stack
+and
+offset
+are not less in cross-sectional area than that required for a straight
+stack
+plus the area of an
+offset
+vent as provided for in
+Section 907
+.
+
+---
+
+Vents for horizontal
+stack
+offsets
+required by
+Section 711.2
+shall not be required where the
+stack
+and its
+offset
+are one pipe size larger than required for a
+building drain
+(see
+Table 710.1(1)
+, Column 5) and the entire
+stack
+and
+offset
+are not less in cross-sectional area than that required for a straight
+stack
+plus the area of an
+offset
+vent as provided for in
+Section 907
+.
+
+---
+
+## Section 711.3: Offsets Below Lowest Branch
+
+711.3 Offsets Below Lowest Branch
+Where a vertical
+offset
+occurs in a soil or
+waste
+stack
+below the lowest horizontal
+branch
+, a change in diameter of the
+stack
+because of the
+offset
+shall not be required. If a horizontal
+offset
+occurs in a soil or
+waste
+stack
+below the lowest horizontal
+branch
+, the required diameter of the
+offset
+and the
+stack
+below it shall be determined as for a
+building drain
+in accordance with
+Table 710.1(1)
+.
+
+---
+
+Where a vertical
+offset
+occurs in a soil or
+waste
+stack
+below the lowest horizontal
+branch
+, a change in diameter of the
+stack
+because of the
+offset
+shall not be required. If a horizontal
+offset
+occurs in a soil or
+waste
+stack
+below the lowest horizontal
+branch
+, the required diameter of the
+offset
+and the
+stack
+below it shall be determined as for a
+building drain
+in accordance with
+Table 710.1(1)
+.
+
+---
+
+Section 712 Ejectors
+
+---
+
+## Section 712.1: Building Subdrains
+
+712.1 Building Subdrains
+Building subdrains
+that cannot be discharged to the
+sewer
+by
+gravity
+flow shall be discharged into a gas-tight covered and vented ejector pit/basin from which the liquid shall be lifted and discharged into the building
+gravity
+drainage system
+by automatic pumping equipment or other
+approved
+method.
+UpCodes Diagram (1)
+
+---
+
+Building subdrains
+that cannot be discharged to the
+sewer
+by
+gravity
+flow shall be discharged into a gas-tight covered and vented ejector pit/basin from which the liquid shall be lifted and discharged into the building
+gravity
+drainage system
+by automatic pumping equipment or other
+approved
+method.
+
+---
+
+## Section 712.2: Valves Required
+
+712.2 Valves Required
+A check valve and a full open valve located on the discharge side of the check valve shall be installed in the pump or ejector discharge piping between the pump or ejector and the
+gravity
+drainage system
+.
+Access
+shall be provided to such valves. Such valves shall be located above the
+sump
+cover required by
+Section 712.1
+or, where the
+discharge pipe
+from the ejector is below grade, the valves shall be accessibly located outside the
+sump
+below grade in an
+access
+pit with a removable
+access cover
+.
+UpCodes Diagrams (2)
+
+---
+
+A check valve and a full open valve located on the discharge side of the check valve shall be installed in the pump or ejector discharge piping between the pump or ejector and the
+gravity
+drainage system
+.
+Access
+shall be provided to such valves. Such valves shall be located above the
+sump
+cover required by
+Section 712.1
+or, where the
+discharge pipe
+from the ejector is below grade, the valves shall be accessibly located outside the
+sump
+below grade in an
+access
+pit with a removable
+access cover
+.
+
+---
+
+## Section 712.3: Ejector Design
+
+712.3 Ejector Design
+The ejector pit and discharge piping shall conform to the requirements of Sections
+712.3.1
+through
+712.3.5
+.
+UpCodes Diagram (1)
+
+---
+
+The ejector pit and discharge piping shall conform to the requirements of Sections
+712.3.1
+through
+712.3.5
+.
+
+---
+
+## Section 712.3.1: Ejector Pump
+
+712.3.1 Ejector Pump
+The ejector pump capacity and head shall be appropriate to anticipated use requirements.
+
+---
+
+The ejector pump capacity and head shall be appropriate to anticipated use requirements.
+
+---
+
+## Section 712.3.2: Ejector Pit
+
+712.3.2 Ejector Pit
+The ejector pit shall be not less than 18 inches (457 mm) in diameter and 24 inches (610 mm) in depth, unless otherwise
+approved
+. The pit shall be accessible and located such that all
+drainage
+flows into the pit by
+gravity
+. The ejector pit shall be constructed of tile, concrete, steel, plastic or other
+approved
+materials
+. The pit bottom shall be solid and provide permanent support for the pump. The ejector pit shall be fitted with a gas-tight removable cover that is installed flush with grade or floor level, or above grade or floor level. The cover shall be adequate to support anticipated loads in the area of use. The ejector pit shall be vented in accordance with
+Chapter 9
+.
+
+---
+
+The ejector pit shall be not less than 18 inches (457 mm) in diameter and 24 inches (610 mm) in depth, unless otherwise
+approved
+. The pit shall be accessible and located such that all
+drainage
+flows into the pit by
+gravity
+. The ejector pit shall be constructed of tile, concrete, steel, plastic or other
+approved
+materials
+. The pit bottom shall be solid and provide permanent support for the pump. The ejector pit shall be fitted with a gas-tight removable cover that is installed flush with grade or floor level, or above grade or floor level. The cover shall be adequate to support anticipated loads in the area of use. The ejector pit shall be vented in accordance with
+Chapter 9
+.
+
+---
+
+## Section 712.3.3: Discharge Pipe and Fittings
+
+712.3.3 Discharge Pipe and Fittings
+Discharge pipe
+and fittings serving ejectors shall be constructed of
+materials
+in accordance with Sections
+712.3.3.1
+and
+712.3.3.2
+and shall be
+approved
+.
+
+---
+
+Discharge pipe
+and fittings serving ejectors shall be constructed of
+materials
+in accordance with Sections
+712.3.3.1
+and
+712.3.3.2
+and shall be
+approved
+.
+
+---
+
+## Section 712.3.3.1: Materials
+
+712.3.3.1 Materials
+Pipe and fitting
+materials
+shall be in accordance with
+Table 702.1
+and
+Table 702.2
+.
+
+---
+
+Pipe and fitting
+materials
+shall be in accordance with
+Table 702.1
+and
+Table 702.2
+.
+
+---
+
+## Section 712.3.3.2: Ratings
+
+712.3.3.2 Ratings
+Pipe and fittings shall be rated for the maximum system operating pressure and temperature. Pipe fitting
+materials
+shall be compatible with the pipe material. Where pipe and fittings are buried in the earth, they shall be suitable for burial.
+
+---
+
+Pipe and fittings shall be rated for the maximum system operating pressure and temperature. Pipe fitting
+materials
+shall be compatible with the pipe material. Where pipe and fittings are buried in the earth, they shall be suitable for burial.
+
+---
+
+## Section 712.3.4: Maximum Effluent Level
+
+712.3.4 Maximum Effluent Level
+The effluent level control shall be adjusted and maintained to at all times prevent the effluent from rising to within 2 inches (51 mm) of the invert of the
+gravity
+drain
+inlet into the
+sump
+.
+
+---
+
+The effluent level control shall be adjusted and maintained to at all times prevent the effluent from rising to within 2 inches (51 mm) of the invert of the
+gravity
+drain
+inlet into the
+sump
+.
+
+---
+
+## Section 712.3.5: Waste Pump and Waste Ejector Connection to the Drainage System
+
+712.3.5 Waste Pump and Waste Ejector Connection to the Drainage System
+Pumps connected to the
+drainage system
+shall connect to a
+building drain
+, soil
+stack
+,
+waste
+stack
+or
+horizontal branch drain
+. Where the discharge line connects into horizontal
+drainage
+piping, the connection shall be made through a wye fitting into the top of the
+drainage
+piping and such wye fitting shall be located not less than 10 pipe diameters from the base of any soil
+stack
+,
+waste
+stack
+or
+fixture drain
+.
+
+---
+
+Pumps connected to the
+drainage system
+shall connect to a
+building drain
+, soil
+stack
+,
+waste
+stack
+or
+horizontal branch drain
+. Where the discharge line connects into horizontal
+drainage
+piping, the connection shall be made through a wye fitting into the top of the
+drainage
+piping and such wye fitting shall be located not less than 10 pipe diameters from the base of any soil
+stack
+,
+waste
+stack
+or
+fixture drain
+.
+
+---
+
+## Section 712.4: Sewage Pumps and Sewage Ejectors
+
+712.4 Sewage Pumps and Sewage Ejectors
+A
+sewage
+pump or
+sewage
+ejector shall automatically discharge the contents of the pit to the building
+drainage system
+downstream of the house
+trap
+.
+Exceptions:
+Macerating toilet systems
+that comply with ASME A112.3.4/CSA B45.9 and installed in accordance with the manufacturer's instructions.
+Macerating toilet systems
+shall be permitted to discharge to a horizontal
+drain
+or
+stack
+in accordance with
+Section 712.3.5
+.
+
+---
+
+A
+sewage
+pump or
+sewage
+ejector shall automatically discharge the contents of the pit to the building
+drainage system
+downstream of the house
+trap
+.
+Exceptions:
+Macerating toilet systems
+that comply with ASME A112.3.4/CSA B45.9 and installed in accordance with the manufacturer's instructions.
+Macerating toilet systems
+shall be permitted to discharge to a horizontal
+drain
+or
+stack
+in accordance with
+Section 712.3.5
+.
+
+---
+
+## Section 712.4.1: Capacity
+
+712.4.1 Capacity
+A
+sewage
+pump or
+sewage
+ejector shall have the capacity and head for the application requirements. Pumps or ejectors that receive the discharge of
+water
+closets shall be capable of handling spherical solids with a diameter of up to and including 2 inches (51 mm). Other pumps or ejectors shall be capable of handling spherical solids with a diameter of up to and including 1 inch (25 mm). The capacity of a pump or ejector based on the diameter of the
+discharge pipe
+shall be not less than that indicated in Table 712.4.1.
+Exceptions:
+Grinder pumps or grinder ejectors that receive the discharge of
+water
+closets shall have a discharge opening of not less than 1
+1
+/
+4
+inches (32 mm).
+Macerating toilet assemblies that serve single
+water
+closets shall have a
+discharge opening of not less than
+3
+/
+4
+inch (19.1 mm).
+TABLE 712.4.1
+MINIMUM CAPACITY OF
+SEWAGE
+PUMP OR
+SEWAGE
+EJECTOR
+DIAMETER OF THE DISCHARGE
+PIPE (inches)
+CAPACITY OF PUMP OR EJECTOR
+(gpm)
+2
+21
+2
+1
+/
+2
+30
+3
+46
+For SI: 1 inch = 25.4 mm, 1 gallon per minute = 3.785 L/m.
+
+---
+
+A
+sewage
+pump or
+sewage
+ejector shall have the capacity and head for the application requirements. Pumps or ejectors that receive the discharge of
+water
+closets shall be capable of handling spherical solids with a diameter of up to and including 2 inches (51 mm). Other pumps or ejectors shall be capable of handling spherical solids with a diameter of up to and including 1 inch (25 mm). The capacity of a pump or ejector based on the diameter of the
+discharge pipe
+shall be not less than that indicated in Table 712.4.1.
+Exceptions:
+Grinder pumps or grinder ejectors that receive the discharge of
+water
+closets shall have a discharge opening of not less than 1
+1
+/
+4
+inches (32 mm).
+Macerating toilet assemblies that serve single
+water
+closets shall have a
+discharge opening of not less than
+3
+/
+4
+inch (19.1 mm).
+TABLE 712.4.1
+MINIMUM CAPACITY OF
+SEWAGE
+PUMP OR
+SEWAGE
+EJECTOR
+DIAMETER OF THE DISCHARGE
+PIPE (inches)
+CAPACITY OF PUMP OR EJECTOR
+(gpm)
+2
+21
+2
+1
+/
+2
+30
+3
+46
+For SI: 1 inch = 25.4 mm, 1 gallon per minute = 3.785 L/m.
+
+---
+
+Section 713 Health Care Plumbing
+
+---
+
+## Section 713.1: Scope
+
+713.1 Scope
+This section shall govern those aspects of health care
+plumbing systems
+that differ from
+plumbing systems
+in other structures. Health care
+plumbing systems
+shall conform to this section in addition to the other requirements of this code. The provisions of this section shall apply to the special devices and equipment installed and maintained in the following
+occupancies
+: nursing homes; homes for the aged; orphanages; infirmaries; first aid stations; psychiatric facilities; clinics; professional offices of dentists and doctors; mortuaries; educational facilities; surgery, dentistry, research and testing laboratories; establishments manufacturing pharmaceutical drugs and medicines; and other structures with similar apparatus and equipment classified as
+plumbing
+.
+
+---
+
+This section shall govern those aspects of health care
+plumbing systems
+that differ from
+plumbing systems
+in other structures. Health care
+plumbing systems
+shall conform to this section in addition to the other requirements of this code. The provisions of this section shall apply to the special devices and equipment installed and maintained in the following
+occupancies
+: nursing homes; homes for the aged; orphanages; infirmaries; first aid stations; psychiatric facilities; clinics; professional offices of dentists and doctors; mortuaries; educational facilities; surgery, dentistry, research and testing laboratories; establishments manufacturing pharmaceutical drugs and medicines; and other structures with similar apparatus and equipment classified as
+plumbing
+.
+
+---
+
+## Section 713.2: Bedpan Washers and Clinical Sinks
+
+713.2 Bedpan Washers and Clinical Sinks
+Bedpan washers and clinical sinks shall connect to the
+drainage
+and
+vent system
+in accordance with the requirements for a
+water
+closet. Bedpan washers shall also connect to a local vent.
+
+---
+
+Bedpan washers and clinical sinks shall connect to the
+drainage
+and
+vent system
+in accordance with the requirements for a
+water
+closet. Bedpan washers shall also connect to a local vent.
+
+---
+
+## Section 713.3: Indirect Waste
+
+713.3 Indirect Waste
+Sterilizers
+, steamers and condensers shall discharge to the
+drainage
+through an
+indirect waste pipe
+by means of an
+air gap
+. Where a battery of not more than three
+sterilizers
+discharges to an individual receptor, the distance between the receptor and a
+sterilizer
+shall not exceed 8 feet (2438 mm). The
+indirect waste pipe
+on a bedpan steamer shall be trapped.
+
+---
+
+Sterilizers
+, steamers and condensers shall discharge to the
+drainage
+through an
+indirect waste pipe
+by means of an
+air gap
+. Where a battery of not more than three
+sterilizers
+discharges to an individual receptor, the distance between the receptor and a
+sterilizer
+shall not exceed 8 feet (2438 mm). The
+indirect waste pipe
+on a bedpan steamer shall be trapped.
+
+---
+
+## Section 713.4: Vacuum System Station
+
+713.4 Vacuum System Station
+Ready access
+shall be provided to
+vacuum
+system station receptacles. Such receptacles shall be built into cabinets or recesses and shall be visible.
+
+---
+
+Ready access
+shall be provided to
+vacuum
+system station receptacles. Such receptacles shall be built into cabinets or recesses and shall be visible.
+
+---
+
+## Section 713.5: Bottle System
+
+713.5 Bottle System
+Vacuum
+(fluid suction) systems intended for collecting, removing and disposing of blood, pus or other fluids by the bottle system shall be provided with receptacles equipped with an overflow prevention device at each
+vacuum
+outlet station.
+
+---
+
+Vacuum
+(fluid suction) systems intended for collecting, removing and disposing of blood, pus or other fluids by the bottle system shall be provided with receptacles equipped with an overflow prevention device at each
+vacuum
+outlet station.
+
+---
+
+## Section 713.6: Central Disposal System Equipment
+
+713.6 Central Disposal System Equipment
+Central
+vacuum
+(fluid suction) systems shall provide continuous service. Systems equipped with collecting or control tanks shall provide for draining and cleaning of the tanks while the system is in operation. In hospitals, the system shall be connected to the emergency power system. The exhausts from a
+vacuum
+pump serving a
+vacuum
+(fluid suction) system shall discharge separately to
+open air
+above the roof.
+
+---
+
+Central
+vacuum
+(fluid suction) systems shall provide continuous service. Systems equipped with collecting or control tanks shall provide for draining and cleaning of the tanks while the system is in operation. In hospitals, the system shall be connected to the emergency power system. The exhausts from a
+vacuum
+pump serving a
+vacuum
+(fluid suction) system shall discharge separately to
+open air
+above the roof.
+
+---
+
+## Section 713.7: Central Vacuum or Disposal Systems
+
+713.7 Central Vacuum or Disposal Systems
+Where the
+waste
+from a central
+vacuum
+(fluid suction) system of the barometric-lag, collection-tank or bottle-disposal type is connected to the
+drainage system
+, the
+waste
+shall be directly connected to the
+sanitary
+drainage system
+through a trapped
+waste
+.
+
+---
+
+Where the
+waste
+from a central
+vacuum
+(fluid suction) system of the barometric-lag, collection-tank or bottle-disposal type is connected to the
+drainage system
+, the
+waste
+shall be directly connected to the
+sanitary
+drainage system
+through a trapped
+waste
+.
+
+---
+
+## Section 713.7.1: Piping
+
+713.7.1 Piping
+The piping of a central
+vacuum
+(fluid suction) system shall be of corrosion-resistant material with a smooth interior surface. A
+branch
+shall be not less than
+1
+/
+2
+-inch (12.7 mm) nominal pipe size for one outlet and shall be sized in accordance with the number of
+vacuum
+outlets. A
+main
+shall be not less than 1-inch (25 mm) nominal pipe size. The pipe sizing shall be increased in accordance with the manufacturer's instructions as stations are increased.
+
+---
+
+The piping of a central
+vacuum
+(fluid suction) system shall be of corrosion-resistant material with a smooth interior surface. A
+branch
+shall be not less than
+1
+/
+2
+-inch (12.7 mm) nominal pipe size for one outlet and shall be sized in accordance with the number of
+vacuum
+outlets. A
+main
+shall be not less than 1-inch (25 mm) nominal pipe size. The pipe sizing shall be increased in accordance with the manufacturer's instructions as stations are increased.
+
+---
+
+## Section 713.7.2: Velocity
+
+713.7.2 Velocity
+The velocity of airflow in a central
+vacuum
+(fluid suction) system shall be less than 5,000 feet per minute (25 m/s).
+
+---
+
+The velocity of airflow in a central
+vacuum
+(fluid suction) system shall be less than 5,000 feet per minute (25 m/s).
+
+---
+
+## Section 713.8: Vent Connections Prohibited
+
+713.8 Vent Connections Prohibited
+Connections
+between local vents serving bedpan washers or
+sterilizer vents
+serving sterilizing apparatus and normal
+sanitary
+plumbing systems
+are prohibited. Only one type of apparatus shall be served by a local vent.
+
+---
+
+Connections
+between local vents serving bedpan washers or
+sterilizer vents
+serving sterilizing apparatus and normal
+sanitary
+plumbing systems
+are prohibited. Only one type of apparatus shall be served by a local vent.
+
+---
+
+## Section 713.9: Local Vents and Stacks for Bedpan Washers
+
+713.9 Local Vents and Stacks for Bedpan Washers
+Bedpan washers shall be vented to
+open air
+above the roof by means of one or more local vents. The local vent for a bedpan washer shall be not less than a 2-inch-diameter (51 mm) pipe. A local vent serving a single bedpan washer is permitted to
+drain
+to the fixture served.
+
+---
+
+Bedpan washers shall be vented to
+open air
+above the roof by means of one or more local vents. The local vent for a bedpan washer shall be not less than a 2-inch-diameter (51 mm) pipe. A local vent serving a single bedpan washer is permitted to
+drain
+to the fixture served.
+
+---
+
+## Section 713.9.1: Multiple Installations
+
+713.9.1 Multiple Installations
+Where bedpan washers are located above each other on more than one floor, a
+local vent stack
+is permitted to be installed to receive the local vent on the various floors. Not more than three bedpan washers shall be connected to a 2-inch (51 mm)
+local vent stack
+, not more than six to a 3-inch (76 mm)
+local vent stack
+and not more than 12 to a 4-inch (102 mm)
+local vent stack
+. In multiple installations, the
+connections
+between a bedpan washer local vent and a
+local vent stack
+shall be made with tee or tee-wye
+sanitary
+pattern
+drainage fittings
+installed in an upright position.
+
+---
+
+Where bedpan washers are located above each other on more than one floor, a
+local vent stack
+is permitted to be installed to receive the local vent on the various floors. Not more than three bedpan washers shall be connected to a 2-inch (51 mm)
+local vent stack
+, not more than six to a 3-inch (76 mm)
+local vent stack
+and not more than 12 to a 4-inch (102 mm)
+local vent stack
+. In multiple installations, the
+connections
+between a bedpan washer local vent and a
+local vent stack
+shall be made with tee or tee-wye
+sanitary
+pattern
+drainage fittings
+installed in an upright position.
+
+---
+
+## Section 713.9.2: Trap Required
+
+713.9.2 Trap Required
+The bottom of the
+local vent stack
+, except where serving only one bedpan washer, shall be drained by means of a trapped and vented
+waste
+connection to the
+sanitary
+drainage system
+. The
+trap
+and
+waste
+shall be the same size as the
+local vent stack
+.
+
+---
+
+The bottom of the
+local vent stack
+, except where serving only one bedpan washer, shall be drained by means of a trapped and vented
+waste
+connection to the
+sanitary
+drainage system
+. The
+trap
+and
+waste
+shall be the same size as the
+local vent stack
+.
+
+---
+
+## Section 713.9.3: Trap Seal Maintenance
+
+713.9.3 Trap Seal Maintenance
+A
+water supply
+pipe not less than
+1
+/
+4
+inch (6.4 mm) in diameter shall be taken from the flush supply of each bedpan washer on the discharge or fixture side of the
+vacuum breaker
+, shall be trapped to form not less than a 3-inch (76 mm)
+water
+seal, and shall be connected to the
+local vent stack
+on each floor. The
+water supply
+shall be installed so as to provide a supply of
+water
+to the
+local vent stack
+for cleansing and
+drain
+trap seal
+maintenance each time a bedpan washer is flushed.
+
+---
+
+A
+water supply
+pipe not less than
+1
+/
+4
+inch (6.4 mm) in diameter shall be taken from the flush supply of each bedpan washer on the discharge or fixture side of the
+vacuum breaker
+, shall be trapped to form not less than a 3-inch (76 mm)
+water
+seal, and shall be connected to the
+local vent stack
+on each floor. The
+water supply
+shall be installed so as to provide a supply of
+water
+to the
+local vent stack
+for cleansing and
+drain
+trap seal
+maintenance each time a bedpan washer is flushed.
+
+---
+
+## Section 713.10: Sterilizer Vents and Stacks
+
+713.10 Sterilizer Vents and Stacks
+Multiple installations of pressure and nonpressure
+sterilizers
+shall have the vent
+connections
+to the
+sterilizer vent
+stack
+made by means of inverted wye fittings.
+Access
+shall be provided to vent
+connections
+for the purpose of inspection and maintenance.
+
+---
+
+Multiple installations of pressure and nonpressure
+sterilizers
+shall have the vent
+connections
+to the
+sterilizer vent
+stack
+made by means of inverted wye fittings.
+Access
+shall be provided to vent
+connections
+for the purpose of inspection and maintenance.
+
+---
+
+## Section 713.10.1: Drainage
+
+713.10.1 Drainage
+The connection between
+sterilizer vent
+or exhaust openings and the
+sterilizer vent
+stack
+shall be designed and installed to
+drain
+to the funnel or basket-type
+waste fitting
+. In multiple installations, the
+sterilizer vent
+stack
+shall be drained separately to the lowest
+sterilizer
+funnel or basket-type
+waste fitting
+or receptor.
+
+---
+
+The connection between
+sterilizer vent
+or exhaust openings and the
+sterilizer vent
+stack
+shall be designed and installed to
+drain
+to the funnel or basket-type
+waste fitting
+. In multiple installations, the
+sterilizer vent
+stack
+shall be drained separately to the lowest
+sterilizer
+funnel or basket-type
+waste fitting
+or receptor.
+
+---
+
+## Section 713.11: Sterilizer Vent Stack Sizes
+
+713.11 Sterilizer Vent Stack Sizes
+Sterilizer vent
+stack
+sizes shall comply with Sections
+713.11.1
+through
+713.11.4
+.
+
+---
+
+Sterilizer vent
+stack
+sizes shall comply with Sections
+713.11.1
+through
+713.11.4
+.
+
+---
+
+## Section 713.11.1: Bedpan Steamers
+
+713.11.1 Bedpan Steamers
+The minimum size of a
+sterilizer vent
+serving a bedpan steamer shall be 1
+1
+/
+2
+inches (38 mm) in diameter. Multiple installations shall be sized in accordance with Table 713.11.1.
+TABLE 713.11.1
+STACK
+SIZES FOR BEDPAN STEAMERS AND
+BOILING-TYPE
+STERILIZERS
+(Number of
+Connections
+of Various Sizes Permitted to Various-sized
+Sterilizer Vent
+Stacks
+)
+STACK
+SIZE
+(inches)
+CONNECTION SIZE
+1
+1
+/
+2
+"
+2"
+1
+1
+/
+2
+a
+1
+or
+0
+2
+a
+2
+or
+1
+2
+b
+1
+and
+1
+3
+a
+4
+or
+2
+3
+b
+2
+and
+2
+4
+a
+8
+or
+4
+4
+b
+4
+and
+4
+For SI: 1 inch = 25.4 mm.
+a. Total of each size.
+b. Combination of sizes.
+
+---
+
+The minimum size of a
+sterilizer vent
+serving a bedpan steamer shall be 1
+1
+/
+2
+inches (38 mm) in diameter. Multiple installations shall be sized in accordance with Table 713.11.1.
+TABLE 713.11.1
+STACK
+SIZES FOR BEDPAN STEAMERS AND
+BOILING-TYPE
+STERILIZERS
+(Number of
+Connections
+of Various Sizes Permitted to Various-sized
+Sterilizer Vent
+Stacks
+)
+STACK
+SIZE
+(inches)
+CONNECTION SIZE
+1
+1
+/
+2
+"
+2"
+1
+1
+/
+2
+a
+1
+or
+0
+2
+a
+2
+or
+1
+2
+b
+1
+and
+1
+3
+a
+4
+or
+2
+3
+b
+2
+and
+2
+4
+a
+8
+or
+4
+4
+b
+4
+and
+4
+For SI: 1 inch = 25.4 mm.
+a. Total of each size.
+b. Combination of sizes.
+
+---
+
+## Section 713.11.2: Boiling-Type Sterilizers
+
+713.11.2 Boiling-Type Sterilizers
+The size of a
+sterilizer vent
+stack
+shall be not less than 2 inches (51 mm) in diameter where serving a
+utensil
+sterilizer
+and not less than 1
+1
+/
+2
+inches (38 mm) in diameter where serving an
+instrument
+sterilizer
+. Combinations of
+boiling-type
+sterilizer vent
+connections
+shall be sized in accordance with
+Table 713.11.1
+.
+
+---
+
+The size of a
+sterilizer vent
+stack
+shall be not less than 2 inches (51 mm) in diameter where serving a
+utensil
+sterilizer
+and not less than 1
+1
+/
+2
+inches (38 mm) in diameter where serving an
+instrument
+sterilizer
+. Combinations of
+boiling-type
+sterilizer vent
+connections
+shall be sized in accordance with
+Table 713.11.1
+.
+
+---
+
+## Section 713.11.3: Pressure Sterilizers
+
+713.11.3 Pressure Sterilizers
+Pressure
+sterilizer vent
+stacks
+shall be 2
+1
+/
+2
+inches (64 mm) minimum. Those serving combinations of pressure
+sterilizer
+exhaust
+connections
+shall be sized in accordance with Table 713.11.3.
+TABLE 713.11.3
+STACK
+SIZES FOR PRESSURE
+STERILIZERS
+(Number of
+Connections
+of Various Sizes Permitted To Various-sized
+Vent Stacks
+)
+STACK
+SIZE
+(inches)
+CONNECTION SIZE
+3
+/
+4
+"
+1"
+1
+1
+/
+4
+"
+1
+1
+/
+2
+"
+1
+1
+/
+2
+a
+3 or
+2 or
+1
+—
+1
+1
+/
+2
+b
+2 and
+1
+—
+—
+2
+a
+6 or
+3 or
+2 or
+1
+2
+b
+3 and
+2
+—
+—
+2
+b
+2 and
+1 and
+1
+—
+2
+b
+1 and
+1 and
+—
+1
+3
+a
+15 or
+7 or
+5 or
+3
+3
+b
+1 and
+1 and
+5 and
+2 and
+2
+1
+For SI: 1 inch = 25.4 mm.
+a. Total of each size.
+b. Combination of sizes.
+
+---
+
+Pressure
+sterilizer vent
+stacks
+shall be 2
+1
+/
+2
+inches (64 mm) minimum. Those serving combinations of pressure
+sterilizer
+exhaust
+connections
+shall be sized in accordance with Table 713.11.3.
+TABLE 713.11.3
+STACK
+SIZES FOR PRESSURE
+STERILIZERS
+(Number of
+Connections
+of Various Sizes Permitted To Various-sized
+Vent Stacks
+)
+STACK
+SIZE
+(inches)
+CONNECTION SIZE
+3
+/
+4
+"
+1"
+1
+1
+/
+4
+"
+1
+1
+/
+2
+"
+1
+1
+/
+2
+a
+3 or
+2 or
+1
+—
+1
+1
+/
+2
+b
+2 and
+1
+—
+—
+2
+a
+6 or
+3 or
+2 or
+1
+2
+b
+3 and
+2
+—
+—
+2
+b
+2 and
+1 and
+1
+—
+2
+b
+1 and
+1 and
+—
+1
+3
+a
+15 or
+7 or
+5 or
+3
+3
+b
+1 and
+1 and
+5 and
+2 and
+2
+1
+For SI: 1 inch = 25.4 mm.
+a. Total of each size.
+b. Combination of sizes.
+
+---
+
+## Section 713.11.4: Pressure Instrument Washer Sterilizer Sizes
+
+713.11.4 Pressure Instrument Washer Sterilizer Sizes
+The diameter of a
+sterilizer vent
+stack
+serving an
+instrument
+washer
+sterilizer
+shall be not less than 2 inches (51 mm). Not more than two
+sterilizers
+shall be installed on a 2-inch (51 mm)
+stack
+, and not more than four
+sterilizers
+shall be installed on a 3-inch (76 mm)
+stack
+.
+
+---
+
+The diameter of a
+sterilizer vent
+stack
+serving an
+instrument
+washer
+sterilizer
+shall be not less than 2 inches (51 mm). Not more than two
+sterilizers
+shall be installed on a 2-inch (51 mm)
+stack
+, and not more than four
+sterilizers
+shall be installed on a 3-inch (76 mm)
+stack
+.
+
+---
+
+Section 714 Computerized Drainage Design
+
+---
+
+## Section 714.1: Design of Drainage System
+
+714.1 Design of Drainage System
+The sizing, design and layout of the
+drainage system
+shall be permitted to be designed by
+approved
+computer design methods.
+
+---
+
+The sizing, design and layout of the
+drainage system
+shall be permitted to be designed by
+approved
+computer design methods.
+
+---
+
+## Section 714.2: Load on Drainage System
+
+714.2 Load on Drainage System
+The load shall be computed from the simultaneous or sequential discharge conditions from fixtures, appurtenances and appliances or the peak usage design condition.
+
+---
+
+The load shall be computed from the simultaneous or sequential discharge conditions from fixtures, appurtenances and appliances or the peak usage design condition.
+
+---
+
+## Section 714.2.1: Fixture Discharge Profiles
+
+714.2.1 Fixture Discharge Profiles
+The discharge profiles for flow rates versus time from fixtures and appliances shall be in accordance with the manufacturer's specifications.
+
+---
+
+The discharge profiles for flow rates versus time from fixtures and appliances shall be in accordance with the manufacturer's specifications.
+
+---
+
+## Section 714.3: Selections of Drainage Pipe Sizes
+
+714.3 Selections of Drainage Pipe Sizes
+Pipe shall be sized to prevent full-bore flow.
+
+---
+
+Pipe shall be sized to prevent full-bore flow.
+
+---
+
+## Section 714.3.1: Selecting Pipe Wall Roughness
+
+714.3.1 Selecting Pipe Wall Roughness
+Pipe size calculations shall be conducted with the pipe wall roughness factor (ks), in accordance with the manufacturer's specifications and as modified for aging roughness factors with deposits and corrosion.
+
+---
+
+Pipe size calculations shall be conducted with the pipe wall roughness factor (ks), in accordance with the manufacturer's specifications and as modified for aging roughness factors with deposits and corrosion.
+
+---
+
+## Section 714.3.2: Slope of Horizontal Drainage Piping
+
+714.3.2 Slope of Horizontal Drainage Piping
+Horizontal
+drainage
+piping shall be designed and installed at
+slopes
+in accordance with
+Table 704.1
+.
+
+---
+
+Horizontal
+drainage
+piping shall be designed and installed at
+slopes
+in accordance with
+Table 704.1
+.
+
+---
+
+Section 715 Backwater Valves
+
+---
+
+## Section 715.1: Sewage Backflow
+
+715.1 Sewage Backflow
+Where fixtures,
+floor drains
+, or
+area drains
+are subject to overflow as the result of backwater from the
+public sewer
+system, accessible
+backwater valves
+shall be installed in the
+fixture drain
+pipe from such fixture, in the
+branch
+drain
+to such
+area drain
+or group of fixtures, or in the
+building drain
+at its point of exit from the building and downstream from the
+building trap
+. Buildings located in
+flood hazard areas
+shall be deemed to be subject to overflow as the result of backwater from the
+public sewer
+system and shall be provided with
+backwater valves
+in accordance with the additional requirements of Section 7.3.3 of ASCE 24 as modified by
+Appendix G
+of the
+New York City Building Code
+.
+
+---
+
+Where fixtures,
+floor drains
+, or
+area drains
+are subject to overflow as the result of backwater from the
+public sewer
+system, accessible
+backwater valves
+shall be installed in the
+fixture drain
+pipe from such fixture, in the
+branch
+drain
+to such
+area drain
+or group of fixtures, or in the
+building drain
+at its point of exit from the building and downstream from the
+building trap
+. Buildings located in
+flood hazard areas
+shall be deemed to be subject to overflow as the result of backwater from the
+public sewer
+system and shall be provided with
+backwater valves
+in accordance with the additional requirements of Section 7.3.3 of ASCE 24 as modified by
+Appendix G
+of the
+New York City Building Code
+.
+
+---
+
+## Section 715.2: Material
+
+715.2 Material
+Bearing parts of
+backwater valves
+shall be of corrosion-resistant material.
+Backwater valves
+shall comply with ASME A112.14.1, CSA B181.1 or CSA B181.2.
+
+---
+
+Bearing parts of
+backwater valves
+shall be of corrosion-resistant material.
+Backwater valves
+shall comply with ASME A112.14.1, CSA B181.1 or CSA B181.2.
+
+---
+
+## Section 715.3: Seal
+
+715.3 Seal
+Backwater valves
+shall be so constructed as to provide a mechanical seal against
+backflow
+. The flap shall be so designed as to hang partially open when not subject to backwater pressure.
+
+---
+
+Backwater valves
+shall be so constructed as to provide a mechanical seal against
+backflow
+. The flap shall be so designed as to hang partially open when not subject to backwater pressure.
+
+---
+
+## Section 715.4: Diameter
+
+715.4 Diameter
+Backwater valves
+, when fully opened, shall have a capacity not less than that of the pipes in which they are installed.
+
+---
+
+Backwater valves
+, when fully opened, shall have a capacity not less than that of the pipes in which they are installed.
+
+---
+
+## Section 715.5: Accessibility
+
+715.5 Accessibility
+Backwater valves
+shall be installed so that
+access
+is provided to the working parts for service and repair. Masonry
+access
+manholes shall be provided when the centerline of any
+drain
+line is 18 inches (457 mm) or more below a slab on grade.
+
+---
+
+Backwater valves
+shall be installed so that
+access
+is provided to the working parts for service and repair. Masonry
+access
+manholes shall be provided when the centerline of any
+drain
+line is 18 inches (457 mm) or more below a slab on grade.
+
+---
+
+Section 716 Reserved
+
+---
+
+Section 717 Reserved
+
+---
+

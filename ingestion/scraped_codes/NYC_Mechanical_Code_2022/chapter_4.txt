@@ -1,0 +1,3652 @@
+# NYC Mechanical Code 2022 - Chapter 4
+
+New York City Mechanical Code 2022
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Chapter 4 Ventilation
+
+---
+
+401 General
+
+---
+
+402 Natural Ventilation
+
+---
+
+403 Mechanical Ventilation
+
+---
+
+404 Enclosed Parking Garages
+
+---
+
+405 Systems Control
+
+---
+
+406 Ventilation of Uninhabited Spaces
+
+---
+
+407 Ambulatory Care Facilities and Group I-2 Occupancies
+
+---
+
+408 Ventilation of Nonproduction Chemical Laboratories
+
+---
+
+Chapter 5 Exhaust Systems
+
+---
+
+Chapter 6 Duct Systems
+
+---
+
+Chapter 7 Combustion, Ventilation, and Dilution Air
+
+---
+
+Chapter 8 Chimneys and Vents
+
+---
+
+Chapter 9 Specific Appliances and Equipment
+
+---
+
+Chapter 10 Boilers, Water Heaters and Pressure Vessels
+
+---
+
+Chapter 11 Refrigeration
+
+---
+
+Chapter 12 Hydronic Piping
+
+---
+
+Chapter 13 Fuel-Oil Piping and Storage
+
+---
+
+Chapter 14 Solar Systems
+
+---
+
+Chapter 15 Referenced Standards
+
+---
+
+Appendix A Chimney Connector Pass-Throughs
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Fuel Oil Storage Tank Venting Options
+
+---
+
+Chapter 4 Ventilation
+
+---
+
+Section 401 General
+
+---
+
+## Section 401.1: Scope
+
+401.1 Scope
+This chapter shall govern the
+ventilation
+of spaces within a building intended to be occupied.
+Mechanical exhaust systems
+, including
+exhaust systems
+serving
+clothes dryers
+and cooking
+appliances
+;
+hazardous exhaust
+systems; dust, stock and refuse conveyor systems; subslab soil
+exhaust systems
+; smoke
+control
+systems;
+energy recovery ventilation systems
+and other systems specified in
+Section 502
+shall comply with
+Chapter 5
+.
+
+---
+
+This chapter shall govern the
+ventilation
+of spaces within a building intended to be occupied.
+Mechanical exhaust systems
+, including
+exhaust systems
+serving
+clothes dryers
+and cooking
+appliances
+;
+hazardous exhaust
+systems; dust, stock and refuse conveyor systems; subslab soil
+exhaust systems
+; smoke
+control
+systems;
+energy recovery ventilation systems
+and other systems specified in
+Section 502
+shall comply with
+Chapter 5
+.
+
+---
+
+## Section 401.2: Ventilation Required
+
+401.2 Ventilation Required
+Habitable and
+occupiable spaces
+shall be provided with
+ventilation
+in accordance with this section.
+Every
+occupiable space
+shall be:
+Naturally ventilated in accordance with
+Section 402
+and mechanically exhausted in accordance with
+Table 403.3.1.1
+; or
+Mechanically ventilated in accordance with
+Section 403
+.
+All habitable spaces and
+occupiable spaces
+provided with
+air conditioning
+shall be mechanically ventilated in accordance with
+Section 403
+.
+Every habitable space shall be naturally ventilated in accordance with
+Section 402
+.
+Every habitable space shall be mechanically ventilated if required by
+Section 403
+.
+Ambulatory care facilities (Group B) and Group I-2 occupancies shall be ventilated by mechanical means in accordance with
+Section 407
+.
+
+---
+
+Habitable and
+occupiable spaces
+shall be provided with
+ventilation
+in accordance with this section.
+Every
+occupiable space
+shall be:
+Naturally ventilated in accordance with
+Section 402
+and mechanically exhausted in accordance with
+Table 403.3.1.1
+; or
+Mechanically ventilated in accordance with
+Section 403
+.
+All habitable spaces and
+occupiable spaces
+provided with
+air conditioning
+shall be mechanically ventilated in accordance with
+Section 403
+.
+Every habitable space shall be naturally ventilated in accordance with
+Section 402
+.
+Every habitable space shall be mechanically ventilated if required by
+Section 403
+.
+Ambulatory care facilities (Group B) and Group I-2 occupancies shall be ventilated by mechanical means in accordance with
+Section 407
+.
+
+---
+
+## Section 401.3: When Required
+
+401.3 When Required
+Ventilation
+shall be provided during the periods that the room or space is occupied or during
+operation
+of
+gas appliances
+.
+
+---
+
+Ventilation
+shall be provided during the periods that the room or space is occupied or during
+operation
+of
+gas appliances
+.
+
+---
+
+## Section 401.4: Intake Opening Location
+
+401.4 Intake Opening Location
+Ventilation air
+intake openings shall comply with all of the following:
+Intake openings shall be located not less than 10 feet (3048 mm) from lot lines or buildings on the same lot. For buildings on lots measuring less than 20 feet (6096 mm) in width, intake openings shall be located at the centerline between lot lines. Where openings front on a street or public way, the distance shall be measured to the centerline of the street or public way.
+Outdoor air
+intakes for office occupancies having occupied floors located more than 75 feet (22 860 mm) above the lowest level of fire department vehicle
+access
+serving spaces above the second
+story
+and serving spaces greater than 10,000 square feet (929 m
+2
+) of floor area shall be located at least 20 feet (6096 mm) above ground level, at least 30 feet (9144 mm) from
+exhaust outlets
+and other
+exhaust discharges
+, and at least 20 feet (6096 mm) from areas that may collect vehicular exhaust, such as off street loading bays.
+Mechanical and gravity
+outdoor air
+intake openings shall be located not less than 10 feet (3048 mm) horizontally from any hazardous or noxious contaminant source, such as
+vents
+, exhausts (including but not limited to exhaust from dry
+cleaning
+establishments, spray booths, and cooling towers), streets, alleys, parking lots and loading docks, except as specified in Item 3 of
+Section 501.3.1
+.
+Outdoor air
+intake openings shall be permitted to be located less than 10 feet (3048 mm) horizontally from streets, alleys, parking lots and loading docks provided that the openings are located not less than 25 feet (7620 mm) vertically above such locations. Where openings front on a street or public way, the distance shall be measured to the centerline of the street or public way.
+Where the requirements of Item 3 above cannot be achieved, intake openings shall be located not less than 3 feet (914.4 mm) below
+contaminant sources
+where such sources are located within 10 feet (3048 mm) of the opening.
+Intake openings in Group I occupancies shall comply with ANSI/ASHRAE/ASHE 170, as required.
+Intake openings on structures in
+flood hazard
+areas shall comply with the additional requirements of
+Appendix G
+of the
+New York City Building Code
+.
+Exception:
+Group R-3 occupancies are not required to comply with Section 401.4.
+UpCodes Diagrams (3)
+
+---
+
+Ventilation air
+intake openings shall comply with all of the following:
+Intake openings shall be located not less than 10 feet (3048 mm) from lot lines or buildings on the same lot. For buildings on lots measuring less than 20 feet (6096 mm) in width, intake openings shall be located at the centerline between lot lines. Where openings front on a street or public way, the distance shall be measured to the centerline of the street or public way.
+Outdoor air
+intakes for office occupancies having occupied floors located more than 75 feet (22 860 mm) above the lowest level of fire department vehicle
+access
+serving spaces above the second
+story
+and serving spaces greater than 10,000 square feet (929 m
+2
+) of floor area shall be located at least 20 feet (6096 mm) above ground level, at least 30 feet (9144 mm) from
+exhaust outlets
+and other
+exhaust discharges
+, and at least 20 feet (6096 mm) from areas that may collect vehicular exhaust, such as off street loading bays.
+Mechanical and gravity
+outdoor air
+intake openings shall be located not less than 10 feet (3048 mm) horizontally from any hazardous or noxious contaminant source, such as
+vents
+, exhausts (including but not limited to exhaust from dry
+cleaning
+establishments, spray booths, and cooling towers), streets, alleys, parking lots and loading docks, except as specified in Item 3 of
+Section 501.3.1
+.
+Outdoor air
+intake openings shall be permitted to be located less than 10 feet (3048 mm) horizontally from streets, alleys, parking lots and loading docks provided that the openings are located not less than 25 feet (7620 mm) vertically above such locations. Where openings front on a street or public way, the distance shall be measured to the centerline of the street or public way.
+Where the requirements of Item 3 above cannot be achieved, intake openings shall be located not less than 3 feet (914.4 mm) below
+contaminant sources
+where such sources are located within 10 feet (3048 mm) of the opening.
+Intake openings in Group I occupancies shall comply with ANSI/ASHRAE/ASHE 170, as required.
+Intake openings on structures in
+flood hazard
+areas shall comply with the additional requirements of
+Appendix G
+of the
+New York City Building Code
+.
+Exception:
+Group R-3 occupancies are not required to comply with Section 401.4.
+
+---
+
+## Section 401.4.1: Required Dampers in Intake Openings
+
+401.4.1 Required Dampers in Intake Openings
+Outdoor air
+intakes shall be provided with
+dampers
+in accordance with
+Chapter 6
+.
+
+---
+
+Outdoor air
+intakes shall be provided with
+dampers
+in accordance with
+Chapter 6
+.
+
+---
+
+## Section 401.5: Intake Opening Protection
+
+401.5 Intake Opening Protection
+Air
+intake openings that terminate outdoors shall be protected with corrosion-resistant screens, louvers or grilles. Openings in louvers, grilles and screens shall be sized in accordance with Table 401.5, and shall be protected against local weather conditions.
+Outdoor air
+intake openings located in exterior walls shall meet the provisions for exterior wall opening protectives in accordance with Section 705 of the
+New York City Building Code
+.
+TABLE 401.5
+OPENING SIZES IN LOUVERS, GRILLES AND SCREENS PROTECTING OUTDOOR EXHAUST AND
+AIR
+INTAKE OPENINGS
+OUTDOOR OPENING
+TYPE
+MINIMUM AND MAXIMUM OPENING SIZES
+IN LOUVERS, GRILLES AND SCREENS
+MEASURED IN ANY DIRECTION
+Intake openings in residential occupancies
+Not <
+1
+/
+4
+inch and not >
+1
+/
+2
+inch
+Intake openings in other than residential occupancies
+>
+1
+/
+4
+inch and not > 1 inch
+For SI: 1 inch = 25.4 mm.
+
+---
+
+Air
+intake openings that terminate outdoors shall be protected with corrosion-resistant screens, louvers or grilles. Openings in louvers, grilles and screens shall be sized in accordance with Table 401.5, and shall be protected against local weather conditions.
+Outdoor air
+intake openings located in exterior walls shall meet the provisions for exterior wall opening protectives in accordance with Section 705 of the
+New York City Building Code
+.
+TABLE 401.5
+OPENING SIZES IN LOUVERS, GRILLES AND SCREENS PROTECTING OUTDOOR EXHAUST AND
+AIR
+INTAKE OPENINGS
+OUTDOOR OPENING
+TYPE
+MINIMUM AND MAXIMUM OPENING SIZES
+IN LOUVERS, GRILLES AND SCREENS
+MEASURED IN ANY DIRECTION
+Intake openings in residential occupancies
+Not <
+1
+/
+4
+inch and not >
+1
+/
+2
+inch
+Intake openings in other than residential occupancies
+>
+1
+/
+4
+inch and not > 1 inch
+For SI: 1 inch = 25.4 mm.
+
+---
+
+## Section 401.6: Contaminant Sources
+
+401.6 Contaminant Sources
+Stationary local sources producing air-borne particulates, heat, odors, fumes, spray, vapors, smoke or gases in such quantities as to be irritating or injurious to health shall be provided with an
+exhaust system
+in accordance with
+Chapter 5
+or a means of collection and removal of the contaminants. Such exhaust shall discharge directly to an approved location at the exterior of the building.
+
+---
+
+Stationary local sources producing air-borne particulates, heat, odors, fumes, spray, vapors, smoke or gases in such quantities as to be irritating or injurious to health shall be provided with an
+exhaust system
+in accordance with
+Chapter 5
+or a means of collection and removal of the contaminants. Such exhaust shall discharge directly to an approved location at the exterior of the building.
+
+---
+
+## Section 401.6.1: Wind-Driven Rain
+
+401.6.1 Wind-Driven Rain
+All exterior louvers for building
+ventilation
+systems shall conform to the requirements of Chapter 16 of the
+New York City Building Code
+, where applicable, and the following:
+Comply with the requirements of AMCA 550. Louvers shall comply with the intrusion requirements of wind-driven rain without the use of a
+damper
+.
+Outdoor air
+intake openings located in exterior walls shall meet the provisions for exterior wall opening protectives in accordance with
+Chapter 16
+of the
+New York City Building Code
+; or
+Be installed on a
+plenum
+configured to intercept any wind-driven rain penetrating the louver and to prevent the rain from entering the building ductwork system. Such
+plenum
+shall be waterproofed and equipped with a drainage system to convey water penetrating the louver directly to the outdoors or in accordance with the
+New York City Plumbing Code
+.
+
+---
+
+All exterior louvers for building
+ventilation
+systems shall conform to the requirements of Chapter 16 of the
+New York City Building Code
+, where applicable, and the following:
+Comply with the requirements of AMCA 550. Louvers shall comply with the intrusion requirements of wind-driven rain without the use of a
+damper
+.
+Outdoor air
+intake openings located in exterior walls shall meet the provisions for exterior wall opening protectives in accordance with
+Chapter 16
+of the
+New York City Building Code
+; or
+Be installed on a
+plenum
+configured to intercept any wind-driven rain penetrating the louver and to prevent the rain from entering the building ductwork system. Such
+plenum
+shall be waterproofed and equipped with a drainage system to convey water penetrating the louver directly to the outdoors or in accordance with the
+New York City Plumbing Code
+.
+
+---
+
+Section 402 Natural Ventilation
+
+---
+
+## Section 402.1: General
+
+402.1 General
+Natural ventilation
+of occupiable and habitable spaces shall comply with
+Chapter 12
+of the
+New York City Building Code
+.
+
+---
+
+Natural ventilation
+of occupiable and habitable spaces shall comply with
+Chapter 12
+of the
+New York City Building Code
+.
+
+---
+
+## Section 402.2: Reserved
+
+402.2 Reserved
+
+---
+
+## Section 402.3: Reserved
+
+402.3 Reserved
+
+---
+
+## Section 402.4: Reserved
+
+402.4 Reserved
+
+---
+
+Section 403 Mechanical Ventilation
+
+---
+
+## Section 403.1: Ventilation System
+
+403.1 Ventilation System
+Mechanical
+ventilation
+shall be provided by a method of
+supply air
+and return or
+exhaust air
+. The amount of
+supply air
+shall be approximately equal to the amount of return and
+exhaust air
+. The system shall not be prohibited from producing negative or
+positive pressure
+; such pressures shall not result in door opening forces in excess of those indicated in the
+New York City Building Code
+and shall not prevent doors from closing as required by the
+New York City Building Code
+. The method to convey
+ventilation air
+shall be designed and installed in accordance with
+Chapter 6
+.
+
+---
+
+Mechanical
+ventilation
+shall be provided by a method of
+supply air
+and return or
+exhaust air
+. The amount of
+supply air
+shall be approximately equal to the amount of return and
+exhaust air
+. The system shall not be prohibited from producing negative or
+positive pressure
+; such pressures shall not result in door opening forces in excess of those indicated in the
+New York City Building Code
+and shall not prevent doors from closing as required by the
+New York City Building Code
+. The method to convey
+ventilation air
+shall be designed and installed in accordance with
+Chapter 6
+.
+
+---
+
+## Section 403.2: Outdoor Air Required
+
+403.2 Outdoor Air Required
+The minimum outdoor airflow rate shall be determined in accordance with
+Section 403.3.1.1
+.
+Exception:
+The minimum required rate of
+outdoor air
+may be reduced where the registered
+design
+professional demonstrates that an engineered
+ventilation
+system is designed in accordance with
+ASHRAE 62.1 Indoor
+Air
+Quality Procedure.
+
+---
+
+The minimum outdoor airflow rate shall be determined in accordance with
+Section 403.3.1.1
+.
+Exception:
+The minimum required rate of
+outdoor air
+may be reduced where the registered
+design
+professional demonstrates that an engineered
+ventilation
+system is designed in accordance with
+ASHRAE 62.1 Indoor
+Air
+Quality Procedure.
+
+---
+
+## Section 403.2.1: Recirculation of Air
+
+403.2.1 Recirculation of Air
+The
+outdoor air
+required by
+Section 403.3.1.1
+shall not be recirculated.
+Air
+in excess of that required by
+Section 403.3.1.1
+shall not be prohibited from being recirculated as a component of
+supply air
+to building spaces, except that:
+Ventilation air
+shall not be recirculated from one
+dwelling unit
+to another or to dissimilar occupancies.
+Supply air
+to a swimming pool and associated deck areas shall not be recirculated unless such
+air
+is dehumidified to maintain the relative humidity of the area at 60 percent or less.
+Air
+from this area shall not be recirculated to other uses or occupancies.
+Where mechanical exhaust is required by Note b in
+Table 403.3.1.1
+, recirculation of
+air
+from such spaces shall be prohibited. Recirculation of
+air
+that is contained completely within such spaces shall not be prohibited. Where recirculation of
+air
+is prohibited, all
+air
+supplied to such spaces shall be exhausted, including any
+air
+in excess of that required by
+Table 403.3.1.1
+.
+Where mechanical exhaust is required by Note g in
+Table 403.3.1.1
+, mechanical exhaust is required and recirculation is prohibited. Recirculation of air that is contained completely within such spaces shall not be prohibited.
+
+---
+
+The
+outdoor air
+required by
+Section 403.3.1.1
+shall not be recirculated.
+Air
+in excess of that required by
+Section 403.3.1.1
+shall not be prohibited from being recirculated as a component of
+supply air
+to building spaces, except that:
+Ventilation air
+shall not be recirculated from one
+dwelling unit
+to another or to dissimilar occupancies.
+Supply air
+to a swimming pool and associated deck areas shall not be recirculated unless such
+air
+is dehumidified to maintain the relative humidity of the area at 60 percent or less.
+Air
+from this area shall not be recirculated to other uses or occupancies.
+Where mechanical exhaust is required by Note b in
+Table 403.3.1.1
+, recirculation of
+air
+from such spaces shall be prohibited. Recirculation of
+air
+that is contained completely within such spaces shall not be prohibited. Where recirculation of
+air
+is prohibited, all
+air
+supplied to such spaces shall be exhausted, including any
+air
+in excess of that required by
+Table 403.3.1.1
+.
+Where mechanical exhaust is required by Note g in
+Table 403.3.1.1
+, mechanical exhaust is required and recirculation is prohibited. Recirculation of air that is contained completely within such spaces shall not be prohibited.
+
+---
+
+## Section 403.2.2: Transfer Air
+
+403.2.2 Transfer Air
+Except where recirculation from such spaces is prohibited by
+Table 403.3.1.1
+, air transferred from
+occupiable spaces
+is not prohibited from serving as
+makeup air
+for required
+exhaust systems
+in such spaces as kitchens, baths,
+toilet rooms
+, elevators and smoking lounges. The amount of
+transfer air
+and
+exhaust air
+shall be sufficient to provide the flow rates as specified in
+Section 403.3.1.1
+. The required outdoor airflow rates specified in
+Table 403.3.1.1
+shall be introduced directly into such spaces or into the occupied spaces from which
+air
+is transferred or a combination of both.
+
+---
+
+Except where recirculation from such spaces is prohibited by
+Table 403.3.1.1
+, air transferred from
+occupiable spaces
+is not prohibited from serving as
+makeup air
+for required
+exhaust systems
+in such spaces as kitchens, baths,
+toilet rooms
+, elevators and smoking lounges. The amount of
+transfer air
+and
+exhaust air
+shall be sufficient to provide the flow rates as specified in
+Section 403.3.1.1
+. The required outdoor airflow rates specified in
+Table 403.3.1.1
+shall be introduced directly into such spaces or into the occupied spaces from which
+air
+is transferred or a combination of both.
+
+---
+
+## Section 403.3: Outdoor Air and Local Exhaust Airflow Rates
+
+403.3 Outdoor Air and Local Exhaust Airflow Rates
+Buildings that are not more than three
+stories
+in height above grade plane, and that (i) are within Occupancy Group R-2 or Occupancy Group R-3, (ii) are adult homes or enriched living housing as described in
+Section 308.3.1
+of the
+New York City Building Code
+, within Occupancy Group I-1 and have 16 occupants or fewer, or (iii) are community residences or intermediate-care facilities as described in
+Section 308.3.2
+of the N
+ew York City
+Building Code
+, shall be provided with
+outdoor air
+and local exhaust in accordance with
+Section 403.3.1.1.2
+. All other buildings intended to be occupied shall be provided with
+outdoor air
+and local exhaust in accordance with Sections
+403.3.1.1
+through
+403.3.1.6
+.
+
+---
+
+Buildings that are not more than three
+stories
+in height above grade plane, and that (i) are within Occupancy Group R-2 or Occupancy Group R-3, (ii) are adult homes or enriched living housing as described in
+Section 308.3.1
+of the
+New York City Building Code
+, within Occupancy Group I-1 and have 16 occupants or fewer, or (iii) are community residences or intermediate-care facilities as described in
+Section 308.3.2
+of the N
+ew York City
+Building Code
+, shall be provided with
+outdoor air
+and local exhaust in accordance with
+Section 403.3.1.1.2
+. All other buildings intended to be occupied shall be provided with
+outdoor air
+and local exhaust in accordance with Sections
+403.3.1.1
+through
+403.3.1.6
+.
+
+---
+
+## Section 403.3.1: Reserved
+
+403.3.1 Reserved
+
+---
+
+## Section 403.3.1.1: Outdoor Airflow Rate
+
+403.3.1.1 Outdoor Airflow Rate
+Ventilation
+systems shall be designed to have the capacity to supply the minimum outdoor airflow rate determined in accordance with this section. In each
+occupiable space
+and, where required, each habitable space, the
+ventilation
+system shall be designed to deliver the required rate of outdoor airflow to the
+breathing zone
+. The occupant load utilized for
+design
+of the
+ventilation
+system shall be not less than the number determined from the estimated maximum occupant load rate indicated in Table 403.3.1.1.
+Ventilation
+rates for occupancies not represented in Table 403.3.1.1 shall be those for a listed occupancy classification that is most similar in terms of occupant density, activities and building construction; or shall be determined by an approved engineering analysis. The
+ventilation
+system shall be designed to supply the required rate of
+ventilation air
+continuously during the period the building is occupied, except as otherwise stated in other provisions of the code.
+With the exception of non-tobacco hookah establishments, the
+ventilation
+rates in Table 403.3.1.1 are based on the absence of smoking in
+occupiable spaces
+. Where smoking is anticipated in a space other than a non-tobacco hookah establishment, the
+ventilation
+system serving the space shall be designed to provide
+ventilation
+over and above that required by Table 403.3.1.1 in accordance with accepted engineering practice.
+Exceptions
+:
+The occupant load is not required to be determined based on the estimated maximum occupant load rate indicated in Table 403.3.1.1 where approved statistical data documents the accuracy of an alternate anticipated occupant load.
+The occupant load used in computing the required
+ventilation
+shall be the maximum number who will occupy the room or space simultaneously during any 2-hour period.
+Dynamic reset (Demand Controlled
+Ventilation
+). The system may be designed to reset the
+design
+outdoor air
+intake airflow and/or space or
+zone
+airflow as operating conditions change. Dynamic reset shall be designed in accordance with ASHRAE 62.1 and comply with footnote k of Table 403.3.1.1. These conditions include, but are not limited to:
+Variations in occupancy or
+ventilation
+airflow in one or more individual
+zones
+for which
+ventilation
+airflow requirements will be reset. Note: Examples of measures for estimating such variations include: occupancy scheduled by time of day, a direct count of occupants, or an estimate of occupancy or
+ventilation
+rate per person using occupancy sensors such as those based on indoor CO2 concentrations.
+Variations in the efficiency with which
+outdoor air
+is distributed to the occupants under different
+ventilation
+system airflows and temperatures.
+A higher fraction of
+outdoor air
+in the
+air
+supply due to intake of additional
+outdoor air
+for free cooling or
+exhaust air
+makeup.
+TABLE 403.3.1.1
+MINIMUM
+VENTILATION
+RATES
+OCCUPANCY CLASSIFICATION
+OCCUPANT DENSITY #/1000 FT
+2a
+PEOPLE OUTDOOR AIRFLOW RATE
+IN
+BREATHING ZONE
+, R
+p
+CFM/PERSON
+AREA OUTDOOR AIRFLOW RATE
+IN
+BREATHING ZONE
+R
+a
+CFM/FT
+2a
+EXHAUST AIRFLOW RATE CFM/FT
+2a
+Correctional facilities
+Booking/waiting
+50
+7.5
+0.06
+—
+Cells
+without plumbing fixtures
+25
+5
+0.12
+—
+with plumbing fixtures
+g
+25
+5
+0.12
+1.0
+Day room
+30
+5
+0.06
+—
+Dining halls
+(see food and beverage service)
+—
+—
+—
+—
+Guard stations
+15
+5
+0.06
+—
+Dry cleaners, laundries
+Coin-operated dry cleaner
+20
+15
+—
+—
+Coin-operated laundries
+20
+7.5
+0.06
+—
+Commercial dry cleaner
+l
+30
+30
+—
+—
+Commercial laundry
+10
+25
+—
+—
+Storage, pick up
+30
+7.5
+0.12
+—
+Education
+Art classroom
+g
+20
+10
+0.18
+0.7
+Auditoriums
+150
+5
+0.06
+—
+Classrooms (ages 5-8)
+25
+10
+0.12
+—
+Classrooms (age 9 plus)
+35
+10
+0.12
+—
+Computer lab
+25
+10
+0.12
+—
+Corridors (see public spaces)
+—
+—
+—
+—
+Day care (through age 4)
+25
+10
+0.18
+—
+Lecture classroom
+65
+7.5
+0.06
+—
+Lecture hall (fixed seats)
+150
+7.5
+0.06
+—
+Locker/dressing rooms
+g
+—
+—
+—
+0.25
+Media center
+25
+10
+0.12
+—
+Multiuse assembly
+100
+7.5
+0.06
+—
+Music/theater/dance
+35
+10
+0.06
+—
+Science laboratories
+g,k
+25
+10
+0.18
+1.0
+Sports locker rooms
+g
+—
+—
+—
+0.5
+Wood/metal shops
+g
+20
+10
+0.18
+0.5
+Food and beverage service
+Bars, cocktail lounges
+100
+7.5
+0.18
+—
+Cafeteria, fast food
+100
+7.5
+0.18
+—
+Dining rooms
+70
+7.5
+0.18
+—
+Kitchens (cooking)
+b
+—
+—
+—
+0.7
+Non-tobacco smoking establishments
+b
+70
+60
+—
+—
+Hotels, motels, resorts and dormitories
+Bathrooms
+/toilet—private
+g
+—
+—
+—
+25/50
+f
+Bedroom/living room
+10
+5
+0.06
+—
+Conference/meeting
+50
+5
+0.06
+—
+Dormitory sleeping areas
+20
+5
+0.06
+—
+Gambling casinos
+120
+7.5
+0.18
+—
+Lobbies/prefunction
+30
+7.5
+0.06
+—
+Multipurpose assembly
+120
+5
+0.06
+—
+Laboratories
+j
+Biological
+—
+1.0
+1.0
+Chemical
+—
+1.0
+1.0
+Industrial and nonteaching
+—
+1.0
+1.0
+Nonproduction chemical labs
+—
+1.0
+1.0
+Offices
+Conference rooms
+50
+5
+0.06
+—
+Main entry lobbies
+10
+5
+0.06
+—
+Office spaces
+5
+5
+0.06
+—
+Reception areas
+30
+5
+0.06
+—
+Telephone/data entry
+60
+5
+0.06
+—
+Private
+dwellings
+, single and multiple
+Garages, common for multiple units
+b
+—
+—
+—
+0.75
+Kitchens and Kitchenettes
+b,m
+—
+—
+—
+25/100
+f
+Living areas
+c,i
+Based upon number of bedrooms. First bedroom, 2; each additional bedroom,
+0.35 ACH but not
+less than 15 cfm/person
+—
+—
+Toilet rooms
+and
+bathrooms
+g
+—
+—
+—
+20/50
+f
+Public spaces
+Corridors
+—
+—
+0.06
+—
+Courtrooms
+70
+5
+0.06
+—
+Elevator car
+—
+—
+—
+1.0
+Legislative chambers
+50
+5
+0.06
+—
+Libraries
+10
+5
+0.12
+—
+Museums (children's)
+40
+7.5
+0.12
+—
+Museums/galleries
+40
+7.5
+0.06
+—
+Places of religious worship
+120
+5
+0.06
+—
+Shower room (per shower head)
+g
+—
+—
+—
+50/20
+f
+Toilet rooms
+— public
+g
+—
+—
+—
+50/70
+e
+Retail stores, sales floors and showroom floors
+Dressing rooms
+—
+—
+—
+0.25
+Mall common areas
+40
+7.5
+0.06
+—
+Sales
+15
+7.5
+0.12
+—
+Shipping and receiving
+—
+—
+0.12
+—
+Smoking lounges and non-tobacco smoking establishments
+b
+70
+60
+—
+—
+Storage rooms
+—
+—
+0.12
+—
+Warehouses (see storage)
+—
+—
+—
+—
+Specialty shops
+Automotive motor-fuel dispensing stations
+b
+—
+—
+—
+1.5
+Barber
+25
+7.5
+0.06
+0.5
+Beauty salons (without nail salon services)
+b
+25
+20
+0.12
+0.6
+Nail salons
+b,h
+25
+20
+0.12
+0.6
+Embalming room
+b
+—
+—
+—
+2.0
+Pet shops (animal areas)
+b
+10
+7.5
+0.18
+0.9
+Supermarkets
+8
+7.5
+0.06
+—
+Sports and amusement
+Bowling alleys (seating areas)
+40
+10
+0.12
+—
+Disco/dance floors
+100
+20
+0.06
+—
+Game arcades
+20
+7.5
+0.18
+—
+Gym, stadium, arena (play area)
+—
+—
+0.30
+—
+Heath club/aerobics room
+40
+20
+0.06
+—
+Health club/weight room
+10
+20
+0.06
+—
+Ice arenas without
+combustion
+engines
+—
+—
+0.30
+0.5
+Spectator areas
+150
+7.5
+0.06
+—
+Swimming pools (pool and deck area)
+—
+—
+0.48
+—
+Storage
+Repair
+garages, enclosed parking garages
+b,d
+—
+—
+—
+0.75
+Warehouses
+—
+—
+0.06
+—
+Theaters
+Auditoriums (see education)
+—
+—
+—
+—
+Lobbies
+150
+5
+0.06
+—
+Stages, studios
+70
+10
+0.06
+—
+Ticket booths
+60
+5
+0.06
+—
+Transportation
+Platforms
+100
+7.5
+0.06
+—
+Transportation waiting
+100
+7.5
+0.06
+—
+Workrooms
+Bank vaults/safe deposit
+5
+5
+0.06
+—
+Computer (without printing)
+4
+5
+0.06
+—
+Copy, printing rooms
+4
+5
+0.06
+0.5
+Darkrooms
+—
+—
+—
+1.0
+Meat processing
+c
+10
+15
+—
+—
+Pharmacy (prep. area)
+10
+5
+0.18
+—
+Photo studios
+10
+5
+0.12
+—
+For SI: 1 cubic foot per minute = 0.0004719 m
+3
+/s, 1 ton = 908 kg, 1 cubic foot per minute per square foot = 0.00508m
+3
+/(s • m
+2
+), °C = ((°F) -32) /1.8, 1 square foot = 0.0929 m
+2
+.
+Based upon net occupiable floor area.
+Mechanical exhaust required and the recirculation of
+air
+from such spaces is prohibited (see
+Section 403.2.1
+, Item
+3
+).
+Spaces unheated or maintained below 50°F are not covered by these requirements unless the occupancy is continuous.
+Ventilation
+systems in enclosed parking garages shall comply with
+Section 404
+.
+Rates are per water closet or urinal. The higher rate shall be provided where the
+exhaust system
+is designed to operate intermittently. The lower rate shall be permitted only where the
+exhaust system
+is designed to operate continuously while the space served by the toilet facilities is occupied.
+Rates are per room unless otherwise indicated. The higher rate shall be provided where the
+exhaust system
+is designed to operate intermittently. The lower rate shall be permitted only where the
+exhaust system
+is designed to operate continuously while the
+dwelling unit
+or
+sleeping unit
+served by the toilet facility is occupied.
+Mechanical exhaust is required and recirculation from such spaces is prohibited (see
+Section 403.2.1
+, Item
+4
+).
+For nail salons, each manicure and pedicure station shall be provided with a
+source capture system
+capable of exhausting not less than 50 cfm per station. Exhaust inlets shall be located in accordance with
+Section 502.20
+. Where one or more required
+source capture systems
+operate continuously during occupancy, the exhaust rate from such systems shall be permitted to be applied to the exhaust flow rate required by Table 403.3.1.1 for the nail salon.
+For each
+dwelling unit
+within R-2 occupancies, outdoor
+ventilation air
+shall be provided by mechanical means when the sum of all
+exhaust air
+flow rates, whether continuous or intermittent, is designed to exceed 75 cfm. When provided, mechanical
+ventilation air
+flow rate shall be approximately equal to the
+exhaust air
+flow rate in accordance with
+Section 403.1
+and shall not be less than that required by the
+air
+flow rates prescribed in Table 403.3.1.1. For such
+dwelling units
+, manually operated openable exterior wall openings shall not be used to provide required mechanical
+ventilation air
+.
+During unoccupied hours the
+ventilation
+rate and exhaust rates may be reduced to 0.5 cfm/ft
+2
+.
+When an educational science laboratory is occupied and
+hoods
+are not in use and hazardous materials are not present, then
+ventilation
+rates shall be consistent with actual use of the space, but not less than 0.5 cfm/ft
+2
+.
+See
+Section 502.6
+for additional requirements.
+Exception: kitchens and kitchenettes in
+dwelling units
+of R-2 occupancy may be naturally ventilated in accordance with
+Section 402
+.
+UpCodes Diagram (1)
+
+---
+
+Ventilation
+systems shall be designed to have the capacity to supply the minimum outdoor airflow rate determined in accordance with this section. In each
+occupiable space
+and, where required, each habitable space, the
+ventilation
+system shall be designed to deliver the required rate of outdoor airflow to the
+breathing zone
+. The occupant load utilized for
+design
+of the
+ventilation
+system shall be not less than the number determined from the estimated maximum occupant load rate indicated in Table 403.3.1.1.
+Ventilation
+rates for occupancies not represented in Table 403.3.1.1 shall be those for a listed occupancy classification that is most similar in terms of occupant density, activities and building construction; or shall be determined by an approved engineering analysis. The
+ventilation
+system shall be designed to supply the required rate of
+ventilation air
+continuously during the period the building is occupied, except as otherwise stated in other provisions of the code.
+With the exception of non-tobacco hookah establishments, the
+ventilation
+rates in Table 403.3.1.1 are based on the absence of smoking in
+occupiable spaces
+. Where smoking is anticipated in a space other than a non-tobacco hookah establishment, the
+ventilation
+system serving the space shall be designed to provide
+ventilation
+over and above that required by Table 403.3.1.1 in accordance with accepted engineering practice.
+Exceptions
+:
+The occupant load is not required to be determined based on the estimated maximum occupant load rate indicated in Table 403.3.1.1 where approved statistical data documents the accuracy of an alternate anticipated occupant load.
+The occupant load used in computing the required
+ventilation
+shall be the maximum number who will occupy the room or space simultaneously during any 2-hour period.
+Dynamic reset (Demand Controlled
+Ventilation
+). The system may be designed to reset the
+design
+outdoor air
+intake airflow and/or space or
+zone
+airflow as operating conditions change. Dynamic reset shall be designed in accordance with ASHRAE 62.1 and comply with footnote k of Table 403.3.1.1. These conditions include, but are not limited to:
+Variations in occupancy or
+ventilation
+airflow in one or more individual
+zones
+for which
+ventilation
+airflow requirements will be reset. Note: Examples of measures for estimating such variations include: occupancy scheduled by time of day, a direct count of occupants, or an estimate of occupancy or
+ventilation
+rate per person using occupancy sensors such as those based on indoor CO2 concentrations.
+Variations in the efficiency with which
+outdoor air
+is distributed to the occupants under different
+ventilation
+system airflows and temperatures.
+A higher fraction of
+outdoor air
+in the
+air
+supply due to intake of additional
+outdoor air
+for free cooling or
+exhaust air
+makeup.
+TABLE 403.3.1.1
+MINIMUM
+VENTILATION
+RATES
+OCCUPANCY CLASSIFICATION
+OCCUPANT DENSITY #/1000 FT
+2a
+PEOPLE OUTDOOR AIRFLOW RATE
+IN
+BREATHING ZONE
+, R
+p
+CFM/PERSON
+AREA OUTDOOR AIRFLOW RATE
+IN
+BREATHING ZONE
+R
+a
+CFM/FT
+2a
+EXHAUST AIRFLOW RATE CFM/FT
+2a
+Correctional facilities
+Booking/waiting
+50
+7.5
+0.06
+—
+Cells
+without plumbing fixtures
+25
+5
+0.12
+—
+with plumbing fixtures
+g
+25
+5
+0.12
+1.0
+Day room
+30
+5
+0.06
+—
+Dining halls
+(see food and beverage service)
+—
+—
+—
+—
+Guard stations
+15
+5
+0.06
+—
+Dry cleaners, laundries
+Coin-operated dry cleaner
+20
+15
+—
+—
+Coin-operated laundries
+20
+7.5
+0.06
+—
+Commercial dry cleaner
+l
+30
+30
+—
+—
+Commercial laundry
+10
+25
+—
+—
+Storage, pick up
+30
+7.5
+0.12
+—
+Education
+Art classroom
+g
+20
+10
+0.18
+0.7
+Auditoriums
+150
+5
+0.06
+—
+Classrooms (ages 5-8)
+25
+10
+0.12
+—
+Classrooms (age 9 plus)
+35
+10
+0.12
+—
+Computer lab
+25
+10
+0.12
+—
+Corridors (see public spaces)
+—
+—
+—
+—
+Day care (through age 4)
+25
+10
+0.18
+—
+Lecture classroom
+65
+7.5
+0.06
+—
+Lecture hall (fixed seats)
+150
+7.5
+0.06
+—
+Locker/dressing rooms
+g
+—
+—
+—
+0.25
+Media center
+25
+10
+0.12
+—
+Multiuse assembly
+100
+7.5
+0.06
+—
+Music/theater/dance
+35
+10
+0.06
+—
+Science laboratories
+g,k
+25
+10
+0.18
+1.0
+Sports locker rooms
+g
+—
+—
+—
+0.5
+Wood/metal shops
+g
+20
+10
+0.18
+0.5
+Food and beverage service
+Bars, cocktail lounges
+100
+7.5
+0.18
+—
+Cafeteria, fast food
+100
+7.5
+0.18
+—
+Dining rooms
+70
+7.5
+0.18
+—
+Kitchens (cooking)
+b
+—
+—
+—
+0.7
+Non-tobacco smoking establishments
+b
+70
+60
+—
+—
+Hotels, motels, resorts and dormitories
+Bathrooms
+/toilet—private
+g
+—
+—
+—
+25/50
+f
+Bedroom/living room
+10
+5
+0.06
+—
+Conference/meeting
+50
+5
+0.06
+—
+Dormitory sleeping areas
+20
+5
+0.06
+—
+Gambling casinos
+120
+7.5
+0.18
+—
+Lobbies/prefunction
+30
+7.5
+0.06
+—
+Multipurpose assembly
+120
+5
+0.06
+—
+Laboratories
+j
+Biological
+—
+1.0
+1.0
+Chemical
+—
+1.0
+1.0
+Industrial and nonteaching
+—
+1.0
+1.0
+Nonproduction chemical labs
+—
+1.0
+1.0
+Offices
+Conference rooms
+50
+5
+0.06
+—
+Main entry lobbies
+10
+5
+0.06
+—
+Office spaces
+5
+5
+0.06
+—
+Reception areas
+30
+5
+0.06
+—
+Telephone/data entry
+60
+5
+0.06
+—
+Private
+dwellings
+, single and multiple
+Garages, common for multiple units
+b
+—
+—
+—
+0.75
+Kitchens and Kitchenettes
+b,m
+—
+—
+—
+25/100
+f
+Living areas
+c,i
+Based upon number of bedrooms. First bedroom, 2; each additional bedroom,
+0.35 ACH but not
+less than 15 cfm/person
+—
+—
+Toilet rooms
+and
+bathrooms
+g
+—
+—
+—
+20/50
+f
+Public spaces
+Corridors
+—
+—
+0.06
+—
+Courtrooms
+70
+5
+0.06
+—
+Elevator car
+—
+—
+—
+1.0
+Legislative chambers
+50
+5
+0.06
+—
+Libraries
+10
+5
+0.12
+—
+Museums (children's)
+40
+7.5
+0.12
+—
+Museums/galleries
+40
+7.5
+0.06
+—
+Places of religious worship
+120
+5
+0.06
+—
+Shower room (per shower head)
+g
+—
+—
+—
+50/20
+f
+Toilet rooms
+— public
+g
+—
+—
+—
+50/70
+e
+Retail stores, sales floors and showroom floors
+Dressing rooms
+—
+—
+—
+0.25
+Mall common areas
+40
+7.5
+0.06
+—
+Sales
+15
+7.5
+0.12
+—
+Shipping and receiving
+—
+—
+0.12
+—
+Smoking lounges and non-tobacco smoking establishments
+b
+70
+60
+—
+—
+Storage rooms
+—
+—
+0.12
+—
+Warehouses (see storage)
+—
+—
+—
+—
+Specialty shops
+Automotive motor-fuel dispensing stations
+b
+—
+—
+—
+1.5
+Barber
+25
+7.5
+0.06
+0.5
+Beauty salons (without nail salon services)
+b
+25
+20
+0.12
+0.6
+Nail salons
+b,h
+25
+20
+0.12
+0.6
+Embalming room
+b
+—
+—
+—
+2.0
+Pet shops (animal areas)
+b
+10
+7.5
+0.18
+0.9
+Supermarkets
+8
+7.5
+0.06
+—
+Sports and amusement
+Bowling alleys (seating areas)
+40
+10
+0.12
+—
+Disco/dance floors
+100
+20
+0.06
+—
+Game arcades
+20
+7.5
+0.18
+—
+Gym, stadium, arena (play area)
+—
+—
+0.30
+—
+Heath club/aerobics room
+40
+20
+0.06
+—
+Health club/weight room
+10
+20
+0.06
+—
+Ice arenas without
+combustion
+engines
+—
+—
+0.30
+0.5
+Spectator areas
+150
+7.5
+0.06
+—
+Swimming pools (pool and deck area)
+—
+—
+0.48
+—
+Storage
+Repair
+garages, enclosed parking garages
+b,d
+—
+—
+—
+0.75
+Warehouses
+—
+—
+0.06
+—
+Theaters
+Auditoriums (see education)
+—
+—
+—
+—
+Lobbies
+150
+5
+0.06
+—
+Stages, studios
+70
+10
+0.06
+—
+Ticket booths
+60
+5
+0.06
+—
+Transportation
+Platforms
+100
+7.5
+0.06
+—
+Transportation waiting
+100
+7.5
+0.06
+—
+Workrooms
+Bank vaults/safe deposit
+5
+5
+0.06
+—
+Computer (without printing)
+4
+5
+0.06
+—
+Copy, printing rooms
+4
+5
+0.06
+0.5
+Darkrooms
+—
+—
+—
+1.0
+Meat processing
+c
+10
+15
+—
+—
+Pharmacy (prep. area)
+10
+5
+0.18
+—
+Photo studios
+10
+5
+0.12
+—
+For SI: 1 cubic foot per minute = 0.0004719 m
+3
+/s, 1 ton = 908 kg, 1 cubic foot per minute per square foot = 0.00508m
+3
+/(s • m
+2
+), °C = ((°F) -32) /1.8, 1 square foot = 0.0929 m
+2
+.
+Based upon net occupiable floor area.
+Mechanical exhaust required and the recirculation of
+air
+from such spaces is prohibited (see
+Section 403.2.1
+, Item
+3
+).
+Spaces unheated or maintained below 50°F are not covered by these requirements unless the occupancy is continuous.
+Ventilation
+systems in enclosed parking garages shall comply with
+Section 404
+.
+Rates are per water closet or urinal. The higher rate shall be provided where the
+exhaust system
+is designed to operate intermittently. The lower rate shall be permitted only where the
+exhaust system
+is designed to operate continuously while the space served by the toilet facilities is occupied.
+Rates are per room unless otherwise indicated. The higher rate shall be provided where the
+exhaust system
+is designed to operate intermittently. The lower rate shall be permitted only where the
+exhaust system
+is designed to operate continuously while the
+dwelling unit
+or
+sleeping unit
+served by the toilet facility is occupied.
+Mechanical exhaust is required and recirculation from such spaces is prohibited (see
+Section 403.2.1
+, Item
+4
+).
+For nail salons, each manicure and pedicure station shall be provided with a
+source capture system
+capable of exhausting not less than 50 cfm per station. Exhaust inlets shall be located in accordance with
+Section 502.20
+. Where one or more required
+source capture systems
+operate continuously during occupancy, the exhaust rate from such systems shall be permitted to be applied to the exhaust flow rate required by Table 403.3.1.1 for the nail salon.
+For each
+dwelling unit
+within R-2 occupancies, outdoor
+ventilation air
+shall be provided by mechanical means when the sum of all
+exhaust air
+flow rates, whether continuous or intermittent, is designed to exceed 75 cfm. When provided, mechanical
+ventilation air
+flow rate shall be approximately equal to the
+exhaust air
+flow rate in accordance with
+Section 403.1
+and shall not be less than that required by the
+air
+flow rates prescribed in Table 403.3.1.1. For such
+dwelling units
+, manually operated openable exterior wall openings shall not be used to provide required mechanical
+ventilation air
+.
+During unoccupied hours the
+ventilation
+rate and exhaust rates may be reduced to 0.5 cfm/ft
+2
+.
+When an educational science laboratory is occupied and
+hoods
+are not in use and hazardous materials are not present, then
+ventilation
+rates shall be consistent with actual use of the space, but not less than 0.5 cfm/ft
+2
+.
+See
+Section 502.6
+for additional requirements.
+Exception: kitchens and kitchenettes in
+dwelling units
+of R-2 occupancy may be naturally ventilated in accordance with
+Section 402
+.
+
+---
+
+## Section 403.3.1.1.1: Zone Outdoor Airflow
+
+403.3.1.1.1 Zone Outdoor Airflow
+The minimum outdoor airflow required to be supplied to each
+zone
+shall be determined as a function of occupancy classification and space
+air
+distribution effectiveness in accordance with Sections
+403.3.1.1.1.1
+through
+403.3.1.1.1.3
+.
+
+---
+
+The minimum outdoor airflow required to be supplied to each
+zone
+shall be determined as a function of occupancy classification and space
+air
+distribution effectiveness in accordance with Sections
+403.3.1.1.1.1
+through
+403.3.1.1.1.3
+.
+
+---
+
+## Section 403.3.1.1.1.1: Breathing Zone Outdoor Airflow
+
+403.3.1.1.1.1 Breathing Zone Outdoor Airflow
+The outdoor airflow rate required in the
+breathing zone
+V
+bz
+of the
+occupiable space
+or spaces in a
+zone
+shall be determined in accordance with Equation 4-1.
+(Equation 4-1)
+where:
+A
+z
+=
+Zone
+floor area: the net occupiable floor area of the space or spaces in the
+zone
+.
+P
+z
+=
+Zone
+population: the number of people in the space or spaces in the
+zone
+.
+R
+p
+=
+People
+outdoor air
+rate: the outdoor airflow rate required per person from
+Table 403.3.1.1
+.
+R
+a
+=
+Area
+outdoor air
+rate: the outdoor airflow rate required per unit area from
+Table 403.3.1.1
+.
+UpCodes Diagrams (2)
+
+---
+
+The outdoor airflow rate required in the
+breathing zone
+V
+bz
+of the
+occupiable space
+or spaces in a
+zone
+shall be determined in accordance with Equation 4-1.
+(Equation 4-1)
+where:
+A
+z
+=
+Zone
+floor area: the net occupiable floor area of the space or spaces in the
+zone
+.
+P
+z
+=
+Zone
+population: the number of people in the space or spaces in the
+zone
+.
+R
+p
+=
+People
+outdoor air
+rate: the outdoor airflow rate required per person from
+Table 403.3.1.1
+.
+R
+a
+=
+Area
+outdoor air
+rate: the outdoor airflow rate required per unit area from
+Table 403.3.1.1
+.
+
+---
+
+## Section 403.3.1.1.1.2: Zone Air Distribution Effectiveness
+
+403.3.1.1.1.2 Zone Air Distribution Effectiveness
+The
+zone
+air
+distribution effectiveness (E
+z
+) shall be determined using
+Table 403.3.1.1
+.1.2.
+TABLE 403.3.1.1.1.2
+ZONE
+AIR DISTRIBUTION EFFECTIVENESS
+a,b,c,d
+AIR DISTRIBUTION CONFIGURATION
+E
+z
+Ceiling or floor supply of cool air
+1.0
+e
+Ceiling or floor supply of warm air and floor return
+1.0
+Ceiling supply of warm air and ceiling return
+0.8
+f
+Floor supply of warm air and ceiling return
+0.7
+Makeup air
+drawn in on the opposite side of the room from the exhaust and/or return
+0.8
+Makeup air
+drawn in near to the exhaust and/or return location
+0.5
+For SI: 1 foot = 304.8 mm, 1 foot per minute = 0.00506 m/s,
+°C = ((°F) — 32) /1.8.
+"Cool
+air
+" is
+air
+cooler than space temperature.
+"Warm
+air
+" is
+air
+warmer than space temperature.
+"Ceiling" includes any point above the
+breathing zone
+.
+"Floor" includes any point below the
+breathing zone
+.
+Zone
+air
+distribution effectiveness of 1.2 shall be permitted for systems with a floor supply of cool air and ceiling return, provided that low-velocity displacement
+ventilation
+achieves unidirectional flow and thermal stratification.
+Zone
+air
+distribution effectiveness of 1.0 shall be permitted for systems with a ceiling supply of warm
+air
+, provided that
+supply air
+temperature is less than 15°F above space temperature and provided that the 150 foot-per-minute
+supply air
+jet reaches to within 4
+1
+/
+2
+feet of floor level.
+
+---
+
+The
+zone
+air
+distribution effectiveness (E
+z
+) shall be determined using
+Table 403.3.1.1
+.1.2.
+TABLE 403.3.1.1.1.2
+ZONE
+AIR DISTRIBUTION EFFECTIVENESS
+a,b,c,d
+AIR DISTRIBUTION CONFIGURATION
+E
+z
+Ceiling or floor supply of cool air
+1.0
+e
+Ceiling or floor supply of warm air and floor return
+1.0
+Ceiling supply of warm air and ceiling return
+0.8
+f
+Floor supply of warm air and ceiling return
+0.7
+Makeup air
+drawn in on the opposite side of the room from the exhaust and/or return
+0.8
+Makeup air
+drawn in near to the exhaust and/or return location
+0.5
+For SI: 1 foot = 304.8 mm, 1 foot per minute = 0.00506 m/s,
+°C = ((°F) — 32) /1.8.
+"Cool
+air
+" is
+air
+cooler than space temperature.
+"Warm
+air
+" is
+air
+warmer than space temperature.
+"Ceiling" includes any point above the
+breathing zone
+.
+"Floor" includes any point below the
+breathing zone
+.
+Zone
+air
+distribution effectiveness of 1.2 shall be permitted for systems with a floor supply of cool air and ceiling return, provided that low-velocity displacement
+ventilation
+achieves unidirectional flow and thermal stratification.
+Zone
+air
+distribution effectiveness of 1.0 shall be permitted for systems with a ceiling supply of warm
+air
+, provided that
+supply air
+temperature is less than 15°F above space temperature and provided that the 150 foot-per-minute
+supply air
+jet reaches to within 4
+1
+/
+2
+feet of floor level.
+
+---
+
+## Section 403.3.1.1.1.3: Zone Outdoor Airflow
+
+403.3.1.1.1.3 Zone Outdoor Airflow
+The
+zone
+outdoor airflow rate (V
+oz
+), shall be determined in accordance with Equation 4-2.
+(Equation 4-2)
+
+---
+
+The
+zone
+outdoor airflow rate (V
+oz
+), shall be determined in accordance with Equation 4-2.
+(Equation 4-2)
+
+---
+
+## Section 403.3.1.1.2: System Outdoor Airflow
+
+403.3.1.1.2 System Outdoor Airflow
+The
+outdoor air
+required to be supplied by each
+ventilation
+system shall be determined in accordance with Sections
+403.3.1.1.2.1
+through
+403.3.1.1.2.3
+as a function of system type and
+zone
+outdoor airflow rates.
+
+---
+
+The
+outdoor air
+required to be supplied by each
+ventilation
+system shall be determined in accordance with Sections
+403.3.1.1.2.1
+through
+403.3.1.1.2.3
+as a function of system type and
+zone
+outdoor airflow rates.
+
+---
+
+## Section 403.3.1.1.2.1: Single Zone Systems
+
+403.3.1.1.2.1 Single Zone Systems
+Where one
+air
+handler supplies a mixture of
+outdoor air
+and recirculated
+return air
+to only one
+zone
+, the system
+outdoor air
+intake flow rate (V
+ot
+) shall be determined in accordance with Equation 4-3.
+(Equation 4-3)
+
+---
+
+Where one
+air
+handler supplies a mixture of
+outdoor air
+and recirculated
+return air
+to only one
+zone
+, the system
+outdoor air
+intake flow rate (V
+ot
+) shall be determined in accordance with Equation 4-3.
+(Equation 4-3)
+
+---
+
+## Section 403.3.1.1.2.2: 100-Percent Outdoor Air Systems
+
+403.3.1.1.2.2 100-Percent Outdoor Air Systems
+Where one
+air
+handler supplies only
+outdoor air
+to one or more
+zones
+, the system
+outdoor air
+intake flow rate (V
+ot
+) shall be determined using Equation 4-4.
+(Equation 4-4)
+
+---
+
+Where one
+air
+handler supplies only
+outdoor air
+to one or more
+zones
+, the system
+outdoor air
+intake flow rate (V
+ot
+) shall be determined using Equation 4-4.
+(Equation 4-4)
+
+---
+
+## Section 403.3.1.1.2.3: Multiple Zone Recirculating Systems
+
+403.3.1.1.2.3 Multiple Zone Recirculating Systems
+Where one
+air
+handler supplies a mixture of
+outdoor air
+and recirculated
+return air
+to more than one
+zone
+, the system
+outdoor air
+intake flow rate (V
+ot
+) shall be determined in accordance with Sections
+403.3.1.1.2.3.1
+through
+403.3.1.1.2.3.4
+.
+
+---
+
+Where one
+air
+handler supplies a mixture of
+outdoor air
+and recirculated
+return air
+to more than one
+zone
+, the system
+outdoor air
+intake flow rate (V
+ot
+) shall be determined in accordance with Sections
+403.3.1.1.2.3.1
+through
+403.3.1.1.2.3.4
+.
+
+---
+
+## Section 403.3.1.1.2.3.1: Primary Outdoor Air Fraction
+
+403.3.1.1.2.3.1 Primary Outdoor Air Fraction
+The primary
+outdoor air
+fraction (Z
+p
+) shall be determined for each
+zone
+in accordance with Equation 4-5.
+(Equation 4-5)
+where:
+V
+pz
+=
+Primary airflow: The airflow rate supplied to the
+zone
+from the
+air-handling unit
+at which the
+outdoor air
+intake is located. It includes outdoor
+intake air
+and
+recirculated air
+from that
+air-handling unit
+but does not include
+air
+transferred or
+air
+recirculated to the
+zone
+by other means. For
+design
+purposes, V
+pz
+shall be the
+zone
+design
+primary airflow rate, except for
+zones
+with variable
+air
+volume supply and V
+pz
+shall be the lowest expected primary
+air
+-flow rate to the
+zone
+when it is fully occupied.
+
+---
+
+The primary
+outdoor air
+fraction (Z
+p
+) shall be determined for each
+zone
+in accordance with Equation 4-5.
+(Equation 4-5)
+where:
+V
+pz
+=
+Primary airflow: The airflow rate supplied to the
+zone
+from the
+air-handling unit
+at which the
+outdoor air
+intake is located. It includes outdoor
+intake air
+and
+recirculated air
+from that
+air-handling unit
+but does not include
+air
+transferred or
+air
+recirculated to the
+zone
+by other means. For
+design
+purposes, V
+pz
+shall be the
+zone
+design
+primary airflow rate, except for
+zones
+with variable
+air
+volume supply and V
+pz
+shall be the lowest expected primary
+air
+-flow rate to the
+zone
+when it is fully occupied.
+
+---
+
+## Section 403.3.1.1.2.3.2: System Ventilation Efficiency
+
+403.3.1.1.2.3.2 System Ventilation Efficiency
+The system
+ventilation
+efficiency (E
+v
+) shall be determined using
+Table 403.3.1.1
+.2.3.2 or
+Appendix A
+of ASHRAE 62.1.
+TABLE 403.3.1.1.2.3.2
+SYSTEM
+VENTILATION
+EFFICIENCY
+a,b
+Max (Z
+p
+)
+E
+v
+≤ 0.15
+1
+≤ 0.25
+0.9
+≤ 0.35
+0.8
+≤ 0.45
+0.7
+≤ 0.55
+0.6
+≤ 0.65
+0.5
+≤ 0.75
+0.4
+>0.75
+0.3
+Max (
+Z
+p
+) is the largest value of
+Z
+p
+calculated using Equation 4-5 among all the
+zones
+served by the system.
+Interpolating between table values shall be permitted.
+
+---
+
+The system
+ventilation
+efficiency (E
+v
+) shall be determined using
+Table 403.3.1.1
+.2.3.2 or
+Appendix A
+of ASHRAE 62.1.
+TABLE 403.3.1.1.2.3.2
+SYSTEM
+VENTILATION
+EFFICIENCY
+a,b
+Max (Z
+p
+)
+E
+v
+≤ 0.15
+1
+≤ 0.25
+0.9
+≤ 0.35
+0.8
+≤ 0.45
+0.7
+≤ 0.55
+0.6
+≤ 0.65
+0.5
+≤ 0.75
+0.4
+>0.75
+0.3
+Max (
+Z
+p
+) is the largest value of
+Z
+p
+calculated using Equation 4-5 among all the
+zones
+served by the system.
+Interpolating between table values shall be permitted.
+
+---
+
+## Section 403.3.1.1.2.3.3: Uncorrected Outdoor Air Intake
+
+403.3.1.1.2.3.3 Uncorrected Outdoor Air Intake
+The uncorrected
+outdoor air
+intake flow rate (V
+ou
+) shall be determined in accordance with Equation 4-6.
+(Equation 4-6)
+where:
+D
+=
+Occupant diversity: the ratio of the system population to the sum of the
+zone
+populations, determined in accordance with Equation 4-7.
+(Equation 4-7)
+where:
+P
+s
+=
+System population: The total number of occupants in the area served by the system. For
+design
+purposes, P
+s
+shall be the maximum number of occupants expected to be concurrently in all
+zones
+served by the system.
+
+---
+
+The uncorrected
+outdoor air
+intake flow rate (V
+ou
+) shall be determined in accordance with Equation 4-6.
+(Equation 4-6)
+where:
+D
+=
+Occupant diversity: the ratio of the system population to the sum of the
+zone
+populations, determined in accordance with Equation 4-7.
+(Equation 4-7)
+where:
+P
+s
+=
+System population: The total number of occupants in the area served by the system. For
+design
+purposes, P
+s
+shall be the maximum number of occupants expected to be concurrently in all
+zones
+served by the system.
+
+---
+
+## Section 403.3.1.1.2.3.4: Outdoor Air Intake Flow Rate
+
+403.3.1.1.2.3.4 Outdoor Air Intake Flow Rate
+The
+outdoor air
+intake flow rate (V
+ot
+) shall be determined in accordance with Equation 4-8.
+(Equation 4-8)
+
+---
+
+The
+outdoor air
+intake flow rate (V
+ot
+) shall be determined in accordance with Equation 4-8.
+(Equation 4-8)
+
+---
+
+## Section 403.3.1.2: Short-Term Conditions
+
+403.3.1.2 Short-Term Conditions
+If it is known that peak occupancy will be of short duration and/or
+ventilation
+will be varied or interrupted for a short period of time, the
+design
+may be based on the average conditions over a time period
+T
+determined by Equation 4-9.
+(Equation 4-9) (US)
+(Equation 4-9) (SI)
+where:
+T
+=
+averaging time period, minutes
+V
+=
+the volume of the
+zone
+of which averaging is being
+applied, cubic feet
+V
+bz
+=
+the
+breathing zone
+outdoor airflow calculated using
+Equation 4-1 and
+design
+valve of the
+zone
+population
+P
+z
+, cfm
+Acceptable
+design
+adjustments based on this optional provision include the following:
+Zone
+with fluctuating occupancy: the
+zone
+population (P
+z
+) may be averaged over time, T.
+Zone
+with intermittent interruption of
+supply air
+: the average outdoor airflow supplied to
+breathing zone
+over time T shall be no less than the
+breathing zone
+outdoor airflow (V
+bz
+) calculated using Equation 4-1.
+A system with intermittent closure of
+outdoor air
+intake: the average
+outdoor air
+intake over time T shall be no less than the minimum
+outdoor air
+intake (V
+ot
+) calculated using Equation 4-3, 4-4 or 4-8, as appropriate.
+
+---
+
+If it is known that peak occupancy will be of short duration and/or
+ventilation
+will be varied or interrupted for a short period of time, the
+design
+may be based on the average conditions over a time period
+T
+determined by Equation 4-9.
+(Equation 4-9) (US)
+(Equation 4-9) (SI)
+where:
+T
+=
+averaging time period, minutes
+V
+=
+the volume of the
+zone
+of which averaging is being
+applied, cubic feet
+V
+bz
+=
+the
+breathing zone
+outdoor airflow calculated using
+Equation 4-1 and
+design
+valve of the
+zone
+population
+P
+z
+, cfm
+Acceptable
+design
+adjustments based on this optional provision include the following:
+Zone
+with fluctuating occupancy: the
+zone
+population (P
+z
+) may be averaged over time, T.
+Zone
+with intermittent interruption of
+supply air
+: the average outdoor airflow supplied to
+breathing zone
+over time T shall be no less than the
+breathing zone
+outdoor airflow (V
+bz
+) calculated using Equation 4-1.
+A system with intermittent closure of
+outdoor air
+intake: the average
+outdoor air
+intake over time T shall be no less than the minimum
+outdoor air
+intake (V
+ot
+) calculated using Equation 4-3, 4-4 or 4-8, as appropriate.
+
+---
+
+## Section 403.3.1.3: Exhaust Ventilation
+
+403.3.1.3 Exhaust Ventilation
+Exhaust airflow rate shall be provided in accordance with the requirements of
+Table 403.3.1.1
+. Exhaust
+makeup air
+shall be permitted to be any combination of outdoor
+air, recirculated
+air
+and
+transfer air
+, except as limited in accordance with
+Section 403.2
+.
+
+---
+
+Exhaust airflow rate shall be provided in accordance with the requirements of
+Table 403.3.1.1
+. Exhaust
+makeup air
+shall be permitted to be any combination of outdoor
+air, recirculated
+air
+and
+transfer air
+, except as limited in accordance with
+Section 403.2
+.
+
+---
+
+## Section 403.3.1.4: System Operation
+
+403.3.1.4 System Operation
+The minimum flow rate of
+outdoor air
+that the
+ventilation
+system must be capable of supplying during its
+operation
+shall be permitted to be based on the rate per person indicated in
+Table 403.3.1.1
+and the actual number of occupants present.
+
+---
+
+The minimum flow rate of
+outdoor air
+that the
+ventilation
+system must be capable of supplying during its
+operation
+shall be permitted to be based on the rate per person indicated in
+Table 403.3.1.1
+and the actual number of occupants present.
+
+---
+
+## Section 403.3.1.5: Variable Air Volume System Control
+
+403.3.1.5 Variable Air Volume System Control
+Variable
+air
+volume
+air distribution systems
+, other than those designed to supply only 100-percent
+outdoor air
+, shall be provided with
+controls
+to regulate the flow of
+outdoor air
+. Such
+control
+system shall be designed to maintain the flow rate of
+outdoor air
+at a rate of not less than that required by
+Section 403.3.1.1
+over the entire range of
+supply air
+operating rates.
+
+---
+
+Variable
+air
+volume
+air distribution systems
+, other than those designed to supply only 100-percent
+outdoor air
+, shall be provided with
+controls
+to regulate the flow of
+outdoor air
+. Such
+control
+system shall be designed to maintain the flow rate of
+outdoor air
+at a rate of not less than that required by
+Section 403.3.1.1
+over the entire range of
+supply air
+operating rates.
+
+---
+
+## Section 403.3.1.6: Balancing
+
+403.3.1.6 Balancing
+The ventilation
+air distribution system
+shall be provided with means to adjust the system to achieve not less than the minimum
+ventilation
+airflow rate as required by Sections
+403.3.1.1
+and
+403.3.1.2
+.
+Ventilation
+systems shall be balanced by an approved method. Such balancing shall verify that the
+ventilation
+system is capable of supplying and exhausting the airflow rates required by Sections
+403.3.1.1
+and
+403.3.1.2
+.
+
+---
+
+The ventilation
+air distribution system
+shall be provided with means to adjust the system to achieve not less than the minimum
+ventilation
+airflow rate as required by Sections
+403.3.1.1
+and
+403.3.1.2
+.
+Ventilation
+systems shall be balanced by an approved method. Such balancing shall verify that the
+ventilation
+system is capable of supplying and exhausting the airflow rates required by Sections
+403.3.1.1
+and
+403.3.1.2
+.
+
+---
+
+Section 404 Enclosed Parking Garages
+UpCodes Diagram (1)
+Building products (2)
+
+---
+
+## Section 404.1: Enclosed Parking Garages
+
+404.1 Enclosed Parking Garages
+Where mechanical
+ventilation
+systems for enclosed parking garages operate intermittently, such
+operation
+shall be automatic by means of carbon monoxide detectors applied in conjunction with nitrogen dioxide detectors. Such detectors shall be installed in accordance with their manufacturers' instructions. Such systems shall operate automatically upon detection of a concentration of carbon monoxide of 25 parts per million (ppm) or nitrogen dioxide of 500 parts per billion (ppb).
+UpCodes Diagram (1)
+
+---
+
+Where mechanical
+ventilation
+systems for enclosed parking garages operate intermittently, such
+operation
+shall be automatic by means of carbon monoxide detectors applied in conjunction with nitrogen dioxide detectors. Such detectors shall be installed in accordance with their manufacturers' instructions. Such systems shall operate automatically upon detection of a concentration of carbon monoxide of 25 parts per million (ppm) or nitrogen dioxide of 500 parts per billion (ppb).
+
+---
+
+## Section 404.2: Minimum Ventilation
+
+404.2 Minimum Ventilation
+Automatic
+operation
+of the system shall not reduce the
+ventilation
+airflow rate below 0.05 cfm per square foot (0.00025 m
+3
+/s • m
+2
+) of the floor area and the system shall be capable of producing a
+ventilation
+airflow rate of 0.75 cfm per square foot (0.0038 m
+3
+/s • m
+2
+) of floor area.
+
+---
+
+Automatic
+operation
+of the system shall not reduce the
+ventilation
+airflow rate below 0.05 cfm per square foot (0.00025 m
+3
+/s • m
+2
+) of the floor area and the system shall be capable of producing a
+ventilation
+airflow rate of 0.75 cfm per square foot (0.0038 m
+3
+/s • m
+2
+) of floor area.
+
+---
+
+## Section 404.3: Occupied Spaces Accessory to Public Garages
+
+404.3 Occupied Spaces Accessory to Public Garages
+Connecting offices, waiting rooms, ticket booths and similar uses that are accessory to a public garage shall be maintained at a
+positive pressure
+and shall be provided with
+ventilation
+in accordance with
+Section 403.3
+.
+UpCodes Diagram (1)
+
+---
+
+Connecting offices, waiting rooms, ticket booths and similar uses that are accessory to a public garage shall be maintained at a
+positive pressure
+and shall be provided with
+ventilation
+in accordance with
+Section 403.3
+.
+
+---
+
+Section 405 Systems Control
+
+---
+
+## Section 405.1: General
+
+405.1 General
+Mechanical
+ventilation
+systems shall be provided with manual or automatic
+controls
+that will operate such systems whenever the spaces are occupied.
+Air-conditioning systems
+that supply required
+ventilation air
+shall be provided with
+controls
+designed to automatically maintain the required
+outdoor air
+supply rate during occupancy.
+
+---
+
+Mechanical
+ventilation
+systems shall be provided with manual or automatic
+controls
+that will operate such systems whenever the spaces are occupied.
+Air-conditioning systems
+that supply required
+ventilation air
+shall be provided with
+controls
+designed to automatically maintain the required
+outdoor air
+supply rate during occupancy.
+
+---
+
+## Section 405.2: Manual Control
+
+405.2 Manual Control
+Each
+air distribution system
+shall be provided with not less than one manual
+control
+to stop the
+operation
+of the supply, return, and exhaust fans(s) in an emergency. The manual
+control
+shall be provided at an approved location. A disconnect switch shall not be considered a manual
+control
+.
+
+---
+
+Each
+air distribution system
+shall be provided with not less than one manual
+control
+to stop the
+operation
+of the supply, return, and exhaust fans(s) in an emergency. The manual
+control
+shall be provided at an approved location. A disconnect switch shall not be considered a manual
+control
+.
+
+---
+
+## Section 405.2.1: Office Buildings
+
+405.2.1 Office Buildings
+Any building where the main use or dominant occupancy is classified in Occupancy Group B having occupied floors located more than 75 feet (22 860 mm) above the lowest level of fire department vehicle
+access
+, where a system serves a floor or floors other than the floor on which the
+equipment
+is located, shall be provided with the following
+controls
+, in addition to the
+controls
+required by this chapter:
+Manual
+controls
+for operating individually each
+air
+supply and each exhaust or return fan in the system located as follows:
+At the Fire Command Center, and
+In the room containing the affected air-handling fans.
+Manual
+controls
+for operating individually or in groups each remote
+control
+reversible fire shutter, when such shutters are provided in accordance with the provisions of the
+New York City Building Code
+, or each
+smoke damper
+provided in accordance with the provisions of the
+New York City Building Code
+. Such
+controls
+shall be located at the Fire Command Center.
+
+---
+
+Any building where the main use or dominant occupancy is classified in Occupancy Group B having occupied floors located more than 75 feet (22 860 mm) above the lowest level of fire department vehicle
+access
+, where a system serves a floor or floors other than the floor on which the
+equipment
+is located, shall be provided with the following
+controls
+, in addition to the
+controls
+required by this chapter:
+Manual
+controls
+for operating individually each
+air
+supply and each exhaust or return fan in the system located as follows:
+At the Fire Command Center, and
+In the room containing the affected air-handling fans.
+Manual
+controls
+for operating individually or in groups each remote
+control
+reversible fire shutter, when such shutters are provided in accordance with the provisions of the
+New York City Building Code
+, or each
+smoke damper
+provided in accordance with the provisions of the
+New York City Building Code
+. Such
+controls
+shall be located at the Fire Command Center.
+
+---
+
+Section 406 Ventilation of Uninhabited Spaces
+
+---
+
+## Section 406.1: General
+
+406.1 General
+Uninhabited spaces, such as crawl spaces and attics, shall be provided with
+natural ventilation
+openings as required by the
+New York City Building Code
+or shall be provided with a mechanical exhaust and
+supply air system
+. The mechanical exhaust rate shall be not less than 0.02 cfm per square foot (0.00001 m
+3
+/s • m
+2
+) of horizontal area and shall be automatically controlled to operate when the relative humidity in the space served exceeds 60 percent.
+UpCodes Diagram (1)
+
+---
+
+Uninhabited spaces, such as crawl spaces and attics, shall be provided with
+natural ventilation
+openings as required by the
+New York City Building Code
+or shall be provided with a mechanical exhaust and
+supply air system
+. The mechanical exhaust rate shall be not less than 0.02 cfm per square foot (0.00001 m
+3
+/s • m
+2
+) of horizontal area and shall be automatically controlled to operate when the relative humidity in the space served exceeds 60 percent.
+
+---
+
+## Section 406.1.1: Methane and Radon Venting
+
+406.1.1 Methane and Radon Venting
+The
+design
+and materials used in the
+installation
+of the methane and radon
+vent
+systems shall be approved by the commissioner and shall comply with all applicable rules of the Fire Department.
+
+---
+
+The
+design
+and materials used in the
+installation
+of the methane and radon
+vent
+systems shall be approved by the commissioner and shall comply with all applicable rules of the Fire Department.
+
+---
+
+Section 407 Ambulatory Care Facilities and Group I-2 Occupancies
+
+---
+
+## Section 407.1: General
+
+407.1 General
+Mechanical
+ventilation
+for ambulatory care facilities (Group B) and Group I-2
+occupancies shall be designed and installed in accordance with all applicable federal, state and local
+regulations.
+
+---
+
+Mechanical
+ventilation
+for ambulatory care facilities (Group B) and Group I-2
+occupancies shall be designed and installed in accordance with all applicable federal, state and local
+regulations.
+
+---
+
+Section 408 Ventilation of Nonproduction Chemical Laboratories
+
+---
+
+## Section 408.1: General
+
+408.1 General
+Nonproduction chemical laboratories complying with the hazardous materials quantity limitations of Section 427 of the
+New York City Building Code
+shall provide a mechanical
+ventilation
+system in accordance with NFPA 45 and
+Table 403.3.1.1
+of this code, except that
+ducts
+constructed of
+combustible materials
+shall not be permitted.
+
+---
+
+Nonproduction chemical laboratories complying with the hazardous materials quantity limitations of Section 427 of the
+New York City Building Code
+shall provide a mechanical
+ventilation
+system in accordance with NFPA 45 and
+Table 403.3.1.1
+of this code, except that
+ducts
+constructed of
+combustible materials
+shall not be permitted.
+
+---
+

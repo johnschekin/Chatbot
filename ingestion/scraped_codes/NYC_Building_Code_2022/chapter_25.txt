@@ -1,0 +1,2918 @@
+# NYC Building Code 2022 - Chapter 25
+
+New York City Building Code 2022
+
+---
+
+Dedications
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 Use and Occupancy Classification
+
+---
+
+Chapter 4 Special Detailed Requirements Based on Use and Occupancy
+
+---
+
+Chapter 5 General Building Heights and Areas; Separation of Occupancies
+
+---
+
+Chapter 6 Types of Construction
+
+---
+
+Chapter 7 Fire and Smoke Protection Features
+
+---
+
+Chapter 8 Interior Finishes
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Accessibility
+
+---
+
+Chapter 12 Interior Environment
+
+---
+
+Chapter 13 Energy Efficiency
+
+---
+
+Chapter 14 Exterior Walls
+
+---
+
+Chapter 15 Roof Assemblies and Rooftop Structures
+
+---
+
+Chapter 16 Structural Design
+
+---
+
+Chapter 17 Special Inspections and Tests
+
+---
+
+Chapter 18 Soils and Foundations
+
+---
+
+Chapter 19 Concrete
+
+---
+
+Chapter 20 Aluminum
+
+---
+
+Chapter 21 Masonry
+
+---
+
+Chapter 22 Steel
+
+---
+
+Chapter 23 Wood
+
+---
+
+Chapter 24 Glass and Glazing
+
+---
+
+Chapter 25 Gypsum Board, Gypsum Panel Products and Plaster
+
+---
+
+BC 2501 General
+
+---
+
+BC 2502 Definitions
+
+---
+
+BC 2503 Reserved
+
+---
+
+BC 2504 Vertical and Horizontal Assemblies
+
+---
+
+BC 2505 Shear Wall Construction
+
+---
+
+BC 2506 Gypsum Board and Gypsum Panel Product Materials
+
+---
+
+BC 2507 Lathing and Plastering
+
+---
+
+BC 2508 Gypsum Construction
+
+---
+
+BC 2509 Showers and Water Closets
+
+---
+
+BC 2510 Lathing and Furring for Cement Plaster (Stucco)
+
+---
+
+BC 2511 Interior Plaster
+
+---
+
+BC 2512 Exterior Plaster
+
+---
+
+BC 2513 Exposed Aggregate Plaster
+
+---
+
+BC 2514 Reinforced Gypsum Concrete
+
+---
+
+Chapter 26 Plastic
+
+---
+
+Chapter 27 Electrical
+
+---
+
+Chapter 28 Mechanical Systems
+
+---
+
+Chapter 29 Plumbing Systems
+
+---
+
+Chapter 30 Elevators and Conveying Systems
+
+---
+
+Chapter 31 Special Construction
+
+---
+
+Chapter 32 Encroachments Into the Public Right-of-Way
+
+---
+
+Chapter 33 Safeguards During Construction or Demolition
+
+---
+
+Chapter 34 Reserved
+
+---
+
+Chapter 35 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Reserved
+
+---
+
+Appendix D Fire Districts
+
+---
+
+Appendix E Supplementary Accessibility Requirements
+
+---
+
+Appendix F Rodentproofing
+
+---
+
+Appendix G Flood-Resistant Construction
+
+---
+
+Appendix H Outdoor Signs
+
+---
+
+Appendix I Reserved
+
+---
+
+Appendix J Reserved
+
+---
+
+Appendix K Modified Industry Standards for Elevators and Conveying Systems
+
+---
+
+Appendix L Reserved
+
+---
+
+Appendix M Supplementary Requirements for One- And Two-Family Dwellings
+
+---
+
+Appendix N Assistive Listening Systems Performance Standards
+
+---
+
+Appendix O Reserved
+
+---
+
+Appendix P Reserved
+
+---
+
+Appendix Q Modified National Standards for Automatic Sprinkler, Standpipe, Fire Pump, Fire Alarm, and Smoke Control Systems
+
+---
+
+Appendix R Acoustical Tile and Lay-in Panel Ceiling Suspension Systems
+
+---
+
+Appendix S Supplementary Figures for Luminous Egress Path Markings
+
+---
+
+Appendix U Ancillary Dwelling Units
+
+---
+
+Chapter 25 Gypsum Board, Gypsum Panel Products and Plaster
+
+---
+
+Section BC 2501 General
+
+---
+
+## Section 2501.1: Scope
+
+2501.1 Scope
+Provisions of this chapter shall govern the
+materials
+,
+design
+,
+construction
+and quality of gypsum board,
+gypsum panel products
+, lath, gypsum
+plaster, cement
+plaster,
+cement board
+and reinforced gypsum
+concrete
+.
+
+---
+
+Provisions of this chapter shall govern the
+materials
+,
+design
+,
+construction
+and quality of gypsum board,
+gypsum panel products
+, lath, gypsum
+plaster, cement
+plaster,
+cement board
+and reinforced gypsum
+concrete
+.
+
+---
+
+‡‡‡ 2501.2 Performance
+Lathing, plastering,
+gypsum board
+and gypsum
+panel
+product
+construction
+shall be done in the manner and with the
+materials
+specified in this chapter and the
+referenced standards
+listed in
+Chapter 35
+. When fire protection is required, such
+construction
+shall also comply with the provisions of
+Chapter 7
+.
+‡‡‡
+Chapter 25
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+UpCodes Diagram (1)
+
+---
+
+Lathing, plastering,
+gypsum board
+and gypsum
+panel
+product
+construction
+shall be done in the manner and with the
+materials
+specified in this chapter and the
+referenced standards
+listed in
+Chapter 35
+. When fire protection is required, such
+construction
+shall also comply with the provisions of
+Chapter 7
+.
+‡‡‡
+Chapter 25
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+‡‡‡ 2501.3 Other Materials
+Other approved
+wall
+or ceiling coverings shall be permitted to be installed in accordance with the recommendations of the manufacturer and the approval of the commissioner.
+‡‡‡
+Chapter 25
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Other approved
+wall
+or ceiling coverings shall be permitted to be installed in accordance with the recommendations of the manufacturer and the approval of the commissioner.
+‡‡‡
+Chapter 25
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Section BC 2502 Definitions
+
+---
+
+## Section 2502.1: Definitions
+
+2502.1 Definitions
+The following terms are defined in
+Chapter 2
+:
+CEMENT BOARD
+.
+CEMENT PLASTER
+.
+EXTERIOR SURFACES
+.
+GYPSUM BOARD
+.
+GYPSUM PANEL PRODUCTS
+.
+GYPSUM PLASTER
+.
+GYPSUM VENEER PLASTER
+.
+INTERIOR SURFACES
+.
+WEATHER-EXPOSED SURFACES
+.
+WIRE BACKING
+.
+
+---
+
+The following terms are defined in
+Chapter 2
+:
+CEMENT BOARD
+.
+CEMENT PLASTER
+.
+EXTERIOR SURFACES
+.
+GYPSUM BOARD
+.
+GYPSUM PANEL PRODUCTS
+.
+GYPSUM PLASTER
+.
+GYPSUM VENEER PLASTER
+.
+INTERIOR SURFACES
+.
+WEATHER-EXPOSED SURFACES
+.
+WIRE BACKING
+.
+
+---
+
+Section BC 2503 Reserved
+
+---
+
+Section BC 2504 Vertical and Horizontal Assemblies
+
+---
+
+## Section 2504.1: Scope
+
+2504.1 Scope
+The following requirements shall be met where
+construction
+involves gypsum board,
+gypsum panel products
+or lath and plaster in vertical and
+horizontal assemblies
+.
+
+---
+
+The following requirements shall be met where
+construction
+involves gypsum board,
+gypsum panel products
+or lath and plaster in vertical and
+horizontal assemblies
+.
+
+---
+
+## Section 2504.1.1: Wood Framing
+
+2504.1.1 Wood Framing
+Wood supports for lath,
+gypsum board
+or
+gypsum panel products
+, as well as wood stripping or furring, shall be not less than 2 inches (51 mm)
+nominal
+thickness in the least dimension.
+Exception:
+The minimum
+nominal
+dimension of wood furring strips installed over solid
+backing
+shall be not less than 1 inch by 2 inches (25 mm by 51 mm).
+Assembly (1)
+
+---
+
+Wood supports for lath,
+gypsum board
+or
+gypsum panel products
+, as well as wood stripping or furring, shall be not less than 2 inches (51 mm)
+nominal
+thickness in the least dimension.
+Exception:
+The minimum
+nominal
+dimension of wood furring strips installed over solid
+backing
+shall be not less than 1 inch by 2 inches (25 mm by 51 mm).
+
+---
+
+## Section 2504.1.2: Studless Partitions
+
+2504.1.2 Studless Partitions
+The minimum thickness of vertically erected studless
+solid
+plaster partitions of
+3
+/
+8
+-inch (9.5 mm) and
+3
+/
+4
+-inch (19.1 mm) rib metal lath,
+1
+/
+2
+-inch-thick (12.7 mm) gypsum lath,
+gypsum board
+or gypsum panel product shall be 2 inches (51 mm).
+Assemblies (5)
+
+---
+
+The minimum thickness of vertically erected studless
+solid
+plaster partitions of
+3
+/
+8
+-inch (9.5 mm) and
+3
+/
+4
+-inch (19.1 mm) rib metal lath,
+1
+/
+2
+-inch-thick (12.7 mm) gypsum lath,
+gypsum board
+or gypsum panel product shall be 2 inches (51 mm).
+
+---
+
+Section BC 2505 Shear Wall Construction
+
+---
+
+## Section 2505.1: Resistance to Shear (Wood Framing)
+
+2505.1 Resistance to Shear (Wood Framing)
+Wood-frame
+shear walls
+sheathed with gypsum board,
+gypsum panel products
+or lath and plaster shall be designed and constructed in accordance with
+Section 2306.3
+and are permitted to resist wind and seismic
+loads
+.
+Walls
+resisting seismic
+loads
+shall be subject to the
+limitations
+in Section 12.2.1 of ASCE 7.
+
+---
+
+Wood-frame
+shear walls
+sheathed with gypsum board,
+gypsum panel products
+or lath and plaster shall be designed and constructed in accordance with
+Section 2306.3
+and are permitted to resist wind and seismic
+loads
+.
+Walls
+resisting seismic
+loads
+shall be subject to the
+limitations
+in Section 12.2.1 of ASCE 7.
+
+---
+
+## Section 2505.2: Resistance to Shear (Steel Framing)
+
+2505.2 Resistance to Shear (Steel Framing)
+Cold-formed steel-frame
+shear walls
+sheathed with
+gypsum board
+or
+gypsum panel products
+and constructed in accordance with the
+materials
+and provisions of
+Section 2211.1.1
+are permitted to resist wind and seismic
+loads
+.
+Walls
+resisting seismic
+loads
+shall be subject to the
+limitations
+in Section 12.2.1 of ASCE 7.
+
+---
+
+Cold-formed steel-frame
+shear walls
+sheathed with
+gypsum board
+or
+gypsum panel products
+and constructed in accordance with the
+materials
+and provisions of
+Section 2211.1.1
+are permitted to resist wind and seismic
+loads
+.
+Walls
+resisting seismic
+loads
+shall be subject to the
+limitations
+in Section 12.2.1 of ASCE 7.
+
+---
+
+Section BC 2506 Gypsum Board and Gypsum Panel Product Materials
+
+---
+
+## Section 2506.1: General
+
+2506.1 General
+Gypsum board,
+gypsum panel products
+and accessories shall be identified by the
+manufacturer's designation
+to indicate compliance with the appropriate standards referenced in this section and stored to protect such
+materials
+from the weather.
+
+---
+
+Gypsum board,
+gypsum panel products
+and accessories shall be identified by the
+manufacturer's designation
+to indicate compliance with the appropriate standards referenced in this section and stored to protect such
+materials
+from the weather.
+
+---
+
+## Section 2506.2: Standards
+
+2506.2 Standards
+Gypsum board
+and
+gypsum panel products
+shall conform to the appropriate standards listed in Table 2506.2 and
+Chapter 35
+and, where required for fire protection, shall conform to the provisions of
+Chapter 7
+.
+TABLE 2506.2
+GYPSUM BOARD
+AND GYPSUM PANEL
+PRODUCTS
+MATERIALS
+AND ACCESSORIES
+MATERIAL
+STANDARD
+Abuse resistant non-decorated interior
+gypsum panel products
+and fiber-reinforced cement panels
+ASTM C 1629
+Accessories for
+gypsum board
+ASTM C 1047
+Adhesives for fastening gypsum wallboard
+ASTM C 557
+Cold-formed steel studs and track, structural
+AISI S200 and ASTM C 955, Section 8
+Cold-formed steel studs and track, nonstructural
+AISI S220 and ASTM C 645, Section 10
+Elastomeric
+joint
+sealants
+ASTM C 920
+Fiber-reinforced gypsum panels
+ASTM C 1278
+Glass mat gypsum
+backing
+panel
+ASTM C 1178
+Glass mat gypsum panel 5
+ASTM C 1658
+Glass mat gypsum substrate
+ASTM C 1177
+Joint
+reinforcing tape and compound
+ASTM C 474; C 475
+Nails for
+gypsum boards
+ASTM C 514,
+F 547, F 1667
+Steel screws
+ASTM C 954; C 1002
+Standard specification for
+gypsum board
+ASTM C 1396
+Testing gypsum and gypsum products
+ASTM C 22; C 472;
+C 473
+
+---
+
+Gypsum board
+and
+gypsum panel products
+shall conform to the appropriate standards listed in Table 2506.2 and
+Chapter 35
+and, where required for fire protection, shall conform to the provisions of
+Chapter 7
+.
+TABLE 2506.2
+GYPSUM BOARD
+AND GYPSUM PANEL
+PRODUCTS
+MATERIALS
+AND ACCESSORIES
+MATERIAL
+STANDARD
+Abuse resistant non-decorated interior
+gypsum panel products
+and fiber-reinforced cement panels
+ASTM C 1629
+Accessories for
+gypsum board
+ASTM C 1047
+Adhesives for fastening gypsum wallboard
+ASTM C 557
+Cold-formed steel studs and track, structural
+AISI S200 and ASTM C 955, Section 8
+Cold-formed steel studs and track, nonstructural
+AISI S220 and ASTM C 645, Section 10
+Elastomeric
+joint
+sealants
+ASTM C 920
+Fiber-reinforced gypsum panels
+ASTM C 1278
+Glass mat gypsum
+backing
+panel
+ASTM C 1178
+Glass mat gypsum panel 5
+ASTM C 1658
+Glass mat gypsum substrate
+ASTM C 1177
+Joint
+reinforcing tape and compound
+ASTM C 474; C 475
+Nails for
+gypsum boards
+ASTM C 514,
+F 547, F 1667
+Steel screws
+ASTM C 954; C 1002
+Standard specification for
+gypsum board
+ASTM C 1396
+Testing gypsum and gypsum products
+ASTM C 22; C 472;
+C 473
+
+---
+
+## Section 2506.2.1: Other Materials
+
+2506.2.1 Other Materials
+Metal suspension systems for acoustical and lay-in panel ceilings shall conform with
+Section 808.1
+.
+
+---
+
+Metal suspension systems for acoustical and lay-in panel ceilings shall conform with
+Section 808.1
+.
+
+---
+
+## Section 2506.3: Mold Resistance
+
+2506.3 Mold Resistance
+Gypsum board
+or
+cement board
+, used in an assembly for the following areas, shall have a mold resistance rating of 10 in accordance with ASTM D3273:
+Interior faces of
+exterior walls
+of
+basements
+,
+cellars
+, and other below grade rooms.
+Walls
+and ceilings of spaces containing condensers, water tanks, water pumps, and pressure reduction valves.
+Walls
+and ceilings of laundry rooms.
+Portions of
+walls
+within 2 feet (610 mm) of
+kitchen
+sinks to a
+height
+of 4 feet (1219 mm) above the floor.
+Portions of
+walls
+within 2 feet (610 mm) of
+kitchen
+stoves to a
+height
+of 4 feet (1219 mm) above the floor.
+Walls
+of bathrooms that are not solely water closet compartments, other than
+walls
+specifically required to be
+cement board
+.
+Walls
+and ceilings in service sink closets.
+Portions of
+walls
+within 2 feet (610 mm) of mop sinks or service sinks to a
+height
+of 4 feet (1219 mm) above the floor.
+
+---
+
+Gypsum board
+or
+cement board
+, used in an assembly for the following areas, shall have a mold resistance rating of 10 in accordance with ASTM D3273:
+Interior faces of
+exterior walls
+of
+basements
+,
+cellars
+, and other below grade rooms.
+Walls
+and ceilings of spaces containing condensers, water tanks, water pumps, and pressure reduction valves.
+Walls
+and ceilings of laundry rooms.
+Portions of
+walls
+within 2 feet (610 mm) of
+kitchen
+sinks to a
+height
+of 4 feet (1219 mm) above the floor.
+Portions of
+walls
+within 2 feet (610 mm) of
+kitchen
+stoves to a
+height
+of 4 feet (1219 mm) above the floor.
+Walls
+of bathrooms that are not solely water closet compartments, other than
+walls
+specifically required to be
+cement board
+.
+Walls
+and ceilings in service sink closets.
+Portions of
+walls
+within 2 feet (610 mm) of mop sinks or service sinks to a
+height
+of 4 feet (1219 mm) above the floor.
+
+---
+
+Section BC 2507 Lathing and Plastering
+
+---
+
+## Section 2507.1: General
+
+2507.1 General
+Lathing and plastering
+materials
+and accessories shall be marked by the
+manufacturer's designation
+to indicate compliance with the appropriate standards referenced in this section and stored in such a manner to protect them from the weather.
+
+---
+
+Lathing and plastering
+materials
+and accessories shall be marked by the
+manufacturer's designation
+to indicate compliance with the appropriate standards referenced in this section and stored in such a manner to protect them from the weather.
+
+---
+
+## Section 2507.2: Standards
+
+2507.2 Standards
+Lathing and plastering
+materials
+shall conform to the standards listed in Table 2507.2 and
+Chapter 35
+and, where required for fire protection, shall also conform to the provisions of
+Chapter 7
+.
+TABLE 2507.2
+LATH, PLASTERING
+MATERIALS
+AND ACCESSORIES
+MATERIAL
+STANDARD
+Accessories for gypsum
+veneer
+base
+ASTM C 1047
+Blended cement
+ASTM C 595
+Cold-formed steel studs and track, nonstructural
+AISI S220 and ASTM C 645, Section 10
+Cold-formed steel studs and track, structural
+AISI S200 and ASTM C 955, Section 8
+Exterior plaster bonding compounds
+ASTM C 932
+Gypsum casting and molding plaster
+ASTM C 59
+Gypsum Keene's cement
+ASTM C 61
+Gypsum plaster
+ASTM C 28
+Gypsum veneer plaster
+ASTM C 587
+Hydraulic cement
+ASTM C 1157; C 1600
+Interior bonding compounds, gypsum
+ASTM C 631
+Lime plasters
+ASTM C 5; C 206
+Masonry
+cement
+ASTM C 91
+Metal lath
+ASTM C 847
+Plaster aggregates
+Sand
+ASTM C 35; C 897
+Perlite
+ASTM C 35
+Vermiculite
+ASTM C 35
+Plastic
+cement
+ASTM C 1328
+Portland cement
+ASTM C 150
+Steel screws
+ASTM C 1002; C 954
+Welded wire lath
+ASTM C 933
+Woven wire plaster base
+ASTM C 1032
+
+---
+
+Lathing and plastering
+materials
+shall conform to the standards listed in Table 2507.2 and
+Chapter 35
+and, where required for fire protection, shall also conform to the provisions of
+Chapter 7
+.
+TABLE 2507.2
+LATH, PLASTERING
+MATERIALS
+AND ACCESSORIES
+MATERIAL
+STANDARD
+Accessories for gypsum
+veneer
+base
+ASTM C 1047
+Blended cement
+ASTM C 595
+Cold-formed steel studs and track, nonstructural
+AISI S220 and ASTM C 645, Section 10
+Cold-formed steel studs and track, structural
+AISI S200 and ASTM C 955, Section 8
+Exterior plaster bonding compounds
+ASTM C 932
+Gypsum casting and molding plaster
+ASTM C 59
+Gypsum Keene's cement
+ASTM C 61
+Gypsum plaster
+ASTM C 28
+Gypsum veneer plaster
+ASTM C 587
+Hydraulic cement
+ASTM C 1157; C 1600
+Interior bonding compounds, gypsum
+ASTM C 631
+Lime plasters
+ASTM C 5; C 206
+Masonry
+cement
+ASTM C 91
+Metal lath
+ASTM C 847
+Plaster aggregates
+Sand
+ASTM C 35; C 897
+Perlite
+ASTM C 35
+Vermiculite
+ASTM C 35
+Plastic
+cement
+ASTM C 1328
+Portland cement
+ASTM C 150
+Steel screws
+ASTM C 1002; C 954
+Welded wire lath
+ASTM C 933
+Woven wire plaster base
+ASTM C 1032
+
+---
+
+Section BC 2508 Gypsum Construction
+
+---
+
+## Section 2508.1: General
+
+2508.1 General
+Gypsum board,
+gypsum panel products
+and
+gypsum plaster
+construction
+shall be of the
+materials
+listed in
+Tables 2506.2
+and
+2507.2
+. These
+materials
+shall be assembled and installed in compliance with the appropriate standards listed in
+Tables 2508.1
+and
+2511.1.1
+, and
+Chapter 35
+.
+TABLE 2508.1
+INSTALLATION
+OF GYPSUM
+CONSTRUCTION
+MATERIAL
+STANDARD
+Gypsum board
+and
+gypsum panel products
+GA-216; ASTM C 840
+Gypsum sheathing and
+gypsum panel products
+ASTM C 1280
+Gypsum board
+(Interior)
+ASTM C 1396
+Gypsum board
+(Exterior)
+ASTM C 1396
+Gypsum
+veneer
+base
+ASTM C 844
+Interior lathing and furring
+ASTM C 841
+Steel framing for
+gypsum board
+and
+gypsum panel products
+ASTM C 754; C 1007
+
+---
+
+Gypsum board,
+gypsum panel products
+and
+gypsum plaster
+construction
+shall be of the
+materials
+listed in
+Tables 2506.2
+and
+2507.2
+. These
+materials
+shall be assembled and installed in compliance with the appropriate standards listed in
+Tables 2508.1
+and
+2511.1.1
+, and
+Chapter 35
+.
+TABLE 2508.1
+INSTALLATION
+OF GYPSUM
+CONSTRUCTION
+MATERIAL
+STANDARD
+Gypsum board
+and
+gypsum panel products
+GA-216; ASTM C 840
+Gypsum sheathing and
+gypsum panel products
+ASTM C 1280
+Gypsum board
+(Interior)
+ASTM C 1396
+Gypsum board
+(Exterior)
+ASTM C 1396
+Gypsum
+veneer
+base
+ASTM C 844
+Interior lathing and furring
+ASTM C 841
+Steel framing for
+gypsum board
+and
+gypsum panel products
+ASTM C 754; C 1007
+
+---
+
+## Section 2508.2: Limitations
+
+2508.2 Limitations
+Gypsum wallboard or
+gypsum plaster
+shall not be used in any exterior surface where such gypsum
+construction
+will be exposed directly to the weather. Gypsum wallboard shall not be used where there will be direct exposure to water or continuous high humidity conditions beyond the published recommendations of the manufacturer. Gypsum sheathing shall be installed on
+exterior surfaces
+in accordance with ASTM C 1280.
+
+---
+
+Gypsum wallboard or
+gypsum plaster
+shall not be used in any exterior surface where such gypsum
+construction
+will be exposed directly to the weather. Gypsum wallboard shall not be used where there will be direct exposure to water or continuous high humidity conditions beyond the published recommendations of the manufacturer. Gypsum sheathing shall be installed on
+exterior surfaces
+in accordance with ASTM C 1280.
+
+---
+
+## Section 2508.2.1: Weather Protection
+
+2508.2.1 Weather Protection
+Gypsum wallboard, gypsum lath or
+gypsum plaster
+shall not be installed until weather protection for the
+installation
+is provided.
+
+---
+
+Gypsum wallboard, gypsum lath or
+gypsum plaster
+shall not be installed until weather protection for the
+installation
+is provided.
+
+---
+
+## Section 2508.3: Single-Ply Application
+
+2508.3 Single-Ply Application
+Edges and ends of
+gypsum board
+and
+gypsum panel products
+shall occur on the framing members, except those edges and ends that are perpendicular to the framing members. Edges and ends of
+gypsum board
+and
+gypsum panel products
+shall be in moderate contact except in
+concealed spaces
+where
+fire-resistance
+-rated
+construction
+, shear resistance or
+diaphragm
+action is not required.
+
+---
+
+Edges and ends of
+gypsum board
+and
+gypsum panel products
+shall occur on the framing members, except those edges and ends that are perpendicular to the framing members. Edges and ends of
+gypsum board
+and
+gypsum panel products
+shall be in moderate contact except in
+concealed spaces
+where
+fire-resistance
+-rated
+construction
+, shear resistance or
+diaphragm
+action is not required.
+
+---
+
+## Section 2508.3.1: Floating Angles
+
+2508.3.1 Floating Angles
+Fasteners at the top and bottom plates of vertical assemblies, or the edges and ends of
+horizontal assemblies
+perpendicular to supports, and at the
+wall
+line are permitted to be omitted except on shear resisting elements or
+fire-resistance
+-rated assemblies. Fasteners shall be applied in such a manner as not to fracture the face paper with the fastener head.
+
+---
+
+Fasteners at the top and bottom plates of vertical assemblies, or the edges and ends of
+horizontal assemblies
+perpendicular to supports, and at the
+wall
+line are permitted to be omitted except on shear resisting elements or
+fire-resistance
+-rated assemblies. Fasteners shall be applied in such a manner as not to fracture the face paper with the fastener head.
+
+---
+
+## Section 2508.4: Joint Treatment
+
+2508.4 Joint Treatment
+Gypsum board
+and gypsum panel product
+fire-resistance
+-rated assemblies shall have
+joints
+and fasteners treated.
+Exception:
+Joint
+and fastener treatment need not be provided where any of the following conditions occur:
+Where the
+gypsum board
+or the gypsum panel product is to receive a decorative finish such as wood paneling, battens, acoustical finishes or any similar
+application
+that would be equivalent to
+joint
+treatment.
+On single-layer systems where
+joints
+occur over
+wood framing
+members.
+Square edge or tongue-and-groove edge
+gypsum board
+(
+V
+-edge),
+gypsum panel products
+, gypsum
+backing
+board or gypsum sheathing.
+On multilayer systems where the
+joints
+of adjacent layers are offset.
+Assemblies tested without
+joint
+treatment.
+
+---
+
+Gypsum board
+and gypsum panel product
+fire-resistance
+-rated assemblies shall have
+joints
+and fasteners treated.
+Exception:
+Joint
+and fastener treatment need not be provided where any of the following conditions occur:
+Where the
+gypsum board
+or the gypsum panel product is to receive a decorative finish such as wood paneling, battens, acoustical finishes or any similar
+application
+that would be equivalent to
+joint
+treatment.
+On single-layer systems where
+joints
+occur over
+wood framing
+members.
+Square edge or tongue-and-groove edge
+gypsum board
+(
+V
+-edge),
+gypsum panel products
+, gypsum
+backing
+board or gypsum sheathing.
+On multilayer systems where the
+joints
+of adjacent layers are offset.
+Assemblies tested without
+joint
+treatment.
+
+---
+
+## Section 2508.5: Horizontal Gypsum Board or Gypsum Panel Product Diaphragm Ceilings
+
+2508.5 Horizontal Gypsum Board or Gypsum Panel Product Diaphragm Ceilings
+Gypsum board
+or
+gypsum panel products
+shall be permitted to be used on wood joists to create a horizontal
+diaphragm
+ceiling in accordance with Table 2508.5.
+TABLE 2508.5
+SHEAR CAPACITY FOR HORIZONTAL WOOD-FRAME
+GYPSUM BOARD
+DIAPHRAGM
+CEILING ASSEMBLIES
+MATERIAL
+THICKNESS OF MATERIAL
+(MINIMUM)
+(inches)
+SPACING OF
+FRAMING
+MEMBERS
+(inches)
+SHEAR VALUE
+a, b
+(PLF OF CEILING)
+MIMIMUM FASTENER SIZE
+Gypsum board
+or gypsum panel product
+1
+/
+2
+16 o.c.
+90
+5d cooler or wallboard nail;
+1
+5
+/
+8
+-inch long; 0.086-inch shank;
+15
+/
+64
+-inch head
+c
+Gypsum board
+or gypsum panel product
+1
+/
+2
+24 o.c.
+70
+5d cooler or wallboard nail;
+1
+5
+/
+8
+-inch long; 0.086-inch shank;
+15
+/
+64
+-inch head
+c
+For SI: 1 inch = 25.4 mm, 1 pound per foot = 14.59 N/m.
+Values are not cumulative with other horizontal
+diaphragm
+values and are for short-term wind or seismic loading.
+Values
+shall be reduced 25 percent for normal loading.
+Values
+shall be reduced 50 percent in
+Seismic Design Categories
+D, E and F.
+1
+1
+/
+4
+-inch, No. 6 Type S or W screws are permitted to be substituted for the listed nails.
+
+---
+
+Gypsum board
+or
+gypsum panel products
+shall be permitted to be used on wood joists to create a horizontal
+diaphragm
+ceiling in accordance with Table 2508.5.
+TABLE 2508.5
+SHEAR CAPACITY FOR HORIZONTAL WOOD-FRAME
+GYPSUM BOARD
+DIAPHRAGM
+CEILING ASSEMBLIES
+MATERIAL
+THICKNESS OF MATERIAL
+(MINIMUM)
+(inches)
+SPACING OF
+FRAMING
+MEMBERS
+(inches)
+SHEAR VALUE
+a, b
+(PLF OF CEILING)
+MIMIMUM FASTENER SIZE
+Gypsum board
+or gypsum panel product
+1
+/
+2
+16 o.c.
+90
+5d cooler or wallboard nail;
+1
+5
+/
+8
+-inch long; 0.086-inch shank;
+15
+/
+64
+-inch head
+c
+Gypsum board
+or gypsum panel product
+1
+/
+2
+24 o.c.
+70
+5d cooler or wallboard nail;
+1
+5
+/
+8
+-inch long; 0.086-inch shank;
+15
+/
+64
+-inch head
+c
+For SI: 1 inch = 25.4 mm, 1 pound per foot = 14.59 N/m.
+Values are not cumulative with other horizontal
+diaphragm
+values and are for short-term wind or seismic loading.
+Values
+shall be reduced 25 percent for normal loading.
+Values
+shall be reduced 50 percent in
+Seismic Design Categories
+D, E and F.
+1
+1
+/
+4
+-inch, No. 6 Type S or W screws are permitted to be substituted for the listed nails.
+
+---
+
+## Section 2508.5.1: Diaphragm Proportions
+
+2508.5.1 Diaphragm Proportions
+The maximum allowable
+diaphragm
+proportions shall be 1
+1
+/
+2
+:1 between shear resisting elements.
+Rotation
+or cantilever conditions shall not be permitted.
+
+---
+
+The maximum allowable
+diaphragm
+proportions shall be 1
+1
+/
+2
+:1 between shear resisting elements.
+Rotation
+or cantilever conditions shall not be permitted.
+
+---
+
+## Section 2508.5.2: Installation
+
+2508.5.2 Installation
+Gypsum board
+or
+gypsum panel products
+used in a horizontal
+diaphragm
+ceiling shall be installed perpendicular to ceiling framing members. End
+joints
+of adjacent courses of
+gypsum board
+shall not occur on the same joist.
+
+---
+
+Gypsum board
+or
+gypsum panel products
+used in a horizontal
+diaphragm
+ceiling shall be installed perpendicular to ceiling framing members. End
+joints
+of adjacent courses of
+gypsum board
+shall not occur on the same joist.
+
+---
+
+## Section 2508.5.3: Blocking of Perimeter Edges
+
+2508.5.3 Blocking of Perimeter Edges
+Perimeter edges shall be blocked using a wood member not less than 2-inch by 6-inch (51 mm by 152 mm)
+nominal
+dimension. Blocking material shall be installed flat over the top plate of the
+wall
+to provide a
+nailing
+surface not less than 2 inches (51 mm) in width for the attachment of the
+gypsum board
+or gypsum panel product.
+
+---
+
+Perimeter edges shall be blocked using a wood member not less than 2-inch by 6-inch (51 mm by 152 mm)
+nominal
+dimension. Blocking material shall be installed flat over the top plate of the
+wall
+to provide a
+nailing
+surface not less than 2 inches (51 mm) in width for the attachment of the
+gypsum board
+or gypsum panel product.
+
+---
+
+## Section 2508.5.4: Fasteners
+
+2508.5.4 Fasteners
+Fasteners used for the attachment of
+gypsum board
+or
+gypsum panel products
+to a horizontal
+diaphragm
+ceiling shall be as defined in
+Table 2508.5
+. Fasteners shall be spaced not more than 7 inches (178 mm) on center at all supports, including perimeter blocking, and not more than
+3
+/
+8
+inch (9.5 mm) from the edges and ends of the
+gypsum board
+or gypsum panel product.
+
+---
+
+Fasteners used for the attachment of
+gypsum board
+or
+gypsum panel products
+to a horizontal
+diaphragm
+ceiling shall be as defined in
+Table 2508.5
+. Fasteners shall be spaced not more than 7 inches (178 mm) on center at all supports, including perimeter blocking, and not more than
+3
+/
+8
+inch (9.5 mm) from the edges and ends of the
+gypsum board
+or gypsum panel product.
+
+---
+
+## Section 2508.5.5: Lateral Force Restrictions
+
+2508.5.5 Lateral Force Restrictions
+Gypsum board
+or
+gypsum panel products
+shall not be used in
+diaphragm
+ceilings to resist lateral forces imposed by
+masonry
+or
+concrete
+construction
+.
+
+---
+
+Gypsum board
+or
+gypsum panel products
+shall not be used in
+diaphragm
+ceilings to resist lateral forces imposed by
+masonry
+or
+concrete
+construction
+.
+
+---
+
+Section BC 2509 Showers and Water Closets
+
+---
+
+## Section 2509.1: Wet Areas
+
+2509.1 Wet Areas
+Showers and public toilet
+walls
+shall conform to
+Section 1210.2
+.
+UpCodes Diagram (1)
+
+---
+
+Showers and public toilet
+walls
+shall conform to
+Section 1210.2
+.
+
+---
+
+## Section 2509.2: Base for Tile
+
+2509.2 Base for Tile
+Materials
+used as a base for
+wall
+tile in tub and shower areas and
+wall
+and ceiling
+panels
+in shower areas shall be of
+materials
+listed in Table 2509.2 and installed in accordance with the manufacturer's recommendations. Water-resistant gypsum
+backing
+board shall be used as a
+base
+for tile in water closet compartment
+walls
+when installed in accordance with GA-216 or ASTM C 840 and the manufacturer's recommendations. Regular gypsum wallboard is permitted under tile or
+wall
+panels
+in other
+wall
+and ceiling areas when installed in accordance with GA-216 or ASTM C 840.
+TABLE 2509.2
+BACKERBOARD
+MATERIALS
+MATERIAL
+STANDARD
+Glass mat water-resistant gypsum
+backing
+panel
+ASTM C 1178
+Discrete nonasbestos fiber cement interior substrate sheets
+ASTM C 1288
+Nonasbestos fiber cement flat sheets
+ISO 8336, Category C
+Nonasbestos fiber-mat reinforced cementitious backer unit
+ASTM C 1325
+
+---
+
+Materials
+used as a base for
+wall
+tile in tub and shower areas and
+wall
+and ceiling
+panels
+in shower areas shall be of
+materials
+listed in Table 2509.2 and installed in accordance with the manufacturer's recommendations. Water-resistant gypsum
+backing
+board shall be used as a
+base
+for tile in water closet compartment
+walls
+when installed in accordance with GA-216 or ASTM C 840 and the manufacturer's recommendations. Regular gypsum wallboard is permitted under tile or
+wall
+panels
+in other
+wall
+and ceiling areas when installed in accordance with GA-216 or ASTM C 840.
+TABLE 2509.2
+BACKERBOARD
+MATERIALS
+MATERIAL
+STANDARD
+Glass mat water-resistant gypsum
+backing
+panel
+ASTM C 1178
+Discrete nonasbestos fiber cement interior substrate sheets
+ASTM C 1288
+Nonasbestos fiber cement flat sheets
+ISO 8336, Category C
+Nonasbestos fiber-mat reinforced cementitious backer unit
+ASTM C 1325
+
+---
+
+## Section 2509.3: Limitations
+
+2509.3 Limitations
+Water-resistant gypsum
+backing
+board shall not be used in the following locations:
+Over a vapor retarder in shower or bathtub compartments.
+Where there will be direct exposure to water or in areas subject to continuous high humidity.
+
+---
+
+Water-resistant gypsum
+backing
+board shall not be used in the following locations:
+Over a vapor retarder in shower or bathtub compartments.
+Where there will be direct exposure to water or in areas subject to continuous high humidity.
+
+---
+
+Section BC 2510 Lathing and Furring for Cement Plaster (Stucco)
+
+---
+
+## Section 2510.1: General
+
+2510.1 General
+Exterior and interior
+cement plaster
+and lathing shall be done with the appropriate
+materials
+listed in
+Table 2507.2
+and
+Chapter 35
+.
+
+---
+
+Exterior and interior
+cement plaster
+and lathing shall be done with the appropriate
+materials
+listed in
+Table 2507.2
+and
+Chapter 35
+.
+
+---
+
+## Section 2510.2: Weather Protection
+
+2510.2 Weather Protection
+Materials
+shall be stored in such a manner as to protect them from the weather.
+
+---
+
+Materials
+shall be stored in such a manner as to protect them from the weather.
+
+---
+
+## Section 2510.3: Installation
+
+2510.3 Installation
+Installation
+of these
+materials
+shall be in compliance with ASTM C 926 and ASTM C 1063.
+
+---
+
+Installation
+of these
+materials
+shall be in compliance with ASTM C 926 and ASTM C 1063.
+
+---
+
+## Section 2510.4: Corrosion Resistance
+
+2510.4 Corrosion Resistance
+Metal lath and lath attachments shall be of corrosion-resistant material.
+
+---
+
+Metal lath and lath attachments shall be of corrosion-resistant material.
+
+---
+
+## Section 2510.5: Backing
+
+2510.5 Backing
+Backing
+or a lath shall provide sufficient rigidity to permit
+plaster applications
+.
+
+---
+
+Backing
+or a lath shall provide sufficient rigidity to permit
+plaster applications
+.
+
+---
+
+## Section 2510.5.1: Support of Lath
+
+2510.5.1 Support of Lath
+Where lath on vertical surfaces extends between rafters or other similar projecting members, solid
+backing
+shall be installed to provide support for lath and attachments.
+
+---
+
+Where lath on vertical surfaces extends between rafters or other similar projecting members, solid
+backing
+shall be installed to provide support for lath and attachments.
+
+---
+
+## Section 2510.5.2: Use of Gypsum Backing Board
+
+2510.5.2 Use of Gypsum Backing Board
+Gypsum
+backing
+for
+cement plaster
+shall be in accordance with
+Section 2510.5.2.1
+or
+2510.5.2.2
+.
+
+---
+
+Gypsum
+backing
+for
+cement plaster
+shall be in accordance with
+Section 2510.5.2.1
+or
+2510.5.2.2
+.
+
+---
+
+## Section 2510.5.2.1: Use of Gypsum Board as a Backing Board
+
+2510.5.2.1 Use of Gypsum Board as a Backing Board
+Gypsum lath or gypsum wallboard shall not be used as a
+backing
+for
+cement plaster
+.
+Exception:
+Gypsum lath or gypsum wallboard is permitted, with a
+water-resistive barrier
+, as a
+backing
+for self-furred metal lath or self-furred wire fabric lath and
+cement plaster
+where either of the following conditions occur:
+On horizontal supports of ceilings or roof soffits.
+On interior
+walls
+.
+
+---
+
+Gypsum lath or gypsum wallboard shall not be used as a
+backing
+for
+cement plaster
+.
+Exception:
+Gypsum lath or gypsum wallboard is permitted, with a
+water-resistive barrier
+, as a
+backing
+for self-furred metal lath or self-furred wire fabric lath and
+cement plaster
+where either of the following conditions occur:
+On horizontal supports of ceilings or roof soffits.
+On interior
+walls
+.
+
+---
+
+## Section 2510.5.2.2: Gypsum Sheathing Backing
+
+2510.5.2.2 Gypsum Sheathing Backing
+Gypsum sheathing is permitted as a
+backing
+for metal or wire fabric lath and
+cement plaster
+on
+walls
+. A
+water-resistive barrier
+shall be provided in accordance with
+Section 2510.6
+.
+
+---
+
+Gypsum sheathing is permitted as a
+backing
+for metal or wire fabric lath and
+cement plaster
+on
+walls
+. A
+water-resistive barrier
+shall be provided in accordance with
+Section 2510.6
+.
+
+---
+
+## Section 2510.5.3: Backing Not Required
+
+2510.5.3 Backing Not Required
+Wire backing
+is not required under expanded metal lath or paperbacked wire fabric lath.
+
+---
+
+Wire backing
+is not required under expanded metal lath or paperbacked wire fabric lath.
+
+---
+
+## Section 2510.6: Water-Resistive Barriers
+
+2510.6 Water-Resistive Barriers
+Water-resistive barriers
+shall be installed as required in
+Section 1404.2
+and, where applied over wood-based sheathing, shall include a
+water-resistive barrier
+with a
+performance
+at least equivalent to two layers of
+water-resistive barrier
+complying with ASTM E 2556, Type I. The individual layers shall be installed independently such that each layer provides a separate continuous plane and any flashing (installed in accordance with
+Section 1405.4
+), has a means for draining water that enters the assembly to the exterior.
+Exception:
+Where the
+water-resistive barrier
+that is applied over wood-based sheathing has a water resistance equal to or greater than that of a
+water-resistive barrier
+complying with ASTM E 2556, Type II and is separated from the stucco by an intervening, substantially nonwater-absorbing layer or
+drainage
+space.
+
+---
+
+Water-resistive barriers
+shall be installed as required in
+Section 1404.2
+and, where applied over wood-based sheathing, shall include a
+water-resistive barrier
+with a
+performance
+at least equivalent to two layers of
+water-resistive barrier
+complying with ASTM E 2556, Type I. The individual layers shall be installed independently such that each layer provides a separate continuous plane and any flashing (installed in accordance with
+Section 1405.4
+), has a means for draining water that enters the assembly to the exterior.
+Exception:
+Where the
+water-resistive barrier
+that is applied over wood-based sheathing has a water resistance equal to or greater than that of a
+water-resistive barrier
+complying with ASTM E 2556, Type II and is separated from the stucco by an intervening, substantially nonwater-absorbing layer or
+drainage
+space.
+
+---
+
+## Section 2510.7: Preparation of Masonry and Concrete
+
+2510.7 Preparation of Masonry and Concrete
+Surfaces shall be clean, free from efflorescence, sufficiently damp and rough for proper bond. If the surface is insufficiently rough, approved bonding agents or a portland cement dash bond coat mixed in proportions of not more than two parts volume of sand to one part volume of portland cement or
+plastic
+cement shall be applied. The dash bond coat shall be left undisturbed and shall be moist cured not less than 24 hours.
+
+---
+
+Surfaces shall be clean, free from efflorescence, sufficiently damp and rough for proper bond. If the surface is insufficiently rough, approved bonding agents or a portland cement dash bond coat mixed in proportions of not more than two parts volume of sand to one part volume of portland cement or
+plastic
+cement shall be applied. The dash bond coat shall be left undisturbed and shall be moist cured not less than 24 hours.
+
+---
+
+Section BC 2511 Interior Plaster
+
+---
+
+## Section 2511.1: General
+
+2511.1 General
+Plastering
+gypsum plaster
+or
+cement plaster
+shall be not less than three coats where applied over metal lath or wire fabric lath and not less than two coats where applied over other
+bases
+permitted by this chapter.
+Exception:
+Gypsum veneer plaster
+and
+cement plaster
+specifically designed and approved for one-coat
+applications
+.
+
+---
+
+Plastering
+gypsum plaster
+or
+cement plaster
+shall be not less than three coats where applied over metal lath or wire fabric lath and not less than two coats where applied over other
+bases
+permitted by this chapter.
+Exception:
+Gypsum veneer plaster
+and
+cement plaster
+specifically designed and approved for one-coat
+applications
+.
+
+---
+
+## Section 2511.1.1: Installation
+
+2511.1.1 Installation
+Installation
+of lathing and plaster
+materials
+shall conform to Table 2511.1.1 and Section 2507.
+TABLE 2511.1.1
+INSTALLATION
+OF PLASTER
+CONSTRUCTION
+MATERIAL
+STANDARD
+Cement plaster
+ASTM C 926
+Gypsum plaster
+ASTM C 842
+Gypsum veneer plaster
+ASTM C 843
+Interior lathing and furring (
+gypsum plaster
+)
+ASTM C 841
+Lathing and furring (
+cement plaster
+)
+ASTM C 1063
+Steel framing
+ASTM C 754; C 1007
+
+---
+
+Installation
+of lathing and plaster
+materials
+shall conform to Table 2511.1.1 and Section 2507.
+TABLE 2511.1.1
+INSTALLATION
+OF PLASTER
+CONSTRUCTION
+MATERIAL
+STANDARD
+Cement plaster
+ASTM C 926
+Gypsum plaster
+ASTM C 842
+Gypsum veneer plaster
+ASTM C 843
+Interior lathing and furring (
+gypsum plaster
+)
+ASTM C 841
+Lathing and furring (
+cement plaster
+)
+ASTM C 1063
+Steel framing
+ASTM C 754; C 1007
+
+---
+
+## Section 2511.2: Limitations
+
+2511.2 Limitations
+Plaster shall not be applied directly to fiber insulation board.
+Cement plaster
+shall not be applied directly to gypsum lath or
+gypsum plaster
+except as specified in Sections
+2510.5.1
+and
+2510.5.2
+.
+
+---
+
+Plaster shall not be applied directly to fiber insulation board.
+Cement plaster
+shall not be applied directly to gypsum lath or
+gypsum plaster
+except as specified in Sections
+2510.5.1
+and
+2510.5.2
+.
+
+---
+
+## Section 2511.3: Grounds
+
+2511.3 Grounds
+Where installed, grounds shall ensure the minimum thickness of plaster as set forth in ASTM C 842 and ASTM C 926. Plaster thickness shall be measured from the face of lath and other bases.
+
+---
+
+Where installed, grounds shall ensure the minimum thickness of plaster as set forth in ASTM C 842 and ASTM C 926. Plaster thickness shall be measured from the face of lath and other bases.
+
+---
+
+## Section 2511.4: Interior Masonry or Concrete
+
+2511.4 Interior Masonry or Concrete
+Condition of surfaces shall be as specified in
+Section 2510.7
+. Approved specially prepared
+gypsum plaster
+designed for
+application
+to
+concrete
+surfaces or approved acoustical plaster is permitted. The total thickness of
+base
+coat plaster applied to
+concrete
+ceilings shall be as set forth in ASTM C 842 or ASTM C 926. Should ceiling surfaces require more than the maximum thickness permitted in ASTM C 842 or ASTM C 926, metal lath or wire fabric lath shall be installed on such surfaces before plastering.
+
+---
+
+Condition of surfaces shall be as specified in
+Section 2510.7
+. Approved specially prepared
+gypsum plaster
+designed for
+application
+to
+concrete
+surfaces or approved acoustical plaster is permitted. The total thickness of
+base
+coat plaster applied to
+concrete
+ceilings shall be as set forth in ASTM C 842 or ASTM C 926. Should ceiling surfaces require more than the maximum thickness permitted in ASTM C 842 or ASTM C 926, metal lath or wire fabric lath shall be installed on such surfaces before plastering.
+
+---
+
+## Section 2511.5: Wet Areas
+
+2511.5 Wet Areas
+Showers and public toilet
+walls
+shall conform to Sections
+1210.2
+and
+1210.3
+. When wood frame
+walls
+and partitions are covered on the interior with
+cement plaster
+or tile of similar material and are subject to water splash, the framing shall be protected with an approved moisture
+barrier
+.
+
+---
+
+Showers and public toilet
+walls
+shall conform to Sections
+1210.2
+and
+1210.3
+. When wood frame
+walls
+and partitions are covered on the interior with
+cement plaster
+or tile of similar material and are subject to water splash, the framing shall be protected with an approved moisture
+barrier
+.
+
+---
+
+Section BC 2512 Exterior Plaster
+
+---
+
+## Section 2512.1: General
+
+2512.1 General
+Plastering with
+cement plaster
+shall be not less than three coats when applied over metal lath or wire fabric lath or
+gypsum board
+backing
+as specified in
+Section 2510.5
+and shall be not less than two coats when applied over
+masonry
+or
+concrete
+. If the plaster surface is to be completely covered by
+veneer
+or other facing material, or is completely concealed by another
+wall
+,
+plaster application
+need only be two coats, provided the total thickness is as set forth in ASTM C 926.
+
+---
+
+Plastering with
+cement plaster
+shall be not less than three coats when applied over metal lath or wire fabric lath or
+gypsum board
+backing
+as specified in
+Section 2510.5
+and shall be not less than two coats when applied over
+masonry
+or
+concrete
+. If the plaster surface is to be completely covered by
+veneer
+or other facing material, or is completely concealed by another
+wall
+,
+plaster application
+need only be two coats, provided the total thickness is as set forth in ASTM C 926.
+
+---
+
+## Section 2512.1.1: On-Grade Floor Slab
+
+2512.1.1 On-Grade Floor Slab
+On wood frame or steel stud
+construction
+with an on-
+grade
+concrete
+floor slab system, exterior plaster shall be applied in such a manner as to cover, but not to extend below, the lath and paper. The
+application
+of lath, paper and flashing or drip screeds shall comply with ASTM C 1063.
+
+---
+
+On wood frame or steel stud
+construction
+with an on-
+grade
+concrete
+floor slab system, exterior plaster shall be applied in such a manner as to cover, but not to extend below, the lath and paper. The
+application
+of lath, paper and flashing or drip screeds shall comply with ASTM C 1063.
+
+---
+
+## Section 2512.1.2: Weep Screeds
+
+2512.1.2 Weep Screeds
+A minimum 0.019-inch (0.48 mm) (No. 26 galvanized sheet gage), corrosion-resistant weep screed with a minimum vertical attachment flange of 3
+1
+/
+2
+inches (89 mm) shall be provided at or below the foundation plate line on exterior stud
+walls
+in accordance with ASTM C 926. The weep screed shall be placed a minimum of 4 inches (102 mm) above the earth or 2 inches (51 mm) above paved areas and be of a type that will allow trapped water to drain to the exterior of the
+building
+. The
+water-resistive barrier
+shall lap the attachment flange. The exterior lath shall cover and terminate on the attachment flange of the weep screed.
+UpCodes Diagram (1)
+
+---
+
+A minimum 0.019-inch (0.48 mm) (No. 26 galvanized sheet gage), corrosion-resistant weep screed with a minimum vertical attachment flange of 3
+1
+/
+2
+inches (89 mm) shall be provided at or below the foundation plate line on exterior stud
+walls
+in accordance with ASTM C 926. The weep screed shall be placed a minimum of 4 inches (102 mm) above the earth or 2 inches (51 mm) above paved areas and be of a type that will allow trapped water to drain to the exterior of the
+building
+. The
+water-resistive barrier
+shall lap the attachment flange. The exterior lath shall cover and terminate on the attachment flange of the weep screed.
+
+---
+
+## Section 2512.2: Plasticity Agents
+
+2512.2 Plasticity Agents
+Only approved plasticity agents and approved amounts thereof shall be added to Portland cement or blended cements. When
+plastic
+cement or
+masonry
+cement is used, no additional lime or plasticizers shall be added. Hydrated lime or the equivalent amount of lime putty used as a plasticizer is permitted to be added to
+cement plaster
+or cement and lime plaster in an amount not to exceed that set forth in ASTM C 926.
+
+---
+
+Only approved plasticity agents and approved amounts thereof shall be added to Portland cement or blended cements. When
+plastic
+cement or
+masonry
+cement is used, no additional lime or plasticizers shall be added. Hydrated lime or the equivalent amount of lime putty used as a plasticizer is permitted to be added to
+cement plaster
+or cement and lime plaster in an amount not to exceed that set forth in ASTM C 926.
+
+---
+
+## Section 2512.3: Limitations
+
+2512.3 Limitations
+Gypsum plaster
+shall not be used on
+exterior surfaces
+.
+
+---
+
+Gypsum plaster
+shall not be used on
+exterior surfaces
+.
+
+---
+
+## Section 2512.4: Cement Plaster
+
+2512.4 Cement Plaster
+Plaster coats shall be protected from freezing for a period of not less than 24 hours after set has occurred. Plaster shall be applied when the ambient temperature is higher than 40°F (4°C), unless provisions are made to keep
+cement plaster
+work above 40°F (4°C) during
+application
+and 48 hours thereafter.
+
+---
+
+Plaster coats shall be protected from freezing for a period of not less than 24 hours after set has occurred. Plaster shall be applied when the ambient temperature is higher than 40°F (4°C), unless provisions are made to keep
+cement plaster
+work above 40°F (4°C) during
+application
+and 48 hours thereafter.
+
+---
+
+## Section 2512.5: Second-Coat Application
+
+2512.5 Second-Coat Application
+The second coat shall be brought out to proper thickness, rodded and floated sufficiently rough to provide adequate bond for the finish coat. The second coat shall have no variation greater than
+1
+/
+4
+inch (6.4 mm) in any direction under a 5-foot (1524 mm) straight edge.
+
+---
+
+The second coat shall be brought out to proper thickness, rodded and floated sufficiently rough to provide adequate bond for the finish coat. The second coat shall have no variation greater than
+1
+/
+4
+inch (6.4 mm) in any direction under a 5-foot (1524 mm) straight edge.
+
+---
+
+## Section 2512.6: Curing and Interval
+
+2512.6 Curing and Interval
+First and second coats of
+cement plaster
+shall be applied and moist cured as set forth in ASTM C 926 and Table 2512.6.
+TABLE 2512.6
+CEMENT PLASTERS
+COAT
+MINIMUM
+PERIOD MOIST
+CURING
+MINIMUM
+INTERVAL
+BETWEEN COATS
+First
+48 hours
+a
+48 hours
+b
+Second
+48 hours
+7 days
+c
+Finish
+—
+Note c
+The first two coats shall be as required for the first coats of exterior plaster, except that the moist-curing time period between the first and second coats shall not be less than 24 hours. Moist curing shall not be required where job and weather conditions are favorable to the retention of moisture in the
+cement plaster
+for the required time period.
+Twenty-four-hour minimum interval between coats of interior
+cement plaster
+. For alternate method of
+application
+, see
+Section 2512.8
+.
+Finish coat plaster is permitted to be applied to interior cement base coats after a 48-hour period.
+
+---
+
+First and second coats of
+cement plaster
+shall be applied and moist cured as set forth in ASTM C 926 and Table 2512.6.
+TABLE 2512.6
+CEMENT PLASTERS
+COAT
+MINIMUM
+PERIOD MOIST
+CURING
+MINIMUM
+INTERVAL
+BETWEEN COATS
+First
+48 hours
+a
+48 hours
+b
+Second
+48 hours
+7 days
+c
+Finish
+—
+Note c
+The first two coats shall be as required for the first coats of exterior plaster, except that the moist-curing time period between the first and second coats shall not be less than 24 hours. Moist curing shall not be required where job and weather conditions are favorable to the retention of moisture in the
+cement plaster
+for the required time period.
+Twenty-four-hour minimum interval between coats of interior
+cement plaster
+. For alternate method of
+application
+, see
+Section 2512.8
+.
+Finish coat plaster is permitted to be applied to interior cement base coats after a 48-hour period.
+
+---
+
+## Section 2512.7: Application to Solid Backings
+
+2512.7 Application to Solid Backings
+Where applied over gypsum
+backing
+as specified in
+Section 2510.5
+or directly to unit
+masonry
+surfaces, the second coat is permitted to be applied as soon as the first coat has attained sufficient hardness.
+
+---
+
+Where applied over gypsum
+backing
+as specified in
+Section 2510.5
+or directly to unit
+masonry
+surfaces, the second coat is permitted to be applied as soon as the first coat has attained sufficient hardness.
+
+---
+
+## Section 2512.8: Alternate Method of Application
+
+2512.8 Alternate Method of Application
+The second coat is permitted to be applied as soon as the first coat has attained sufficient rigidity to receive the second coat.
+
+---
+
+The second coat is permitted to be applied as soon as the first coat has attained sufficient rigidity to receive the second coat.
+
+---
+
+## Section 2512.8.1: Admixtures
+
+2512.8.1 Admixtures
+When using this method of
+application
+, calcium aluminate cement up to 15 percent of the weight of the portland cement is permitted to be added to the mix.
+
+---
+
+When using this method of
+application
+, calcium aluminate cement up to 15 percent of the weight of the portland cement is permitted to be added to the mix.
+
+---
+
+## Section 2512.8.2: Curing
+
+2512.8.2 Curing
+Curing of the first coat is permitted to be omitted and the second coat shall be cured as set forth in ASTM C 926 and
+Table 2512.6
+.
+
+---
+
+Curing of the first coat is permitted to be omitted and the second coat shall be cured as set forth in ASTM C 926 and
+Table 2512.6
+.
+
+---
+
+## Section 2512.9: Finish Coats
+
+2512.9 Finish Coats
+Cement plaster
+finish coats shall be applied over base coats that have been in place for the time periods set forth in ASTM C 926. The third or finish coat shall be applied with sufficient material and pressure to bond and to cover the brown coat and shall be of sufficient thickness to conceal the brown coat.
+
+---
+
+Cement plaster
+finish coats shall be applied over base coats that have been in place for the time periods set forth in ASTM C 926. The third or finish coat shall be applied with sufficient material and pressure to bond and to cover the brown coat and shall be of sufficient thickness to conceal the brown coat.
+
+---
+
+Section BC 2513 Exposed Aggregate Plaster
+
+---
+
+## Section 2513.1: General
+
+2513.1 General
+Exposed natural or integrally colored aggregate is permitted to be partially embedded in a natural or colored bedding coat of
+cement plaster
+or
+gypsum plaster
+, subject to the provisions of this section.
+
+---
+
+Exposed natural or integrally colored aggregate is permitted to be partially embedded in a natural or colored bedding coat of
+cement plaster
+or
+gypsum plaster
+, subject to the provisions of this section.
+
+---
+
+## Section 2513.2: Aggregate
+
+2513.2 Aggregate
+The aggregate shall be applied manually or mechanically and shall consist of marble chips, pebbles or similar durable, moderately hard (three or more on the Mohs hardness scale), nonreactive
+materials
+.
+
+---
+
+The aggregate shall be applied manually or mechanically and shall consist of marble chips, pebbles or similar durable, moderately hard (three or more on the Mohs hardness scale), nonreactive
+materials
+.
+
+---
+
+## Section 2513.3: Bedding Coat Proportions
+
+2513.3 Bedding Coat Proportions
+The bedding coat for interior or
+exterior surfaces
+shall be composed of one part Portland cement and one part Type
+S
+lime; or one part blended cement and one part Type
+S
+lime; or
+masonry
+cement; or
+plastic
+cement and a maximum of three parts of graded white or natural sand by volume. The bedding coat for
+interior surfaces
+shall be composed of 100 pounds (45.4 kg) of neat
+gypsum plaster
+and a maximum of 200 pounds (90.8 kg) of graded white sand. A factory-prepared bedding coat for interior or exterior use is permitted. The bedding coat for
+exterior surfaces
+shall have a minimum compressive
+strength
+of 1,000 pounds per square inch (psi) (6895 kPa).
+
+---
+
+The bedding coat for interior or
+exterior surfaces
+shall be composed of one part Portland cement and one part Type
+S
+lime; or one part blended cement and one part Type
+S
+lime; or
+masonry
+cement; or
+plastic
+cement and a maximum of three parts of graded white or natural sand by volume. The bedding coat for
+interior surfaces
+shall be composed of 100 pounds (45.4 kg) of neat
+gypsum plaster
+and a maximum of 200 pounds (90.8 kg) of graded white sand. A factory-prepared bedding coat for interior or exterior use is permitted. The bedding coat for
+exterior surfaces
+shall have a minimum compressive
+strength
+of 1,000 pounds per square inch (psi) (6895 kPa).
+
+---
+
+## Section 2513.4: Application
+
+2513.4 Application
+The bedding coat is permitted to be applied directly over the first (scratch) coat of plaster, provided the ultimate overall thickness is a minimum of
+7
+/
+8
+inch (22 mm), including lath. Over
+concrete
+or
+masonry
+surfaces, the overall thickness shall be a minimum of
+1
+/
+2
+inch (12.7 mm).
+
+---
+
+The bedding coat is permitted to be applied directly over the first (scratch) coat of plaster, provided the ultimate overall thickness is a minimum of
+7
+/
+8
+inch (22 mm), including lath. Over
+concrete
+or
+masonry
+surfaces, the overall thickness shall be a minimum of
+1
+/
+2
+inch (12.7 mm).
+
+---
+
+## Section 2513.5: Bases
+
+2513.5 Bases
+Exposed aggregate plaster is permitted to be applied over
+concrete
+,
+masonry
+,
+cement plaster
+base
+coats or
+gypsum plaster
+base
+coats installed in accordance with Section 2511 or 2512.
+
+---
+
+Exposed aggregate plaster is permitted to be applied over
+concrete
+,
+masonry
+,
+cement plaster
+base
+coats or
+gypsum plaster
+base
+coats installed in accordance with Section 2511 or 2512.
+
+---
+
+## Section 2513.6: Preparation of Masonry and Concrete
+
+2513.6 Preparation of Masonry and Concrete
+Masonry
+and
+concrete
+surfaces shall be prepared in accordance with the provisions of
+Section 2510.7
+.
+
+---
+
+Masonry
+and
+concrete
+surfaces shall be prepared in accordance with the provisions of
+Section 2510.7
+.
+
+---
+
+## Section 2513.7: Curing of Base Coats
+
+2513.7 Curing of Base Coats
+Cement plaster
+base coats shall be cured in accordance with ASTM C 926.
+Cement plaster
+bedding coats shall retain sufficient moisture for hydration (hardening) for 24 hours minimum or, where necessary, shall be kept damp for 24 hours by light water spraying.
+
+---
+
+Cement plaster
+base coats shall be cured in accordance with ASTM C 926.
+Cement plaster
+bedding coats shall retain sufficient moisture for hydration (hardening) for 24 hours minimum or, where necessary, shall be kept damp for 24 hours by light water spraying.
+
+---
+
+Section BC 2514 Reinforced Gypsum Concrete
+
+---
+
+## Section 2514.1: General
+
+2514.1 General
+Reinforced gypsum
+concrete
+shall comply with the requirements of ASTM C 317 and ASTM C 956.
+
+---
+
+Reinforced gypsum
+concrete
+shall comply with the requirements of ASTM C 317 and ASTM C 956.
+
+---
+
+## Section 2514.2: Minimum Thickness
+
+2514.2 Minimum Thickness
+The minimum thickness of reinforced gypsum
+concrete
+shall be 2 inches (51 mm) except the minimum required thickness shall be reduced to 1
+1
+/
+2
+inches (38 mm), provided the following conditions are satisfied:
+The overall thickness, including the formboard, is not less than 2 inches (51 mm).
+The clear span of the gypsum
+concrete
+between supports does not exceed 33 inches (838 mm).
+Diaphragm
+action is not required.
+The
+design
+live load
+does not exceed 40 pounds per square foot (psf) (1915 Pa).
+
+---
+
+The minimum thickness of reinforced gypsum
+concrete
+shall be 2 inches (51 mm) except the minimum required thickness shall be reduced to 1
+1
+/
+2
+inches (38 mm), provided the following conditions are satisfied:
+The overall thickness, including the formboard, is not less than 2 inches (51 mm).
+The clear span of the gypsum
+concrete
+between supports does not exceed 33 inches (838 mm).
+Diaphragm
+action is not required.
+The
+design
+live load
+does not exceed 40 pounds per square foot (psf) (1915 Pa).
+
+---
+
+## Section 2514.3: Limitations of Use
+
+2514.3 Limitations of Use
+Reinforced gypsum
+concrete
+shall not be used where exposed directly to the weather or where subject to frequent or continuous wetting. Precast units shall be protected by coverings or coatings from the weather and from contact with moisture during shipment and during
+storage
+at the work
+site
+.
+
+---
+
+Reinforced gypsum
+concrete
+shall not be used where exposed directly to the weather or where subject to frequent or continuous wetting. Precast units shall be protected by coverings or coatings from the weather and from contact with moisture during shipment and during
+storage
+at the work
+site
+.
+
+---
+

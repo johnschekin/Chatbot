@@ -1,0 +1,754 @@
+# NYC Fire Code 2022 - Chapter 30
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+3001 General
+
+---
+
+3002 Definitions
+
+---
+
+3003 Location
+
+---
+
+3004 Fuel Piping
+
+---
+
+3005 Interlocks
+
+---
+
+3006 Fire Protection
+
+---
+
+3007 Operation and Maintenance
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Section 3001 General
+
+---
+
+## Section 3001.1: Scope
+
+3001.1 Scope
+This chapter shall govern the design, installation, operation and
+maintenance
+of industrial
+furnaces
+used for commercial and industrial processing of materials.
+
+---
+
+This chapter shall govern the design, installation, operation and
+maintenance
+of industrial
+furnaces
+used for commercial and industrial processing of materials.
+
+---
+
+## Section 3001.2: Permits
+
+3001.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 3001.3: General
+
+3001.3 General
+Industrial
+furnaces
+shall be designed, installed, operated and maintained in accordance with this chapter, NFPA 86, and the
+construction codes
+, including the
+Fuel Gas Code
+and the
+Mechanical Code
+.
+
+---
+
+Industrial
+furnaces
+shall be designed, installed, operated and maintained in accordance with this chapter, NFPA 86, and the
+construction codes
+, including the
+Fuel Gas Code
+and the
+Mechanical Code
+.
+
+---
+
+Section 3002 Definitions
+
+---
+
+## Section 3002.1: Definitions
+
+3002.1 Definitions
+The following words shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+FURNACE
+.
+Class A.
+Class B.
+Class C.
+Class D.
+
+---
+
+The following words shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+FURNACE
+.
+Class A.
+Class B.
+Class C.
+Class D.
+
+---
+
+Section 3003 Location
+
+---
+
+## Section 3003.1: Ventilation
+
+3003.1 Ventilation
+Enclosed rooms, basements or other areas below grade containing industrial
+furnaces
+shall be provided with combustion air in accordance with the
+construction codes
+, including the
+Mechanical Code
+and the
+Fuel Gas Code
+, and with
+ventilation
+in accordance with the
+Mechanical Code
+.
+
+---
+
+Enclosed rooms, basements or other areas below grade containing industrial
+furnaces
+shall be provided with combustion air in accordance with the
+construction codes
+, including the
+Mechanical Code
+and the
+Fuel Gas Code
+, and with
+ventilation
+in accordance with the
+Mechanical Code
+.
+
+---
+
+## Section 3003.2: Location
+
+3003.2 Location
+Industrial
+furnaces
+and heaters shall be located such that in the event of
+fire
+or
+explosion
+resulting from overheating or from the escape of fuel gas or fuel oil, damage to the building and injury to persons is minimized.
+
+---
+
+Industrial
+furnaces
+and heaters shall be located such that in the event of
+fire
+or
+explosion
+resulting from overheating or from the escape of fuel gas or fuel oil, damage to the building and injury to persons is minimized.
+
+---
+
+## Section 3003.3: Ignition Source
+
+3003.3 Ignition Source
+Industrial
+furnaces
+shall be located so as not to pose an ignition hazard to flammable vapors or mists or
+combustible dusts
+that may be present as a result of a manufacturing operation or other lawful use and
+occupancy
+of the building.
+
+---
+
+Industrial
+furnaces
+shall be located so as not to pose an ignition hazard to flammable vapors or mists or
+combustible dusts
+that may be present as a result of a manufacturing operation or other lawful use and
+occupancy
+of the building.
+
+---
+
+## Section 3003.4: Temperatures
+
+3003.4 Temperatures
+Roofs and floors of
+furnaces
+shall be insulated and ventilated to prevent temperatures at combustible ceilings and floors from exceeding 160°F (71°C).
+
+---
+
+Roofs and floors of
+furnaces
+shall be insulated and ventilated to prevent temperatures at combustible ceilings and floors from exceeding 160°F (71°C).
+
+---
+
+Section 3004 Fuel Piping
+
+---
+
+## Section 3004.1: Fuel-Gas Piping
+
+3004.1 Fuel-Gas Piping
+Fuel-gas piping serving industrial
+furnaces
+shall be designed and installed in accordance with the
+Fuel Gas Code
+. Piping for other fuel sources shall comply with the requirements of this section.
+
+---
+
+Fuel-gas piping serving industrial
+furnaces
+shall be designed and installed in accordance with the
+Fuel Gas Code
+. Piping for other fuel sources shall comply with the requirements of this section.
+
+---
+
+## Section 3004.2: Shutoff Valves
+
+3004.2 Shutoff Valves
+Each industrial
+furnace
+shall be provided with an
+approved
+manual fuel shutoff valve in accordance with the
+construction codes
+, including the
+Mechanical Code
+and the
+Fuel Gas Code
+.
+
+---
+
+Each industrial
+furnace
+shall be provided with an
+approved
+manual fuel shutoff valve in accordance with the
+construction codes
+, including the
+Mechanical Code
+and the
+Fuel Gas Code
+.
+
+---
+
+## Section 3004.2.1: Fuel Supply Lines
+
+3004.2.1 Fuel Supply Lines
+Valves for fuel supply lines shall be located within 6 feet (1829 mm) of the appliance served.
+Exception:
+When
+approved
+and the valve is located in the same
+general
+area as the appliance served.
+
+---
+
+Valves for fuel supply lines shall be located within 6 feet (1829 mm) of the appliance served.
+Exception:
+When
+approved
+and the valve is located in the same
+general
+area as the appliance served.
+
+---
+
+## Section 3004.3: Valve Position
+
+3004.3 Valve Position
+The design of manual fuel shutoff valves shall incorporate a permanent feature that visually indicates the open or closed position of the valve. Manual fuel shutoff valves shall not be equipped with removable handles or wrenches unless the handle or wrench can only be installed parallel with the fuel line when the valve is in the open position.
+
+---
+
+The design of manual fuel shutoff valves shall incorporate a permanent feature that visually indicates the open or closed position of the valve. Manual fuel shutoff valves shall not be equipped with removable handles or wrenches unless the handle or wrench can only be installed parallel with the fuel line when the valve is in the open position.
+
+---
+
+Section 3005 Interlocks
+
+---
+
+## Section 3005.1: Shut Down
+
+3005.1 Shut Down
+Interlocks shall be provided for Class A
+furnaces
+so that conveyors or sources of flammable or combustible materials shall shut down if either the exhaust or recirculation air supply fails.
+
+---
+
+Interlocks shall be provided for Class A
+furnaces
+so that conveyors or sources of flammable or combustible materials shall shut down if either the exhaust or recirculation air supply fails.
+
+---
+
+Section 3006 Fire Protection
+
+---
+
+## Section 3006.1: Required Protection
+
+3006.1 Required Protection
+Class A and B
+furnaces
+that contain, or are utilized for the processing of, combustible materials shall be protected throughout by a
+fire extinguishing system
+complying with the requirements of
+FC Chapter 9
+.
+
+---
+
+Class A and B
+furnaces
+that contain, or are utilized for the processing of, combustible materials shall be protected throughout by a
+fire extinguishing system
+complying with the requirements of
+FC Chapter 9
+.
+
+---
+
+## Section 3006.2: Fixed Fire Extinguishing Systems
+
+3006.2 Fixed Fire Extinguishing Systems
+A fixed
+fire extinguishing system
+shall be provided for Class C or D
+furnaces
+to protect against such hazards as overheating, spillage of molten salts or metals, quench
+tanks
+, ignition of hydraulic oil and escape of fuel.
+
+---
+
+A fixed
+fire extinguishing system
+shall be provided for Class C or D
+furnaces
+to protect against such hazards as overheating, spillage of molten salts or metals, quench
+tanks
+, ignition of hydraulic oil and escape of fuel.
+
+---
+
+## Section 3006.3: Portable Fire Extinguishers
+
+3006.3 Portable Fire Extinguishers
+Portable
+fire
+extinguishers complying with the requirements of
+FC906
+shall be provided not closer than 15 feet (4572 mm) or a maximum of 50 feet (15 240 mm) from each
+furnace
+or in accordance with NFPA 10.
+
+---
+
+Portable
+fire
+extinguishers complying with the requirements of
+FC906
+shall be provided not closer than 15 feet (4572 mm) or a maximum of 50 feet (15 240 mm) from each
+furnace
+or in accordance with NFPA 10.
+
+---
+
+Section 3007 Operation and Maintenance
+
+---
+
+## Section 3007.1: Furnace Operation and Maintenance Instructions
+
+3007.1 Furnace Operation and Maintenance Instructions
+The
+furnace
+manufacturer's complete installation, inspection, testing, operation and
+maintenance
+instructions shall be available on the
+premises
+to those individuals responsible for the operation,
+maintenance
+and
+supervision
+of the
+furnace
+.
+
+---
+
+The
+furnace
+manufacturer's complete installation, inspection, testing, operation and
+maintenance
+instructions shall be available on the
+premises
+to those individuals responsible for the operation,
+maintenance
+and
+supervision
+of the
+furnace
+.
+
+---
+
+## Section 3007.2: Furnace Nameplate
+
+3007.2 Furnace Nameplate
+The following data for Class A
+furnaces
+shall be furnished on the manufacturer's nameplate:
+The solvent used.
+The number of gallons (liters) used per batch or per hour of solvent entering the
+furnace
+.
+The required purge time.
+The oven operating temperature.
+The exhaust blower rating for the number of gallons (liters) of solvent per hour or batch at the maximum operating temperature, or with regard to low-oxygen
+furnaces
+, the maximum allowable oxygen concentration.
+
+---
+
+The following data for Class A
+furnaces
+shall be furnished on the manufacturer's nameplate:
+The solvent used.
+The number of gallons (liters) used per batch or per hour of solvent entering the
+furnace
+.
+The required purge time.
+The oven operating temperature.
+The exhaust blower rating for the number of gallons (liters) of solvent per hour or batch at the maximum operating temperature, or with regard to low-oxygen
+furnaces
+, the maximum allowable oxygen concentration.
+
+---
+
+## Section 3007.3: Training
+
+3007.3 Training
+The operation and
+maintenance
+of
+furnaces
+shall be performed by a person knowledgeable and trained in the operation and
+maintenance
+of such
+furnaces
+.
+
+---
+
+The operation and
+maintenance
+of
+furnaces
+shall be performed by a person knowledgeable and trained in the operation and
+maintenance
+of such
+furnaces
+.
+
+---
+
+## Section 3007.4: Equipment Maintenance
+
+3007.4 Equipment Maintenance
+Equipment shall be maintained in accordance with the manufacturer's instructions.
+
+---
+
+Equipment shall be maintained in accordance with the manufacturer's instructions.
+
+---
+

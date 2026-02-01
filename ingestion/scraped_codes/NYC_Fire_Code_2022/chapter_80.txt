@@ -1,0 +1,2202 @@
+# NYC Fire Code 2022 - Chapter 80
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+8001 General
+
+---
+
+8002 List of Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Section 8001 General
+
+---
+
+## Section 8001.1: Scope
+
+8001.1 Scope
+This chapter lists the standards that are referenced in this code.
+
+---
+
+This chapter lists the standards that are referenced in this code.
+
+---
+
+## Section 8001.2: Edition
+
+8001.2 Edition
+The edition of each standard referenced in this code shall be as indicated by the standard reference number.
+
+---
+
+The edition of each standard referenced in this code shall be as indicated by the standard reference number.
+
+---
+
+## Section 8001.3: Relationship With Code and Rules
+
+8001.3 Relationship With Code and Rules
+The
+application
+of the referenced standards and their relationship with the provisions of this code and the
+rules
+shall be as set forth in
+FC102.6
+.
+
+---
+
+The
+application
+of the referenced standards and their relationship with the provisions of this code and the
+rules
+shall be as set forth in
+FC102.6
+.
+
+---
+
+Section 8002 List of Referenced Standards
+ANSI
+American National Standards Institute
+25
+West 43rd Street, Fourth Floor
+New York, NY 10036
+Standard
+Reference
+Number
+Title
+Reserved
+.
+API
+American Petroleum Institute
+1220 L Street, Northwest
+Washington, DC 20005-4070
+Standard
+Reference
+Number
+Title
+Std 650—
+2007
+Welded
+Steel
+Tanks
+for Oil Storage, 11
+th
+edition
+, including Addendum 1 (
+2008
+), Addendum 2 (
+2009
+) and Addendum 3 (
+2011
+)
+Std 653—
+2009
+Tank
+Inspection, Repair,
+Alteration
+, and Reconstruction, 4
+th
+edition
+, including Addendum 1 (
+2010
+) and Addendum 2 (2012)
+RP 1604—1996
+Reaffirmed
+2010
+Closure of Underground Petroleum Storage
+Tanks
+Std 2000—
+2009
+Venting Atmosphere and Low Pressure Storage
+Tanks
+: Nonrefrigerated and Refrigerated
+RP 2028—
+2002
+Reaffirmed 2012
+Flame Arrestors in Piping
+Systems
+RP 2350—2012
+Overfill Protection for Storage
+Tanks
+in Petroleum
+Facilities
+, 4
+th
+edition
+ASHRAE
+American Society of Heating, Refrigerating and Air-Conditioning Engineers, Inc.
+1791 Tullie Circle, NE
+Atlanta, GA 30329
+Standard
+Reference
+Number
+Title
+15—2013
+Safety Standard for Refrigeration
+Systems
+ASME
+The American Society of Mechanical Engineers
+Three Park Avenue
+New York, NY 10016-5990
+Standard
+Reference
+Number
+Title
+A13.1—15
+Scheme for the Identification of Piping
+Systems
+B31.1—12
+Power Piping
+B31.3—12
+Process Piping
+B31.4—12
+Pipeline Transportation
+Systems
+for
+Liquids
+and Slurries
+B31.9—17
+Building Services Piping
+BPVC—2010
+ASME Boiler and
+Pressure Vessel
+Code, (Sections I, II, IV, V, VI and VIII), including
+2011
+addenda
+ASTM
+ASTM International
+100 Barr Harbor Drive
+West Conshohocken, PA 19428-2959
+Standard
+Reference
+Number
+Title
+D 56—05(
+2010
+)
+Test Method for
+Flash Point
+by Tag Closed Tester
+D 86—2012
+Test Method for Distillation of Petroleum Products at Atmospheric Pressure
+D 92—12b
+Test Method for Flash and
+Fire Points
+by Cleveland Open Cup
+D 93—12
+Test Method for
+Flash Point
+by Pensky-Martens Closed Cup Tester
+D 323—08
+Test Method for
+Vapor Pressure
+of Petroleum Products (Reid Method)
+D 3278—96(
+2011
+)
+Test Methods for
+Flash Point
+of
+Liquids
+by Small Scale Closed-cup Apparatus
+E 681—09
+Test Method for Concentration Limits of Flammability of
+Chemicals
+(Vapors and Gases)
+E 1354—13
+Standard Test Method for Heat and Visible Smoke Release Rates for Materials and Products Using an Oxygen Consumption Calorimeter
+E 1529—13
+Test Method for Determining Effects of Large Hydrocarbon Pool
+Fires
+on Structural Members and Assemblies
+E 1590—13
+Test Method for
+Fire
+Testing of Mattresses
+F 2200—13
+Standard Specification for Automated Vehicular Gate Construction
+CA
+State of California
+Department
+of Consumer Affairs
+Bureau of Home
+Furnishings
+and Thermal Insulation
+3485 Orange Grove Avenue
+North Highlands, CA 95660-5595
+Standard
+Reference
+Number
+Title
+California Technical
+Bulletin
+116
+Requirements, Test Procedure and Apparatus for Testing the Flame Retardance of Upholstered Furniture
+California Technical
+Bulletin
+117
+—2013
+Requirements, Test Procedure and Apparatus for Testing the Smolder Resistance of Materials Used in Upholstered Furniture
+California Technical
+Bulletin 129—1992
+Flammability Test Procedure for Mattresses for Use in Public Buildings
+CGA
+Compressed Gas
+Association
+4221 Walney Road, 5
+th
+Floor
+Chantilly, VA 20151
+Standard
+Reference
+Number
+Title
+C-7—(
+2011
+)
+Guide to the Preparation of Precautionary Labeling and Marking of
+Compressed Gas Containers
+G-8.1—(
+2007
+)
+Nitrous Oxide
+Systems
+at Consumer Sites
+G-13—(
+2006
+)
+Storage and
+Handling
+of Silane and Silane Mixtures
+P-1—(
+2008
+)
+Safe
+Handling
+of Compressed Gases in
+Containers
+P-18—(
+2006
+)
+Standard for Bulk
+Inert Gas
+Systems
+at Consumer Sites
+S-1.1—(
+2011
+)
+Pressure Relief Device Standards—Part 1—Cylinders for Compressed Gases
+S-1.2—(
+2005
+)
+Pressure Relief Device Standards—Part 2—Cargo and
+Portable Tanks
+for Compressed Gases
+S-1.3—(
+2008
+)
+Pressure Relief Device Standards—Part 3—Stationary Storage
+Containers
+for Compressed Gases
+V-1—(
+2005
+)
+Standard for Gas Cylinder Valve Outlet and Inlet Connections
+CGR
+Coast Guard Regulations
+c/o Superintendent of Documents
+U.S. Government Printing Office
+Washington, DC 20402-9325
+Standard
+Reference
+Number
+Title
+Reserved
+.
+CPSC
+Consumer Product Safety Commission
+4330 East West
+Highway
+Bethesda, MD 20814
+Standard
+Reference
+Number
+Title
+16 CFR Section 1500.41
+Method for Testing Primary
+Irritant
+Substances
+16 CFR Section 1500.42
+Test for Eye
+Irritants
+16 CFR Section 1500.44
+Method for Testing Extremely Flammable and
+Flammable Solids
+DOC
+U.S.
+Department
+of Commerce
+100 Bureau Drive, Stop 3460
+Gaithersburg, MD 20899
+Standard
+Reference
+Number
+Title
+16 CFR Part 1632
+Standard for the Flammability of Mattress and Mattress Pads (FF 4—72, Amended)
+DOJ
+U.S.
+Department
+of Justice
+Bureau of Alcohol, Tobacco, Firearms and
+Explosives
+c/o Superintendent of Documents
+U.S. Government Printing Office
+Washington, DC 20402-9325
+Standard
+Reference
+Number
+Title
+27 CFR Part 555
+Commerce in
+Explosives
+DOL
+U.S.
+Department
+of Labor
+c/o Superintendent of Documents
+U.S. Government Printing Office
+Washington, DC 20402-9325
+Standard
+Reference
+Number
+Title
+29 CFR Section 1910.1000
+Air Contaminants
+29 CFR Section 1910.1200
+Hazard Communication
+DOTn
+U.S.
+Department
+of Transportation
+Office of Hazardous Material Standards
+400
+7
+th
+Street, Southwest
+Washington, DC 20590
+Standard
+Reference
+Number
+Title
+49 CFR Parts (100-180)
+Hazardous Materials
+Regulations
+49 CFR Parts 190-199
+Pipeline Safety
+49 CFR Parts 350-399
+Federal Motor Carrier Safety Regulations
+EN
+European Committee for Standardization (EN)
+Central Secretariat
+Rue de Stassart 36
+B-10 50 Brussels
+Standard
+Reference
+Number
+Title
+European Standard
+EN 1081: 1998
+Resilient Floor Coverings—Determination of the
+Electrical
+Resistance
+EPA
+Environmental Protection Agency
+Ariel Rios Building
+1200 Pennsylvania Avenue, NW
+Washington, DC 20460
+Standard
+Reference
+Number
+Title
+40 CFR Part 112
+Oil Pollution Prevention
+40 CFR Part 280
+Technical Standards and Corrective Action Requirements for
+Owners
+and Operators of Underground Storage
+Tanks
+(UST)
+FM
+Factory Mutual Global Research
+Standards Laboratories
+Department
+1301 Atwood Avenue, P.O. Box 7500
+Johnston, RI 02919
+Standard
+Reference
+Number
+Title
+ANSI/FM 4996—13
+Approval Standard for Classification of Pallets and Other Material
+Handling
+Products as Equivalent to Wood Pallets
+IIAR
+International Institute of Ammonia Refrigeration
+1001
+N. Fairfax Street, Suite
+503
+Alexandria, VA 22314
+Standard
+Reference
+Number
+Title
+IIAR-2—2014
+Equipment,
+Design and Installation
+of Closed-Circuit Ammonia
+Refrigerating Systems
+IIAR-6—2019
+Inspection, Testing, and
+Maintenance
+of Safe Closed-Circuit Ammonia Refrigeration
+Systems
+IIAR-7—2019
+Developing Operating Procedures for Closed-Circuit Ammonia Mechanical
+Refrigerating Systems
+IIAR-8—2020
+Decommissioning of Closed-Circuit Ammonia Refrigeration
+Systems
+IIAR-9—2020
+Minimum
+System
+Safety Requirements for Existing Closed-Circuit Ammonia Refrigeration
+Systems
+IKECA
+International Kitchen Exhaust Cleaning Association
+100 North 20th Street, Suite 400
+Philadelphia, PA 19103
+Standard
+Reference
+Number
+Title
+C10—
+2011
+ANSI/IKECA
+Standard for Cleaning of
+Commercial Kitchen
+Exhaust
+Systems
+ISO
+International Organization for Standardization (ISO)
+ISO Central Secretariat
+1 ch, de la Voie-Creuse, Case postale 56
+CH-1211 Geneva 20, Switzerland
+Standard
+Reference
+Number
+Title
+ISO 8115—86
+Cotton Bales—Dimensions and Density
+NEMA
+National
+Electrical
+Manufacturer's Association
+1300 N. 17th Street
+Suite 1847
+Rosslyn, VA 22209
+Standard
+Reference
+Number
+Title
+250—
+2003
+Enclosures for
+Electrical Equipment
+(1,000 Volt Maximum)
+NFPA
+National
+Fire
+Protection Association
+Batterymarch Park
+Quincy, MA 02269
+Standard
+Reference
+Number
+Title
+2—16
+Hydrogen Technologies Code
+10—13
+Portable
+Fire
+Extinguishers
+11—10
+Low-, Medium- and High-Expansion Foam
+12—11
+Carbon Dioxide Extinguishing
+Systems
+12A—09
+Halon 1301
+Fire Extinguishing Systems
+13—16
+Installation of
+Sprinkler Systems
+13R—16
+Standard for the Installation of
+Sprinkler Systems
+in Low-Rise Residential
+Occupancies
+15—17
+Standard for Water Spray Fixed
+Systems
+for
+Fire
+Protection
+16—15
+Installation of Foam-Water Sprinkler and Foam-Water Spray
+Systems
+17—13
+Dry
+Chemical
+Extinguishing
+Systems
+17A—13
+Wet
+Chemical
+Extinguishing
+Systems
+20—16
+Installation of Stationary Pumps for
+Fire
+Protection
+22—13
+Water
+Tanks
+for Private
+Fire
+Protection
+24—13
+Installation of Private
+Fire
+Service Mains and their Appurtenances
+25—14
+Inspection, Testing and
+Maintenance
+of Water-Based
+Fire Protection Systems
+30—12
+Flammable and
+Combustible Liquids
+Code
+30A—15
+Code for Motor Fuel-
+Dispensing
+Facilities
+and
+Repair Garages
+30B—15
+Manufacture and Storage of
+Aerosol
+Products
+32—16
+Standard for Drycleaning
+Facilities
+33—16
+Spray
+Application
+Using Flammable or Combustible Materials
+34—15
+Dipping, Coating, and Printing Processes Using Flammable or
+Combustible Liquids
+35—11
+Manufacture of
+Organic Coatings
+40—11
+Storage and
+Handling
+of Cellulose Nitrate Film
+45—15
+Fire
+Protection for Laboratories Using
+Chemicals
+51—13
+Design and Installation of Oxygen-Fuel Gas Systems
+for Welding, Cutting, and Allied Processes
+52—13
+Vehicular
+Natural Gas
+Fuel
+Systems
+Code
+55—13
+Compressed Gases and
+Cryogenic Fluids
+Code
+56—12
+Standard for
+Fire
+and
+Explosion
+Prevention During Cleaning and Purging of
+Flammable Gas
+Piping
+Systems
+58—14
+Liquefied Petroleum Gas
+Code
+61—13
+Prevention of
+Fires
+and Dust
+Explosions
+in Agricultural and Food Processing
+Facilities
+68—2018
+Standard on
+Explosion
+Protection by
+Deflagration
+Venting
+69—14
+Explosion
+Prevention
+Systems
+72—16
+National
+Fire
+Alarm and Signaling Code
+76—16
+Standard for the
+Fire
+Protection of Telecommunications
+Facilities
+77—07
+Recommended Practice on Static Electricity
+80—13
+Fire
+Doors and Other Opening Protectives
+85—15
+Boiler and Combustion
+System
+Hazards Code
+86—15
+Ovens and
+Furnaces
+88A—19
+Standard for Parking Structures
+96—17
+Standard for
+Ventilation
+Control and
+Fire
+Protection of Commercial Cooking Operations
+99—15
+Health Care
+Facilities
+Code
+105
+—13
+Standard for Smoke Door Assemblies and Other Opening Protectives
+110
+—13
+Emergency and Standby Power
+Systems
+111
+—13
+Stored
+Electrical
+Energy Emergency and Standby Power
+Systems
+120—15
+Fire
+Prevention and Control in Coal Mines
+130—20
+Fixed Guideway Transit and Passenger Rail
+Systems
+140—18
+Standard on Motion Picture and Television Production Studio Soundstages,
+Approved
+Production
+Facilities
+, and
+Production Locations
+160—11
+Use of Flame Effects Before an Audience
+241—13
+Safeguarding Construction,
+Alteration
+, and Demolition Operations
+260—13
+Methods of Tests and Classification
+System
+for Cigarette Ignition Resistance of Components of Upholstered Furniture
+261—13
+Method of Test for Determining Resistance of Mock-Up Upholstered Furniture Material Assemblies to Ignition by Smoldering Cigarettes
+289—13
+Method of
+Fire
+Test for Individual Fuel Packages
+303
+—11
+Fire
+Protection Standard for
+Marinas
+and Boatyards
+307
+—2021
+Standard for the Construction and
+Fire
+Protection of Marine Terminals,
+Piers
+, and
+Wharves
+318
+—15
+Standard for the Protection of
+Semiconductor Fabrication Facilities
+326—10
+Standard for the Safeguarding of
+Tanks
+and
+Containers
+for Entry, Cleaning or Repair
+385—12
+Standard for
+Tank
+Vehicles for Flammable and
+Combustible Liquids
+400—13
+Hazardous Materials
+Code
+407
+—12
+Aircraft Fuel Servicing
+484—15
+Combustible Metals
+495—13
+Explosive
+Materials Code
+498—13
+Safe Havens and Interchange Lots for Vehicles Transporting
+Explosives
+502
+—20
+Road Tunnels, Bridges and Other Limited Access
+Highways
+505
+—13
+Fire
+Safety Standard for
+Powered Industrial Trucks
+Including Type Designations, Areas of Use,
+Conversions
+,
+Maintenance
+, and Operations
+652—16
+Standard on the Fundamentals of
+Combustible Dust
+654—13
+Prevention of
+Fire
+and Dust
+Explosions
+from the Manufacturing, Processing, and
+Handling
+of Combustible Particulate
+Solids
+655—12
+Prevention of Sulfur
+Fires
+and
+Explosions
+664—12
+Standard for the Prevention of
+Fires
+and
+Explosions
+in Wood Processing and
+Woodworking Facilities
+701
+—10
+Standard Methods of
+Fire
+Tests for Flame-Propagation of Textiles and Films
+704
+—12
+Identification of the Hazards of Materials for Emergency Response
+720—15
+Installation of Carbon Monoxide (CO) Detection and Warning Equipment
+750—15
+Standard on Water Mist
+Fire Protection Systems
+780—08
+Standard for the Installation of Lightning Protection
+Systems
+820—08
+Fire
+Protection in Wastewater Treatment and Collection
+Facilities
+850—10
+Fire
+Protection for Electric Generating Plants and High Voltage Direct Current Converter Stations
+855—20
+Standard for the Installation of
+Stationary Energy Storage Systems
+1122—13
+Model Rocketry
+1123—14
+Fireworks Display
+1124—17
+Code for the Manufacture, Transportation, Storage, and Retail Sales of
+Fireworks
+and
+Pyrotechnic
+Articles
+1125—12
+Manufacture of Model Rocket and High Power Rocket Motors
+1126—11
+Use of
+Pyrotechnics
+Before a
+Proximate Audience
+1127—13
+High Power Rocketry
+2001
+—15
+Clean Agent
+Fire Extinguishing Systems
+2010
+—15
+Fixed
+Aerosol
+Fire Extinguishing Systems
+UL
+Underwriters Laboratories, Inc.
+333 Pfingsten Road
+Northbrook, IL 60062
+Standard
+Reference
+Number
+Title
+30—95
+Metal
+Safety Cans
+—with Revisions through July
+2009
+80—07
+Standard for
+Steel
+Tanks
+for Oil-Burner Fuels and Other Combustible
+Liquids
+—with revisions through August
+2009
+142—06
+Standard for
+Steel
+Aboveground
+Tanks
+for Flammable and Combustible
+Liquids
+—with revisions through February 12,
+2010
+268—09
+Standard for
+Smoke Detectors
+for
+Fire Alarm Systems
+300—05
+Fire
+Testing of
+Fire Extinguishing Systems
+for Protection of Commercial Cooking Equipment—with revisions through July
+2010
+300A—06
+Outline of Investigation for Extinguishing
+System
+Units for Residential Range Top Cooking Surfaces
+325
+—02
+Door, Drapery, Gate, Louver, and Window Operators and
+Systems
+—with Revisions through February
+2006
+499—05
+Standard for Electric Heating Appliances—with revisions through February 2013
+864—03
+Standard for Control Units and Accessories for Fire Alarm
+Systems
+—with revisions through December 2014
+900—04
+Air Filter Units—with revisions through February 2012
+1275—05
+Flammable Liquid
+Storage Cabinets—with Revisions through February
+2010
+1313—93
+Standard for Nonmetallic
+Safety Cans
+for Petroleum Products—with Revisions through November 2012
+1315—95
+Standard for Safety for Metal Waste Paper
+Containers
+—with Revisions through September 2012
+1564—15
+Standard for Industrial Battery Chargers
+1741—10
+Standard for Inverters, Converters, Controllers and Interconnection
+System
+Equipment for Use With Distributed Energy Resources
+1973—18
+Standard for Batteries for Use in Stationary, Vehicle Auxiliary Power and Light Electric Rail (LER)
+Applications
+1975—06
+Fire
+Tests for Foamed Plastics Used for Decorative Purpose
+2017—08
+Standard for
+General
+-Purpose Signaling Devices and
+Systems
+—with revisions through May
+2011
+2075—13
+Standard for Gas and Vapor Detectors and Sensors
+2085—97
+Protected Aboveground Tanks
+for Flammable and Combustible
+Liquids
+—with Revisions through September
+2010
+2200—12
+Standard for Stationary Engine Generator Assemblies—with revisions through June 2013
+2208—10
+Solvent Distillation Units
+—with revisions through March
+2011
+2272—16
+Standard for
+Electrical
+Systems
+for Personal E-Mobility Devices
+2335—10
+Fire
+Tests of Storage Pallets—with Revisions through September 2012
+2360—00
+Standard for Test Methods for Determining the combustibility characteristics of Plastics Used in Semi-Conductor
+Tool
+Construction—with revisions through May 2013
+2849—20
+Standard for
+Electrical
+Systems
+for eBikes
+9540—20
+Standard for Energy Storage
+Systems
+and Equipment
+9540A—19
+Standard for Test Method for Evaluating Thermal Runaway
+Fire
+Propagation in Battery Energy Storage
+Systems
+, 4
+th
+edition
+, November 2019
+
+---
+
+ANSI
+American National Standards Institute
+25
+West 43rd Street, Fourth Floor
+New York, NY 10036
+Standard
+Reference
+Number
+Title
+Reserved
+.
+API
+American Petroleum Institute
+1220 L Street, Northwest
+Washington, DC 20005-4070
+Standard
+Reference
+Number
+Title
+Std 650—
+2007
+Welded
+Steel
+Tanks
+for Oil Storage, 11
+th
+edition
+, including Addendum 1 (
+2008
+), Addendum 2 (
+2009
+) and Addendum 3 (
+2011
+)
+Std 653—
+2009
+Tank
+Inspection, Repair,
+Alteration
+, and Reconstruction, 4
+th
+edition
+, including Addendum 1 (
+2010
+) and Addendum 2 (2012)
+RP 1604—1996
+Reaffirmed
+2010
+Closure of Underground Petroleum Storage
+Tanks
+Std 2000—
+2009
+Venting Atmosphere and Low Pressure Storage
+Tanks
+: Nonrefrigerated and Refrigerated
+RP 2028—
+2002
+Reaffirmed 2012
+Flame Arrestors in Piping
+Systems
+RP 2350—2012
+Overfill Protection for Storage
+Tanks
+in Petroleum
+Facilities
+, 4
+th
+edition
+ASHRAE
+American Society of Heating, Refrigerating and Air-Conditioning Engineers, Inc.
+1791 Tullie Circle, NE
+Atlanta, GA 30329
+Standard
+Reference
+Number
+Title
+15—2013
+Safety Standard for Refrigeration
+Systems
+ASME
+The American Society of Mechanical Engineers
+Three Park Avenue
+New York, NY 10016-5990
+Standard
+Reference
+Number
+Title
+A13.1—15
+Scheme for the Identification of Piping
+Systems
+B31.1—12
+Power Piping
+B31.3—12
+Process Piping
+B31.4—12
+Pipeline Transportation
+Systems
+for
+Liquids
+and Slurries
+B31.9—17
+Building Services Piping
+BPVC—2010
+ASME Boiler and
+Pressure Vessel
+Code, (Sections I, II, IV, V, VI and VIII), including
+2011
+addenda
+ASTM
+ASTM International
+100 Barr Harbor Drive
+West Conshohocken, PA 19428-2959
+Standard
+Reference
+Number
+Title
+D 56—05(
+2010
+)
+Test Method for
+Flash Point
+by Tag Closed Tester
+D 86—2012
+Test Method for Distillation of Petroleum Products at Atmospheric Pressure
+D 92—12b
+Test Method for Flash and
+Fire Points
+by Cleveland Open Cup
+D 93—12
+Test Method for
+Flash Point
+by Pensky-Martens Closed Cup Tester
+D 323—08
+Test Method for
+Vapor Pressure
+of Petroleum Products (Reid Method)
+D 3278—96(
+2011
+)
+Test Methods for
+Flash Point
+of
+Liquids
+by Small Scale Closed-cup Apparatus
+E 681—09
+Test Method for Concentration Limits of Flammability of
+Chemicals
+(Vapors and Gases)
+E 1354—13
+Standard Test Method for Heat and Visible Smoke Release Rates for Materials and Products Using an Oxygen Consumption Calorimeter
+E 1529—13
+Test Method for Determining Effects of Large Hydrocarbon Pool
+Fires
+on Structural Members and Assemblies
+E 1590—13
+Test Method for
+Fire
+Testing of Mattresses
+F 2200—13
+Standard Specification for Automated Vehicular Gate Construction
+CA
+State of California
+Department
+of Consumer Affairs
+Bureau of Home
+Furnishings
+and Thermal Insulation
+3485 Orange Grove Avenue
+North Highlands, CA 95660-5595
+Standard
+Reference
+Number
+Title
+California Technical
+Bulletin
+116
+Requirements, Test Procedure and Apparatus for Testing the Flame Retardance of Upholstered Furniture
+California Technical
+Bulletin
+117
+—2013
+Requirements, Test Procedure and Apparatus for Testing the Smolder Resistance of Materials Used in Upholstered Furniture
+California Technical
+Bulletin 129—1992
+Flammability Test Procedure for Mattresses for Use in Public Buildings
+CGA
+Compressed Gas
+Association
+4221 Walney Road, 5
+th
+Floor
+Chantilly, VA 20151
+Standard
+Reference
+Number
+Title
+C-7—(
+2011
+)
+Guide to the Preparation of Precautionary Labeling and Marking of
+Compressed Gas Containers
+G-8.1—(
+2007
+)
+Nitrous Oxide
+Systems
+at Consumer Sites
+G-13—(
+2006
+)
+Storage and
+Handling
+of Silane and Silane Mixtures
+P-1—(
+2008
+)
+Safe
+Handling
+of Compressed Gases in
+Containers
+P-18—(
+2006
+)
+Standard for Bulk
+Inert Gas
+Systems
+at Consumer Sites
+S-1.1—(
+2011
+)
+Pressure Relief Device Standards—Part 1—Cylinders for Compressed Gases
+S-1.2—(
+2005
+)
+Pressure Relief Device Standards—Part 2—Cargo and
+Portable Tanks
+for Compressed Gases
+S-1.3—(
+2008
+)
+Pressure Relief Device Standards—Part 3—Stationary Storage
+Containers
+for Compressed Gases
+V-1—(
+2005
+)
+Standard for Gas Cylinder Valve Outlet and Inlet Connections
+CGR
+Coast Guard Regulations
+c/o Superintendent of Documents
+U.S. Government Printing Office
+Washington, DC 20402-9325
+Standard
+Reference
+Number
+Title
+Reserved
+.
+CPSC
+Consumer Product Safety Commission
+4330 East West
+Highway
+Bethesda, MD 20814
+Standard
+Reference
+Number
+Title
+16 CFR Section 1500.41
+Method for Testing Primary
+Irritant
+Substances
+16 CFR Section 1500.42
+Test for Eye
+Irritants
+16 CFR Section 1500.44
+Method for Testing Extremely Flammable and
+Flammable Solids
+DOC
+U.S.
+Department
+of Commerce
+100 Bureau Drive, Stop 3460
+Gaithersburg, MD 20899
+Standard
+Reference
+Number
+Title
+16 CFR Part 1632
+Standard for the Flammability of Mattress and Mattress Pads (FF 4—72, Amended)
+DOJ
+U.S.
+Department
+of Justice
+Bureau of Alcohol, Tobacco, Firearms and
+Explosives
+c/o Superintendent of Documents
+U.S. Government Printing Office
+Washington, DC 20402-9325
+Standard
+Reference
+Number
+Title
+27 CFR Part 555
+Commerce in
+Explosives
+DOL
+U.S.
+Department
+of Labor
+c/o Superintendent of Documents
+U.S. Government Printing Office
+Washington, DC 20402-9325
+Standard
+Reference
+Number
+Title
+29 CFR Section 1910.1000
+Air Contaminants
+29 CFR Section 1910.1200
+Hazard Communication
+DOTn
+U.S.
+Department
+of Transportation
+Office of Hazardous Material Standards
+400
+7
+th
+Street, Southwest
+Washington, DC 20590
+Standard
+Reference
+Number
+Title
+49 CFR Parts (100-180)
+Hazardous Materials
+Regulations
+49 CFR Parts 190-199
+Pipeline Safety
+49 CFR Parts 350-399
+Federal Motor Carrier Safety Regulations
+EN
+European Committee for Standardization (EN)
+Central Secretariat
+Rue de Stassart 36
+B-10 50 Brussels
+Standard
+Reference
+Number
+Title
+European Standard
+EN 1081: 1998
+Resilient Floor Coverings—Determination of the
+Electrical
+Resistance
+EPA
+Environmental Protection Agency
+Ariel Rios Building
+1200 Pennsylvania Avenue, NW
+Washington, DC 20460
+Standard
+Reference
+Number
+Title
+40 CFR Part 112
+Oil Pollution Prevention
+40 CFR Part 280
+Technical Standards and Corrective Action Requirements for
+Owners
+and Operators of Underground Storage
+Tanks
+(UST)
+FM
+Factory Mutual Global Research
+Standards Laboratories
+Department
+1301 Atwood Avenue, P.O. Box 7500
+Johnston, RI 02919
+Standard
+Reference
+Number
+Title
+ANSI/FM 4996—13
+Approval Standard for Classification of Pallets and Other Material
+Handling
+Products as Equivalent to Wood Pallets
+IIAR
+International Institute of Ammonia Refrigeration
+1001
+N. Fairfax Street, Suite
+503
+Alexandria, VA 22314
+Standard
+Reference
+Number
+Title
+IIAR-2—2014
+Equipment,
+Design and Installation
+of Closed-Circuit Ammonia
+Refrigerating Systems
+IIAR-6—2019
+Inspection, Testing, and
+Maintenance
+of Safe Closed-Circuit Ammonia Refrigeration
+Systems
+IIAR-7—2019
+Developing Operating Procedures for Closed-Circuit Ammonia Mechanical
+Refrigerating Systems
+IIAR-8—2020
+Decommissioning of Closed-Circuit Ammonia Refrigeration
+Systems
+IIAR-9—2020
+Minimum
+System
+Safety Requirements for Existing Closed-Circuit Ammonia Refrigeration
+Systems
+IKECA
+International Kitchen Exhaust Cleaning Association
+100 North 20th Street, Suite 400
+Philadelphia, PA 19103
+Standard
+Reference
+Number
+Title
+C10—
+2011
+ANSI/IKECA
+Standard for Cleaning of
+Commercial Kitchen
+Exhaust
+Systems
+ISO
+International Organization for Standardization (ISO)
+ISO Central Secretariat
+1 ch, de la Voie-Creuse, Case postale 56
+CH-1211 Geneva 20, Switzerland
+Standard
+Reference
+Number
+Title
+ISO 8115—86
+Cotton Bales—Dimensions and Density
+NEMA
+National
+Electrical
+Manufacturer's Association
+1300 N. 17th Street
+Suite 1847
+Rosslyn, VA 22209
+Standard
+Reference
+Number
+Title
+250—
+2003
+Enclosures for
+Electrical Equipment
+(1,000 Volt Maximum)
+NFPA
+National
+Fire
+Protection Association
+Batterymarch Park
+Quincy, MA 02269
+Standard
+Reference
+Number
+Title
+2—16
+Hydrogen Technologies Code
+10—13
+Portable
+Fire
+Extinguishers
+11—10
+Low-, Medium- and High-Expansion Foam
+12—11
+Carbon Dioxide Extinguishing
+Systems
+12A—09
+Halon 1301
+Fire Extinguishing Systems
+13—16
+Installation of
+Sprinkler Systems
+13R—16
+Standard for the Installation of
+Sprinkler Systems
+in Low-Rise Residential
+Occupancies
+15—17
+Standard for Water Spray Fixed
+Systems
+for
+Fire
+Protection
+16—15
+Installation of Foam-Water Sprinkler and Foam-Water Spray
+Systems
+17—13
+Dry
+Chemical
+Extinguishing
+Systems
+17A—13
+Wet
+Chemical
+Extinguishing
+Systems
+20—16
+Installation of Stationary Pumps for
+Fire
+Protection
+22—13
+Water
+Tanks
+for Private
+Fire
+Protection
+24—13
+Installation of Private
+Fire
+Service Mains and their Appurtenances
+25—14
+Inspection, Testing and
+Maintenance
+of Water-Based
+Fire Protection Systems
+30—12
+Flammable and
+Combustible Liquids
+Code
+30A—15
+Code for Motor Fuel-
+Dispensing
+Facilities
+and
+Repair Garages
+30B—15
+Manufacture and Storage of
+Aerosol
+Products
+32—16
+Standard for Drycleaning
+Facilities
+33—16
+Spray
+Application
+Using Flammable or Combustible Materials
+34—15
+Dipping, Coating, and Printing Processes Using Flammable or
+Combustible Liquids
+35—11
+Manufacture of
+Organic Coatings
+40—11
+Storage and
+Handling
+of Cellulose Nitrate Film
+45—15
+Fire
+Protection for Laboratories Using
+Chemicals
+51—13
+Design and Installation of Oxygen-Fuel Gas Systems
+for Welding, Cutting, and Allied Processes
+52—13
+Vehicular
+Natural Gas
+Fuel
+Systems
+Code
+55—13
+Compressed Gases and
+Cryogenic Fluids
+Code
+56—12
+Standard for
+Fire
+and
+Explosion
+Prevention During Cleaning and Purging of
+Flammable Gas
+Piping
+Systems
+58—14
+Liquefied Petroleum Gas
+Code
+61—13
+Prevention of
+Fires
+and Dust
+Explosions
+in Agricultural and Food Processing
+Facilities
+68—2018
+Standard on
+Explosion
+Protection by
+Deflagration
+Venting
+69—14
+Explosion
+Prevention
+Systems
+72—16
+National
+Fire
+Alarm and Signaling Code
+76—16
+Standard for the
+Fire
+Protection of Telecommunications
+Facilities
+77—07
+Recommended Practice on Static Electricity
+80—13
+Fire
+Doors and Other Opening Protectives
+85—15
+Boiler and Combustion
+System
+Hazards Code
+86—15
+Ovens and
+Furnaces
+88A—19
+Standard for Parking Structures
+96—17
+Standard for
+Ventilation
+Control and
+Fire
+Protection of Commercial Cooking Operations
+99—15
+Health Care
+Facilities
+Code
+105
+—13
+Standard for Smoke Door Assemblies and Other Opening Protectives
+110
+—13
+Emergency and Standby Power
+Systems
+111
+—13
+Stored
+Electrical
+Energy Emergency and Standby Power
+Systems
+120—15
+Fire
+Prevention and Control in Coal Mines
+130—20
+Fixed Guideway Transit and Passenger Rail
+Systems
+140—18
+Standard on Motion Picture and Television Production Studio Soundstages,
+Approved
+Production
+Facilities
+, and
+Production Locations
+160—11
+Use of Flame Effects Before an Audience
+241—13
+Safeguarding Construction,
+Alteration
+, and Demolition Operations
+260—13
+Methods of Tests and Classification
+System
+for Cigarette Ignition Resistance of Components of Upholstered Furniture
+261—13
+Method of Test for Determining Resistance of Mock-Up Upholstered Furniture Material Assemblies to Ignition by Smoldering Cigarettes
+289—13
+Method of
+Fire
+Test for Individual Fuel Packages
+303
+—11
+Fire
+Protection Standard for
+Marinas
+and Boatyards
+307
+—2021
+Standard for the Construction and
+Fire
+Protection of Marine Terminals,
+Piers
+, and
+Wharves
+318
+—15
+Standard for the Protection of
+Semiconductor Fabrication Facilities
+326—10
+Standard for the Safeguarding of
+Tanks
+and
+Containers
+for Entry, Cleaning or Repair
+385—12
+Standard for
+Tank
+Vehicles for Flammable and
+Combustible Liquids
+400—13
+Hazardous Materials
+Code
+407
+—12
+Aircraft Fuel Servicing
+484—15
+Combustible Metals
+495—13
+Explosive
+Materials Code
+498—13
+Safe Havens and Interchange Lots for Vehicles Transporting
+Explosives
+502
+—20
+Road Tunnels, Bridges and Other Limited Access
+Highways
+505
+—13
+Fire
+Safety Standard for
+Powered Industrial Trucks
+Including Type Designations, Areas of Use,
+Conversions
+,
+Maintenance
+, and Operations
+652—16
+Standard on the Fundamentals of
+Combustible Dust
+654—13
+Prevention of
+Fire
+and Dust
+Explosions
+from the Manufacturing, Processing, and
+Handling
+of Combustible Particulate
+Solids
+655—12
+Prevention of Sulfur
+Fires
+and
+Explosions
+664—12
+Standard for the Prevention of
+Fires
+and
+Explosions
+in Wood Processing and
+Woodworking Facilities
+701
+—10
+Standard Methods of
+Fire
+Tests for Flame-Propagation of Textiles and Films
+704
+—12
+Identification of the Hazards of Materials for Emergency Response
+720—15
+Installation of Carbon Monoxide (CO) Detection and Warning Equipment
+750—15
+Standard on Water Mist
+Fire Protection Systems
+780—08
+Standard for the Installation of Lightning Protection
+Systems
+820—08
+Fire
+Protection in Wastewater Treatment and Collection
+Facilities
+850—10
+Fire
+Protection for Electric Generating Plants and High Voltage Direct Current Converter Stations
+855—20
+Standard for the Installation of
+Stationary Energy Storage Systems
+1122—13
+Model Rocketry
+1123—14
+Fireworks Display
+1124—17
+Code for the Manufacture, Transportation, Storage, and Retail Sales of
+Fireworks
+and
+Pyrotechnic
+Articles
+1125—12
+Manufacture of Model Rocket and High Power Rocket Motors
+1126—11
+Use of
+Pyrotechnics
+Before a
+Proximate Audience
+1127—13
+High Power Rocketry
+2001
+—15
+Clean Agent
+Fire Extinguishing Systems
+2010
+—15
+Fixed
+Aerosol
+Fire Extinguishing Systems
+UL
+Underwriters Laboratories, Inc.
+333 Pfingsten Road
+Northbrook, IL 60062
+Standard
+Reference
+Number
+Title
+30—95
+Metal
+Safety Cans
+—with Revisions through July
+2009
+80—07
+Standard for
+Steel
+Tanks
+for Oil-Burner Fuels and Other Combustible
+Liquids
+—with revisions through August
+2009
+142—06
+Standard for
+Steel
+Aboveground
+Tanks
+for Flammable and Combustible
+Liquids
+—with revisions through February 12,
+2010
+268—09
+Standard for
+Smoke Detectors
+for
+Fire Alarm Systems
+300—05
+Fire
+Testing of
+Fire Extinguishing Systems
+for Protection of Commercial Cooking Equipment—with revisions through July
+2010
+300A—06
+Outline of Investigation for Extinguishing
+System
+Units for Residential Range Top Cooking Surfaces
+325
+—02
+Door, Drapery, Gate, Louver, and Window Operators and
+Systems
+—with Revisions through February
+2006
+499—05
+Standard for Electric Heating Appliances—with revisions through February 2013
+864—03
+Standard for Control Units and Accessories for Fire Alarm
+Systems
+—with revisions through December 2014
+900—04
+Air Filter Units—with revisions through February 2012
+1275—05
+Flammable Liquid
+Storage Cabinets—with Revisions through February
+2010
+1313—93
+Standard for Nonmetallic
+Safety Cans
+for Petroleum Products—with Revisions through November 2012
+1315—95
+Standard for Safety for Metal Waste Paper
+Containers
+—with Revisions through September 2012
+1564—15
+Standard for Industrial Battery Chargers
+1741—10
+Standard for Inverters, Converters, Controllers and Interconnection
+System
+Equipment for Use With Distributed Energy Resources
+1973—18
+Standard for Batteries for Use in Stationary, Vehicle Auxiliary Power and Light Electric Rail (LER)
+Applications
+1975—06
+Fire
+Tests for Foamed Plastics Used for Decorative Purpose
+2017—08
+Standard for
+General
+-Purpose Signaling Devices and
+Systems
+—with revisions through May
+2011
+2075—13
+Standard for Gas and Vapor Detectors and Sensors
+2085—97
+Protected Aboveground Tanks
+for Flammable and Combustible
+Liquids
+—with Revisions through September
+2010
+2200—12
+Standard for Stationary Engine Generator Assemblies—with revisions through June 2013
+2208—10
+Solvent Distillation Units
+—with revisions through March
+2011
+2272—16
+Standard for
+Electrical
+Systems
+for Personal E-Mobility Devices
+2335—10
+Fire
+Tests of Storage Pallets—with Revisions through September 2012
+2360—00
+Standard for Test Methods for Determining the combustibility characteristics of Plastics Used in Semi-Conductor
+Tool
+Construction—with revisions through May 2013
+2849—20
+Standard for
+Electrical
+Systems
+for eBikes
+9540—20
+Standard for Energy Storage
+Systems
+and Equipment
+9540A—19
+Standard for Test Method for Evaluating Thermal Runaway
+Fire
+Propagation in Battery Energy Storage
+Systems
+, 4
+th
+edition
+, November 2019
+
+---
+

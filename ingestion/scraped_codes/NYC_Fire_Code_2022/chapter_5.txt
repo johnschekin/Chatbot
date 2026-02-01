@@ -1,0 +1,5322 @@
+# NYC Fire Code 2022 - Chapter 5
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+501 General
+
+---
+
+502 Definitions
+
+---
+
+503 Fire Apparatus Access
+
+---
+
+504 Building and Rooftop Access
+
+---
+
+505 Premises Identification
+
+---
+
+506 Keys and Key Access
+
+---
+
+507 Fire Protection Water Supplies
+
+---
+
+508 Reserved
+
+---
+
+509 Fire Protection and Utility Equipment Identification and Access
+
+---
+
+510 In-Building Auxiliary Radio Communication Systems
+
+---
+
+511 High-Rise Megastructure Fire Operations
+
+---
+
+512 Rooftop Solar Panel Installations
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Section 501 General
+
+---
+
+## Section 501.1: Scope
+
+501.1 Scope
+This chapter shall govern the design, installation, operation and
+maintenance
+of buildings, structures and
+premises
+with respect to requirements designed to ensure safe and effective firefighting operations.
+
+---
+
+This chapter shall govern the design, installation, operation and
+maintenance
+of buildings, structures and
+premises
+with respect to requirements designed to ensure safe and effective firefighting operations.
+
+---
+
+## Section 501.2: Permits
+
+501.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 501.3: Reserved
+
+501.3 Reserved
+
+---
+
+## Section 501.4: General
+
+501.4 General
+Buildings, structures and
+premises
+shall be designed, installed, operated and maintained in accordance with this chapter.
+
+---
+
+Buildings, structures and
+premises
+shall be designed, installed, operated and maintained in accordance with this chapter.
+
+---
+
+## Section 501.4.1: Newly-Constructed Buildings and Structures
+
+501.4.1 Newly-Constructed Buildings and Structures
+When
+fire apparatus access roads
+,
+frontage spaces
+, private hydrants or yard hydrants are required to be installed in connection with a newly constructed building or structure, such roads,
+frontage spaces
+and hydrants shall be installed and made serviceable prior to and during the time of construction, except that, in connection with a phased development, the provision of
+fire
+apparatus access and water supply shall be as set forth in
+design and installation documents
+approved
+by the
+department
+. Interim access and water supply arrangements will be considered pending completion of heavy construction that would damage the roads or piping, provided that such arrangements would not unduly impair firefighting operations. Temporary signs shall be installed at each street intersection when construction of new roadways allows passage by
+motor vehicles
+in accordance with
+FC505.2
+.
+
+---
+
+When
+fire apparatus access roads
+,
+frontage spaces
+, private hydrants or yard hydrants are required to be installed in connection with a newly constructed building or structure, such roads,
+frontage spaces
+and hydrants shall be installed and made serviceable prior to and during the time of construction, except that, in connection with a phased development, the provision of
+fire
+apparatus access and water supply shall be as set forth in
+design and installation documents
+approved
+by the
+department
+. Interim access and water supply arrangements will be considered pending completion of heavy construction that would damage the roads or piping, provided that such arrangements would not unduly impair firefighting operations. Temporary signs shall be installed at each street intersection when construction of new roadways allows passage by
+motor vehicles
+in accordance with
+FC505.2
+.
+
+---
+
+## Section 501.4.2: Lawfully Existing Fire Department Access
+
+501.4.2 Lawfully Existing Fire Department Access
+Fire
+department
+access to buildings, structures and
+premises
+not fronting on a
+public street
+may be continued in compliance with the provisions of FC 102.3, 102.4, and 102.5, when such
+fire
+department
+access was lawfully existing as of June 30, 2008 or the date of an amendment to this code relating to
+fire
+department
+access. The
+private roads
+providing such lawfully existing
+fire
+department
+access shall be deemed to constitute
+fire apparatus access roads
+pursuant to this chapter.
+
+---
+
+Fire
+department
+access to buildings, structures and
+premises
+not fronting on a
+public street
+may be continued in compliance with the provisions of FC 102.3, 102.4, and 102.5, when such
+fire
+department
+access was lawfully existing as of June 30, 2008 or the date of an amendment to this code relating to
+fire
+department
+access. The
+private roads
+providing such lawfully existing
+fire
+department
+access shall be deemed to constitute
+fire apparatus access roads
+pursuant to this chapter.
+
+---
+
+## Section 501.4.3: Alterations and Change of Occupancy
+
+501.4.3 Alterations and Change of Occupancy
+A building or structure undergoing
+alteration
+or a change of
+occupancy
+under the circumstances set forth in
+FC 501.4.3.1
+and
+501.4.3.2
+shall comply with the requirements set forth in said sections.
+
+---
+
+A building or structure undergoing
+alteration
+or a change of
+occupancy
+under the circumstances set forth in
+FC 501.4.3.1
+and
+501.4.3.2
+shall comply with the requirements set forth in said sections.
+
+---
+
+## Section 501.4.3.1: Provision of Sprinkler Protection in Altered Buildings on Substandard Width Public Streets and Fire Apparatus Access Roads
+
+501.4.3.1 Provision of Sprinkler Protection in Altered Buildings on Substandard Width Public Streets and Fire Apparatus Access Roads
+An existing building or structure that undergoes
+alteration
+or a change in use or
+occupancy
+and which is located on a
+public street
+or
+fire apparatus access road
+that has a substandard road width as set forth in
+FC503.2.10
+or
+503.3.2
+shall install a
+sprinkler system
+throughout such building, when:
+The cost of making
+alterations
+to the building (other than
+alterations
+made to
+Group R
+-3
+occupancies
+) in any 12-month period exceeds 60 percent of the value of the building, as set forth in
+New York City Administrative Code
+§27-115; or
+By reason of
+alteration
+or otherwise, there is a change in the "main use or dominant
+occupancy
+" of the building, as determined by the New York City
+Department of Buildings
+for purposes of assigning a single
+occupancy
+classification to the building, including any change from a
+Group R
+-3
+occupancy
+to a
+Group R
+-2
+occupancy
+, but excluding a change in use or
+occupancy
+that is limited to restoring a building that was originally constructed as a one-family or two-family dwelling to its original one-family or two-family use and
+occupancy
+; or
+There is an increase of more than 125 percent in the square footage of the floor area of a building (excluding attic, basement and cellar space, as those terms are defined in Section 202 of the
+Building Code
+); or
+There is a change constituting an
+alteration
+under the
+Building Code
+(excluding rooftop equipment installations) to a building of combustible (non-fireproof) construction with a height of 35 feet (10 668 mm) or less above the grade plane, that increases the height of such building to more than 35 feet (10 668 mm) above the grade plane (with the terms "grade plane" and "building height" having the meanings set forth in
+Section 502.1
+of the
+Building Code
+); or
+A one-family
+Group R
+-3
+occupancy
+is being altered to a two-family
+Group R
+-3
+occupancy
+, except where:
+the
+alteration
+involves converting a basement space to a separate dwelling unit, and the new basement dwelling unit is protected throughout by a
+sprinkler system
+; or
+the
+alteration
+does not involve converting a basement space to a separate dwelling unit, and either at least two lawful accessory off-street parking spaces are provided on the
+premises
+, or sufficient space exists to park two
+motor vehicles
+on a common driveway shared exclusively with an adjoining
+Group R
+-3
+occupancy
+.
+
+---
+
+An existing building or structure that undergoes
+alteration
+or a change in use or
+occupancy
+and which is located on a
+public street
+or
+fire apparatus access road
+that has a substandard road width as set forth in
+FC503.2.10
+or
+503.3.2
+shall install a
+sprinkler system
+throughout such building, when:
+The cost of making
+alterations
+to the building (other than
+alterations
+made to
+Group R
+-3
+occupancies
+) in any 12-month period exceeds 60 percent of the value of the building, as set forth in
+New York City Administrative Code
+§27-115; or
+By reason of
+alteration
+or otherwise, there is a change in the "main use or dominant
+occupancy
+" of the building, as determined by the New York City
+Department of Buildings
+for purposes of assigning a single
+occupancy
+classification to the building, including any change from a
+Group R
+-3
+occupancy
+to a
+Group R
+-2
+occupancy
+, but excluding a change in use or
+occupancy
+that is limited to restoring a building that was originally constructed as a one-family or two-family dwelling to its original one-family or two-family use and
+occupancy
+; or
+There is an increase of more than 125 percent in the square footage of the floor area of a building (excluding attic, basement and cellar space, as those terms are defined in Section 202 of the
+Building Code
+); or
+There is a change constituting an
+alteration
+under the
+Building Code
+(excluding rooftop equipment installations) to a building of combustible (non-fireproof) construction with a height of 35 feet (10 668 mm) or less above the grade plane, that increases the height of such building to more than 35 feet (10 668 mm) above the grade plane (with the terms "grade plane" and "building height" having the meanings set forth in
+Section 502.1
+of the
+Building Code
+); or
+A one-family
+Group R
+-3
+occupancy
+is being altered to a two-family
+Group R
+-3
+occupancy
+, except where:
+the
+alteration
+involves converting a basement space to a separate dwelling unit, and the new basement dwelling unit is protected throughout by a
+sprinkler system
+; or
+the
+alteration
+does not involve converting a basement space to a separate dwelling unit, and either at least two lawful accessory off-street parking spaces are provided on the
+premises
+, or sufficient space exists to park two
+motor vehicles
+on a common driveway shared exclusively with an adjoining
+Group R
+-3
+occupancy
+.
+
+---
+
+## Section 501.4.3.2: Compliance With Rooftop Access Requirements on Altered Rooftops
+
+501.4.3.2 Compliance With Rooftop Access Requirements on Altered Rooftops
+The rooftop of an existing building or structure that undergoes
+alteration
+shall comply with the requirements of
+FC504.4
+.
+
+---
+
+The rooftop of an existing building or structure that undergoes
+alteration
+shall comply with the requirements of
+FC504.4
+.
+
+---
+
+Section 502 Definitions
+
+---
+
+## Section 502.1: Definitions
+
+502.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+CITYWIDE STANDARD KEY
+.
+FIRE APPARATUS ACCESS ROAD
+.
+FIRE
+DEPARTMENT
+STANDARD KEY.
+FIRE LANE
+.
+FRONTAGE SPACE
+.
+HIGH-RISE MEGASTRUCTURE
+.
+KEY BOX
+.
+MULTI-FLOOR DWELLING UNIT
+.
+PRIVATE ROAD
+.
+PUBLIC STREET
+.
+TRAFFIC CALMING DEVICES
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+CITYWIDE STANDARD KEY
+.
+FIRE APPARATUS ACCESS ROAD
+.
+FIRE
+DEPARTMENT
+STANDARD KEY.
+FIRE LANE
+.
+FRONTAGE SPACE
+.
+HIGH-RISE MEGASTRUCTURE
+.
+KEY BOX
+.
+MULTI-FLOOR DWELLING UNIT
+.
+PRIVATE ROAD
+.
+PUBLIC STREET
+.
+TRAFFIC CALMING DEVICES
+.
+
+---
+
+Section 503 Fire Apparatus Access
+
+---
+
+## Section 503.1: General
+
+503.1 General
+Buildings shall be accessible to
+department
+fire
+apparatus by way of a
+public street
+or
+approved
+fire apparatus access road
+. The
+public street
+or
+fire apparatus access road
+shall provide access to the
+frontage space
+of the building.
+
+---
+
+Buildings shall be accessible to
+department
+fire
+apparatus by way of a
+public street
+or
+approved
+fire apparatus access road
+. The
+public street
+or
+fire apparatus access road
+shall provide access to the
+frontage space
+of the building.
+
+---
+
+## Section 503.2: Fire Apparatus Access Roads
+
+503.2 Fire Apparatus Access Roads
+Fire apparatus access roads
+shall be provided, designed, installed and maintained in accordance with this section.
+
+---
+
+Fire apparatus access roads
+shall be provided, designed, installed and maintained in accordance with this section.
+
+---
+
+## Section 503.2.1: Where Required
+
+503.2.1 Where Required
+Where the
+frontage space
+to a building does not directly front on a
+public street
+, a
+fire apparatus access road
+shall be provided from the
+public street
+to the
+frontage space
+of such building.
+
+---
+
+Where the
+frontage space
+to a building does not directly front on a
+public street
+, a
+fire apparatus access road
+shall be provided from the
+public street
+to the
+frontage space
+of such building.
+
+---
+
+## Section 503.2.2: Design and Construction
+
+503.2.2 Design and Construction
+Except as otherwise provided in
+FC503.2.4
+, a
+fire apparatus access road
+shall be designed and constructed in accordance with the standards of the New York City
+Department
+of Transportation and in compliance with the following requirements:
+
+---
+
+Except as otherwise provided in
+FC503.2.4
+, a
+fire apparatus access road
+shall be designed and constructed in accordance with the standards of the New York City
+Department
+of Transportation and in compliance with the following requirements:
+
+---
+
+## Section 503.2.2.1: Surface
+
+503.2.2.1 Surface
+Fire apparatus access roads
+shall have an all-weather driving surface constructed of asphalt, concrete or other
+approved
+permeable or impermeable material.
+
+---
+
+Fire apparatus access roads
+shall have an all-weather driving surface constructed of asphalt, concrete or other
+approved
+permeable or impermeable material.
+
+---
+
+## Section 503.2.2.2: Load-Bearing Capacity
+
+503.2.2.2 Load-Bearing Capacity
+Fire apparatus access roads
+shall be capable of supporting the imposed load of
+department
+apparatus weighing at least
+80
+,000 pounds (36 320 kg) and the operational load of
+department
+apparatus outrigger of
+52
+,000 pounds (23 608 kg) over a 2 foot (610 mm) by 2 foot (610 mm) area.
+
+---
+
+Fire apparatus access roads
+shall be capable of supporting the imposed load of
+department
+apparatus weighing at least
+80
+,000 pounds (36 320 kg) and the operational load of
+department
+apparatus outrigger of
+52
+,000 pounds (23 608 kg) over a 2 foot (610 mm) by 2 foot (610 mm) area.
+
+---
+
+## Section 503.2.2.3: Grade
+
+503.2.2.3 Grade
+The grade of the
+fire apparatus access road
+shall not exceed 10 percent unless
+approved
+by the
+commissioner
+.
+
+---
+
+The grade of the
+fire apparatus access road
+shall not exceed 10 percent unless
+approved
+by the
+commissioner
+.
+
+---
+
+## Section 503.2.2.4: Turning Radius
+
+503.2.2.4 Turning Radius
+The required turning radius of a
+fire apparatus access road
+shall be determined by the
+commissioner
+.
+
+---
+
+The required turning radius of a
+fire apparatus access road
+shall be determined by the
+commissioner
+.
+
+---
+
+## Section 503.2.2.5: Bridges and Elevated Surfaces
+
+503.2.2.5 Bridges and Elevated Surfaces
+Any bridge or elevated surface on a
+fire apparatus access road
+shall be designed for a live load sufficient to carry the imposed loads of
+fire
+apparatus. Signs shall be posted at both entrances to any bridge or elevated surfaces not capable of carrying such a load. Roadways or surfaces not capable of carrying such load that adjoin
+fire
+apparatus roads shall be separated by
+approved
+barriers and/or marked by
+approved
+signs.
+
+---
+
+Any bridge or elevated surface on a
+fire apparatus access road
+shall be designed for a live load sufficient to carry the imposed loads of
+fire
+apparatus. Signs shall be posted at both entrances to any bridge or elevated surfaces not capable of carrying such a load. Roadways or surfaces not capable of carrying such load that adjoin
+fire
+apparatus roads shall be separated by
+approved
+barriers and/or marked by
+approved
+signs.
+
+---
+
+## Section 503.2.2.6: Angles of Approach
+
+503.2.2.6 Angles of Approach
+The angles of approach and departure for
+fire apparatus access roads
+shall be within the limits established by the
+department
+based on the
+department
+'s
+fire
+apparatus.
+
+---
+
+The angles of approach and departure for
+fire apparatus access roads
+shall be within the limits established by the
+department
+based on the
+department
+'s
+fire
+apparatus.
+
+---
+
+## Section 503.2.3: Roadway Width and Vertical Clearance
+
+503.2.3 Roadway Width and Vertical Clearance
+Fire apparatus access roads
+shall have an unobstructed width of not less than 34 feet (10 363 mm) excluding shoulders, except as provided in
+FC 503.2.3.1
+through
+503.2.3.4
+, and an unobstructed vertical clearance of not less than 14 feet (4267 mm).
+
+---
+
+Fire apparatus access roads
+shall have an unobstructed width of not less than 34 feet (10 363 mm) excluding shoulders, except as provided in
+FC 503.2.3.1
+through
+503.2.3.4
+, and an unobstructed vertical clearance of not less than 14 feet (4267 mm).
+
+---
+
+## Section 503.2.3.1: Special Zoning Districts
+
+503.2.3.1 Special Zoning Districts
+In Special Hillside Preservation Districts complying with the requirements of Section 119-214 of the
+Zoning Resolution
+, or other special zoning district regulation restricting the width of streets or
+private roads
+to less than 34 feet (10 363 mm), a
+fire apparatus access road
+shall have an unobstructed width of not less than 30 feet (9144 mm), excluding shoulders.
+
+---
+
+In Special Hillside Preservation Districts complying with the requirements of Section 119-214 of the
+Zoning Resolution
+, or other special zoning district regulation restricting the width of streets or
+private roads
+to less than 34 feet (10 363 mm), a
+fire apparatus access road
+shall have an unobstructed width of not less than 30 feet (9144 mm), excluding shoulders.
+
+---
+
+## Section 503.2.3.2: Small Residential Developments
+
+503.2.3.2 Small Residential Developments
+Where access is being provided to residential developments of not more than five dwelling units, and all buildings to which the road provides access are protected throughout by a
+sprinkler system
+, a
+fire apparatus access road
+shall have an unobstructed width of not less than 30 feet (9144 mm), excluding shoulders.
+
+---
+
+Where access is being provided to residential developments of not more than five dwelling units, and all buildings to which the road provides access are protected throughout by a
+sprinkler system
+, a
+fire apparatus access road
+shall have an unobstructed width of not less than 30 feet (9144 mm), excluding shoulders.
+
+---
+
+## Section 503.2.3.3: Buildings Set Back From Street
+
+503.2.3.3 Buildings Set Back From Street
+Where the main front entrance to a building is set back more than 40 feet (12 192 mm) from the curb line, a
+fire apparatus access road
+shall have the unobstructed width and comply with the other requirements set forth in
+FC503.2.4
+.
+
+---
+
+Where the main front entrance to a building is set back more than 40 feet (12 192 mm) from the curb line, a
+fire apparatus access road
+shall have the unobstructed width and comply with the other requirements set forth in
+FC503.2.4
+.
+
+---
+
+## Section 503.2.3.4: Special Conditions
+
+503.2.3.4 Special Conditions
+Where the
+commissioner
+determines that the nature and location of the building served by the
+fire
+apparatus road or other site conditions render such roadway width or vertical clearance inadequate for firefighting or other emergency response operations, the
+commissioner
+may require that the roadway width or vertical clearance be increased.
+
+---
+
+Where the
+commissioner
+determines that the nature and location of the building served by the
+fire
+apparatus road or other site conditions render such roadway width or vertical clearance inadequate for firefighting or other emergency response operations, the
+commissioner
+may require that the roadway width or vertical clearance be increased.
+
+---
+
+## Section 503.2.4: Buildings Set Back From Street
+
+503.2.4 Buildings Set Back From Street
+Where the main front entrance to a building is set back more than 40 feet (12 192 mm) from the curb line, a
+fire apparatus access road
+with the unobstructed roadway width required by
+FC503.2.3
+shall be provided to the
+frontage space
+of the building, except as otherwise provided in
+FC 503.2.4.1
+through
+503.2.4.3
+.
+
+---
+
+Where the main front entrance to a building is set back more than 40 feet (12 192 mm) from the curb line, a
+fire apparatus access road
+with the unobstructed roadway width required by
+FC503.2.3
+shall be provided to the
+frontage space
+of the building, except as otherwise provided in
+FC 503.2.4.1
+through
+503.2.4.3
+.
+
+---
+
+## Section 503.2.4.1: Group R-3 Occupancies Set Back 100 Feet or Less
+
+503.2.4.1 Group R-3 Occupancies Set Back 100 Feet or Less
+The
+fire apparatus access road
+to a
+Group R
+-3 building with any main front entrance located more than 40 feet (12 192 mm) but not more than 100 feet (30 480 mm) from the street line (as measured along the route of the
+fire apparatus access road
+) may be designed and constructed in compliance with the requirements of the
+Building Code
+for driveways where:
+The driveway is designed and is used exclusively to provide access only to a single
+Group R
+-3 building and no more than 1 ancillary dwelling unit, as defined in Section U102 of the
+Building Code
+, and to no other buildings; and
+The height of the
+Group R
+-3 building or an ancillary dwelling unit does not exceed 35 feet (10 668 mm) above the grade plane (with the terms "building height" and "grade plane" having the meanings set forth in Section
+BC502.1
+of the
+Building Code
+); and
+The driveway provides access to the
+frontage space
+of each
+occupancy
+, except as otherwise provided in
+FC504.1.2
+; and
+The dwelling units are equipped with interconnected
+smoke alarms
+, in accordance with
+Section 907.2.11
+of the
+Building Code
+.
+
+---
+
+The
+fire apparatus access road
+to a
+Group R
+-3 building with any main front entrance located more than 40 feet (12 192 mm) but not more than 100 feet (30 480 mm) from the street line (as measured along the route of the
+fire apparatus access road
+) may be designed and constructed in compliance with the requirements of the
+Building Code
+for driveways where:
+The driveway is designed and is used exclusively to provide access only to a single
+Group R
+-3 building and no more than 1 ancillary dwelling unit, as defined in Section U102 of the
+Building Code
+, and to no other buildings; and
+The height of the
+Group R
+-3 building or an ancillary dwelling unit does not exceed 35 feet (10 668 mm) above the grade plane (with the terms "building height" and "grade plane" having the meanings set forth in Section
+BC502.1
+of the
+Building Code
+); and
+The driveway provides access to the
+frontage space
+of each
+occupancy
+, except as otherwise provided in
+FC504.1.2
+; and
+The dwelling units are equipped with interconnected
+smoke alarms
+, in accordance with
+Section 907.2.11
+of the
+Building Code
+.
+
+---
+
+## Section 503.2.4.2: Group R-3 Occupancies Set Back More Than 100-150 Feet
+
+503.2.4.2 Group R-3 Occupancies Set Back More Than 100-150 Feet
+The
+fire apparatus access road
+to a
+Group R
+-3 building with any main front entrance located more than 100 feet (30 480 mm) but not more than 150 feet (45 720 mm) from the street line (as measured along the route of the
+fire apparatus access road
+) shall be designed and constructed with an unobstructed width of not less than 20 feet (6096 mm) in accordance with
+FC503.2.2
+where:
+The
+fire apparatus access road
+is designed and is used exclusively to provide access only to a single
+Group R
+-3 building, and to no other buildings; and
+The height of the
+Group R
+-3 building does not exceed 35 feet (10 668 mm) above the grade plane (with the terms "building height" and "grade plane" having the meanings set forth in
+Section 502.1
+of the
+Building Code
+); and
+The
+fire apparatus access road
+provides access to the
+frontage space
+of each
+occupancy
+, except as otherwise provided in
+FC504.1.2
+; and
+The dwelling units are equipped with interconnected
+smoke alarms
+, in accordance with
+Section 907.2.11
+of the
+Building Code
+; and
+The dwelling units are protected throughout by a
+sprinkler system
+; and
+At least two off-street parking spaces for a one-family dwelling, and at least three such spaces for a two-family dwelling are provided on the
+premises
+separate from the
+fire apparatus access road
+; and
+Parking is prohibited on the
+fire apparatus access road
+, and a "No Parking" sign conforming to the requirements of
+FC503.2.7.2
+is conspicuously posted at the entrance to the access road.
+
+---
+
+The
+fire apparatus access road
+to a
+Group R
+-3 building with any main front entrance located more than 100 feet (30 480 mm) but not more than 150 feet (45 720 mm) from the street line (as measured along the route of the
+fire apparatus access road
+) shall be designed and constructed with an unobstructed width of not less than 20 feet (6096 mm) in accordance with
+FC503.2.2
+where:
+The
+fire apparatus access road
+is designed and is used exclusively to provide access only to a single
+Group R
+-3 building, and to no other buildings; and
+The height of the
+Group R
+-3 building does not exceed 35 feet (10 668 mm) above the grade plane (with the terms "building height" and "grade plane" having the meanings set forth in
+Section 502.1
+of the
+Building Code
+); and
+The
+fire apparatus access road
+provides access to the
+frontage space
+of each
+occupancy
+, except as otherwise provided in
+FC504.1.2
+; and
+The dwelling units are equipped with interconnected
+smoke alarms
+, in accordance with
+Section 907.2.11
+of the
+Building Code
+; and
+The dwelling units are protected throughout by a
+sprinkler system
+; and
+At least two off-street parking spaces for a one-family dwelling, and at least three such spaces for a two-family dwelling are provided on the
+premises
+separate from the
+fire apparatus access road
+; and
+Parking is prohibited on the
+fire apparatus access road
+, and a "No Parking" sign conforming to the requirements of
+FC503.2.7.2
+is conspicuously posted at the entrance to the access road.
+
+---
+
+## Section 503.2.4.3: Group R-3 Occupancies Set Back More Than 150 Feet
+
+503.2.4.3 Group R-3 Occupancies Set Back More Than 150 Feet
+The
+fire apparatus access road
+to a
+Group R
+-3 building with any main front entrance located more than 150 feet (45 720 mm) from the street line (as measured along the route of the
+fire apparatus access road
+) shall be designed and constructed in compliance with
+FC503.2.2
+, except as
+approved
+by the
+commissioner
+and subject to such conditions as the
+commissioner
+may require.
+
+---
+
+The
+fire apparatus access road
+to a
+Group R
+-3 building with any main front entrance located more than 150 feet (45 720 mm) from the street line (as measured along the route of the
+fire apparatus access road
+) shall be designed and constructed in compliance with
+FC503.2.2
+, except as
+approved
+by the
+commissioner
+and subject to such conditions as the
+commissioner
+may require.
+
+---
+
+## Section 503.2.5: Obstruction
+
+503.2.5 Obstruction
+Fire apparatus access roads
+shall not be obstructed in any manner that impedes vehicular access, except for lawful parking and
+approved
+traffic calming devices
+. The minimum widths and clearances required by
+FC503.2.3
+shall be maintained at all times, except with prior
+department
+approval.
+
+---
+
+Fire apparatus access roads
+shall not be obstructed in any manner that impedes vehicular access, except for lawful parking and
+approved
+traffic calming devices
+. The minimum widths and clearances required by
+FC503.2.3
+shall be maintained at all times, except with prior
+department
+approval.
+
+---
+
+## Section 503.2.5.1: Traffic Calming Device Signage
+
+503.2.5.1 Traffic Calming Device Signage
+Traffic calming devices
+shall be identified by
+approved
+signage or roadway markings.
+
+---
+
+Traffic calming devices
+shall be identified by
+approved
+signage or roadway markings.
+
+---
+
+## Section 503.2.6: Secondary Fire Apparatus Access
+
+503.2.6 Secondary Fire Apparatus Access
+The
+commissioner
+may require more than one
+fire apparatus access road
+to one or more buildings where
+fire
+apparatus access is impeded to or on the primary access road as a result of substandard width
+public streets
+, substandard width
+fire apparatus access roads
+, traffic patterns,
+traffic calming devices
+, railroad crossings, and other conditions that would significantly delay an emergency response.
+
+---
+
+The
+commissioner
+may require more than one
+fire apparatus access road
+to one or more buildings where
+fire
+apparatus access is impeded to or on the primary access road as a result of substandard width
+public streets
+, substandard width
+fire apparatus access roads
+, traffic patterns,
+traffic calming devices
+, railroad crossings, and other conditions that would significantly delay an emergency response.
+
+---
+
+## Section 503.2.7: Parking
+
+503.2.7 Parking
+Motor vehicles
+shall not be parked on
+fire apparatus access roads
+except in lawful parking spaces that do not obstruct
+fire
+apparatus access. Curbside street parking that is lawfully established in accordance with the
+Zoning Resolution
+,
+Building Code
+and/or other applicable laws,
+rules
+and regulations is allowed on any
+fire apparatus access road
+if such curbside street parking does not reduce the usable roadway width to less than 18 feet (5486 mm). This requirement shall not be applicable to
+fire apparatus access roads
+whose design and use for parking was lawfully existing prior to the effective date of this section. For purposes of this usable roadway width determination, the dimensions of each parking space shall not be less than established by the
+department
+, consistent with the regulations of the New York City
+Department
+of Transportation for vehicles intended to be parked in such spaces, or, in the absence of such standard, as
+approved
+by the
+department
+.
+
+---
+
+Motor vehicles
+shall not be parked on
+fire apparatus access roads
+except in lawful parking spaces that do not obstruct
+fire
+apparatus access. Curbside street parking that is lawfully established in accordance with the
+Zoning Resolution
+,
+Building Code
+and/or other applicable laws,
+rules
+and regulations is allowed on any
+fire apparatus access road
+if such curbside street parking does not reduce the usable roadway width to less than 18 feet (5486 mm). This requirement shall not be applicable to
+fire apparatus access roads
+whose design and use for parking was lawfully existing prior to the effective date of this section. For purposes of this usable roadway width determination, the dimensions of each parking space shall not be less than established by the
+department
+, consistent with the regulations of the New York City
+Department
+of Transportation for vehicles intended to be parked in such spaces, or, in the absence of such standard, as
+approved
+by the
+department
+.
+
+---
+
+## Section 503.2.7.1: Parking Regulations Necessitated by Roadway Configuration
+
+503.2.7.1 Parking Regulations Necessitated by Roadway Configuration
+The
+commissioner
+may restrict parking on
+fire
+apparatus roads where the angle of approach, curvature of the road, or other roadway configuration or site conditions impede the ability of
+fire
+apparatus to make turns or otherwise navigate the
+fire apparatus access road
+. Such restrictions shall constitute an operational requirement of this code.
+
+---
+
+The
+commissioner
+may restrict parking on
+fire
+apparatus roads where the angle of approach, curvature of the road, or other roadway configuration or site conditions impede the ability of
+fire
+apparatus to make turns or otherwise navigate the
+fire apparatus access road
+. Such restrictions shall constitute an operational requirement of this code.
+
+---
+
+## Section 503.2.7.2: Signage and Roadway Markings
+
+503.2.7.2 Signage and Roadway Markings
+On any
+fire apparatus access road
+upon which parking is prohibited, or upon which there are both lawful curbside street parking and parking restrictions, appropriate signage and/or roadway markings shall be provided in accordance with this section.
+
+---
+
+On any
+fire apparatus access road
+upon which parking is prohibited, or upon which there are both lawful curbside street parking and parking restrictions, appropriate signage and/or roadway markings shall be provided in accordance with this section.
+
+---
+
+## Section 503.2.7.2.1: Signage
+
+503.2.7.2.1 Signage
+Fire apparatus access roads
+subject to parking restrictions shall be marked with permanent NO PARKING—
+FIRE APPARATUS ACCESS ROAD
+signs complying with FC Figure 503.2.7.2.1. Signs shall have a minimum dimension of 12 inches (305 mm) wide by 18 inches (457 mm) high and have red letters on a white reflective background. Signs shall be posted on the sides of the
+fire apparatus access road
+upon which parking is prohibited.
+FC FIGURE 503.2.7.2.1
+NO PARKING SIGN
+FIRE APPARATUS ACCESS ROAD
+
+---
+
+Fire apparatus access roads
+subject to parking restrictions shall be marked with permanent NO PARKING—
+FIRE APPARATUS ACCESS ROAD
+signs complying with FC Figure 503.2.7.2.1. Signs shall have a minimum dimension of 12 inches (305 mm) wide by 18 inches (457 mm) high and have red letters on a white reflective background. Signs shall be posted on the sides of the
+fire apparatus access road
+upon which parking is prohibited.
+FC FIGURE 503.2.7.2.1
+NO PARKING SIGN
+FIRE APPARATUS ACCESS ROAD
+
+---
+
+## Section 503.2.7.2.2: Roadway Markings
+
+503.2.7.2.2 Roadway Markings
+Where required by the
+commissioner
+,
+approved
+roadway markings that include the words NO PARKING—
+FIRE APPARATUS ACCESS ROAD
+shall be provided for
+fire apparatus access roads
+to identify them as
+fire apparatus access roads
+.
+
+---
+
+Where required by the
+commissioner
+,
+approved
+roadway markings that include the words NO PARKING—
+FIRE APPARATUS ACCESS ROAD
+shall be provided for
+fire apparatus access roads
+to identify them as
+fire apparatus access roads
+.
+
+---
+
+## Section 503.2.8: Gates
+
+503.2.8 Gates
+The design of gates across a
+fire apparatus access road
+shall be in accordance with this section.
+
+---
+
+The design of gates across a
+fire apparatus access road
+shall be in accordance with this section.
+
+---
+
+## Section 503.2.8.1: Design Requirements
+
+503.2.8.1 Design Requirements
+Gates across a
+fire apparatus access road
+shall comply with the following requirements:
+The gates shall not encroach upon or otherwise reduce the required or
+approved
+width of a
+fire apparatus access road
+.
+Gates shall be of the swinging or sliding type.
+Manually-operated gates shall be designed to allow for operation by one person.
+Only
+approved
+locking devices shall be used.
+Manually-operated gates shall not be locked with a padlock or chain and padlock unless the padlock and chain are capable of being cut with standard bolt cutters.
+Automatically-operated gates shall be designed and installed in accordance with ASTM F 2200 and UL 325, as applicable, and shall have an
+approved
+means of manual operation for emergency access by firefighters and other emergency response personnel.
+
+---
+
+Gates across a
+fire apparatus access road
+shall comply with the following requirements:
+The gates shall not encroach upon or otherwise reduce the required or
+approved
+width of a
+fire apparatus access road
+.
+Gates shall be of the swinging or sliding type.
+Manually-operated gates shall be designed to allow for operation by one person.
+Only
+approved
+locking devices shall be used.
+Manually-operated gates shall not be locked with a padlock or chain and padlock unless the padlock and chain are capable of being cut with standard bolt cutters.
+Automatically-operated gates shall be designed and installed in accordance with ASTM F 2200 and UL 325, as applicable, and shall have an
+approved
+means of manual operation for emergency access by firefighters and other emergency response personnel.
+
+---
+
+## Section 503.2.8.2: Use to Restrict Access
+
+503.2.8.2 Use to Restrict Access
+The
+commissioner
+may require the installation of locked gates where access to a road is to be restricted for
+fire
+apparatus use. It shall be unlawful to operate or park a
+motor vehicle
+on a
+fire apparatus access road
+restricted in this manner unless authorized by the
+commissioner
+.
+
+---
+
+The
+commissioner
+may require the installation of locked gates where access to a road is to be restricted for
+fire
+apparatus use. It shall be unlawful to operate or park a
+motor vehicle
+on a
+fire apparatus access road
+restricted in this manner unless authorized by the
+commissioner
+.
+
+---
+
+## Section 503.2.9: Dead-End Roads
+
+503.2.9 Dead-End Roads
+Dead-end
+fire apparatus access roads
+more than 150 feet (45 720 mm) in length, as measured from the curb line of the nearest
+public street
+which is not itself a dead-end, shall be provided with an
+approved
+means by which
+fire
+apparatus can turn around or otherwise
+exit
+the area in accordance with
+FC 503.2.9.1
+or
+503.2.9.2
+. Dead-end
+fire
+apparatus roads shall not exceed 400 feet (121 920 mm) in length unless
+approved
+by the
+commissioner
+.
+34 feet (10 363 mm) except as otherwise provided in
+FC503.2.3
+.
+FC FIGURE 503.2.9 DEAD-END
+FIRE APPARATUS ACCESS ROAD
+TURNAROUND
+
+---
+
+Dead-end
+fire apparatus access roads
+more than 150 feet (45 720 mm) in length, as measured from the curb line of the nearest
+public street
+which is not itself a dead-end, shall be provided with an
+approved
+means by which
+fire
+apparatus can turn around or otherwise
+exit
+the area in accordance with
+FC 503.2.9.1
+or
+503.2.9.2
+. Dead-end
+fire
+apparatus roads shall not exceed 400 feet (121 920 mm) in length unless
+approved
+by the
+commissioner
+.
+34 feet (10 363 mm) except as otherwise provided in
+FC503.2.3
+.
+FC FIGURE 503.2.9 DEAD-END
+FIRE APPARATUS ACCESS ROAD
+TURNAROUND
+
+---
+
+## Section 503.2.9.1: Dead-End Turnarounds
+
+503.2.9.1 Dead-End Turnarounds
+Dead-end
+fire apparatus access roads
+shall be provided with a turnaround, as set forth in FC Table 503.2.9.1, unless the
+department
+accepts an alternative means for
+fire
+apparatus egress, as set forth in
+FC503.2.9.2
+.
+FC
+TABLE 503.2.9.1
+REQUIREMENTS FOR DEAD-END
+FIRE APPARATUS ACCESS ROADS
+LENGTH (feet)
+WIDTH (feet)
+a
+TURNAROUND REQUIRED
+0—150
+34
+None required
+> 150 and ≤ 400
+34
+90-foot hammerhead, or 76-foot-diameter unobstructed turnaround,
+90-foot-diameter turnaround with a 15-foot-diameter island, or other
+approved
+means.
+b
+> 400
+As
+approved
+As
+approved
+by the
+department
+.
+For SI: 1 foot = 304.8 mm.
+Except as otherwise provided in
+FC503.2.3
+.
+See FC Figure 503.2.9.
+
+---
+
+Dead-end
+fire apparatus access roads
+shall be provided with a turnaround, as set forth in FC Table 503.2.9.1, unless the
+department
+accepts an alternative means for
+fire
+apparatus egress, as set forth in
+FC503.2.9.2
+.
+FC
+TABLE 503.2.9.1
+REQUIREMENTS FOR DEAD-END
+FIRE APPARATUS ACCESS ROADS
+LENGTH (feet)
+WIDTH (feet)
+a
+TURNAROUND REQUIRED
+0—150
+34
+None required
+> 150 and ≤ 400
+34
+90-foot hammerhead, or 76-foot-diameter unobstructed turnaround,
+90-foot-diameter turnaround with a 15-foot-diameter island, or other
+approved
+means.
+b
+> 400
+As
+approved
+As
+approved
+by the
+department
+.
+For SI: 1 foot = 304.8 mm.
+Except as otherwise provided in
+FC503.2.3
+.
+See FC Figure 503.2.9.
+
+---
+
+## Section 503.2.9.2: Alternative Dead-End Solutions
+
+503.2.9.2 Alternative Dead-End Solutions
+Where the configuration of the site makes
+provision of a turnaround complying with
+FC503.2.9.1
+impracticable, the
+department
+may
+allow alternative means of
+fire
+apparatus egress, including use of a building entrance
+driveway; garage or loading dock entrance driveway; open plaza; planted open space
+utilizing vehicle load-bearing permeable paving materials; parking lot lane; or other
+driveway or lane leading to a separate through road. Any such alternative means of
+fire
+apparatus egress shall be capable of accommodating
+fire
+apparatus operation, including
+load-bearing construction, grades, clearances, and, if required, provision of mountable
+curbs.
+
+---
+
+Where the configuration of the site makes
+provision of a turnaround complying with
+FC503.2.9.1
+impracticable, the
+department
+may
+allow alternative means of
+fire
+apparatus egress, including use of a building entrance
+driveway; garage or loading dock entrance driveway; open plaza; planted open space
+utilizing vehicle load-bearing permeable paving materials; parking lot lane; or other
+driveway or lane leading to a separate through road. Any such alternative means of
+fire
+apparatus egress shall be capable of accommodating
+fire
+apparatus operation, including
+load-bearing construction, grades, clearances, and, if required, provision of mountable
+curbs.
+
+---
+
+## Section 503.2.10: Substandard Width Roads
+
+503.2.10 Substandard Width Roads
+Buildings on
+fire apparatus access roads
+that have an unobstructed roadway width of less than 34 feet (10 363 mm) shall be protected throughout by a
+sprinkler system
+. Buildings served by a substandard width
+fire apparatus access road
+that is a lawfully existing condition pursuant to
+FC 102.3
+,
+102.4
+and
+102.5
+shall comply with this requirement when undergoing
+alteration
+or a change of
+occupancy
+in accordance with
+FC501.4.3
+. This requirement shall not apply to any detached, unheated carport, garden shed, greenhouse, private parking garage for not more than three
+motor vehicles
+, tower or other accessory building, that is:
+Classified by the
+Building Code
+as a
+Group U
+occupancy
+;
+Not occupied or designed to be occupied for residential, commercial or office purposes; and
+Accessory to a
+Group R
+-2 or
+Group R
+-3
+occupancy
+.
+
+---
+
+Buildings on
+fire apparatus access roads
+that have an unobstructed roadway width of less than 34 feet (10 363 mm) shall be protected throughout by a
+sprinkler system
+. Buildings served by a substandard width
+fire apparatus access road
+that is a lawfully existing condition pursuant to
+FC 102.3
+,
+102.4
+and
+102.5
+shall comply with this requirement when undergoing
+alteration
+or a change of
+occupancy
+in accordance with
+FC501.4.3
+. This requirement shall not apply to any detached, unheated carport, garden shed, greenhouse, private parking garage for not more than three
+motor vehicles
+, tower or other accessory building, that is:
+Classified by the
+Building Code
+as a
+Group U
+occupancy
+;
+Not occupied or designed to be occupied for residential, commercial or office purposes; and
+Accessory to a
+Group R
+-2 or
+Group R
+-3
+occupancy
+.
+
+---
+
+## Section 503.3: Public Streets
+
+503.3 Public Streets
+Buildings fronting on
+public streets
+shall comply with the requirements of
+FC 503.3.1
+and
+503.3.2
+.
+
+---
+
+Buildings fronting on
+public streets
+shall comply with the requirements of
+FC 503.3.1
+and
+503.3.2
+.
+
+---
+
+## Section 503.3.1: Dead-End Turnarounds
+
+503.3.1 Dead-End Turnarounds
+Dead-end
+public streets
+in excess of 150 feet (45 720 mm) in length, as measured from the curb line of the nearest
+public street
+that is not a dead-end, shall be provided with an
+approved
+means by which
+fire
+apparatus can turn around or otherwise
+exit
+the street, in accordance with
+FC503.2.9
+.
+
+---
+
+Dead-end
+public streets
+in excess of 150 feet (45 720 mm) in length, as measured from the curb line of the nearest
+public street
+that is not a dead-end, shall be provided with an
+approved
+means by which
+fire
+apparatus can turn around or otherwise
+exit
+the street, in accordance with
+FC503.2.9
+.
+
+---
+
+## Section 503.3.2: Substandard Width
+
+503.3.2 Substandard Width
+Buildings on
+public streets
+that have an unobstructed width of less than 34 feet (10 363 mm) shall be protected throughout by a
+sprinkler system
+. Buildings on substandard width
+public streets
+that were not required prior to the effective date of this section to be protected throughout by a
+sprinkler system
+shall comply with this requirement when undergoing
+alteration
+or a change of
+occupancy
+subject to
+FC501.4.3
+. This requirement shall not apply to any
+Group U
+occupancy
+complying with the requirements of
+FC503.2.10
+.
+
+---
+
+Buildings on
+public streets
+that have an unobstructed width of less than 34 feet (10 363 mm) shall be protected throughout by a
+sprinkler system
+. Buildings on substandard width
+public streets
+that were not required prior to the effective date of this section to be protected throughout by a
+sprinkler system
+shall comply with this requirement when undergoing
+alteration
+or a change of
+occupancy
+subject to
+FC501.4.3
+. This requirement shall not apply to any
+Group U
+occupancy
+complying with the requirements of
+FC503.2.10
+.
+
+---
+
+## Section 503.4: Fire Lanes
+
+503.4 Fire Lanes
+It shall be unlawful to park on a
+fire lane
+. Where other vehicular traffic is allowed on a
+fire lane
+, such traffic shall yield to
+fire
+apparatus or other
+department
+emergency response vehicles.
+
+---
+
+It shall be unlawful to park on a
+fire lane
+. Where other vehicular traffic is allowed on a
+fire lane
+, such traffic shall yield to
+fire
+apparatus or other
+department
+emergency response vehicles.
+
+---
+
+## Section 503.4.1: Signage
+
+503.4.1 Signage
+Fire lanes
+subject to parking restriction shall be marked with permanent NO PARKING-
+FIRE LANE
+signs complying with FC Figure 503.4.1, and/or
+approved
+roadway markings. Signs shall have a minimum dimension of 12 inches (305 mm) wide by 18 inches (457 mm) high and have red letters on a white reflective background. Signs shall be posted on the sides of the
+fire lane
+upon which parking is prohibited.
+FC FIGURE 503.4.1
+FIRE LANE
+SIGN
+
+---
+
+Fire lanes
+subject to parking restriction shall be marked with permanent NO PARKING-
+FIRE LANE
+signs complying with FC Figure 503.4.1, and/or
+approved
+roadway markings. Signs shall have a minimum dimension of 12 inches (305 mm) wide by 18 inches (457 mm) high and have red letters on a white reflective background. Signs shall be posted on the sides of the
+fire lane
+upon which parking is prohibited.
+FC FIGURE 503.4.1
+FIRE LANE
+SIGN
+
+---
+
+## Section 503.5: Outdoor Parking Lots
+
+503.5 Outdoor Parking Lots
+Outdoor parking lot lanes between rows of parking spaces and aisle space between
+motor vehicles
+shall comply with the requirements of the
+Building Code
+and
+Zoning Resolution
+, except that parking lot lanes that serve as the
+fire apparatus access road
+to the main front entrances of buildings situated in parking lots shall comply with the
+fire
+apparatus access requirements set forth in this code or such other roadway width requirements established by the
+Fire
+Department
+by rule.
+
+---
+
+Outdoor parking lot lanes between rows of parking spaces and aisle space between
+motor vehicles
+shall comply with the requirements of the
+Building Code
+and
+Zoning Resolution
+, except that parking lot lanes that serve as the
+fire apparatus access road
+to the main front entrances of buildings situated in parking lots shall comply with the
+fire
+apparatus access requirements set forth in this code or such other roadway width requirements established by the
+Fire
+Department
+by rule.
+
+---
+
+Section 504 Building and Rooftop Access
+
+---
+
+## Section 504.1: Frontage Space
+
+504.1 Frontage Space
+Buildings shall be provided with a
+frontage space
+in compliance with the requirements of this chapter and the
+Building Code
+. The term "
+frontage space
+" shall have the meaning set forth in
+FC202
+for purposes of this code. For purposes of the
+Building Code
+, "
+frontage space
+" shall have the meaning set forth in
+Section 502
+thereof.
+Exception:
+Accessory buildings or structures classified by the
+Building Code
+as a
+Group U
+occupancy
+.
+
+---
+
+Buildings shall be provided with a
+frontage space
+in compliance with the requirements of this chapter and the
+Building Code
+. The term "
+frontage space
+" shall have the meaning set forth in
+FC202
+for purposes of this code. For purposes of the
+Building Code
+, "
+frontage space
+" shall have the meaning set forth in
+Section 502
+thereof.
+Exception:
+Accessory buildings or structures classified by the
+Building Code
+as a
+Group U
+occupancy
+.
+
+---
+
+## Section 504.1.1: Main Front Entrance
+
+504.1.1 Main Front Entrance
+The main front entrance of a building is the entrance that is designed to serve as the primary means of ingress and egress to the building, and which is located on a side of the building that contains windows,
+emergency escape and rescue openings
+, outdoor building corridors or other building openings that serve to afford firefighters access to the upper floors of the building. Where a building has more than one entrance that is so designed and situated, the
+owner
+may designate one such entrance as the main front entrance of the building, provided, however, that if such entrance does not provide an appropriate location for firefighting operations, the
+commissioner
+may require that another entrance be designated the main front entrance.
+
+---
+
+The main front entrance of a building is the entrance that is designed to serve as the primary means of ingress and egress to the building, and which is located on a side of the building that contains windows,
+emergency escape and rescue openings
+, outdoor building corridors or other building openings that serve to afford firefighters access to the upper floors of the building. Where a building has more than one entrance that is so designed and situated, the
+owner
+may designate one such entrance as the main front entrance of the building, provided, however, that if such entrance does not provide an appropriate location for firefighting operations, the
+commissioner
+may require that another entrance be designated the main front entrance.
+
+---
+
+## Section 504.1.2: Occupancies With Separate Entrances
+
+504.1.2 Occupancies With Separate Entrances
+When a building contains more than one
+occupancy
+or is primary to a semi-attached or detached ancillary dwelling unit, as defined by Section U102 of the
+Building Code
+, and separate entrances are provided for individual
+occupancies
+, there shall be a main front entrance for each such
+occupancy
+, and a separate
+frontage space
+shall be provided for each main front entrance, except that a second
+frontage space
+is not required for a two-family
+Group R
+-3
+occupancy
+or a dwelling unit ancillary to a one-family or two-family
+Group R
+-3
+occupancy
+if unobstructed access, 5 feet (1524 mm) in width, is provided to the rear yard and to the main front entrance of any dwelling unit from either side of the building that is not directly accessible from the
+public street
+,
+fire apparatus access road
+, or driveway. An open accessory parking area not less than 5 feet (1524 mm) in width shall be sufficient to constitute unobstructed access to the rear yard, regardless of the presence of parked vehicles in such parking area.
+
+---
+
+When a building contains more than one
+occupancy
+or is primary to a semi-attached or detached ancillary dwelling unit, as defined by Section U102 of the
+Building Code
+, and separate entrances are provided for individual
+occupancies
+, there shall be a main front entrance for each such
+occupancy
+, and a separate
+frontage space
+shall be provided for each main front entrance, except that a second
+frontage space
+is not required for a two-family
+Group R
+-3
+occupancy
+or a dwelling unit ancillary to a one-family or two-family
+Group R
+-3
+occupancy
+if unobstructed access, 5 feet (1524 mm) in width, is provided to the rear yard and to the main front entrance of any dwelling unit from either side of the building that is not directly accessible from the
+public street
+,
+fire apparatus access road
+, or driveway. An open accessory parking area not less than 5 feet (1524 mm) in width shall be sufficient to constitute unobstructed access to the rear yard, regardless of the presence of parked vehicles in such parking area.
+
+---
+
+## Section 504.1.2.1: Detached Ancillary Dwelling Units
+
+504.1.2.1 Detached Ancillary Dwelling Units
+A detached ancillary dwelling unit is not required to provide
+frontage space
+if access to the main front entrance of the detached ancillary dwelling unit is provided in accordance with the requirements for unobstructed access set forth in
+FC 504.1.2
+and Table U103.8 of
+Appendix U
+of the
+Building Code
+.
+
+---
+
+A detached ancillary dwelling unit is not required to provide
+frontage space
+if access to the main front entrance of the detached ancillary dwelling unit is provided in accordance with the requirements for unobstructed access set forth in
+FC 504.1.2
+and Table U103.8 of
+Appendix U
+of the
+Building Code
+.
+
+---
+
+## Section 504.1.3: Building Access
+
+504.1.3 Building Access
+An
+approved
+access walkway leading from the
+fire apparatus access road
+or driveway to the main front entrance of each
+occupancy
+or other exterior openings shall be provided when required by the
+commissioner
+.
+
+---
+
+An
+approved
+access walkway leading from the
+fire apparatus access road
+or driveway to the main front entrance of each
+occupancy
+or other exterior openings shall be provided when required by the
+commissioner
+.
+
+---
+
+## Section 504.1.4: Frontage Space Obstructions
+
+504.1.4 Frontage Space Obstructions
+Obstructions
+, such as planters, fences and bollards, shall not be placed in the required
+frontage space
+unless they have been
+approved
+by the
+Commissioner
+of Buildings, the
+Commissioner
+of Transportation, or the
+commissioner
+, as applicable.
+
+---
+
+Obstructions
+, such as planters, fences and bollards, shall not be placed in the required
+frontage space
+unless they have been
+approved
+by the
+Commissioner
+of Buildings, the
+Commissioner
+of Transportation, or the
+commissioner
+, as applicable.
+
+---
+
+## Section 504.2: Maintenance of Exterior Doors and Openings
+
+504.2 Maintenance of Exterior Doors and Openings
+Exterior doors and openings required by this code or the
+construction codes
+, including the
+Building Code
+, shall be maintained in a manner that affords access by firefighting personnel in accordance with the requirements of this section,
+FC Chapter 10
+, and the
+Building Code
+. Exterior doors and their function shall not be eliminated without prior approval of the
+Department of Buildings
+. Exterior doors that have been rendered nonfunctional and that retain a functional door exterior appearance shall have a sign affixed to the exterior side of the door with the words THIS DOOR BLOCKED. The sign shall consist of letters having a principal stroke of not less than 0.75 inch (19.1 mm) wide and at least 6 inches (152 mm) high on a contrasting background. Required
+department
+access doors shall not be obstructed or eliminated.
+Exit
+and
+exit access
+doors shall comply with the requirements of
+FC Chapter 10
+and the
+construction codes
+, including the
+Building Code
+. Access doors for
+high-piled combustible storage
+shall comply with the requirements of
+FC3206.6.1
+.
+
+---
+
+Exterior doors and openings required by this code or the
+construction codes
+, including the
+Building Code
+, shall be maintained in a manner that affords access by firefighting personnel in accordance with the requirements of this section,
+FC Chapter 10
+, and the
+Building Code
+. Exterior doors and their function shall not be eliminated without prior approval of the
+Department of Buildings
+. Exterior doors that have been rendered nonfunctional and that retain a functional door exterior appearance shall have a sign affixed to the exterior side of the door with the words THIS DOOR BLOCKED. The sign shall consist of letters having a principal stroke of not less than 0.75 inch (19.1 mm) wide and at least 6 inches (152 mm) high on a contrasting background. Required
+department
+access doors shall not be obstructed or eliminated.
+Exit
+and
+exit access
+doors shall comply with the requirements of
+FC Chapter 10
+and the
+construction codes
+, including the
+Building Code
+. Access doors for
+high-piled combustible storage
+shall comply with the requirements of
+FC3206.6.1
+.
+
+---
+
+## Section 504.3: Stairway Access to Roof
+
+504.3 Stairway Access to Roof
+Stairway access to the roof shall be in accordance with
+FC Chapter 10
+and the
+construction codes
+, including the
+Building Code
+. Such stairway shall be marked at street and floor levels with a sign indicating that the stairway continues to the roof. Where roofs are used for rooftop gardens or for other lawful purposes, stairways shall be provided as required for such
+occupancy
+classification.
+
+---
+
+Stairway access to the roof shall be in accordance with
+FC Chapter 10
+and the
+construction codes
+, including the
+Building Code
+. Such stairway shall be marked at street and floor levels with a sign indicating that the stairway continues to the roof. Where roofs are used for rooftop gardens or for other lawful purposes, stairways shall be provided as required for such
+occupancy
+classification.
+
+---
+
+## Section 504.4: Rooftop Access and Obstructions
+
+504.4 Rooftop Access and Obstructions
+The rooftops of buildings 100 feet (30 480 mm) or less in height, except rooftops with a slope exceeding 20 degrees (0.35 rad) from the horizontal, shall be designed, installed, operated and maintained in accordance with this section and in a manner that avoids or minimizes
+obstructions
+that impede firefighting operations such as vertical
+ventilation
+of heat and smoke, surveillance of rear yards and courtyards, and rooftop-aided rescues. For purposes of this section only, "rooftop" shall include rooftops of building setbacks, and "obstruction" shall mean any fixture or other item that is not readily movable by one person without the use of
+tools
+or equipment, including air conditioning
+systems
+, billboards and other signs, cellular antenna equipment, columns and girders, cooling towers, fuel oil storage
+tanks
+, generators, heating
+systems
+, planters, solar panels,
+ventilation
+system
+ducts, intakes and exhausts, and window cleaning equipment, but shall not include nonmetallic decking that is readily cut by standard power
+tools
+.
+
+---
+
+The rooftops of buildings 100 feet (30 480 mm) or less in height, except rooftops with a slope exceeding 20 degrees (0.35 rad) from the horizontal, shall be designed, installed, operated and maintained in accordance with this section and in a manner that avoids or minimizes
+obstructions
+that impede firefighting operations such as vertical
+ventilation
+of heat and smoke, surveillance of rear yards and courtyards, and rooftop-aided rescues. For purposes of this section only, "rooftop" shall include rooftops of building setbacks, and "obstruction" shall mean any fixture or other item that is not readily movable by one person without the use of
+tools
+or equipment, including air conditioning
+systems
+, billboards and other signs, cellular antenna equipment, columns and girders, cooling towers, fuel oil storage
+tanks
+, generators, heating
+systems
+, planters, solar panels,
+ventilation
+system
+ducts, intakes and exhausts, and window cleaning equipment, but shall not include nonmetallic decking that is readily cut by standard power
+tools
+.
+
+---
+
+## Section 504.4.1: Rooftop Access
+
+504.4.1 Rooftop Access
+Access to building rooftops shall be provided for
+fire
+operations by providing unobstructed access to the rooftop, including unobstructed passage across the building parapet, perimeter fence or other
+obstructions
+, and a safe landing. Such rooftop access shall be provided in compliance with the following required clearances:
+For each 12 linear feet (3658 mm) of building perimeter accessible from the
+frontage space
+of the building and from any other exposure accessible to
+fire
+apparatus, a minimum clearance of 6 feet (1829 mm) in width and 6 feet (1829 mm) in depth from any obstruction shall be provided at the parapet wall or other perimeter of the rooftop.
+Where such building perimeter is 24 linear feet (7315 mm) or greater, but less than 36 linear feet (10 973 mm), the required clearance openings shall be separated by a distance of not less than 12 linear feet (3658 mm).
+Where such building perimeter is 36 linear feet (10 973 mm) or greater, the required clearance openings may be contiguous, provided, however, that such contiguous openings shall not exceed 12 linear feet (3658 mm) and shall be separated from other required clearance openings by a distance of not less than 12 linear feet (3658 mm).
+Each exposure accessible by
+fire
+apparatus shall be treated separately for purposes of locating clearance openings and otherwise complying with the requirements of this provision.
+Awnings, sun control devices, solar panels or other structures affixed to an exterior building wall below the roof line shall not obstruct
+fire
+apparatus aerial ladder access to the rooftop perimeter access locations.
+Scaffolding obstructing rooftop access locations shall be designed to provide secure landings at such locations in an
+approved
+manner.
+The rooftop parapet or other perimeter railing or barrier shall be designed to facilitate the safe dismounting of a firefighter from an aerial ladder. Any such parapet, railing or barrier on a building constructed after the effective date of this section, or installed pursuant to a work
+permit
+issued by the
+Department of Buildings
+after such date, shall be of substantial construction capable of supporting a minimum of 350 pounds (159 kg) and shall be designed with a level surface at least 5 inches in width (127 mm) so as to allow a firefighter to safely step on it, as prescribed by the
+department
+, or other
+approved
+design. Where the height of the rooftop parapet, railing or other enclosure is more than 48 inches (1219 mm), an
+approved
+landing platform and steps or ladder shall be provided to allow a firefighter to safely dismount and descend to the rooftop.
+Design and installation documents
+shall be submitted to the
+department
+for approval.
+To the maximum extent practicable, wind turbines or other equipment with moving components shall be installed at rooftop location where they do not impede access or encroach up rooftop access landings, clear path, or required clearances, but in no case shall fan blades or other moving component operate within 3 feet (914 mm) of the rooftop access required by this section, including the 9-foot (2743 mm) height above the parapet or other rooftop perimeter railing or barrier and rooftop access landings. The tips of the fan blades and the edges of other moving components shall bear reflective markings and identified by caution warning signs or other means, to ensure that persons on the rooftop are aware of the presence of such equipment.
+
+---
+
+Access to building rooftops shall be provided for
+fire
+operations by providing unobstructed access to the rooftop, including unobstructed passage across the building parapet, perimeter fence or other
+obstructions
+, and a safe landing. Such rooftop access shall be provided in compliance with the following required clearances:
+For each 12 linear feet (3658 mm) of building perimeter accessible from the
+frontage space
+of the building and from any other exposure accessible to
+fire
+apparatus, a minimum clearance of 6 feet (1829 mm) in width and 6 feet (1829 mm) in depth from any obstruction shall be provided at the parapet wall or other perimeter of the rooftop.
+Where such building perimeter is 24 linear feet (7315 mm) or greater, but less than 36 linear feet (10 973 mm), the required clearance openings shall be separated by a distance of not less than 12 linear feet (3658 mm).
+Where such building perimeter is 36 linear feet (10 973 mm) or greater, the required clearance openings may be contiguous, provided, however, that such contiguous openings shall not exceed 12 linear feet (3658 mm) and shall be separated from other required clearance openings by a distance of not less than 12 linear feet (3658 mm).
+Each exposure accessible by
+fire
+apparatus shall be treated separately for purposes of locating clearance openings and otherwise complying with the requirements of this provision.
+Awnings, sun control devices, solar panels or other structures affixed to an exterior building wall below the roof line shall not obstruct
+fire
+apparatus aerial ladder access to the rooftop perimeter access locations.
+Scaffolding obstructing rooftop access locations shall be designed to provide secure landings at such locations in an
+approved
+manner.
+The rooftop parapet or other perimeter railing or barrier shall be designed to facilitate the safe dismounting of a firefighter from an aerial ladder. Any such parapet, railing or barrier on a building constructed after the effective date of this section, or installed pursuant to a work
+permit
+issued by the
+Department of Buildings
+after such date, shall be of substantial construction capable of supporting a minimum of 350 pounds (159 kg) and shall be designed with a level surface at least 5 inches in width (127 mm) so as to allow a firefighter to safely step on it, as prescribed by the
+department
+, or other
+approved
+design. Where the height of the rooftop parapet, railing or other enclosure is more than 48 inches (1219 mm), an
+approved
+landing platform and steps or ladder shall be provided to allow a firefighter to safely dismount and descend to the rooftop.
+Design and installation documents
+shall be submitted to the
+department
+for approval.
+To the maximum extent practicable, wind turbines or other equipment with moving components shall be installed at rooftop location where they do not impede access or encroach up rooftop access landings, clear path, or required clearances, but in no case shall fan blades or other moving component operate within 3 feet (914 mm) of the rooftop access required by this section, including the 9-foot (2743 mm) height above the parapet or other rooftop perimeter railing or barrier and rooftop access landings. The tips of the fan blades and the edges of other moving components shall bear reflective markings and identified by caution warning signs or other means, to ensure that persons on the rooftop are aware of the presence of such equipment.
+
+---
+
+## Section 504.4.2: Rooftop Access Signs and Markings
+
+504.4.2 Rooftop Access Signs and Markings
+Where required by the
+department
+, a sign, decal or
+approved
+marking shall be provided on the exterior wall of a building, at an
+approved
+location on a lower story, directly below the rooftop perimeter access landings, to identify the location of such rooftop access. The
+department
+may require such signs or markings when rooftop conditions not apparent from the street make rooftop access unsafe at locations other than the
+approved
+building perimeter access landings, or do not allow for access to the roof.
+
+---
+
+Where required by the
+department
+, a sign, decal or
+approved
+marking shall be provided on the exterior wall of a building, at an
+approved
+location on a lower story, directly below the rooftop perimeter access landings, to identify the location of such rooftop access. The
+department
+may require such signs or markings when rooftop conditions not apparent from the street make rooftop access unsafe at locations other than the
+approved
+building perimeter access landings, or do not allow for access to the roof.
+
+---
+
+## Section 504.4.3: Rooftop Access Landings
+
+504.4.3 Rooftop Access Landings
+At each rooftop perimeter access location, there shall be a safe landing area not less than 6 feet (1829 mm) in any dimension, and 9 feet (2743 mm) in height above the parapet or other rooftop perimeter railing or barrier. The access landing shall be connected to the clear path required by
+FC504.4.4
+. The landing shall not be obstructed by a fence, except as
+approved
+. If
+approved
+, such fence shall be provided with a standard 3-foot-wide (914 mm) gate that swings inward. Such gate may be secured by a padlock and chain capable of being cut by standard bolt cutters from either side of the gate, or secured by other
+approved
+device.
+
+---
+
+At each rooftop perimeter access location, there shall be a safe landing area not less than 6 feet (1829 mm) in any dimension, and 9 feet (2743 mm) in height above the parapet or other rooftop perimeter railing or barrier. The access landing shall be connected to the clear path required by
+FC504.4.4
+. The landing shall not be obstructed by a fence, except as
+approved
+. If
+approved
+, such fence shall be provided with a standard 3-foot-wide (914 mm) gate that swings inward. Such gate may be secured by a padlock and chain capable of being cut by standard bolt cutters from either side of the gate, or secured by other
+approved
+device.
+
+---
+
+## Section 504.4.4: Rooftop Clear Path
+
+504.4.4 Rooftop Clear Path
+A clear path of not less than 6 feet (1829 mm) horizontal width and 9 feet (2743 mm) in height shall be provided from the front of the building to the rear of the building; from one side of the building to the other for each 100 linear feet (30 480 mm) of rooftop width and depth such that the maximum distance between clear paths is 100 feet (30 480) mm. Such path shall comply with the following requirements:
+Such clear path shall be accessible from each rooftop perimeter access landing required pursuant to
+FC504.4.3
+.
+Such clear path shall afford reasonable access to bulkhead doors,
+fire
+escapes, access ladders, cockloft vents, skylights, scuttles, shafts and rooftop
+stationary energy storage systems
+. Such access shall include, to the maximum extent practicable, 3-feet (914 mm) clearance on three sides of the skylight or scuttle. On buildings constructed after the effective date of this section, the clear path shall afford reasonable access, to the maximum extent practicable, to windowed areas on any side of the building that is not
+fire
+apparatus accessible.
+A conduit or pipe may cross such clear path in accordance with
+FC504.4.7
+.
+Any lawful fence obstructing such clear path shall be provided with a standard 3-foot-wide (914 mm) gate, which may be secured by padlock or chain capable of being cut by standard bolt cutters, or secured by other
+approved
+device.
+When the main building rooftop has more than one level, a fixed ladder or other
+approved
+means shall be provided to afford access along the clear path from one roof level to the next, excluding any height differential between levels exceeding one story or 16 feet (4077 mm), and any level with a rooftop area that is less than 6 feet (1829 mm) in any dimension.
+On an "H"-shaped building or other building whose irregular configuration renders a single clear path inadequate to provide access to each wing of the building or other rooftop area, the
+commissioner
+may require one or more additional clear paths to provide adequate access to such rooftop areas.
+The rooftop surface serving as the clear path shall not be constructed of glass or other transparent or translucent material, nor shall it require a firefighter to walk upon any flush-mounted solar panels or other energized equipment.
+Rooftop
+stationary energy storage systems
+shall be designed and installed in accordance with
+FC608
+and the
+rules
+, including ensuring that the
+deflagration
+zone is not in the clear path and the exhaust
+system
+does not vent into the clear path.
+The requirements for wind turbines and other equipment with moving components set forth in
+FC504.4.1
+(8) shall be applicable to the rooftop clear path.
+
+---
+
+A clear path of not less than 6 feet (1829 mm) horizontal width and 9 feet (2743 mm) in height shall be provided from the front of the building to the rear of the building; from one side of the building to the other for each 100 linear feet (30 480 mm) of rooftop width and depth such that the maximum distance between clear paths is 100 feet (30 480) mm. Such path shall comply with the following requirements:
+Such clear path shall be accessible from each rooftop perimeter access landing required pursuant to
+FC504.4.3
+.
+Such clear path shall afford reasonable access to bulkhead doors,
+fire
+escapes, access ladders, cockloft vents, skylights, scuttles, shafts and rooftop
+stationary energy storage systems
+. Such access shall include, to the maximum extent practicable, 3-feet (914 mm) clearance on three sides of the skylight or scuttle. On buildings constructed after the effective date of this section, the clear path shall afford reasonable access, to the maximum extent practicable, to windowed areas on any side of the building that is not
+fire
+apparatus accessible.
+A conduit or pipe may cross such clear path in accordance with
+FC504.4.7
+.
+Any lawful fence obstructing such clear path shall be provided with a standard 3-foot-wide (914 mm) gate, which may be secured by padlock or chain capable of being cut by standard bolt cutters, or secured by other
+approved
+device.
+When the main building rooftop has more than one level, a fixed ladder or other
+approved
+means shall be provided to afford access along the clear path from one roof level to the next, excluding any height differential between levels exceeding one story or 16 feet (4077 mm), and any level with a rooftop area that is less than 6 feet (1829 mm) in any dimension.
+On an "H"-shaped building or other building whose irregular configuration renders a single clear path inadequate to provide access to each wing of the building or other rooftop area, the
+commissioner
+may require one or more additional clear paths to provide adequate access to such rooftop areas.
+The rooftop surface serving as the clear path shall not be constructed of glass or other transparent or translucent material, nor shall it require a firefighter to walk upon any flush-mounted solar panels or other energized equipment.
+Rooftop
+stationary energy storage systems
+shall be designed and installed in accordance with
+FC608
+and the
+rules
+, including ensuring that the
+deflagration
+zone is not in the clear path and the exhaust
+system
+does not vent into the clear path.
+The requirements for wind turbines and other equipment with moving components set forth in
+FC504.4.1
+(8) shall be applicable to the rooftop clear path.
+
+---
+
+## Section 504.4.5: Rooftop Clear Path Protection
+
+504.4.5 Rooftop Clear Path Protection
+Adequate protection, in the form of a securely affixed protective railing or barrier that is at least 42 inches (1067 mm) above the roof surface in height along the clear path, shall be provided for any shaft, building perimeter or elevation adjoining the clear path or rooftop perimeter access landing (except the rooftop access landing itself).
+Exception:
+Height differentials of 6 feet (1829 mm) or less.
+
+---
+
+Adequate protection, in the form of a securely affixed protective railing or barrier that is at least 42 inches (1067 mm) above the roof surface in height along the clear path, shall be provided for any shaft, building perimeter or elevation adjoining the clear path or rooftop perimeter access landing (except the rooftop access landing itself).
+Exception:
+Height differentials of 6 feet (1829 mm) or less.
+
+---
+
+## Section 504.4.6: Required Rooftop Clearances
+
+504.4.6 Required Rooftop Clearances
+A minimum clearance of 6 feet (1829 mm) in all directions shall be provided from each door opening onto a rooftop from a dwelling unit, stairway, bulkhead, or other occupied space or
+means of egress
+, as measured from the door hinge. A minimum clearance of 3 feet (914 mm) in all directions shall be provided from any
+fire
+escape or rooftop access ladder, as measured from each side of the ladder or landing.
+
+---
+
+A minimum clearance of 6 feet (1829 mm) in all directions shall be provided from each door opening onto a rooftop from a dwelling unit, stairway, bulkhead, or other occupied space or
+means of egress
+, as measured from the door hinge. A minimum clearance of 3 feet (914 mm) in all directions shall be provided from any
+fire
+escape or rooftop access ladder, as measured from each side of the ladder or landing.
+
+---
+
+## Section 504.4.7: Rooftop Conduits and Piping
+
+504.4.7 Rooftop Conduits and Piping
+To the maximum extent practicable, conduits, including cable trays, and piping, shall be installed at rooftop locations where they do not obstruct rooftop access landings, clear path or required clearances. If it is impracticable to avoid these areas, conduits and piping shall be designed and installed to facilitate access and minimize tripping hazards. Steps or ramps (or platforms with steps, ramps or ladders) shall be provided that are constructed of noncombustible material, equipped with railings, and designed to allow any conduit or piping installations that exceed 1 foot (305 mm) in height above the roof surface, or more than 24 inches (610 mm) in width, to be readily traversed. Steps, ramps, platforms and ladders shall not be placed in areas or in a manner that would obstruct any door or
+means of egress
+. All conduits and piping installations shall be color-coded with continuous, durable and weatherproof reflective or luminescent markings as follows, and for conduit and piping installed after July 1, 2014, shall be continuously
+labeled
+in an
+approved
+manner to indicate its contents:
+High voltage wiring — Red.
+Low voltage wiring — Orange.
+Natural gas
+piping — Yellow.
+Other
+compressed gas
+piping — Yellow,
+labeled
+at regular intervals with the type of gas.
+Fuel oil piping — Yellow with black stripes.
+
+---
+
+To the maximum extent practicable, conduits, including cable trays, and piping, shall be installed at rooftop locations where they do not obstruct rooftop access landings, clear path or required clearances. If it is impracticable to avoid these areas, conduits and piping shall be designed and installed to facilitate access and minimize tripping hazards. Steps or ramps (or platforms with steps, ramps or ladders) shall be provided that are constructed of noncombustible material, equipped with railings, and designed to allow any conduit or piping installations that exceed 1 foot (305 mm) in height above the roof surface, or more than 24 inches (610 mm) in width, to be readily traversed. Steps, ramps, platforms and ladders shall not be placed in areas or in a manner that would obstruct any door or
+means of egress
+. All conduits and piping installations shall be color-coded with continuous, durable and weatherproof reflective or luminescent markings as follows, and for conduit and piping installed after July 1, 2014, shall be continuously
+labeled
+in an
+approved
+manner to indicate its contents:
+High voltage wiring — Red.
+Low voltage wiring — Orange.
+Natural gas
+piping — Yellow.
+Other
+compressed gas
+piping — Yellow,
+labeled
+at regular intervals with the type of gas.
+Fuel oil piping — Yellow with black stripes.
+
+---
+
+## Section 504.4.8: Rooftop Access Underneath Cantilevered or Overhead Buildings
+
+504.4.8 Rooftop Access Underneath Cantilevered or Overhead Buildings
+Where a building is constructed directly above another building, including a building cantilevered over another building, a vertical clearance from the rooftop of the building below shall be provided for firefighting operations in accordance with the following requirements.
+Design and installation documents
+documenting compliance with this section, including the
+fire
+analysis filed with the
+Department of Buildings
+, shall be submitted for
+Fire
+Department
+review and approval. Such vertical clearance:
+shall be at least 12 feet (3658 mm); and
+shall be at least 9 feet (2743 mm) above the highest building feature on the rooftop when the building feature is 25 feet (7620 mm) or less from the closest exterior surface of the building constructed above; but
+shall not apply to rooftop areas above which a noncombustible screen wall or other similar structure has been constructed for purposes of zoning compliance, provided that such structure extends below the cantilever from the side wall of the new building facing a street for a width not to exceed 8 feet (2438 mm) and a depth not to exceed 12 feet (3658 mm).
+
+---
+
+Where a building is constructed directly above another building, including a building cantilevered over another building, a vertical clearance from the rooftop of the building below shall be provided for firefighting operations in accordance with the following requirements.
+Design and installation documents
+documenting compliance with this section, including the
+fire
+analysis filed with the
+Department of Buildings
+, shall be submitted for
+Fire
+Department
+review and approval. Such vertical clearance:
+shall be at least 12 feet (3658 mm); and
+shall be at least 9 feet (2743 mm) above the highest building feature on the rooftop when the building feature is 25 feet (7620 mm) or less from the closest exterior surface of the building constructed above; but
+shall not apply to rooftop areas above which a noncombustible screen wall or other similar structure has been constructed for purposes of zoning compliance, provided that such structure extends below the cantilever from the side wall of the new building facing a street for a width not to exceed 8 feet (2438 mm) and a depth not to exceed 12 feet (3658 mm).
+
+---
+
+## Section 504.4.9: Group R-3 Occupancies With Shallow-Pitched Roofs
+
+504.4.9 Group R-3 Occupancies With Shallow-Pitched Roofs
+A
+Group R
+-3
+occupancy
+that is primarily a building with a roof pitch of less than 9.5 degrees shall comply with
+FC504.4
+, notwithstanding the presence of a pitched roof element such as a mansard or a penthouse with a pitched roof. A
+Group R
+-3
+occupancy
+with a roof pitch of 9.5 degrees or more shall comply
+with
+FC512.3
+, not
+FC504.4
+.
+
+---
+
+A
+Group R
+-3
+occupancy
+that is primarily a building with a roof pitch of less than 9.5 degrees shall comply with
+FC504.4
+, notwithstanding the presence of a pitched roof element such as a mansard or a penthouse with a pitched roof. A
+Group R
+-3
+occupancy
+with a roof pitch of 9.5 degrees or more shall comply
+with
+FC512.3
+, not
+FC504.4
+.
+
+---
+
+## Section 504.4.10: Rooftop Telecommunications Installations
+
+504.4.10 Rooftop Telecommunications Installations
+Telecommunications installations on building rooftops, including cellular antenna installations, shall additionally comply with the following requirements:
+Transmitting antennas shall be identified by affixing to the antenna, the antenna mounting, or a conspicuous location near the antenna, continuous, durable and weatherproof reflective or luminescent markings and not less than 3-inch (76-mm) lettering that reads, "TRANSMITTER." If the antenna is enclosed or screened, such marking shall be placed on the exterior of the enclosure or screening.
+A durable sign shall be conspicuously posted near the main building
+electrical
+panel, on the side of the bulkhead or rooftop hatch, and on or near any equipment closet, roof base station or similar telecommunications antenna installation, identifying the
+owner
+of the installation, providing a 24-hour/7-day per week telephone number by which such
+owner
+can be contacted, and identifying the installation, including antennas and other powered equipment associated with the installation, by number or other unique designation.
+Transmitting antennas and other rooftop installations subject to radiofrequency exposure
+limits, as set forth in the regulations of the Federal Communications Commission, shall
+be installed in a manner that complies with the applicable exposure limits, including
+those applicable to rooftop access, landing, clear path and clearance areas and other
+rooftop areas to which the
+general
+population has uncontrolled access. Certification of
+compliance, in an
+approved
+format, by a qualified person trained and knowledgeable in
+the measurement of Federal Communications Commission radiofrequency exposure
+limits shall be submitted to the
+department
+with rooftop access
+applications
+and upon
+request in connection with rooftop access inspections.
+
+---
+
+Telecommunications installations on building rooftops, including cellular antenna installations, shall additionally comply with the following requirements:
+Transmitting antennas shall be identified by affixing to the antenna, the antenna mounting, or a conspicuous location near the antenna, continuous, durable and weatherproof reflective or luminescent markings and not less than 3-inch (76-mm) lettering that reads, "TRANSMITTER." If the antenna is enclosed or screened, such marking shall be placed on the exterior of the enclosure or screening.
+A durable sign shall be conspicuously posted near the main building
+electrical
+panel, on the side of the bulkhead or rooftop hatch, and on or near any equipment closet, roof base station or similar telecommunications antenna installation, identifying the
+owner
+of the installation, providing a 24-hour/7-day per week telephone number by which such
+owner
+can be contacted, and identifying the installation, including antennas and other powered equipment associated with the installation, by number or other unique designation.
+Transmitting antennas and other rooftop installations subject to radiofrequency exposure
+limits, as set forth in the regulations of the Federal Communications Commission, shall
+be installed in a manner that complies with the applicable exposure limits, including
+those applicable to rooftop access, landing, clear path and clearance areas and other
+rooftop areas to which the
+general
+population has uncontrolled access. Certification of
+compliance, in an
+approved
+format, by a qualified person trained and knowledgeable in
+the measurement of Federal Communications Commission radiofrequency exposure
+limits shall be submitted to the
+department
+with rooftop access
+applications
+and upon
+request in connection with rooftop access inspections.
+
+---
+
+## Section 504.4.11: Rooftop Gardens
+
+504.4.11 Rooftop Gardens
+Rooftop gardens and landscaping, including living walls, shall be designed, installed, operated and maintained in compliance with the requirements of the
+construction codes
+, including the
+Building Code
+and this section.
+
+---
+
+Rooftop gardens and landscaping, including living walls, shall be designed, installed, operated and maintained in compliance with the requirements of the
+construction codes
+, including the
+Building Code
+and this section.
+
+---
+
+## Section 504.4.11.1: Perimeter and Clear Path Access
+
+504.4.11.1 Perimeter and Clear Path Access
+Rooftop gardens and landscaping shall not obstruct any rooftop area access to which is required pursuant to this section, including rooftop perimeter access and landings, clear path and clearances.
+
+---
+
+Rooftop gardens and landscaping shall not obstruct any rooftop area access to which is required pursuant to this section, including rooftop perimeter access and landings, clear path and clearances.
+
+---
+
+## Section 504.4.11.2: Landscaped Rooftops
+
+504.4.11.2 Landscaped Rooftops
+Rooftop access landings, clear paths and other areas access to which is required pursuant to
+FC 504.3
+and
+504.4.4
+may be landscaped in compliance with the following requirements:
+The earth or other landscaping material in such areas shall be securely contained and compacted in such a manner as to ensure a stable, continuous surface with a slope not exceeding the slope of the rooftop.
+Vegetation
+in such areas shall be limited to grass or other plants that do not exceed 12 inches (305 mm) in height and do not constitute a tripping hazard or pitfall.
+
+---
+
+Rooftop access landings, clear paths and other areas access to which is required pursuant to
+FC 504.3
+and
+504.4.4
+may be landscaped in compliance with the following requirements:
+The earth or other landscaping material in such areas shall be securely contained and compacted in such a manner as to ensure a stable, continuous surface with a slope not exceeding the slope of the rooftop.
+Vegetation
+in such areas shall be limited to grass or other plants that do not exceed 12 inches (305 mm) in height and do not constitute a tripping hazard or pitfall.
+
+---
+
+## Section 504.4.11.3: Maintenance and Water Supply
+
+504.4.11.3 Maintenance and Water Supply
+Rooftop gardens and landscaping shall be maintained and provided with a water supply in accordance with
+FC318
+. Equipment used for the
+maintenance
+of rooftop gardens and landscaping shall be stored in accordance with
+FC318
+.
+
+---
+
+Rooftop gardens and landscaping shall be maintained and provided with a water supply in accordance with
+FC318
+. Equipment used for the
+maintenance
+of rooftop gardens and landscaping shall be stored in accordance with
+FC318
+.
+
+---
+
+## Section 504.4.12: Rooftop Solar Installations
+
+504.4.12 Rooftop Solar Installations
+Rooftop solar installations shall be designed, installed, operated and maintained in accordance with
+FC512
+.
+
+---
+
+Rooftop solar installations shall be designed, installed, operated and maintained in accordance with
+FC512
+.
+
+---
+
+## Section 504.4.13: Maintenance of Rooftop Building Features
+
+504.4.13 Maintenance of Rooftop Building Features
+Rooftop installations shall not obstruct the function, use or accessibility of any rooftop building features, including those listed in
+FC504.4.4
+(2). Such rooftop building features shall be maintained in good working order to facilitate firefighting operations.
+
+---
+
+Rooftop installations shall not obstruct the function, use or accessibility of any rooftop building features, including those listed in
+FC504.4.4
+(2). Such rooftop building features shall be maintained in good working order to facilitate firefighting operations.
+
+---
+
+## Section 504.5: Rooftop Access on Buildings More Than 100 Feet in Height
+
+504.5 Rooftop Access on Buildings More Than 100 Feet in Height
+To the maximum extent practicable, a clear path complying with
+FC504.4.4
+shall be provided on all buildings more than 100 feet (30 480 mm) in height constructed after the effective date of this section from the bulkhead or other point of rooftop access to the rooftop perimeter on any side of the building that has windows.
+
+---
+
+To the maximum extent practicable, a clear path complying with
+FC504.4.4
+shall be provided on all buildings more than 100 feet (30 480 mm) in height constructed after the effective date of this section from the bulkhead or other point of rooftop access to the rooftop perimeter on any side of the building that has windows.
+
+---
+
+Section 505 Premises Identification
+
+---
+
+## Section 505.1: Address Numbers
+
+505.1 Address Numbers
+Buildings and structures shall have their lawful address numbers, building numbers and/or other
+approved
+building identification placed at a location on or near a building that allows such building identification to be plainly discernible from the
+public street
+or
+frontage space
+. These numbers shall contrast with their background. Address numbers shall be Arabic numerals or alphabet letters. Numbers shall be a minimum of 4 inches (102 mm) high with a minimum stroke width of
+1
+/
+2
+inch (12.7 mm). Address numbers shall additionally comply with the requirements of the
+Building Code
+, New York City Housing
+Maintenance
+Code and the borough president of the borough in which such building is located.
+UpCodes Diagram (1)
+
+---
+
+Buildings and structures shall have their lawful address numbers, building numbers and/or other
+approved
+building identification placed at a location on or near a building that allows such building identification to be plainly discernible from the
+public street
+or
+frontage space
+. These numbers shall contrast with their background. Address numbers shall be Arabic numerals or alphabet letters. Numbers shall be a minimum of 4 inches (102 mm) high with a minimum stroke width of
+1
+/
+2
+inch (12.7 mm). Address numbers shall additionally comply with the requirements of the
+Building Code
+, New York City Housing
+Maintenance
+Code and the borough president of the borough in which such building is located.
+
+---
+
+## Section 505.1.1: Identification of Buildings in Developments
+
+505.1.1 Identification of Buildings in Developments
+Buildings located within outdoor shopping malls, office parks, housing complexes or other developments shall be identified in compliance with the requirements of
+FC505.1
+. Where required by the
+commissioner
+,
+approved
+signage identifying the street address of each building in the development and, in outdoor shopping malls, each tenant space or similar
+occupancy
+, and the direction to such building or tenant space, shall be provided. Such signage shall be clearly visible at the intersection of the
+public street
+and any
+fire apparatus access road
+that provides access to buildings in the development. In any development in which one or more buildings does not have a separate street address, or in any outdoor shopping mall in which one or more tenant spaces or similar
+occupancies
+does not have a separate street address, the
+commissioner
+may require
+approved
+signage indicating the location and direction to each such building or tenant space upon a determination that such signage is necessary to enable firefighting or other emergency response personnel to expeditiously locate such buildings or tenant spaces within the development.
+
+---
+
+Buildings located within outdoor shopping malls, office parks, housing complexes or other developments shall be identified in compliance with the requirements of
+FC505.1
+. Where required by the
+commissioner
+,
+approved
+signage identifying the street address of each building in the development and, in outdoor shopping malls, each tenant space or similar
+occupancy
+, and the direction to such building or tenant space, shall be provided. Such signage shall be clearly visible at the intersection of the
+public street
+and any
+fire apparatus access road
+that provides access to buildings in the development. In any development in which one or more buildings does not have a separate street address, or in any outdoor shopping mall in which one or more tenant spaces or similar
+occupancies
+does not have a separate street address, the
+commissioner
+may require
+approved
+signage indicating the location and direction to each such building or tenant space upon a determination that such signage is necessary to enable firefighting or other emergency response personnel to expeditiously locate such buildings or tenant spaces within the development.
+
+---
+
+## Section 505.2: Street or Road Signs
+
+505.2 Street or Road Signs
+Streets and roads within developments shall be identified with
+approved
+signs in accordance with the requirements of the New York City
+Department
+of Transportation. Temporary signs shall be installed at each street intersection when construction of new roadways allows passage by
+motor vehicles
+. Signs shall be of an
+approved
+size, weather resistant and be maintained until replaced by permanent signs.
+
+---
+
+Streets and roads within developments shall be identified with
+approved
+signs in accordance with the requirements of the New York City
+Department
+of Transportation. Temporary signs shall be installed at each street intersection when construction of new roadways allows passage by
+motor vehicles
+. Signs shall be of an
+approved
+size, weather resistant and be maintained until replaced by permanent signs.
+
+---
+
+## Section 505.3: Identification of Apartment and Guest Rooms
+
+505.3 Identification of Apartment and Guest Rooms
+The location of, and entrance to, each dwelling unit (guest room or sleeping room) in a
+Group R
+-1 building or
+occupancy
+, and each dwelling unit in a
+Group R
+-2 building or
+occupancy
+, shall be identified in accordance with this section and the
+rules
+to assist emergency response personnel responding to
+fires
+, medical emergencies and other emergencies at the
+premises
+.
+
+---
+
+The location of, and entrance to, each dwelling unit (guest room or sleeping room) in a
+Group R
+-1 building or
+occupancy
+, and each dwelling unit in a
+Group R
+-2 building or
+occupancy
+, shall be identified in accordance with this section and the
+rules
+to assist emergency response personnel responding to
+fires
+, medical emergencies and other emergencies at the
+premises
+.
+
+---
+
+## Section 505.3.1: Apartment and Guest Room Numbers
+
+505.3.1 Apartment and Guest Room Numbers
+Each dwelling unit shall be identified on the public corridor side of the door by a room number and/or letter marking or sign conspicuously and durably printed or posted on or adjacent to at least one entrance door.
+
+---
+
+Each dwelling unit shall be identified on the public corridor side of the door by a room number and/or letter marking or sign conspicuously and durably printed or posted on or adjacent to at least one entrance door.
+
+---
+
+## Section 505.3.2: Public Entry and Corridor Signage
+
+505.3.2 Public Entry and Corridor Signage
+In a
+Group R
+-1 or R-2 building or
+occupancy
+with more than eight dwelling units on a floor, a sign shall be conspicuously posted in the elevator lobby or other public entry on each floor, and in the public corridor opposite each stairwell entrance, identifying by directional arrows and dwelling unit numbers and/or letters, the direction to each dwelling unit. Such signage need not be provided in the public entry or opposite any stairwell entrance in any building or on any floor where the entrances to dwelling units are located in a single direction from such entry or stairwell entrance.
+
+---
+
+In a
+Group R
+-1 or R-2 building or
+occupancy
+with more than eight dwelling units on a floor, a sign shall be conspicuously posted in the elevator lobby or other public entry on each floor, and in the public corridor opposite each stairwell entrance, identifying by directional arrows and dwelling unit numbers and/or letters, the direction to each dwelling unit. Such signage need not be provided in the public entry or opposite any stairwell entrance in any building or on any floor where the entrances to dwelling units are located in a single direction from such entry or stairwell entrance.
+
+---
+
+## Section 505.3.3: Existing Installations
+
+505.3.3 Existing Installations
+Existing buildings and
+occupancies
+shall comply with the operational requirements for marking and signage set forth in
+FC 505.3.1
+and
+505.3.2
+within 2 years of the effective date of this section.
+
+---
+
+Existing buildings and
+occupancies
+shall comply with the operational requirements for marking and signage set forth in
+FC 505.3.1
+and
+505.3.2
+within 2 years of the effective date of this section.
+
+---
+
+## Section 505.4: Apartment, Guest Room and Stairwell Fire Emergency Markings
+
+505.4 Apartment, Guest Room and Stairwell Fire Emergency Markings
+Dwelling units (apartments, guest rooms and sleeping rooms) and stairwell entrances in
+Group R
+-1 and
+Group R
+-2 buildings and
+occupancies
+shall be marked in accordance with this section and the
+rules
+to facilitate firefighting and emergency rescue operations at the
+premises
+.
+
+---
+
+Dwelling units (apartments, guest rooms and sleeping rooms) and stairwell entrances in
+Group R
+-1 and
+Group R
+-2 buildings and
+occupancies
+shall be marked in accordance with this section and the
+rules
+to facilitate firefighting and emergency rescue operations at the
+premises
+.
+
+---
+
+## Section 505.4.1: Multi-Floor Dwelling Units
+
+505.4.1 Multi-Floor Dwelling Units
+The entrance door to a
+multi-floor dwelling unit
+in a
+Group R
+-1 or
+Group R
+-2 building or
+occupancy
+shall be identified on the door jamb on the public corridor side of the door by an
+approved
+fire
+emergency marking, not more than 12 inches (305 mm) from the bottom of the door, indicating the dwelling unit number and/or letter. In addition, every door of each such
+multi-floor dwelling unit
+that opens to a public corridor or other
+means of egress
+shall be identified on the public corridor side of the door by one or more upward or downward-pointing arrows indicating the direction(s) of the other floor(s) to which the
+multi-floor dwelling unit
+is connected.
+
+---
+
+The entrance door to a
+multi-floor dwelling unit
+in a
+Group R
+-1 or
+Group R
+-2 building or
+occupancy
+shall be identified on the door jamb on the public corridor side of the door by an
+approved
+fire
+emergency marking, not more than 12 inches (305 mm) from the bottom of the door, indicating the dwelling unit number and/or letter. In addition, every door of each such
+multi-floor dwelling unit
+that opens to a public corridor or other
+means of egress
+shall be identified on the public corridor side of the door by one or more upward or downward-pointing arrows indicating the direction(s) of the other floor(s) to which the
+multi-floor dwelling unit
+is connected.
+
+---
+
+## Section 505.4.2: Apartment and Sleeping Rooms
+
+505.4.2 Apartment and Sleeping Rooms
+Except as otherwise provided in
+FC505.4.1
+, and except in buildings protected throughout by a
+sprinkler system
+, in a
+Group R
+-1 or R-2 building or
+occupancy
+with more than eight dwelling units on a floor, each dwelling unit shall be identified on the door jamb on the public corridor side of the door by an
+approved
+fire
+emergency marking, not more than 12 inches (305 mm) from the bottom of the door, indicating the dwelling unit number and/or letter.
+
+---
+
+Except as otherwise provided in
+FC505.4.1
+, and except in buildings protected throughout by a
+sprinkler system
+, in a
+Group R
+-1 or R-2 building or
+occupancy
+with more than eight dwelling units on a floor, each dwelling unit shall be identified on the door jamb on the public corridor side of the door by an
+approved
+fire
+emergency marking, not more than 12 inches (305 mm) from the bottom of the door, indicating the dwelling unit number and/or letter.
+
+---
+
+## Section 505.4.3: Stairwell Signage
+
+505.4.3 Stairwell Signage
+Except in buildings protected throughout by a
+sprinkler system
+, each stairwell door in a building or
+occupancy
+subject to compliance with the requirements of
+FC505.4.1
+or
+FC505.4.2
+shall be identified as a stairwell door on the door jamb on the public corridor side of the door with an
+approved
+marking or sign not more than 12 inches (305 mm) from the bottom of the door, unless such stairwell entrance has been marked in compliance with
+Section 1031.11
+of the
+Building Code
+.
+
+---
+
+Except in buildings protected throughout by a
+sprinkler system
+, each stairwell door in a building or
+occupancy
+subject to compliance with the requirements of
+FC505.4.1
+or
+FC505.4.2
+shall be identified as a stairwell door on the door jamb on the public corridor side of the door with an
+approved
+marking or sign not more than 12 inches (305 mm) from the bottom of the door, unless such stairwell entrance has been marked in compliance with
+Section 1031.11
+of the
+Building Code
+.
+
+---
+
+## Section 505.4.4: Design and Materials
+
+505.4.4 Design and Materials
+The
+fire
+emergency markings for dwelling unit entrance doors shall be of photoluminescent, retroreflective or other
+approved
+material, durable, water-resistant and securely affixed and shall use Arabic numerals and/or English alphabet letters. The
+fire
+emergency marking on
+multi-floor dwelling units
+shall be a minimum of 3 inches (76 mm) high and 1
+1
+/
+2
+inches (38 mm) wide with a stroke width of
+1
+/
+2
+inch (12.7 mm) and the
+fire
+emergency markings required by
+FC 505.4.2
+and
+505.4.3
+shall be in accordance with the
+rules
+. Any
+approved
+fire
+emergency marking may be used provided that the same type of marking is consistently used throughout the building. Photoluminescent markings and signs shall comply with the
+Building Code
+requirements for photoluminescent
+exit
+path markings.
+
+---
+
+The
+fire
+emergency markings for dwelling unit entrance doors shall be of photoluminescent, retroreflective or other
+approved
+material, durable, water-resistant and securely affixed and shall use Arabic numerals and/or English alphabet letters. The
+fire
+emergency marking on
+multi-floor dwelling units
+shall be a minimum of 3 inches (76 mm) high and 1
+1
+/
+2
+inches (38 mm) wide with a stroke width of
+1
+/
+2
+inch (12.7 mm) and the
+fire
+emergency markings required by
+FC 505.4.2
+and
+505.4.3
+shall be in accordance with the
+rules
+. Any
+approved
+fire
+emergency marking may be used provided that the same type of marking is consistently used throughout the building. Photoluminescent markings and signs shall comply with the
+Building Code
+requirements for photoluminescent
+exit
+path markings.
+
+---
+
+## Section 505.4.5: Existing Installations
+
+505.4.5 Existing Installations
+Existing buildings and
+occupancies
+shall comply with the operational requirements for marking and signage set forth in
+FC505.4.1
+within 2 years of the effective date of this section, and with the operational requirements for marking and signage as set forth in
+FC 505.4.2
+and
+505.4.3
+within 3 years of the effective date of this section.
+
+---
+
+Existing buildings and
+occupancies
+shall comply with the operational requirements for marking and signage set forth in
+FC505.4.1
+within 2 years of the effective date of this section, and with the operational requirements for marking and signage as set forth in
+FC 505.4.2
+and
+505.4.3
+within 3 years of the effective date of this section.
+
+---
+
+## Section 505.5: Covered Mall Exterior Door Signage
+
+505.5 Covered Mall Exterior Door Signage
+Each exterior door that provides access directly to a tenant space in a
+covered mall
+or to a corridor serving as an
+exit
+passageway from one or more such tenant spaces shall be provided with signage or markings identifying the business occupying such space or spaces. Such identification shall be durably and conspicuously posted or marked on or adjacent to the outdoor side of the exterior door such that the business name is readily discernible from nearby parking lot lanes.
+
+---
+
+Each exterior door that provides access directly to a tenant space in a
+covered mall
+or to a corridor serving as an
+exit
+passageway from one or more such tenant spaces shall be provided with signage or markings identifying the business occupying such space or spaces. Such identification shall be durably and conspicuously posted or marked on or adjacent to the outdoor side of the exterior door such that the business name is readily discernible from nearby parking lot lanes.
+
+---
+
+Section 506 Keys and Key Access
+
+---
+
+## Section 506.1: General
+
+506.1 General
+This section shall govern the use and possession of keys required for firefighter service elevator operation,
+key boxes
+, gates and barriers, and other locked areas, boxes or cabinets to which the
+department
+requires access for firefighting operations.
+
+---
+
+This section shall govern the use and possession of keys required for firefighter service elevator operation,
+key boxes
+, gates and barriers, and other locked areas, boxes or cabinets to which the
+department
+requires access for firefighting operations.
+
+---
+
+## Section 506.2: Citywide-Standard Keys
+
+506.2 Citywide-Standard Keys
+Citywide-standard keys shall be used to operate firefighter service elevators, and to provide access to
+key boxes
+, gates and barriers, and other locked areas, boxes or cabinets to which the
+department
+requires access for firefighting operations, in accordance with this section. All locks required to be operable by the citywide-standard key shall also be operable by the
+fire department standard key
+. Access to a
+fire department standard key
+shall be in accordance with
+FC506.4
+.
+
+---
+
+Citywide-standard keys shall be used to operate firefighter service elevators, and to provide access to
+key boxes
+, gates and barriers, and other locked areas, boxes or cabinets to which the
+department
+requires access for firefighting operations, in accordance with this section. All locks required to be operable by the citywide-standard key shall also be operable by the
+fire department standard key
+. Access to a
+fire department standard key
+shall be in accordance with
+FC506.4
+.
+
+---
+
+## Section 506.2.1: Elevator Keys
+
+506.2.1 Elevator Keys
+Firefighter service elevator key switches shall be operable by a
+citywide standard key
+.
+
+---
+
+Firefighter service elevator key switches shall be operable by a
+citywide standard key
+.
+
+---
+
+## Section 506.2.2: Key Boxes
+
+506.2.2 Key Boxes
+Where access to or within a building, structure or
+premises
+is restricted because of locked doors or other building openings, or where immediate access would be needed for lifesaving or firefighting purposes in the event of a
+fire
+or other emergency, the
+department
+may require that keys be kept in a
+key box
+installed in an
+approved
+location. The
+owner
+shall ensure that the key kept in the lock box is replaced whenever a lock securing the area, box or cabinet is changed or rekeyed.
+
+---
+
+Where access to or within a building, structure or
+premises
+is restricted because of locked doors or other building openings, or where immediate access would be needed for lifesaving or firefighting purposes in the event of a
+fire
+or other emergency, the
+department
+may require that keys be kept in a
+key box
+installed in an
+approved
+location. The
+owner
+shall ensure that the key kept in the lock box is replaced whenever a lock securing the area, box or cabinet is changed or rekeyed.
+
+---
+
+## Section 506.2.3: Gates and Barriers
+
+506.2.3 Gates and Barriers
+Wherever a gate or similar barrier obstructs
+fire
+department
+access or
+fire
+apparatus access to a
+premises
+, and a lock is installed on such gate or barrier, the lock shall be of an
+approved
+type and operable by a
+citywide standard key
+.
+
+---
+
+Wherever a gate or similar barrier obstructs
+fire
+department
+access or
+fire
+apparatus access to a
+premises
+, and a lock is installed on such gate or barrier, the lock shall be of an
+approved
+type and operable by a
+citywide standard key
+.
+
+---
+
+## Section 506.2.4: First Responder Box
+
+506.2.4 First Responder Box
+The
+department
+may require that a locked box operable by a
+citywide standard key
+be provided in a designated area in a building, structure or
+premises
+to store plans, building information cards or other materials that will assist firefighting personnel responding to a
+fire
+or other emergency at the
+premises
+.
+
+---
+
+The
+department
+may require that a locked box operable by a
+citywide standard key
+be provided in a designated area in a building, structure or
+premises
+to store plans, building information cards or other materials that will assist firefighting personnel responding to a
+fire
+or other emergency at the
+premises
+.
+
+---
+
+## Section 506.3: Access to Citywide Standard Keys
+
+506.3 Access to Citywide Standard Keys
+It shall be unlawful to possess a
+citywide standard key
+except for persons authorized to possess such key in connection with the following purposes:
+Owners
+of buildings equipped with firefighter service elevators, or their authorized representatives, including
+FLS
+directors and
+FEP
+coordinators.
+Elevator contractors.
+Elevator inspectors of the
+Department of Buildings
+.
+Persons authorized to conduct testing and other
+maintenance
+or servicing of
+fire alarm systems
+.
+Authorized
+department
+personnel.
+New York City police officers and other
+approved
+law enforcement personnel.
+Building
+owners
+required to have
+key boxes
+, locked boxes or locked gates or barriers pursuant to this code, or their authorized representatives.
+Building
+owners
+with locked gates and barriers that block required
+fire
+department
+and
+fire
+apparatus access.
+Building
+owners
+,
+impairment coordinators
+, and persons authorized to install or maintain in-building auxiliary radio communication
+systems
+.
+Locksmiths or other authorized key suppliers when in connection with their lawful business operations.
+
+---
+
+It shall be unlawful to possess a
+citywide standard key
+except for persons authorized to possess such key in connection with the following purposes:
+Owners
+of buildings equipped with firefighter service elevators, or their authorized representatives, including
+FLS
+directors and
+FEP
+coordinators.
+Elevator contractors.
+Elevator inspectors of the
+Department of Buildings
+.
+Persons authorized to conduct testing and other
+maintenance
+or servicing of
+fire alarm systems
+.
+Authorized
+department
+personnel.
+New York City police officers and other
+approved
+law enforcement personnel.
+Building
+owners
+required to have
+key boxes
+, locked boxes or locked gates or barriers pursuant to this code, or their authorized representatives.
+Building
+owners
+with locked gates and barriers that block required
+fire
+department
+and
+fire
+apparatus access.
+Building
+owners
+,
+impairment coordinators
+, and persons authorized to install or maintain in-building auxiliary radio communication
+systems
+.
+Locksmiths or other authorized key suppliers when in connection with their lawful business operations.
+
+---
+
+## Section 506.4: Access to Fire Department Standard Keys
+
+506.4 Access to Fire Department Standard Keys
+It shall be unlawful to possess a
+fire department standard key
+, except for authorized
+department
+personnel and other
+approved
+persons. The right to possess and use a citywide-standard key pursuant to
+FC506.2
+does not confer the right to possess
+or use a
+fire department standard key
+. Licensed locksmiths are authorized to use the
+fire
+department
+standard key to verify the operability by such key as required by
+FC506.2
+of locks and devices
+required to be operable by a citywide-standard key, but are not authorized to provide a
+fire
+department
+standard key to any unauthorized person for the purpose of complying with
+FC506.2
+.
+
+---
+
+It shall be unlawful to possess a
+fire department standard key
+, except for authorized
+department
+personnel and other
+approved
+persons. The right to possess and use a citywide-standard key pursuant to
+FC506.2
+does not confer the right to possess
+or use a
+fire department standard key
+. Licensed locksmiths are authorized to use the
+fire
+department
+standard key to verify the operability by such key as required by
+FC506.2
+of locks and devices
+required to be operable by a citywide-standard key, but are not authorized to provide a
+fire
+department
+standard key to any unauthorized person for the purpose of complying with
+FC506.2
+.
+
+---
+
+Section 507 Fire Protection Water Supplies
+UpCodes Diagram (1)
+
+---
+
+## Section 507.1: Required Water Supply
+
+507.1 Required Water Supply
+For
+premises
+requiring the installation of private
+fire
+hydrant
+systems
+or yard hydrant
+systems
+, an
+approved
+water supply capable of supplying the required design capacity for
+fire
+protection shall be provided.
+
+---
+
+For
+premises
+requiring the installation of private
+fire
+hydrant
+systems
+or yard hydrant
+systems
+, an
+approved
+water supply capable of supplying the required design capacity for
+fire
+protection shall be provided.
+
+---
+
+## Section 507.2: Type of Water Supply
+
+507.2 Type of Water Supply
+A water supply shall consist of pressure
+tanks
+, gravity
+tanks
+, water mains or other
+approved
+fixed
+systems
+capable of providing the required design capacity.
+
+---
+
+A water supply shall consist of pressure
+tanks
+, gravity
+tanks
+, water mains or other
+approved
+fixed
+systems
+capable of providing the required design capacity.
+
+---
+
+## Section 507.2.1: Private Fire Service Mains
+
+507.2.1 Private Fire Service Mains
+Private
+fire
+service mains and appurtenances shall be installed in accordance with NFPA 24 and the requirements of the New York City
+Department of Environmental Protection
+.
+
+---
+
+Private
+fire
+service mains and appurtenances shall be installed in accordance with NFPA 24 and the requirements of the New York City
+Department of Environmental Protection
+.
+
+---
+
+## Section 507.2.2: Water Tanks
+
+507.2.2 Water Tanks
+Water
+tanks
+for private hydrant
+systems
+and yard hydrant
+systems
+shall be installed in accordance with NFPA 22.
+
+---
+
+Water
+tanks
+for private hydrant
+systems
+and yard hydrant
+systems
+shall be installed in accordance with NFPA 22.
+
+---
+
+## Section 507.2.3: Yard Hydrant Systems
+
+507.2.3 Yard Hydrant Systems
+Outdoor amusement parks, bulk plants or terminals, lumber yards, trailer camps, industrial parks, and similar
+occupancies
+shall be provided with a yard hydrant
+system
+installed in compliance with the requirements of the
+construction codes
+, including the
+Building Code
+, this section and
+FC914
+. Yard hydrants shall be installed such that the entire area may be reached by 250 feet (76.2 m) of hose from a yard hydrant or a street hydrant supplied from a direct connection to a city water main or other
+approved
+water supply.
+
+---
+
+Outdoor amusement parks, bulk plants or terminals, lumber yards, trailer camps, industrial parks, and similar
+occupancies
+shall be provided with a yard hydrant
+system
+installed in compliance with the requirements of the
+construction codes
+, including the
+Building Code
+, this section and
+FC914
+. Yard hydrants shall be installed such that the entire area may be reached by 250 feet (76.2 m) of hose from a yard hydrant or a street hydrant supplied from a direct connection to a city water main or other
+approved
+water supply.
+
+---
+
+## Section 507.3: Design Capacity
+
+507.3 Design Capacity
+The design capacity of the water supply shall be determined by an
+approved
+method.
+
+---
+
+The design capacity of the water supply shall be determined by an
+approved
+method.
+
+---
+
+## Section 507.4: Water Supply Test
+
+507.4 Water Supply Test
+Upon completion of the installation of a private
+fire
+hydrant
+system
+and yard hydrant
+system
+, a flow test shall be conducted to verify that the
+system
+provides the minimum design capacity required by
+FC507.3
+. Certification of the water supply test shall be submitted to the
+commissioner
+by a
+registered design professional
+.
+
+---
+
+Upon completion of the installation of a private
+fire
+hydrant
+system
+and yard hydrant
+system
+, a flow test shall be conducted to verify that the
+system
+provides the minimum design capacity required by
+FC507.3
+. Certification of the water supply test shall be submitted to the
+commissioner
+by a
+registered design professional
+.
+
+---
+
+## Section 507.5: Private Fire Hydrant Systems
+
+507.5 Private Fire Hydrant Systems
+Private
+fire
+hydrant
+systems
+shall comply with the requirements of
+FC 507.5.1
+through
+507.5.6
+.
+
+---
+
+Private
+fire
+hydrant
+systems
+shall comply with the requirements of
+FC 507.5.1
+through
+507.5.6
+.
+
+---
+
+## Section 507.5.1: Where Required
+
+507.5.1 Where Required
+Where the front entrance of a building is more than 250 feet (76.2 m) from a hydrant on a
+public street
+, as measured by an
+approved
+route, private
+fire
+hydrants and mains shall be provided as required by the
+commissioner
+.
+
+---
+
+Where the front entrance of a building is more than 250 feet (76.2 m) from a hydrant on a
+public street
+, as measured by an
+approved
+route, private
+fire
+hydrants and mains shall be provided as required by the
+commissioner
+.
+
+---
+
+## Section 507.5.2: Inspection, Testing and Maintenance
+
+507.5.2 Inspection, Testing and Maintenance
+Private
+fire
+hydrant
+systems
+shall be subject to periodic tests as required by the
+commissioner
+. Private
+fire
+hydrant
+systems
+shall be maintained in good working order at all times and shall be repaired when defective. Additions, repairs,
+alterations
+and servicing shall comply with
+approved
+standards.
+
+---
+
+Private
+fire
+hydrant
+systems
+shall be subject to periodic tests as required by the
+commissioner
+. Private
+fire
+hydrant
+systems
+shall be maintained in good working order at all times and shall be repaired when defective. Additions, repairs,
+alterations
+and servicing shall comply with
+approved
+standards.
+
+---
+
+## Section 507.5.2.1: Department Flow Tests
+
+507.5.2.1 Department Flow Tests
+The
+department
+may periodically inspect and test private
+fire
+hydrant
+systems
+, at the risk of the
+owner
+, for proper operation and unobstructed flow of such hydrant
+system
+.
+
+---
+
+The
+department
+may periodically inspect and test private
+fire
+hydrant
+systems
+, at the risk of the
+owner
+, for proper operation and unobstructed flow of such hydrant
+system
+.
+
+---
+
+## Section 507.5.3: Private Fire Service Mains and Water Tanks
+
+507.5.3 Private Fire Service Mains and Water Tanks
+Private
+fire
+service mains and water
+tanks
+shall be periodically inspected, tested and maintained in accordance with NFPA 25 at the following intervals:
+Private
+fire
+hydrants (all types): Inspection annually and after each operation; flow test and
+maintenance
+annually.
+Fire
+service main piping: Inspection of exposed, annually; flow test every 5 years.
+Fire
+service main piping strainers: Inspection and
+maintenance
+after each use.
+
+---
+
+Private
+fire
+service mains and water
+tanks
+shall be periodically inspected, tested and maintained in accordance with NFPA 25 at the following intervals:
+Private
+fire
+hydrants (all types): Inspection annually and after each operation; flow test and
+maintenance
+annually.
+Fire
+service main piping: Inspection of exposed, annually; flow test every 5 years.
+Fire
+service main piping strainers: Inspection and
+maintenance
+after each use.
+
+---
+
+## Section 507.5.4: Obstructions
+
+507.5.4 Obstructions
+Posts, fences,
+vegetation
+,
+rubbish
+containers
+, vehicles and other items shall not be installed, planted, placed, parked or stored near
+fire
+hydrants,
+fire
+department
+connections or
+fire protection system
+control valves in a manner that would obscure the location of such
+fire
+hydrants, connections or valves, or that would hinder immediate access thereto by firefighting personnel.
+
+---
+
+Posts, fences,
+vegetation
+,
+rubbish
+containers
+, vehicles and other items shall not be installed, planted, placed, parked or stored near
+fire
+hydrants,
+fire
+department
+connections or
+fire protection system
+control valves in a manner that would obscure the location of such
+fire
+hydrants, connections or valves, or that would hinder immediate access thereto by firefighting personnel.
+
+---
+
+## Section 507.5.5: Clear Space Around Hydrants
+
+507.5.5 Clear Space Around Hydrants
+A 3-foot (914 mm) radius clear space shall be maintained around the circumference of
+fire
+hydrants to allow unobstructed operation of the hydrant operating nut, except as otherwise required or
+approved
+.
+
+---
+
+A 3-foot (914 mm) radius clear space shall be maintained around the circumference of
+fire
+hydrants to allow unobstructed operation of the hydrant operating nut, except as otherwise required or
+approved
+.
+
+---
+
+## Section 507.5.6: Physical Protection
+
+507.5.6 Physical Protection
+Where
+fire
+hydrants are subject to impact by
+motor vehicles
+, posts that comply with the requirements of the New York City
+Department of Environmental Protection
+shall be installed. Notwithstanding the requirements of
+FC507.5.5
+, these posts may be installed no less than 2 feet (610 mm) from the hydrant if they do not obstruct the use of a 24-inch (610-mm) wrench on the hydrant operating nut.
+
+---
+
+Where
+fire
+hydrants are subject to impact by
+motor vehicles
+, posts that comply with the requirements of the New York City
+Department of Environmental Protection
+shall be installed. Notwithstanding the requirements of
+FC507.5.5
+, these posts may be installed no less than 2 feet (610 mm) from the hydrant if they do not obstruct the use of a 24-inch (610-mm) wrench on the hydrant operating nut.
+
+---
+
+Section 508 Reserved
+
+---
+
+Section 509 Fire Protection and Utility Equipment Identification and Access
+
+---
+
+## Section 509.1: Identification
+
+509.1 Identification
+Fire
+protection equipment shall be identified in an
+approved
+manner. Rooms containing controls for
+ventilation
+systems
+, sprinkler risers and valves, or other
+fire
+detection, extinguishing or control elements shall be identified for the use of the
+department
+.
+Approved
+signs required to identify
+fire
+protection equipment and equipment location, shall be constructed of durable materials, permanently installed and conspicuously posted.
+
+---
+
+Fire
+protection equipment shall be identified in an
+approved
+manner. Rooms containing controls for
+ventilation
+systems
+, sprinkler risers and valves, or other
+fire
+detection, extinguishing or control elements shall be identified for the use of the
+department
+.
+Approved
+signs required to identify
+fire
+protection equipment and equipment location, shall be constructed of durable materials, permanently installed and conspicuously posted.
+
+---
+
+## Section 509.2: Safe Access
+
+509.2 Safe Access
+Fire
+protection devices, equipment and
+systems
+, including
+fire
+detection
+systems
+and
+fire extinguishing systems
+, shall be readily accessible for inspection, operation and
+maintenance
+. Combustible materials,
+combustible waste
+and other items shall not be placed or stored in a manner that would obstruct or impede access to such equipment. Sprinkler and
+standpipe system
+control valves located at a height of 7 feet (2134 mm) or more above the floor shall be provided with fixed ladders, chains and wheels, or other
+approved
+means to provide ready access.
+
+---
+
+Fire
+protection devices, equipment and
+systems
+, including
+fire
+detection
+systems
+and
+fire extinguishing systems
+, shall be readily accessible for inspection, operation and
+maintenance
+. Combustible materials,
+combustible waste
+and other items shall not be placed or stored in a manner that would obstruct or impede access to such equipment. Sprinkler and
+standpipe system
+control valves located at a height of 7 feet (2134 mm) or more above the floor shall be provided with fixed ladders, chains and wheels, or other
+approved
+means to provide ready access.
+
+---
+
+## Section 509.3: Natural Gas Shutoff Tools
+
+509.3 Natural Gas Shutoff Tools
+Natural gas
+utilities shall provide the
+department
+with suitable
+tools
+for the operation of outdoor gas service line valves for a building or structure or other outdoor emergency shutoff device or equipment. The number of such
+tools
+required to supply the
+department
+'s needs shall be determined by the
+commissioner
+.
+
+---
+
+Natural gas
+utilities shall provide the
+department
+with suitable
+tools
+for the operation of outdoor gas service line valves for a building or structure or other outdoor emergency shutoff device or equipment. The number of such
+tools
+required to supply the
+department
+'s needs shall be determined by the
+commissioner
+.
+
+---
+
+## Section 509.4: Utility Identification
+
+509.4 Utility Identification
+Where required by the
+department
+, water,
+natural gas
+, electric or other utility service shutoff valves and disconnect switches to a building, structure,
+premises
+, device, equipment or
+system
+shall be provided with a durable and conspicuous marking that identifies the building, structure,
+premises
+, device, equipment or
+system
+such shutoff valve or disconnect switch serves.
+
+---
+
+Where required by the
+department
+, water,
+natural gas
+, electric or other utility service shutoff valves and disconnect switches to a building, structure,
+premises
+, device, equipment or
+system
+shall be provided with a durable and conspicuous marking that identifies the building, structure,
+premises
+, device, equipment or
+system
+such shutoff valve or disconnect switch serves.
+
+---
+
+Section 510 In-Building Auxiliary Radio Communication Systems
+
+---
+
+## Section 510.1: General
+
+510.1 General
+The design, installation, operation and
+maintenance
+of in-building auxiliary radio communication
+systems
+dedicated for
+fire
+department
+use, whether required by the
+Building Code
+or installed voluntarily, shall comply with this section and the
+rules
+.
+
+---
+
+The design, installation, operation and
+maintenance
+of in-building auxiliary radio communication
+systems
+dedicated for
+fire
+department
+use, whether required by the
+Building Code
+or installed voluntarily, shall comply with this section and the
+rules
+.
+
+---
+
+## Section 510.2: Design and Installation
+
+510.2 Design and Installation
+In-building auxiliary radio communication
+systems
+for
+fire
+department
+use shall be designed and installed in accordance with the
+construction codes
+, including the
+Building Code
+, and the
+Electrical Code
+.
+
+---
+
+In-building auxiliary radio communication
+systems
+for
+fire
+department
+use shall be designed and installed in accordance with the
+construction codes
+, including the
+Building Code
+, and the
+Electrical Code
+.
+
+---
+
+## Section 510.2.1: Installer Qualifications
+
+510.2.1 Installer Qualifications
+In-building auxiliary radio communication
+systems
+for
+fire
+department
+use shall be installed by a master electrician licensed by the
+Department of Buildings
+and such other qualifications as may be prescribed by rule.
+
+---
+
+In-building auxiliary radio communication
+systems
+for
+fire
+department
+use shall be installed by a master electrician licensed by the
+Department of Buildings
+and such other qualifications as may be prescribed by rule.
+
+---
+
+## Section 510.2.2: Installation Acceptance
+
+510.2.2 Installation Acceptance
+In-building auxiliary radio communication
+systems
+for
+fire
+department
+use shall be tested for
+department
+acceptance in compliance with the requirements of this section and the
+rules
+.
+
+---
+
+In-building auxiliary radio communication
+systems
+for
+fire
+department
+use shall be tested for
+department
+acceptance in compliance with the requirements of this section and the
+rules
+.
+
+---
+
+## Section 510.2.2.1: Commissioning Test
+
+510.2.2.1 Commissioning Test
+Upon completion of installation of an in-building auxiliary radio communication
+system
+for
+fire
+department
+use, a commissioning test shall be conducted in accordance with the
+rules
+by a person holding a Federal Communications Commission
+general
+radiotelephone operator license and such other qualifications as may be prescribed by rule.
+
+---
+
+Upon completion of installation of an in-building auxiliary radio communication
+system
+for
+fire
+department
+use, a commissioning test shall be conducted in accordance with the
+rules
+by a person holding a Federal Communications Commission
+general
+radiotelephone operator license and such other qualifications as may be prescribed by rule.
+
+---
+
+## Section 510.2.2.2: Department Acceptance Test
+
+510.2.2.2 Department Acceptance Test
+Upon successful completion of the commissioning test, the
+owner
+shall submit to the
+department
+a detailed report of the results of the commissioning test and request a
+department
+acceptance test. The
+department
+acceptance test shall serve to demonstrate the
+system
+is functioning satisfactorily and is ready for
+department
+use. The in-building auxiliary radio communication
+system
+shall be demonstrated in the presence of a
+department
+representative by a representative of the
+owner
+. Upon satisfactory completion of the
+department
+acceptance test, the
+department
+shall issue a
+permit
+for such
+system
+.
+
+---
+
+Upon successful completion of the commissioning test, the
+owner
+shall submit to the
+department
+a detailed report of the results of the commissioning test and request a
+department
+acceptance test. The
+department
+acceptance test shall serve to demonstrate the
+system
+is functioning satisfactorily and is ready for
+department
+use. The in-building auxiliary radio communication
+system
+shall be demonstrated in the presence of a
+department
+representative by a representative of the
+owner
+. Upon satisfactory completion of the
+department
+acceptance test, the
+department
+shall issue a
+permit
+for such
+system
+.
+
+---
+
+## Section 510.3: Operation and Maintenance
+
+510.3 Operation and Maintenance
+The operation and
+maintenance
+of in-building auxiliary radio communication
+systems
+for
+fire
+department
+use shall be in accordance with this section and the
+rules
+.
+
+---
+
+The operation and
+maintenance
+of in-building auxiliary radio communication
+systems
+for
+fire
+department
+use shall be in accordance with this section and the
+rules
+.
+
+---
+
+## Section 510.3.1: General
+
+510.3.1 General
+In-building auxiliary radio communication
+systems
+for
+fire
+department
+use shall be maintained in good working order.
+
+---
+
+In-building auxiliary radio communication
+systems
+for
+fire
+department
+use shall be maintained in good working order.
+
+---
+
+## Section 510.3.2: Out-of-Service Systems
+
+510.3.2 Out-of-Service Systems
+The
+department
+shall be notified immediately if an in-building auxiliary radio communication
+system
+for
+fire
+department
+use, or part thereof, is out of service. A tag identifying the
+system
+as out of service shall be placed on the
+fire command center
+or other
+approved
+location when the
+system
+is out of service.
+
+---
+
+The
+department
+shall be notified immediately if an in-building auxiliary radio communication
+system
+for
+fire
+department
+use, or part thereof, is out of service. A tag identifying the
+system
+as out of service shall be placed on the
+fire command center
+or other
+approved
+location when the
+system
+is out of service.
+
+---
+
+Section 511 High-Rise Megastructure Fire Operations
+
+---
+
+## Section 511.1: General
+
+511.1 General
+High-rise megastructures
+shall be designed, installed, operated and maintained in accordance with this section to facilitate firefighting operations.
+
+---
+
+High-rise megastructures
+shall be designed, installed, operated and maintained in accordance with this section to facilitate firefighting operations.
+
+---
+
+## Section 511.2: Supervision
+
+511.2 Supervision
+A person holding a
+certificate of fitness
+for emergency announcements shall be present on the
+premises
+at all times when the building is occupied except in a
+high-rise megastructure
+required to be staffed by an
+FLS
+director. In a mixed-
+occupancy
+high-rise megastructure
+, each
+occupancy
+with its own
+voice communication capability
+shall be staffed with such a
+certificate of fitness
+holder or
+FLS
+director.
+
+---
+
+A person holding a
+certificate of fitness
+for emergency announcements shall be present on the
+premises
+at all times when the building is occupied except in a
+high-rise megastructure
+required to be staffed by an
+FLS
+director. In a mixed-
+occupancy
+high-rise megastructure
+, each
+occupancy
+with its own
+voice communication capability
+shall be staffed with such a
+certificate of fitness
+holder or
+FLS
+director.
+
+---
+
+## Section 511.3: Building Information Card
+
+511.3 Building Information Card
+A building information card complying with
+FC401.3.4
+shall be prepared and maintained at the
+fire command center
+or other
+approved
+location in all
+high-rise megastructures
+, including apartment buildings and other
+Group R
+-2
+occupancies
+.
+
+---
+
+A building information card complying with
+FC401.3.4
+shall be prepared and maintained at the
+fire command center
+or other
+approved
+location in all
+high-rise megastructures
+, including apartment buildings and other
+Group R
+-2
+occupancies
+.
+
+---
+
+## Section 511.4: Emergency Preparedness
+
+511.4 Emergency Preparedness
+Emergency preparedness plans
+shall be prepared when required by
+FC Chapter 4
+, provided, however, that a
+fire
+and emergency preparedness (
+Level 2
+) plan shall be prepared for
+Group R
+-2
+occupancies
+in a
+high-rise megastructure
+. All
+emergency preparedness plans
+in a mixed-
+occupancy
+high-rise megastructure
+shall be coordinated in accordance with
+FC416
+.
+
+---
+
+Emergency preparedness plans
+shall be prepared when required by
+FC Chapter 4
+, provided, however, that a
+fire
+and emergency preparedness (
+Level 2
+) plan shall be prepared for
+Group R
+-2
+occupancies
+in a
+high-rise megastructure
+. All
+emergency preparedness plans
+in a mixed-
+occupancy
+high-rise megastructure
+shall be coordinated in accordance with
+FC416
+.
+
+---
+
+## Section 511.5: Fire Command Center
+
+511.5 Fire Command Center
+The
+fire alarm system
+control panel shall be installed in accordance with
+fire command center
+requirements, as set forth in
+FC907.4
+.
+UpCodes Diagram (1)
+
+---
+
+The
+fire alarm system
+control panel shall be installed in accordance with
+fire command center
+requirements, as set forth in
+FC907.4
+.
+
+---
+
+## Section 511.6: Standpipe Elevation Markings
+
+511.6 Standpipe Elevation Markings
+The elevation above grade of each floor level shall be conspicuously marked in accordance with
+FC905
+on or adjacent to the standpipe hose outlets on each floor of a
+high-rise megastructure
+.
+
+---
+
+The elevation above grade of each floor level shall be conspicuously marked in accordance with
+FC905
+on or adjacent to the standpipe hose outlets on each floor of a
+high-rise megastructure
+.
+
+---
+
+## Section 511.7: Storage Space for Pre-Positioned Department Equipment
+
+511.7 Storage Space for Pre-Positioned Department Equipment
+Space shall be provided in a storage room, mechanical room or other
+approved
+, enclosed, secure storage location in a
+high-rise megastructure
+for the sole purpose of storing
+department
+equipment, in accordance with the following requirements:
+A storage space shall be provided for every 150 feet (45 720 mm) in elevation more than 420 feet (128 016 mm) above the lowest level of
+fire
+apparatus access, at a location near the
+fire
+service access elevator or a stairwell.
+Each such storage space shall be not less than 8 feet (2438 mm) in length, 8 feet (2438 mm) in width, and 8 feet (2438 mm) in height, and openable only by
+fire department standard key
+or as otherwise
+approved
+by the
+department
+. Upon reasonable notice to the
+department
+, the
+owner
+shall be afforded access to such storage spaces for inspection, building
+maintenance
+or other legitimate business purpose.
+Each such storage space shall be protected by a
+sprinkler system
+, except as otherwise
+approved
+by the
+department
+.
+Each storage space shall be identified by a sign or marking in accordance with the
+rules
+identifying it as a
+department
+equipment room.
+This constitutes an operational requirement of this code; however, in a building constructed prior to the effective date of this section that lacks storage spaces in compliance with this section, suitable storage spaces (including spaces not protected by a
+sprinkler system
+) may be provided at alternative locations, as
+approved
+by the
+department
+.
+
+---
+
+Space shall be provided in a storage room, mechanical room or other
+approved
+, enclosed, secure storage location in a
+high-rise megastructure
+for the sole purpose of storing
+department
+equipment, in accordance with the following requirements:
+A storage space shall be provided for every 150 feet (45 720 mm) in elevation more than 420 feet (128 016 mm) above the lowest level of
+fire
+apparatus access, at a location near the
+fire
+service access elevator or a stairwell.
+Each such storage space shall be not less than 8 feet (2438 mm) in length, 8 feet (2438 mm) in width, and 8 feet (2438 mm) in height, and openable only by
+fire department standard key
+or as otherwise
+approved
+by the
+department
+. Upon reasonable notice to the
+department
+, the
+owner
+shall be afforded access to such storage spaces for inspection, building
+maintenance
+or other legitimate business purpose.
+Each such storage space shall be protected by a
+sprinkler system
+, except as otherwise
+approved
+by the
+department
+.
+Each storage space shall be identified by a sign or marking in accordance with the
+rules
+identifying it as a
+department
+equipment room.
+This constitutes an operational requirement of this code; however, in a building constructed prior to the effective date of this section that lacks storage spaces in compliance with this section, suitable storage spaces (including spaces not protected by a
+sprinkler system
+) may be provided at alternative locations, as
+approved
+by the
+department
+.
+
+---
+
+## Section 511.8: Access to Elevator Shafts
+
+511.8 Access to Elevator Shafts
+The
+department
+, in coordination with the
+Department of Buildings
+, may adopt
+rules
+requiring additional access to elevator cabs, installation of elevator location technology, or other design, installation or operational measures designed to facilitate rescue operations in blind hoistways 36 feet (10 973 mm) or more in height in
+high-rise megastructures
+.
+
+---
+
+The
+department
+, in coordination with the
+Department of Buildings
+, may adopt
+rules
+requiring additional access to elevator cabs, installation of elevator location technology, or other design, installation or operational measures designed to facilitate rescue operations in blind hoistways 36 feet (10 973 mm) or more in height in
+high-rise megastructures
+.
+
+---
+
+Section 512 Rooftop Solar Panel Installations
+
+---
+
+## Section 512.1: General
+
+512.1 General
+The design, installation, operation and
+maintenance
+of solar panel
+systems
+, including photovoltaic and thermal
+systems
+, on the rooftops of buildings and structures, shall be in accordance with this section, the
+Electrical Code
+and the
+construction codes
+, including the
+Building Code
+,
+Mechanical Code
+and
+Plumbing Code
+.
+
+---
+
+The design, installation, operation and
+maintenance
+of solar panel
+systems
+, including photovoltaic and thermal
+systems
+, on the rooftops of buildings and structures, shall be in accordance with this section, the
+Electrical Code
+and the
+construction codes
+, including the
+Building Code
+,
+Mechanical Code
+and
+Plumbing Code
+.
+
+---
+
+## Section 512.2: Flat-Roofed Buildings and Structures 100 Feet or Less in Height
+
+512.2 Flat-Roofed Buildings and Structures 100 Feet or Less in Height
+Solar panel installations shall not obstruct any rooftop area access to which is required pursuant to
+FC504.4
+, except that solar panel installations may obstruct the clear path required by
+FC504.4.4
+as follows:
+if the installation is provided with a hinged mechanism or other device for which a
+certificate of approval
+has been issued that enables the installation to be safely swung, slid, lifted, collapsed or otherwise moved out of the clear path, and that is designed to allow for operation by one person, without the use of a
+tool
+; or
+on any building with a rooftop width or depth of 25 feet (7620 mm) or less, where the design of a solar panel installation necessitates coverage of all or substantially all of the rooftop across the full width or length thereof, the
+commissioner
+may authorize permanent
+obstructions
+that encroach upon and thereby reduce the clear path width within such area when necessary to accommodate the presence of building features and building service equipment that constitute permanent
+obstructions
+, including attic ventilators, bulkheads, chimneys, hatches, plumbing
+ventilations
+pipes, scuttles, skylights, and roof-mounted heating,
+ventilation
+and air conditioning equipment. Such permanent
+obstructions
+may encroach upon and, for the distance of the obstruction, reduce the clear path width up to 2 feet (610 mm). Such permanent
+obstructions
+shall not reduce the width of clear path at any point to less than 4 feet (1219 mm) and shall not encroach upon the rooftop landing areas required by
+FC504.4.3
+.
+
+---
+
+Solar panel installations shall not obstruct any rooftop area access to which is required pursuant to
+FC504.4
+, except that solar panel installations may obstruct the clear path required by
+FC504.4.4
+as follows:
+if the installation is provided with a hinged mechanism or other device for which a
+certificate of approval
+has been issued that enables the installation to be safely swung, slid, lifted, collapsed or otherwise moved out of the clear path, and that is designed to allow for operation by one person, without the use of a
+tool
+; or
+on any building with a rooftop width or depth of 25 feet (7620 mm) or less, where the design of a solar panel installation necessitates coverage of all or substantially all of the rooftop across the full width or length thereof, the
+commissioner
+may authorize permanent
+obstructions
+that encroach upon and thereby reduce the clear path width within such area when necessary to accommodate the presence of building features and building service equipment that constitute permanent
+obstructions
+, including attic ventilators, bulkheads, chimneys, hatches, plumbing
+ventilations
+pipes, scuttles, skylights, and roof-mounted heating,
+ventilation
+and air conditioning equipment. Such permanent
+obstructions
+may encroach upon and, for the distance of the obstruction, reduce the clear path width up to 2 feet (610 mm). Such permanent
+obstructions
+shall not reduce the width of clear path at any point to less than 4 feet (1219 mm) and shall not encroach upon the rooftop landing areas required by
+FC504.4.3
+.
+
+---
+
+## Section 512.3: Pitched-Roofed Buildings and Structures 100 Feet or Less in Height
+
+512.3 Pitched-Roofed Buildings and Structures 100 Feet or Less in Height
+Solar panel installations shall be designed, installed, operated and maintained in accordance with this section on rooftops of buildings and structures 100 feet (30 480 mm) or less in height with a slope exceeding 20 degrees, except detached
+Group U
+buildings and structures.
+
+---
+
+Solar panel installations shall be designed, installed, operated and maintained in accordance with this section on rooftops of buildings and structures 100 feet (30 480 mm) or less in height with a slope exceeding 20 degrees, except detached
+Group U
+buildings and structures.
+
+---
+
+## Section 512.3.1: Hip Roofs
+
+512.3.1 Hip Roofs
+Solar panel installations shall provide a 3 foot (914 mm) wide clear access area along the ridge on each roof slope upon which solar panels are installed.
+
+---
+
+Solar panel installations shall provide a 3 foot (914 mm) wide clear access area along the ridge on each roof slope upon which solar panels are installed.
+
+---
+
+## Section 512.3.2: Ventilation
+
+512.3.2 Ventilation
+Solar panels shall not be installed closer than 3 feet (914 mm) to the ridge line.
+
+---
+
+Solar panels shall not be installed closer than 3 feet (914 mm) to the ridge line.
+
+---
+
+## Section 512.4: Photovoltaic Solar Panel Installations
+
+512.4 Photovoltaic Solar Panel Installations
+Photovoltaic solar panel installations shall be designed, installed, operated and maintained in compliance with the requirements of this section.
+
+---
+
+Photovoltaic solar panel installations shall be designed, installed, operated and maintained in compliance with the requirements of this section.
+
+---
+
+## Section 512.4.1: Location of Photovoltaic Solar Panel Installations on Pitched Roofs
+
+512.4.1 Location of Photovoltaic Solar Panel Installations on Pitched Roofs
+Direct current conduit, wiring
+systems
+, and raceways for photovoltaic circuits installed on pitched roofs subject to the requirements of
+FC512.3
+shall be located along hips and valleys, away from the ridge, and on outside walls, to maximize
+ventilation
+opportunities. Conduit runs between sub-
+arrays
+and to direct current combiner boxes shall be installed in a manner that minimizes the total amount of conduit on the roof by taking the shortest path from the
+array
+to the direct current combiner box, except as necessary to minimize the tripping hazard. The direct current combiner boxes shall be located such that conduit runs are minimized in the pathways between
+arrays
+.
+
+---
+
+Direct current conduit, wiring
+systems
+, and raceways for photovoltaic circuits installed on pitched roofs subject to the requirements of
+FC512.3
+shall be located along hips and valleys, away from the ridge, and on outside walls, to maximize
+ventilation
+opportunities. Conduit runs between sub-
+arrays
+and to direct current combiner boxes shall be installed in a manner that minimizes the total amount of conduit on the roof by taking the shortest path from the
+array
+to the direct current combiner box, except as necessary to minimize the tripping hazard. The direct current combiner boxes shall be located such that conduit runs are minimized in the pathways between
+arrays
+.
+
+---
+
+## Section 512.4.2: Photovoltaic Solar Panel Installation Markings
+
+512.4.2 Photovoltaic Solar Panel Installation Markings
+Indoor
+and outdoor direct current conduit, enclosures, raceways, cable assemblies, junction boxes, combiner boxes, and main service and other disconnects shall have durable, retroreflective and, if outdoors, weatherproof, markings, in white capital letters with a height of not less than
+3
+/
+8
+inch (9.5 mm) on a red background, reading "WARNING: PHOTOVOLTAIC POWER SOURCE." Continuous installations, including conduit, raceways, enclosures and cable assemblies, shall be marked every 10 feet (3048 mm), within 1 foot (305 mm) of all turns or bends, and within 1 foot (305 mm) above and below all penetrations of roof or ceiling assemblies and all walls.
+
+---
+
+Indoor
+and outdoor direct current conduit, enclosures, raceways, cable assemblies, junction boxes, combiner boxes, and main service and other disconnects shall have durable, retroreflective and, if outdoors, weatherproof, markings, in white capital letters with a height of not less than
+3
+/
+8
+inch (9.5 mm) on a red background, reading "WARNING: PHOTOVOLTAIC POWER SOURCE." Continuous installations, including conduit, raceways, enclosures and cable assemblies, shall be marked every 10 feet (3048 mm), within 1 foot (305 mm) of all turns or bends, and within 1 foot (305 mm) above and below all penetrations of roof or ceiling assemblies and all walls.
+
+---
+

@@ -1,0 +1,1304 @@
+# NYC Fire Code 2022 - Chapter 37
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+3701 General
+
+---
+
+3702 Definitions
+
+---
+
+3703 General Requirements
+
+---
+
+3704 Loose Fiber Storage
+
+---
+
+3705 Baled Storage
+
+---
+
+3706 Storage of Combustible Fibers on Waterfront Structures
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Section 3701 General
+
+---
+
+## Section 3701.1: Scope
+
+3701.1 Scope
+This chapter shall govern the storage and
+handling
+of
+combustible fibers
+.
+
+---
+
+This chapter shall govern the storage and
+handling
+of
+combustible fibers
+.
+
+---
+
+## Section 3701.2: General
+
+3701.2 General
+Combustible fibers
+shall be stored and handled in accordance with this chapter.
+
+---
+
+Combustible fibers
+shall be stored and handled in accordance with this chapter.
+
+---
+
+## Section 3701.3: Permits
+
+3701.3 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 3701.4: Approved Facility or Location
+
+3701.4 Approved Facility or Location
+Combustible fibers
+in quantities requiring a
+permit
+shall be stored in an
+approved
+facility
+or other
+approved
+location.
+
+---
+
+Combustible fibers
+in quantities requiring a
+permit
+shall be stored in an
+approved
+facility
+or other
+approved
+location.
+
+---
+
+## Section 3701.5: Prohibition
+
+3701.5 Prohibition
+It shall be unlawful to store
+combustible fibers
+in a quantity that covers more than two-thirds of the floor area of any floor or in a quantity that is to a height greater than two-thirds of the distance from the floor to the ceiling.
+
+---
+
+It shall be unlawful to store
+combustible fibers
+in a quantity that covers more than two-thirds of the floor area of any floor or in a quantity that is to a height greater than two-thirds of the distance from the floor to the ceiling.
+
+---
+
+Section 3702 Definitions
+
+---
+
+## Section 3702.1: Definitions
+
+3702.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+BALED COTTON
+.
+BALED COTTON, DENSELY PACKED
+.
+COMBUSTIBLE FIBERS
+.
+SEED COTTON
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+BALED COTTON
+.
+BALED COTTON, DENSELY PACKED
+.
+COMBUSTIBLE FIBERS
+.
+SEED COTTON
+.
+
+---
+
+Section 3703 General Requirements
+
+---
+
+## Section 3703.1: Combustible Waste
+
+3703.1 Combustible Waste
+Ashes,
+rubbish
+or other
+combustible waste
+shall not be placed in wooden or other combustible
+containers
+and shall be removed daily from the
+facility
+.
+
+---
+
+Ashes,
+rubbish
+or other
+combustible waste
+shall not be placed in wooden or other combustible
+containers
+and shall be removed daily from the
+facility
+.
+
+---
+
+## Section 3703.2: Vegetation
+
+3703.2 Vegetation
+Grass, vines, weeds, brush or other combustible
+vegetation
+shall not be allowed to accumulate within 15 feet (4570 mm) of any combustible fiber storage location.
+
+---
+
+Grass, vines, weeds, brush or other combustible
+vegetation
+shall not be allowed to accumulate within 15 feet (4570 mm) of any combustible fiber storage location.
+
+---
+
+## Section 3703.3: Clearances
+
+3703.3 Clearances
+A minimum clearance of 3 feet (914 mm) shall be maintained between sprinkler heads and the top of piles.
+
+---
+
+A minimum clearance of 3 feet (914 mm) shall be maintained between sprinkler heads and the top of piles.
+
+---
+
+## Section 3703.4: Agricultural Products
+
+3703.4 Agricultural Products
+Hay, straw,
+seed cotton
+or similar agricultural products shall not be stored in an area adjoining any combustible fiber storage location unless a clear horizontal distance equal to the height of a pile is maintained between such agricultural products and such storage location. Storage shall be limited to stacks of 100 tons (91 metric tons) each. Stacks shall be separated by a minimum of 20 feet (6096 mm) of clear space.
+
+---
+
+Hay, straw,
+seed cotton
+or similar agricultural products shall not be stored in an area adjoining any combustible fiber storage location unless a clear horizontal distance equal to the height of a pile is maintained between such agricultural products and such storage location. Storage shall be limited to stacks of 100 tons (91 metric tons) each. Stacks shall be separated by a minimum of 20 feet (6096 mm) of clear space.
+
+---
+
+## Section 3703.5: Dust Collection
+
+3703.5 Dust Collection
+Where located within a building, devices, equipment and
+systems
+that generate or emit
+combustible fibers
+shall be provided with an
+approved
+dust-collecting and exhaust
+system
+. Such
+system
+shall comply with the requirements of
+FC Chapter 22
+and the
+construction codes
+, including the
+Mechanical Code
+.
+
+---
+
+Where located within a building, devices, equipment and
+systems
+that generate or emit
+combustible fibers
+shall be provided with an
+approved
+dust-collecting and exhaust
+system
+. Such
+system
+shall comply with the requirements of
+FC Chapter 22
+and the
+construction codes
+, including the
+Mechanical Code
+.
+
+---
+
+## Section 3703.6: Portable Fire Extinguishers
+
+3703.6 Portable Fire Extinguishers
+Portable
+fire
+extinguishers shall be provided in accordance with
+FC906
+governing extra-hazard
+occupancy
+protection, as set forth in FC
+Table 906.3.1
+.
+
+---
+
+Portable
+fire
+extinguishers shall be provided in accordance with
+FC906
+governing extra-hazard
+occupancy
+protection, as set forth in FC
+Table 906.3.1
+.
+
+---
+
+Section 3704 Loose Fiber Storage
+
+---
+
+## Section 3704.1: Reserved
+
+3704.1 Reserved
+
+---
+
+## Section 3704.2: Storage of 100 Cubic Feet or Less
+
+3704.2 Storage of 100 Cubic Feet or Less
+Loose
+combustible fibers
+in quantities of not more than 100 cubic feet (3 m
+3
+) located in a building or structure shall be stored in a metal or metal-lined bin equipped with a self-closing cover.
+
+---
+
+Loose
+combustible fibers
+in quantities of not more than 100 cubic feet (3 m
+3
+) located in a building or structure shall be stored in a metal or metal-lined bin equipped with a self-closing cover.
+
+---
+
+## Section 3704.3: Storage of More Than 100 Cubic Feet to 500 Cubic Feet
+
+3704.3 Storage of More Than 100 Cubic Feet to 500 Cubic Feet
+Loose
+combustible fibers
+in quantities exceeding 100 cubic feet (3 m
+3
+) but not exceeding 500 cubic feet (14 m
+3
+) shall be stored in rooms enclosed with 1-hour
+fire
+-resistance-rated
+fire
+barriers, with openings protected by an
+approved
+opening protective assembly having a
+fire
+protection rating of
+3
+/
+4
+-hour, constructed in accordance with the
+construction codes
+, including the
+Building Code
+.
+Assemblies (3)
+Building products (7)
+
+---
+
+Loose
+combustible fibers
+in quantities exceeding 100 cubic feet (3 m
+3
+) but not exceeding 500 cubic feet (14 m
+3
+) shall be stored in rooms enclosed with 1-hour
+fire
+-resistance-rated
+fire
+barriers, with openings protected by an
+approved
+opening protective assembly having a
+fire
+protection rating of
+3
+/
+4
+-hour, constructed in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 3704.4: Storage of More Than 500 Cubic Feet to 1,000 Cubic Feet
+
+3704.4 Storage of More Than 500 Cubic Feet to 1,000 Cubic Feet
+Loose
+combustible fibers
+in quantities exceeding 500 cubic feet (14 m
+3
+) but not exceeding 1,000 cubic feet (28 m
+3
+) shall be stored in rooms enclosed with 2-hour
+fire
+-resistance-rated
+fire
+barriers, with openings protected by an
+approved
+opening protective assembly having a
+fire
+protection rating of 1
+1
+/
+2
+-hours, and constructed in accordance with the
+construction codes
+, including the
+Building Code
+.
+Assembly (1)
+
+---
+
+Loose
+combustible fibers
+in quantities exceeding 500 cubic feet (14 m
+3
+) but not exceeding 1,000 cubic feet (28 m
+3
+) shall be stored in rooms enclosed with 2-hour
+fire
+-resistance-rated
+fire
+barriers, with openings protected by an
+approved
+opening protective assembly having a
+fire
+protection rating of 1
+1
+/
+2
+-hours, and constructed in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 3704.5: Storage of More Than 1,000 Cubic Feet to 2,500 Cubic Feet
+
+3704.5 Storage of More Than 1,000 Cubic Feet to 2,500 Cubic Feet
+Loose
+combustible fibers
+in quantities exceeding 1,000 cubic feet (28 m
+3
+) but not exceeding 2,500 cubic feet (70 m
+3
+) shall be stored in rooms enclosed with 2-hour
+fire
+-resistance-rated
+fire
+barriers, with openings protected by an
+approved
+opening protective assembly having a
+fire
+protection rating of 1
+1
+/
+2
+-hours, and constructed in accordance with the
+construction codes
+, including the
+Building Code
+. The storage room shall be protected throughout by a
+sprinkler system
+.
+
+---
+
+Loose
+combustible fibers
+in quantities exceeding 1,000 cubic feet (28 m
+3
+) but not exceeding 2,500 cubic feet (70 m
+3
+) shall be stored in rooms enclosed with 2-hour
+fire
+-resistance-rated
+fire
+barriers, with openings protected by an
+approved
+opening protective assembly having a
+fire
+protection rating of 1
+1
+/
+2
+-hours, and constructed in accordance with the
+construction codes
+, including the
+Building Code
+. The storage room shall be protected throughout by a
+sprinkler system
+.
+
+---
+
+## Section 3704.6: Storage of More Than 2,500 Cubic Feet; Detached Storage Structure
+
+3704.6 Storage of More Than 2,500 Cubic Feet; Detached Storage Structure
+Loose
+combustible fibers
+in quantities exceeding 2,500 cubic feet (70 m
+3
+) but not exceeding 10,000 cubic feet (280 m
+3
+) shall be stored in a detached structure suitably located, with openings protected against entrance of sparks. The structure shall not be occupied for any other purpose. Loose
+combustible fibers
+in quantities exceeding 10,000 cubic feet (280 m
+3
+) may be stored only with the approval of the
+commissioner
+.
+
+---
+
+Loose
+combustible fibers
+in quantities exceeding 2,500 cubic feet (70 m
+3
+) but not exceeding 10,000 cubic feet (280 m
+3
+) shall be stored in a detached structure suitably located, with openings protected against entrance of sparks. The structure shall not be occupied for any other purpose. Loose
+combustible fibers
+in quantities exceeding 10,000 cubic feet (280 m
+3
+) may be stored only with the approval of the
+commissioner
+.
+
+---
+
+## Section 3704.7: Separation From Hazardous Materials
+
+3704.7 Separation From Hazardous Materials
+No hazardous material shall be stored in any room or detached structure containing loose
+combustible fibers
+.
+
+---
+
+No hazardous material shall be stored in any room or detached structure containing loose
+combustible fibers
+.
+
+---
+
+Section 3705 Baled Storage
+
+---
+
+## Section 3705.1: Bale Size and Separation
+
+3705.1 Bale Size and Separation
+Baled
+combustible fibers
+shall be limited to single blocks or piles not more than 25,000 cubic feet (700 m
+3
+) in volume, not including aisles or clearances. Blocks or piles of baled fiber shall be separated from adjacent storage by aisles not less than 5 feet (1524 mm) wide, or by flash-
+fire
+barriers constructed of continuous sheets of noncombustible material extending from the floor to a minimum height of 1 foot (305 mm) above the highest point of the piles and projecting not less than 1 foot (305 mm) beyond the sides of the piles.
+
+---
+
+Baled
+combustible fibers
+shall be limited to single blocks or piles not more than 25,000 cubic feet (700 m
+3
+) in volume, not including aisles or clearances. Blocks or piles of baled fiber shall be separated from adjacent storage by aisles not less than 5 feet (1524 mm) wide, or by flash-
+fire
+barriers constructed of continuous sheets of noncombustible material extending from the floor to a minimum height of 1 foot (305 mm) above the highest point of the piles and projecting not less than 1 foot (305 mm) beyond the sides of the piles.
+
+---
+
+## Section 3705.2: Special Baling Conditions
+
+3705.2 Special Baling Conditions
+Sisal and other fibers in bales bound with combustible tie ropes, jute and other fibers that swell when wet, shall be stored to allow for expansion in any direction without affecting building walls, ceilings or columns. A minimum clearance of 3 feet (914 mm) shall be required between walls and sides of piles, except that where the storage compartment is not more than 30 feet (9144 mm) wide, the minimum clearance at side walls shall be 1 foot (305 mm), provided that a center aisle not less than 5 feet (1524 mm) wide is maintained.
+
+---
+
+Sisal and other fibers in bales bound with combustible tie ropes, jute and other fibers that swell when wet, shall be stored to allow for expansion in any direction without affecting building walls, ceilings or columns. A minimum clearance of 3 feet (914 mm) shall be required between walls and sides of piles, except that where the storage compartment is not more than 30 feet (9144 mm) wide, the minimum clearance at side walls shall be 1 foot (305 mm), provided that a center aisle not less than 5 feet (1524 mm) wide is maintained.
+
+---
+
+Section 3706 Storage of Combustible Fibers on Waterfront Structures
+
+---
+
+## Section 3706.1: Scope
+
+3706.1 Scope
+This section shall govern the storage and
+handling
+of
+combustible fibers
+on waterfront structures, including
+piers
+, wharfs and bulkheads except when
+combustible fibers
+are stored and handled exclusively in sealed metal shipping
+containers
+.
+
+---
+
+This section shall govern the storage and
+handling
+of
+combustible fibers
+on waterfront structures, including
+piers
+, wharfs and bulkheads except when
+combustible fibers
+are stored and handled exclusively in sealed metal shipping
+containers
+.
+
+---
+
+## Section 3706.2: General
+
+3706.2 General
+Combustible fiber shall be stored and handled on waterfront structures in accordance with this section.
+
+---
+
+Combustible fiber shall be stored and handled on waterfront structures in accordance with this section.
+
+---
+
+## Section 3706.3: Prohibitions
+
+3706.3 Prohibitions
+It shall be unlawful to:
+Unload and store loose
+combustible fibers
+on a waterfront structure.
+Conduct
+hot work
+operations on a waterfront structure where
+combustible fibers
+are in storage or being handled.
+
+---
+
+It shall be unlawful to:
+Unload and store loose
+combustible fibers
+on a waterfront structure.
+Conduct
+hot work
+operations on a waterfront structure where
+combustible fibers
+are in storage or being handled.
+
+---
+
+## Section 3706.4: Supervision of Standpipe and Sprinkler Systems
+
+3706.4 Supervision of Standpipe and Sprinkler Systems
+A person holding a
+certificate of fitness
+for a
+standpipe system
+and a
+certificate of fitness
+for
+sprinkler system
+maintenance
+shall inspect the
+standpipe
+and
+sprinkler systems
+not more than 24 hours prior to the delivery of the
+combustible fibers
+.
+Combustible fibers
+shall not be unloaded if the
+standpipe
+or
+sprinkler system
+is out of service. While
+combustible fibers
+are present on the waterfront structure, the
+certificate of fitness
+holder shall inspect the standpipe and
+sprinkler systems
+, and portable
+fire
+extinguishers at least once each day. A record of all inspections shall be maintained on the
+premises
+and made available for inspection by any representative of the
+department
+.
+
+---
+
+A person holding a
+certificate of fitness
+for a
+standpipe system
+and a
+certificate of fitness
+for
+sprinkler system
+maintenance
+shall inspect the
+standpipe
+and
+sprinkler systems
+not more than 24 hours prior to the delivery of the
+combustible fibers
+.
+Combustible fibers
+shall not be unloaded if the
+standpipe
+or
+sprinkler system
+is out of service. While
+combustible fibers
+are present on the waterfront structure, the
+certificate of fitness
+holder shall inspect the standpipe and
+sprinkler systems
+, and portable
+fire
+extinguishers at least once each day. A record of all inspections shall be maintained on the
+premises
+and made available for inspection by any representative of the
+department
+.
+
+---
+
+## Section 3706.5: Notification
+
+3706.5 Notification
+Before
+combustible fibers
+are unloaded to a waterfront structure from any marine
+vessel
+, watercraft or
+motor vehicle
+, advance notice of at least 48 hours shall be given to the
+department
+by the
+owner
+of the waterfront structure.
+
+---
+
+Before
+combustible fibers
+are unloaded to a waterfront structure from any marine
+vessel
+, watercraft or
+motor vehicle
+, advance notice of at least 48 hours shall be given to the
+department
+by the
+owner
+of the waterfront structure.
+
+---
+
+## Section 3706.6: Fire Protection
+
+3706.6 Fire Protection
+Waterfront structures where
+combustible fibers
+are stored or handled shall be provided with
+fire
+protection in accordance with
+FC 3706.6.1
+through
+3706.6.4
+.
+
+---
+
+Waterfront structures where
+combustible fibers
+are stored or handled shall be provided with
+fire
+protection in accordance with
+FC 3706.6.1
+through
+3706.6.4
+.
+
+---
+
+## Section 3706.6.1: Superstructure
+
+3706.6.1 Superstructure
+The superstructure of the waterfront structure shall be protected throughout by a
+sprinkler system
+.
+
+---
+
+The superstructure of the waterfront structure shall be protected throughout by a
+sprinkler system
+.
+
+---
+
+## Section 3706.6.2: Substructure
+
+3706.6.2 Substructure
+The substructure of the waterfront structure shall be protected by one of the following methods:
+Fire
+stops at intervals of 150 feet (45 720 mm); and
+A
+sprinkler system
+arranged for discharge of water to the entire substructure area; or
+Protected openings through decking for revolving nozzles or other water discharge equipment, so arranged as to
+permit
+water discharge onto the entire substructure area. Such openings shall be a minimum of 6
+1
+/
+2
+inches (165 mm) in diameter and spaced at 25 feet (7620 mm) intervals longitudinally and transversely. No cargo shall be stored on deck openings adjacent to the substructure
+fire
+stops and those in the main and
+fire
+hose aisles.
+A
+system
+of water spray nozzles arranged to
+permit
+water discharge onto the entire substructure area and installed in accordance with the
+Building Code
+.
+A
+system
+of trenches across the waterfront structure every 100 feet (30 480 mm). Such trenches shall not exceed 12 inches (305 mm) in width, shall be of substantial construction that conforms to the rest of the waterfront structure, shall extend to within 5 feet (1524 mm) of the sides of the waterfront structure, and shall have openings protected in sections not to exceed 25 feet (7620 mm) for access or removal in the event of
+fire
+. No cargo shall be placed directly above these openings, and durable signs shall be conspicuously posted on the waterfront structure to indicate the location of these openings.
+A
+system
+of deck openings and under-deck sprinkler protection
+approved
+by the
+commissioner
+. Openings shall be spaced at 25 feet (7620 mm) intervals longitudinally and transversely. No cargo shall be placed directly above these openings, and durable signs shall be conspicuously posted on the waterfront structure to indicate the location of these openings.
+
+---
+
+The substructure of the waterfront structure shall be protected by one of the following methods:
+Fire
+stops at intervals of 150 feet (45 720 mm); and
+A
+sprinkler system
+arranged for discharge of water to the entire substructure area; or
+Protected openings through decking for revolving nozzles or other water discharge equipment, so arranged as to
+permit
+water discharge onto the entire substructure area. Such openings shall be a minimum of 6
+1
+/
+2
+inches (165 mm) in diameter and spaced at 25 feet (7620 mm) intervals longitudinally and transversely. No cargo shall be stored on deck openings adjacent to the substructure
+fire
+stops and those in the main and
+fire
+hose aisles.
+A
+system
+of water spray nozzles arranged to
+permit
+water discharge onto the entire substructure area and installed in accordance with the
+Building Code
+.
+A
+system
+of trenches across the waterfront structure every 100 feet (30 480 mm). Such trenches shall not exceed 12 inches (305 mm) in width, shall be of substantial construction that conforms to the rest of the waterfront structure, shall extend to within 5 feet (1524 mm) of the sides of the waterfront structure, and shall have openings protected in sections not to exceed 25 feet (7620 mm) for access or removal in the event of
+fire
+. No cargo shall be placed directly above these openings, and durable signs shall be conspicuously posted on the waterfront structure to indicate the location of these openings.
+A
+system
+of deck openings and under-deck sprinkler protection
+approved
+by the
+commissioner
+. Openings shall be spaced at 25 feet (7620 mm) intervals longitudinally and transversely. No cargo shall be placed directly above these openings, and durable signs shall be conspicuously posted on the waterfront structure to indicate the location of these openings.
+
+---
+
+## Section 3706.6.3: LPG or Gasoline-Fueled Equipment
+
+3706.6.3 LPG or Gasoline-Fueled Equipment
+Any LPG or gasoline-fueled devices, equipment or
+systems
+used to handle
+combustible fibers
+, or operated in the immediate area of combustible fiber storage or
+handling
+, shall be equipped with exhaust spark arresters and carburetor traps.
+
+---
+
+Any LPG or gasoline-fueled devices, equipment or
+systems
+used to handle
+combustible fibers
+, or operated in the immediate area of combustible fiber storage or
+handling
+, shall be equipped with exhaust spark arresters and carburetor traps.
+
+---
+
+## Section 3706.6.4: Portable Fire Extinguishers
+
+3706.6.4 Portable Fire Extinguishers
+The combustible fiber storage area shall be provided with portable
+fire
+extinguishers in accordance with
+FC906
+governing extra-high hazards (Class A
+fires
+).
+
+---
+
+The combustible fiber storage area shall be provided with portable
+fire
+extinguishers in accordance with
+FC906
+governing extra-high hazards (Class A
+fires
+).
+
+---
+
+## Section 3706.7: Storage and Handling
+
+3706.7 Storage and Handling
+Bales of
+combustible fibers
+facing aisles shall be covered on top and sides with tarpaulins or other suitable covering. Whenever possible, the
+combustible fibers
+shall be stacked on one side of the waterfront structure only, preferably at the water end of waterfront structure.
+Combustible fibers
+shall be tiered no higher than 12 feet (3658 mm) and a clearance of not less than 18 inches (457 mm) between the sprinkler head and the upper level of the top tier shall be maintained. An aisle space of not less than 5 feet (1524 mm) extending to the side of the waterfront structure shall be provided at right angles to the main aisle at intervals not exceeding 75 feet (22 860 mm) in the combustible fiber storage area.
+
+---
+
+Bales of
+combustible fibers
+facing aisles shall be covered on top and sides with tarpaulins or other suitable covering. Whenever possible, the
+combustible fibers
+shall be stacked on one side of the waterfront structure only, preferably at the water end of waterfront structure.
+Combustible fibers
+shall be tiered no higher than 12 feet (3658 mm) and a clearance of not less than 18 inches (457 mm) between the sprinkler head and the upper level of the top tier shall be maintained. An aisle space of not less than 5 feet (1524 mm) extending to the side of the waterfront structure shall be provided at right angles to the main aisle at intervals not exceeding 75 feet (22 860 mm) in the combustible fiber storage area.
+
+---
+
+## Section 3706.8: Operation and Maintenance
+
+3706.8 Operation and Maintenance
+Waterfront structures upon which
+combustible fibers
+are stored or handled shall be operated and maintained in compliance with the requirements of
+FC 3706.8.1
+through
+3706.8.3
+.
+
+---
+
+Waterfront structures upon which
+combustible fibers
+are stored or handled shall be operated and maintained in compliance with the requirements of
+FC 3706.8.1
+through
+3706.8.3
+.
+
+---
+
+## Section 3706.8.1: Fire Guard
+
+3706.8.1 Fire Guard
+A
+fire guard
+shall be required and positioned approximately every 200 feet (60 960 mm) throughout the length of the combustible fiber storage area. Persons conducting a
+fire watch
+shall have the duties and responsibilities set forth in
+FC901.7.2.1
+with respect to the areas being monitored in connection with combustible fiber storage, and shall be familiar with the location of
+fire
+alarm manual pull stations, and
+standpipe system
+hose and hose connections in the area.
+
+---
+
+A
+fire guard
+shall be required and positioned approximately every 200 feet (60 960 mm) throughout the length of the combustible fiber storage area. Persons conducting a
+fire watch
+shall have the duties and responsibilities set forth in
+FC901.7.2.1
+with respect to the areas being monitored in connection with combustible fiber storage, and shall be familiar with the location of
+fire
+alarm manual pull stations, and
+standpipe system
+hose and hose connections in the area.
+
+---
+
+## Section 3706.8.2: Access
+
+3706.8.2 Access
+Access to
+combustible fibers
+and the aisles between the stored
+combustible fibers
+shall be restricted to personnel
+handling
+the
+combustible fibers
+,
+fire guards
+and representatives of the
+department
+.
+
+---
+
+Access to
+combustible fibers
+and the aisles between the stored
+combustible fibers
+shall be restricted to personnel
+handling
+the
+combustible fibers
+,
+fire guards
+and representatives of the
+department
+.
+
+---
+
+## Section 3706.8.3: Loading and Unloading
+
+3706.8.3 Loading and Unloading
+When loading and unloading
+combustible fibers
+, two persons shall be assigned to each loading or unloading operation to stand by with the standpipe hose. These persons shall be instructed as to the location and use of the
+standpipe system
+valves and hoses.
+
+---
+
+When loading and unloading
+combustible fibers
+, two persons shall be assigned to each loading or unloading operation to stand by with the standpipe hose. These persons shall be instructed as to the location and use of the
+standpipe system
+valves and hoses.
+
+---
+

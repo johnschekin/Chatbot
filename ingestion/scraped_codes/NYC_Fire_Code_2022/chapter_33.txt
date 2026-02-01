@@ -1,0 +1,3030 @@
+# NYC Fire Code 2022 - Chapter 33
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+3301 General
+
+---
+
+3302 Definitions
+
+---
+
+3303 Portable Fueled Space Heaters
+
+---
+
+3304 Precautions Against Fire
+
+---
+
+3305 Flammable and Combustible Liquids
+
+---
+
+3306 Flammable Gases and Oxygen
+
+---
+
+3307 Explosive Materials
+
+---
+
+3308 Construction Site Fire Safety Manager
+
+---
+
+3309 Fire Alarm Reporting
+
+---
+
+3310 Access for Firefighting
+
+---
+
+3311 Means of Egress and Elevators
+
+---
+
+3312 Water Supply for Fire Protection
+
+---
+
+3313 Standpipes
+
+---
+
+3314 Sprinkler System
+
+---
+
+3315 Portable Fire Extinguishers
+
+---
+
+3316 Internal-Combustion-Powered Equipment
+
+---
+
+3317 Safeguarding Roofing Operations
+
+---
+
+3318 Powder-Actuated Tool Loads
+
+---
+
+3319 First Responder Box
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Section 3301 General
+
+---
+
+## Section 3301.1: Scope
+
+3301.1 Scope
+This chapter shall govern
+fire
+safety measures during the construction,
+alteration
+, or demolition of buildings, structures,
+premises
+and
+facilities
+.
+
+---
+
+This chapter shall govern
+fire
+safety measures during the construction,
+alteration
+, or demolition of buildings, structures,
+premises
+and
+facilities
+.
+
+---
+
+## Section 3301.2: General
+
+3301.2 General
+Buildings, structures,
+premises
+and
+facilities
+undergoing construction,
+alteration
+or demolition shall comply with the
+fire
+safety measures set forth in this chapter, and shall additionally comply with the requirements of NFPA 241 as to measures not specifically addressed herein.
+
+---
+
+Buildings, structures,
+premises
+and
+facilities
+undergoing construction,
+alteration
+or demolition shall comply with the
+fire
+safety measures set forth in this chapter, and shall additionally comply with the requirements of NFPA 241 as to measures not specifically addressed herein.
+
+---
+
+## Section 3301.3: Permits
+
+3301.3 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 3301.4: Prohibitions
+
+3301.4 Prohibitions
+It shall be unlawful at a
+construction site
+to store, handle or use portable fueled space heating devices or equipment.
+Exception:
+Portable space heating devices may be used for construction-related curing and drying in accordance with
+FC3303
+.
+
+---
+
+It shall be unlawful at a
+construction site
+to store, handle or use portable fueled space heating devices or equipment.
+Exception:
+Portable space heating devices may be used for construction-related curing and drying in accordance with
+FC3303
+.
+
+---
+
+Section 3302 Definitions
+
+---
+
+## Section 3302.1: Definitions
+
+3302.1 Definitions
+The following term shall, for the purposes of this chapter and as used elsewhere in this code, have the meaning set forth in
+FC202
+.
+CONSTRUCTION SITE
+.
+
+---
+
+The following term shall, for the purposes of this chapter and as used elsewhere in this code, have the meaning set forth in
+FC202
+.
+CONSTRUCTION SITE
+.
+
+---
+
+Section 3303 Portable Fueled Space Heaters
+
+---
+
+## Section 3303.1: Design
+
+3303.1 Design
+Portable fueled space heaters shall be designed, listed and
+labeled
+in accordance with the
+construction codes
+, including the
+Mechanical Code
+and the
+Fuel Gas Code
+, this code, and standards promulgated by the
+commissioner
+by rule, as applicable. Portable fueled space heaters shall be installed, operated and maintained in accordance with this chapter, the terms of the listing, and manufacturer's specifications.
+
+---
+
+Portable fueled space heaters shall be designed, listed and
+labeled
+in accordance with the
+construction codes
+, including the
+Mechanical Code
+and the
+Fuel Gas Code
+, this code, and standards promulgated by the
+commissioner
+by rule, as applicable. Portable fueled space heaters shall be installed, operated and maintained in accordance with this chapter, the terms of the listing, and manufacturer's specifications.
+
+---
+
+## Section 3303.2: Portable Oil-Fueled Heaters
+
+3303.2 Portable Oil-Fueled Heaters
+Portable oil-fueled space heaters may be stored, handled and used at
+construction sites
+for construction-related curing and drying purposes during the heating season beginning on October 15 and ending on May 30 of the following year, and at such other times of year as may be authorized by
+permit
+. Such heaters shall be stored, handled and used in accordance with this code and the
+rules
+.
+
+---
+
+Portable oil-fueled space heaters may be stored, handled and used at
+construction sites
+for construction-related curing and drying purposes during the heating season beginning on October 15 and ending on May 30 of the following year, and at such other times of year as may be authorized by
+permit
+. Such heaters shall be stored, handled and used in accordance with this code and the
+rules
+.
+
+---
+
+## Section 3303.3: Portable Gas-Fueled Heaters
+
+3303.3 Portable Gas-Fueled Heaters
+Portable gas-fueled space heaters utilizing
+liquefied petroleum gas
+(
+LPG
+), compressed
+natural gas
+(CNG) and
+piped natural gas
+may be stored, handled and used at
+construction sites
+for construction-related curing and drying purposes during the heating season beginning on October 15 and ending on May 30 of the following year, and at such other times of year as may be authorized by
+permit
+. Such heaters shall be stored, handled and used in accordance with this code and the
+rules
+.
+
+---
+
+Portable gas-fueled space heaters utilizing
+liquefied petroleum gas
+(
+LPG
+), compressed
+natural gas
+(CNG) and
+piped natural gas
+may be stored, handled and used at
+construction sites
+for construction-related curing and drying purposes during the heating season beginning on October 15 and ending on May 30 of the following year, and at such other times of year as may be authorized by
+permit
+. Such heaters shall be stored, handled and used in accordance with this code and the
+rules
+.
+
+---
+
+## Section 3303.4: Refueling
+
+3303.4 Refueling
+Refueling operations shall be conducted in accordance with
+FC5705
+. Portable fueled space heaters shall be shut down and cool to the touch before refueling.
+
+---
+
+Refueling operations shall be conducted in accordance with
+FC5705
+. Portable fueled space heaters shall be shut down and cool to the touch before refueling.
+
+---
+
+## Section 3303.5: Installation
+
+3303.5 Installation
+Clearance to combustibles from portable fueled space heaters shall be maintained in accordance with the manufacturer's specifications. When in operation, portable fueled space heaters shall be fixed in place and protected from overturning, movement or damage in accordance with the manufacturer's specifications.
+
+---
+
+Clearance to combustibles from portable fueled space heaters shall be maintained in accordance with the manufacturer's specifications. When in operation, portable fueled space heaters shall be fixed in place and protected from overturning, movement or damage in accordance with the manufacturer's specifications.
+
+---
+
+## Section 3303.5.1: Protection of Heating Element
+
+3303.5.1 Protection of Heating Element
+The heating element or combustion chamber shall have a permanent device to prevent accidental contact by persons or material.
+
+---
+
+The heating element or combustion chamber shall have a permanent device to prevent accidental contact by persons or material.
+
+---
+
+## Section 3303.6: Supervision
+
+3303.6 Supervision
+The
+handling
+and use of portable fueled space heaters shall be under the
+personal supervision
+of a person holding a
+certificate of fitness
+. The storage of portable fueled space heaters, and the fuel therefore, shall be under the
+general supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+The
+handling
+and use of portable fueled space heaters shall be under the
+personal supervision
+of a person holding a
+certificate of fitness
+. The storage of portable fueled space heaters, and the fuel therefore, shall be under the
+general supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+Section 3304 Precautions Against Fire
+
+---
+
+## Section 3304.1: Smoking Prohibited
+
+3304.1 Smoking Prohibited
+Smoking is prohibited at all
+construction sites
+.
+
+---
+
+Smoking is prohibited at all
+construction sites
+.
+
+---
+
+## Section 3304.1.1: Areas Affected
+
+3304.1.1 Areas Affected
+At
+construction sites
+required by the
+Building Code
+to be enclosed with a fence, including buildings under construction or demolition, smoking shall be prohibited within the area enclosed by such fence, including in construction trailers and other
+indoor
+or outdoor areas. At
+construction sites
+not required by the
+Building Code
+to be enclosed with a fence, including existing buildings undergoing interior
+alterations
+, smoking shall be prohibited in those areas of the building in which work is to be conducted under the work
+permit
+issued by the
+Department of Buildings
+.
+
+---
+
+At
+construction sites
+required by the
+Building Code
+to be enclosed with a fence, including buildings under construction or demolition, smoking shall be prohibited within the area enclosed by such fence, including in construction trailers and other
+indoor
+or outdoor areas. At
+construction sites
+not required by the
+Building Code
+to be enclosed with a fence, including existing buildings undergoing interior
+alterations
+, smoking shall be prohibited in those areas of the building in which work is to be conducted under the work
+permit
+issued by the
+Department of Buildings
+.
+
+---
+
+## Section 3304.1.2: Signage
+
+3304.1.2 Signage
+"No Smoking" signs complying with
+FC310
+shall be conspicuously posted at
+construction sites
+at the following locations:
+at
+construction sites
+required by the
+Building Code
+to be enclosed with a fence, on all sliding and swinging gate openings, and any other openings allowing for access to the site by persons or vehicles;
+at the entrances to any building or structure under construction or demolition;
+on each floor at stairway, elevator and hoistway access points of any building undergoing
+alteration
+, construction or demolition;
+at any
+indoor
+or outdoor areas on the
+construction site
+at which persons congregate; and
+at such other locations as are necessary to provide notice to a person entering upon or working at the site of the
+prohibition
+against smoking.
+
+---
+
+"No Smoking" signs complying with
+FC310
+shall be conspicuously posted at
+construction sites
+at the following locations:
+at
+construction sites
+required by the
+Building Code
+to be enclosed with a fence, on all sliding and swinging gate openings, and any other openings allowing for access to the site by persons or vehicles;
+at the entrances to any building or structure under construction or demolition;
+on each floor at stairway, elevator and hoistway access points of any building undergoing
+alteration
+, construction or demolition;
+at any
+indoor
+or outdoor areas on the
+construction site
+at which persons congregate; and
+at such other locations as are necessary to provide notice to a person entering upon or working at the site of the
+prohibition
+against smoking.
+
+---
+
+## Section 3304.2: Waste Disposal
+
+3304.2 Waste Disposal
+Combustible waste
+, including
+rubbish
+and construction and demolition material, shall not be allowed to accumulate within buildings and shall be removed from a building at least once a day. Accumulations of
+combustible waste
+not stored in
+containers
+in accordance with
+FC304.3
+and in a manner that obstructs movement on the floor, or containing flammable or
+combustible liquid
+residues, shall be removed from a building at the end of each work shift.
+Combustible waste
+, including
+rubbish
+and construction and demolition material, shall be removed from the
+premises
+or stored in noncombustible
+containers
+.
+
+---
+
+Combustible waste
+, including
+rubbish
+and construction and demolition material, shall not be allowed to accumulate within buildings and shall be removed from a building at least once a day. Accumulations of
+combustible waste
+not stored in
+containers
+in accordance with
+FC304.3
+and in a manner that obstructs movement on the floor, or containing flammable or
+combustible liquid
+residues, shall be removed from a building at the end of each work shift.
+Combustible waste
+, including
+rubbish
+and construction and demolition material, shall be removed from the
+premises
+or stored in noncombustible
+containers
+.
+
+---
+
+## Section 3304.3: Open Fires
+
+3304.3 Open Fires
+It shall be unlawful to ignite or maintain an open
+fire
+at a
+construction site
+, except for the use of
+coke-fueled salamanders
+in accordance with
+FC 307.1
+and
+307.6
+, and the
+rules
+.
+
+---
+
+It shall be unlawful to ignite or maintain an open
+fire
+at a
+construction site
+, except for the use of
+coke-fueled salamanders
+in accordance with
+FC 307.1
+and
+307.6
+, and the
+rules
+.
+
+---
+
+## Section 3304.4: Spontaneous Ignition
+
+3304.4 Spontaneous Ignition
+Materials susceptible to spontaneous ignition, such as oily rags, shall be stored in a
+container
+listed for such use.
+
+---
+
+Materials susceptible to spontaneous ignition, such as oily rags, shall be stored in a
+container
+listed for such use.
+
+---
+
+## Section 3304.5: Fire Watch
+
+3304.5 Fire Watch
+The
+commissioner
+may require, at a demolition site, and at other
+construction sites
+that are unusually hazardous in nature, that a
+fire watch
+be maintained by
+fire guards
+. The
+fire guards
+conducting such
+fire watch
+shall have the duties and responsibilities set forth in
+FC901.7.2.1
+.
+
+---
+
+The
+commissioner
+may require, at a demolition site, and at other
+construction sites
+that are unusually hazardous in nature, that a
+fire watch
+be maintained by
+fire guards
+. The
+fire guards
+conducting such
+fire watch
+shall have the duties and responsibilities set forth in
+FC901.7.2.1
+.
+
+---
+
+## Section 3304.6: Cutting and Welding
+
+3304.6 Cutting and Welding
+Operations involving the use of cutting and welding shall be performed in accordance with
+FC Chapter 35
+.
+
+---
+
+Operations involving the use of cutting and welding shall be performed in accordance with
+FC Chapter 35
+.
+
+---
+
+## Section 3304.7: Electrical
+
+3304.7 Electrical
+Temporary wiring for
+electrical
+power and
+lighting
+installations at
+construction sites
+shall comply with the requirements of the
+Electrical Code
+.
+
+---
+
+Temporary wiring for
+electrical
+power and
+lighting
+installations at
+construction sites
+shall comply with the requirements of the
+Electrical Code
+.
+
+---
+
+## Section 3304.8: Fire-Resistance-Rated Construction
+
+3304.8 Fire-Resistance-Rated Construction
+Fire
+walls,
+fire
+barriers, and spray-on
+fire
+protection of structural members required by the
+Building Code
+for the completed building, shall be given construction priority. Required
+fire
+doors, with
+automatic
+closing devices, shall be installed on openings as soon as practicable. Required
+fire
+walls,
+fire
+barriers and
+fire
+doors shall be left in place in buildings undergoing
+alteration
+or demolition until construction operations necessitate their removal.
+
+---
+
+Fire
+walls,
+fire
+barriers, and spray-on
+fire
+protection of structural members required by the
+Building Code
+for the completed building, shall be given construction priority. Required
+fire
+doors, with
+automatic
+closing devices, shall be installed on openings as soon as practicable. Required
+fire
+walls,
+fire
+barriers and
+fire
+doors shall be left in place in buildings undergoing
+alteration
+or demolition until construction operations necessitate their removal.
+
+---
+
+Section 3305 Flammable and Combustible Liquids
+
+---
+
+## Section 3305.1: Storage, Handling and Use of Flammable and Combustible Liquids
+
+3305.1 Storage, Handling and Use of Flammable and Combustible Liquids
+Storage,
+handling
+and use of flammable and
+combustible liquids
+shall be in accordance with
+FC 5706.2
+and such other provisions of
+FC Chapter 57
+as may be applicable to the specific
+construction site
+material or operation.
+
+---
+
+Storage,
+handling
+and use of flammable and
+combustible liquids
+shall be in accordance with
+FC 5706.2
+and such other provisions of
+FC Chapter 57
+as may be applicable to the specific
+construction site
+material or operation.
+
+---
+
+## Section 3305.2: Ventilation
+
+3305.2 Ventilation
+Adequate
+ventilation
+shall be provided for operations involving the
+application
+of materials containing flammable solvents.
+
+---
+
+Adequate
+ventilation
+shall be provided for operations involving the
+application
+of materials containing flammable solvents.
+
+---
+
+## Section 3305.3: Housekeeping
+
+3305.3 Housekeeping
+Flammable and
+combustible liquid
+storage areas shall be maintained clear of
+vegetation
+and
+combustible waste
+. Such storage areas shall not be used for the storage of combustible materials.
+
+---
+
+Flammable and
+combustible liquid
+storage areas shall be maintained clear of
+vegetation
+and
+combustible waste
+. Such storage areas shall not be used for the storage of combustible materials.
+
+---
+
+## Section 3305.4: Precautions Against Fire
+
+3305.4 Precautions Against Fire
+Sources of ignition and smoking shall be prohibited in flammable and
+combustible liquid
+storage areas. "No Smoking" signs in compliance with the requirements of
+FC310
+shall be conspicuously posted.
+
+---
+
+Sources of ignition and smoking shall be prohibited in flammable and
+combustible liquid
+storage areas. "No Smoking" signs in compliance with the requirements of
+FC310
+shall be conspicuously posted.
+
+---
+
+## Section 3305.5: Handling at Point of Final Use
+
+3305.5 Handling at Point of Final Use
+Class I and II
+liquids
+shall be stored in
+approved
+safety
+containers
+.
+
+---
+
+Class I and II
+liquids
+shall be stored in
+approved
+safety
+containers
+.
+
+---
+
+## Section 3305.6: Leakage and Spills
+
+3305.6 Leakage and Spills
+Leaking
+containers
+shall be immediately repaired or taken out of service. Spills shall be cleaned up immediately and all
+liquid
+and waste material disposed of lawfully.
+
+---
+
+Leaking
+containers
+shall be immediately repaired or taken out of service. Spills shall be cleaned up immediately and all
+liquid
+and waste material disposed of lawfully.
+
+---
+
+Section 3306 Flammable Gases and Oxygen
+
+---
+
+## Section 3306.1: Flammable Gases
+
+3306.1 Flammable Gases
+The storage,
+handling
+and use of flammable gases shall comply with the requirements of FC Chapters
+35
+,
+58
+, and
+61
+, as applicable.
+
+---
+
+The storage,
+handling
+and use of flammable gases shall comply with the requirements of FC Chapters
+35
+,
+58
+, and
+61
+, as applicable.
+
+---
+
+## Section 3306.1.1: Cleaning and Purging of Flammable Gas Piping Systems
+
+3306.1.1 Cleaning and Purging of Flammable Gas Piping Systems
+The cleaning and purging of
+flammable gas
+piping
+systems
+, including the cleaning and purging of such
+systems
+prior to placing them in service or removing them from service, shall be conducted in accordance with NFPA 56.
+Exceptions:
+Compressed gas
+piping
+systems
+subject to the requirements of
+Chapter 53
+, other than fuel gas piping
+systems
+.
+Piping
+systems
+regulated by the
+Fuel Gas Code
+.
+LPG
+systems
+subject to the requirements of
+Chapter 61
+.
+
+---
+
+The cleaning and purging of
+flammable gas
+piping
+systems
+, including the cleaning and purging of such
+systems
+prior to placing them in service or removing them from service, shall be conducted in accordance with NFPA 56.
+Exceptions:
+Compressed gas
+piping
+systems
+subject to the requirements of
+Chapter 53
+, other than fuel gas piping
+systems
+.
+Piping
+systems
+regulated by the
+Fuel Gas Code
+.
+LPG
+systems
+subject to the requirements of
+Chapter 61
+.
+
+---
+
+## Section 3306.1.1.1: Prohibition
+
+3306.1.1.1 Prohibition
+It shall be unlawful to use a
+flammable gas
+to remove debris from or otherwise clean piping open to the atmosphere.
+
+---
+
+It shall be unlawful to use a
+flammable gas
+to remove debris from or otherwise clean piping open to the atmosphere.
+
+---
+
+## Section 3306.2: Oxygen
+
+3306.2 Oxygen
+The storage,
+handling
+and use of oxygen shall comply with the requirements of
+FC 3306.2.1
+through
+3306.2.3
+, and FC Chapters
+35
+and
+53
+, as applicable.
+
+---
+
+The storage,
+handling
+and use of oxygen shall comply with the requirements of
+FC 3306.2.1
+through
+3306.2.3
+, and FC Chapters
+35
+and
+53
+, as applicable.
+
+---
+
+## Section 3306.2.1: Portable Liquid Oxygen Containers
+
+3306.2.1 Portable Liquid Oxygen Containers
+The storage,
+handling
+and use of portable
+liquid
+oxygen
+containers
+shall be in accordance with
+FC 3306.2.1.1
+through
+3306.2.1.9
+.
+
+---
+
+The storage,
+handling
+and use of portable
+liquid
+oxygen
+containers
+shall be in accordance with
+FC 3306.2.1.1
+through
+3306.2.1.9
+.
+
+---
+
+## Section 3306.2.1.1: Design and Installation Documents
+
+3306.2.1.1 Design and Installation Documents
+A sketch showing the following information shall be submitted to the
+department
+for approval in connection with an
+application
+for a
+permit
+for oxygen storage:
+Number and size of
+containers
+.
+Enclosure, manifold and service piping construction.
+Location of risers and outlets.
+Location of all equipment and devices including vaporizers, valves and safety relief devices.
+
+---
+
+A sketch showing the following information shall be submitted to the
+department
+for approval in connection with an
+application
+for a
+permit
+for oxygen storage:
+Number and size of
+containers
+.
+Enclosure, manifold and service piping construction.
+Location of risers and outlets.
+Location of all equipment and devices including vaporizers, valves and safety relief devices.
+
+---
+
+## Section 3306.2.1.2: Indoor Storage Restrictions
+
+3306.2.1.2 Indoor Storage Restrictions
+Not more than one
+liquid
+oxygen
+container
+having a maximum water capacity of 6.2 cubic feet (0.176 m
+3
+) may be stored
+indoors
+. Such
+container
+shall be connected for use with a
+flammable gas
+. Storage in excess of one
+liquid
+oxygen
+container
+shall be located outdoors.
+
+---
+
+Not more than one
+liquid
+oxygen
+container
+having a maximum water capacity of 6.2 cubic feet (0.176 m
+3
+) may be stored
+indoors
+. Such
+container
+shall be connected for use with a
+flammable gas
+. Storage in excess of one
+liquid
+oxygen
+container
+shall be located outdoors.
+
+---
+
+## Section 3306.2.1.3: Ventilation
+
+3306.2.1.3 Ventilation
+The room used for the storage,
+handling
+and use of a
+liquid
+oxygen
+container
+shall be equipped with
+ventilation
+direct to the outdoors, and shall not contain any combustible material or
+flammable gas
+.
+
+---
+
+The room used for the storage,
+handling
+and use of a
+liquid
+oxygen
+container
+shall be equipped with
+ventilation
+direct to the outdoors, and shall not contain any combustible material or
+flammable gas
+.
+
+---
+
+## Section 3306.2.1.4: Manifolds and Vaporizers
+
+3306.2.1.4 Manifolds and Vaporizers
+Manifolds and vaporizers shall be constructed of materials suitable for oxygen service at a pressure of 250 psig (1724 kPa). Such manifolds and vaporizers shall have a minimum bursting pressure of 1,000 psig (6895 kPa) and shall be protected with safety relief devices which will relieve at or below 500 psig (3448 kPa).
+
+---
+
+Manifolds and vaporizers shall be constructed of materials suitable for oxygen service at a pressure of 250 psig (1724 kPa). Such manifolds and vaporizers shall have a minimum bursting pressure of 1,000 psig (6895 kPa) and shall be protected with safety relief devices which will relieve at or below 500 psig (3448 kPa).
+
+---
+
+## Section 3306.2.1.4.1: Test
+
+3306.2.1.4.1 Test
+The assembled vaporizer and manifold shall be pressure tested at 500 psig (3448 kPa) with an oil-free and nonflammable material as the testing medium
+
+---
+
+The assembled vaporizer and manifold shall be pressure tested at 500 psig (3448 kPa) with an oil-free and nonflammable material as the testing medium
+
+---
+
+## Section 3306.2.1.5: Service Piping From the Oxygen Manifold
+
+3306.2.1.5 Service Piping From the Oxygen Manifold
+Service piping from the oxygen manifold shall be copper tubing, stainless
+steel
+, wrought iron or
+steel
+, and shall run vertically outdoors to the floor or floors being serviced, where outlets may be provided for hose connections to
+approved
+torches
+. The service piping shall be properly secured, protected from damage from mechanical injury and properly
+labeled
+. Any connection between service piping and the manifold shall be made using not more than 5 feet (1524 mm) of hose capable of withstanding pressure up to at least 1,000 psig (6895 kPa).
+
+---
+
+Service piping from the oxygen manifold shall be copper tubing, stainless
+steel
+, wrought iron or
+steel
+, and shall run vertically outdoors to the floor or floors being serviced, where outlets may be provided for hose connections to
+approved
+torches
+. The service piping shall be properly secured, protected from damage from mechanical injury and properly
+labeled
+. Any connection between service piping and the manifold shall be made using not more than 5 feet (1524 mm) of hose capable of withstanding pressure up to at least 1,000 psig (6895 kPa).
+
+---
+
+## Section 3306.2.1.5.1: Service Pressure
+
+3306.2.1.5.1 Service Pressure
+Service piping shall be suitable for 250 psig (1724 kPa) service unless an intervening pressure regulator is provided at the manifold, and shall withstand a test of two times the maximum
+operating pressure
+, using an oil-free and nonflammable material as the testing medium.
+
+---
+
+Service piping shall be suitable for 250 psig (1724 kPa) service unless an intervening pressure regulator is provided at the manifold, and shall withstand a test of two times the maximum
+operating pressure
+, using an oil-free and nonflammable material as the testing medium.
+
+---
+
+## Section 3306.2.1.6: Hose and Connectors
+
+3306.2.1.6 Hose and Connectors
+Hose and connectors capable of withstanding pressure up to at least 1,000 psig (6895 kPa) and of a design suitable for oxygen service at a pressure of 250 psig (1724 kPa) shall be used to connect the outlets on the service piping to the blowpipes. Hose shall be rejected for use if it shows excessive wear, loose connections, leaks or burns; hose subjected to a flash back in use shall be tested to twice the service pressure, but not less than 200 psig (1379 kPa), before being returned to service.
+
+---
+
+Hose and connectors capable of withstanding pressure up to at least 1,000 psig (6895 kPa) and of a design suitable for oxygen service at a pressure of 250 psig (1724 kPa) shall be used to connect the outlets on the service piping to the blowpipes. Hose shall be rejected for use if it shows excessive wear, loose connections, leaks or burns; hose subjected to a flash back in use shall be tested to twice the service pressure, but not less than 200 psig (1379 kPa), before being returned to service.
+
+---
+
+## Section 3306.2.1.7: Signs
+
+3306.2.1.7 Signs
+Signs shall be posted in the vicinity of
+liquid
+oxygen
+container
+storage and use, reading: DANGER-
+LIQUID
+OXYGEN-NO SMOKING-NO
+OPEN FLAMES
+.
+
+---
+
+Signs shall be posted in the vicinity of
+liquid
+oxygen
+container
+storage and use, reading: DANGER-
+LIQUID
+OXYGEN-NO SMOKING-NO
+OPEN FLAMES
+.
+
+---
+
+## Section 3306.2.1.8: Operating Instructions
+
+3306.2.1.8 Operating Instructions
+Legible operating instructions shall be posted near any
+liquid
+oxygen manifold.
+
+---
+
+Legible operating instructions shall be posted near any
+liquid
+oxygen manifold.
+
+---
+
+## Section 3306.2.1.9: Affidavit
+
+3306.2.1.9 Affidavit
+An affidavit shall be provided by the installer and/or contractor to certify that the vaporizer, valves, piping, hose and safety devices are of an
+approved
+type, that they meet the specifications for bursting test and design service pressure, and that they have been satisfactorily tested in accordance with this section.
+
+---
+
+An affidavit shall be provided by the installer and/or contractor to certify that the vaporizer, valves, piping, hose and safety devices are of an
+approved
+type, that they meet the specifications for bursting test and design service pressure, and that they have been satisfactorily tested in accordance with this section.
+
+---
+
+## Section 3306.2.2: Oxygen Trailers
+
+3306.2.2 Oxygen Trailers
+The storage and use of oxygen trailers shall be in accordance with
+FC 3306.2.2.1
+through
+3306.2.2.5
+.
+
+---
+
+The storage and use of oxygen trailers shall be in accordance with
+FC 3306.2.2.1
+through
+3306.2.2.5
+.
+
+---
+
+## Section 3306.2.2.1: Design, Construction, Testing and Maintenance
+
+3306.2.2.1 Design, Construction, Testing and Maintenance
+Oxygen trailer
+containers
+shall be designed, constructed, tested and maintained in accordance with the United States
+Department
+of Transportation specifications and regulations.
+
+---
+
+Oxygen trailer
+containers
+shall be designed, constructed, tested and maintained in accordance with the United States
+Department
+of Transportation specifications and regulations.
+
+---
+
+## Section 3306.2.2.2: Instructions
+
+3306.2.2.2 Instructions
+Legible operating instructions shall be posted in the trailer and on or near any oxygen manifold used
+indoors
+.
+
+---
+
+Legible operating instructions shall be posted in the trailer and on or near any oxygen manifold used
+indoors
+.
+
+---
+
+## Section 3306.2.2.3: License Plates
+
+3306.2.2.3 License Plates
+Oxygen trailers shall at all times have affixed to them a
+motor vehicle
+license plate as issued in accordance with New York State or other applicable
+motor vehicle
+license plate laws,
+rules
+or regulations.
+
+---
+
+Oxygen trailers shall at all times have affixed to them a
+motor vehicle
+license plate as issued in accordance with New York State or other applicable
+motor vehicle
+license plate laws,
+rules
+or regulations.
+
+---
+
+## Section 3306.2.2.4: Notification
+
+3306.2.2.4 Notification
+The
+owner
+or operator of an oxygen trailer shall notify the
+department
+, in writing, of the delivery of the trailer to a
+construction site
+, at least 48 hours in advance of such delivery. Such notification shall include:
+Contractor's name, address and telephone number.
+Location of the
+construction site
+.
+Quantity and
+frequency
+of oxygen delivery to the
+construction site
+.
+Expected duration of oxygen storage and use at the
+construction site
+.
+
+---
+
+The
+owner
+or operator of an oxygen trailer shall notify the
+department
+, in writing, of the delivery of the trailer to a
+construction site
+, at least 48 hours in advance of such delivery. Such notification shall include:
+Contractor's name, address and telephone number.
+Location of the
+construction site
+.
+Quantity and
+frequency
+of oxygen delivery to the
+construction site
+.
+Expected duration of oxygen storage and use at the
+construction site
+.
+
+---
+
+## Section 3306.2.2.5: Oxygen Trailers Having a Capacity Exceeding 20,000 SCF (566 m3)
+
+3306.2.2.5 Oxygen Trailers Having a Capacity Exceeding 20,000 SCF (566 m
+3
+)
+The distance between oxygen trailers having a total aggregate capacity exceeding 20,000 SCF (566 m
+3
+) and exposures shall be in accordance with NFPA 55.
+
+---
+
+The distance between oxygen trailers having a total aggregate capacity exceeding 20,000 SCF (566 m
+3
+) and exposures shall be in accordance with NFPA 55.
+
+---
+
+## Section 3306.2.3: Supervision
+
+3306.2.3 Supervision
+The
+handling
+and use of portable
+liquid
+oxygen
+containers
+and oxygen trailers shall be under the
+personal supervision
+of a
+certificate of fitness
+holder. The storage of
+liquid
+oxygen
+containers
+and oxygen trailers shall be under the
+general supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+The
+handling
+and use of portable
+liquid
+oxygen
+containers
+and oxygen trailers shall be under the
+personal supervision
+of a
+certificate of fitness
+holder. The storage of
+liquid
+oxygen
+containers
+and oxygen trailers shall be under the
+general supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+## Section 3306.3: Discontinued Torch Operations
+
+3306.3 Discontinued Torch Operations
+When
+hot work equipment
+is not in use, including when torch operations are discontinued for the workday, the oxygen and
+flammable gas
+containers
+shall be removed from the work area and moved to an
+approved
+storage area or removed from the
+premises
+.
+Exception:
+Brief interruptions in work of not more than 2 hours, including lunch breaks and coffee breaks.
+
+---
+
+When
+hot work equipment
+is not in use, including when torch operations are discontinued for the workday, the oxygen and
+flammable gas
+containers
+shall be removed from the work area and moved to an
+approved
+storage area or removed from the
+premises
+.
+Exception:
+Brief interruptions in work of not more than 2 hours, including lunch breaks and coffee breaks.
+
+---
+
+## Section 3306.3.1: Torch Operation Container Floor Storage
+
+3306.3.1 Torch Operation Container Floor Storage
+Oxygen and
+flammable gas
+containers
+used for torch operations may be stored on the floors on which the torch work is being conducted only in an unoccupied building and only in an
+approved
+storage area. Oxygen or
+flammable gas
+containers
+, other than those necessary for the day's torch operations, shall be considered as reserve storage, and shall not be stored on such floors.
+
+---
+
+Oxygen and
+flammable gas
+containers
+used for torch operations may be stored on the floors on which the torch work is being conducted only in an unoccupied building and only in an
+approved
+storage area. Oxygen or
+flammable gas
+containers
+, other than those necessary for the day's torch operations, shall be considered as reserve storage, and shall not be stored on such floors.
+
+---
+
+## Section 3306.3.1.1: Storage Location
+
+3306.3.1.1 Storage Location
+Oxygen and
+flammable gas
+storage areas on the floors on which the torch work is being conducted shall comply with the distance to exposure requirements of
+FC5804.1.3
+.
+
+---
+
+Oxygen and
+flammable gas
+storage areas on the floors on which the torch work is being conducted shall comply with the distance to exposure requirements of
+FC5804.1.3
+.
+
+---
+
+## Section 3306.3.1.2: Maximum Storage Quantities
+
+3306.3.1.2 Maximum Storage Quantities
+The maximum quantity of acetylene
+containers
+stored on any floor shall not exceed 3,500 SCF (99.11 m
+3
+).
+
+---
+
+The maximum quantity of acetylene
+containers
+stored on any floor shall not exceed 3,500 SCF (99.11 m
+3
+).
+
+---
+
+## Section 3306.3.1.3: Storage Cabinet
+
+3306.3.1.3 Storage Cabinet
+Oxygen and
+flammable gas
+containers
+shall be located within a
+compressed gas
+storage cabinet designed and secured to prevent unauthorized entry. The storage cabinet shall be conspicuously marked with a hazard identification sign as set forth in
+FC5003.5
+.
+
+---
+
+Oxygen and
+flammable gas
+containers
+shall be located within a
+compressed gas
+storage cabinet designed and secured to prevent unauthorized entry. The storage cabinet shall be conspicuously marked with a hazard identification sign as set forth in
+FC5003.5
+.
+
+---
+
+## Section 3306.4: Reserve Oxygen and Flammable Gas Containers
+
+3306.4 Reserve Oxygen and Flammable Gas Containers
+The storage of reserve oxygen and
+flammable gas
+containers
+at a
+construction site
+shall comply with the requirements of
+FC 3306.4.1
+through
+3306.4.4
+, and
+FC3306.5
+.
+
+---
+
+The storage of reserve oxygen and
+flammable gas
+containers
+at a
+construction site
+shall comply with the requirements of
+FC 3306.4.1
+through
+3306.4.4
+, and
+FC3306.5
+.
+
+---
+
+## Section 3306.4.1: Storage Location
+
+3306.4.1 Storage Location
+Oxygen and
+flammable gas
+container
+storage areas shall comply with the distance to exposure requirements of
+FC5804.2.1
+.
+
+---
+
+Oxygen and
+flammable gas
+container
+storage areas shall comply with the distance to exposure requirements of
+FC5804.2.1
+.
+
+---
+
+## Section 3306.4.2: Storage Cabinet
+
+3306.4.2 Storage Cabinet
+Oxygen and
+flammable gas
+containers
+shall be located within a
+compressed gas
+storage cabinet designed and secured to prevent unauthorized entry. The storage cabinet shall be conspicuously marked with a hazard identification sign as set forth in
+FC5003.5
+.
+
+---
+
+Oxygen and
+flammable gas
+containers
+shall be located within a
+compressed gas
+storage cabinet designed and secured to prevent unauthorized entry. The storage cabinet shall be conspicuously marked with a hazard identification sign as set forth in
+FC5003.5
+.
+
+---
+
+## Section 3306.4.3: Indoor Acetylene Storage
+
+3306.4.3 Indoor Acetylene Storage
+Indoor
+reserve storage of acetylene
+containers
+shall be allowed only when outdoor storage is unavailable on the
+premises
+, the building is unoccupied, the
+containers
+are stored on the ground floor of the building, and the total quantities stored do not exceed 3,500 SCF (99.11 m
+3
+).
+
+---
+
+Indoor
+reserve storage of acetylene
+containers
+shall be allowed only when outdoor storage is unavailable on the
+premises
+, the building is unoccupied, the
+containers
+are stored on the ground floor of the building, and the total quantities stored do not exceed 3,500 SCF (99.11 m
+3
+).
+
+---
+
+## Section 3306.4.4: Outdoor Acetylene Storage
+
+3306.4.4 Outdoor Acetylene Storage
+Outdoor reserve acetylene
+container
+storage areas shall not exceed 3,500 SCF (99.11 m
+3
+). More than one outdoor storage area may be authorized on the
+premises
+provided the distance from each outdoor storage area to each exposure identified in
+FC Chapter 58
+complies with the requirements of
+FC Chapter 58
+.
+
+---
+
+Outdoor reserve acetylene
+container
+storage areas shall not exceed 3,500 SCF (99.11 m
+3
+). More than one outdoor storage area may be authorized on the
+premises
+provided the distance from each outdoor storage area to each exposure identified in
+FC Chapter 58
+complies with the requirements of
+FC Chapter 58
+.
+
+---
+
+## Section 3306.5: Maximum Aggregate Indoor Acetylene Storage Quantities
+
+3306.5 Maximum Aggregate Indoor Acetylene Storage Quantities
+The aggregate of the
+indoor
+storage of acetylene authorized by
+FC 3306.3.1.2
+and
+3306.4.3
+shall not exceed 15,000 SCF (424.8 m
+3
+).
+
+---
+
+The aggregate of the
+indoor
+storage of acetylene authorized by
+FC 3306.3.1.2
+and
+3306.4.3
+shall not exceed 15,000 SCF (424.8 m
+3
+).
+
+---
+
+Section 3307 Explosive Materials
+
+---
+
+## Section 3307.1: Storage and Handling
+
+3307.1 Storage and Handling
+Explosive
+materials shall be stored, handled and used in accordance with
+FC3318
+and
+FC Chapter 56
+.
+
+---
+
+Explosive
+materials shall be stored, handled and used in accordance with
+FC3318
+and
+FC Chapter 56
+.
+
+---
+
+## Section 3307.2: Blasting Operations
+
+3307.2 Blasting Operations
+Blasting operations
+shall be conducted in accordance with
+FC Chapter 56
+.
+
+---
+
+Blasting operations
+shall be conducted in accordance with
+FC Chapter 56
+.
+
+---
+
+## Section 3307.3: Demolition Using Explosives
+
+3307.3 Demolition Using Explosives
+Fire
+hoses and nozzles for use by demolition personnel, connected to an
+approved
+water supply under pressure, shall be provided and maintained at the demolition site whenever
+explosives
+are used for demolition. Such
+fire
+hoses, nozzles and water supply shall be available prior to
+explosives
+arriving at the site. Such
+fire
+hoses and nozzles shall be capable of a continuous flow of 180 gallons (681 L) per minute with a minimum reach of 35 feet (10 668 mm) from the nozzle and be capable of being brought to bear anywhere on the
+construction site
+. Hose shall be pressure tested to withstand at least 600 pounds per square inch gauge (psig)(2413 kPa).
+
+---
+
+Fire
+hoses and nozzles for use by demolition personnel, connected to an
+approved
+water supply under pressure, shall be provided and maintained at the demolition site whenever
+explosives
+are used for demolition. Such
+fire
+hoses, nozzles and water supply shall be available prior to
+explosives
+arriving at the site. Such
+fire
+hoses and nozzles shall be capable of a continuous flow of 180 gallons (681 L) per minute with a minimum reach of 35 feet (10 668 mm) from the nozzle and be capable of being brought to bear anywhere on the
+construction site
+. Hose shall be pressure tested to withstand at least 600 pounds per square inch gauge (psig)(2413 kPa).
+
+---
+
+Section 3308 Construction Site Fire Safety Manager
+
+---
+
+## Section 3308.1: Fire Safety Manager
+
+3308.1 Fire Safety Manager
+Where a site safety manager or site safety coordinator is required by the
+Building Code
+, the
+owner
+shall designate a person to be the
+fire
+safety manager for the
+construction site
+. Such person shall hold a
+certificate of fitness
+as a
+construction site
+fire
+safety manager. The
+fire
+safety manager may be the site safety manager or site safety coordinator required by the
+Building Code
+, except that a separate
+fire
+safety manager shall be designated for a building under construction when such building reaches a height of twenty stories or more than 250 feet (76 200 mm), has a lot coverage of 200,000 square feet (1860 m
+2
+) or greater, or as otherwise prescribed by rule. For purposes of this section, below grade stories shall be used to determine number of stories and building height.
+Exception:
+Construction sites
+at which an existing building is undergoing
+alteration
+, the
+alteration
+work is limited to the façade, and no
+hot work
+is being performed.
+
+---
+
+Where a site safety manager or site safety coordinator is required by the
+Building Code
+, the
+owner
+shall designate a person to be the
+fire
+safety manager for the
+construction site
+. Such person shall hold a
+certificate of fitness
+as a
+construction site
+fire
+safety manager. The
+fire
+safety manager may be the site safety manager or site safety coordinator required by the
+Building Code
+, except that a separate
+fire
+safety manager shall be designated for a building under construction when such building reaches a height of twenty stories or more than 250 feet (76 200 mm), has a lot coverage of 200,000 square feet (1860 m
+2
+) or greater, or as otherwise prescribed by rule. For purposes of this section, below grade stories shall be used to determine number of stories and building height.
+Exception:
+Construction sites
+at which an existing building is undergoing
+alteration
+, the
+alteration
+work is limited to the façade, and no
+hot work
+is being performed.
+
+---
+
+## Section 3308.1.1: Fire Safety Manager Duties
+
+3308.1.1 Fire Safety Manager Duties
+The
+fire
+safety manager shall be responsible for ensuring compliance with the requirements of this code, including this chapter, and the
+rules
+. The
+fire
+safety manager shall conduct an inspection of the
+construction site
+and all
+fire
+safety measures on at least a daily basis, and maintain a record of same in a bound log book or other
+approved
+system
+of recordkeeping. Where
+fire watch
+service is provided, the
+fire
+safety manager shall be responsible for the
+general supervision
+of the
+fire guards
+.
+
+---
+
+The
+fire
+safety manager shall be responsible for ensuring compliance with the requirements of this code, including this chapter, and the
+rules
+. The
+fire
+safety manager shall conduct an inspection of the
+construction site
+and all
+fire
+safety measures on at least a daily basis, and maintain a record of same in a bound log book or other
+approved
+system
+of recordkeeping. Where
+fire watch
+service is provided, the
+fire
+safety manager shall be responsible for the
+general supervision
+of the
+fire guards
+.
+
+---
+
+## Section 3308.2: Pre-Fire Plans
+
+3308.2 Pre-Fire Plans
+The
+fire
+safety manager shall develop and maintain at the
+construction site
+an
+approved
+pre-
+fire
+plan, and make it available for examination by any representative of the
+department
+. The
+department
+shall be notified of any changes in site conditions materially affecting the procedures set forth in such plan.
+
+---
+
+The
+fire
+safety manager shall develop and maintain at the
+construction site
+an
+approved
+pre-
+fire
+plan, and make it available for examination by any representative of the
+department
+. The
+department
+shall be notified of any changes in site conditions materially affecting the procedures set forth in such plan.
+
+---
+
+## Section 3308.3: Training
+
+3308.3 Training
+The
+fire
+safety manager shall ensure that
+construction site
+personnel are acquainted with the operation of portable
+fire
+extinguishers and other
+fire
+protection equipment on the
+construction site
+.
+
+---
+
+The
+fire
+safety manager shall ensure that
+construction site
+personnel are acquainted with the operation of portable
+fire
+extinguishers and other
+fire
+protection equipment on the
+construction site
+.
+
+---
+
+## Section 3308.4: Fire Protection Devices
+
+3308.4 Fire Protection Devices
+The
+fire
+safety manager shall ensure that all
+fire
+protection equipment and
+systems
+are readily available and periodically inspected and tested, and maintained in accordance with this code, the
+rules
+and the
+Building Code
+.
+
+---
+
+The
+fire
+safety manager shall ensure that all
+fire
+protection equipment and
+systems
+are readily available and periodically inspected and tested, and maintained in accordance with this code, the
+rules
+and the
+Building Code
+.
+
+---
+
+## Section 3308.5: Hot Work Operations
+
+3308.5 Hot Work Operations
+The
+fire
+safety manager shall be responsible for supervising the issuance of authorizations for
+hot work
+operations in accordance with
+FC Chapter 35
+.
+
+---
+
+The
+fire
+safety manager shall be responsible for supervising the issuance of authorizations for
+hot work
+operations in accordance with
+FC Chapter 35
+.
+
+---
+
+## Section 3308.6: Impairment of Fire Protection Systems
+
+3308.6 Impairment of Fire Protection Systems
+The
+fire
+safety manager or
+impairment coordinator
+shall comply with the requirements of
+FC901
+in the event of impairment of any
+fire protection system
+.
+
+---
+
+The
+fire
+safety manager or
+impairment coordinator
+shall comply with the requirements of
+FC901
+in the event of impairment of any
+fire protection system
+.
+
+---
+
+## Section 3308.7: Temporary Covering of Fire Protection Devices
+
+3308.7 Temporary Covering of Fire Protection Devices
+Coverings placed on or over
+fire
+protection devices to protect them from damage during construction processes shall comply with the requirements of
+FC Chapter 9
+and shall be immediately removed upon the completion of the construction processes in the room or area in which the devices are installed.
+
+---
+
+Coverings placed on or over
+fire
+protection devices to protect them from damage during construction processes shall comply with the requirements of
+FC Chapter 9
+and shall be immediately removed upon the completion of the construction processes in the room or area in which the devices are installed.
+
+---
+
+Section 3309 Fire Alarm Reporting
+
+---
+
+## Section 3309.1: Emergency Telephone
+
+3309.1 Emergency Telephone
+A telephone not requiring a coin to operate, or another
+approved
+, clearly identified means to notify the
+department
+, shall be provided on site in an
+approved
+location. The street address of the
+construction site
+and the
+emergency telephone
+number of the
+fire
+department
+shall be posted adjacent to the telephone or other
+approved
+device.
+
+---
+
+A telephone not requiring a coin to operate, or another
+approved
+, clearly identified means to notify the
+department
+, shall be provided on site in an
+approved
+location. The street address of the
+construction site
+and the
+emergency telephone
+number of the
+fire
+department
+shall be posted adjacent to the telephone or other
+approved
+device.
+
+---
+
+Section 3310 Access for Firefighting
+
+---
+
+## Section 3310.1: Required Access
+
+3310.1 Required Access
+Approved
+vehicle access for
+fire
+apparatus shall be provided to all
+construction sites
+. Vehicle access shall be provided to within 100 feet (30 480 mm) of temporary or permanent
+fire
+department
+connections. Vehicle access shall be provided by either temporary or permanent roads, capable of supporting vehicle loading under all weather conditions. Vehicle access shall be maintained until permanent
+fire apparatus access roads
+are available.
+
+---
+
+Approved
+vehicle access for
+fire
+apparatus shall be provided to all
+construction sites
+. Vehicle access shall be provided to within 100 feet (30 480 mm) of temporary or permanent
+fire
+department
+connections. Vehicle access shall be provided by either temporary or permanent roads, capable of supporting vehicle loading under all weather conditions. Vehicle access shall be maintained until permanent
+fire apparatus access roads
+are available.
+
+---
+
+## Section 3310.2: Key Boxes
+
+3310.2 Key Boxes
+Key boxes
+shall be provided as required by
+FC Chapter 5
+and the
+Building Code
+.
+
+---
+
+Key boxes
+shall be provided as required by
+FC Chapter 5
+and the
+Building Code
+.
+
+---
+
+Section 3311 Means of Egress and Elevators
+
+---
+
+## Section 3311.1: Stairways
+
+3311.1 Stairways
+Stairways at
+construction sites
+shall be provided, maintained, and made available for
+department
+use in accordance with the
+construction codes
+, including the
+Building Code
+. Stairways providing egress from the building or structure under construction or
+alteration
+, and other components of the
+means of egress
+, shall be given construction priority.
+
+---
+
+Stairways at
+construction sites
+shall be provided, maintained, and made available for
+department
+use in accordance with the
+construction codes
+, including the
+Building Code
+. Stairways providing egress from the building or structure under construction or
+alteration
+, and other components of the
+means of egress
+, shall be given construction priority.
+
+---
+
+## Section 3311.2: Maintenance
+
+3311.2 Maintenance
+Required
+means of egress
+shall be maintained during construction,
+alteration
+and demolition in accordance with this code and the
+Building Code
+.
+
+---
+
+Required
+means of egress
+shall be maintained during construction,
+alteration
+and demolition in accordance with this code and the
+Building Code
+.
+
+---
+
+## Section 3311.3: Elevators
+
+3311.3 Elevators
+Elevators at
+construction sites
+shall be provided, maintained, and made available for
+department
+use in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Elevators at
+construction sites
+shall be provided, maintained, and made available for
+department
+use in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Section 3312 Water Supply for Fire Protection
+
+---
+
+## Section 3312.1: Water Supply
+
+3312.1 Water Supply
+An
+approved
+water supply for
+fire
+protection, either temporary or permanent, shall be made available prior to
+hazardous materials
+or combustible material arriving at the site. Any water source intended for firefighting operations, including
+standpipe
+outlets, street hydrants and yard hydrants, shall not be used for construction,
+alteration
+or demolition purposes, unless
+approved
+.
+
+---
+
+An
+approved
+water supply for
+fire
+protection, either temporary or permanent, shall be made available prior to
+hazardous materials
+or combustible material arriving at the site. Any water source intended for firefighting operations, including
+standpipe
+outlets, street hydrants and yard hydrants, shall not be used for construction,
+alteration
+or demolition purposes, unless
+approved
+.
+
+---
+
+Section 3313 Standpipes
+
+---
+
+## Section 3313.1: Standpipe Systems
+
+3313.1 Standpipe Systems
+Standpipe systems
+for use at
+construction sites
+shall be provided, maintained, and made available for
+department
+use in accordance with this code, and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Standpipe systems
+for use at
+construction sites
+shall be provided, maintained, and made available for
+department
+use in accordance with this code, and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 3313.2: Demolition Operations
+
+3313.2 Demolition Operations
+Where a building or structure with an existing
+standpipe system
+is being demolished, such
+system
+shall be maintained for the use of the
+department
+in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Where a building or structure with an existing
+standpipe system
+is being demolished, such
+system
+shall be maintained for the use of the
+department
+in accordance with the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Section 3314 Sprinkler System
+
+---
+
+## Section 3314.1: Sprinkler Systems
+
+3314.1 Sprinkler Systems
+Sprinkler systems
+for use at
+construction sites
+shall be provided, maintained, and made available for
+department
+use, in accordance with this code, and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+Sprinkler systems
+for use at
+construction sites
+shall be provided, maintained, and made available for
+department
+use, in accordance with this code, and the
+construction codes
+, including the
+Building Code
+.
+
+---
+
+## Section 3314.2: Completion Before Occupancy
+
+3314.2 Completion Before Occupancy
+In buildings or structures where a
+sprinkler system
+is required by this code or the
+construction codes
+, including the
+Building Code
+, it shall be unlawful to occupy any portion of a building or structure until the
+sprinkler system
+installation has been tested and
+approved
+.
+
+---
+
+In buildings or structures where a
+sprinkler system
+is required by this code or the
+construction codes
+, including the
+Building Code
+, it shall be unlawful to occupy any portion of a building or structure until the
+sprinkler system
+installation has been tested and
+approved
+.
+
+---
+
+## Section 3314.3: Operation of Valves
+
+3314.3 Operation of Valves
+Sprinkler control valves shall be operated only by authorized personnel. Such operation shall be under the
+general supervision
+of the
+fire
+safety manager where one is required pursuant to FC3308. When the
+sprinkler system
+valves are being regularly closed and opened to facilitate connection of newly completed or disconnected segments, the sprinkler control valves shall be inspected at the end of each work day to ascertain that the
+system
+is in good working order.
+
+---
+
+Sprinkler control valves shall be operated only by authorized personnel. Such operation shall be under the
+general supervision
+of the
+fire
+safety manager where one is required pursuant to FC3308. When the
+sprinkler system
+valves are being regularly closed and opened to facilitate connection of newly completed or disconnected segments, the sprinkler control valves shall be inspected at the end of each work day to ascertain that the
+system
+is in good working order.
+
+---
+
+Section 3315 Portable Fire Extinguishers
+
+---
+
+## Section 3315.1: Where Required
+
+3315.1 Where Required
+Buildings or structures under construction,
+alteration
+or demolition shall be provided with not less than one
+approved
+portable
+fire
+extinguisher in accordance with
+FC906
+and sized for not less than ordinary hazard as follows:
+At each stairway on all floor levels where combustible materials are being stored or
+combustible waste
+is being generated.
+At the entrance of each storage and construction shed.
+Additional portable
+fire
+extinguishers shall be provided where flammable and
+combustible liquids
+are stored, handled and used.
+Cranes fueled by
+liquid motor fuel
+or
+flammable gas
+shall be provided with a portable
+fire
+extinguisher with a minimum 10-B:C rating located either in the crane's cab or in its immediate vicinity.
+
+---
+
+Buildings or structures under construction,
+alteration
+or demolition shall be provided with not less than one
+approved
+portable
+fire
+extinguisher in accordance with
+FC906
+and sized for not less than ordinary hazard as follows:
+At each stairway on all floor levels where combustible materials are being stored or
+combustible waste
+is being generated.
+At the entrance of each storage and construction shed.
+Additional portable
+fire
+extinguishers shall be provided where flammable and
+combustible liquids
+are stored, handled and used.
+Cranes fueled by
+liquid motor fuel
+or
+flammable gas
+shall be provided with a portable
+fire
+extinguisher with a minimum 10-B:C rating located either in the crane's cab or in its immediate vicinity.
+
+---
+
+Section 3316 Internal-Combustion-Powered Equipment
+
+---
+
+## Section 3316.1: Conditions of Use
+
+3316.1 Conditions of Use
+Internal-combustion-powered construction equipment shall be used in accordance with the following requirements:
+Equipment shall be located so that exhausts do not discharge against combustible material.
+Exhausts shall be piped to the outdoors.
+Equipment shall not be refueled while in operation.
+Fuel for equipment shall be stored in an
+approved
+area.
+Fuel for equipment shall be handled and used in
+approved
+containers
+with a capacity not greater than 5 gallons (19 L).
+
+---
+
+Internal-combustion-powered construction equipment shall be used in accordance with the following requirements:
+Equipment shall be located so that exhausts do not discharge against combustible material.
+Exhausts shall be piped to the outdoors.
+Equipment shall not be refueled while in operation.
+Fuel for equipment shall be stored in an
+approved
+area.
+Fuel for equipment shall be handled and used in
+approved
+containers
+with a capacity not greater than 5 gallons (19 L).
+
+---
+
+Section 3317 Safeguarding Roofing Operations
+
+---
+
+## Section 3317.1: General
+
+3317.1 General
+Roofing operations utilizing heat-producing
+systems
+or other ignition sources shall be performed by a competent person. Roofing operations involving
+hot work
+shall comply with the requirements of FC Chapters
+35
+,
+58
+, and
+61
+, as applicable.
+
+---
+
+Roofing operations utilizing heat-producing
+systems
+or other ignition sources shall be performed by a competent person. Roofing operations involving
+hot work
+shall comply with the requirements of FC Chapters
+35
+,
+58
+, and
+61
+, as applicable.
+
+---
+
+## Section 3317.2: Tar Kettles
+
+3317.2 Tar Kettles
+Tar kettles
+shall be handled and used in accordance with
+FC303
+.
+
+---
+
+Tar kettles
+shall be handled and used in accordance with
+FC303
+.
+
+---
+
+## Section 3317.3: Portable Fire Extinguishers for Roofing Operations
+
+3317.3 Portable Fire Extinguishers for Roofing Operations
+Portable
+fire
+extinguishers shall be provided in accordance with
+FC906
+. There shall be not less than one multi-purpose portable
+fire
+extinguisher with a minimum 3-A 40-B:C rating on the roof being covered or repaired.
+
+---
+
+Portable
+fire
+extinguishers shall be provided in accordance with
+FC906
+. There shall be not less than one multi-purpose portable
+fire
+extinguisher with a minimum 3-A 40-B:C rating on the roof being covered or repaired.
+
+---
+
+## Section 3317.4: Prohibited Operations
+
+3317.4 Prohibited Operations
+It shall be unlawful to install any roofing material using a torch on a roof of combustible construction, or otherwise engage in roofing operations on roofs of combustible construction using
+hot work equipment
+.
+
+---
+
+It shall be unlawful to install any roofing material using a torch on a roof of combustible construction, or otherwise engage in roofing operations on roofs of combustible construction using
+hot work equipment
+.
+
+---
+
+Section 3318 Powder-Actuated Tool Loads
+
+---
+
+## Section 3318.1: Storage, Handling and Use
+
+3318.1 Storage, Handling and Use
+Small arms ammunition
+shall be stored, handled and used for powder-actuated
+tool
+loads at a
+construction site
+in accordance with
+FC5606.8
+.
+
+---
+
+Small arms ammunition
+shall be stored, handled and used for powder-actuated
+tool
+loads at a
+construction site
+in accordance with
+FC5606.8
+.
+
+---
+
+## Section 3318.1.1: Supervision
+
+3318.1.1 Supervision
+Powder-actuated
+tools
+shall be used only by a
+certificate of fitness
+holder. Powder-actuated
+tools
+shall be handled only by a
+certificate of fitness
+holder. Storage of powder-actual
+tools
+shall be under the
+general supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+Powder-actuated
+tools
+shall be used only by a
+certificate of fitness
+holder. Powder-actuated
+tools
+shall be handled only by a
+certificate of fitness
+holder. Storage of powder-actual
+tools
+shall be under the
+general supervision
+of a
+certificate of fitness
+holder.
+
+---
+
+Section 3319 First Responder Box
+
+---
+
+## Section 3319.1: First Responder Box
+
+3319.1 First Responder Box
+An
+approved
+lock box shall be provided for first responder use. Such box shall contain all keys required to obtain access to the
+construction site
+and operate the hoist; the pre-
+fire
+plan;
+permits
+; logbooks; and such other documents required by this code or the
+rules
+to be maintained on the
+premises
+. Such box shall be in an
+approved
+location and shall be openable by use of a
+citywide standard key
+.
+
+---
+
+An
+approved
+lock box shall be provided for first responder use. Such box shall contain all keys required to obtain access to the
+construction site
+and operate the hoist; the pre-
+fire
+plan;
+permits
+; logbooks; and such other documents required by this code or the
+rules
+to be maintained on the
+premises
+. Such box shall be in an
+approved
+location and shall be openable by use of a
+citywide standard key
+.
+
+---
+

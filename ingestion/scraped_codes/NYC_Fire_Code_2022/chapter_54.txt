@@ -1,0 +1,828 @@
+# NYC Fire Code 2022 - Chapter 54
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+5401 General
+
+---
+
+5402 Definitions
+
+---
+
+5403 General Requirements
+
+---
+
+5404 Storage
+
+---
+
+5405 Handling and Use
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Section 5401 General
+
+---
+
+## Section 5401.1: Scope
+
+5401.1 Scope
+This chapter shall govern the storage,
+handling
+and use of
+corrosive materials
+.
+Exceptions:
+Display and storage in
+Group M
+and storage in
+Group S
+occupancies
+complying with the requirements of
+FC5003.11
+.
+Stationary energy storage systems
+in accordance with
+FC608
+.
+Ammonia (R-717) when used as a
+refrigerant
+in a
+refrigerating system
+in accordance with
+FC606
+.
+
+---
+
+This chapter shall govern the storage,
+handling
+and use of
+corrosive materials
+.
+Exceptions:
+Display and storage in
+Group M
+and storage in
+Group S
+occupancies
+complying with the requirements of
+FC5003.11
+.
+Stationary energy storage systems
+in accordance with
+FC608
+.
+Ammonia (R-717) when used as a
+refrigerant
+in a
+refrigerating system
+in accordance with
+FC606
+.
+
+---
+
+## Section 5401.2: Permits
+
+5401.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 5401.3: General
+
+5401.3 General
+Corrosive materials
+shall be stored, handled and used in accordance with this
+chapter.
+Corrosive materials
+that are compressed gases shall additionally comply with the
+requirements of
+FC Chapter 53
+.
+
+---
+
+Corrosive materials
+shall be stored, handled and used in accordance with this
+chapter.
+Corrosive materials
+that are compressed gases shall additionally comply with the
+requirements of
+FC Chapter 53
+.
+
+---
+
+## Section 5401.4: Supervision
+
+5401.4 Supervision
+The
+handling
+and use of
+corrosive materials
+in quantities requiring a
+permit
+shall be under the
+personal supervision
+of a
+certificate of fitness
+holder. The storage of corrosive
+materials in quantities requiring a
+permit
+shall be under the
+general supervision
+of a certificate of
+fitness holder.
+
+---
+
+The
+handling
+and use of
+corrosive materials
+in quantities requiring a
+permit
+shall be under the
+personal supervision
+of a
+certificate of fitness
+holder. The storage of corrosive
+materials in quantities requiring a
+permit
+shall be under the
+general supervision
+of a certificate of
+fitness holder.
+
+---
+
+Section 5402 Definitions
+
+---
+
+## Section 5402.1: Definition
+
+5402.1 Definition
+The following term shall, for the purposes of this chapter and as used elsewhere in this code, have the meaning set forth in
+FC202
+.
+CORROSIVE MATERIAL
+.
+
+---
+
+The following term shall, for the purposes of this chapter and as used elsewhere in this code, have the meaning set forth in
+FC202
+.
+CORROSIVE MATERIAL
+.
+
+---
+
+Section 5403 General Requirements
+
+---
+
+## Section 5403.1: Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+
+5403.1 Quantities Not Exceeding the Maximum Allowable Quantity Per Control Area
+The
+storage,
+handling
+and use of
+corrosive materials
+in amounts not exceeding the maximum allowable
+quantity per
+control area
+indicated in
+FC5003.1
+shall be in accordance with
+FC 5001
+,
+5003
+and
+5401
+.
+
+---
+
+The
+storage,
+handling
+and use of
+corrosive materials
+in amounts not exceeding the maximum allowable
+quantity per
+control area
+indicated in
+FC5003.1
+shall be in accordance with
+FC 5001
+,
+5003
+and
+5401
+.
+
+---
+
+## Section 5403.2: Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+
+5403.2 Quantities Exceeding the Maximum Allowable Quantity Per Control Area
+The storage,
+handling
+and use of
+corrosive materials
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in
+FC5003.1
+shall be in accordance with this chapter and FC Chapter
+50
+.
+
+---
+
+The storage,
+handling
+and use of
+corrosive materials
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in
+FC5003.1
+shall be in accordance with this chapter and FC Chapter
+50
+.
+
+---
+
+Section 5404 Storage
+
+---
+
+## Section 5404.1: Indoor Storage
+
+5404.1 Indoor Storage
+Indoor
+storage of
+corrosive materials
+in amounts exceeding the maximum
+allowable quantity per
+control area
+indicated in FC
+Table 5003.1.1(2)
+, shall be in accordance with
+FC
+5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+Indoor
+storage of
+corrosive materials
+in amounts exceeding the maximum
+allowable quantity per
+control area
+indicated in FC
+Table 5003.1.1(2)
+, shall be in accordance with
+FC
+5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+## Section 5404.1.1: Liquid-Tight Floor
+
+5404.1.1 Liquid-Tight Floor
+In addition to the provisions of FC5004.12, floors in storage areas
+for corrosive
+liquids
+shall be of
+liquid-tight construction
+.
+
+---
+
+In addition to the provisions of FC5004.12, floors in storage areas
+for corrosive
+liquids
+shall be of
+liquid-tight construction
+.
+
+---
+
+## Section 5404.2: Outdoor Storage
+
+5404.2 Outdoor Storage
+Outdoor storage of
+corrosive materials
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(4)
+shall be in
+accordance with
+FC 5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+Outdoor storage of
+corrosive materials
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(4)
+shall be in
+accordance with
+FC 5001
+,
+5003
+,
+5004
+and this chapter.
+
+---
+
+## Section 5404.2.1: Aboveground Outdoor Storage Tanks
+
+5404.2.1 Aboveground Outdoor Storage Tanks
+Aboveground outdoor storage
+tanks
+exceeding an aggregate quantity of 1,000 gallons (3785 L) of corrosive
+liquids
+shall be
+provided with
+secondary containment
+in accordance with
+FC5004.2.2
+.
+
+---
+
+Aboveground outdoor storage
+tanks
+exceeding an aggregate quantity of 1,000 gallons (3785 L) of corrosive
+liquids
+shall be
+provided with
+secondary containment
+in accordance with
+FC5004.2.2
+.
+
+---
+
+## Section 5404.2.2: Distance From Storage to Exposures
+
+5404.2.2 Distance From Storage to Exposures
+Outdoor storage of
+corrosive materials
+shall not be within 20 feet (6096 mm) of buildings not associated with the manufacturing or distribution of such materials, lot lines,
+public streets
+,
+private roads
+or
+means of egress
+. A 2-hour
+fire
+barrier wall without openings or penetrations, and extending not less than 30 inches (762 mm) above and to the sides of the storage area, is allowed in lieu of such distance. The wall shall either be an independent structure, or the exterior wall of the building adjacent to the storage area.
+Assemblies (2)
+
+---
+
+Outdoor storage of
+corrosive materials
+shall not be within 20 feet (6096 mm) of buildings not associated with the manufacturing or distribution of such materials, lot lines,
+public streets
+,
+private roads
+or
+means of egress
+. A 2-hour
+fire
+barrier wall without openings or penetrations, and extending not less than 30 inches (762 mm) above and to the sides of the storage area, is allowed in lieu of such distance. The wall shall either be an independent structure, or the exterior wall of the building adjacent to the storage area.
+
+---
+
+Section 5405 Handling and Use
+
+---
+
+## Section 5405.1: Indoor Use
+
+5405.1 Indoor Use
+The
+indoor
+handling
+and use of
+corrosive materials
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(2)
+shall be in
+accordance with
+FC 5001
+,
+5003
+,
+5005
+and this chapter.
+
+---
+
+The
+indoor
+handling
+and use of
+corrosive materials
+in amounts exceeding the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(2)
+shall be in
+accordance with
+FC 5001
+,
+5003
+,
+5005
+and this chapter.
+
+---
+
+## Section 5405.1.1: Liquid Transfer
+
+5405.1.1 Liquid Transfer
+Corrosive
+liquids
+shall be transferred in accordance with
+FC
+5005.1.10
+.
+
+---
+
+Corrosive
+liquids
+shall be transferred in accordance with
+FC
+5005.1.10
+.
+
+---
+
+## Section 5405.1.2: Ventilation
+
+5405.1.2 Ventilation
+When
+corrosive materials
+are dispensed or used, mechanical exhaust
+ventilation
+in accordance with
+FC5005.2.1.1
+shall be provided.
+
+---
+
+When
+corrosive materials
+are dispensed or used, mechanical exhaust
+ventilation
+in accordance with
+FC5005.2.1.1
+shall be provided.
+
+---
+
+## Section 5405.2: Outdoor Use
+
+5405.2 Outdoor Use
+The outdoor
+handling
+and use of
+corrosive materials
+in amounts exceeding
+the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(4)
+shall be in
+accordance with
+FC 5001
+,
+5003
+,
+5005
+and this chapter.
+
+---
+
+The outdoor
+handling
+and use of
+corrosive materials
+in amounts exceeding
+the
+maximum allowable quantity per control area
+indicated in FC
+Table 5003.1.1(4)
+shall be in
+accordance with
+FC 5001
+,
+5003
+,
+5005
+and this chapter.
+
+---
+
+## Section 5405.2.1: Distance From Use to Exposures
+
+5405.2.1 Distance From Use to Exposures
+Outdoor
+handling
+and use of
+corrosive materials
+shall be located in accordance with
+FC5404.2.2
+.
+
+---
+
+Outdoor
+handling
+and use of
+corrosive materials
+shall be located in accordance with
+FC5404.2.2
+.
+
+---
+

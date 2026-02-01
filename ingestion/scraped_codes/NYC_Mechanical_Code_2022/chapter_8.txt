@@ -1,0 +1,5385 @@
+# NYC Mechanical Code 2022 - Chapter 8
+
+New York City Mechanical Code 2022
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Chapter 4 Ventilation
+
+---
+
+Chapter 5 Exhaust Systems
+
+---
+
+Chapter 6 Duct Systems
+
+---
+
+Chapter 7 Combustion, Ventilation, and Dilution Air
+
+---
+
+Chapter 8 Chimneys and Vents
+
+---
+
+801 General
+
+---
+
+802 Vents
+
+---
+
+803 Connectors
+
+---
+
+804 Direct-Vent, Integral Vent and Mechanical Draft Systems
+
+---
+
+805 Factory-Built Chimneys
+
+---
+
+806 Metal Chimneys
+
+---
+
+807 Changes in Appliance Fuels
+
+---
+
+808 Reduction of Flue Size
+
+---
+
+809 Chimney Supported From Equipment
+
+---
+
+810 Test Run and Smoke Test
+
+---
+
+811 Exhaust Gases From Internal Combustion Engines and Turbines
+
+---
+
+Chapter 9 Specific Appliances and Equipment
+
+---
+
+Chapter 10 Boilers, Water Heaters and Pressure Vessels
+
+---
+
+Chapter 11 Refrigeration
+
+---
+
+Chapter 12 Hydronic Piping
+
+---
+
+Chapter 13 Fuel-Oil Piping and Storage
+
+---
+
+Chapter 14 Solar Systems
+
+---
+
+Chapter 15 Referenced Standards
+
+---
+
+Appendix A Chimney Connector Pass-Throughs
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Fuel Oil Storage Tank Venting Options
+
+---
+
+Chapter 8 Chimneys and Vents
+
+---
+
+Section 801 General
+
+---
+
+## Section 801.1: Scope
+
+801.1 Scope
+This chapter shall govern the
+installation
+,
+maintenance
+,
+design
+, minimum safety requirements,
+repair
+and approval of
+factory-built chimneys
+,
+chimney
+liners,
+vents
+and connectors, and field-built
+chimneys
+and connectors for all nongas-fired
+appliances
+. This chapter shall also govern the utilization of
+masonry chimneys
+.
+Gas-fired appliances
+shall be vented in accordance with the
+New York City Fuel Gas Code
+. The construction,
+repair
+,
+maintenance
+and approval of
+masonry chimneys
+shall be regulated by the
+New York City Building Code
+.
+Venting systems
+shall be designed in accordance with this chapter and comply with the requirements of the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+This chapter shall govern the
+installation
+,
+maintenance
+,
+design
+, minimum safety requirements,
+repair
+and approval of
+factory-built chimneys
+,
+chimney
+liners,
+vents
+and connectors, and field-built
+chimneys
+and connectors for all nongas-fired
+appliances
+. This chapter shall also govern the utilization of
+masonry chimneys
+.
+Gas-fired appliances
+shall be vented in accordance with the
+New York City Fuel Gas Code
+. The construction,
+repair
+,
+maintenance
+and approval of
+masonry chimneys
+shall be regulated by the
+New York City Building Code
+.
+Venting systems
+shall be designed in accordance with this chapter and comply with the requirements of the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+## Section 801.1.1: Existing Chimneys and Vents
+
+801.1.1 Existing Chimneys and Vents
+Existing chimneys and vents
+shall comply with the requirements of Section 28-104.13 of the
+New York City Administrative Code
+and Sections
+801.1.1.1
+through
+801.1.1.8
+of this code.
+
+---
+
+Existing chimneys and vents
+shall comply with the requirements of Section 28-104.13 of the
+New York City Administrative Code
+and Sections
+801.1.1.1
+through
+801.1.1.8
+of this code.
+
+---
+
+## Section 801.1.1.1: Responsibility of Owner of Taller Building
+
+801.1.1.1 Responsibility of Owner of Taller Building
+Whenever a building is erected, enlarged, or increased in height so that any portion of such building, except
+chimneys
+or
+vents
+, extends higher than the top of any existing
+chimneys
+or
+vents
+within 100 feet (30 480 mm), the owner of such new or altered building shall have the responsibility of altering such
+chimneys
+or
+vents
+to make them conform with the requirements of this chapter. A
+chimney
+or
+vent
+that is no longer connected with a
+fireplace
+or
+combustion
+or other
+equipment
+for which a
+chimney
+or
+vent
+was required shall be exempt from this requirement. Such alterations shall be accomplished by one of the following means or a combination thereof:
+Carry up the existing
+chimneys
+or
+vents
+to the height required in this chapter.
+Offset such
+chimneys
+or
+vents
+to a distance beyond that required in this chapter from the new or altered building provided that the new location of the
+outlet
+of the
+offset
+chimney
+or
+vent
+shall otherwise comply with the requirements of this chapter.
+Such requirements shall not dispense with or modify any additional requirements that may be applicable pursuant to rules of the
+New York City Department of Environmental
+Protection
+.
+
+---
+
+Whenever a building is erected, enlarged, or increased in height so that any portion of such building, except
+chimneys
+or
+vents
+, extends higher than the top of any existing
+chimneys
+or
+vents
+within 100 feet (30 480 mm), the owner of such new or altered building shall have the responsibility of altering such
+chimneys
+or
+vents
+to make them conform with the requirements of this chapter. A
+chimney
+or
+vent
+that is no longer connected with a
+fireplace
+or
+combustion
+or other
+equipment
+for which a
+chimney
+or
+vent
+was required shall be exempt from this requirement. Such alterations shall be accomplished by one of the following means or a combination thereof:
+Carry up the existing
+chimneys
+or
+vents
+to the height required in this chapter.
+Offset such
+chimneys
+or
+vents
+to a distance beyond that required in this chapter from the new or altered building provided that the new location of the
+outlet
+of the
+offset
+chimney
+or
+vent
+shall otherwise comply with the requirements of this chapter.
+Such requirements shall not dispense with or modify any additional requirements that may be applicable pursuant to rules of the
+New York City Department of Environmental
+Protection
+.
+
+---
+
+## Section 801.1.1.1.1: Chimney and Vent Plan
+
+801.1.1.1.1 Chimney and Vent Plan
+Applications for a new or altered building shall
+include a
+chimney
+and
+vent
+plan submitted pursuant to Section 107.18 of the
+New York
+City Building Code
+.
+
+---
+
+Applications for a new or altered building shall
+include a
+chimney
+and
+vent
+plan submitted pursuant to Section 107.18 of the
+New York
+City Building Code
+.
+
+---
+
+## Section 801.1.1.2: Protection of Draft
+
+801.1.1.2 Protection of Draft
+After the alteration of a
+chimney
+or
+vent
+as required by this section, it shall be the responsibility of the owner of the new or altered building to provide any mechanical
+equipment
+or devices necessary to maintain the proper
+draft
+in the
+equipment
+.
+
+---
+
+After the alteration of a
+chimney
+or
+vent
+as required by this section, it shall be the responsibility of the owner of the new or altered building to provide any mechanical
+equipment
+or devices necessary to maintain the proper
+draft
+in the
+equipment
+.
+
+---
+
+## Section 801.1.1.3: Written Notification, Plans and Required Documents
+
+801.1.1.3 Written Notification, Plans and Required Documents
+The owner of the new or altered building shall notify the owner of any building that may require a
+chimney
+or
+vent
+to be altered. Notification, plans and required documents shall comply with the
+requirements of Sections
+801.1.1.3.1
+through
+801.1.1.3.3
+.
+
+---
+
+The owner of the new or altered building shall notify the owner of any building that may require a
+chimney
+or
+vent
+to be altered. Notification, plans and required documents shall comply with the
+requirements of Sections
+801.1.1.3.1
+through
+801.1.1.3.3
+.
+
+---
+
+## Section 801.1.1.3.1: First Notice
+
+801.1.1.3.1 First Notice
+Written notice in a form acceptable to the department shall be
+provided to the building owner not less than 60 days prior to a request for permit for
+construction on the new or altered building. Such notice shall include a request for
+access
+to determine the need to alter the existing
+chimney
+or
+vent
+and a description of such work.
+Notice shall be sent by regular mail and certified mail, return receipt requested. A copy of
+such return receipt shall be filed with the department.
+
+---
+
+Written notice in a form acceptable to the department shall be
+provided to the building owner not less than 60 days prior to a request for permit for
+construction on the new or altered building. Such notice shall include a request for
+access
+to determine the need to alter the existing
+chimney
+or
+vent
+and a description of such work.
+Notice shall be sent by regular mail and certified mail, return receipt requested. A copy of
+such return receipt shall be filed with the department.
+
+---
+
+## Section 801.1.1.3.2: Second Notice
+
+801.1.1.3.2 Second Notice
+Written notice in a form acceptable to the department shall be
+provided to the building owner not more than 45 days following commencement of work
+after a permit has been issued for the new or altered building. Such notice shall include a
+request for
+access to
+determine the need to alter the existing
+chimney
+or
+vent
+and a
+description of such work. Notice shall be sent by regular mail and certified mail, return
+receipt requested. The second notice shall also be posted by a licensed process server at
+the public entrance of the building requiring a
+chimney
+or
+vent
+to be altered. A copy of
+such return receipt and proof of service by the licensed process server shall be filed with
+the department.
+Exceptions:
+A second notice shall not be required where an application to alter the affected
+chimney
+or
+vent
+has been filed with the department.
+A second notice shall not be required where
+access
+is granted and conditions are
+observed that result in a determination that
+chimney
+or
+vent
+alteration is not
+required and a revised
+chimney
+and
+vent
+plan is submitted to the department.
+
+---
+
+Written notice in a form acceptable to the department shall be
+provided to the building owner not more than 45 days following commencement of work
+after a permit has been issued for the new or altered building. Such notice shall include a
+request for
+access to
+determine the need to alter the existing
+chimney
+or
+vent
+and a
+description of such work. Notice shall be sent by regular mail and certified mail, return
+receipt requested. The second notice shall also be posted by a licensed process server at
+the public entrance of the building requiring a
+chimney
+or
+vent
+to be altered. A copy of
+such return receipt and proof of service by the licensed process server shall be filed with
+the department.
+Exceptions:
+A second notice shall not be required where an application to alter the affected
+chimney
+or
+vent
+has been filed with the department.
+A second notice shall not be required where
+access
+is granted and conditions are
+observed that result in a determination that
+chimney
+or
+vent
+alteration is not
+required and a revised
+chimney
+and
+vent
+plan is submitted to the department.
+
+---
+
+## Section 801.1.1.3.3: Plans and Required Documentation for Alteration Work
+
+801.1.1.3.3 Plans and Required Documentation for Alteration Work
+Where
+access
+is
+granted and conditions are observed that result in a determination that
+chimney
+or
+vent
+alteration is required, plans for such alteration work shall be provided to the owner of the
+existing building and a request for written consent to submit construction documents and
+perform such work shall be made.
+
+---
+
+Where
+access
+is
+granted and conditions are observed that result in a determination that
+chimney
+or
+vent
+alteration is required, plans for such alteration work shall be provided to the owner of the
+existing building and a request for written consent to submit construction documents and
+perform such work shall be made.
+
+---
+
+## Section 801.1.1.4: Approval
+
+801.1.1.4 Approval
+The construction documents for the proposed
+chimney
+extension, alteration or relocation shall be submitted to the department pursuant to Section 28-104 of the
+New York City Administrative Code
+. No certificate of occupancy shall be issued for the new building pursuant to Section 28-118.23 of the
+New York City Administrative Code
+until the work associated with such construction documents for the proposed
+chimney
+extension, alteration or relocation has been signed-off by the department.
+Exceptions:
+A certificate of occupancy may be issued where
+access
+is granted and conditions are observed that result in a determination that
+chimney
+or
+vent
+alteration is not required and a revised
+chimney
+or
+vent
+plan is submitted pursuant to
+Section 107.18
+of the
+New York City Building Code
+documenting such.
+A certificate of occupancy may be issued in accordance with Section 28-118.23, Exception
+2
+of the
+New York City Administrative Code
+.
+
+---
+
+The construction documents for the proposed
+chimney
+extension, alteration or relocation shall be submitted to the department pursuant to Section 28-104 of the
+New York City Administrative Code
+. No certificate of occupancy shall be issued for the new building pursuant to Section 28-118.23 of the
+New York City Administrative Code
+until the work associated with such construction documents for the proposed
+chimney
+extension, alteration or relocation has been signed-off by the department.
+Exceptions:
+A certificate of occupancy may be issued where
+access
+is granted and conditions are observed that result in a determination that
+chimney
+or
+vent
+alteration is not required and a revised
+chimney
+or
+vent
+plan is submitted pursuant to
+Section 107.18
+of the
+New York City Building Code
+documenting such.
+A certificate of occupancy may be issued in accordance with Section 28-118.23, Exception
+2
+of the
+New York City Administrative Code
+.
+
+---
+
+## Section 801.1.1.5: Refusal of Consent
+
+801.1.1.5 Refusal of Consent
+If consent is not granted by the owner of the affected building to do the alteration work required by this section, such owner shall signify his or her refusal in writing to the owner of the new or altered building and to the commissioner; and the owner of the new or altered building having provided the notices required by
+Section 801.1.1.3
+shall thereupon be released from any responsibility for the proper
+operation
+of the
+equipment
+due to loss of
+draft
+and for any health hazard or nuisance that may occur as a result of the new or altered building. Such responsibilities shall then be assumed by the owner of the previously constructed building. Similarly, should such owner fail to grant consent within 45 days from the date of the second notice or fail to signify his or her refusal, he or she shall then assume all responsibilities as prescribed above.
+
+---
+
+If consent is not granted by the owner of the affected building to do the alteration work required by this section, such owner shall signify his or her refusal in writing to the owner of the new or altered building and to the commissioner; and the owner of the new or altered building having provided the notices required by
+Section 801.1.1.3
+shall thereupon be released from any responsibility for the proper
+operation
+of the
+equipment
+due to loss of
+draft
+and for any health hazard or nuisance that may occur as a result of the new or altered building. Such responsibilities shall then be assumed by the owner of the previously constructed building. Similarly, should such owner fail to grant consent within 45 days from the date of the second notice or fail to signify his or her refusal, he or she shall then assume all responsibilities as prescribed above.
+
+---
+
+## Section 801.1.1.6: Procedure
+
+801.1.1.6 Procedure
+It shall be the obligation of the owner of the new or altered building to:
+Prepare and submit a
+chimney
+and
+vent
+plan to the department pursuant to
+Section 107.18
+of the
+New York City Building Code
+;
+Provide required notification pursuant to
+Section 801.1.1.3
+of this code;
+Provide plans pursuant to
+Section 801.1.1.3.3
+of this code;
+Prepare and submit construction documents to the department pursuant to Section 28-104 of the
+New York City Administrative Code
+for the alteration of existing
+chimneys
+or
+vents
+which conform to the requirements of this chapter;
+Obtain permit(s) for the proposed work in accordance with Section 28-105 of the
+New York City Administrative Code
+;
+Schedule this work so as to create a minimum of disturbance to the occupants of the affected building;
+Provide such essential services as are normally supplied by the
+equipment
+while it is out of service;
+Where necessary,
+support
+such extended
+chimneys
+,
+vents
+and
+equipment
+from this building or to carry up such
+chimneys
+or
+vents
+within his or her building;
+Provide for the
+maintenance
+,
+repair
+, and/or replacement of such extensions and added
+equipment
+;
+Make such alterations of the same material as the original
+chimney
+or
+vent
+so as to maintain the same quality and appearance, except where the owner of the
+chimney
+or
+vent
+shall give his or her consent to do otherwise. All work shall be done in such fashion as to maintain the architectural aesthetics of the existing building. Where there is practical difficulty in complying strictly with the provisions of this item, the commissioner may permit an equally safe alternative;
+Comply with the tenant
+protection
+plan requirements of Section 28-120 of the
+New York City Administrative Code
+; and
+Comply with inspection and sign-off requirements of Section 28-116 of the
+New York City Administrative Code
+.
+
+---
+
+It shall be the obligation of the owner of the new or altered building to:
+Prepare and submit a
+chimney
+and
+vent
+plan to the department pursuant to
+Section 107.18
+of the
+New York City Building Code
+;
+Provide required notification pursuant to
+Section 801.1.1.3
+of this code;
+Provide plans pursuant to
+Section 801.1.1.3.3
+of this code;
+Prepare and submit construction documents to the department pursuant to Section 28-104 of the
+New York City Administrative Code
+for the alteration of existing
+chimneys
+or
+vents
+which conform to the requirements of this chapter;
+Obtain permit(s) for the proposed work in accordance with Section 28-105 of the
+New York City Administrative Code
+;
+Schedule this work so as to create a minimum of disturbance to the occupants of the affected building;
+Provide such essential services as are normally supplied by the
+equipment
+while it is out of service;
+Where necessary,
+support
+such extended
+chimneys
+,
+vents
+and
+equipment
+from this building or to carry up such
+chimneys
+or
+vents
+within his or her building;
+Provide for the
+maintenance
+,
+repair
+, and/or replacement of such extensions and added
+equipment
+;
+Make such alterations of the same material as the original
+chimney
+or
+vent
+so as to maintain the same quality and appearance, except where the owner of the
+chimney
+or
+vent
+shall give his or her consent to do otherwise. All work shall be done in such fashion as to maintain the architectural aesthetics of the existing building. Where there is practical difficulty in complying strictly with the provisions of this item, the commissioner may permit an equally safe alternative;
+Comply with the tenant
+protection
+plan requirements of Section 28-120 of the
+New York City Administrative Code
+; and
+Comply with inspection and sign-off requirements of Section 28-116 of the
+New York City Administrative Code
+.
+
+---
+
+## Section 801.1.1.7: Existing Violations
+
+801.1.1.7 Existing Violations
+Any existing violations on the previously constructed
+equipment
+shall be corrected by the owner of the
+equipment
+before any
+equipment
+is added or alterations made at the expense of the owner of the new or altered building.
+
+---
+
+Any existing violations on the previously constructed
+equipment
+shall be corrected by the owner of the
+equipment
+before any
+equipment
+is added or alterations made at the expense of the owner of the new or altered building.
+
+---
+
+## Section 801.1.1.8: Variance
+
+801.1.1.8 Variance
+The commissioner may grant a variance in accordance with the provisions of this code.
+
+---
+
+The commissioner may grant a variance in accordance with the provisions of this code.
+
+---
+
+## Section 801.2: General
+
+801.2 General
+Every fuel-burning
+appliance
+shall discharge the products of
+combustion
+to a
+vent
+,
+factory-built chimney
+or
+masonry chimney
+, except for
+appliances
+vented in accordance with
+Section 804
+. The
+chimney
+or
+vent
+shall be designed for the type of
+appliance
+being vented.
+Exception:
+Commercial cooking appliances
+vented by a
+Type I
+hood
+installed in accordance with
+Section 507
+.
+
+---
+
+Every fuel-burning
+appliance
+shall discharge the products of
+combustion
+to a
+vent
+,
+factory-built chimney
+or
+masonry chimney
+, except for
+appliances
+vented in accordance with
+Section 804
+. The
+chimney
+or
+vent
+shall be designed for the type of
+appliance
+being vented.
+Exception:
+Commercial cooking appliances
+vented by a
+Type I
+hood
+installed in accordance with
+Section 507
+.
+
+---
+
+## Section 801.2.1: Design
+
+801.2.1 Design
+Chimneys
+and
+vents
+shall be designed and constructed so as to provide the necessary
+draft
+and capacity for each
+appliance
+connected to completely exhaust the products of
+combustion
+to the outside
+air
+. The temperature on adjacent combustible surfaces shall not be raised above 160°F (71.1°C).
+Chimneys
+and
+vents
+shall be designed to resist the effects of condensation that would cause deterioration of the
+chimney
+or
+vent
+.
+
+---
+
+Chimneys
+and
+vents
+shall be designed and constructed so as to provide the necessary
+draft
+and capacity for each
+appliance
+connected to completely exhaust the products of
+combustion
+to the outside
+air
+. The temperature on adjacent combustible surfaces shall not be raised above 160°F (71.1°C).
+Chimneys
+and
+vents
+shall be designed to resist the effects of condensation that would cause deterioration of the
+chimney
+or
+vent
+.
+
+---
+
+## Section 801.2.2: Outlets
+
+801.2.2 Outlets
+The
+outlet
+shall be arranged so that the
+flue gases
+are not directed so that they jeopardize people, overheat combustible structures, or enter building openings in the vicinity of the
+outlet
+.
+
+---
+
+The
+outlet
+shall be arranged so that the
+flue gases
+are not directed so that they jeopardize people, overheat combustible structures, or enter building openings in the vicinity of the
+outlet
+.
+
+---
+
+## Section 801.2.3: Support
+
+801.2.3 Support
+Chimneys
+and
+vents
+shall not be supported by the
+equipment
+they serve unless such
+equipment
+has been specifically designed for such loads.
+
+---
+
+Chimneys
+and
+vents
+shall not be supported by the
+equipment
+they serve unless such
+equipment
+has been specifically designed for such loads.
+
+---
+
+## Section 801.2.4: Oil-Fired Appliances
+
+801.2.4 Oil-Fired Appliances
+Oil-fired
+appliances
+shall be vented in accordance with this code and NFPA 31.
+
+---
+
+Oil-fired
+appliances
+shall be vented in accordance with this code and NFPA 31.
+
+---
+
+## Section 801.2.5: Gas-Fired Appliances
+
+801.2.5 Gas-Fired Appliances
+Gas-fired
+appliances
+shall be vented in accordance with the
+New York City Fuel Gas Code
+.
+
+---
+
+Gas-fired
+appliances
+shall be vented in accordance with the
+New York City Fuel Gas Code
+.
+
+---
+
+## Section 801.3: Masonry Chimneys
+
+801.3 Masonry Chimneys
+Masonry chimneys
+shall be constructed in accordance with the
+New York City Building Code
+.
+Building product (1)
+
+---
+
+Masonry chimneys
+shall be constructed in accordance with the
+New York City Building Code
+.
+
+---
+
+## Section 801.4: Positive Flow
+
+801.4 Positive Flow
+Venting systems
+shall be designed and constructed so as to develop a positive flow adequate to convey all
+combustion products
+to the outside atmosphere.
+
+---
+
+Venting systems
+shall be designed and constructed so as to develop a positive flow adequate to convey all
+combustion products
+to the outside atmosphere.
+
+---
+
+## Section 801.5: Design
+
+801.5 Design
+Venting systems
+shall be designed in accordance with this chapter and comply with the requirements of the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+Venting systems
+shall be designed in accordance with this chapter and comply with the requirements of the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+## Section 801.6: Minimum Size of Chimney or Vent
+
+801.6 Minimum Size of Chimney or Vent
+Except as otherwise provided for in this chapter, the size of the
+chimney
+or
+vent
+, serving a single
+appliance
+, except engineered systems, shall have a minimum area equal to the area of the
+appliance
+connection.
+
+---
+
+Except as otherwise provided for in this chapter, the size of the
+chimney
+or
+vent
+, serving a single
+appliance
+, except engineered systems, shall have a minimum area equal to the area of the
+appliance
+connection.
+
+---
+
+## Section 801.7: Solid Fuel-Burning Appliance Flues
+
+801.7 Solid Fuel-Burning Appliance Flues
+The cross-sectional area of a
+flue
+serving a solid fuel-burning
+appliance
+shall be not greater than three times the cross-sectional area of the
+appliance
+flue
+collar or
+flue
+outlet
+.
+
+---
+
+The cross-sectional area of a
+flue
+serving a solid fuel-burning
+appliance
+shall be not greater than three times the cross-sectional area of the
+appliance
+flue
+collar or
+flue
+outlet
+.
+
+---
+
+## Section 801.8: Abandoned Inlet Openings
+
+801.8 Abandoned Inlet Openings
+Abandoned inlet openings in
+chimneys
+and
+vents
+shall be closed by an approved method, sealed
+air
+-tight and permanently labeled as abandoned.
+
+---
+
+Abandoned inlet openings in
+chimneys
+and
+vents
+shall be closed by an approved method, sealed
+air
+-tight and permanently labeled as abandoned.
+
+---
+
+## Section 801.9: Positive Pressure
+
+801.9 Positive Pressure
+Where an
+appliance
+equipped with a forced or
+induced draft
+system creates a positive
+pressure
+in the
+venting system
+, the
+venting system
+shall be designed and listed for positive
+pressure
+applications.
+
+---
+
+Where an
+appliance
+equipped with a forced or
+induced draft
+system creates a positive
+pressure
+in the
+venting system
+, the
+venting system
+shall be designed and listed for positive
+pressure
+applications.
+
+---
+
+## Section 801.10: Connection to Fireplace
+
+801.10 Connection to Fireplace
+Connection of
+appliances
+to
+chimney
+flues
+serving
+fireplaces
+shall be in accordance with Sections
+801.10.1
+through
+801.10.3
+.
+
+---
+
+Connection of
+appliances
+to
+chimney
+flues
+serving
+fireplaces
+shall be in accordance with Sections
+801.10.1
+through
+801.10.3
+.
+
+---
+
+## Section 801.10.1: Closure and Access
+
+801.10.1 Closure and Access
+A noncombustible seal shall be provided below the point of connection to prevent entry of room
+air
+into the
+flue
+. Means shall be provided for
+access to
+the
+flue
+for inspection and
+cleaning
+.
+
+---
+
+A noncombustible seal shall be provided below the point of connection to prevent entry of room
+air
+into the
+flue
+. Means shall be provided for
+access to
+the
+flue
+for inspection and
+cleaning
+.
+
+---
+
+## Section 801.10.2: Connection to Factory-Built Fireplace Flue
+
+801.10.2 Connection to Factory-Built Fireplace Flue
+An
+appliance
+shall not be connected to a
+flue
+serving a
+factory-built fireplace
+unless the
+appliance
+is specifically listed for such
+installation
+. The connection shall be made in accordance with the
+appliance
+manufacturer's instructions.
+
+---
+
+An
+appliance
+shall not be connected to a
+flue
+serving a
+factory-built fireplace
+unless the
+appliance
+is specifically listed for such
+installation
+. The connection shall be made in accordance with the
+appliance
+manufacturer's instructions.
+
+---
+
+## Section 801.10.3: Connection to Masonry Fireplace Flue
+
+801.10.3 Connection to Masonry Fireplace Flue
+A connector shall extend from the
+appliance
+to the
+flue
+serving a
+masonry fireplace
+such that the
+flue gases
+are exhausted directly into the
+flue
+. The connector shall be provided with
+access
+or shall be removable for inspection and
+cleaning
+of both the connector and the
+flue
+. Listed direct connection devices shall be installed in accordance with their listing.
+
+---
+
+A connector shall extend from the
+appliance
+to the
+flue
+serving a
+masonry fireplace
+such that the
+flue gases
+are exhausted directly into the
+flue
+. The connector shall be provided with
+access
+or shall be removable for inspection and
+cleaning
+of both the connector and the
+flue
+. Listed direct connection devices shall be installed in accordance with their listing.
+
+---
+
+## Section 801.11: Multiple Solid Fuel-Burning Appliances Prohibited
+
+801.11 Multiple Solid Fuel-Burning Appliances Prohibited
+A solid fuel-burning
+appliance
+or
+fireplace
+shall not connect to a
+chimney
+passageway venting another
+appliance
+.
+
+---
+
+A solid fuel-burning
+appliance
+or
+fireplace
+shall not connect to a
+chimney
+passageway venting another
+appliance
+.
+
+---
+
+## Section 801.12: Chimney Entrance
+
+801.12 Chimney Entrance
+Connectors shall connect to a
+chimney
+flue
+at a point not less than 12 inches (304.8 mm) above the lowest portion of the interior of the
+chimney
+flue
+.
+
+---
+
+Connectors shall connect to a
+chimney
+flue
+at a point not less than 12 inches (304.8 mm) above the lowest portion of the interior of the
+chimney
+flue
+.
+
+---
+
+## Section 801.13: Cleanouts
+
+801.13 Cleanouts
+Factory-built chimneys
+and
+vents
+shall be provided with a cleanout opening or
+access
+door at the base of the
+chimney
+or
+vent
+installed in accordance with the manufacturer's instructions. Masonry and
+metal chimneys
+shall be provided with a cleanout opening having a minimum height of 6 inches (152.4 mm). The upper edge of the opening shall be located not less than 6 inches (152.4 mm) below the lowest
+chimney
+inlet opening. The cleanout shall be provided with a tight-fitting, noncombustible cover of a minimum size of 8 inches by 8 inches (203.2 mm by 203.2 mm). Cleanouts shall comply with the requirements of the
+New York City Air Pollution
+Control
+Code
+.
+Exception:
+Cleanouts shall not be required for
+chimney
+flues
+serving
+masonry fireplaces
+, if such
+flues
+are provided with
+access
+through the
+fireplace
+opening.
+
+---
+
+Factory-built chimneys
+and
+vents
+shall be provided with a cleanout opening or
+access
+door at the base of the
+chimney
+or
+vent
+installed in accordance with the manufacturer's instructions. Masonry and
+metal chimneys
+shall be provided with a cleanout opening having a minimum height of 6 inches (152.4 mm). The upper edge of the opening shall be located not less than 6 inches (152.4 mm) below the lowest
+chimney
+inlet opening. The cleanout shall be provided with a tight-fitting, noncombustible cover of a minimum size of 8 inches by 8 inches (203.2 mm by 203.2 mm). Cleanouts shall comply with the requirements of the
+New York City Air Pollution
+Control
+Code
+.
+Exception:
+Cleanouts shall not be required for
+chimney
+flues
+serving
+masonry fireplaces
+, if such
+flues
+are provided with
+access
+through the
+fireplace
+opening.
+
+---
+
+## Section 801.14: Connections to Exhauster
+
+801.14 Connections to Exhauster
+Appliance
+connections to a
+chimney
+or
+vent
+equipped with a power exhauster shall be made on the inlet side of the exhauster. Joints and
+piping
+on the
+positive pressure
+side of the exhauster shall be listed for
+positive pressure
+applications as specified by the manufacturer's instructions for the exhauster or in accordance with this code.
+
+---
+
+Appliance
+connections to a
+chimney
+or
+vent
+equipped with a power exhauster shall be made on the inlet side of the exhauster. Joints and
+piping
+on the
+positive pressure
+side of the exhauster shall be listed for
+positive pressure
+applications as specified by the manufacturer's instructions for the exhauster or in accordance with this code.
+
+---
+
+## Section 801.15: Fuel-Fired Appliances
+
+801.15 Fuel-Fired Appliances
+Masonry chimneys
+utilized to
+vent
+fuel-fired appliances
+shall be located, constructed and sized as specified in the manufacturer's instructions for the
+appliances
+being vented.
+
+---
+
+Masonry chimneys
+utilized to
+vent
+fuel-fired appliances
+shall be located, constructed and sized as specified in the manufacturer's instructions for the
+appliances
+being vented.
+
+---
+
+## Section 801.16: Flue Lining
+
+801.16 Flue Lining
+Masonry chimneys
+shall be lined. The lining material shall be compatible with the type of
+appliance
+connected, in accordance with the
+appliance
+listing and manufacturer's instructions. Listed materials used as
+flue
+linings shall be installed in accordance with their listings and the manufacturer's instructions.
+
+---
+
+Masonry chimneys
+shall be lined. The lining material shall be compatible with the type of
+appliance
+connected, in accordance with the
+appliance
+listing and manufacturer's instructions. Listed materials used as
+flue
+linings shall be installed in accordance with their listings and the manufacturer's instructions.
+
+---
+
+## Section 801.16.1: Residential and Low-Heat Appliances (General)
+
+801.16.1 Residential and Low-Heat Appliances (General)
+Flue lining
+systems for use with residential-type and low-heat
+appliances
+shall be limited to the following:
+Clay
+flue lining
+complying with the requirements of ASTM C 315 or equivalent. Clay
+flue lining
+shall be installed in accordance with the
+New York City Building Code
+.
+Listed and labeled
+chimney
+lining systems complying with UL 1777 (new and existing
+chimneys
+) or ULC-S635 (existing
+chimneys
+) or ULC-S640 (new
+chimneys
+).
+Other approved materials that will resist, without cracking, softening or corrosion,
+flue gases
+and
+condensate
+at temperatures up to 1,800°F (982.2°C).
+Existing firebrick
+chimneys
+may be used to
+vent
+appliances
+if the firebrick is acid resistant and lab tested. The brick and mortar must be inspected in accordance with
+Section 1705.32
+of the
+New York City Building Code
+.
+
+---
+
+Flue lining
+systems for use with residential-type and low-heat
+appliances
+shall be limited to the following:
+Clay
+flue lining
+complying with the requirements of ASTM C 315 or equivalent. Clay
+flue lining
+shall be installed in accordance with the
+New York City Building Code
+.
+Listed and labeled
+chimney
+lining systems complying with UL 1777 (new and existing
+chimneys
+) or ULC-S635 (existing
+chimneys
+) or ULC-S640 (new
+chimneys
+).
+Other approved materials that will resist, without cracking, softening or corrosion,
+flue gases
+and
+condensate
+at temperatures up to 1,800°F (982.2°C).
+Existing firebrick
+chimneys
+may be used to
+vent
+appliances
+if the firebrick is acid resistant and lab tested. The brick and mortar must be inspected in accordance with
+Section 1705.32
+of the
+New York City Building Code
+.
+
+---
+
+## Section 801.17: Space Around Lining
+
+801.17 Space Around Lining
+The space surrounding a
+flue lining
+system or other
+vent
+installed within a
+masonry chimney
+shall not be used to
+vent
+any other
+appliance
+. This shall not prevent the
+installation
+of a separate
+flue lining
+in accordance with the manufacturer's instructions and this code.
+
+---
+
+The space surrounding a
+flue lining
+system or other
+vent
+installed within a
+masonry chimney
+shall not be used to
+vent
+any other
+appliance
+. This shall not prevent the
+installation
+of a separate
+flue lining
+in accordance with the manufacturer's instructions and this code.
+
+---
+
+## Section 801.18: Existing Chimneys and Vents
+
+801.18 Existing Chimneys and Vents
+Where an
+appliance
+is permanently disconnected from an existing
+chimney
+or
+vent
+, or where an
+appliance
+is connected to an existing
+chimney
+or
+vent
+during the process of a new
+installation
+, the
+chimney
+or
+vent
+shall comply with Sections
+801.18.1
+through
+801.18.4
+.
+
+---
+
+Where an
+appliance
+is permanently disconnected from an existing
+chimney
+or
+vent
+, or where an
+appliance
+is connected to an existing
+chimney
+or
+vent
+during the process of a new
+installation
+, the
+chimney
+or
+vent
+shall comply with Sections
+801.18.1
+through
+801.18.4
+.
+
+---
+
+## Section 801.18.1: Size
+
+801.18.1 Size
+The
+chimney
+or
+vent
+shall be resized as necessary to
+control
+flue
+gas condensation in the interior of the
+chimney
+or
+vent
+and to provide the
+appliance
+or
+appliances
+served with the required
+draft
+. For the venting of
+oil-fired appliances
+to
+masonry chimneys
+, the resizing shall be in accordance with NFPA 31.
+
+---
+
+The
+chimney
+or
+vent
+shall be resized as necessary to
+control
+flue
+gas condensation in the interior of the
+chimney
+or
+vent
+and to provide the
+appliance
+or
+appliances
+served with the required
+draft
+. For the venting of
+oil-fired appliances
+to
+masonry chimneys
+, the resizing shall be in accordance with NFPA 31.
+
+---
+
+## Section 801.18.2: Flue Passageways
+
+801.18.2 Flue Passageways
+The
+flue
+gas passageway shall be free of
+obstructions
+and combustible deposits and shall be cleaned if previously used for venting a solid or liquid fuel-burning
+appliance
+or
+fireplace
+. The
+flue liner
+,
+chimney
+inner wall or
+vent
+inner wall shall be continuous and shall be free of cracks, gaps, perforations or other damage or deterioration which would allow the escape of
+combustion products
+, including gases, moisture and creosote. Where an oil-fired
+appliance
+is connected to an existing
+masonry chimney
+, such
+chimney
+flue
+shall be repaired or relined in accordance with NFPA 31.
+
+---
+
+The
+flue
+gas passageway shall be free of
+obstructions
+and combustible deposits and shall be cleaned if previously used for venting a solid or liquid fuel-burning
+appliance
+or
+fireplace
+. The
+flue liner
+,
+chimney
+inner wall or
+vent
+inner wall shall be continuous and shall be free of cracks, gaps, perforations or other damage or deterioration which would allow the escape of
+combustion products
+, including gases, moisture and creosote. Where an oil-fired
+appliance
+is connected to an existing
+masonry chimney
+, such
+chimney
+flue
+shall be repaired or relined in accordance with NFPA 31.
+
+---
+
+## Section 801.18.3: Cleanout
+
+801.18.3 Cleanout
+Masonry chimneys
+shall be provided with a cleanout opening complying with
+Section 801.13
+.
+
+---
+
+Masonry chimneys
+shall be provided with a cleanout opening complying with
+Section 801.13
+.
+
+---
+
+## Section 801.18.4: Clearances
+
+801.18.4 Clearances
+Chimneys
+and
+vents
+shall have airspace
+clearance
+to combustibles in accordance with the
+New York City Building Code
+and the
+chimney
+or
+vent
+manufacturer's instructions.
+Exception:
+Masonry chimneys
+without the required airspace
+clearances
+shall be permitted to be used if lined or relined with a
+chimney
+lining system listed for use in
+chimneys
+with reduced
+clearances
+in accordance with UL 1777 or ULC-S635. The
+chimney
+clearance
+shall be not less than permitted by the terms of the
+chimney
+liner listing and the manufacturer's instructions.
+
+---
+
+Chimneys
+and
+vents
+shall have airspace
+clearance
+to combustibles in accordance with the
+New York City Building Code
+and the
+chimney
+or
+vent
+manufacturer's instructions.
+Exception:
+Masonry chimneys
+without the required airspace
+clearances
+shall be permitted to be used if lined or relined with a
+chimney
+lining system listed for use in
+chimneys
+with reduced
+clearances
+in accordance with UL 1777 or ULC-S635. The
+chimney
+clearance
+shall be not less than permitted by the terms of the
+chimney
+liner listing and the manufacturer's instructions.
+
+---
+
+## Section 801.18.4.1: Fireblocking
+
+801.18.4.1 Fireblocking
+Noncombustible fireblocking shall be provided in accordance with the
+New York City Building Code
+.
+
+---
+
+Noncombustible fireblocking shall be provided in accordance with the
+New York City Building Code
+.
+
+---
+
+## Section 801.19: Multistory Prohibited
+
+801.19 Multistory Prohibited
+Common
+venting systems
+for
+appliances
+located on more than one floor level shall be prohibited.
+
+---
+
+Common
+venting systems
+for
+appliances
+located on more than one floor level shall be prohibited.
+
+---
+
+## Section 801.20: Reserved
+
+801.20 Reserved
+
+---
+
+## Section 801.21: Termination Requirements
+
+801.21 Termination Requirements
+Terminations shall comply with the
+appliance
+listing and manufacturer's instructions, and the following:
+Chimneys
+,
+vents
+and
+flues
+serving
+appliances
+or
+fireplaces
+with
+outlet
+temperatures less than 600°F (315.6°C) shall extend at least 3 feet (914.4 mm) above the highest construction, such as a roof ridge, parapet wall or penthouse within 10 feet (3048 mm) of the
+chimney
+vent
+or
+flue
+outlet
+, whether the construction is on the same building as the
+chimney
+or on another building. Any
+chimneys
+,
+vents
+or
+flues
+located in an area that is more than 10 feet (3048 mm) from such construction, but not more than the distance determined by Equation 8-1, shall be at least as high as the highest construction in such area. For purposes of determining the required height of a
+chimney
+, such construction shall not include other
+chimneys
+,
+vents
+or open structural framing.
+Chimneys
+serving
+appliances
+or
+fireplaces
+with
+outlet
+temperatures between 600°F (315.6°C) and 1000°F (537.8°C) shall extend at least 10 feet (3048 mm) above the highest construction, such as a roof ridge, or parapet wall or penthouse within 20 feet (6096 mm) of the
+chimney
+outlet
+, whether the construction is on the same building as the
+chimney
+or on another building. Any
+chimneys
+located in an area more than 20 feet (6096 mm) from such construction, but not more than the distance determined from Equation 8-1, shall be at least as high as the highest construction in such area. For purposes of determining the required height of the
+chimney
+, such construction does not include other
+chimneys
+,
+vents
+or open structural framing.
+Chimneys
+serving
+appliances
+or
+fireplaces
+with
+outlet
+temperatures greater than 1000°F (537.8°C) shall extend at least 20 feet (6096 mm) above the highest construction, such as roof ridge, parapet wall, penthouse, or other obstruction within 50 feet (15 240 mm) of the
+chimney
+outlet
+, whether the construction is on the same building as the
+chimney
+or in another building. Any
+chimneys
+located in an area that is more than 50 feet (15 240 mm) from such construction, but not more than the distance determined from Equation 8-1, shall be at least as high as the highest construction located in such area. For purposes of determining the required height of the
+chimney
+, such construction does not include other
+chimneys
+,
+vents
+, or open structural framing.
+Termination caps shall not be permitted. A drain shall be installed in accordance with
+Section 801.22
+.
+A
+positive means shall be provided to prevent water from entering the
+appliance
+.
+Exception:
+Termination caps shall be permitted on listed
+factory-built chimneys
+unless otherwise prohibited by the
+New York City Air Pollution
+Control
+Code
+.
+Decorative shrouds
+shall not be installed at the termination of
+factory-built chimneys
+except where such shrouds are
+listed and labeled
+for use with the specific
+factory-built chimney
+system and are installed in accordance with the manufacturers' instructions.
+The following formula shall be used in order to determine the distance referred to in Items 1, 2 and 3 of this section:
+(Equation 8-1)
+where:
+D
+=
+Distance, in feet, measured from the center of the
+chimney
+,
+vent
+or
+flue
+outlet
+to the nearest edge of the construction. If a single
+chimney
+is divided into multiple smaller
+flues
+or
+chimneys
+, measure from the center of the
+chimney
+outlet
+that is closest to the nearest edge of the construction.
+F
+=
+Value determined from Table 801.21.
+A
+=
+Free area, in square inches, of
+chimney
+flue
+space
+outlet
+. If a single
+chimney
+is divided into multiple smaller
+flues
+or
+chimneys
+, the total aggregate free area of such
+flue
+and
+chimney
+outlets
+shall be used to calculate "A".
+TABLE 801.21
+"F" FACTOR FOR DETERMINING
+CHIMNEY
+DISTANCES
+TYPE OF FUEL
+"F" FACTOR
+600°F (315.6°C)
+and less
+600°F (315.6°C) to
+1000°F (537.8°C)
+Greater than 1000°F
+(537.8°C)
+No. 2
+Fuel Oil
+2.5
+2.5
+3
+No. 4, 6
+Fuel Oil
+,
+Solid Fuels
+3
+3
+3
+
+---
+
+Terminations shall comply with the
+appliance
+listing and manufacturer's instructions, and the following:
+Chimneys
+,
+vents
+and
+flues
+serving
+appliances
+or
+fireplaces
+with
+outlet
+temperatures less than 600°F (315.6°C) shall extend at least 3 feet (914.4 mm) above the highest construction, such as a roof ridge, parapet wall or penthouse within 10 feet (3048 mm) of the
+chimney
+vent
+or
+flue
+outlet
+, whether the construction is on the same building as the
+chimney
+or on another building. Any
+chimneys
+,
+vents
+or
+flues
+located in an area that is more than 10 feet (3048 mm) from such construction, but not more than the distance determined by Equation 8-1, shall be at least as high as the highest construction in such area. For purposes of determining the required height of a
+chimney
+, such construction shall not include other
+chimneys
+,
+vents
+or open structural framing.
+Chimneys
+serving
+appliances
+or
+fireplaces
+with
+outlet
+temperatures between 600°F (315.6°C) and 1000°F (537.8°C) shall extend at least 10 feet (3048 mm) above the highest construction, such as a roof ridge, or parapet wall or penthouse within 20 feet (6096 mm) of the
+chimney
+outlet
+, whether the construction is on the same building as the
+chimney
+or on another building. Any
+chimneys
+located in an area more than 20 feet (6096 mm) from such construction, but not more than the distance determined from Equation 8-1, shall be at least as high as the highest construction in such area. For purposes of determining the required height of the
+chimney
+, such construction does not include other
+chimneys
+,
+vents
+or open structural framing.
+Chimneys
+serving
+appliances
+or
+fireplaces
+with
+outlet
+temperatures greater than 1000°F (537.8°C) shall extend at least 20 feet (6096 mm) above the highest construction, such as roof ridge, parapet wall, penthouse, or other obstruction within 50 feet (15 240 mm) of the
+chimney
+outlet
+, whether the construction is on the same building as the
+chimney
+or in another building. Any
+chimneys
+located in an area that is more than 50 feet (15 240 mm) from such construction, but not more than the distance determined from Equation 8-1, shall be at least as high as the highest construction located in such area. For purposes of determining the required height of the
+chimney
+, such construction does not include other
+chimneys
+,
+vents
+, or open structural framing.
+Termination caps shall not be permitted. A drain shall be installed in accordance with
+Section 801.22
+.
+A
+positive means shall be provided to prevent water from entering the
+appliance
+.
+Exception:
+Termination caps shall be permitted on listed
+factory-built chimneys
+unless otherwise prohibited by the
+New York City Air Pollution
+Control
+Code
+.
+Decorative shrouds
+shall not be installed at the termination of
+factory-built chimneys
+except where such shrouds are
+listed and labeled
+for use with the specific
+factory-built chimney
+system and are installed in accordance with the manufacturers' instructions.
+The following formula shall be used in order to determine the distance referred to in Items 1, 2 and 3 of this section:
+(Equation 8-1)
+where:
+D
+=
+Distance, in feet, measured from the center of the
+chimney
+,
+vent
+or
+flue
+outlet
+to the nearest edge of the construction. If a single
+chimney
+is divided into multiple smaller
+flues
+or
+chimneys
+, measure from the center of the
+chimney
+outlet
+that is closest to the nearest edge of the construction.
+F
+=
+Value determined from Table 801.21.
+A
+=
+Free area, in square inches, of
+chimney
+flue
+space
+outlet
+. If a single
+chimney
+is divided into multiple smaller
+flues
+or
+chimneys
+, the total aggregate free area of such
+flue
+and
+chimney
+outlets
+shall be used to calculate "A".
+TABLE 801.21
+"F" FACTOR FOR DETERMINING
+CHIMNEY
+DISTANCES
+TYPE OF FUEL
+"F" FACTOR
+600°F (315.6°C)
+and less
+600°F (315.6°C) to
+1000°F (537.8°C)
+Greater than 1000°F
+(537.8°C)
+No. 2
+Fuel Oil
+2.5
+2.5
+3
+No. 4, 6
+Fuel Oil
+,
+Solid Fuels
+3
+3
+3
+
+---
+
+## Section 801.22: Drains
+
+801.22 Drains
+A drain shall be provided for all
+chimneys
+and gas
+vents
+to remove rain water and condensation. The drain shall be not less than 1 inch (25.4 mm) in diameter and shall be equipped with an appropriately-sized p-trap with automatic trap seal primer in accordance with
+Section 1002
+of the
+New York City Plumbing Code
+or a float drain trap installed in accordance with the manufacturer's requirements. The drain shall be sized by the
+design
+engineer and shall be suitable for the
+chimney
+area. For listed
+chimneys
+and gas
+vents
+, the connection tap into the
+chimney
+shall be determined by the manufacturer and connected to the drain
+piping
+in accordance with the listing and
+installation
+instructions. On all outdoor
+chimneys
+and gas
+vents
+, the connection and drain shall be installed indoors as close as practicable to the
+chimney
+base to prevent freezing.
+
+---
+
+A drain shall be provided for all
+chimneys
+and gas
+vents
+to remove rain water and condensation. The drain shall be not less than 1 inch (25.4 mm) in diameter and shall be equipped with an appropriately-sized p-trap with automatic trap seal primer in accordance with
+Section 1002
+of the
+New York City Plumbing Code
+or a float drain trap installed in accordance with the manufacturer's requirements. The drain shall be sized by the
+design
+engineer and shall be suitable for the
+chimney
+area. For listed
+chimneys
+and gas
+vents
+, the connection tap into the
+chimney
+shall be determined by the manufacturer and connected to the drain
+piping
+in accordance with the listing and
+installation
+instructions. On all outdoor
+chimneys
+and gas
+vents
+, the connection and drain shall be installed indoors as close as practicable to the
+chimney
+base to prevent freezing.
+
+---
+
+## Section 801.23: Draft Controls
+
+801.23 Draft Controls
+The
+installation
+of
+draft
+controls
+shall comply with Sections
+801.23.1
+through
+801.23.5
+.
+
+---
+
+The
+installation
+of
+draft
+controls
+shall comply with Sections
+801.23.1
+through
+801.23.5
+.
+
+---
+
+## Section 801.23.1: Draft Control Devices
+
+801.23.1 Draft Control Devices
+Where a
+draft
+control
+device is part of the
+appliance
+or is
+supplied by the
+appliance
+manufacturer, it shall be installed in accordance with the
+manufacturers' instructions. In the absence of manufacturers' instructions, the device shall be
+attached to the
+flue
+collar of the
+appliance
+or as near to the
+appliance
+as practical.
+
+---
+
+Where a
+draft
+control
+device is part of the
+appliance
+or is
+supplied by the
+appliance
+manufacturer, it shall be installed in accordance with the
+manufacturers' instructions. In the absence of manufacturers' instructions, the device shall be
+attached to the
+flue
+collar of the
+appliance
+or as near to the
+appliance
+as practical.
+
+---
+
+## Section 801.23.2: Additional Devices
+
+801.23.2 Additional Devices
+Appliances
+requiring a controlled
+chimney
+draft
+shall be permitted
+to be equipped with a listed barometric
+draft
+regulator or automatic
+damper
+installed and adjusted
+in accordance with the manufacturers' instructions. Automatic
+dampers
+shall be installed in
+accordance with
+Section 803.6
+.
+
+---
+
+Appliances
+requiring a controlled
+chimney
+draft
+shall be permitted
+to be equipped with a listed barometric
+draft
+regulator or automatic
+damper
+installed and adjusted
+in accordance with the manufacturers' instructions. Automatic
+dampers
+shall be installed in
+accordance with
+Section 803.6
+.
+
+---
+
+## Section 801.23.3: Thermal Safety (Spill) Switches
+
+801.23.3 Thermal Safety (Spill) Switches
+Thermal safety (spill) switches
+shall be
+installed on barometric
+draft
+regulators and all other appurtenances that allow dilution air into
+chimneys
+or
+vents
+. Thermal safety
+(spill) switches shall be interlocked with all of the
+appliances
+connected to the same
+chimney
+or
+vent
+.
+
+---
+
+Thermal safety (spill) switches
+shall be
+installed on barometric
+draft
+regulators and all other appurtenances that allow dilution air into
+chimneys
+or
+vents
+. Thermal safety
+(spill) switches shall be interlocked with all of the
+appliances
+connected to the same
+chimney
+or
+vent
+.
+
+---
+
+## Section 801.23.4: Location
+
+801.23.4 Location
+Barometric
+draft
+regulators shall be installed in the same room or enclosure
+as the
+appliance
+in such a manner as to prevent any difference in pressure between the regulator
+and the
+combustion air
+supply.
+
+---
+
+Barometric
+draft
+regulators shall be installed in the same room or enclosure
+as the
+appliance
+in such a manner as to prevent any difference in pressure between the regulator
+and the
+combustion air
+supply.
+
+---
+
+## Section 801.23.5: Positioning
+
+801.23.5 Positioning
+Barometric
+draft
+regulators shall be installed in the position for which they
+were designed with reference to the horizontal and vertical planes and shall be located so that
+the relief opening is not obstructed by any part of the
+appliance
+, adjacent construction or
+installation
+hardware.
+
+---
+
+Barometric
+draft
+regulators shall be installed in the position for which they
+were designed with reference to the horizontal and vertical planes and shall be located so that
+the relief opening is not obstructed by any part of the
+appliance
+, adjacent construction or
+installation
+hardware.
+
+---
+
+## Section 801.24: Obstructions
+
+801.24 Obstructions
+Devices or items that protrude into, impede or restrict the flow of
+vent
+gases
+shall not be installed in a vent
+connector, chimney
+, or
+vent
+.
+
+---
+
+Devices or items that protrude into, impede or restrict the flow of
+vent
+gases
+shall not be installed in a vent
+connector, chimney
+, or
+vent
+.
+
+---
+
+## Section 801.25: Outdoor Chimneys and Vents
+
+801.25 Outdoor Chimneys and Vents
+Outdoor portions of
+chimneys
+or
+vents
+shall be provided
+with integral R-8 insulation or be provided with an R-8 insulation enclosure, where exposed to the
+outdoors for more than 5 feet (1524 mm).
+
+---
+
+Outdoor portions of
+chimneys
+or
+vents
+shall be provided
+with integral R-8 insulation or be provided with an R-8 insulation enclosure, where exposed to the
+outdoors for more than 5 feet (1524 mm).
+
+---
+
+Section 802 Vents
+
+---
+
+## Section 802.1: General
+
+802.1 General
+Vent
+systems shall be
+listed and labeled
+or field fabricated in accordance with NFPA 211.
+Type L vents
+shall be tested in accordance with UL 641.
+
+---
+
+Vent
+systems shall be
+listed and labeled
+or field fabricated in accordance with NFPA 211.
+Type L vents
+shall be tested in accordance with UL 641.
+
+---
+
+## Section 802.2: Vent Application
+
+802.2 Vent Application
+The application of
+vents
+shall be in accordance with Table 802.2.
+TABLE 802.2
+VENT
+APPLICATION
+VENT
+TYPES
+APPLIANCE TYPES
+Type L oil
+vents
+Oil-burning
+appliances
+listed and labeled
+for
+venting with
+Type L vents
+;
+gas appliances
+listed
+and labeled for venting with Type B
+vents
+.
+
+---
+
+The application of
+vents
+shall be in accordance with Table 802.2.
+TABLE 802.2
+VENT
+APPLICATION
+VENT
+TYPES
+APPLIANCE TYPES
+Type L oil
+vents
+Oil-burning
+appliances
+listed and labeled
+for
+venting with
+Type L vents
+;
+gas appliances
+listed
+and labeled for venting with Type B
+vents
+.
+
+---
+
+## Section 802.3: Installation
+
+802.3 Installation
+Vent
+systems shall be sized, installed and terminated in accordance with the
+vent
+and
+appliance
+manufacturer's instructions.
+
+---
+
+Vent
+systems shall be sized, installed and terminated in accordance with the
+vent
+and
+appliance
+manufacturer's instructions.
+
+---
+
+## Section 802.4: Vent Termination Caps
+
+802.4 Vent Termination Caps
+Vent
+termination caps shall not be permitted and a drain installed to receive condensed or rain water shall be required. A positive means, such as
+offsets
+, shall be provided to prevent water from entering the
+appliance
+.
+Exception:
+Termination caps shall be permitted on listed
+factory-built chimneys
+unless
+otherwise prohibited by the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+Vent
+termination caps shall not be permitted and a drain installed to receive condensed or rain water shall be required. A positive means, such as
+offsets
+, shall be provided to prevent water from entering the
+appliance
+.
+Exception:
+Termination caps shall be permitted on listed
+factory-built chimneys
+unless
+otherwise prohibited by the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+## Section 802.5: Type L Vent Terminations
+
+802.5 Type L Vent Terminations
+Type L vents
+shall terminate in accordance with
+Section 801.21
+.
+
+---
+
+Type L vents
+shall terminate in accordance with
+Section 801.21
+.
+
+---
+
+## Section 802.6: Minimum Vent Heights
+
+802.6 Minimum Vent Heights
+Vents
+shall terminate not less than 5 feet (1524 mm) in vertical height above the highest connected
+appliance
+flue
+collar.
+Exceptions:
+Venting systems
+of direct
+vent
+appliances
+shall be installed in accordance with the
+appliance
+and the
+vent
+manufacturer's instructions.
+Appliances
+listed for outdoor
+installations
+incorporating integral venting means shall be installed in accordance with their listings and the manufacturer's instructions.
+
+---
+
+Vents
+shall terminate not less than 5 feet (1524 mm) in vertical height above the highest connected
+appliance
+flue
+collar.
+Exceptions:
+Venting systems
+of direct
+vent
+appliances
+shall be installed in accordance with the
+appliance
+and the
+vent
+manufacturer's instructions.
+Appliances
+listed for outdoor
+installations
+incorporating integral venting means shall be installed in accordance with their listings and the manufacturer's instructions.
+
+---
+
+## Section 802.7: Support of Vents
+
+802.7 Support of Vents
+All portions of
+vents
+shall be installed in accordance with the manufacturer's instructions and shall be adequately supported for the
+design
+and weight of the materials employed.
+
+---
+
+All portions of
+vents
+shall be installed in accordance with the manufacturer's instructions and shall be adequately supported for the
+design
+and weight of the materials employed.
+
+---
+
+## Section 802.8: Insulation Shield
+
+802.8 Insulation Shield
+Where
+vents
+pass through insulated assemblies, an insulation shield constructed of not less than No. 26 gage sheet metal shall be installed to provide
+clearance
+between the
+vent
+and the insulation material. The
+clearance
+shall be not less than the
+clearance
+to combustibles specified by the
+vent
+manufacturer's instructions. Where
+vents
+pass through attic space, the shield shall terminate not less than 2 inches (50.8 mm) above the insulation materials and shall be secured in place to prevent displacement. Insulation shields provided as part of a listed
+vent
+system shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Where
+vents
+pass through insulated assemblies, an insulation shield constructed of not less than No. 26 gage sheet metal shall be installed to provide
+clearance
+between the
+vent
+and the insulation material. The
+clearance
+shall be not less than the
+clearance
+to combustibles specified by the
+vent
+manufacturer's instructions. Where
+vents
+pass through attic space, the shield shall terminate not less than 2 inches (50.8 mm) above the insulation materials and shall be secured in place to prevent displacement. Insulation shields provided as part of a listed
+vent
+system shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 802.9: Door Swing
+
+802.9 Door Swing
+Appliance
+and
+equipment
+vent
+terminals shall be located such that doors cannot
+swing within 12 inches (304.8 mm) horizontally of the
+vent
+terminals. Doorstops or closers shall not
+be installed to obtain this
+clearance
+.
+
+---
+
+Appliance
+and
+equipment
+vent
+terminals shall be located such that doors cannot
+swing within 12 inches (304.8 mm) horizontally of the
+vent
+terminals. Doorstops or closers shall not
+be installed to obtain this
+clearance
+.
+
+---
+
+Section 803 Connectors
+
+---
+
+## Section 803.1: Connectors Required
+
+803.1 Connectors Required
+Connectors shall be used to connect
+appliances
+to the vertical
+chimney
+or
+vent
+, except where the
+chimney
+or
+vent
+is attached directly to the
+appliance
+.
+
+---
+
+Connectors shall be used to connect
+appliances
+to the vertical
+chimney
+or
+vent
+, except where the
+chimney
+or
+vent
+is attached directly to the
+appliance
+.
+
+---
+
+## Section 803.2: Location
+
+803.2 Location
+Connectors shall be located entirely within the room in which the connecting
+appliance
+is located, except as provided for in
+Section 803.10.4
+. Where passing through an unheated space, a connector shall not be constructed of single-wall
+pipe
+.
+
+---
+
+Connectors shall be located entirely within the room in which the connecting
+appliance
+is located, except as provided for in
+Section 803.10.4
+. Where passing through an unheated space, a connector shall not be constructed of single-wall
+pipe
+.
+
+---
+
+## Section 803.3: Size
+
+803.3 Size
+The connector shall not be smaller than the size of the
+flue
+collar supplied by the manufacturer of the
+appliance
+. Where the
+appliance
+has more than one
+flue
+outlet
+, and in the absence of the manufacturer's specific instructions, the connector area shall be not less than the combined area of the
+flue
+outlets
+for which it acts as a common connector.
+
+---
+
+The connector shall not be smaller than the size of the
+flue
+collar supplied by the manufacturer of the
+appliance
+. Where the
+appliance
+has more than one
+flue
+outlet
+, and in the absence of the manufacturer's specific instructions, the connector area shall be not less than the combined area of the
+flue
+outlets
+for which it acts as a common connector.
+
+---
+
+## Section 803.4: Branch Connections
+
+803.4 Branch Connections
+Branch connections to the
+vent connector
+shall be made in accordance with the
+vent
+manufacturer's instructions.
+
+---
+
+Branch connections to the
+vent connector
+shall be made in accordance with the
+vent
+manufacturer's instructions.
+
+---
+
+## Section 803.5: Manual Dampers
+
+803.5 Manual Dampers
+Manual
+dampers
+shall not be installed in connectors except in
+chimney connectors
+serving solid
+fuel-burning appliances
+.
+
+---
+
+Manual
+dampers
+shall not be installed in connectors except in
+chimney connectors
+serving solid
+fuel-burning appliances
+.
+
+---
+
+## Section 803.6: Automatic Dampers
+
+803.6 Automatic Dampers
+Automatically operated
+dampers
+shall be equipped with safety
+controls
+and shall be of a listed type. Such safety
+controls
+shall be capable of demonstrating
+operation
+of the
+damper
+and appropriate
+draft
+before
+appliance
+operation
+. The automatically operated
+dampers
+shall be installed in accordance with the manufacturer's instructions. An
+automatic vent damper device
+shall not be installed on an
+existing appliance
+unless the
+appliance
+is
+listed and labeled
+and the device is installed in accordance with the terms of its listing. The name of the installer and date of
+installation
+shall be marked on a label affixed to the
+damper
+device.
+
+---
+
+Automatically operated
+dampers
+shall be equipped with safety
+controls
+and shall be of a listed type. Such safety
+controls
+shall be capable of demonstrating
+operation
+of the
+damper
+and appropriate
+draft
+before
+appliance
+operation
+. The automatically operated
+dampers
+shall be installed in accordance with the manufacturer's instructions. An
+automatic vent damper device
+shall not be installed on an
+existing appliance
+unless the
+appliance
+is
+listed and labeled
+and the device is installed in accordance with the terms of its listing. The name of the installer and date of
+installation
+shall be marked on a label affixed to the
+damper
+device.
+
+---
+
+## Section 803.7: Connectors Serving Two or More Appliances
+
+803.7 Connectors Serving Two or More Appliances
+Where two or more connectors enter a common
+vent
+or
+chimney
+, the smaller connector shall enter at the highest level consistent with available headroom or
+clearance
+to
+combustible material
+.
+
+---
+
+Where two or more connectors enter a common
+vent
+or
+chimney
+, the smaller connector shall enter at the highest level consistent with available headroom or
+clearance
+to
+combustible material
+.
+
+---
+
+## Section 803.8: Vent Connector Construction
+
+803.8 Vent Connector Construction
+A
+vent connector
+for a nonresidential, low-heat
+appliance
+shall be a
+factory-built chimney
+section or steel
+pipe
+having resistance to heat and corrosion equivalent to that for the appropriate galvanized
+pipe
+as specified in Table 803.8.
+Factory-built chimney
+sections shall be joined together in accordance with the
+chimney
+manufacturer's instructions.
+TABLE 803.8
+MINIMUM THICKNESS FOR GALVANIZED STEEL
+VENT CONNECTORS
+FOR LOW-HEAT
+APPLIANCES
+DIAMETER OF CONNECTOR
+(inches)
+MINIMUM THICKNESS
+(inch)
+Less than 6
+0.019 (No. 28 gage)
+6 to less than 10
+0.023 (No. 26 gage)
+10 to 12 inclusive
+0.029 (No.24 gage)
+14 to 16 inclusive
+0.034 (No. 22 gage)
+Over 16
+0.056 (No. 16 gage)
+For SI: 1 inch = 25.4 mm
+
+---
+
+A
+vent connector
+for a nonresidential, low-heat
+appliance
+shall be a
+factory-built chimney
+section or steel
+pipe
+having resistance to heat and corrosion equivalent to that for the appropriate galvanized
+pipe
+as specified in Table 803.8.
+Factory-built chimney
+sections shall be joined together in accordance with the
+chimney
+manufacturer's instructions.
+TABLE 803.8
+MINIMUM THICKNESS FOR GALVANIZED STEEL
+VENT CONNECTORS
+FOR LOW-HEAT
+APPLIANCES
+DIAMETER OF CONNECTOR
+(inches)
+MINIMUM THICKNESS
+(inch)
+Less than 6
+0.019 (No. 28 gage)
+6 to less than 10
+0.023 (No. 26 gage)
+10 to 12 inclusive
+0.029 (No.24 gage)
+14 to 16 inclusive
+0.034 (No. 22 gage)
+Over 16
+0.056 (No. 16 gage)
+For SI: 1 inch = 25.4 mm
+
+---
+
+## Section 803.9: Chimney Connector Construction
+
+803.9 Chimney Connector Construction
+Chimney connectors
+for low-heat
+appliances
+shall be of sheet steel
+pipe
+having resistance to corrosion and heat not less than that of galvanized steel specified in Table 803.9(1). Connectors for
+medium-heat appliances
+and
+high-heat appliances
+shall be of sheet steel not less than the thickness specified in Table 803.9(2).
+TABLE 803.9(1)
+MINIMUM
+CHIMNEY CONNECTOR
+THICKNESS FOR LOW-HEAT
+APPLIANCES
+DIAMETER OF CONNECTOR
+(inches)
+MINIMUM NOMINAL THICKNESS
+(galvanized) (inches)
+5 and smaller
+0.022 (No. 26 gage)
+Larger than 5 and up to 10
+0.028 (No. 24 gage)
+Larger than 10 and up to 16
+0.034 (No. 22 gage)
+Larger than 16
+0.064 (No. 16 gage)
+For SI: 1 inch = 25.4 mm.
+TABLE 803.9(2)
+MINIMUM
+CHIMNEY CONNECTOR
+THICKNESS FOR MEDIUM- AND
+HIGH-HEAT APPLIANCES
+AREA
+(square inches)
+EQUIVALENT ROUND
+DIAMETER
+(inches)
+MINIMUM THICKNESS
+(inches)
+0-154
+0-14
+0.0575 (No. 16 gage)
+155-201
+15-16
+0.075 (No. 14 gage)
+202-254
+17-18
+0.0994 (No. 12 gage)
+Greater than 254
+Greater than 18
+0.1292 (No. 10 gage)
+For SI: 1 inch = 25.4 mm, 1 square inch = 645.16 mm
+2
+.
+
+---
+
+Chimney connectors
+for low-heat
+appliances
+shall be of sheet steel
+pipe
+having resistance to corrosion and heat not less than that of galvanized steel specified in Table 803.9(1). Connectors for
+medium-heat appliances
+and
+high-heat appliances
+shall be of sheet steel not less than the thickness specified in Table 803.9(2).
+TABLE 803.9(1)
+MINIMUM
+CHIMNEY CONNECTOR
+THICKNESS FOR LOW-HEAT
+APPLIANCES
+DIAMETER OF CONNECTOR
+(inches)
+MINIMUM NOMINAL THICKNESS
+(galvanized) (inches)
+5 and smaller
+0.022 (No. 26 gage)
+Larger than 5 and up to 10
+0.028 (No. 24 gage)
+Larger than 10 and up to 16
+0.034 (No. 22 gage)
+Larger than 16
+0.064 (No. 16 gage)
+For SI: 1 inch = 25.4 mm.
+TABLE 803.9(2)
+MINIMUM
+CHIMNEY CONNECTOR
+THICKNESS FOR MEDIUM- AND
+HIGH-HEAT APPLIANCES
+AREA
+(square inches)
+EQUIVALENT ROUND
+DIAMETER
+(inches)
+MINIMUM THICKNESS
+(inches)
+0-154
+0-14
+0.0575 (No. 16 gage)
+155-201
+15-16
+0.075 (No. 14 gage)
+202-254
+17-18
+0.0994 (No. 12 gage)
+Greater than 254
+Greater than 18
+0.1292 (No. 10 gage)
+For SI: 1 inch = 25.4 mm, 1 square inch = 645.16 mm
+2
+.
+
+---
+
+## Section 803.10: Installation
+
+803.10 Installation
+Connectors shall be installed in accordance with Sections
+803.10.1
+through
+803.10.6
+.
+
+---
+
+Connectors shall be installed in accordance with Sections
+803.10.1
+through
+803.10.6
+.
+
+---
+
+## Section 803.10.1: Supports and Joints
+
+803.10.1 Supports and Joints
+Connectors shall be supported in an approved manner, and
+overlapping joints shall be tight-fitting and fastened with sheet metal screws, rivets, welds or other
+approved means.
+
+---
+
+Connectors shall be supported in an approved manner, and
+overlapping joints shall be tight-fitting and fastened with sheet metal screws, rivets, welds or other
+approved means.
+
+---
+
+## Section 803.10.2: Length
+
+803.10.2 Length
+The maximum horizontal length of a single-wall connector shall not affect the capability of the system to produce adequate
+draft
+.
+
+---
+
+The maximum horizontal length of a single-wall connector shall not affect the capability of the system to produce adequate
+draft
+.
+
+---
+
+## Section 803.10.3: Connection
+
+803.10.3 Connection
+The connector shall extend to the inner face of the
+chimney
+or
+vent
+liner, but not beyond. A connector entering a
+masonry chimney
+shall be cemented to masonry in an approved manner. Where thimbles are installed to facilitate removal of the connector from the
+masonry chimney
+, the thimble shall be permanently cemented in place with high-temperature cement.
+
+---
+
+The connector shall extend to the inner face of the
+chimney
+or
+vent
+liner, but not beyond. A connector entering a
+masonry chimney
+shall be cemented to masonry in an approved manner. Where thimbles are installed to facilitate removal of the connector from the
+masonry chimney
+, the thimble shall be permanently cemented in place with high-temperature cement.
+
+---
+
+## Section 803.10.4: Connector Pass-Through
+
+803.10.4 Connector Pass-Through
+Chimney connectors
+shall not pass through any floor or ceiling, nor through a fire-resistance-rated wall assembly.
+Chimney connectors
+shall not pass through walls or partitions constructed of
+combustible material
+to reach a
+chimney
+or
+vent
+, except where such
+chimney connector
+complies with
+Section 803.10.4.1
+or
+803.10.4.2
+.
+TABLE 803.10.4
+CHIMNEY CONNECTOR
+SYSTEMS AND
+CLEARANCES
+TO COMBUSTIBLE WALL MATERIALS FOR HEATING
+APPLIANCES
+A,B,C,D
+System A
+(12-inch
+clearance
+)
+A 3.5-inch-thick brick wall shall be framed into the combustible wall. A 0.625-inch-thick fire-clay liner (ASTM C 315 or equivalent)
+e
+shall be firmly cemented in the center of the brick wall maintaining a 12-inch
+clearance
+to combustibles. The clay liner shall run from the outer surface of the bricks to the inner surface of the
+chimney
+liner.
+System B
+(9-inch
+clearance
+)
+A labeled solid-insulated
+factory-built chimney
+section (1-inch insulation) the same inside diameter as the connector shall be utilized. Sheet steel
+supports
+cut to maintain a 9-inch
+clearance
+to combustibles shall be fastened to the wall surface and to the
+chimney
+section. Fasteners shall not penetrate the
+chimney
+flue liner
+. The
+chimney
+length shall be flush with the
+masonry chimney
+liner and sealed to the masonry with water-insoluble refractory cement.
+Chimney
+manufacturers' parts shall be utilized to securely fasten the
+chimney connector
+to the
+chimney
+section.
+System C
+(6-inch
+clearance
+)
+A sheet metal (minimum No. 24 gage) ventilated thimble having a minimum thickness of 0.0236 inch (No. 24 gage) having two 1-inch
+air
+channels shall be installed. Steel
+supports
+shall be cut to maintain a 6-inch
+clearance
+with a sheet steel
+chimney connector
+between the thimble and combustibles. The
+chimney connector
+and steel
+supports
+shall have a minimum thickness of 0.0236 inch (No. 24 gage). One side of the
+support
+shall be fastened to the wall on all sides. Glass-fiber insulation shall fill the 6-inch space between the thimble and the
+supports
+.
+System D
+(2-inch
+clearance
+)
+A labeled solid-insulated
+factory-built chimney
+section (1-inch insulation) with a diameter 2 inches larger than the
+chimney connector
+shall be installed with a steel
+chimney connector
+having a minimum thickness of 0.0236 inch (No. 24 gage). Sheet steel
+supports
+shall be positioned to maintain a 2-inch
+clearance
+to combustibles and to hold the
+chimney connector
+to ensure that a 1-inch airspace surrounds the
+chimney connector
+through the
+chimney
+section. The steel
+support
+shall be fastened to the wall on all sides and the
+chimney
+section shall be fastened to the
+supports
+. Fasteners shall not penetrate the liner of the
+chimney
+section.
+For SI: 1 inch = 25.4 mm, 1.0 Btu × in/ft
+2
+• h • °F = 0.144 W/m
+2
+• K.
+Insulation material that is part of the wall pass-through system shall be noncombustible and shall have a thermal conductivity of 1.0 Btu × in/ft
+2
+• h • °F or less.
+All
+clearances
+and thicknesses are minimums.
+Materials utilized to seal penetrations for the connector shall be non-combustible.
+Connectors for all systems except System B shall extend through the wall pass-through system to the inner face of the
+flue liner
+.
+ASTM C 315.
+
+---
+
+Chimney connectors
+shall not pass through any floor or ceiling, nor through a fire-resistance-rated wall assembly.
+Chimney connectors
+shall not pass through walls or partitions constructed of
+combustible material
+to reach a
+chimney
+or
+vent
+, except where such
+chimney connector
+complies with
+Section 803.10.4.1
+or
+803.10.4.2
+.
+TABLE 803.10.4
+CHIMNEY CONNECTOR
+SYSTEMS AND
+CLEARANCES
+TO COMBUSTIBLE WALL MATERIALS FOR HEATING
+APPLIANCES
+A,B,C,D
+System A
+(12-inch
+clearance
+)
+A 3.5-inch-thick brick wall shall be framed into the combustible wall. A 0.625-inch-thick fire-clay liner (ASTM C 315 or equivalent)
+e
+shall be firmly cemented in the center of the brick wall maintaining a 12-inch
+clearance
+to combustibles. The clay liner shall run from the outer surface of the bricks to the inner surface of the
+chimney
+liner.
+System B
+(9-inch
+clearance
+)
+A labeled solid-insulated
+factory-built chimney
+section (1-inch insulation) the same inside diameter as the connector shall be utilized. Sheet steel
+supports
+cut to maintain a 9-inch
+clearance
+to combustibles shall be fastened to the wall surface and to the
+chimney
+section. Fasteners shall not penetrate the
+chimney
+flue liner
+. The
+chimney
+length shall be flush with the
+masonry chimney
+liner and sealed to the masonry with water-insoluble refractory cement.
+Chimney
+manufacturers' parts shall be utilized to securely fasten the
+chimney connector
+to the
+chimney
+section.
+System C
+(6-inch
+clearance
+)
+A sheet metal (minimum No. 24 gage) ventilated thimble having a minimum thickness of 0.0236 inch (No. 24 gage) having two 1-inch
+air
+channels shall be installed. Steel
+supports
+shall be cut to maintain a 6-inch
+clearance
+with a sheet steel
+chimney connector
+between the thimble and combustibles. The
+chimney connector
+and steel
+supports
+shall have a minimum thickness of 0.0236 inch (No. 24 gage). One side of the
+support
+shall be fastened to the wall on all sides. Glass-fiber insulation shall fill the 6-inch space between the thimble and the
+supports
+.
+System D
+(2-inch
+clearance
+)
+A labeled solid-insulated
+factory-built chimney
+section (1-inch insulation) with a diameter 2 inches larger than the
+chimney connector
+shall be installed with a steel
+chimney connector
+having a minimum thickness of 0.0236 inch (No. 24 gage). Sheet steel
+supports
+shall be positioned to maintain a 2-inch
+clearance
+to combustibles and to hold the
+chimney connector
+to ensure that a 1-inch airspace surrounds the
+chimney connector
+through the
+chimney
+section. The steel
+support
+shall be fastened to the wall on all sides and the
+chimney
+section shall be fastened to the
+supports
+. Fasteners shall not penetrate the liner of the
+chimney
+section.
+For SI: 1 inch = 25.4 mm, 1.0 Btu × in/ft
+2
+• h • °F = 0.144 W/m
+2
+• K.
+Insulation material that is part of the wall pass-through system shall be noncombustible and shall have a thermal conductivity of 1.0 Btu × in/ft
+2
+• h • °F or less.
+All
+clearances
+and thicknesses are minimums.
+Materials utilized to seal penetrations for the connector shall be non-combustible.
+Connectors for all systems except System B shall extend through the wall pass-through system to the inner face of the
+flue liner
+.
+ASTM C 315.
+
+---
+
+## Section 803.10.4.1: Manufactured Insulated Chimney Connectors
+
+803.10.4.1 Manufactured Insulated Chimney Connectors
+Manufactured insulated
+chimney connectors
+that pass through walls or partitions of combustible construction must comply with the following:
+The connector is labeled for wall pass-through and is installed in accordance with the manufacturer's instructions; or
+The connector is put through a device labeled for wall pass-through; or
+The connector has a diameter not larger than 10 inches (254 mm) and is installed in accordance with one of the methods in
+Table 803.10.4
+. Concealed metal parts of the pass-through system in contact with
+flue gases
+shall be of stainless steel or equivalent material that resists corrosion, softening or cracking up to 1,800°F (982°C).
+
+---
+
+Manufactured insulated
+chimney connectors
+that pass through walls or partitions of combustible construction must comply with the following:
+The connector is labeled for wall pass-through and is installed in accordance with the manufacturer's instructions; or
+The connector is put through a device labeled for wall pass-through; or
+The connector has a diameter not larger than 10 inches (254 mm) and is installed in accordance with one of the methods in
+Table 803.10.4
+. Concealed metal parts of the pass-through system in contact with
+flue gases
+shall be of stainless steel or equivalent material that resists corrosion, softening or cracking up to 1,800°F (982°C).
+
+---
+
+## Section 803.10.4.2: Field-Applied Insulation for Chimney Connectors
+
+803.10.4.2 Field-Applied Insulation for Chimney Connectors
+Chimney connectors
+of
+appliances
+with
+flue
+gas temperatures less than 500°F (260°C) that pass through walls or partitions of combustible construction shall be insulated with a field-applied flexible wrap assembly tested in accordance with either ASTM E2816 or ASTM E2336. The connector shall comply with all of the following:
+The insulated
+vent connectors
+pass-through assemblies and through penetration assemblies shall be tested for F and T ratings in accordance with ASTM E 814. The F and T rating of the assembly shall be equal to or exceed the fire-resistance rating of the mechanical/
+boiler room
+.
+Bracing and
+supports
+shall be of noncombustible material securely attached to the structure and designed to carry gravity and seismic loads within the stress limitations of
+Chapter 16
+of the
+New York City Building Code
+. Bolts, screws, rivets and other mechanical fasteners shall not penetrate connector walls.
+Insulated
+vent connector
+pass-through assemblies shall not pass through ceilings or floors.
+Insulated
+vent connector
+pass-through assemblies shall not run through occupied spaces, corridors, sleeping rooms and spaces with hazardous materials.
+Insulated
+vent connector
+pass-through assemblies material shall meet the requirements for minimum
+chimney connector
+thicknesses for medium and
+high-heat appliances
+in accordance with
+Table 803.9(2)
+.
+Insulated
+vent connector
+pass-through assemblies fittings shall be welded or shall be factory fabricated UL listed construction suitable for external flexible wrap insulation.
+The
+draft
+calculations shall account for the insulating value of the field-applied flexible wrap insulation.
+
+---
+
+Chimney connectors
+of
+appliances
+with
+flue
+gas temperatures less than 500°F (260°C) that pass through walls or partitions of combustible construction shall be insulated with a field-applied flexible wrap assembly tested in accordance with either ASTM E2816 or ASTM E2336. The connector shall comply with all of the following:
+The insulated
+vent connectors
+pass-through assemblies and through penetration assemblies shall be tested for F and T ratings in accordance with ASTM E 814. The F and T rating of the assembly shall be equal to or exceed the fire-resistance rating of the mechanical/
+boiler room
+.
+Bracing and
+supports
+shall be of noncombustible material securely attached to the structure and designed to carry gravity and seismic loads within the stress limitations of
+Chapter 16
+of the
+New York City Building Code
+. Bolts, screws, rivets and other mechanical fasteners shall not penetrate connector walls.
+Insulated
+vent connector
+pass-through assemblies shall not pass through ceilings or floors.
+Insulated
+vent connector
+pass-through assemblies shall not run through occupied spaces, corridors, sleeping rooms and spaces with hazardous materials.
+Insulated
+vent connector
+pass-through assemblies material shall meet the requirements for minimum
+chimney connector
+thicknesses for medium and
+high-heat appliances
+in accordance with
+Table 803.9(2)
+.
+Insulated
+vent connector
+pass-through assemblies fittings shall be welded or shall be factory fabricated UL listed construction suitable for external flexible wrap insulation.
+The
+draft
+calculations shall account for the insulating value of the field-applied flexible wrap insulation.
+
+---
+
+## Section 803.10.5: Pitch
+
+803.10.5 Pitch
+Connectors shall rise vertically to the
+chimney
+or
+vent
+with a minimum pitch equal to one-fourth unit vertical in 12 units horizontal (2-percent slope).
+
+---
+
+Connectors shall rise vertically to the
+chimney
+or
+vent
+with a minimum pitch equal to one-fourth unit vertical in 12 units horizontal (2-percent slope).
+
+---
+
+## Section 803.10.6: Clearances
+
+803.10.6 Clearances
+Connectors shall have a minimum
+clearance
+to combustibles in accordance with Table 803.10.6. The
+clearances
+specified in Table 803.10.6 apply, except where the listing and labeling of an
+appliance
+specifies a different
+clearance
+, in which case the labeled
+clearance
+shall apply. The
+clearance
+to combustibles for connectors shall be reduced only in accordance with
+Section 308
+or via the use of a listed
+chimney
+or
+vent connector
+system.
+TABLE 803.10.6
+CONNECTOR
+CLEARANCES
+TO COMBUSTIBLES
+TYPE OF
+APPLIANCE
+MINIMUM
+CLEARANCE
+(inches)
+Domestic-type
+appliances
+Chimney
+and
+vent connectors
+Electric and oil incinerators
+18
+Oil and solid
+fuel-burning appliances
+18
+Oil
+appliances
+labeled for venting with
+Type L vents
+9
+Commercial, industrial-type
+appliances
+Low-heat
+appliances
+Chimney connectors
+Oil and solid fuel boilers,
+furnaces
+and
+water heaters
+18
+Oil
+unit heaters
+18
+Other low-heat industrial
+appliances
+18
+Medium-heat appliances
+Chimney connectors
+All oil and solid
+fuel-burning appliances
+36
+High-heat appliances
+Masonry or metal connectors
+In accordance with NFPA 211
+All oil and solid
+fuel-burning appliances
+For SI:1 inch = 25.4 mm.
+
+---
+
+Connectors shall have a minimum
+clearance
+to combustibles in accordance with Table 803.10.6. The
+clearances
+specified in Table 803.10.6 apply, except where the listing and labeling of an
+appliance
+specifies a different
+clearance
+, in which case the labeled
+clearance
+shall apply. The
+clearance
+to combustibles for connectors shall be reduced only in accordance with
+Section 308
+or via the use of a listed
+chimney
+or
+vent connector
+system.
+TABLE 803.10.6
+CONNECTOR
+CLEARANCES
+TO COMBUSTIBLES
+TYPE OF
+APPLIANCE
+MINIMUM
+CLEARANCE
+(inches)
+Domestic-type
+appliances
+Chimney
+and
+vent connectors
+Electric and oil incinerators
+18
+Oil and solid
+fuel-burning appliances
+18
+Oil
+appliances
+labeled for venting with
+Type L vents
+9
+Commercial, industrial-type
+appliances
+Low-heat
+appliances
+Chimney connectors
+Oil and solid fuel boilers,
+furnaces
+and
+water heaters
+18
+Oil
+unit heaters
+18
+Other low-heat industrial
+appliances
+18
+Medium-heat appliances
+Chimney connectors
+All oil and solid
+fuel-burning appliances
+36
+High-heat appliances
+Masonry or metal connectors
+In accordance with NFPA 211
+All oil and solid
+fuel-burning appliances
+For SI:1 inch = 25.4 mm.
+
+---
+
+Section 804 Direct-Vent, Integral Vent and Mechanical Draft Systems
+
+---
+
+## Section 804.1: Direct-Vent Terminations
+
+804.1 Direct-Vent Terminations
+Vent
+terminals for
+direct-vent appliances
+shall be installed in accordance with the manufacturer's instructions. In addition, direct
+vent
+terminations shall comply with the following requirements:
+Where located adjacent to walkways, the termination shall be not less than 7 feet (2133.6 mm) above the level of the walkway.
+Vents
+shall terminate at least 3 feet (914.4 mm) above any forced
+air
+inlet, other than the forced
+air
+inlet for the subject direct
+vent
+appliance
+, located within 10 feet (3048 mm).
+The
+vent
+system shall terminate at least 4 feet (1219.2 mm) below, 4 feet (1219.2 mm) horizontally from or 1 foot (304.8 mm) above any door, window or gravity
+air
+inlet into the building.
+The
+vent
+termination point shall not be located closer than 3 feet (914.4 mm) to an interior corner formed by two walls perpendicular to each other.
+The
+vent
+termination shall not be mounted directly above or within 3 feet (914.4 mm) horizontally from any gas or electric metering, regulating, venting relief
+equipment
+or other building opening.
+The bottom of the
+vent
+termination shall be located at least 36 inches (914.4 mm) above finished grade.
+The maximum heat input of an
+appliance
+served by single horizontal
+vent
+termination shall be 350,000 Btu/h (
+102.6
+kW), unless otherwise approved by the Commissioner.
+The maximum heat input of all
+appliances
+served by horizontal
+vent
+terminations located within a 10 foot (3048 mm) radius shall be 350,000 Btu/h (
+102.6
+kW), unless otherwise approved by the commissioner.
+The
+vent
+termination shall be located a minimum of 4 feet (1219.2 mm) from the lot line or from adjacent buildings. The termination shall be installed in accordance with the
+vent
+manufacturer's instructions.
+
+---
+
+Vent
+terminals for
+direct-vent appliances
+shall be installed in accordance with the manufacturer's instructions. In addition, direct
+vent
+terminations shall comply with the following requirements:
+Where located adjacent to walkways, the termination shall be not less than 7 feet (2133.6 mm) above the level of the walkway.
+Vents
+shall terminate at least 3 feet (914.4 mm) above any forced
+air
+inlet, other than the forced
+air
+inlet for the subject direct
+vent
+appliance
+, located within 10 feet (3048 mm).
+The
+vent
+system shall terminate at least 4 feet (1219.2 mm) below, 4 feet (1219.2 mm) horizontally from or 1 foot (304.8 mm) above any door, window or gravity
+air
+inlet into the building.
+The
+vent
+termination point shall not be located closer than 3 feet (914.4 mm) to an interior corner formed by two walls perpendicular to each other.
+The
+vent
+termination shall not be mounted directly above or within 3 feet (914.4 mm) horizontally from any gas or electric metering, regulating, venting relief
+equipment
+or other building opening.
+The bottom of the
+vent
+termination shall be located at least 36 inches (914.4 mm) above finished grade.
+The maximum heat input of an
+appliance
+served by single horizontal
+vent
+termination shall be 350,000 Btu/h (
+102.6
+kW), unless otherwise approved by the Commissioner.
+The maximum heat input of all
+appliances
+served by horizontal
+vent
+terminations located within a 10 foot (3048 mm) radius shall be 350,000 Btu/h (
+102.6
+kW), unless otherwise approved by the commissioner.
+The
+vent
+termination shall be located a minimum of 4 feet (1219.2 mm) from the lot line or from adjacent buildings. The termination shall be installed in accordance with the
+vent
+manufacturer's instructions.
+
+---
+
+## Section 804.2: Appliances With Integral Vents
+
+804.2 Appliances With Integral Vents
+Appliances
+incorporating integral venting means shall be installed in accordance with their listings and the manufacturer's instructions. In addition, integral
+vent
+terminals shall comply with the following requirements:
+Where located adjacent to walkways, the
+vent
+terminal shall be not less than 7 feet (2133.6 mm) above the level of the walkway.
+The
+vent
+terminal shall be at least 3 feet (914.4 mm) above any forced
+air
+inlet, other than the forced
+air
+inlet for the subject integral
+vent
+appliance
+, located within 10 feet (3048 mm).
+The
+vent
+terminal shall be at least 4 feet (1219.2 mm) below, 4 feet (1219.2 mm) horizontally from or 1 foot (304.8 mm) above any door, window or gravity
+air
+inlet into the building.
+The
+vent
+terminal shall not be located closer than 3 feet (914.4 mm) to an interior corner formed by two walls perpendicular to each other.
+The
+vent
+terminal shall not be mounted directly above or within 3 feet (914.4 mm) horizontally from any gas or electric metering, regulating, venting relief
+equipment
+or other building opening.
+The bottom of the
+vent
+terminal shall be located at least 36 inches (914.4 mm) above finished grade.
+The maximum heat input of an
+appliance
+served by single horizontal
+vent
+terminal shall be 350,000 Btu/h (
+102.6
+kW), unless otherwise approved by the commissioner.
+The maximum heat input of all
+appliances
+served by horizontal
+vent
+terminals located within a 10 foot (3048 mm) radius shall be 350,000 Btu/h (
+102.6
+kW), unless otherwise approved by the commissioner.
+The
+vent
+terminal shall be located a minimum of 4 feet (1219.2 mm) from the lot line or from adjacent buildings. The termination shall be installed in accordance with the
+vent
+manufacturer's instructions.
+
+---
+
+Appliances
+incorporating integral venting means shall be installed in accordance with their listings and the manufacturer's instructions. In addition, integral
+vent
+terminals shall comply with the following requirements:
+Where located adjacent to walkways, the
+vent
+terminal shall be not less than 7 feet (2133.6 mm) above the level of the walkway.
+The
+vent
+terminal shall be at least 3 feet (914.4 mm) above any forced
+air
+inlet, other than the forced
+air
+inlet for the subject integral
+vent
+appliance
+, located within 10 feet (3048 mm).
+The
+vent
+terminal shall be at least 4 feet (1219.2 mm) below, 4 feet (1219.2 mm) horizontally from or 1 foot (304.8 mm) above any door, window or gravity
+air
+inlet into the building.
+The
+vent
+terminal shall not be located closer than 3 feet (914.4 mm) to an interior corner formed by two walls perpendicular to each other.
+The
+vent
+terminal shall not be mounted directly above or within 3 feet (914.4 mm) horizontally from any gas or electric metering, regulating, venting relief
+equipment
+or other building opening.
+The bottom of the
+vent
+terminal shall be located at least 36 inches (914.4 mm) above finished grade.
+The maximum heat input of an
+appliance
+served by single horizontal
+vent
+terminal shall be 350,000 Btu/h (
+102.6
+kW), unless otherwise approved by the commissioner.
+The maximum heat input of all
+appliances
+served by horizontal
+vent
+terminals located within a 10 foot (3048 mm) radius shall be 350,000 Btu/h (
+102.6
+kW), unless otherwise approved by the commissioner.
+The
+vent
+terminal shall be located a minimum of 4 feet (1219.2 mm) from the lot line or from adjacent buildings. The termination shall be installed in accordance with the
+vent
+manufacturer's instructions.
+
+---
+
+## Section 804.2.1: Reserved
+
+804.2.1 Reserved
+
+---
+
+## Section 804.3: Mechanical Draft Systems
+
+804.3 Mechanical Draft Systems
+Mechanical draft systems
+of either forced or
+induced draft
+design
+shall be
+listed and labeled
+in accordance with UL 378 and shall comply with Sections
+804.3.1
+through
+804.3.8
+.
+
+---
+
+Mechanical draft systems
+of either forced or
+induced draft
+design
+shall be
+listed and labeled
+in accordance with UL 378 and shall comply with Sections
+804.3.1
+through
+804.3.8
+.
+
+---
+
+## Section 804.3.1: Forced Draft Systems
+
+804.3.1 Forced Draft Systems
+Forced
+draft
+systems and all portions of
+induced draft
+systems under
+positive pressure
+during
+operation
+shall be designed and installed so as to be gas tight to prevent leakage of
+combustion products
+into a building.
+
+---
+
+Forced
+draft
+systems and all portions of
+induced draft
+systems under
+positive pressure
+during
+operation
+shall be designed and installed so as to be gas tight to prevent leakage of
+combustion products
+into a building.
+
+---
+
+## Section 804.3.2: Automatic Shutoff
+
+804.3.2 Automatic Shutoff
+Power exhausters serving automatically fired
+appliances
+shall be electrically connected to each
+appliance
+to prevent
+operation
+of the
+appliance
+when the power exhauster is not in
+operation
+.
+
+---
+
+Power exhausters serving automatically fired
+appliances
+shall be electrically connected to each
+appliance
+to prevent
+operation
+of the
+appliance
+when the power exhauster is not in
+operation
+.
+
+---
+
+## Section 804.3.3: Termination
+
+804.3.3 Termination
+The termination of
+chimneys
+or
+vents
+equipped with power exhausters shall be located not less than 10 feet (3048 mm) from the lot line or from adjacent buildings, unless otherwise approved by the commissioner. The exhaust shall be directed vertically away from the building.
+
+---
+
+The termination of
+chimneys
+or
+vents
+equipped with power exhausters shall be located not less than 10 feet (3048 mm) from the lot line or from adjacent buildings, unless otherwise approved by the commissioner. The exhaust shall be directed vertically away from the building.
+
+---
+
+## Section 804.3.4: Horizontal Terminations
+
+804.3.4 Horizontal Terminations
+Horizontal terminations and discharges, including any horizontal direct
+vent
+terminations subject to
+Section 804.1
+and horizontal integral
+vent
+terminals subject to
+Section 804.2
+, shall not be permitted, unless otherwise authorized by the commissioner.
+
+---
+
+Horizontal terminations and discharges, including any horizontal direct
+vent
+terminations subject to
+Section 804.1
+and horizontal integral
+vent
+terminals subject to
+Section 804.2
+, shall not be permitted, unless otherwise authorized by the commissioner.
+
+---
+
+## Section 804.3.5: Vertical Terminations
+
+804.3.5 Vertical Terminations
+Vertical terminations and discharges shall comply with
+Section 801.21
+.
+
+---
+
+Vertical terminations and discharges shall comply with
+Section 801.21
+.
+
+---
+
+## Section 804.3.6: Exhauster Connections
+
+804.3.6 Exhauster Connections
+An
+appliance
+vented by
+natural draft
+shall not be connected into a
+vent
+,
+chimney
+or
+vent connector
+on the discharge side of a mechanical
+flue
+or power exhauster.
+
+---
+
+An
+appliance
+vented by
+natural draft
+shall not be connected into a
+vent
+,
+chimney
+or
+vent connector
+on the discharge side of a mechanical
+flue
+or power exhauster.
+
+---
+
+## Section 804.3.7: Exhauster Sizing
+
+804.3.7 Exhauster Sizing
+Mechanical
+flue
+or power exhausters and the
+chimney
+or
+vent
+system served shall be sized and installed in accordance with the manufacturer's instructions.
+
+---
+
+Mechanical
+flue
+or power exhausters and the
+chimney
+or
+vent
+system served shall be sized and installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 804.3.8: Mechanical Draft Systems for Manually Fired Appliances and Fireplaces
+
+804.3.8 Mechanical Draft Systems for Manually Fired Appliances and Fireplaces
+A
+mechanical draft system
+shall be permitted to be used with manually fired
+appliances
+and
+fireplaces
+where such system complies with all of the following requirements:
+The mechanical
+draft
+device shall be
+listed and labeled
+in accordance with UL 378, and shall be installed in accordance with the manufacturer's instructions.
+A device shall be installed in the room with the
+appliance
+or
+fireplace
+that produces visible and audible warning upon failure of the mechanical
+draft
+device or loss of
+electrical
+power, at any time that the mechanical
+draft
+device is turned on. This device shall be equipped with a battery backup if it receives power from the building wiring.
+A smoke detector or alarm, and a carbon monoxide detector or alarm, shall be installed in the room with the
+appliance
+or
+fireplace
+. This device shall be equipped with a battery backup if it receives power from the building wiring.
+
+---
+
+A
+mechanical draft system
+shall be permitted to be used with manually fired
+appliances
+and
+fireplaces
+where such system complies with all of the following requirements:
+The mechanical
+draft
+device shall be
+listed and labeled
+in accordance with UL 378, and shall be installed in accordance with the manufacturer's instructions.
+A device shall be installed in the room with the
+appliance
+or
+fireplace
+that produces visible and audible warning upon failure of the mechanical
+draft
+device or loss of
+electrical
+power, at any time that the mechanical
+draft
+device is turned on. This device shall be equipped with a battery backup if it receives power from the building wiring.
+A smoke detector or alarm, and a carbon monoxide detector or alarm, shall be installed in the room with the
+appliance
+or
+fireplace
+. This device shall be equipped with a battery backup if it receives power from the building wiring.
+
+---
+
+Section 805 Factory-Built Chimneys
+Assemblies (2)
+
+---
+
+## Section 805.1: Listing
+
+805.1 Listing
+Factory-built chimneys
+shall be
+listed and labeled
+and shall be installed and terminated in accordance with this code and the manufacturer's instructions.
+
+---
+
+Factory-built chimneys
+shall be
+listed and labeled
+and shall be installed and terminated in accordance with this code and the manufacturer's instructions.
+
+---
+
+## Section 805.2: Solid Fuel-Burning Appliances
+
+805.2 Solid Fuel-Burning Appliances
+Factory-built chimneys
+installed in
+dwelling units
+with solid
+fuel-burning appliances
+shall comply with the Type HT requirements of UL 103 and shall be marked "Type HT" and "Residential Type and Building Heating
+Appliance
+Chimney
+."
+Exceptions:
+Chimneys
+for use with open
+combustion chamber
+fireplaces
+shall comply with the requirements of UL 103 and shall be marked "Residential Type and Building Heating
+Appliance
+Chimney
+."
+Chimneys
+for use with open
+combustion chamber
+appliances
+installed in buildings other than
+dwelling units
+shall comply with the requirements of UL 103 and shall be marked "Building Heating
+Appliance
+Chimney
+" or "Residential Type and Building Heating
+Appliance
+Chimney
+."
+
+---
+
+Factory-built chimneys
+installed in
+dwelling units
+with solid
+fuel-burning appliances
+shall comply with the Type HT requirements of UL 103 and shall be marked "Type HT" and "Residential Type and Building Heating
+Appliance
+Chimney
+."
+Exceptions:
+Chimneys
+for use with open
+combustion chamber
+fireplaces
+shall comply with the requirements of UL 103 and shall be marked "Residential Type and Building Heating
+Appliance
+Chimney
+."
+Chimneys
+for use with open
+combustion chamber
+appliances
+installed in buildings other than
+dwelling units
+shall comply with the requirements of UL 103 and shall be marked "Building Heating
+Appliance
+Chimney
+" or "Residential Type and Building Heating
+Appliance
+Chimney
+."
+
+---
+
+## Section 805.3: Factory-Built Chimney Offsets
+
+805.3 Factory-Built Chimney Offsets
+Where a
+factory-built chimney
+serving a solid fuel-burning
+appliance
+or
+fireplace
+incorporates
+offsets
+, no part of the
+chimney
+shall be at an
+angle of more than 30 degrees (0.52 rad) from vertical at any point in the assembly and the
+chimney
+assembly shall not include more than four elbows.
+Exception:
+Factory-built chimneys
+listed to UL103 Type HT serving a solid fuel-burning
+appliance
+or
+fireplace
+may offset at angles greater than 30 degrees from vertical if listed for such
+angles and installed in accordance with manufacturer's instructions.
+Cleanouts
+shall be installed
+in accordance with
+Section 801.13
+.
+
+---
+
+Where a
+factory-built chimney
+serving a solid fuel-burning
+appliance
+or
+fireplace
+incorporates
+offsets
+, no part of the
+chimney
+shall be at an
+angle of more than 30 degrees (0.52 rad) from vertical at any point in the assembly and the
+chimney
+assembly shall not include more than four elbows.
+Exception:
+Factory-built chimneys
+listed to UL103 Type HT serving a solid fuel-burning
+appliance
+or
+fireplace
+may offset at angles greater than 30 degrees from vertical if listed for such
+angles and installed in accordance with manufacturer's instructions.
+Cleanouts
+shall be installed
+in accordance with
+Section 801.13
+.
+
+---
+
+## Section 805.4: Support
+
+805.4 Support
+Where
+factory-built chimneys
+are supported by structural members, such as joists and rafters, such members shall be designed to
+support
+the additional load.
+
+---
+
+Where
+factory-built chimneys
+are supported by structural members, such as joists and rafters, such members shall be designed to
+support
+the additional load.
+
+---
+
+## Section 805.5: Medium-Heat Appliances
+
+805.5 Medium-Heat Appliances
+Factory-built chimneys
+for
+medium-heat appliances
+producing
+flue gases
+having a temperature above 1,000°F (537.8°C), measured at the entrance to the
+chimney
+shall comply with UL 959.
+
+---
+
+Factory-built chimneys
+for
+medium-heat appliances
+producing
+flue gases
+having a temperature above 1,000°F (537.8°C), measured at the entrance to the
+chimney
+shall comply with UL 959.
+
+---
+
+## Section 805.6: Decorative Shrouds
+
+805.6 Decorative Shrouds
+Decorative shrouds
+shall not be installed at the termination of
+factory-built chimneys
+except where such shrouds are
+listed and labeled
+for use with the specific
+factory-built chimney
+system and are installed in accordance with
+Section 304.1
+.
+
+---
+
+Decorative shrouds
+shall not be installed at the termination of
+factory-built chimneys
+except where such shrouds are
+listed and labeled
+for use with the specific
+factory-built chimney
+system and are installed in accordance with
+Section 304.1
+.
+
+---
+
+## Section 805.7: Factory-Built Fireplaces
+
+805.7 Factory-Built Fireplaces
+Chimneys
+for use with
+factory-built fireplaces
+shall comply with the
+requirements of UL 127.
+
+---
+
+Chimneys
+for use with
+factory-built fireplaces
+shall comply with the
+requirements of UL 127.
+
+---
+
+Section 806 Metal Chimneys
+
+---
+
+## Section 806.1: General
+
+806.1 General
+Metal chimneys
+shall be constructed and installed in accordance with NFPA 211.
+
+---
+
+Metal chimneys
+shall be constructed and installed in accordance with NFPA 211.
+
+---
+
+## Section 806.2: Exterior Metal Chimneys
+
+806.2 Exterior Metal Chimneys
+Exterior
+metal chimneys
+shall be stainless steel.
+
+---
+
+Exterior
+metal chimneys
+shall be stainless steel.
+
+---
+
+Section 807 Changes in Appliance Fuels
+
+---
+
+## Section 807.1: Changes in Appliance Fuels
+
+807.1 Changes in Appliance Fuels
+Conversion of
+appliances
+from solid or liquid fuel to, or the addition of, natural gas shall be installed per the
+New York City Fuel Gas Code
+.
+Conversion from natural gas to, or the addition of, #2
+fuel oil
+for a heating
+appliance
+shall be made only if:
+The
+chimney
+design
+meets the requirements of this chapter for the conversion fuel, and the
+chimney
+is test run and smoke tested in accordance with
+Section 810
+.
+The
+chimney
+is sized to provide adequate
+draft
+and
+vent
+the
+combustion products
+for the new fuel.
+The
+chimney
+is thoroughly cleaned prior to the conversion to remove collected
+flue
+deposits.
+
+---
+
+Conversion of
+appliances
+from solid or liquid fuel to, or the addition of, natural gas shall be installed per the
+New York City Fuel Gas Code
+.
+Conversion from natural gas to, or the addition of, #2
+fuel oil
+for a heating
+appliance
+shall be made only if:
+The
+chimney
+design
+meets the requirements of this chapter for the conversion fuel, and the
+chimney
+is test run and smoke tested in accordance with
+Section 810
+.
+The
+chimney
+is sized to provide adequate
+draft
+and
+vent
+the
+combustion products
+for the new fuel.
+The
+chimney
+is thoroughly cleaned prior to the conversion to remove collected
+flue
+deposits.
+
+---
+
+Section 808 Reduction of Flue Size
+
+---
+
+## Section 808.1: Reduction of Flue Size
+
+808.1 Reduction of Flue Size
+Conversion from one fuel to another or the use of an existing
+chimney
+to service a
+fireplace
+or wood-burning
+appliance
+may require a
+flue
+size change for proper
+operation
+. This may be done if the redesigned
+flue
+meets the criteria for the fuel and
+chimney
+type to be used as set forth in this chapter.
+
+---
+
+Conversion from one fuel to another or the use of an existing
+chimney
+to service a
+fireplace
+or wood-burning
+appliance
+may require a
+flue
+size change for proper
+operation
+. This may be done if the redesigned
+flue
+meets the criteria for the fuel and
+chimney
+type to be used as set forth in this chapter.
+
+---
+
+Section 809 Chimney Supported From Equipment
+
+---
+
+## Section 809.1: Chimney Support
+
+809.1 Chimney Support
+Chimneys
+shall not be supported by the
+equipment
+they serve, unless such
+equipment
+has been specifically designed for such loads.
+
+---
+
+Chimneys
+shall not be supported by the
+equipment
+they serve, unless such
+equipment
+has been specifically designed for such loads.
+
+---
+
+Section 810 Test Run and Smoke Test
+
+---
+
+## Section 810.1: Test Run
+
+810.1 Test Run
+All new and altered
+chimneys
+, and
+chimneys
+to which a new
+appliance
+has been connected, shall be test run under operating conditions to demonstrate fire safety and the complete exhausting of smoke and the products of
+combustion
+to the outer
+air
+. The test run shall be conducted by a registered
+design
+professional or special inspector responsible for the test, and the results of such test run shall be certified as correct by such professional or special inspector and submitted in writing to the department. Refer to
+Section 1705.32
+of the
+New York City Building Code
+for additional requirements.
+Exception:
+A test run in accordance with this section may be conducted and certified to the department by the permit-holder when the work is performed as part of a limited alteration application, as defined in Section 28-101.5 of the
+Administrative Code
+. The test run shall not require a registered
+design
+professional or special inspector.
+
+---
+
+All new and altered
+chimneys
+, and
+chimneys
+to which a new
+appliance
+has been connected, shall be test run under operating conditions to demonstrate fire safety and the complete exhausting of smoke and the products of
+combustion
+to the outer
+air
+. The test run shall be conducted by a registered
+design
+professional or special inspector responsible for the test, and the results of such test run shall be certified as correct by such professional or special inspector and submitted in writing to the department. Refer to
+Section 1705.32
+of the
+New York City Building Code
+for additional requirements.
+Exception:
+A test run in accordance with this section may be conducted and certified to the department by the permit-holder when the work is performed as part of a limited alteration application, as defined in Section 28-101.5 of the
+Administrative Code
+. The test run shall not require a registered
+design
+professional or special inspector.
+
+---
+
+## Section 810.2: Requirement of a Smoke Test
+
+810.2 Requirement of a Smoke Test
+A smoke test shall be made as outlined in
+Section 810.3
+. Any faults or leaks found shall be corrected. Such smoke test shall be witnessed by a representative of the commissioner. In lieu thereof, the commissioner may accept the test report of a registered
+design
+professional or special inspector responsible for the test that shall be submitted in writing to the department.
+Exception:
+A smoke test may be performed by or under the supervision of a permit-holder when the work is performed as part of a limited alteration application, as defined in Section 28-101.5 of the
+Administrative Code
+. Such test shall not be required to be witnessed by the department, registered
+design
+professional or special inspector.
+
+---
+
+A smoke test shall be made as outlined in
+Section 810.3
+. Any faults or leaks found shall be corrected. Such smoke test shall be witnessed by a representative of the commissioner. In lieu thereof, the commissioner may accept the test report of a registered
+design
+professional or special inspector responsible for the test that shall be submitted in writing to the department.
+Exception:
+A smoke test may be performed by or under the supervision of a permit-holder when the work is performed as part of a limited alteration application, as defined in Section 28-101.5 of the
+Administrative Code
+. Such test shall not be required to be witnessed by the department, registered
+design
+professional or special inspector.
+
+---
+
+## Section 810.3: Smoke Test
+
+810.3 Smoke Test
+To determine the tightness of
+chimney
+construction, a smoke test shall be made in accordance with the following conditions and requirements:
+The
+equipment
+, materials, power and labor necessary for such test shall be furnished by, and at the expense of, the owner or holder of the work permit.
+If the test shows any evidence of leakage or other defects, such defects shall be corrected in accordance with the requirements of this chapter, and the test shall be repeated until the results are satisfactory.
+The
+chimney
+shall be filled with a thick penetrating smoke produced by one or more smoke machines, or smoke bombs, or other equivalent method. As the smoke appears at the stack opening on the roof, such opening shall be tightly closed and a pressure equivalent to
+1
+/
+2
+-inch (13 mm) column of water measured at the base of the stack, shall be applied. The test shall be applied for a length of time sufficient to permit the inspection of the
+chimney
+.
+Refer to Section 1704.32 of the
+New York City Building Code
+for requirements for existing and new negative pressure
+chimneys
+and
+vents
+.
+
+---
+
+To determine the tightness of
+chimney
+construction, a smoke test shall be made in accordance with the following conditions and requirements:
+The
+equipment
+, materials, power and labor necessary for such test shall be furnished by, and at the expense of, the owner or holder of the work permit.
+If the test shows any evidence of leakage or other defects, such defects shall be corrected in accordance with the requirements of this chapter, and the test shall be repeated until the results are satisfactory.
+The
+chimney
+shall be filled with a thick penetrating smoke produced by one or more smoke machines, or smoke bombs, or other equivalent method. As the smoke appears at the stack opening on the roof, such opening shall be tightly closed and a pressure equivalent to
+1
+/
+2
+-inch (13 mm) column of water measured at the base of the stack, shall be applied. The test shall be applied for a length of time sufficient to permit the inspection of the
+chimney
+.
+Refer to Section 1704.32 of the
+New York City Building Code
+for requirements for existing and new negative pressure
+chimneys
+and
+vents
+.
+
+---
+
+Section 811 Exhaust Gases From Internal Combustion Engines and Turbines
+
+---
+
+## Section 811.1: Exhaust System Construction
+
+811.1 Exhaust System Construction
+The
+exhaust system
+from internal
+combustion
+engines shall be constructed in accordance with NFPA 211,
+NFPA 37
+, and based on the temperature of the
+flue
+gas entering the
+exhaust system
+, and in accordance with the following:
+The
+exhaust system
+, if factory built, shall be installed in accordance with its listing and manufacturer's instructions.
+Exhaust systems
+with
+flue
+gas temperatures greater than 300°F (148.9°C) shall be listed to UL 103 or UL 2561 and be rated for a minimum of 60 inch w.c. (14 934.3 Pa).
+Exhaust systems
+with
+flue
+gas temperatures not more than 300°F (148.9°C) and that are capable of causing excessive
+condensate
+production in the
+exhaust system
+shall be listed to UL 103 or UL 2561 and UL 1738 and be rated for a pressure suitable for the operating conditions.
+The
+exhaust system
+, if field fabricated, shall be constructed of at least
+3
+/
+16
+-inch (4.8 mm) steel, or of other equivalent metal of similar strength and resistance to the temperature and corrosive action of the exhaust gases. No lining shall be required.
+Where the
+exhaust system
+runs inside a building, it shall be insulated adequately for the
+equipment
+operating temperature, so that the surface temperature shall be not more than 200°F (93.3°C).
+Where the
+exhaust system
+runs inside a building outside of the room containing the
+equipment
+, it shall be enclosed in fire-rated construction with a fire rating equal to the fire rating of the construction of the room.
+All joints shall be constructed so as to be gas tight under all operating conditions and tested in accordance with
+Section 810
+.
+
+---
+
+The
+exhaust system
+from internal
+combustion
+engines shall be constructed in accordance with NFPA 211,
+NFPA 37
+, and based on the temperature of the
+flue
+gas entering the
+exhaust system
+, and in accordance with the following:
+The
+exhaust system
+, if factory built, shall be installed in accordance with its listing and manufacturer's instructions.
+Exhaust systems
+with
+flue
+gas temperatures greater than 300°F (148.9°C) shall be listed to UL 103 or UL 2561 and be rated for a minimum of 60 inch w.c. (14 934.3 Pa).
+Exhaust systems
+with
+flue
+gas temperatures not more than 300°F (148.9°C) and that are capable of causing excessive
+condensate
+production in the
+exhaust system
+shall be listed to UL 103 or UL 2561 and UL 1738 and be rated for a pressure suitable for the operating conditions.
+The
+exhaust system
+, if field fabricated, shall be constructed of at least
+3
+/
+16
+-inch (4.8 mm) steel, or of other equivalent metal of similar strength and resistance to the temperature and corrosive action of the exhaust gases. No lining shall be required.
+Where the
+exhaust system
+runs inside a building, it shall be insulated adequately for the
+equipment
+operating temperature, so that the surface temperature shall be not more than 200°F (93.3°C).
+Where the
+exhaust system
+runs inside a building outside of the room containing the
+equipment
+, it shall be enclosed in fire-rated construction with a fire rating equal to the fire rating of the construction of the room.
+All joints shall be constructed so as to be gas tight under all operating conditions and tested in accordance with
+Section 810
+.
+
+---
+
+## Section 811.2: Emergency and Standby Generator Discharge Opening Termination Requirements
+
+811.2 Emergency and Standby Generator Discharge Opening Termination Requirements
+The location of discharge
+outlets
+for emergency and standby internal
+combustion
+engines shall comply with the requirements of
+NFPA 37
+so that the
+flue gases
+are not directed to jeopardize the health or safety of people, overheat combustible structures, nor enter building openings in the vicinity of the
+outlet
+, nor shall the location of such openings cause the
+condensate
+leaving the
+outlet
+to come into contact with people.
+
+---
+
+The location of discharge
+outlets
+for emergency and standby internal
+combustion
+engines shall comply with the requirements of
+NFPA 37
+so that the
+flue gases
+are not directed to jeopardize the health or safety of people, overheat combustible structures, nor enter building openings in the vicinity of the
+outlet
+, nor shall the location of such openings cause the
+condensate
+leaving the
+outlet
+to come into contact with people.
+
+---
+
+## Section 811.2.1: Interference
+
+811.2.1 Interference
+No discharge opening shall be located and constructed so as to interfere with the proper functioning of other openings in the same building or adjoining buildings, to interfere unreasonably with the occupants of the same building or adjoining buildings, or with the
+general
+public, or to create a fire or health hazard.
+
+---
+
+No discharge opening shall be located and constructed so as to interfere with the proper functioning of other openings in the same building or adjoining buildings, to interfere unreasonably with the occupants of the same building or adjoining buildings, or with the
+general
+public, or to create a fire or health hazard.
+
+---
+
+## Section 811.2.2: Chimneys
+
+811.2.2 Chimneys
+The exhaust
+pipe
+may be connected to a
+chimney
+used for other
+equipment
+, provided that the
+operation
+of the engine does not adversely affect the
+operation
+of the other
+equipment
+so that it is in violation of the
+New York City Air Pollution
+Control
+Code.
+
+---
+
+The exhaust
+pipe
+may be connected to a
+chimney
+used for other
+equipment
+, provided that the
+operation
+of the engine does not adversely affect the
+operation
+of the other
+equipment
+so that it is in violation of the
+New York City Air Pollution
+Control
+Code.
+
+---
+
+## Section 811.3: All Other Engine and Turbine Discharge Opening Termination Requirements
+
+811.3 All Other Engine and Turbine Discharge Opening Termination Requirements
+The location of the discharge
+outlet
+from all other engines and turbines shall comply with the
+termination requirements
+of
+Section 801.21
+, Item
+2
+or
+Section 801.21
+, Item
+3
+based on the temperature of the
+flue
+gas entering the
+exhaust system
+.
+
+---
+
+The location of the discharge
+outlet
+from all other engines and turbines shall comply with the
+termination requirements
+of
+Section 801.21
+, Item
+2
+or
+Section 801.21
+, Item
+3
+based on the temperature of the
+flue
+gas entering the
+exhaust system
+.
+
+---
+
+## Section 811.4: Chimneys
+
+811.4 Chimneys
+The
+exhaust system
+may be connected to a
+chimney
+used for other
+appliances
+,
+provided that the
+chimney
+complies with
+Section 811.1
+, Item
+1
+or
+Section 811.1
+, Item
+2
+and the
+operation
+of the engine does not adversely affect the
+operation
+of the other
+appliances
+and is in
+accordance with the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+The
+exhaust system
+may be connected to a
+chimney
+used for other
+appliances
+,
+provided that the
+chimney
+complies with
+Section 811.1
+, Item
+1
+or
+Section 811.1
+, Item
+2
+and the
+operation
+of the engine does not adversely affect the
+operation
+of the other
+appliances
+and is in
+accordance with the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+

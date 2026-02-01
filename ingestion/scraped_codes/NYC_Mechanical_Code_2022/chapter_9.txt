@@ -1,0 +1,3178 @@
+# NYC Mechanical Code 2022 - Chapter 9
+
+New York City Mechanical Code 2022
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Chapter 4 Ventilation
+
+---
+
+Chapter 5 Exhaust Systems
+
+---
+
+Chapter 6 Duct Systems
+
+---
+
+Chapter 7 Combustion, Ventilation, and Dilution Air
+
+---
+
+Chapter 8 Chimneys and Vents
+
+---
+
+Chapter 9 Specific Appliances and Equipment
+
+---
+
+901 General
+
+---
+
+902 Masonry Fireplaces
+
+---
+
+903 Factory-Built Fireplaces
+
+---
+
+904 Pellet Fuel-Burning Appliances
+
+---
+
+905 Fireplace Stoves and Room Heaters
+
+---
+
+906 Factory-Built Barbecue Appliances
+
+---
+
+907 Incinerators and Crematories
+
+---
+
+908 Cooling Towers, Evaporative Condensers and Fluid Coolers
+
+---
+
+909 Vented Wall Furnaces
+
+---
+
+910 Floor Furnaces
+
+---
+
+911 Duct Furnaces and Heaters
+
+---
+
+912 Infrared Radiant Heaters
+
+---
+
+913 Clothes Dryers
+
+---
+
+914 Sauna Heaters
+
+---
+
+915 Engine and Gas Turbine-Powered Equipment and Appliances
+
+---
+
+916 Pool and Spa Heaters
+
+---
+
+917 Cooking Appliances
+
+---
+
+918 Forced-Air Warm-Air Furnaces
+
+---
+
+919 Conversion Burners
+
+---
+
+920 Unit Heaters
+
+---
+
+921 Vented Room Heaters
+
+---
+
+922 Kerosene and Oil-Fired Stoves
+
+---
+
+923 Ceramic Kilns
+
+---
+
+924 Stationary Fuel Cell Power Plants
+
+---
+
+925 Masonry Heaters
+
+---
+
+926 Gaseous Hydrogen Systems
+
+---
+
+927 Electric Radiant Heating Systems
+
+---
+
+928 Evaporative Coolers
+
+---
+
+Chapter 10 Boilers, Water Heaters and Pressure Vessels
+
+---
+
+Chapter 11 Refrigeration
+
+---
+
+Chapter 12 Hydronic Piping
+
+---
+
+Chapter 13 Fuel-Oil Piping and Storage
+
+---
+
+Chapter 14 Solar Systems
+
+---
+
+Chapter 15 Referenced Standards
+
+---
+
+Appendix A Chimney Connector Pass-Throughs
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Fuel Oil Storage Tank Venting Options
+
+---
+
+Chapter 9 Specific Appliances and Equipment
+
+---
+
+Section 901 General
+
+---
+
+## Section 901.1: Scope
+
+901.1 Scope
+This chapter shall govern the approval,
+design
+,
+installation
+, construction,
+maintenance
+, alteration and
+repair
+of the
+appliances
+and
+equipment
+specifically identified herein and
+factory-built fireplaces
+. The approval,
+design
+,
+installation
+, construction,
+maintenance
+, alteration and
+repair
+of
+gas-fired appliances
+shall be regulated by the
+New York City Fuel Gas Code
+.
+
+---
+
+This chapter shall govern the approval,
+design
+,
+installation
+, construction,
+maintenance
+, alteration and
+repair
+of the
+appliances
+and
+equipment
+specifically identified herein and
+factory-built fireplaces
+. The approval,
+design
+,
+installation
+, construction,
+maintenance
+, alteration and
+repair
+of
+gas-fired appliances
+shall be regulated by the
+New York City Fuel Gas Code
+.
+
+---
+
+## Section 901.2: General
+
+901.2 General
+The requirements of this chapter shall apply to the mechanical
+equipment
+and
+appliances
+regulated by this chapter, in addition to the other requirements of this code, and installed in accordance with the requirements of NFPA 31, NFPA 54 and NFPA 211.
+
+---
+
+The requirements of this chapter shall apply to the mechanical
+equipment
+and
+appliances
+regulated by this chapter, in addition to the other requirements of this code, and installed in accordance with the requirements of NFPA 31, NFPA 54 and NFPA 211.
+
+---
+
+*901.3 Solid Fuel-Burning Fireplaces and Appliances
+All solid fuel-burning
+fireplaces
+and
+appliances
+shall be installed, altered and maintained in buildings in conformity with the applicable provisions of the New York City Air Pollution
+Control
+Code and no new solid fuel-burning
+fireplaces
+or
+appliances
+shall be permitted except those that burn the types of fuel allowed by such code.
+*Section 901.3 was added by
+Local Law 38 of 2015
+. This law has an effective date of May 6, 2016.
+
+---
+
+All solid fuel-burning
+fireplaces
+and
+appliances
+shall be installed, altered and maintained in buildings in conformity with the applicable provisions of the New York City Air Pollution
+Control
+Code and no new solid fuel-burning
+fireplaces
+or
+appliances
+shall be permitted except those that burn the types of fuel allowed by such code.
+*Section 901.3 was added by
+Local Law 38 of 2015
+. This law has an effective date of May 6, 2016.
+
+---
+
+*901.4 Hazardous Locations
+Fireplaces
+and solid
+fuel-burning appliances
+shall not be installed in
+hazardous locations
+.
+*Section 901.4 was amended by
+Local Law 38 of 2015
+. This law has an effective date of May 6, 2016.
+
+---
+
+Fireplaces
+and solid
+fuel-burning appliances
+shall not be installed in
+hazardous locations
+.
+*Section 901.4 was amended by
+Local Law 38 of 2015
+. This law has an effective date of May 6, 2016.
+
+---
+
+*901.5 Inspection of Solid Fuel-Burning Heating Appliances, Chimneys and Flues
+Inspections of solid fuel-burning heating
+appliances
+,
+chimneys
+and
+flues
+shall be in accordance with the
+New York City Building Code
+.
+*
+Section 901.6
+was amended by
+Local Law 38 of 2015
+. This law has an effective date of May 6, 2016.
+
+---
+
+Inspections of solid fuel-burning heating
+appliances
+,
+chimneys
+and
+flues
+shall be in accordance with the
+New York City Building Code
+.
+*
+Section 901.6
+was amended by
+Local Law 38 of 2015
+. This law has an effective date of May 6, 2016.
+
+---
+
+*901.6 Fireplaces
+Fireplaces
+(solid-
+fuel-type
+or ANSI Z21.50) shall be installed with tight-fitting noncombustible
+fireplace
+doors to
+control
+infiltration
+losses in construction types listed here:
+Masonry or
+factory-built fireplaces
+designed to allow an open burn.
+Decorative
+appliances
+(ANSI Z21.60 gas-log style unit) installed in a vented solid fuel
+fireplace
+.
+Vented decorative gas
+fireplace
+appliances
+(ANSI Z21.50 unit).
+Fireplaces
+shall be provided with a source of
+combustion air
+as required by the
+fireplace
+construction provisions of the
+New York City Building Code
+and
+Chapter 7
+of this code.
+*Section 901.7 was amended by
+Local Law 38 of 2015
+. This law has an effective date of May 6, 2016.
+
+---
+
+Fireplaces
+(solid-
+fuel-type
+or ANSI Z21.50) shall be installed with tight-fitting noncombustible
+fireplace
+doors to
+control
+infiltration
+losses in construction types listed here:
+Masonry or
+factory-built fireplaces
+designed to allow an open burn.
+Decorative
+appliances
+(ANSI Z21.60 gas-log style unit) installed in a vented solid fuel
+fireplace
+.
+Vented decorative gas
+fireplace
+appliances
+(ANSI Z21.50 unit).
+Fireplaces
+shall be provided with a source of
+combustion air
+as required by the
+fireplace
+construction provisions of the
+New York City Building Code
+and
+Chapter 7
+of this code.
+*Section 901.7 was amended by
+Local Law 38 of 2015
+. This law has an effective date of May 6, 2016.
+
+---
+
+Section 902 Masonry Fireplaces
+
+---
+
+## Section 902.1: General
+
+902.1 General
+Masonry fireplaces
+shall be constructed in accordance with the
+New York City Building Code
+.
+
+---
+
+Masonry fireplaces
+shall be constructed in accordance with the
+New York City Building Code
+.
+
+---
+
+## Section 902.2: Fireplace Accessories
+
+902.2 Fireplace Accessories
+Listed and labeled
+fireplace
+accessories shall be installed in accordance
+with the conditions of the listing and the manufacturer's instructions.
+Fireplace
+accessories shall
+comply with UL 907.
+
+---
+
+Listed and labeled
+fireplace
+accessories shall be installed in accordance
+with the conditions of the listing and the manufacturer's instructions.
+Fireplace
+accessories shall
+comply with UL 907.
+
+---
+
+Section 903 Factory-Built Fireplaces
+
+---
+
+## Section 903.1: General
+
+903.1 General
+Factory-built fireplaces
+shall be
+listed and labeled
+and shall be installed in accordance with the conditions of the listing.
+Factory-built fireplaces
+shall be tested in accordance with UL 127.
+
+---
+
+Factory-built fireplaces
+shall be
+listed and labeled
+and shall be installed in accordance with the conditions of the listing.
+Factory-built fireplaces
+shall be tested in accordance with UL 127.
+
+---
+
+## Section 903.2: Hearth Extensions
+
+903.2 Hearth Extensions
+Hearth extensions of approved
+factory-built fireplaces
+shall be installed in accordance with the listing of the
+fireplace
+. The hearth extension shall be readily distinguishable from the surrounding floor area.
+Listed and labeled
+hearth extensions shall comply with UL 1618.
+
+---
+
+Hearth extensions of approved
+factory-built fireplaces
+shall be installed in accordance with the listing of the
+fireplace
+. The hearth extension shall be readily distinguishable from the surrounding floor area.
+Listed and labeled
+hearth extensions shall comply with UL 1618.
+
+---
+
+## Section 903.3: Unvented Gas Log Heaters
+
+903.3 Unvented Gas Log Heaters
+The
+installation
+of unvented gas-fired space heaters, gas stoves, gas logs, gas
+fireplaces
+and gas
+fireplace
+inserts is prohibited.
+
+---
+
+The
+installation
+of unvented gas-fired space heaters, gas stoves, gas logs, gas
+fireplaces
+and gas
+fireplace
+inserts is prohibited.
+
+---
+
+## Section 903.4: Gasketed Fireplace Doors
+
+903.4 Gasketed Fireplace Doors
+A gasketed
+fireplace
+door shall not be installed on a factory-built
+fireplace
+except where the
+fireplace
+system has been specifically tested,
+listed and labeled
+for such
+use in accordance with UL 127.
+
+---
+
+A gasketed
+fireplace
+door shall not be installed on a factory-built
+fireplace
+except where the
+fireplace
+system has been specifically tested,
+listed and labeled
+for such
+use in accordance with UL 127.
+
+---
+
+## Section 903.5: Flues
+
+903.5 Flues
+Separate
+flues
+shall be provided for every
+fireplace
+and
+fireplace stove
+.
+
+---
+
+Separate
+flues
+shall be provided for every
+fireplace
+and
+fireplace stove
+.
+
+---
+
+## Section 903.6: Combustion Air Supply
+
+903.6 Combustion Air Supply
+All
+installations
+of
+factory-built fireplaces
+shall comply with the requirements of the
+New York City Energy Conservation Code
+concerning
+combustion air
+supply.
+
+---
+
+All
+installations
+of
+factory-built fireplaces
+shall comply with the requirements of the
+New York City Energy Conservation Code
+concerning
+combustion air
+supply.
+
+---
+
+Section 904 Pellet Fuel-Burning Appliances
+
+---
+
+## Section 904.1: General
+
+904.1 General
+Pellet fuel-burning appliances
+shall be
+listed and labeled
+in accordance with ASTM E 1509 and shall be installed in accordance with the terms of the listing. If permitted, such
+appliances
+shall be operated in accordance with the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+Pellet fuel-burning appliances
+shall be
+listed and labeled
+in accordance with ASTM E 1509 and shall be installed in accordance with the terms of the listing. If permitted, such
+appliances
+shall be operated in accordance with the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+Section 905 Fireplace Stoves and Room Heaters
+
+---
+
+## Section 905.1: General
+
+905.1 General
+Fireplace stoves
+and solid-
+fuel-type
+room heaters shall be
+listed and labeled
+and shall be installed in accordance with the conditions of the listing.
+Fireplace stoves
+shall be tested in accordance with UL 737. Solid-
+fuel-type
+room heaters shall be tested in accordance with UL 1482.
+Fireplace
+inserts intended for
+installation
+in
+fireplaces
+shall be
+listed and labeled
+in accordance with the requirements of UL 1482 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Fireplace stoves
+and solid-
+fuel-type
+room heaters shall be
+listed and labeled
+and shall be installed in accordance with the conditions of the listing.
+Fireplace stoves
+shall be tested in accordance with UL 737. Solid-
+fuel-type
+room heaters shall be tested in accordance with UL 1482.
+Fireplace
+inserts intended for
+installation
+in
+fireplaces
+shall be
+listed and labeled
+in accordance with the requirements of UL 1482 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 905.2: Connection to Fireplace
+
+905.2 Connection to Fireplace
+The connection of solid fuel
+appliances
+to
+chimney
+flues
+serving
+fireplaces
+shall comply with Sections
+801.7
+and
+801.10
+.
+
+---
+
+The connection of solid fuel
+appliances
+to
+chimney
+flues
+serving
+fireplaces
+shall comply with Sections
+801.7
+and
+801.10
+.
+
+---
+
+## Section 905.3: Hearth Extensions
+
+905.3 Hearth Extensions
+Hearth extensions for
+fireplace stoves
+shall be installed in accordance with
+the listing of the
+fireplace stove
+. The hearth extension shall be readily distinguishable from the
+surrounding floor area.
+Listed and labeled
+hearth extensions shall comply with UL 1618.
+
+---
+
+Hearth extensions for
+fireplace stoves
+shall be installed in accordance with
+the listing of the
+fireplace stove
+. The hearth extension shall be readily distinguishable from the
+surrounding floor area.
+Listed and labeled
+hearth extensions shall comply with UL 1618.
+
+---
+
+## Section 905.4: Air Pollution
+
+905.4 Air Pollution
+All
+fireplace stoves
+and room heaters shall comply with the requirements of the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+All
+fireplace stoves
+and room heaters shall comply with the requirements of the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+## Section 905.5: Combustion Air Supply
+
+905.5 Combustion Air Supply
+All
+fireplace stoves
+and room heaters shall comply with the requirements of the
+New York City Energy Conservation Code
+concerning
+combustion air
+supply.
+
+---
+
+All
+fireplace stoves
+and room heaters shall comply with the requirements of the
+New York City Energy Conservation Code
+concerning
+combustion air
+supply.
+
+---
+
+## Section 905.6: Flues
+
+905.6 Flues
+Separate
+flues
+and independent
+combustion air
+source shall be provided for every
+fireplace stove
+and
+room heater
+.
+Combustion air
+shall be provided in accordance with the manufacturer's recommendations and
+Chapter 7
+.
+
+---
+
+Separate
+flues
+and independent
+combustion air
+source shall be provided for every
+fireplace stove
+and
+room heater
+.
+Combustion air
+shall be provided in accordance with the manufacturer's recommendations and
+Chapter 7
+.
+
+---
+
+Section 906 Factory-Built Barbecue Appliances
+
+---
+
+## Section 906.1: General
+
+906.1 General
+Factory-built barbecue
+appliances
+shall be
+listed and labeled
+for the use intended and shall be installed in accordance with the manufacturer's instructions, this chapter, the
+New York City Fuel Gas Code
+, and Chapters
+3
+,
+5
+,
+7
+,
+8
+of this code. The construction and
+installation
+of
+chimneys
+serving barbeque
+appliances
+shall comply with all construction and
+installation
+requirements of
+fireplaces
+.
+
+---
+
+Factory-built barbecue
+appliances
+shall be
+listed and labeled
+for the use intended and shall be installed in accordance with the manufacturer's instructions, this chapter, the
+New York City Fuel Gas Code
+, and Chapters
+3
+,
+5
+,
+7
+,
+8
+of this code. The construction and
+installation
+of
+chimneys
+serving barbeque
+appliances
+shall comply with all construction and
+installation
+requirements of
+fireplaces
+.
+
+---
+
+Section 907 Incinerators and Crematories
+
+---
+
+## Section 907.1: General
+
+907.1 General
+Incinerators and crematories shall be
+listed and labeled
+in accordance with UL 791 and NFPA 82 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+Incinerators and crematories shall be
+listed and labeled
+in accordance with UL 791 and NFPA 82 and shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 907.2: Compliance
+
+907.2 Compliance
+All incinerators and crematories shall be installed, altered and maintained in buildings in conformity with the applicable provisions of the
+Administrative Code
+and the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+All incinerators and crematories shall be installed, altered and maintained in buildings in conformity with the applicable provisions of the
+Administrative Code
+and the
+New York City Air Pollution
+Control
+Code
+.
+
+---
+
+Section 908 Cooling Towers, Evaporative Condensers and Fluid Coolers
+
+---
+
+## Section 908.1: General
+
+908.1 General
+A cooling tower used in conjunction with an
+air-conditioning
+appliance
+shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+A cooling tower used in conjunction with an
+air-conditioning
+appliance
+shall be installed in accordance with the manufacturer's instructions.
+
+---
+
+## Section 908.2: Access
+
+908.2 Access
+Cooling towers, evaporative
+condensers
+and fluid coolers shall be provided with
+ready access
+.
+
+---
+
+Cooling towers, evaporative
+condensers
+and fluid coolers shall be provided with
+ready access
+.
+
+---
+
+## Section 908.3: Location
+
+908.3 Location
+Cooling towers, evaporative
+condensers
+and fluid coolers shall be located to prevent the discharge vapor plumes from entering occupied spaces. Plume discharges shall be not less than 5 feet (1524 mm) above or 20 feet (6096 mm) away from any
+ventilation
+inlet to a building. Location on the property shall be as required for buildings in accordance with the
+New York City Building Code
+.
+
+---
+
+Cooling towers, evaporative
+condensers
+and fluid coolers shall be located to prevent the discharge vapor plumes from entering occupied spaces. Plume discharges shall be not less than 5 feet (1524 mm) above or 20 feet (6096 mm) away from any
+ventilation
+inlet to a building. Location on the property shall be as required for buildings in accordance with the
+New York City Building Code
+.
+
+---
+
+## Section 908.3.1: Indoor
+
+908.3.1 Indoor
+Cooling towers, evaporative
+condensers
+and fluid coolers located inside of buildings shall be constructed of
+noncombustible materials
+including fill and drift eliminators.
+
+---
+
+Cooling towers, evaporative
+condensers
+and fluid coolers located inside of buildings shall be constructed of
+noncombustible materials
+including fill and drift eliminators.
+
+---
+
+## Section 908.3.2: Outside
+
+908.3.2 Outside
+Cooling towers shall be constructed of
+noncombustible materials
+.
+Exceptions:
+Fill and drift eliminators of
+limited combustible materials
+may be considered noncombustible if the cooling towers are provided with automatic sprinkler
+protection
+in compliance with
+Chapter 9
+of the
+New York City Building Code
+.
+Fill and drift eliminators for any individual cooling tower cell may be made of
+limited combustible materials
+provided all the following conditions are met:
+The cooling tower is located on a building of construction Types IA or IB of the
+New York City Building Code
+.
+The cooling tower cell is located at least 30 feet (9144 mm) away from windows or fresh air intakes which are at an elevation above the roof on which the cooling tower is located, whether in the same building or in an adjoining building.
+The cooling tower cell is located not less than 15 feet (4572 mm) from the lot line.
+The cooling tower cell is located not less than 10 feet (3048 mm) from any
+chimney
+, except that the distance shall not be less than 20 feet (6096 mm) from a
+chimney
+venting products of
+combustion
+other than from gas- or
+oil-fired appliances
+, whether on the same or an adjoining building.
+
+---
+
+Cooling towers shall be constructed of
+noncombustible materials
+.
+Exceptions:
+Fill and drift eliminators of
+limited combustible materials
+may be considered noncombustible if the cooling towers are provided with automatic sprinkler
+protection
+in compliance with
+Chapter 9
+of the
+New York City Building Code
+.
+Fill and drift eliminators for any individual cooling tower cell may be made of
+limited combustible materials
+provided all the following conditions are met:
+The cooling tower is located on a building of construction Types IA or IB of the
+New York City Building Code
+.
+The cooling tower cell is located at least 30 feet (9144 mm) away from windows or fresh air intakes which are at an elevation above the roof on which the cooling tower is located, whether in the same building or in an adjoining building.
+The cooling tower cell is located not less than 15 feet (4572 mm) from the lot line.
+The cooling tower cell is located not less than 10 feet (3048 mm) from any
+chimney
+, except that the distance shall not be less than 20 feet (6096 mm) from a
+chimney
+venting products of
+combustion
+other than from gas- or
+oil-fired appliances
+, whether on the same or an adjoining building.
+
+---
+
+## Section 908.4: Support and Anchorage
+
+908.4 Support and Anchorage
+Supports
+for cooling towers, evaporative
+condensers
+and fluid coolers shall be designed in accordance with the
+New York City Building Code
+. Seismic restraints shall be as required by the
+New York City Building Code
+. Adequate vibration isolation shall be provided in accordance with the manufacturer's guidelines and as required for the supporting structure, and in accordance with Sections
+313.3.7
+and
+313.3.8
+.
+
+---
+
+Supports
+for cooling towers, evaporative
+condensers
+and fluid coolers shall be designed in accordance with the
+New York City Building Code
+. Seismic restraints shall be as required by the
+New York City Building Code
+. Adequate vibration isolation shall be provided in accordance with the manufacturer's guidelines and as required for the supporting structure, and in accordance with Sections
+313.3.7
+and
+313.3.8
+.
+
+---
+
+## Section 908.5: Water Supply
+
+908.5 Water Supply
+Cooling towers, evaporative
+condensers
+and fluid coolers shall be provided with an approved water supply, sized for peak demand. The quality of water shall be provided in accordance with the
+equipment
+manufacturer's recommendations. The
+piping
+system and
+protection
+of the
+potable water supply
+system shall be installed as required by the
+New York City Plumbing Code
+.
+
+---
+
+Cooling towers, evaporative
+condensers
+and fluid coolers shall be provided with an approved water supply, sized for peak demand. The quality of water shall be provided in accordance with the
+equipment
+manufacturer's recommendations. The
+piping
+system and
+protection
+of the
+potable water supply
+system shall be installed as required by the
+New York City Plumbing Code
+.
+
+---
+
+## Section 908.6: Drainage
+
+908.6 Drainage
+Drains
+, overflows and blowdown provisions shall be indirectly connected to an approved disposal location. Discharge of chemical waste shall be approved by the appropriate regulatory authority.
+
+---
+
+Drains
+, overflows and blowdown provisions shall be indirectly connected to an approved disposal location. Discharge of chemical waste shall be approved by the appropriate regulatory authority.
+
+---
+
+## Section 908.7: Refrigerants and Hazardous Fluids
+
+908.7 Refrigerants and Hazardous Fluids
+Heat exchange
+equipment
+that contains a
+refrigerant
+and that is part of a closed
+refrigeration system
+shall comply with
+Chapter 11
+. Heat exchange
+equipment
+containing heat transfer fluids which are combustible or hazardous shall comply with the
+New York City Fire Code
+. Flammable heat transfer fluids are prohibited.
+
+---
+
+Heat exchange
+equipment
+that contains a
+refrigerant
+and that is part of a closed
+refrigeration system
+shall comply with
+Chapter 11
+. Heat exchange
+equipment
+containing heat transfer fluids which are combustible or hazardous shall comply with the
+New York City Fire Code
+. Flammable heat transfer fluids are prohibited.
+
+---
+
+## Section 908.8: Cooling Towers
+
+908.8 Cooling Towers
+Cooling towers, both open circuit and closed circuit type, and evaporative
+condensers
+shall comply with Sections
+908.8.1
+and
+908.8.2
+.
+
+---
+
+Cooling towers, both open circuit and closed circuit type, and evaporative
+condensers
+shall comply with Sections
+908.8.1
+and
+908.8.2
+.
+
+---
+
+## Section 908.8.1: Conductivity or Flow-Based Control of Cycles of Concentration
+
+908.8.1 Conductivity or Flow-Based Control of Cycles of Concentration
+Cooling towers and
+evaporative
+condensers
+shall include
+controls
+that automate system bleed based on conductivity,
+fraction of metered makeup volume, metered bleed volume, recirculating pump run time or bleed
+time.
+
+---
+
+Cooling towers and
+evaporative
+condensers
+shall include
+controls
+that automate system bleed based on conductivity,
+fraction of metered makeup volume, metered bleed volume, recirculating pump run time or bleed
+time.
+
+---
+
+## Section 908.8.2: Drift Eliminators
+
+908.8.2 Drift Eliminators
+Cooling towers and evaporative
+condensers
+shall be equipped with
+drift eliminators that have a maximum drift rate of 0.005 percent of the circulated water flow rate
+as established in the
+equipment
+'s
+design
+specifications.
+
+---
+
+Cooling towers and evaporative
+condensers
+shall be equipped with
+drift eliminators that have a maximum drift rate of 0.005 percent of the circulated water flow rate
+as established in the
+equipment
+'s
+design
+specifications.
+
+---
+
+## Section 908.9: Additional Requirements
+
+908.9 Additional Requirements
+The
+installation
+and
+maintenance
+of all cooling towers, evaporative
+condensers
+, and fluid coolers shall comply with the requirements of
+Article 317
+of
+Chapter 3
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+The
+installation
+and
+maintenance
+of all cooling towers, evaporative
+condensers
+, and fluid coolers shall comply with the requirements of
+Article 317
+of
+Chapter 3
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+Section 909 Vented Wall Furnaces
+
+---
+
+## Section 909.1: General
+
+909.1 General
+Vented wall
+furnaces
+shall be installed in accordance with their listing and the manufacturer's instructions. Oil-fired
+furnaces
+shall be tested in accordance with UL 730.
+
+---
+
+Vented wall
+furnaces
+shall be installed in accordance with their listing and the manufacturer's instructions. Oil-fired
+furnaces
+shall be tested in accordance with UL 730.
+
+---
+
+## Section 909.2: Location
+
+909.2 Location
+Vented wall
+furnaces
+shall be located so as not to cause a fire hazard to walls, floors, combustible furnishings or doors. Vented wall
+furnaces
+installed between
+bathrooms
+and adjoining rooms shall not circulate
+air
+from
+bathrooms
+to other parts of the building.
+
+---
+
+Vented wall
+furnaces
+shall be located so as not to cause a fire hazard to walls, floors, combustible furnishings or doors. Vented wall
+furnaces
+installed between
+bathrooms
+and adjoining rooms shall not circulate
+air
+from
+bathrooms
+to other parts of the building.
+
+---
+
+## Section 909.3: Door Swing
+
+909.3 Door Swing
+Vented wall
+furnaces
+shall be located so that a door cannot swing within 12 inches (304.8 mm) of an
+air
+inlet or
+air
+outlet
+of such
+furnace
+measured at right angles to the opening. Doorstops or door closers shall not be installed to obtain this
+clearance
+.
+
+---
+
+Vented wall
+furnaces
+shall be located so that a door cannot swing within 12 inches (304.8 mm) of an
+air
+inlet or
+air
+outlet
+of such
+furnace
+measured at right angles to the opening. Doorstops or door closers shall not be installed to obtain this
+clearance
+.
+
+---
+
+## Section 909.4: Ducts Prohibited
+
+909.4 Ducts Prohibited
+Ducts
+shall not be attached to wall
+furnaces
+. Casing extension boots shall not be installed unless listed as part of the
+appliance
+.
+
+---
+
+Ducts
+shall not be attached to wall
+furnaces
+. Casing extension boots shall not be installed unless listed as part of the
+appliance
+.
+
+---
+
+## Section 909.5: Manual Shutoff Valve
+
+909.5 Manual Shutoff Valve
+A manual shutoff valve shall be installed ahead of all
+controls
+.
+
+---
+
+A manual shutoff valve shall be installed ahead of all
+controls
+.
+
+---
+
+## Section 909.6: Access
+
+909.6 Access
+Vented wall
+furnaces
+shall be provided with
+access
+for
+cleaning
+of heating surfaces, removal of burners, replacement of sections, motors,
+controls
+, filters and other working parts, and for adjustments and lubrication of parts requiring such attention. Panels, grilles and
+access
+doors that must be removed for normal servicing
+operations
+shall not be attached to the building construction.
+
+---
+
+Vented wall
+furnaces
+shall be provided with
+access
+for
+cleaning
+of heating surfaces, removal of burners, replacement of sections, motors,
+controls
+, filters and other working parts, and for adjustments and lubrication of parts requiring such attention. Panels, grilles and
+access
+doors that must be removed for normal servicing
+operations
+shall not be attached to the building construction.
+
+---
+
+Section 910 Floor Furnaces
+
+---
+
+## Section 910.1: General
+
+910.1 General
+Floor furnaces
+shall be installed in accordance with their listing and the manufacturer's instructions. Oil-fired
+furnaces
+shall be tested in accordance with UL 729. Unvented
+floor furnaces
+are prohibited.
+
+---
+
+Floor furnaces
+shall be installed in accordance with their listing and the manufacturer's instructions. Oil-fired
+furnaces
+shall be tested in accordance with UL 729. Unvented
+floor furnaces
+are prohibited.
+
+---
+
+## Section 910.2: Placement
+
+910.2 Placement
+Floor furnaces
+shall not be installed in any corridor, in the floor of any aisle or passageway of any auditorium, public hall, place of assembly, or in any egress element from any such room or space.
+With the exception of wall register models, a
+floor furnace
+shall not be placed closer than 6 inches (152.4 mm) to the nearest wall, and wall register models shall not be placed closer than 6 inches (152.4 mm) to a corner.
+The
+furnace
+shall be placed such that a drapery or similar combustible object will not be nearer than 12 inches (304.8 mm) to any portion of the register of the
+furnace
+.
+Floor furnaces
+shall not be installed in concrete floor construction built on grade. The controlling thermostat for a
+floor furnace
+shall be located within the same room or space as the
+floor furnace
+or shall be located in an adjacent room or space that is permanently open to the room or space containing the
+floor furnace
+.
+Floor furnaces
+shall be located so as to be accessible.
+Floor furnaces
+shall be installed only in floors of noncombustible construction having at least a 2-hour fire rating, except as where required for one- and two-family
+dwellings
+.
+
+---
+
+Floor furnaces
+shall not be installed in any corridor, in the floor of any aisle or passageway of any auditorium, public hall, place of assembly, or in any egress element from any such room or space.
+With the exception of wall register models, a
+floor furnace
+shall not be placed closer than 6 inches (152.4 mm) to the nearest wall, and wall register models shall not be placed closer than 6 inches (152.4 mm) to a corner.
+The
+furnace
+shall be placed such that a drapery or similar combustible object will not be nearer than 12 inches (304.8 mm) to any portion of the register of the
+furnace
+.
+Floor furnaces
+shall not be installed in concrete floor construction built on grade. The controlling thermostat for a
+floor furnace
+shall be located within the same room or space as the
+floor furnace
+or shall be located in an adjacent room or space that is permanently open to the room or space containing the
+floor furnace
+.
+Floor furnaces
+shall be located so as to be accessible.
+Floor furnaces
+shall be installed only in floors of noncombustible construction having at least a 2-hour fire rating, except as where required for one- and two-family
+dwellings
+.
+
+---
+
+## Section 910.3: Bracing
+
+910.3 Bracing
+The floor around the
+furnace
+shall be braced and headed with a
+support
+framework
+design
+in accordance with the
+New York City Building Code
+.
+
+---
+
+The floor around the
+furnace
+shall be braced and headed with a
+support
+framework
+design
+in accordance with the
+New York City Building Code
+.
+
+---
+
+## Section 910.4: Clearance
+
+910.4 Clearance
+The lowest portion of the
+floor furnace
+shall have not less than a 6-inch (152.4 mm)
+clearance
+from the grade level; except where the lower 6-inch (152.4 mm) portion of the
+floor furnace
+is sealed by the manufacturer to prevent entrance of water, the minimum
+clearance
+shall be reduced to not less than 2 inches (50.8 mm). Where these
+clearances
+are not present, the ground below and to the sides shall be excavated to form a pit under the
+furnace
+so that the required
+clearance
+is provided beneath the lowest portion of the
+furnace
+. A 12-inch (304.8 mm) minimum
+clearance
+shall be provided on all sides except the
+control
+side, which shall have an 18-inch (457.2 mm) minimum
+clearance
+.
+
+---
+
+The lowest portion of the
+floor furnace
+shall have not less than a 6-inch (152.4 mm)
+clearance
+from the grade level; except where the lower 6-inch (152.4 mm) portion of the
+floor furnace
+is sealed by the manufacturer to prevent entrance of water, the minimum
+clearance
+shall be reduced to not less than 2 inches (50.8 mm). Where these
+clearances
+are not present, the ground below and to the sides shall be excavated to form a pit under the
+furnace
+so that the required
+clearance
+is provided beneath the lowest portion of the
+furnace
+. A 12-inch (304.8 mm) minimum
+clearance
+shall be provided on all sides except the
+control
+side, which shall have an 18-inch (457.2 mm) minimum
+clearance
+.
+
+---
+
+## Section 910.5: Enclosures
+
+910.5 Enclosures
+Enclosures of
+floor furnaces
+shall be constructed entirely of
+noncombustible materials
+with a fire-resistance rating of at least 1 hour and shall be provided with adequate
+outdoor air
+to ensure proper
+combustion
+. The enclosure shall be provided with adequate means of
+access
+for servicing the
+furnace
+.
+
+---
+
+Enclosures of
+floor furnaces
+shall be constructed entirely of
+noncombustible materials
+with a fire-resistance rating of at least 1 hour and shall be provided with adequate
+outdoor air
+to ensure proper
+combustion
+. The enclosure shall be provided with adequate means of
+access
+for servicing the
+furnace
+.
+
+---
+
+## Section 910.6: Duct Temperature
+
+910.6 Duct Temperature
+The
+outlet
+duct
+temperature of warm
+air
+heating
+furnaces
+shall not be greater than 250°F (121.1°C).
+
+---
+
+The
+outlet
+duct
+temperature of warm
+air
+heating
+furnaces
+shall not be greater than 250°F (121.1°C).
+
+---
+
+## Section 910.7: One- And Two- Family Dwellings
+
+910.7 One- And Two- Family Dwellings
+Floor furnace
+enclosures shall be constructed of
+noncombustible materials
+with a fire-resistance rating of at least 1 hour. Means shall be provided for supporting the
+furnace
+when the grille is removed.
+Clearances
+shall be provided as per NFPA 54.
+
+---
+
+Floor furnace
+enclosures shall be constructed of
+noncombustible materials
+with a fire-resistance rating of at least 1 hour. Means shall be provided for supporting the
+furnace
+when the grille is removed.
+Clearances
+shall be provided as per NFPA 54.
+
+---
+
+Section 911 Duct Furnaces and Heaters
+
+---
+
+## Section 911.1: General
+
+911.1 General
+Duct furnaces
+and heaters shall be installed in accordance with the manufacturer's instructions. Electric
+furnaces
+and
+duct
+heaters shall comply with UL 1995 or UL 1996, as applicable. Unvented fuel-fired
+duct furnaces
+are prohibited.
+
+---
+
+Duct furnaces
+and heaters shall be installed in accordance with the manufacturer's instructions. Electric
+furnaces
+and
+duct
+heaters shall comply with UL 1995 or UL 1996, as applicable. Unvented fuel-fired
+duct furnaces
+are prohibited.
+
+---
+
+## Section 911.2: Access Panels
+
+911.2 Access Panels
+Ducts
+connected to
+duct furnaces
+shall have removable
+access
+panels on both the upstream and downstream sides of the
+furnace
+.
+
+---
+
+Ducts
+connected to
+duct furnaces
+shall have removable
+access
+panels on both the upstream and downstream sides of the
+furnace
+.
+
+---
+
+## Section 911.3: Location of Draft Hood and Controls
+
+911.3 Location of Draft Hood and Controls
+The
+controls
+,
+combustion air
+inlets and
+draft
+hoods
+for
+duct furnaces
+shall be located outside of the
+ducts
+. The
+draft
+hood
+shall be located in the same enclosure from which
+combustion air
+is taken.
+
+---
+
+The
+controls
+,
+combustion air
+inlets and
+draft
+hoods
+for
+duct furnaces
+shall be located outside of the
+ducts
+. The
+draft
+hood
+shall be located in the same enclosure from which
+combustion air
+is taken.
+
+---
+
+## Section 911.4: Circulating Air
+
+911.4 Circulating Air
+Where a
+duct furnace
+is installed so that supply
+ducts
+convey
+air
+to areas outside the space containing the
+furnace
+, the
+return air
+shall also be conveyed by a
+duct
+(s) sealed to the
+furnace
+casing and terminating outside the space containing the
+furnace
+. The
+duct furnace
+shall be installed on the
+positive pressure
+side of the circulating air blower.
+
+---
+
+Where a
+duct furnace
+is installed so that supply
+ducts
+convey
+air
+to areas outside the space containing the
+furnace
+, the
+return air
+shall also be conveyed by a
+duct
+(s) sealed to the
+furnace
+casing and terminating outside the space containing the
+furnace
+. The
+duct furnace
+shall be installed on the
+positive pressure
+side of the circulating air blower.
+
+---
+
+## Section 911.5: Duct Temperature
+
+911.5 Duct Temperature
+The
+outlet
+duct
+temperature of
+duct furnaces
+shall not be greater than 250°F (121.1°C).
+
+---
+
+The
+outlet
+duct
+temperature of
+duct furnaces
+shall not be greater than 250°F (121.1°C).
+
+---
+
+Section 912 Infrared Radiant Heaters
+
+---
+
+## Section 912.1: General
+
+912.1 General
+Electric infrared
+radiant heaters
+shall comply with UL 499.
+
+---
+
+Electric infrared
+radiant heaters
+shall comply with UL 499.
+
+---
+
+## Section 912.2: Support
+
+912.2 Support
+Infrared
+radiant heaters
+shall be fixed in a position independent of fuel and electric supply lines. Hangers and brackets shall be noncombustible material.
+
+---
+
+Infrared
+radiant heaters
+shall be fixed in a position independent of fuel and electric supply lines. Hangers and brackets shall be noncombustible material.
+
+---
+
+## Section 912.3: Clearances
+
+912.3 Clearances
+Heaters shall be installed with
+clearances
+from
+combustible material
+in accordance with the manufacturer's instructions.
+
+---
+
+Heaters shall be installed with
+clearances
+from
+combustible material
+in accordance with the manufacturer's instructions.
+
+---
+
+Section 913 Clothes Dryers
+UpCodes Diagrams (4)
+
+---
+
+## Section 913.1: General
+
+913.1 General
+Clothes dryers
+shall be installed in accordance with the manufacturer's instructions and shall comply with the following as applicable:
+Electric commercial
+clothes dryers
+shall be tested in accordance with UL 1240.
+Electric residential
+clothes dryers
+shall be tested in accordance with UL 2158.
+Electric coin-, ticket-, or card-operated
+clothes dryers
+shall be tested in accordance with UL
+2158.
+
+---
+
+Clothes dryers
+shall be installed in accordance with the manufacturer's instructions and shall comply with the following as applicable:
+Electric commercial
+clothes dryers
+shall be tested in accordance with UL 1240.
+Electric residential
+clothes dryers
+shall be tested in accordance with UL 2158.
+Electric coin-, ticket-, or card-operated
+clothes dryers
+shall be tested in accordance with UL
+2158.
+
+---
+
+## Section 913.2: Exhaust Required
+
+913.2 Exhaust Required
+Clothes dryers
+shall be exhausted in accordance with
+Section 504
+.
+Exception:
+Electric
+clothes dryers
+provided with a
+condensate
+drain. Spaces containing such
+dryers shall be provided with
+transfer air
+openings or other approved means to provide adequate
+air
+exchanges with adjacent spaces.
+UpCodes Diagrams (2)
+
+---
+
+Clothes dryers
+shall be exhausted in accordance with
+Section 504
+.
+Exception:
+Electric
+clothes dryers
+provided with a
+condensate
+drain. Spaces containing such
+dryers shall be provided with
+transfer air
+openings or other approved means to provide adequate
+air
+exchanges with adjacent spaces.
+
+---
+
+## Section 913.3: Clearances
+
+913.3 Clearances
+Clothes dryers
+shall be installed with
+clearance
+to combustibles in accordance with the manufacturer's instructions.
+
+---
+
+Clothes dryers
+shall be installed with
+clearance
+to combustibles in accordance with the manufacturer's instructions.
+
+---
+
+Section 914 Sauna Heaters
+
+---
+
+## Section 914.1: Location and Protection
+
+914.1 Location and Protection
+Sauna heaters shall be located so as to minimize the possibility of accidental contact by a person in the room.
+
+---
+
+Sauna heaters shall be located so as to minimize the possibility of accidental contact by a person in the room.
+
+---
+
+## Section 914.1.1: Guards
+
+914.1.1 Guards
+Sauna heaters shall be protected from accidental contact by an approved guard or barrier of material having a low coefficient of thermal conductivity. The guard shall not substantially affect the transfer of heat from the heater to the room.
+
+---
+
+Sauna heaters shall be protected from accidental contact by an approved guard or barrier of material having a low coefficient of thermal conductivity. The guard shall not substantially affect the transfer of heat from the heater to the room.
+
+---
+
+## Section 914.2: Installation
+
+914.2 Installation
+Sauna heaters shall be
+listed and labeled
+in accordance with UL 875 and shall be installed in accordance with their listing and the manufacturer's instructions.
+
+---
+
+Sauna heaters shall be
+listed and labeled
+in accordance with UL 875 and shall be installed in accordance with their listing and the manufacturer's instructions.
+
+---
+
+## Section 914.3: Access
+
+914.3 Access
+Panels, grilles and
+access
+doors that are required to be removed for normal servicing
+operations
+shall not be attached to the building.
+
+---
+
+Panels, grilles and
+access
+doors that are required to be removed for normal servicing
+operations
+shall not be attached to the building.
+
+---
+
+## Section 914.4: Heat and Time Controls
+
+914.4 Heat and Time Controls
+Sauna heaters shall be equipped with a thermostat that will limit room temperature to 194°F (90°C). If the thermostat is not an integral part of the sauna heater, the heat-sensing element shall be located within 6 inches (152.4 mm) of the ceiling. If the heat-sensing element is a capillary tube and bulb, the assembly shall be attached to the wall or other
+support
+, and shall be protected against physical damage.
+
+---
+
+Sauna heaters shall be equipped with a thermostat that will limit room temperature to 194°F (90°C). If the thermostat is not an integral part of the sauna heater, the heat-sensing element shall be located within 6 inches (152.4 mm) of the ceiling. If the heat-sensing element is a capillary tube and bulb, the assembly shall be attached to the wall or other
+support
+, and shall be protected against physical damage.
+
+---
+
+## Section 914.4.1: Timers
+
+914.4.1 Timers
+A timer, if provided to
+control
+main burner
+operation
+, shall have a maximum operating time of 1 hour. The
+control
+for the timer shall be located outside the sauna room.
+
+---
+
+A timer, if provided to
+control
+main burner
+operation
+, shall have a maximum operating time of 1 hour. The
+control
+for the timer shall be located outside the sauna room.
+
+---
+
+## Section 914.5: Sauna Room
+
+914.5 Sauna Room
+A
+ventilation
+opening into the sauna room shall be provided. The opening shall be not less than 4 inches by 8 inches (101.6 mm by 203.2 mm) located near the top of the door into the sauna room.
+
+---
+
+A
+ventilation
+opening into the sauna room shall be provided. The opening shall be not less than 4 inches by 8 inches (101.6 mm by 203.2 mm) located near the top of the door into the sauna room.
+
+---
+
+## Section 914.5.1: Warning Notice
+
+914.5.1 Warning Notice
+The following permanent notice, constructed of approved material, shall be mechanically attached to the sauna room on the outside:
+WARNING: DO NOT EXCEED 30 MINUTES IN SAUNA. EXCESSIVE EXPOSURE CAN BE HARMFUL TO HEALTH. ANY PERSON WITH POOR HEALTH SHOULD CONSULT A PHYSICIAN BEFORE USING SAUNA.
+The words shall contrast with the background and the wording shall be in letters not less than
+1
+/
+4
+-inch (6.4 mm) high.
+Exception:
+This section shall not apply to one- and two-family
+dwellings
+.
+
+---
+
+The following permanent notice, constructed of approved material, shall be mechanically attached to the sauna room on the outside:
+WARNING: DO NOT EXCEED 30 MINUTES IN SAUNA. EXCESSIVE EXPOSURE CAN BE HARMFUL TO HEALTH. ANY PERSON WITH POOR HEALTH SHOULD CONSULT A PHYSICIAN BEFORE USING SAUNA.
+The words shall contrast with the background and the wording shall be in letters not less than
+1
+/
+4
+-inch (6.4 mm) high.
+Exception:
+This section shall not apply to one- and two-family
+dwellings
+.
+
+---
+
+Section 915 Engine and Gas Turbine-Powered Equipment and Appliances
+
+---
+
+## Section 915.1: General
+
+915.1 General
+The
+installation
+of liquid-fueled stationary internal
+combustion
+engines and gas turbines, including
+combustion air
+, exhaust, fuel storage and
+piping
+, shall meet the requirements of
+NFPA 37
+and Chapters 7, 8, and 13 of this code. Stationary engine generator assemblies shall meet the requirements of UL 2200.
+
+---
+
+The
+installation
+of liquid-fueled stationary internal
+combustion
+engines and gas turbines, including
+combustion air
+, exhaust, fuel storage and
+piping
+, shall meet the requirements of
+NFPA 37
+and Chapters 7, 8, and 13 of this code. Stationary engine generator assemblies shall meet the requirements of UL 2200.
+
+---
+
+## Section 915.2: Powered Equipment and Appliances
+
+915.2 Powered Equipment and Appliances
+Permanently installed
+equipment
+and
+appliances
+powered by internal
+combustion
+engines and turbines shall be installed in accordance with the manufacturer's instructions and
+NFPA 37
+.
+
+---
+
+Permanently installed
+equipment
+and
+appliances
+powered by internal
+combustion
+engines and turbines shall be installed in accordance with the manufacturer's instructions and
+NFPA 37
+.
+
+---
+
+Section 916 Pool and Spa Heaters
+
+---
+
+## Section 916.1: General
+
+916.1 General
+Pool and spa heaters shall be installed in accordance with the manufacturer's instructions. Oil-fired pool and spa heaters shall be tested in accordance with UL 726. Electric pool and spa heaters shall be tested in accordance with UL 1261.
+
+---
+
+Pool and spa heaters shall be installed in accordance with the manufacturer's instructions. Oil-fired pool and spa heaters shall be tested in accordance with UL 726. Electric pool and spa heaters shall be tested in accordance with UL 1261.
+
+---
+
+Section 917 Cooking Appliances
+
+---
+
+## Section 917.1: Cooking Appliances
+
+917.1 Cooking Appliances
+Cooking
+appliances
+that are designed for permanent
+installation
+, including ranges, ovens, stoves, broilers, grills, fryers and griddles shall be listed, labeled and installed in accordance with the manufacturer's instructions. Oil-fired cooking
+appliances
+are prohibited. Commercial electric cooking
+appliances
+shall be
+listed and labeled
+in accordance with UL 197. Household electric ranges shall be
+listed and labeled
+in accordance with UL 858. Microwave cooking
+appliances
+shall be
+listed and labeled
+in accordance with UL 923. Oil-burning stoves shall be
+listed and labeled
+in accordance with UL 896. Solid-fuel-fired ovens shall be
+listed and labeled
+in accordance with UL 2162.
+
+---
+
+Cooking
+appliances
+that are designed for permanent
+installation
+, including ranges, ovens, stoves, broilers, grills, fryers and griddles shall be listed, labeled and installed in accordance with the manufacturer's instructions. Oil-fired cooking
+appliances
+are prohibited. Commercial electric cooking
+appliances
+shall be
+listed and labeled
+in accordance with UL 197. Household electric ranges shall be
+listed and labeled
+in accordance with UL 858. Microwave cooking
+appliances
+shall be
+listed and labeled
+in accordance with UL 923. Oil-burning stoves shall be
+listed and labeled
+in accordance with UL 896. Solid-fuel-fired ovens shall be
+listed and labeled
+in accordance with UL 2162.
+
+---
+
+## Section 917.2: Prohibited Location
+
+917.2 Prohibited Location
+Cooking
+appliances
+designed, tested,
+listed and labeled
+for use in commercial occupancies shall not be installed within
+dwelling units
+or within any area where domestic cooking
+operations
+occur.
+
+---
+
+Cooking
+appliances
+designed, tested,
+listed and labeled
+for use in commercial occupancies shall not be installed within
+dwelling units
+or within any area where domestic cooking
+operations
+occur.
+
+---
+
+## Section 917.3: Domestic Appliances
+
+917.3 Domestic Appliances
+Cooking
+appliances
+installed within
+dwelling units
+and within areas where domestic cooking
+operations
+occur shall be
+listed and labeled
+as household-type
+appliances
+for domestic use.
+Building products (3)
+
+---
+
+Cooking
+appliances
+installed within
+dwelling units
+and within areas where domestic cooking
+operations
+occur shall be
+listed and labeled
+as household-type
+appliances
+for domestic use.
+
+---
+
+## Section 917.4: Domestic Range Installation
+
+917.4 Domestic Range Installation
+Domestic ranges installed on combustible floors shall be set on their own bases or legs and shall be installed with
+clearances
+of not less than that shown on the label.
+
+---
+
+Domestic ranges installed on combustible floors shall be set on their own bases or legs and shall be installed with
+clearances
+of not less than that shown on the label.
+
+---
+
+## Section 917.5: Open-Top Broiler Unit Hoods
+
+917.5 Open-Top Broiler Unit Hoods
+A ventilating
+hood
+shall be provided above a domestic open-top broiler unit, unless otherwise listed for forced down
+draft
+ventilation
+.
+
+---
+
+A ventilating
+hood
+shall be provided above a domestic open-top broiler unit, unless otherwise listed for forced down
+draft
+ventilation
+.
+
+---
+
+## Section 917.5.1: Clearances
+
+917.5.1 Clearances
+A minimum
+clearance
+of 24 inches (609.6 mm) shall be maintained between the cooking top and
+combustible material
+above the
+hood
+. The
+hood
+shall be at least as wide as the open-top broiler unit and be centered over the unit.
+
+---
+
+A minimum
+clearance
+of 24 inches (609.6 mm) shall be maintained between the cooking top and
+combustible material
+above the
+hood
+. The
+hood
+shall be at least as wide as the open-top broiler unit and be centered over the unit.
+
+---
+
+## Section 917.6: Commercial Cooking Appliance Venting
+
+917.6 Commercial Cooking Appliance Venting
+Commercial cooking appliances
+, other than those exempted by
+Section 501.8
+of the
+New York City Fuel Gas Code
+, shall be vented by connecting the
+appliance
+to a
+vent
+or
+chimney
+in accordance with this code and the
+appliance
+manufacturer's instructions or the
+appliance
+shall be vented in accordance with
+Section 505.1.1
+of the
+New York City Fuel Gas Code
+.
+
+---
+
+Commercial cooking appliances
+, other than those exempted by
+Section 501.8
+of the
+New York City Fuel Gas Code
+, shall be vented by connecting the
+appliance
+to a
+vent
+or
+chimney
+in accordance with this code and the
+appliance
+manufacturer's instructions or the
+appliance
+shall be vented in accordance with
+Section 505.1.1
+of the
+New York City Fuel Gas Code
+.
+
+---
+
+## Section 917.7: Domestic Ventilation
+
+917.7 Domestic Ventilation
+When a
+hood
+is required for proper
+ventilation
+of a domestic cooking
+appliance
+, the exhaust and make-up
+air
+systems shall be properly engineered and designed in accordance with
+Chapter 5
+.
+
+---
+
+When a
+hood
+is required for proper
+ventilation
+of a domestic cooking
+appliance
+, the exhaust and make-up
+air
+systems shall be properly engineered and designed in accordance with
+Chapter 5
+.
+
+---
+
+Section 918 Forced-Air Warm-Air Furnaces
+
+---
+
+## Section 918.1: Forced-Air Furnaces
+
+918.1 Forced-Air Furnaces
+Oil-fired
+furnaces
+shall be tested in accordance with UL 727. Electric
+furnaces
+shall be tested in accordance with UL 1995. Solid fuel
+furnaces
+shall be tested in accordance with UL 391. Forced-
+air
+furnaces
+shall be installed in accordance with the listings and the manufacturer's instructions. Forced-
+air
+warm-
+air
+furnaces
+shall be installed in accordance with the requirements of NFPA 31 and the
+New York City Fuel Gas Code
+. Unvented fuel-fired
+furnaces
+are prohibited.
+
+---
+
+Oil-fired
+furnaces
+shall be tested in accordance with UL 727. Electric
+furnaces
+shall be tested in accordance with UL 1995. Solid fuel
+furnaces
+shall be tested in accordance with UL 391. Forced-
+air
+furnaces
+shall be installed in accordance with the listings and the manufacturer's instructions. Forced-
+air
+warm-
+air
+furnaces
+shall be installed in accordance with the requirements of NFPA 31 and the
+New York City Fuel Gas Code
+. Unvented fuel-fired
+furnaces
+are prohibited.
+
+---
+
+## Section 918.2: Heat Pumps
+
+918.2 Heat Pumps
+Electric
+heat pumps
+shall be tested in accordance with UL
+1995 or UL 60335-2-40.
+
+---
+
+Electric
+heat pumps
+shall be tested in accordance with UL
+1995 or UL 60335-2-40.
+
+---
+
+## Section 918.3: Dampers
+
+918.3 Dampers
+Volume dampers
+shall not be placed in the
+air
+inlet to a
+furnace
+in a manner that will reduce the required air to the
+furnace
+.
+
+---
+
+Volume dampers
+shall not be placed in the
+air
+inlet to a
+furnace
+in a manner that will reduce the required air to the
+furnace
+.
+
+---
+
+## Section 918.4: Circulating Air Ducts for Forced-Air Warm-Air Furnaces
+
+918.4 Circulating Air Ducts for Forced-Air Warm-Air Furnaces
+Circulating
+air
+for fuel-burning, forced-
+air
+-type, warm-
+air
+furnaces
+shall be conducted into the blower housing from outside the
+furnace
+enclosure by continuous
+air
+-tight
+ducts
+.
+
+---
+
+Circulating
+air
+for fuel-burning, forced-
+air
+-type, warm-
+air
+furnaces
+shall be conducted into the blower housing from outside the
+furnace
+enclosure by continuous
+air
+-tight
+ducts
+.
+
+---
+
+## Section 918.5: Outdoor and Return Air Openings
+
+918.5 Outdoor and Return Air Openings
+Outdoor intake openings shall be located in accordance
+with
+Section 401.4
+.
+Return air
+openings shall be located in accordance with Section 618.4 of the
+New York City Fuel Gas Code
+.
+
+---
+
+Outdoor intake openings shall be located in accordance
+with
+Section 401.4
+.
+Return air
+openings shall be located in accordance with Section 618.4 of the
+New York City Fuel Gas Code
+.
+
+---
+
+## Section 918.6: Outdoor Opening Protection
+
+918.6 Outdoor Opening Protection
+Outdoor air
+intake openings shall be protected in accordance with
+Section 401.5
+.
+
+---
+
+Outdoor air
+intake openings shall be protected in accordance with
+Section 401.5
+.
+
+---
+
+Section 919 Conversion Burners
+
+---
+
+## Section 919.1: Conversion Burners
+
+919.1 Conversion Burners
+The
+installation
+of
+conversion burners
+shall conform to ANSI Z21.8 and
+the applicable requirements of
+Chapter 10
+of this code.
+
+---
+
+The
+installation
+of
+conversion burners
+shall conform to ANSI Z21.8 and
+the applicable requirements of
+Chapter 10
+of this code.
+
+---
+
+Section 920 Unit Heaters
+
+---
+
+## Section 920.1: General
+
+920.1 General
+Unit heaters
+shall be installed in accordance with the listing and the manufacturer's instructions. Oil-fired
+unit heaters
+shall be tested in accordance with UL 731.
+
+---
+
+Unit heaters
+shall be installed in accordance with the listing and the manufacturer's instructions. Oil-fired
+unit heaters
+shall be tested in accordance with UL 731.
+
+---
+
+## Section 920.2: Support
+
+920.2 Support
+Suspended-type
+unit heaters
+shall be supported by elements that are designed and constructed to accommodate the weight and dynamic loads. Hangers and brackets shall be of noncombustible material. Suspended-type oil-fired
+unit heaters
+shall be installed in accordance with NFPA 31.
+
+---
+
+Suspended-type
+unit heaters
+shall be supported by elements that are designed and constructed to accommodate the weight and dynamic loads. Hangers and brackets shall be of noncombustible material. Suspended-type oil-fired
+unit heaters
+shall be installed in accordance with NFPA 31.
+
+---
+
+## Section 920.3: Ductwork
+
+920.3 Ductwork
+A
+unit heater
+shall not be attached to a warm-
+air
+duct system
+unless listed for such
+installation
+.
+
+---
+
+A
+unit heater
+shall not be attached to a warm-
+air
+duct system
+unless listed for such
+installation
+.
+
+---
+
+Section 921 Vented Room Heaters
+
+---
+
+## Section 921.1: General
+
+921.1 General
+Vented room heaters
+shall be
+listed and labeled
+and shall be installed in accordance with the conditions of the listing and the manufacturer's instructions.
+
+---
+
+Vented room heaters
+shall be
+listed and labeled
+and shall be installed in accordance with the conditions of the listing and the manufacturer's instructions.
+
+---
+
+Section 922 Kerosene and Oil-Fired Stoves
+
+---
+
+## Section 922.1: General
+
+922.1 General
+The
+installation
+of kerosene and oil-fired stoves is prohibited.
+
+---
+
+The
+installation
+of kerosene and oil-fired stoves is prohibited.
+
+---
+
+Section 923 Ceramic Kilns
+
+---
+
+## Section 923.1: General
+
+923.1 General
+Kilns shall be
+listed and labeled
+unless otherwise approved in accordance with Section
+105.1
+Electric kilns shall comply with UL 499. The approval of unlisted
+appliances
+in accordance
+with
+Section 105.1
+shall be based on approved engineering evaluation.
+
+---
+
+Kilns shall be
+listed and labeled
+unless otherwise approved in accordance with Section
+105.1
+Electric kilns shall comply with UL 499. The approval of unlisted
+appliances
+in accordance
+with
+Section 105.1
+shall be based on approved engineering evaluation.
+
+---
+
+## Section 923.1.1: Installation
+
+923.1.1 Installation
+Kilns shall be installed in accordance with the manufacturer's instructions and the provisions of this code.
+
+---
+
+Kilns shall be installed in accordance with the manufacturer's instructions and the provisions of this code.
+
+---
+
+Section 924 Stationary Fuel Cell Power Plants
+
+---
+
+## Section 924.1: General
+
+924.1 General
+Stationary fuel cell power plants
+having a power output not exceeding 10 MW, shall be tested in accordance with ANSI/CSA America FC1 and shall be installed in accordance with the manufacturer's instructions and NFPA 853. Such fuel cell plants shall be powered by hydrogen derived on-site from piped natural gas, except where the storage, handling and use of hydrogen or other flammable gas is authorized by the
+New York City Fire Code
+for such purposes and approved by the fire commissioner.
+
+---
+
+Stationary fuel cell power plants
+having a power output not exceeding 10 MW, shall be tested in accordance with ANSI/CSA America FC1 and shall be installed in accordance with the manufacturer's instructions and NFPA 853. Such fuel cell plants shall be powered by hydrogen derived on-site from piped natural gas, except where the storage, handling and use of hydrogen or other flammable gas is authorized by the
+New York City Fire Code
+for such purposes and approved by the fire commissioner.
+
+---
+
+Section 925 Masonry Heaters
+
+---
+
+## Section 925.1: General
+
+925.1 General
+Masonry heaters shall be constructed in accordance with the
+New York City Building Code
+.
+
+---
+
+Masonry heaters shall be constructed in accordance with the
+New York City Building Code
+.
+
+---
+
+Section 926 Gaseous Hydrogen Systems
+
+---
+
+## Section 926.1: Installation
+
+926.1 Installation
+The
+installation
+of gaseous hydrogen systems shall be in accordance with the applicable requirements of this code, the
+New York City Fire Code
+, the
+New York City Fuel Gas Code
+and the
+New York City Building Code
+.
+
+---
+
+The
+installation
+of gaseous hydrogen systems shall be in accordance with the applicable requirements of this code, the
+New York City Fire Code
+, the
+New York City Fuel Gas Code
+and the
+New York City Building Code
+.
+
+---
+
+Section 927 Electric Radiant Heating Systems
+
+---
+
+## Section 927.1: General
+
+927.1 General
+Electric radiant heating systems shall be installed in
+accordance with the manufacturer's instructions and shall be listed for the application.
+
+---
+
+Electric radiant heating systems shall be installed in
+accordance with the manufacturer's instructions and shall be listed for the application.
+
+---
+
+## Section 927.2: Clearances
+
+927.2 Clearances
+Clearances
+for radiant heating panels or elements to any wiring,
+outlet
+boxes and junction boxes used for installing
+electrical
+devices or mounting luminaires shall be in accordance with the
+New York City Building Code
+and the
+New York City Electrical Code
+.
+
+---
+
+Clearances
+for radiant heating panels or elements to any wiring,
+outlet
+boxes and junction boxes used for installing
+electrical
+devices or mounting luminaires shall be in accordance with the
+New York City Building Code
+and the
+New York City Electrical Code
+.
+
+---
+
+## Section 927.3: Installation on Wood or Steel Framing
+
+927.3 Installation on Wood or Steel Framing
+Radiant panels installed on wood or steel framing shall
+conform to the following requirements:
+Heating panels shall be installed parallel to framing members and secured to the surface of
+framing members or shall be mounted between framing members.
+Mechanical fasteners shall penetrate only the unheated portions provided for this purpose.
+Panels shall not be fastened at any point closer than
+1
+/
+4
+inch (6.4 mm) to an element. Other
+methods of attachment of the panels shall be in accordance with the panel
+installation
+instructions.
+Unless
+listed and labeled
+for field cutting, heating panels shall be installed as complete units.
+
+---
+
+Radiant panels installed on wood or steel framing shall
+conform to the following requirements:
+Heating panels shall be installed parallel to framing members and secured to the surface of
+framing members or shall be mounted between framing members.
+Mechanical fasteners shall penetrate only the unheated portions provided for this purpose.
+Panels shall not be fastened at any point closer than
+1
+/
+4
+inch (6.4 mm) to an element. Other
+methods of attachment of the panels shall be in accordance with the panel
+installation
+instructions.
+Unless
+listed and labeled
+for field cutting, heating panels shall be installed as complete units.
+
+---
+
+## Section 927.4: Installation in Concrete or Masonry
+
+927.4 Installation in Concrete or Masonry
+Radiant heating systems installed in concrete or masonry
+shall conform to the following requirements:
+Radiant heating systems shall be identified as being suitable for the
+installation
+, and shall be
+secured in place as specified in the manufacturer's instructions.
+Radiant heating panels and radiant heating panel sets shall not be installed where they bridge
+expansion joints unless they are protected from expansion and contraction.
+
+---
+
+Radiant heating systems installed in concrete or masonry
+shall conform to the following requirements:
+Radiant heating systems shall be identified as being suitable for the
+installation
+, and shall be
+secured in place as specified in the manufacturer's instructions.
+Radiant heating panels and radiant heating panel sets shall not be installed where they bridge
+expansion joints unless they are protected from expansion and contraction.
+
+---
+
+## Section 927.5: Finish Surfaces
+
+927.5 Finish Surfaces
+Finish materials installed over radiant heating panels and systems shall be
+installed in accordance with the manufacturer's instructions. Surfaces shall be secured so that
+fasteners do not pierce the radiant heating elements.
+
+---
+
+Finish materials installed over radiant heating panels and systems shall be
+installed in accordance with the manufacturer's instructions. Surfaces shall be secured so that
+fasteners do not pierce the radiant heating elements.
+
+---
+
+Section 928 Evaporative Coolers
+
+---
+
+## Section 928.1: General
+
+928.1 General
+Evaporative cooling
+equipment
+shall:
+Be installed in accordance with the manufacturer's instructions.
+Be installed on level platforms and in accordance with
+Section 304.10
+.
+Have openings in exterior walls or roofs flashed in accordance with the
+New York City
+Building Code
+.
+Be provided with an approved water supply, sized for peak demand. The quality of water shall
+be provided in accordance with the
+equipment
+manufacturer's recommendations. The
+piping
+system and
+protection
+of the
+potable water supply
+system shall be installed as required by the
+New York City Plumbing Code
+.
+Have
+ventilation air
+intake opening locations
+in accordance with
+Section 401.4
+.
+
+---
+
+Evaporative cooling
+equipment
+shall:
+Be installed in accordance with the manufacturer's instructions.
+Be installed on level platforms and in accordance with
+Section 304.10
+.
+Have openings in exterior walls or roofs flashed in accordance with the
+New York City
+Building Code
+.
+Be provided with an approved water supply, sized for peak demand. The quality of water shall
+be provided in accordance with the
+equipment
+manufacturer's recommendations. The
+piping
+system and
+protection
+of the
+potable water supply
+system shall be installed as required by the
+New York City Plumbing Code
+.
+Have
+ventilation air
+intake opening locations
+in accordance with
+Section 401.4
+.
+
+---
+

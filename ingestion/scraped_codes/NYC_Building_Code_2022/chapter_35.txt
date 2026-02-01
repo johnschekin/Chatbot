@@ -1,0 +1,1443 @@
+# NYC Building Code 2022 - Chapter 35
+
+New York City Building Code 2022
+
+---
+
+Dedications
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 Use and Occupancy Classification
+
+---
+
+Chapter 4 Special Detailed Requirements Based on Use and Occupancy
+
+---
+
+Chapter 5 General Building Heights and Areas; Separation of Occupancies
+
+---
+
+Chapter 6 Types of Construction
+
+---
+
+Chapter 7 Fire and Smoke Protection Features
+
+---
+
+Chapter 8 Interior Finishes
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Accessibility
+
+---
+
+Chapter 12 Interior Environment
+
+---
+
+Chapter 13 Energy Efficiency
+
+---
+
+Chapter 14 Exterior Walls
+
+---
+
+Chapter 15 Roof Assemblies and Rooftop Structures
+
+---
+
+Chapter 16 Structural Design
+
+---
+
+Chapter 17 Special Inspections and Tests
+
+---
+
+Chapter 18 Soils and Foundations
+
+---
+
+Chapter 19 Concrete
+
+---
+
+Chapter 20 Aluminum
+
+---
+
+Chapter 21 Masonry
+
+---
+
+Chapter 22 Steel
+
+---
+
+Chapter 23 Wood
+
+---
+
+Chapter 24 Glass and Glazing
+
+---
+
+Chapter 25 Gypsum Board, Gypsum Panel Products and Plaster
+
+---
+
+Chapter 26 Plastic
+
+---
+
+Chapter 27 Electrical
+
+---
+
+Chapter 28 Mechanical Systems
+
+---
+
+Chapter 29 Plumbing Systems
+
+---
+
+Chapter 30 Elevators and Conveying Systems
+
+---
+
+Chapter 31 Special Construction
+
+---
+
+Chapter 32 Encroachments Into the Public Right-of-Way
+
+---
+
+Chapter 33 Safeguards During Construction or Demolition
+
+---
+
+Chapter 34 Reserved
+
+---
+
+Chapter 35 Referenced Standards
+
+---
+
+BC 3501 General
+
+---
+
+BC 3502 Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Reserved
+
+---
+
+Appendix D Fire Districts
+
+---
+
+Appendix E Supplementary Accessibility Requirements
+
+---
+
+Appendix F Rodentproofing
+
+---
+
+Appendix G Flood-Resistant Construction
+
+---
+
+Appendix H Outdoor Signs
+
+---
+
+Appendix I Reserved
+
+---
+
+Appendix J Reserved
+
+---
+
+Appendix K Modified Industry Standards for Elevators and Conveying Systems
+
+---
+
+Appendix L Reserved
+
+---
+
+Appendix M Supplementary Requirements for One- And Two-Family Dwellings
+
+---
+
+Appendix N Assistive Listening Systems Performance Standards
+
+---
+
+Appendix O Reserved
+
+---
+
+Appendix P Reserved
+
+---
+
+Appendix Q Modified National Standards for Automatic Sprinkler, Standpipe, Fire Pump, Fire Alarm, and Smoke Control Systems
+
+---
+
+Appendix R Acoustical Tile and Lay-in Panel Ceiling Suspension Systems
+
+---
+
+Appendix S Supplementary Figures for Luminous Egress Path Markings
+
+---
+
+Appendix U Ancillary Dwelling Units
+
+---
+
+Chapter 35 Referenced Standards
+
+---
+
+Section BC 3501 General
+
+---
+
+## Section 3501.1: General
+
+3501.1 General
+This chapter lists the standards that are referenced in various sections of this document. The standards are listed herein by the promulgating agency of the standard, the standard identification, the effective date and
+title
+and the section or sections of this document that reference the standard.
+
+---
+
+This chapter lists the standards that are referenced in various sections of this document. The standards are listed herein by the promulgating agency of the standard, the standard identification, the effective date and
+title
+and the section or sections of this document that reference the standard.
+
+---
+
+## Section 3501.2: Subsequent Additions, Modifications, or Deletions
+
+3501.2 Subsequent Additions, Modifications, or Deletions
+Refer to the rules of the department for any subsequent additions,
+modifications
+or deletions that may have been made to these standards in accordance with Section 28-103.19 of the
+Administrative Code
+.
+
+---
+
+Refer to the rules of the department for any subsequent additions,
+modifications
+or deletions that may have been made to these standards in accordance with Section 28-103.19 of the
+Administrative Code
+.
+
+---
+
+## Section 3501.3: Applicability
+
+3501.3 Applicability
+The
+application
+of the
+referenced standards
+shall be as specified in
+Section 102.4
+.
+
+---
+
+The
+application
+of the
+referenced standards
+shall be as specified in
+Section 102.4
+.
+
+---
+
+Section BC 3502 Standards
+AA
+Aluminum Association
+1525 Wilson Boulevard, Suite 600
+Arlington, VA 22209
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+ADM —15
+Aluminum
+Design
+Manual: Part 1—A Specification for Aluminum Structures
+1604.3.5
+,
+1705.33.1
+,
+2002.1
+ASM 35—00
+Aluminum Sheet Metal Work in
+Building
+Construction
+(Fourth Edition)
+2002.1
+AAMA
+American Architectural Manufacturers Association
+1827 Waldon Office Square, Suite 550
+Schaumburg, IL 60173
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+1402—09
+Standard Specifications for Aluminum Siding, Soffit and Fascia
+1404.5.1
+AAMA/WDMA/CSA 101/I.S.2/A440—11
+North American
+Fenestration
+Standard/Specifications for
+Windows
+, Doors and
+Skylights
+1709.5.1, 2405.5
+AASHTO
+American Association of State Highway and Transportation Officials
+444 N Capitol
+Street
+NW, Suite 249
+Washington, DC 20001
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+T318—15
+Standard Method of Test for Water Content of Freshly Mixed
+Concrete
+Using Microwave Oven Drying
+1905.6.2.1
+,
+1905.6.3.6
+ACI
+American
+Concrete
+Institute
+38800 Country Club Drive
+Farmington Hills, MI 48331
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+216.1—14
+Code Requirements for Determining
+Fire Resistance
+of
+Concrete
+and
+Masonry
+Construction
+Assemblies
+Table 721.1(2), 722.1
+301—10
+Specification for Structural
+Concrete
+1812.1.1
+,
+1905.2.4
+,
+1905.3.5.2
+,
+1905.6.3.7
+306R—10
+Guide to Cold Weather Concreting
+Table 1904.4.2
+318—14*
+*As modified in
+Section 1908
+Building Code
+Requirements for Structural
+Concrete
+406.7.3
+,
+722.2.4.3
+,
+1604.3.2
+,
+Table 1613.5
+,
+Table 1705.2
+,
+Table 1705.3
+,
+1705.3.1
+,
+1705.37
+,
+1809.5.7.2
+, 1809.6,
+Table 1810.2.13
+,
+Table 1810.8
+,
+1810.9.1.1
+,
+1810.9.2
+, 1810.9.2.1, 1811.6.3.2,
+1811.6.3.2.2
+,
+1812.1.2.5.1
+,
+1812.1.2.5.2
+,
+1812.7.4.1
+,
+1812.8.3
+,
+1812.8.4
+,
+1901.2
+,
+1901.3
+,
+1901.5
+,
+1902.1
+,
+1903.1
+,
+1903.5
+,
+1903.6
+,
+1903.6.1
+,
+1903.6.2
+,
+1903.7
+,
+1903.8
+,
+1904.1
+,
+1904.2
+,
+1904.3
+,
+1904.4
+,
+1904.4.1
+,
+1904.5
+,
+1905.1
+,
+1905.1.1
+,
+1905.1.4
+,
+1905.2
+,
+1905.3
+,
+1905.4
+,
+1905.5
+,
+1905.6
+,
+1905.6.5.5
+,
+1905.6.6
+,
+1905.8.3
+,
+1905.11.3
+,
+1906.1
+,
+1906.2
+,
+1906.3
+,
+1906.4
+,
+1907.1
+,
+1907.2
+,
+1907.4.1
+,
+1907.5.2.1
+,
+1907.5.2.2
+,
+1907.6
+,
+1907.7.1
+,
+1907.7.2
+,
+1907.7.3
+,
+1907.7.4
+,
+1907.7.5
+,
+1907.7.6
+,
+1907.8
+,
+1907.9
+,
+1907.10
+,
+1907.11
+,
+1907.12
+,
+1907.13
+,
+1908.1
+,
+1908.1.1
+,
+1908.1.2
+,
+1908.1.3
+,
+1908.1.4
+,
+1908.1.5
+,
+1908.1.6
+,
+1908.1.7
+,
+1908.1.8
+,
+1908.1.9
+,
+1908.1.10
+,
+1909.1
+,
+1912.2
+,
+1912.3.1
+,
+2108.3
+,
+2206.1
+,
+2206.3
+,
+3305.3.2
+530—13
+Building Code
+Requirements for
+Masonry
+Structures
+1705.4.1
+,
+1705.4.3
+530.1—13
+Specifications for
+Masonry
+Structures
+Table 1705.4.1
+, Table 1705.4.3, 2105.1
+AISC
+American Institute of
+Steel Construction
+One East Wacker Drive, Suite 700
+Chicago, IL 60601-18021
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+ANSI/AISC 303—16
+Code of Standard Practice for Steel Buildings and Bridges
+2203.1
+,
+2205.3.1
+ANSI/
+AISC 341
+—16
+Seismic Provisions for
+Structural Steel
+Buildings
+1705.2.4.1
+,
+1705.2.4.2
+,
+1705.2.5
+,
+1705.2.5.2
+,
+2205.2.1.1
+,
+2205.2.1.2
+,
+2205.2.2
+,
+2206.2.1
+,
+2206.3
+ANSI/
+AISC 360
+—16
+Specification for
+Structural Steel
+Buildings
+722.5.2.2.1
+,
+1604.3.3
+,
+Table 1705.2
+, 1705.2.3,
+Table 1810.8
+,
+2203.2
+,
+2205.1
+, 2205.1.1, 2205.2.1.1,
+2205.3
+,
+2205.3.2
+,
+2205.3.3
+,
+2206.1
+,
+2206.3
+,
+3305.2
+AISI
+American Iron and Steel Institute
+25 Massachusetts Avenue, NW Suite 800
+Washington, DC 20001
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+AISI S100—16
+North American Specification for the
+Design
+of Cold-formed Steel Structural Members
+1908.1.5
+,
+2203.1
+,
+2203.2
+,
+2210.1
+,
+2210.2
+AISI S220—15
+North American Standard for Cold-formed Steel Framing-Nonstructural Members
+2203.1
+,
+2203.2
+,
+2211.2
+,
+Table 2506.2
+,
+Table 2507.2
+AISI S230—15
+Standard for Cold-formed Steel Framing-Prescriptive Method for One- and
+Two-family Dwellings
+,
+1609.1.1
+,
+1609.1.1.1
+,
+2211.1.2
+AISI S240—15
+North American Standard for Cold-Formed Steel Structural Framing, 2015
+Table 1705.2
+.6, 2203.1, 2203.2, 2211.1, 2211.1.1.1,
+2211.1.3.3
+,
+Table 2603.12.1
+,
+Table 2603.12.2
+AISI S400—15/S1—16
+North American Standard for
+Seismic Design
+of Cold-formed Steel Structural Systems, 2015, with Supplement 1, dated 2016
+1604.3.3
+,
+Table 1613.5
+AMCA
+Air Movement and Control Association International
+30 West University Drive
+Arlington
+Heights
+, IL 60004
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+540—13
+Test Method for Louvers Impacted by Wind Borne
+Debris
+1609.1.2.1
+ANSI
+American National Standards Institute
+25
+West 43rd
+Street
+, Fourth Floor
+New York, NY 10036
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+A10.3—06*
+*As modified in
+Section 3311.4
+Safety Requirements for Powder-actuated Fastening Systems
+3311.3
+,
+3311.4
+,
+3311.4.1
+,
+3311.4.2
+,
+3311.4.3
+,
+3311.4.4
+,
+3311.4.5
+,
+3311.4.6
+,
+3311.4.7
+,
+3311.4.8
+,
+3311.4.9
+,
+3311.4.10
+,
+3311.4.11
+,
+3311.4.12
+,
+3311.4.5
+,
+3311.4.6
+,
+3311.4.7
+,
+3311.4.8
+,
+3311.4.9
+,
+3311.4.10
+,
+3311.4.11
+,
+3311.4.12
+A10.4—16
+Safety Requirements for
+Personnel Hoists
+on
+Construction
+&
+Demolition
+Sites
+3001.2
+,
+3010.3
+ANSI/ASSP A10.11—10*
+*As modified in
+Section 3308.6.2
+Safety Requirements for Personnel and
+Debris
+Nets
+202 (
+STRUCTURAL NET
+),
+3302.1
+,
+3308.6.2
+,
+3308.6.2.3
+,
+3308.6.2.4
+,
+3308.6.2.5
+,
+3308.6.2.6
+,
+3308.6.2.7
+,
+3308.6.2.8
+,
+3308.6.2.9
+,
+3308.6.2.10
+,
+3308.6.2.11
+,
+3308.6.4
+A13.1—2007
+Scheme for the Identification of Piping Systems
+415.11.6.5
+,
+903.6
+,
+905.11
+A108.1A—99
+Installation
+of Ceramic Tile in the Wet-set Method, with Portland Cement
+Mortar
+2103.2.3
+A108.1B—99
+Installation
+of Ceramic Tile, quarry Tile on a Cured Portland Cement
+Mortar
+Setting Bed with Dry-set or Latex-Portland
+Mortar
+2103.2.3
+A108.4—99
+Installation
+of Ceramic Tile with Organic Adhesives or Water-cleanable Tile-setting Epoxy Adhesive
+2103.2.3.6
+
+---
+
+AA
+Aluminum Association
+1525 Wilson Boulevard, Suite 600
+Arlington, VA 22209
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+ADM —15
+Aluminum
+Design
+Manual: Part 1—A Specification for Aluminum Structures
+1604.3.5
+,
+1705.33.1
+,
+2002.1
+ASM 35—00
+Aluminum Sheet Metal Work in
+Building
+Construction
+(Fourth Edition)
+2002.1
+AAMA
+American Architectural Manufacturers Association
+1827 Waldon Office Square, Suite 550
+Schaumburg, IL 60173
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+1402—09
+Standard Specifications for Aluminum Siding, Soffit and Fascia
+1404.5.1
+AAMA/WDMA/CSA 101/I.S.2/A440—11
+North American
+Fenestration
+Standard/Specifications for
+Windows
+, Doors and
+Skylights
+1709.5.1, 2405.5
+AASHTO
+American Association of State Highway and Transportation Officials
+444 N Capitol
+Street
+NW, Suite 249
+Washington, DC 20001
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+T318—15
+Standard Method of Test for Water Content of Freshly Mixed
+Concrete
+Using Microwave Oven Drying
+1905.6.2.1
+,
+1905.6.3.6
+ACI
+American
+Concrete
+Institute
+38800 Country Club Drive
+Farmington Hills, MI 48331
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+216.1—14
+Code Requirements for Determining
+Fire Resistance
+of
+Concrete
+and
+Masonry
+Construction
+Assemblies
+Table 721.1(2), 722.1
+301—10
+Specification for Structural
+Concrete
+1812.1.1
+,
+1905.2.4
+,
+1905.3.5.2
+,
+1905.6.3.7
+306R—10
+Guide to Cold Weather Concreting
+Table 1904.4.2
+318—14*
+*As modified in
+Section 1908
+Building Code
+Requirements for Structural
+Concrete
+406.7.3
+,
+722.2.4.3
+,
+1604.3.2
+,
+Table 1613.5
+,
+Table 1705.2
+,
+Table 1705.3
+,
+1705.3.1
+,
+1705.37
+,
+1809.5.7.2
+, 1809.6,
+Table 1810.2.13
+,
+Table 1810.8
+,
+1810.9.1.1
+,
+1810.9.2
+, 1810.9.2.1, 1811.6.3.2,
+1811.6.3.2.2
+,
+1812.1.2.5.1
+,
+1812.1.2.5.2
+,
+1812.7.4.1
+,
+1812.8.3
+,
+1812.8.4
+,
+1901.2
+,
+1901.3
+,
+1901.5
+,
+1902.1
+,
+1903.1
+,
+1903.5
+,
+1903.6
+,
+1903.6.1
+,
+1903.6.2
+,
+1903.7
+,
+1903.8
+,
+1904.1
+,
+1904.2
+,
+1904.3
+,
+1904.4
+,
+1904.4.1
+,
+1904.5
+,
+1905.1
+,
+1905.1.1
+,
+1905.1.4
+,
+1905.2
+,
+1905.3
+,
+1905.4
+,
+1905.5
+,
+1905.6
+,
+1905.6.5.5
+,
+1905.6.6
+,
+1905.8.3
+,
+1905.11.3
+,
+1906.1
+,
+1906.2
+,
+1906.3
+,
+1906.4
+,
+1907.1
+,
+1907.2
+,
+1907.4.1
+,
+1907.5.2.1
+,
+1907.5.2.2
+,
+1907.6
+,
+1907.7.1
+,
+1907.7.2
+,
+1907.7.3
+,
+1907.7.4
+,
+1907.7.5
+,
+1907.7.6
+,
+1907.8
+,
+1907.9
+,
+1907.10
+,
+1907.11
+,
+1907.12
+,
+1907.13
+,
+1908.1
+,
+1908.1.1
+,
+1908.1.2
+,
+1908.1.3
+,
+1908.1.4
+,
+1908.1.5
+,
+1908.1.6
+,
+1908.1.7
+,
+1908.1.8
+,
+1908.1.9
+,
+1908.1.10
+,
+1909.1
+,
+1912.2
+,
+1912.3.1
+,
+2108.3
+,
+2206.1
+,
+2206.3
+,
+3305.3.2
+530—13
+Building Code
+Requirements for
+Masonry
+Structures
+1705.4.1
+,
+1705.4.3
+530.1—13
+Specifications for
+Masonry
+Structures
+Table 1705.4.1
+, Table 1705.4.3, 2105.1
+AISC
+American Institute of
+Steel Construction
+One East Wacker Drive, Suite 700
+Chicago, IL 60601-18021
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+ANSI/AISC 303—16
+Code of Standard Practice for Steel Buildings and Bridges
+2203.1
+,
+2205.3.1
+ANSI/
+AISC 341
+—16
+Seismic Provisions for
+Structural Steel
+Buildings
+1705.2.4.1
+,
+1705.2.4.2
+,
+1705.2.5
+,
+1705.2.5.2
+,
+2205.2.1.1
+,
+2205.2.1.2
+,
+2205.2.2
+,
+2206.2.1
+,
+2206.3
+ANSI/
+AISC 360
+—16
+Specification for
+Structural Steel
+Buildings
+722.5.2.2.1
+,
+1604.3.3
+,
+Table 1705.2
+, 1705.2.3,
+Table 1810.8
+,
+2203.2
+,
+2205.1
+, 2205.1.1, 2205.2.1.1,
+2205.3
+,
+2205.3.2
+,
+2205.3.3
+,
+2206.1
+,
+2206.3
+,
+3305.2
+AISI
+American Iron and Steel Institute
+25 Massachusetts Avenue, NW Suite 800
+Washington, DC 20001
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+AISI S100—16
+North American Specification for the
+Design
+of Cold-formed Steel Structural Members
+1908.1.5
+,
+2203.1
+,
+2203.2
+,
+2210.1
+,
+2210.2
+AISI S220—15
+North American Standard for Cold-formed Steel Framing-Nonstructural Members
+2203.1
+,
+2203.2
+,
+2211.2
+,
+Table 2506.2
+,
+Table 2507.2
+AISI S230—15
+Standard for Cold-formed Steel Framing-Prescriptive Method for One- and
+Two-family Dwellings
+,
+1609.1.1
+,
+1609.1.1.1
+,
+2211.1.2
+AISI S240—15
+North American Standard for Cold-Formed Steel Structural Framing, 2015
+Table 1705.2
+.6, 2203.1, 2203.2, 2211.1, 2211.1.1.1,
+2211.1.3.3
+,
+Table 2603.12.1
+,
+Table 2603.12.2
+AISI S400—15/S1—16
+North American Standard for
+Seismic Design
+of Cold-formed Steel Structural Systems, 2015, with Supplement 1, dated 2016
+1604.3.3
+,
+Table 1613.5
+AMCA
+Air Movement and Control Association International
+30 West University Drive
+Arlington
+Heights
+, IL 60004
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+540—13
+Test Method for Louvers Impacted by Wind Borne
+Debris
+1609.1.2.1
+ANSI
+American National Standards Institute
+25
+West 43rd
+Street
+, Fourth Floor
+New York, NY 10036
+Standard
+reference
+number
+Title
+Referenced
+in code
+section number
+A10.3—06*
+*As modified in
+Section 3311.4
+Safety Requirements for Powder-actuated Fastening Systems
+3311.3
+,
+3311.4
+,
+3311.4.1
+,
+3311.4.2
+,
+3311.4.3
+,
+3311.4.4
+,
+3311.4.5
+,
+3311.4.6
+,
+3311.4.7
+,
+3311.4.8
+,
+3311.4.9
+,
+3311.4.10
+,
+3311.4.11
+,
+3311.4.12
+,
+3311.4.5
+,
+3311.4.6
+,
+3311.4.7
+,
+3311.4.8
+,
+3311.4.9
+,
+3311.4.10
+,
+3311.4.11
+,
+3311.4.12
+A10.4—16
+Safety Requirements for
+Personnel Hoists
+on
+Construction
+&
+Demolition
+Sites
+3001.2
+,
+3010.3
+ANSI/ASSP A10.11—10*
+*As modified in
+Section 3308.6.2
+Safety Requirements for Personnel and
+Debris
+Nets
+202 (
+STRUCTURAL NET
+),
+3302.1
+,
+3308.6.2
+,
+3308.6.2.3
+,
+3308.6.2.4
+,
+3308.6.2.5
+,
+3308.6.2.6
+,
+3308.6.2.7
+,
+3308.6.2.8
+,
+3308.6.2.9
+,
+3308.6.2.10
+,
+3308.6.2.11
+,
+3308.6.4
+A13.1—2007
+Scheme for the Identification of Piping Systems
+415.11.6.5
+,
+903.6
+,
+905.11
+A108.1A—99
+Installation
+of Ceramic Tile in the Wet-set Method, with Portland Cement
+Mortar
+2103.2.3
+
+---
+

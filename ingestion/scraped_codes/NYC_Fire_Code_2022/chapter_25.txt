@@ -1,0 +1,606 @@
+# NYC Fire Code 2022 - Chapter 25
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+2501 General
+
+---
+
+2502 Definitions
+
+---
+
+2503 Ethylene Gas
+
+---
+
+2504 Sources of Ignition
+
+---
+
+2505 Combustible Waste
+
+---
+
+2506 Ethylene Generators
+
+---
+
+2507 Warning Signs
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Section 2501 General
+
+---
+
+## Section 2501.1: Scope
+
+2501.1 Scope
+This chapter shall govern the design, installation, operation and
+maintenance
+of
+facilities
+in which ethylene gas is used, other than in self-contained equipment, to promote the ripening of fruits, vegetables and other crops.
+Exception:
+Mixtures of ethylene and one or more inert gases in concentrations which prevent the gas from reaching greater than 25 percent of the
+lower explosive limit
+(
+LEL
+) when released to the atmosphere.
+
+---
+
+This chapter shall govern the design, installation, operation and
+maintenance
+of
+facilities
+in which ethylene gas is used, other than in self-contained equipment, to promote the ripening of fruits, vegetables and other crops.
+Exception:
+Mixtures of ethylene and one or more inert gases in concentrations which prevent the gas from reaching greater than 25 percent of the
+lower explosive limit
+(
+LEL
+) when released to the atmosphere.
+
+---
+
+## Section 2501.2: Permits
+
+2501.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 2501.3: Ethylene Generators
+
+2501.3 Ethylene Generators
+Approved
+ethylene generators shall be operated and maintained in accordance with
+FC2506
+.
+
+---
+
+Approved
+ethylene generators shall be operated and maintained in accordance with
+FC2506
+.
+
+---
+
+## Section 2501.4: General
+
+2501.4 General
+Facilities
+using ethylene gas to promote the ripening of fruits, vegetables and other crops shall be designed, installed, operated and maintained in accordance with this chapter.
+
+---
+
+Facilities
+using ethylene gas to promote the ripening of fruits, vegetables and other crops shall be designed, installed, operated and maintained in accordance with this chapter.
+
+---
+
+Section 2502 Definitions
+
+---
+
+## Section 2502.1: Terms Defined in FC Chapter 2
+
+2502.1 Terms Defined in FC Chapter 2
+Terms used in this chapter and defined in
+FC202
+shall have the meanings set forth therein.
+
+---
+
+Terms used in this chapter and defined in
+FC202
+shall have the meanings set forth therein.
+
+---
+
+Section 2503 Ethylene Gas
+
+---
+
+## Section 2503.1: Location
+
+2503.1 Location
+Ethylene gas shall be discharged only into
+approved
+rooms or enclosures designed and constructed for this purpose.
+
+---
+
+Ethylene gas shall be discharged only into
+approved
+rooms or enclosures designed and constructed for this purpose.
+
+---
+
+## Section 2503.2: Dispensing
+
+2503.2 Dispensing
+Valves controlling discharge of ethylene shall provide positive and fail-closed control of flow and shall be set to limit the concentration of gas in air below 1,000 parts per million (ppm).
+
+---
+
+Valves controlling discharge of ethylene shall provide positive and fail-closed control of flow and shall be set to limit the concentration of gas in air below 1,000 parts per million (ppm).
+
+---
+
+Section 2504 Sources of Ignition
+
+---
+
+## Section 2504.1: Ignition Prevention
+
+2504.1 Ignition Prevention
+Sources of ignition shall be controlled or protected in accordance with this section and
+FC Chapter 3
+.
+
+---
+
+Sources of ignition shall be controlled or protected in accordance with this section and
+FC Chapter 3
+.
+
+---
+
+## Section 2504.2: Electrical Wiring and Equipment
+
+2504.2 Electrical Wiring and Equipment
+Electrical
+wiring and equipment, including luminaires, shall be
+approved
+for use in Class I, Division 2, Group C hazardous (classified) locations.
+
+---
+
+Electrical
+wiring and equipment, including luminaires, shall be
+approved
+for use in Class I, Division 2, Group C hazardous (classified) locations.
+
+---
+
+## Section 2504.3: Static Electricity
+
+2504.3 Static Electricity
+Devices, equipment and
+systems
+, including
+containers
+and piping, used to dispense ethylene, shall be bonded and grounded to prevent the discharge of static sparks or arcs.
+
+---
+
+Devices, equipment and
+systems
+, including
+containers
+and piping, used to dispense ethylene, shall be bonded and grounded to prevent the discharge of static sparks or arcs.
+
+---
+
+## Section 2504.4: Lighting
+
+2504.4 Lighting
+Lighting
+shall be by
+approved
+electric lamps or luminaires only.
+
+---
+
+Lighting
+shall be by
+approved
+electric lamps or luminaires only.
+
+---
+
+## Section 2504.5: Heating
+
+2504.5 Heating
+Heating shall be by indirect means utilizing low-pressure steam, hot water, or warm air.
+Exception:
+Electric or fuel-fired heaters
+approved
+for use in hazardous (classified) locations which are installed and operated in accordance with the
+Electrical Code
+, the
+Mechanical Code
+or the
+Fuel Gas Code
+.
+
+---
+
+Heating shall be by indirect means utilizing low-pressure steam, hot water, or warm air.
+Exception:
+Electric or fuel-fired heaters
+approved
+for use in hazardous (classified) locations which are installed and operated in accordance with the
+Electrical Code
+, the
+Mechanical Code
+or the
+Fuel Gas Code
+.
+
+---
+
+Section 2505 Combustible Waste
+
+---
+
+## Section 2505.1: Housekeeping
+
+2505.1 Housekeeping
+Empty boxes,
+cartons
+, pallets and other
+combustible waste
+shall be removed from ripening rooms or enclosures and properly disposed of at the end of each work shift, but at least once a day.
+
+---
+
+Empty boxes,
+cartons
+, pallets and other
+combustible waste
+shall be removed from ripening rooms or enclosures and properly disposed of at the end of each work shift, but at least once a day.
+
+---
+
+Section 2506 Ethylene Generators
+
+---
+
+## Section 2506.1: Ethylene Generators
+
+2506.1 Ethylene Generators
+Ethylene generators
+shall be listed and
+labeled
+by an
+approved testing laboratory
+and used only in
+approved
+rooms in accordance with the ethylene generator manufacturer's instructions. The listing evaluation shall include documentation that the concentration of ethylene gas does not exceed 25 percent of the
+lower explosive limit
+(
+LEL
+).
+
+---
+
+Ethylene generators
+shall be listed and
+labeled
+by an
+approved testing laboratory
+and used only in
+approved
+rooms in accordance with the ethylene generator manufacturer's instructions. The listing evaluation shall include documentation that the concentration of ethylene gas does not exceed 25 percent of the
+lower explosive limit
+(
+LEL
+).
+
+---
+
+## Section 2506.2: Ethylene Generator Rooms
+
+2506.2 Ethylene Generator Rooms
+Ethylene generators
+shall be used in rooms having a volume of not less than the minimum room size provided for in the manufacturer's specifications and testing laboratory listing, but in no case less than 1,000 cubic feet (28 m
+3
+). Rooms shall have air circulation to ensure even distribution of ethylene gas and shall be free from sparks,
+open flames
+or other ignition sources.
+
+---
+
+Ethylene generators
+shall be used in rooms having a volume of not less than the minimum room size provided for in the manufacturer's specifications and testing laboratory listing, but in no case less than 1,000 cubic feet (28 m
+3
+). Rooms shall have air circulation to ensure even distribution of ethylene gas and shall be free from sparks,
+open flames
+or other ignition sources.
+
+---
+
+Section 2507 Warning Signs
+
+---
+
+## Section 2507.1: Required Warning Sign
+
+2507.1 Required Warning Sign
+Approved
+warning signs identifying the hazard and indicating the danger involved and necessary precautions shall be posted on all doors and entrances to the
+premises
+in accordance with
+FC Chapter 50
+.
+
+---
+
+Approved
+warning signs identifying the hazard and indicating the danger involved and necessary precautions shall be posted on all doors and entrances to the
+premises
+in accordance with
+FC Chapter 50
+.
+
+---
+

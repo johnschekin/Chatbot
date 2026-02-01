@@ -1,0 +1,2811 @@
+# NYC Fire Code 2022 - Chapter 51
+
+New York City Fire Code 2022
+
+---
+
+Dedication
+
+---
+
+Effective Date of Local Laws
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Precautions Against Fire
+
+---
+
+Chapter 4 Emergency Planning and Preparedness
+
+---
+
+Chapter 5 Fire Operations Features
+
+---
+
+Chapter 6 Building Services and Systems
+
+---
+
+Chapter 7 Fire-Resistance-Rated Construction
+
+---
+
+Chapter 8 Interior Furnishings, Decorations and Scenery
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Through 19 Reserved
+
+---
+
+Chapter 20 Aviation Facilities and Operations
+
+---
+
+Chapter 21 Dry Cleaning
+
+---
+
+Chapter 22 Combustible Dust-Producing Operations
+
+---
+
+Chapter 23 Motor Fuel-Dispensing Facilities and Repair Garages
+
+---
+
+Chapter 24 Flammable Finishes
+
+---
+
+Chapter 25 Fruit and Crop Ripening
+
+---
+
+Chapter 26 Fumigation and Insecticidal Fogging
+
+---
+
+Chapter 27 Semiconductor Fabrication Facilities
+
+---
+
+Chapter 28 Lumber Yards and Wood Waste Materials
+
+---
+
+Chapter 29 Manufacture of Organic Coatings
+
+---
+
+Chapter 30 Industrial Furnaces
+
+---
+
+Chapter 31 Tents and Other Membrane Structures
+
+---
+
+Chapter 32 High-Piled Combustible Storage
+
+---
+
+Chapter 33 Fire Safety During Construction, Alteration and Demolition
+
+---
+
+Chapter 34 Tire Rebuilding and Tire Storage
+
+---
+
+Chapter 35 Welding and Other Hot Work
+
+---
+
+Chapter 36 Marinas
+
+---
+
+Chapter 37 Combustible Fibers
+
+---
+
+Chapter 38 Reserved
+
+---
+
+Chapter 39 Reserved
+
+---
+
+Chapter 40 Distilleries
+
+---
+
+Chapter 41 Through 49 Reserved
+
+---
+
+Chapter 50 Hazardous Materials—General Provisions
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+5101 General
+
+---
+
+5102 Definitions
+
+---
+
+5103 Classification of Aerosol Products
+
+---
+
+5104 Indoor Storage of Aerosol Products
+
+---
+
+5105 Outdoor Storage
+
+---
+
+5106 Retail Display
+
+---
+
+Chapter 52 Reserved
+
+---
+
+Chapter 53 Compressed Gases
+
+---
+
+Chapter 54 Corrosive Materials
+
+---
+
+Chapter 55 Cryogenic Fluids
+
+---
+
+Chapter 56 Explosives, Fireworks and Special Effects
+
+---
+
+Chapter 57 Flammable and Combustible Liquids
+
+---
+
+Chapter 58 Flammable Gases
+
+---
+
+Chapter 59 Flammable Solids
+
+---
+
+Chapter 60 Highly Toxic and Toxic Materials
+
+---
+
+Chapter 61 Liquefied Petroleum Gases
+
+---
+
+Chapter 62 Organic Peroxides
+
+---
+
+Chapter 63 Oxidizers, Oxidizing Gases and Oxidizing Cryogenic Fluids
+
+---
+
+Chapter 64 Pyrophoric Materials
+
+---
+
+Chapter 65 Pyroxylin Plastics
+
+---
+
+Chapter 66 Unstable (Reactive) Materials
+
+---
+
+Chapter 67 Water-Reactive Solids and Liquids
+
+---
+
+Chapter 68 Through 79 Reserved
+
+---
+
+Chapter 80 Referenced Standards
+
+---
+
+Appendix A Fees
+
+---
+
+Appendix B Referenced Standard Modifications
+
+---
+
+Chapter 51 Aerosols
+
+---
+
+Section 5101 General
+
+---
+
+## Section 5101.1: Scope
+
+5101.1 Scope
+This chapter shall govern the manufacture, storage,
+handling
+and use of combustible
+Level 1
+, 2 and 3
+aerosol
+products, including the display of such products in any building, structure
+or
+premises
+.
+
+---
+
+This chapter shall govern the manufacture, storage,
+handling
+and use of combustible
+Level 1
+, 2 and 3
+aerosol
+products, including the display of such products in any building, structure
+or
+premises
+.
+
+---
+
+## Section 5101.2: Permits
+
+5101.2 Permits
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+Permits
+shall be required as set forth in
+FC105.6
+.
+
+---
+
+## Section 5101.3: Supervision
+
+5101.3 Supervision
+The
+handling
+and use of
+aerosols
+in quantities requiring a
+permit
+shall be
+performed under the
+personal supervision
+of a person holding a
+certificate of fitness
+. The storage
+of
+aerosols
+in quantities requiring a
+permit
+shall be under the
+general supervision
+of a person
+holding a
+certificate of fitness
+.
+
+---
+
+The
+handling
+and use of
+aerosols
+in quantities requiring a
+permit
+shall be
+performed under the
+personal supervision
+of a person holding a
+certificate of fitness
+. The storage
+of
+aerosols
+in quantities requiring a
+permit
+shall be under the
+general supervision
+of a person
+holding a
+certificate of fitness
+.
+
+---
+
+## Section 5101.4: General
+
+5101.4 General
+Combustible
+Level 1
+, 2 and 3
+aerosol
+products shall be manufactured, stored,
+handled and used in accordance with this chapter, the
+construction codes
+, including the
+Building
+Code
+, and NFPA 30B.
+
+---
+
+Combustible
+Level 1
+, 2 and 3
+aerosol
+products shall be manufactured, stored,
+handled and used in accordance with this chapter, the
+construction codes
+, including the
+Building
+Code
+, and NFPA 30B.
+
+---
+
+## Section 5101.5: Manufacturing Prohibited
+
+5101.5 Manufacturing Prohibited
+It shall be unlawful to manufacture
+Level 1
+, 2 or 3
+aerosol
+products.
+
+---
+
+It shall be unlawful to manufacture
+Level 1
+, 2 or 3
+aerosol
+products.
+
+---
+
+## Section 5101.6: Aerosol Container Size Limitations
+
+5101.6 Aerosol Container Size Limitations
+It shall be unlawful to store, handle or use
+Level 1
+or 2
+aerosol
+products in metal cans exceeding 33.8 fluid ounces (1000 ml), or in glass or plastic bottles exceeding 4 fluid ounces (118 ml).
+Level 3
+aerosol
+products shall be stored, handled and used in
+containers
+with a maximum capacity of 24 fluid ounces (708 ml).
+Exceptions:
+Pressurized ether shall be stored, handled or used only in metal
+containers
+with a maximum capacity of 8 fluid ounces (236 ml).
+Level 1
+, 2 and 3 oven-cleaning
+aerosol
+products shall be stored, handled or used in
+containers
+with a maximum capacity of 16 fluid ounces (472 ml).
+Level 1
+or 2
+aerosol
+products in plastic
+containers
+exceeding 4 fluid ounces (118 ml) but not exceeding 33.8 fluid ounces (1000 ml), and
+Level 3
+aerosol
+products in plastic
+containers
+exceeding 4 fluid ounces (118 ml) but not exceeding 24 fluid ounces (708 ml), that meet one or more of the following conditions:
+Base product has no
+fire point
+when tested in accordance with ASTM D 92, and nonflammable
+propellant
+.
+Base product has no sustained combustion as tested in accordance with Appendix H, "Method of Testing for Sustained Combustibility in
+DOTn
+49 CFR Part 173."
+Base product contains up to 20 percent by volume (15.8 percent by weight) of
+ethanol
+and/or isopropyl alcohol in an aqueous mix, and nonflammable
+propellant
+.
+Base product contains 4 percent by weight or less of an emulsified
+flammable liquefied gas
+propellant
+within an aqueous base. The
+propellant
+shall remain emulsified for the life of the product. Where such
+propellant
+is not permanently emulsified, the
+propellant
+shall be nonflammable.
+
+---
+
+It shall be unlawful to store, handle or use
+Level 1
+or 2
+aerosol
+products in metal cans exceeding 33.8 fluid ounces (1000 ml), or in glass or plastic bottles exceeding 4 fluid ounces (118 ml).
+Level 3
+aerosol
+products shall be stored, handled and used in
+containers
+with a maximum capacity of 24 fluid ounces (708 ml).
+Exceptions:
+Pressurized ether shall be stored, handled or used only in metal
+containers
+with a maximum capacity of 8 fluid ounces (236 ml).
+Level 1
+, 2 and 3 oven-cleaning
+aerosol
+products shall be stored, handled or used in
+containers
+with a maximum capacity of 16 fluid ounces (472 ml).
+Level 1
+or 2
+aerosol
+products in plastic
+containers
+exceeding 4 fluid ounces (118 ml) but not exceeding 33.8 fluid ounces (1000 ml), and
+Level 3
+aerosol
+products in plastic
+containers
+exceeding 4 fluid ounces (118 ml) but not exceeding 24 fluid ounces (708 ml), that meet one or more of the following conditions:
+Base product has no
+fire point
+when tested in accordance with ASTM D 92, and nonflammable
+propellant
+.
+Base product has no sustained combustion as tested in accordance with Appendix H, "Method of Testing for Sustained Combustibility in
+DOTn
+49 CFR Part 173."
+Base product contains up to 20 percent by volume (15.8 percent by weight) of
+ethanol
+and/or isopropyl alcohol in an aqueous mix, and nonflammable
+propellant
+.
+Base product contains 4 percent by weight or less of an emulsified
+flammable liquefied gas
+propellant
+within an aqueous base. The
+propellant
+shall remain emulsified for the life of the product. Where such
+propellant
+is not permanently emulsified, the
+propellant
+shall be nonflammable.
+
+---
+
+Section 5102 Definitions
+
+---
+
+## Section 5102.1: Definitions
+
+5102.1 Definitions
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+AEROSOL
+.
+AEROSOL
+CONTAINER
+.
+AEROSOL WAREHOUSE
+.
+PROPELLANT
+.
+RETAIL DISPLAY AREA
+.
+
+---
+
+The following terms shall, for the purposes of this chapter and as used elsewhere in this code, have the meanings set forth in
+FC202
+.
+AEROSOL
+.
+AEROSOL
+CONTAINER
+.
+AEROSOL WAREHOUSE
+.
+PROPELLANT
+.
+RETAIL DISPLAY AREA
+.
+
+---
+
+Section 5103 Classification of Aerosol Products
+
+---
+
+## Section 5103.1: Classification Levels
+
+5103.1 Classification Levels
+Aerosol
+products shall be classified as
+Level 1
+, 2 or 3 in accordance
+with
+FC5102.1
+.
+Aerosol
+products in
+cartons
+which are not identified shall be classified as
+Level 3
+.
+
+---
+
+Aerosol
+products shall be classified as
+Level 1
+, 2 or 3 in accordance
+with
+FC5102.1
+.
+Aerosol
+products in
+cartons
+which are not identified shall be classified as
+Level 3
+.
+
+---
+
+## Section 5103.2: Identification
+
+5103.2 Identification
+Cartons
+shall be identified on at least one side with the classification level
+of the
+aerosol
+products contained within the
+carton
+as follows: LEVEL ________
+AEROSOLS
+.
+
+---
+
+Cartons
+shall be identified on at least one side with the classification level
+of the
+aerosol
+products contained within the
+carton
+as follows: LEVEL ________
+AEROSOLS
+.
+
+---
+
+Section 5104 Indoor Storage of Aerosol Products
+
+---
+
+## Section 5104.1: General
+
+5104.1 General
+Indoor
+storage of
+Level 2
+and 3
+aerosol
+products shall comply with the
+requirements of FC 5104.2 through 5104.7 and NFPA 30B. Level I
+aerosol
+products, and
+Level 1
+,
+2 and 3
+aerosol
+products in plastic
+containers
+covered by
+FC5101.6
+Exception 3, shall be deemed
+a Class III
+commodity
+and shall comply with the requirements for palletized or
+rack storage
+set
+forth in
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+Indoor
+storage of
+Level 2
+and 3
+aerosol
+products shall comply with the
+requirements of FC 5104.2 through 5104.7 and NFPA 30B. Level I
+aerosol
+products, and
+Level 1
+,
+2 and 3
+aerosol
+products in plastic
+containers
+covered by
+FC5101.6
+Exception 3, shall be deemed
+a Class III
+commodity
+and shall comply with the requirements for palletized or
+rack storage
+set
+forth in
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+## Section 5104.2: Storage in Buildings With Group A, B, E, F, I and R Occupancies
+
+5104.2 Storage in Buildings With Group A, B, E, F, I and R Occupancies
+Except as otherwise provided in
+FC5104.2.1
+, it shall be unlawful to store
+Level 2
+and 3
+aerosol
+products in excess of the following amounts in buildings that house
+Group A
+, B, E, F, I and R
+occupancies
+:
+A net weight of 1,000 pounds (454 kg) of
+Level 2
+aerosol
+products.
+A net weight of 500 pounds (227 kg) of
+Level 3
+aerosol
+products.
+A combined net weight of 1,000 pounds (454 kg) of
+Level 2
+and 3
+aerosol
+products.
+
+---
+
+Except as otherwise provided in
+FC5104.2.1
+, it shall be unlawful to store
+Level 2
+and 3
+aerosol
+products in excess of the following amounts in buildings that house
+Group A
+, B, E, F, I and R
+occupancies
+:
+A net weight of 1,000 pounds (454 kg) of
+Level 2
+aerosol
+products.
+A net weight of 500 pounds (227 kg) of
+Level 3
+aerosol
+products.
+A combined net weight of 1,000 pounds (454 kg) of
+Level 2
+and 3
+aerosol
+products.
+
+---
+
+## Section 5104.2.1: Excess Storage
+
+5104.2.1 Excess Storage
+Level 2
+and 3
+aerosol
+products exceeding the maximum quantities
+set forth in
+FC5104.2
+may be lawfully stored in accordance with
+FC 5104.2.1.1
+and
+5104.2.1.2
+.
+
+---
+
+Level 2
+and 3
+aerosol
+products exceeding the maximum quantities
+set forth in
+FC5104.2
+may be lawfully stored in accordance with
+FC 5104.2.1.1
+and
+5104.2.1.2
+.
+
+---
+
+## Section 5104.2.1.1: Storage Cabinets
+
+5104.2.1.1 Storage Cabinets
+Aerosol
+products in a quantity not to exceed 100 percent of
+the maximum storage limitation may be stored in storage cabinets in accordance with
+FC
+5704.3.2
+.
+
+---
+
+Aerosol
+products in a quantity not to exceed 100 percent of
+the maximum storage limitation may be stored in storage cabinets in accordance with
+FC
+5704.3.2
+.
+
+---
+
+## Section 5104.2.1.2: Storage Rooms
+
+5104.2.1.2 Storage Rooms
+Level 2
+and 3
+aerosol
+products in a quantity exceeding that set
+forth in
+FC5104.2
+may be lawfully stored
+indoors
+in a flammable
+liquid storage room
+in
+accordance with
+FC5104.5
+.
+
+---
+
+Level 2
+and 3
+aerosol
+products in a quantity exceeding that set
+forth in
+FC5104.2
+may be lawfully stored
+indoors
+in a flammable
+liquid storage room
+in
+accordance with
+FC5104.5
+.
+
+---
+
+## Section 5104.3: Storage in General Purpose Warehouses
+
+5104.3 Storage in General Purpose Warehouses
+Storage of
+aerosol
+products in
+general
+purpose
+warehouses, as defined in NFPA 30B, utilized only for warehousing-type operations involving
+mixed
+commodities
+shall comply with the requirements of
+FC 5104.3.1
+or
+5104.3.2
+.
+
+---
+
+Storage of
+aerosol
+products in
+general
+purpose
+warehouses, as defined in NFPA 30B, utilized only for warehousing-type operations involving
+mixed
+commodities
+shall comply with the requirements of
+FC 5104.3.1
+or
+5104.3.2
+.
+
+---
+
+## Section 5104.3.1: Nonsegregated Storage
+
+5104.3.1 Nonsegregated Storage
+Storage consisting of
+solid
+pile, palletized or
+rack storage
+of
+Level 2
+and 3
+aerosol
+products not segregated into areas utilized exclusively for the storage of
+aerosols
+shall comply with the requirements of FC Table 5104.3.1.
+FC
+TABLE 5104.3.1
+NONSEGREGATED STORAGE OF
+LEVEL 2
+AND 3
+AEROSOL
+PRODUCTS IN
+GENERAL
+PURPOSE WAREHOUSES
+b
+AEROSOL
+LEVEL
+MAXIMUM NET WEIGHT PER FLOOR (pounds)
+b
+Palletized or
+solid
+-pile storage
+Rack storage
+Unprotected
+Protected
+a
+Unprotected
+Protected
+a
+2
+2,500
+12,000
+2,500
+24,000
+3
+1,000
+12,000
+1,000
+24,000
+Combination 2 and 3
+2,500
+12,000
+2,500
+24,000
+For SI: 1 foot = 304.8 mm, 1 pound = 0.454 kg, 1 square foot = 0.0929 m
+2
+.
+Sprinkler system
+protection and storage arrangements shall comply with the requirements of NFPA 30B.
+Sprinkler system
+protection shall extend 20 feet beyond the storage area containing the
+aerosol
+products.
+Storage quantities indicated are the maximum allowed in any 50,000-square-foot area.
+
+---
+
+Storage consisting of
+solid
+pile, palletized or
+rack storage
+of
+Level 2
+and 3
+aerosol
+products not segregated into areas utilized exclusively for the storage of
+aerosols
+shall comply with the requirements of FC Table 5104.3.1.
+FC
+TABLE 5104.3.1
+NONSEGREGATED STORAGE OF
+LEVEL 2
+AND 3
+AEROSOL
+PRODUCTS IN
+GENERAL
+PURPOSE WAREHOUSES
+b
+AEROSOL
+LEVEL
+MAXIMUM NET WEIGHT PER FLOOR (pounds)
+b
+Palletized or
+solid
+-pile storage
+Rack storage
+Unprotected
+Protected
+a
+Unprotected
+Protected
+a
+2
+2,500
+12,000
+2,500
+24,000
+3
+1,000
+12,000
+1,000
+24,000
+Combination 2 and 3
+2,500
+12,000
+2,500
+24,000
+For SI: 1 foot = 304.8 mm, 1 pound = 0.454 kg, 1 square foot = 0.0929 m
+2
+.
+Sprinkler system
+protection and storage arrangements shall comply with the requirements of NFPA 30B.
+Sprinkler system
+protection shall extend 20 feet beyond the storage area containing the
+aerosol
+products.
+Storage quantities indicated are the maximum allowed in any 50,000-square-foot area.
+
+---
+
+## Section 5104.3.2: Segregated Storage
+
+5104.3.2 Segregated Storage
+Storage of
+Level 2
+and 3
+aerosol
+products segregated into areas utilized exclusively for the storage of
+aerosols
+shall be in accordance with FC Table 5104.3.2 and FC 5104.3.2.1 and 5104.3.2.2.
+FC
+TABLE 5104.3.2
+SEGREGATED STORAGE OF
+LEVEL 2
+AND 3
+AEROSOL
+PRODUCTS IN
+GENERAL
+PURPOSE WAREHOUSES
+STORAGE SEPARATION
+MAXIMUM SEGREGATED STORAGE AREA
+a
+SPRINKLER REQUIREMENTS
+Percentage of building area (percent)
+Area limitation (square feet)
+Separation area
+e, f
+15
+20,000
+Notes b, c
+Chain-link fence enclosure
+d
+20
+20,000
+Notes b, c
+1-hour
+fire
+-resistance-rated interior walls
+20
+30,000
+Note b
+2-hour
+fire
+-resistance-rated interior walls
+25
+40,000
+Note b
+3-hour
+fire
+-resistance-rated interior walls
+30
+50,000
+Note b
+For SI: 1 foot = 304.8 mm, 1 square foot = 0.0929 m
+2
+.
+The maximum segregated storage area shall be limited to the smaller of the two areas resulting from the percentage of building area limitation and the area limitation.
+Sprinkler system
+protection in
+aerosol
+product storage areas shall comply with the requirements of NFPA 30B and be
+approved
+. Other building areas not containing
+aerosol
+product storage shall be protected throughout by a
+sprinkler system
+in accordance with the
+construction codes
+, including the
+Building Code
+.
+Sprinkler system
+protection in
+aerosol
+product storage areas shall comply with the requirements of NFPA 30B and be
+approved
+.
+Sprinkler system
+protection shall extend a minimum 20 feet beyond the
+aerosol
+storage area.
+Chain-link fence enclosures shall comply with the requirements of
+FC5104.3.2.1
+.
+A separation area shall be defined as an area extending outward from the periphery of the segregated
+aerosol
+product storage area as follows.
+The limits of the
+aerosol
+product storage shall be clearly marked on the floor.
+The
+separation distance
+shall be a minimum of 25 feet and maintained clear of all materials with a
+commodity
+classification greater than Class Ill in accordance with
+NFPA 13
+, as modified by
+FC Appendix B
+.
+Separation areas shall be allowed when
+approved
+.
+
+---
+
+Storage of
+Level 2
+and 3
+aerosol
+products segregated into areas utilized exclusively for the storage of
+aerosols
+shall be in accordance with FC Table 5104.3.2 and FC 5104.3.2.1 and 5104.3.2.2.
+FC
+TABLE 5104.3.2
+SEGREGATED STORAGE OF
+LEVEL 2
+AND 3
+AEROSOL
+PRODUCTS IN
+GENERAL
+PURPOSE WAREHOUSES
+STORAGE SEPARATION
+MAXIMUM SEGREGATED STORAGE AREA
+a
+SPRINKLER REQUIREMENTS
+Percentage of building area (percent)
+Area limitation (square feet)
+Separation area
+e, f
+15
+20,000
+Notes b, c
+Chain-link fence enclosure
+d
+20
+20,000
+Notes b, c
+1-hour
+fire
+-resistance-rated interior walls
+20
+30,000
+Note b
+2-hour
+fire
+-resistance-rated interior walls
+25
+40,000
+Note b
+3-hour
+fire
+-resistance-rated interior walls
+30
+50,000
+Note b
+For SI: 1 foot = 304.8 mm, 1 square foot = 0.0929 m
+2
+.
+The maximum segregated storage area shall be limited to the smaller of the two areas resulting from the percentage of building area limitation and the area limitation.
+Sprinkler system
+protection in
+aerosol
+product storage areas shall comply with the requirements of NFPA 30B and be
+approved
+. Other building areas not containing
+aerosol
+product storage shall be protected throughout by a
+sprinkler system
+in accordance with the
+construction codes
+, including the
+Building Code
+.
+Sprinkler system
+protection in
+aerosol
+product storage areas shall comply with the requirements of NFPA 30B and be
+approved
+.
+Sprinkler system
+protection shall extend a minimum 20 feet beyond the
+aerosol
+storage area.
+Chain-link fence enclosures shall comply with the requirements of
+FC5104.3.2.1
+.
+A separation area shall be defined as an area extending outward from the periphery of the segregated
+aerosol
+product storage area as follows.
+The limits of the
+aerosol
+product storage shall be clearly marked on the floor.
+The
+separation distance
+shall be a minimum of 25 feet and maintained clear of all materials with a
+commodity
+classification greater than Class Ill in accordance with
+NFPA 13
+, as modified by
+FC Appendix B
+.
+Separation areas shall be allowed when
+approved
+.
+
+---
+
+## Section 5104.3.2.1: Chain-Link Fence Enclosures
+
+5104.3.2.1 Chain-Link Fence Enclosures
+Chain-link fence enclosures required by FC
+Table 5104.3.2
+shall comply with the following requirements:
+The fence shall not be less than No. 9 gauge
+steel
+wire, woven into a maximum 2-inch (51-mm) diamond mesh.
+The fence shall be installed from the floor to the underside of the roof or ceiling above.
+Class IV and high-hazard
+commodities
+shall be stored outside of the
+aerosol
+storage area and a minimum of 8 feet (2438 mm) from the fence.
+Access openings in the fence shall be provided with either self-closing or
+automatic
+-closing devices or a labyrinth opening arrangement preventing
+aerosol containers
+from rocketing through the access openings.
+Not less than two
+means of egress
+shall be provided from the fenced enclosure.
+
+---
+
+Chain-link fence enclosures required by FC
+Table 5104.3.2
+shall comply with the following requirements:
+The fence shall not be less than No. 9 gauge
+steel
+wire, woven into a maximum 2-inch (51-mm) diamond mesh.
+The fence shall be installed from the floor to the underside of the roof or ceiling above.
+Class IV and high-hazard
+commodities
+shall be stored outside of the
+aerosol
+storage area and a minimum of 8 feet (2438 mm) from the fence.
+Access openings in the fence shall be provided with either self-closing or
+automatic
+-closing devices or a labyrinth opening arrangement preventing
+aerosol containers
+from rocketing through the access openings.
+Not less than two
+means of egress
+shall be provided from the fenced enclosure.
+
+---
+
+## Section 5104.3.2.2: Aisles
+
+5104.3.2.2 Aisles
+The minimum aisle requirements for segregated storage in
+general
+purpose warehouses shall be in accordance with FC
+Table 5104.3.2
+.2.
+FC
+TABLE 5104.3.2.2
+SEGREGATED STORAGE AISLE WIDTHS AND DISTANCE TO AISLES IN
+GENERAL
+PURPOSE WAREHOUSES
+STORAGE CONDITION
+MINIMUM AISLE WIDTH (feet)
+MAXIMUM DISTANCE FROM STORAGE TO AISLE (feet)
+Solid
+pile or palletized
+a
+4 feet between piles
+25
+Racks with ESFR sprinklers
+a
+4 feet between racks and adjacent
+Level 2
+and 3
+aerosol
+product storage
+25
+Racks without ESFR sprinklers
+a
+8 feet between racks and adjacent
+Level 2
+and 3
+aerosol
+product storage
+25
+For SI: 1 foot = 304.8 mm.
+Sprinklers shall comply with the requirements of NFPA 30B.
+
+---
+
+The minimum aisle requirements for segregated storage in
+general
+purpose warehouses shall be in accordance with FC
+Table 5104.3.2
+.2.
+FC
+TABLE 5104.3.2.2
+SEGREGATED STORAGE AISLE WIDTHS AND DISTANCE TO AISLES IN
+GENERAL
+PURPOSE WAREHOUSES
+STORAGE CONDITION
+MINIMUM AISLE WIDTH (feet)
+MAXIMUM DISTANCE FROM STORAGE TO AISLE (feet)
+Solid
+pile or palletized
+a
+4 feet between piles
+25
+Racks with ESFR sprinklers
+a
+4 feet between racks and adjacent
+Level 2
+and 3
+aerosol
+product storage
+25
+Racks without ESFR sprinklers
+a
+8 feet between racks and adjacent
+Level 2
+and 3
+aerosol
+product storage
+25
+For SI: 1 foot = 304.8 mm.
+Sprinklers shall comply with the requirements of NFPA 30B.
+
+---
+
+## Section 5104.4: Storage in Aerosol Warehouses
+
+5104.4 Storage in Aerosol Warehouses
+The total quantity of
+Level 2
+and 3
+aerosol
+products stored in an
+aerosol warehouse
+shall not be restricted provided such warehouse complies with the requirements of
+FC 5104.4.1
+through
+5104.4.4
+.
+
+---
+
+The total quantity of
+Level 2
+and 3
+aerosol
+products stored in an
+aerosol warehouse
+shall not be restricted provided such warehouse complies with the requirements of
+FC 5104.4.1
+through
+5104.4.4
+.
+
+---
+
+## Section 5104.4.1: Sprinkler System
+
+5104.4.1 Sprinkler System
+Aerosol warehouses
+shall be protected throughout by a wet-pipe
+sprinkler system
+in accordance with NFPA 30B. Sprinkler protection shall be designed based
+on the highest classification level of
+aerosol
+product present.
+
+---
+
+Aerosol warehouses
+shall be protected throughout by a wet-pipe
+sprinkler system
+in accordance with NFPA 30B. Sprinkler protection shall be designed based
+on the highest classification level of
+aerosol
+product present.
+
+---
+
+## Section 5104.4.2: Pile and Palletized Storage Aisles
+
+5104.4.2 Pile and Palletized Storage Aisles
+Solid
+pile and palletized storage shall be arranged
+so the maximum travel distance to an aisle is 25 feet (7620 mm). Aisles shall have a minimum
+width of 4 feet (1219 mm).
+
+---
+
+Solid
+pile and palletized storage shall be arranged
+so the maximum travel distance to an aisle is 25 feet (7620 mm). Aisles shall have a minimum
+width of 4 feet (1219 mm).
+
+---
+
+## Section 5104.4.3: Rack Storage Aisles
+
+5104.4.3 Rack Storage Aisles
+Rack storage
+shall be arranged with a minimum aisle width of
+8 feet (2438 mm) between rows of racks and 8 feet (2438 mm) between racks and adjacent
+solid
+pile or palletized storage. Where early suppression fast-response (
+ESFR
+) sprinklers
+provide sprinkler protection, the minimum aisle width shall be 4 feet (1219 mm).
+
+---
+
+Rack storage
+shall be arranged with a minimum aisle width of
+8 feet (2438 mm) between rows of racks and 8 feet (2438 mm) between racks and adjacent
+solid
+pile or palletized storage. Where early suppression fast-response (
+ESFR
+) sprinklers
+provide sprinkler protection, the minimum aisle width shall be 4 feet (1219 mm).
+
+---
+
+## Section 5104.4.4: Combustible Commodities
+
+5104.4.4 Combustible Commodities
+Combustible
+commodities
+, other than flammable and
+combustible liquids
+, may be stored in an
+aerosol warehouse
+.
+Exception:
+Flammable and
+combustible liquids
+in 1-quart (0.95 L) metal
+containers
+and smaller may be stored in an
+aerosol warehouse
+.
+
+---
+
+Combustible
+commodities
+, other than flammable and
+combustible liquids
+, may be stored in an
+aerosol warehouse
+.
+Exception:
+Flammable and
+combustible liquids
+in 1-quart (0.95 L) metal
+containers
+and smaller may be stored in an
+aerosol warehouse
+.
+
+---
+
+## Section 5104.5: Storage in Indoor Flammable Liquid Storage Rooms
+
+5104.5 Storage in Indoor Flammable Liquid Storage Rooms
+Indoor
+flammable liquid
+storage
+rooms shall comply with the requirements of
+FC5704.3.7
+. The maximum quantities of
+aerosol
+products shall comply with the requirements of
+FC 5104.5.1
+or
+5104.5.2
+.
+
+---
+
+Indoor
+flammable liquid
+storage
+rooms shall comply with the requirements of
+FC5704.3.7
+. The maximum quantities of
+aerosol
+products shall comply with the requirements of
+FC 5104.5.1
+or
+5104.5.2
+.
+
+---
+
+## Section 5104.5.1: Storage Rooms of 500 Square Feet or Less
+
+5104.5.1 Storage Rooms of 500 Square Feet or Less
+The storage of
+aerosol
+products in flammable
+liquid storage rooms
+less than or equal to 500 square feet (46 m
+2
+) in area shall not exceed the following quantities:
+A net weight of 1,000 pounds (454 kg) of
+Level 2
+aerosol
+products.
+A net weight of 500 pounds (227 kg) of
+Level 3
+aerosol
+products.
+A combined net weight of 1,000 pounds (454 kg) of
+Level 2
+and 3
+aerosol
+products.
+
+---
+
+The storage of
+aerosol
+products in flammable
+liquid storage rooms
+less than or equal to 500 square feet (46 m
+2
+) in area shall not exceed the following quantities:
+A net weight of 1,000 pounds (454 kg) of
+Level 2
+aerosol
+products.
+A net weight of 500 pounds (227 kg) of
+Level 3
+aerosol
+products.
+A combined net weight of 1,000 pounds (454 kg) of
+Level 2
+and 3
+aerosol
+products.
+
+---
+
+## Section 5104.5.2: Storage Rooms Greater Than 500 Square Feet
+
+5104.5.2 Storage Rooms Greater Than 500 Square Feet
+The storage of
+aerosol
+products in flammable
+liquid storage rooms
+greater than 500 square feet (46 m
+2
+) in area shall not exceed the following quantities:
+A net weight of 2,500 pounds (1135 kg) of
+Level 2
+aerosol
+products.
+A net weight of 1,000 pounds (454 kg) of
+Level 3
+aerosol
+products.
+A combined net weight of 2,500 pounds (1135 kg) of
+Level 2
+and 3
+aerosol
+products. The maximum aggregate storage quantity of
+Level 2
+and 3
+aerosol
+products allowed in separate
+indoor
+storage rooms protected by a
+sprinkler system
+in accordance with NFPA 30B shall be 5,000 pounds (2270 kg).
+
+---
+
+The storage of
+aerosol
+products in flammable
+liquid storage rooms
+greater than 500 square feet (46 m
+2
+) in area shall not exceed the following quantities:
+A net weight of 2,500 pounds (1135 kg) of
+Level 2
+aerosol
+products.
+A net weight of 1,000 pounds (454 kg) of
+Level 3
+aerosol
+products.
+A combined net weight of 2,500 pounds (1135 kg) of
+Level 2
+and 3
+aerosol
+products. The maximum aggregate storage quantity of
+Level 2
+and 3
+aerosol
+products allowed in separate
+indoor
+storage rooms protected by a
+sprinkler system
+in accordance with NFPA 30B shall be 5,000 pounds (2270 kg).
+
+---
+
+## Section 5104.6: Storage in Liquid Warehouses
+
+5104.6 Storage in Liquid Warehouses
+The storage of
+Level 2
+and 3
+aerosol
+products in
+liquid
+warehouses, as defined in NFPA 30B, shall comply with the requirements of NFPA 30B. The
+storage shall be located within segregated storage areas in accordance with
+FC5104.3.2
+and FC
+5104.6.1
+through
+5104.6.3
+.
+
+---
+
+The storage of
+Level 2
+and 3
+aerosol
+products in
+liquid
+warehouses, as defined in NFPA 30B, shall comply with the requirements of NFPA 30B. The
+storage shall be located within segregated storage areas in accordance with
+FC5104.3.2
+and FC
+5104.6.1
+through
+5104.6.3
+.
+
+---
+
+## Section 5104.6.1: Containment
+
+5104.6.1 Containment
+Spill control or drainage shall be provided to prevent the flow of
+liquid
+to within 8 feet (2438 mm) of the segregated storage area.
+
+---
+
+Spill control or drainage shall be provided to prevent the flow of
+liquid
+to within 8 feet (2438 mm) of the segregated storage area.
+
+---
+
+## Section 5104.6.2: Sprinkler Design
+
+5104.6.2 Sprinkler Design
+Sprinkler protection shall be designed based on the highest level
+of
+aerosol
+product present.
+
+---
+
+Sprinkler protection shall be designed based on the highest level
+of
+aerosol
+product present.
+
+---
+
+## Section 5104.6.3: Opening Protection Into Segregated Storage Areas
+
+5104.6.3 Opening Protection Into Segregated Storage Areas
+Fire
+doors or gates opening into
+the segregated storage area shall either be self-closing or provided with
+automatic
+-closing
+devices activated by sprinkler water flow or an
+approved
+fire
+detection
+system
+.
+
+---
+
+Fire
+doors or gates opening into
+the segregated storage area shall either be self-closing or provided with
+automatic
+-closing
+devices activated by sprinkler water flow or an
+approved
+fire
+detection
+system
+.
+
+---
+
+## Section 5104.7: Storage in Group M Occupancies
+
+5104.7 Storage in Group M Occupancies
+Storage of
+Level 2
+and 3
+aerosol
+products in
+occupancies
+in
+Group M
+shall comply with the requirements of FC Table 5104.7. Retail display shall comply with the requirements of
+FC5106
+.
+FC
+TABLE 5104.7
+MAXIMUM QUANTITIES OF
+LEVEL 2
+AND 3
+AEROSOL
+PRODUCTS IN RETAIL STORAGE AREAS
+MAXIMUM NET WEIGHT PER FLOOR (pounds)
+Floor
+Nonsegregated storage
+a, b
+Segregated storage
+Storage cabinets
+b
+Separated from retail area
+c
+Basement, cellar or other area
+below grade
+Not permitted
+Not permitted
+Not permitted
+Ground floor
+2,500
+5,000
+Note d
+Upper floors
+500
+1,000
+Note d
+For SI: 1 pound = 0.454 kg, 1 square foot = 0.0929 m
+2
+.
+The total aggregate quantity on display and in storage shall not exceed the maximum retail display quantity indicated in
+FC5106.3
+.
+Storage quantities indicated are the maximum allowed in any 50,000-square-foot area.
+The storage area shall be separated from the retail area with a 1-hour
+fire
+-resistance-rated assembly.
+See FC
+Table 5104.3.2
+.
+
+---
+
+Storage of
+Level 2
+and 3
+aerosol
+products in
+occupancies
+in
+Group M
+shall comply with the requirements of FC Table 5104.7. Retail display shall comply with the requirements of
+FC5106
+.
+FC
+TABLE 5104.7
+MAXIMUM QUANTITIES OF
+LEVEL 2
+AND 3
+AEROSOL
+PRODUCTS IN RETAIL STORAGE AREAS
+MAXIMUM NET WEIGHT PER FLOOR (pounds)
+Floor
+Nonsegregated storage
+a, b
+Segregated storage
+Storage cabinets
+b
+Separated from retail area
+c
+Basement, cellar or other area
+below grade
+Not permitted
+Not permitted
+Not permitted
+Ground floor
+2,500
+5,000
+Note d
+Upper floors
+500
+1,000
+Note d
+For SI: 1 pound = 0.454 kg, 1 square foot = 0.0929 m
+2
+.
+The total aggregate quantity on display and in storage shall not exceed the maximum retail display quantity indicated in
+FC5106.3
+.
+Storage quantities indicated are the maximum allowed in any 50,000-square-foot area.
+The storage area shall be separated from the retail area with a 1-hour
+fire
+-resistance-rated assembly.
+See FC
+Table 5104.3.2
+.
+
+---
+
+Section 5105 Outdoor Storage
+
+---
+
+## Section 5105.1: General
+
+5105.1 General
+The outdoor storage of
+Level 2
+and 3
+aerosol
+products, including storage in temporary storage trailers, shall be separated from exposures in accordance with FC
+Table 5105.1
+.
+FC
+TABLE 5105.1
+DISTANCE TO EXPOSURES FOR OUTDOOR STORAGE OF
+LEVEL 2
+AND 3
+AEROSOL
+PRODUCTS
+EXPOSURE
+MINIMUM DISTANCE FROM
+AEROSOL
+STORAGE (feet)
+a
+Public streets
+or
+private roads
+20
+Buildings
+50
+Exit discharge
+to a
+public street
+or
+private road
+50
+Lot lines
+20
+Other outdoor hazardous material storage
+50
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
+The minimum
+separation distance
+indicated is not required where exterior walls having a 2-hour
+fire
+-resistance rating without penetrations separate the storage from the exposure. The walls shall extend not less than 30 inches above and to the sides of
+Level 2
+and 3
+aerosol
+products.
+
+---
+
+The outdoor storage of
+Level 2
+and 3
+aerosol
+products, including storage in temporary storage trailers, shall be separated from exposures in accordance with FC
+Table 5105.1
+.
+FC
+TABLE 5105.1
+DISTANCE TO EXPOSURES FOR OUTDOOR STORAGE OF
+LEVEL 2
+AND 3
+AEROSOL
+PRODUCTS
+EXPOSURE
+MINIMUM DISTANCE FROM
+AEROSOL
+STORAGE (feet)
+a
+Public streets
+or
+private roads
+20
+Buildings
+50
+Exit discharge
+to a
+public street
+or
+private road
+50
+Lot lines
+20
+Other outdoor hazardous material storage
+50
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
+The minimum
+separation distance
+indicated is not required where exterior walls having a 2-hour
+fire
+-resistance rating without penetrations separate the storage from the exposure. The walls shall extend not less than 30 inches above and to the sides of
+Level 2
+and 3
+aerosol
+products.
+
+---
+
+Section 5106 Retail Display
+
+---
+
+## Section 5106.1: General
+
+5106.1 General
+This section shall apply to the retail display of
+Level 2
+and 3
+aerosol
+products.
+
+---
+
+This section shall apply to the retail display of
+Level 2
+and 3
+aerosol
+products.
+
+---
+
+## Section 5106.2: Retail Aerosol Product Displays Not Exceeding 8 Feet High
+
+5106.2 Retail Aerosol Product Displays Not Exceeding 8 Feet High
+Aerosol
+product displays for
+retail sale not exceeding 8 feet (2438 mm) in height shall comply with the requirements of FC
+5106.2.1
+through
+5106.2.4
+.
+
+---
+
+Aerosol
+product displays for
+retail sale not exceeding 8 feet (2438 mm) in height shall comply with the requirements of FC
+5106.2.1
+through
+5106.2.4
+.
+
+---
+
+## Section 5106.2.1: Maximum Quantity
+
+5106.2.1 Maximum Quantity
+Only
+aerosol
+products being used for display purposes shall be stored for sale in
+retail display areas
+and the total quantity of such
+aerosol
+products shall not exceed the amounts set forth in FC Table 5106.2.1.
+FC
+TABLE 5106.2.1
+MAXIMUM QUANTITIES OF
+LEVEL 2
+AND 3
+AEROSOL
+PRODUCTS IN
+RETAIL DISPLAY AREAS
+MAXIMUM NET WEIGHT PER FLOOR (pounds)
+b
+FLOOR
+Unprotected
+a
+Protected in accordance with
+FC5106.2
+a, c
+Protected in accordance with
+FC5106.3
+c
+Basement, cellar or other area below grade
+Not allowed
+500
+500
+Ground
+2,500
+10,000
+10,000
+Upper
+500
+2,000
+Not allowed
+For SI: 1 pound = 0.454 kg, 1 square foot = 0.0929 m
+2
+.
+The total quantity shall not exceed 1,000 pounds net weight in any one 100-square-foot
+retail display area
+.
+Per 25,000-square-foot
+retail display area
+.
+Minimum Ordinary Hazard Group 2 wet-pipe
+sprinkler system
+throughout the retail sales
+occupancy
+.
+
+---
+
+Only
+aerosol
+products being used for display purposes shall be stored for sale in
+retail display areas
+and the total quantity of such
+aerosol
+products shall not exceed the amounts set forth in FC Table 5106.2.1.
+FC
+TABLE 5106.2.1
+MAXIMUM QUANTITIES OF
+LEVEL 2
+AND 3
+AEROSOL
+PRODUCTS IN
+RETAIL DISPLAY AREAS
+MAXIMUM NET WEIGHT PER FLOOR (pounds)
+b
+FLOOR
+Unprotected
+a
+Protected in accordance with
+FC5106.2
+a, c
+Protected in accordance with
+FC5106.3
+c
+Basement, cellar or other area below grade
+Not allowed
+500
+500
+Ground
+2,500
+10,000
+10,000
+Upper
+500
+2,000
+Not allowed
+For SI: 1 pound = 0.454 kg, 1 square foot = 0.0929 m
+2
+.
+The total quantity shall not exceed 1,000 pounds net weight in any one 100-square-foot
+retail display area
+.
+Per 25,000-square-foot
+retail display area
+.
+Minimum Ordinary Hazard Group 2 wet-pipe
+sprinkler system
+throughout the retail sales
+occupancy
+.
+
+---
+
+## Section 5106.2.2: Display of Containers
+
+5106.2.2 Display of Containers
+Aerosol containers
+shall not be stacked more than 6 feet (1829 mm) high from the base of the
+aerosol
+array
+to the top of the
+aerosol
+array
+unless the
+containers
+are placed on fixed shelving or otherwise secured in an
+approved
+manner. When storage or retail display is on shelves, the height of such storage or retail display to the top of
+aerosol containers
+shall not exceed 8 feet (2438 mm) from the floor.
+Exception:
+Storage or display protected in accordance with
+FC5106.3
+.
+
+---
+
+Aerosol containers
+shall not be stacked more than 6 feet (1829 mm) high from the base of the
+aerosol
+array
+to the top of the
+aerosol
+array
+unless the
+containers
+are placed on fixed shelving or otherwise secured in an
+approved
+manner. When storage or retail display is on shelves, the height of such storage or retail display to the top of
+aerosol containers
+shall not exceed 8 feet (2438 mm) from the floor.
+Exception:
+Storage or display protected in accordance with
+FC5106.3
+.
+
+---
+
+## Section 5106.2.3: Combustible Cartons
+
+5106.2.3 Combustible Cartons
+Aerosol
+products located in
+retail display areas
+shall be removed from combustible
+cartons
+.
+Exceptions:
+Display areas that use a portion of combustible
+cartons
+, which consist of only the bottom panel and not more than 2 inches (51 mm) of side panel are allowed.
+When the display area is protected in accordance with Tables 6.3.2.7(a) through 6.3.2.7(l) of NFPA 30B, storage of
+aerosol
+products in combustible
+cartons
+is allowed.
+
+---
+
+Aerosol
+products located in
+retail display areas
+shall be removed from combustible
+cartons
+.
+Exceptions:
+Display areas that use a portion of combustible
+cartons
+, which consist of only the bottom panel and not more than 2 inches (51 mm) of side panel are allowed.
+When the display area is protected in accordance with Tables 6.3.2.7(a) through 6.3.2.7(l) of NFPA 30B, storage of
+aerosol
+products in combustible
+cartons
+is allowed.
+
+---
+
+## Section 5106.2.4: Retail Display Sprinkler System
+
+5106.2.4 Retail Display Sprinkler System
+When a
+sprinkler system
+is required for the
+protected retail display of
+aerosol
+products, the wet-pipe
+sprinkler system
+shall be in accordance with this code, and the
+construction codes
+, including the
+Building Code
+. The
+minimum
+system
+design shall be for an Ordinary Hazard Group 2
+occupancy
+. The
+system
+shall
+be provided throughout the
+retail display area
+.
+
+---
+
+When a
+sprinkler system
+is required for the
+protected retail display of
+aerosol
+products, the wet-pipe
+sprinkler system
+shall be in accordance with this code, and the
+construction codes
+, including the
+Building Code
+. The
+minimum
+system
+design shall be for an Ordinary Hazard Group 2
+occupancy
+. The
+system
+shall
+be provided throughout the
+retail display area
+.
+
+---
+
+## Section 5106.3: Retail Aerosol Displays Exceeding 8 Feet High
+
+5106.3 Retail Aerosol Displays Exceeding 8 Feet High
+Aerosol
+product displays for retail sale
+exceeding 8 feet (2438 mm) in height shall comply with the requirements of
+FC 5106.3.1
+through
+5106.3.3
+.
+
+---
+
+Aerosol
+product displays for retail sale
+exceeding 8 feet (2438 mm) in height shall comply with the requirements of
+FC 5106.3.1
+through
+5106.3.3
+.
+
+---
+
+## Section 5106.3.1: Maximum Quantity
+
+5106.3.1 Maximum Quantity
+Only
+aerosol
+products being used for display purposes shall be
+stored for sale in
+retail display areas
+and the total quantity of such
+aerosol
+products shall not
+exceed the amounts set forth in FC
+Table 5106.2.1
+.
+
+---
+
+Only
+aerosol
+products being used for display purposes shall be
+stored for sale in
+retail display areas
+and the total quantity of such
+aerosol
+products shall not
+exceed the amounts set forth in FC
+Table 5106.2.1
+.
+
+---
+
+## Section 5106.3.2: Fire Protection
+
+5106.3.2 Fire Protection
+Aerosol
+displays shall be protected by a
+sprinkler system
+in accordance with NFPA 30B and the following requirements:
+The
+fire
+protection required for a retail display of
+aerosol
+products shall be determined based on the height of the
+aerosol
+products in the display and the type of packaging in which
+aerosol
+products displayed more than 6 feet (1829 mm) above the finished floor are stored.
+Uncartoned
+Level 2
+and 3
+aerosols
+and
+Level 2
+and 3
+aerosols
+in display-cut
+cartons
+may be displayed not more than 6 feet (1829 mm) above the finished floor when applying the cartoned
+aerosol
+display tables set forth in NFPA 30B.
+Where sprinkler protection is provided for a
+Level 2
+or 3
+aerosol
+retail display area
+, such
+sprinkler system
+shall be designed to extend coverage to an area not less than 20 feet (6096 mm) in all directions beyond the display area.
+Where ordinary and high-temperature ceiling
+sprinkler systems
+are adjacent to each other, noncombustible
+draft curtains
+shall be installed between the areas protected by the respective
+sprinkler systems
+.
+
+---
+
+Aerosol
+displays shall be protected by a
+sprinkler system
+in accordance with NFPA 30B and the following requirements:
+The
+fire
+protection required for a retail display of
+aerosol
+products shall be determined based on the height of the
+aerosol
+products in the display and the type of packaging in which
+aerosol
+products displayed more than 6 feet (1829 mm) above the finished floor are stored.
+Uncartoned
+Level 2
+and 3
+aerosols
+and
+Level 2
+and 3
+aerosols
+in display-cut
+cartons
+may be displayed not more than 6 feet (1829 mm) above the finished floor when applying the cartoned
+aerosol
+display tables set forth in NFPA 30B.
+Where sprinkler protection is provided for a
+Level 2
+or 3
+aerosol
+retail display area
+, such
+sprinkler system
+shall be designed to extend coverage to an area not less than 20 feet (6096 mm) in all directions beyond the display area.
+Where ordinary and high-temperature ceiling
+sprinkler systems
+are adjacent to each other, noncombustible
+draft curtains
+shall be installed between the areas protected by the respective
+sprinkler systems
+.
+
+---
+
+## Section 5106.3.3: Fire Separation
+
+5106.3.3 Fire Separation
+Retail displays of
+Level 2
+and 3
+aerosol
+products shall comply with the following
+separation distance
+requirements:
+Level 2
+and 3
+aerosol
+display areas shall be separated from each other by not less than 25 feet (7620 mm).
+Level 2
+and 3
+aerosol
+displays shall be separated from flammable and
+combustible liquids
+storage and display areas by one or more of the following measures:
+A horizontal distance of not less than 25 feet (7620 mm).
+A noncombustible partition extending not less than 18 inches (457 mm) above the merchandise. When the
+aerosol
+products are located within 25 feet (7620 mm) of flammable or
+combustible liquids
+, the noncombustible partition shall be
+liquid
+tight at the floor level.
+Special
+fire
+protection for double-row racks in accordance with
+FC5106.5
+.
+
+---
+
+Retail displays of
+Level 2
+and 3
+aerosol
+products shall comply with the following
+separation distance
+requirements:
+Level 2
+and 3
+aerosol
+display areas shall be separated from each other by not less than 25 feet (7620 mm).
+Level 2
+and 3
+aerosol
+displays shall be separated from flammable and
+combustible liquids
+storage and display areas by one or more of the following measures:
+A horizontal distance of not less than 25 feet (7620 mm).
+A noncombustible partition extending not less than 18 inches (457 mm) above the merchandise. When the
+aerosol
+products are located within 25 feet (7620 mm) of flammable or
+combustible liquids
+, the noncombustible partition shall be
+liquid
+tight at the floor level.
+Special
+fire
+protection for double-row racks in accordance with
+FC5106.5
+.
+
+---
+
+## Section 5106.4: Maximum Quantities in Storage Areas
+
+5106.4 Maximum Quantities in Storage Areas
+Aerosol
+products in storage areas adjacent to
+retail display areas
+shall not exceed the quantities in FC Table 5106.4.
+FC
+TABLE 5106.4
+MAXIMUM STORAGE QUANTITIES FOR STORAGE AREAS ADJACENT TO RETAIL DISPLAY OF
+LEVEL 2
+AND
+LEVEL 3
+AEROSOLS
+MAXIMUM NET WEIGHT PER FLOOR (pounds)
+Floor
+Unseparated
+a, b
+Separated
+Storage cabinets
+b
+1-hour
+occupancy
+separation
+Basement, cellar or other area below grade
+Not allowed
+Not allowed
+Not allowed
+Ground
+2,500
+5,000
+In accordance with NFPA 30B, Sections 6.3.4.3 and 6.3.4.4
+Upper
+500
+1,000
+In accordance with NFPA 30B, Sections 6.3.4.3 and 6.3.4.4
+For SI: 1 pound = 0.454 kg, 1 square foot = 0.0929 m
+2
+.
+The aggregate quantity in storage and retail display shall not exceed the quantity limits for retail display.
+In any 50,000-square-foot area.
+
+---
+
+Aerosol
+products in storage areas adjacent to
+retail display areas
+shall not exceed the quantities in FC Table 5106.4.
+FC
+TABLE 5106.4
+MAXIMUM STORAGE QUANTITIES FOR STORAGE AREAS ADJACENT TO RETAIL DISPLAY OF
+LEVEL 2
+AND
+LEVEL 3
+AEROSOLS
+MAXIMUM NET WEIGHT PER FLOOR (pounds)
+Floor
+Unseparated
+a, b
+Separated
+Storage cabinets
+b
+1-hour
+occupancy
+separation
+Basement, cellar or other area below grade
+Not allowed
+Not allowed
+Not allowed
+Ground
+2,500
+5,000
+In accordance with NFPA 30B, Sections 6.3.4.3 and 6.3.4.4
+Upper
+500
+1,000
+In accordance with NFPA 30B, Sections 6.3.4.3 and 6.3.4.4
+For SI: 1 pound = 0.454 kg, 1 square foot = 0.0929 m
+2
+.
+The aggregate quantity in storage and retail display shall not exceed the quantity limits for retail display.
+In any 50,000-square-foot area.
+
+---
+
+## Section 5106.5: Special Protection Design for Level 2 and 3 Aerosols Adjacent to Flammable and Combustible Liquids in Double-Row Racks
+
+5106.5 Special Protection Design for Level 2 and 3 Aerosols Adjacent to Flammable and Combustible Liquids in Double-Row Racks
+The display of
+Level 2
+and 3
+aerosols
+adjacent to
+flammable and
+combustible liquids
+in double-row racks shall be in accordance with
+FC 5106.5.1
+through
+5106.5.8
+or
+FC5106.3.3
+.
+
+---
+
+The display of
+Level 2
+and 3
+aerosols
+adjacent to
+flammable and
+combustible liquids
+in double-row racks shall be in accordance with
+FC 5106.5.1
+through
+5106.5.8
+or
+FC5106.3.3
+.
+
+---
+
+## Section 5106.5.1: Fire Protection
+
+5106.5.1 Fire Protection
+Fire
+protection for the display of
+Level 2
+and 3
+aerosols
+in double-row racks shall be in accordance with Table 7.4.1 and Figure 7.4.1 of NFPA 30B.
+
+---
+
+Fire
+protection for the display of
+Level 2
+and 3
+aerosols
+in double-row racks shall be in accordance with Table 7.4.1 and Figure 7.4.1 of NFPA 30B.
+
+---
+
+## Section 5106.5.2: Cartoned Products
+
+5106.5.2 Cartoned Products
+Level 2
+and 3
+aerosols
+displayed more than 8 feet (2438 mm) above the finished floor shall be in
+cartons
+.
+
+---
+
+Level 2
+and 3
+aerosols
+displayed more than 8 feet (2438 mm) above the finished floor shall be in
+cartons
+.
+
+---
+
+## Section 5106.5.3: Shelving
+
+5106.5.3 Shelving
+Shelving in racks shall be limited to wire mesh shelving having uniform openings not more than 6 inches (152 mm) apart, with the openings comprising at least 50 percent of the overall shelf area.
+
+---
+
+Shelving in racks shall be limited to wire mesh shelving having uniform openings not more than 6 inches (152 mm) apart, with the openings comprising at least 50 percent of the overall shelf area.
+
+---
+
+## Section 5106.5.4: Aisles
+
+5106.5.4 Aisles
+Racks shall be arranged so that aisles not less than 7
+1
+/
+2
+feet (2286 mm) wide
+are maintained between rows of racks and adjacent
+solid
+-piled or palletized merchandise.
+
+---
+
+Racks shall be arranged so that aisles not less than 7
+1
+/
+2
+feet (2286 mm) wide
+are maintained between rows of racks and adjacent
+solid
+-piled or palletized merchandise.
+
+---
+
+## Section 5106.5.5: Flue Spaces
+
+5106.5.5 Flue Spaces
+Flue spaces in racks shall comply with the following:
+Transverse flue spaces
+—nominal 3-inch (76-mm)
+transverse flue spaces
+shall be maintained between merchandise and rack uprights.
+Longitudinal flue spaces
+—nominal 6-inch (152-mm)
+longitudinal flue spaces
+shall be maintained.
+
+---
+
+Flue spaces in racks shall comply with the following:
+Transverse flue spaces
+—nominal 3-inch (76-mm)
+transverse flue spaces
+shall be maintained between merchandise and rack uprights.
+Longitudinal flue spaces
+—nominal 6-inch (152-mm)
+longitudinal flue spaces
+shall be maintained.
+
+---
+
+## Section 5106.5.6: Horizontal Barriers
+
+5106.5.6 Horizontal Barriers
+Horizontal barriers constructed of minimum
+3
+/
+8
+-inch-thick (10-mm-thick) plywood or minimum 0.034-inch (0.086-mm) (No. 22 gauge) sheet metal shall be provided and located in accordance with NFPA 30B when in-rack sprinklers are installed.
+
+---
+
+Horizontal barriers constructed of minimum
+3
+/
+8
+-inch-thick (10-mm-thick) plywood or minimum 0.034-inch (0.086-mm) (No. 22 gauge) sheet metal shall be provided and located in accordance with NFPA 30B when in-rack sprinklers are installed.
+
+---
+
+## Section 5106.5.7: Class I, II, III, IV and Plastic Commodities
+
+5106.5.7 Class I, II, III, IV and Plastic Commodities
+Class I, II, III, IV and plastic
+commodities
+located adjacent to retail
+Level 2
+and 3
+aerosol
+product displays shall be protected
+in accordance with
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+Class I, II, III, IV and plastic
+commodities
+located adjacent to retail
+Level 2
+and 3
+aerosol
+product displays shall be protected
+in accordance with
+NFPA 13
+, as modified by
+FC Appendix B
+.
+
+---
+
+## Section 5106.5.8: Flammable and Combustible Liquids
+
+5106.5.8 Flammable and Combustible Liquids
+Class I, II, IIIA and IIIB
+Liquids
+shall be allowed to be located adjacent to
+Level 2
+and 3
+aerosol
+products when the following conditions are met:
+Class I, II, IIIA and IIIB
+liquid
+containers
+:
+Containers
+for Class I, II, IIIA and IIIB
+liquids
+shall be limited to 1.06-gallon (4-L) metal-relieving and nonrelieving style
+containers
+and 5.3-gallon (20-L) metal-relieving style
+containers
+.
+Fire
+protection for Class I, II, IIIA and IIIB
+liquids
+:
+Automatic
+sprinkler protection for Class I, II, IIIA and IIIB
+liquids
+shall be in accordance with
+FC Chapter 57
+.
+
+---
+
+Class I, II, IIIA and IIIB
+Liquids
+shall be allowed to be located adjacent to
+Level 2
+and 3
+aerosol
+products when the following conditions are met:
+Class I, II, IIIA and IIIB
+liquid
+containers
+:
+Containers
+for Class I, II, IIIA and IIIB
+liquids
+shall be limited to 1.06-gallon (4-L) metal-relieving and nonrelieving style
+containers
+and 5.3-gallon (20-L) metal-relieving style
+containers
+.
+Fire
+protection for Class I, II, IIIA and IIIB
+liquids
+:
+Automatic
+sprinkler protection for Class I, II, IIIA and IIIB
+liquids
+shall be in accordance with
+FC Chapter 57
+.
+
+---
+

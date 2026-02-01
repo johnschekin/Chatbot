@@ -1,0 +1,6714 @@
+# NYC Mechanical Code 2022 - Chapter 6
+
+New York City Mechanical Code 2022
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Chapter 4 Ventilation
+
+---
+
+Chapter 5 Exhaust Systems
+
+---
+
+Chapter 6 Duct Systems
+
+---
+
+601 General
+
+---
+
+602 Plenums
+
+---
+
+603 Duct Construction and Installation
+
+---
+
+604 Insulation
+
+---
+
+605 Air Filters
+
+---
+
+606 Smoke Detection Systems Control
+
+---
+
+607 Ducts and Air Transfer Openings
+
+---
+
+608 Air Outlets and Air Inlets
+
+---
+
+609 Service Openings
+
+---
+
+Chapter 7 Combustion, Ventilation, and Dilution Air
+
+---
+
+Chapter 8 Chimneys and Vents
+
+---
+
+Chapter 9 Specific Appliances and Equipment
+
+---
+
+Chapter 10 Boilers, Water Heaters and Pressure Vessels
+
+---
+
+Chapter 11 Refrigeration
+
+---
+
+Chapter 12 Hydronic Piping
+
+---
+
+Chapter 13 Fuel-Oil Piping and Storage
+
+---
+
+Chapter 14 Solar Systems
+
+---
+
+Chapter 15 Referenced Standards
+
+---
+
+Appendix A Chimney Connector Pass-Throughs
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Fuel Oil Storage Tank Venting Options
+
+---
+
+Chapter 6 Duct Systems
+
+---
+
+Section 601 General
+
+---
+
+## Section 601.1: Scope
+
+601.1 Scope
+Duct systems
+used for the movement of
+air
+in
+air-conditioning
+, heating, ventilating and
+exhaust systems
+shall conform to the provisions of this chapter except as otherwise specified in Chapters
+5
+and
+7
+.
+Exception:
+Ducts
+discharging
+combustible material
+directly into any
+combustion chamber
+shall conform to the requirements of NFPA 82.
+
+---
+
+Duct systems
+used for the movement of
+air
+in
+air-conditioning
+, heating, ventilating and
+exhaust systems
+shall conform to the provisions of this chapter except as otherwise specified in Chapters
+5
+and
+7
+.
+Exception:
+Ducts
+discharging
+combustible material
+directly into any
+combustion chamber
+shall conform to the requirements of NFPA 82.
+
+---
+
+## Section 601.2: Air Movement in Corridors
+
+601.2 Air Movement in Corridors
+Corridors shall not be used as a portion of direct supply, return, or
+exhaust air
+system serving adjoining areas.
+Air transfer opening
+(s) shall not be permitted in walls or in doors separating public corridors from adjoining areas.
+Exceptions:
+Where located within
+dwelling units
+, the use of corridors for conveying
+return air
+shall not be prohibited.
+Where located within tenant spaces of 1,000 square feet (93 m
+2
+) or less in area, the use of corridors for conveying
+return air
+is permitted.
+Corridors in Group B office buildings equipped throughout with an automatic sprinkler system in accordance with
+Section 903.3.1.1
+of the
+New York City Building Code
+.
+Incidental
+air
+movement from pressurized rooms within health care facilities, provided that the corridor is not the primary source of supply or return to the room.
+Air transfer openings
+serving
+toilet rooms
+,
+bathrooms
+, shower rooms, sink closets, and similar auxiliary spaces opening onto the public corridor.
+Group I-3 detention and correctional occupancies with corridor separations of open construction (e.g., grating doors or grating partitions).
+Air
+transfer in openings because of pressure differential in Group I-2 health care occupancies from corridors is permitted.
+Where door
+clearances
+do not exceed those specified for fire doors in the
+New York City Building Code
+,
+air
+transfer caused by pressure differentials shall be permitted.
+Use of egress corridors as part of an engineered smoke-
+control
+system is permitted.
+
+---
+
+Corridors shall not be used as a portion of direct supply, return, or
+exhaust air
+system serving adjoining areas.
+Air transfer opening
+(s) shall not be permitted in walls or in doors separating public corridors from adjoining areas.
+Exceptions:
+Where located within
+dwelling units
+, the use of corridors for conveying
+return air
+shall not be prohibited.
+Where located within tenant spaces of 1,000 square feet (93 m
+2
+) or less in area, the use of corridors for conveying
+return air
+is permitted.
+Corridors in Group B office buildings equipped throughout with an automatic sprinkler system in accordance with
+Section 903.3.1.1
+of the
+New York City Building Code
+.
+Incidental
+air
+movement from pressurized rooms within health care facilities, provided that the corridor is not the primary source of supply or return to the room.
+Air transfer openings
+serving
+toilet rooms
+,
+bathrooms
+, shower rooms, sink closets, and similar auxiliary spaces opening onto the public corridor.
+Group I-3 detention and correctional occupancies with corridor separations of open construction (e.g., grating doors or grating partitions).
+Air
+transfer in openings because of pressure differential in Group I-2 health care occupancies from corridors is permitted.
+Where door
+clearances
+do not exceed those specified for fire doors in the
+New York City Building Code
+,
+air
+transfer caused by pressure differentials shall be permitted.
+Use of egress corridors as part of an engineered smoke-
+control
+system is permitted.
+
+---
+
+## Section 601.2.1: Corridor Ceiling
+
+601.2.1 Corridor Ceiling
+Use of the space between the corridor ceiling and the floor or roof structure above as a
+return air
+plenum
+is permitted for one or more of the following conditions:
+The corridor is not required to be of fire-resistance-rated construction.
+The corridor is separated from the
+plenum
+by fire-resistance-rated construction.
+The
+air
+-handling system serving the corridor is shut down upon activation of the
+air-handling unit
+smoke detectors required by this code.
+The
+air
+-handling system serving the corridor is shut down upon detection of sprinkler waterflow where the building is equipped throughout with an automatic sprinkler system.
+The space between the corridor ceiling and the floor or roof structure above the corridor is used as a component of an approved
+engineered smoke control system
+.
+UpCodes Diagram (1)
+
+---
+
+Use of the space between the corridor ceiling and the floor or roof structure above as a
+return air
+plenum
+is permitted for one or more of the following conditions:
+The corridor is not required to be of fire-resistance-rated construction.
+The corridor is separated from the
+plenum
+by fire-resistance-rated construction.
+The
+air
+-handling system serving the corridor is shut down upon activation of the
+air-handling unit
+smoke detectors required by this code.
+The
+air
+-handling system serving the corridor is shut down upon detection of sprinkler waterflow where the building is equipped throughout with an automatic sprinkler system.
+The space between the corridor ceiling and the floor or roof structure above the corridor is used as a component of an approved
+engineered smoke control system
+.
+
+---
+
+## Section 601.3: Exits
+
+601.3 Exits
+Equipment
+and ductwork for exit enclosure
+ventilation
+shall comply with one of the following items:
+Such
+equipment
+and ductwork shall be located exterior to the building and shall be directly connected to the exit enclosure by ductwork enclosed in construction as required by the
+New York City Building Code
+for
+shafts
+.
+Where such
+equipment
+and ductwork is located within the exit enclosure, the
+intake air
+shall be taken directly from the outdoors and the
+exhaust air
+shall be discharged directly to the outdoors, or such
+air
+shall be conveyed through
+ducts
+enclosed in construction as required by the
+New York City Building Code
+for
+shafts
+.
+Where located within the building, such
+equipment
+and ductwork shall be separated from the remainder of the building, including other mechanical
+equipment
+, with construction as required by the
+New York City Building Code
+for
+shafts
+.
+In each case, openings into fire-resistance-rated construction shall be limited to those needed for
+maintenance
+and
+operation
+and shall be protected by self-closing fire-resistance-rated devices in accordance with the
+New York City Building Code
+for enclosure wall opening protectives. Exit enclosure
+ventilation
+systems shall be independent of other building
+ventilation
+systems.
+UpCodes Diagrams (4)
+
+---
+
+Equipment
+and ductwork for exit enclosure
+ventilation
+shall comply with one of the following items:
+Such
+equipment
+and ductwork shall be located exterior to the building and shall be directly connected to the exit enclosure by ductwork enclosed in construction as required by the
+New York City Building Code
+for
+shafts
+.
+Where such
+equipment
+and ductwork is located within the exit enclosure, the
+intake air
+shall be taken directly from the outdoors and the
+exhaust air
+shall be discharged directly to the outdoors, or such
+air
+shall be conveyed through
+ducts
+enclosed in construction as required by the
+New York City Building Code
+for
+shafts
+.
+Where located within the building, such
+equipment
+and ductwork shall be separated from the remainder of the building, including other mechanical
+equipment
+, with construction as required by the
+New York City Building Code
+for
+shafts
+.
+In each case, openings into fire-resistance-rated construction shall be limited to those needed for
+maintenance
+and
+operation
+and shall be protected by self-closing fire-resistance-rated devices in accordance with the
+New York City Building Code
+for enclosure wall opening protectives. Exit enclosure
+ventilation
+systems shall be independent of other building
+ventilation
+systems.
+
+---
+
+## Section 601.4: Contamination Prevention
+
+601.4 Contamination Prevention
+Exhaust
+ducts
+under
+positive pressure
+,
+chimneys
+and
+vents
+shall not extend into or pass through
+ducts
+or
+plenums
+.
+Exceptions:
+Exhaust systems
+conveying Class 1 or Class 2
+air
+in accordance with ASHRAE 62.1, located in
+return air
+plenums
+and that have exhaust
+duct
+joints, seams and connections that comply with
+Section 603.9
+without taking any exceptions. Such
+exhaust system
+and
+plenum
+shall be subject to special inspection in accordance with
+Section 1705.39
+of the
+New York City Building Code
+and shall be subject to periodic inspection in accordance with
+Section 602.6
+of this code.
+This section shall not apply to
+chimneys
+and
+vents
+for
+appliances
+with a heat input not greater than 350,000 Btu/hr (103 kW) that pass through
+plenums
+provided that such
+venting systems
+are subject to special inspection in accordance with
+Section 1705.39
+of the
+New York City Building Code
+and shall be subject to periodic inspection in accordance with
+Section 602.6
+of this code and comply with one of the following requirements:
+The
+venting system
+shall be listed for
+positive pressure
+applications and shall be sealed in accordance with the
+vent
+manufacturer's instructions.
+The
+venting system
+shall be installed such that fittings and joints between sections are not installed in the above ceiling space.
+The
+venting system
+shall be installed in a conduit or enclosure with sealed joints separating the interior of the conduit or enclosure from the ceiling space.
+
+---
+
+Exhaust
+ducts
+under
+positive pressure
+,
+chimneys
+and
+vents
+shall not extend into or pass through
+ducts
+or
+plenums
+.
+Exceptions:
+Exhaust systems
+conveying Class 1 or Class 2
+air
+in accordance with ASHRAE 62.1, located in
+return air
+plenums
+and that have exhaust
+duct
+joints, seams and connections that comply with
+Section 603.9
+without taking any exceptions. Such
+exhaust system
+and
+plenum
+shall be subject to special inspection in accordance with
+Section 1705.39
+of the
+New York City Building Code
+and shall be subject to periodic inspection in accordance with
+Section 602.6
+of this code.
+This section shall not apply to
+chimneys
+and
+vents
+for
+appliances
+with a heat input not greater than 350,000 Btu/hr (103 kW) that pass through
+plenums
+provided that such
+venting systems
+are subject to special inspection in accordance with
+Section 1705.39
+of the
+New York City Building Code
+and shall be subject to periodic inspection in accordance with
+Section 602.6
+of this code and comply with one of the following requirements:
+The
+venting system
+shall be listed for
+positive pressure
+applications and shall be sealed in accordance with the
+vent
+manufacturer's instructions.
+The
+venting system
+shall be installed such that fittings and joints between sections are not installed in the above ceiling space.
+The
+venting system
+shall be installed in a conduit or enclosure with sealed joints separating the interior of the conduit or enclosure from the ceiling space.
+
+---
+
+Section 602 Plenums
+UpCodes Diagram (1)
+
+---
+
+## Section 602.1: General
+
+602.1 General
+Supply, return, exhaust, relief and
+ventilation air
+plenums
+shall be limited to
+uninhabited crawl spaces, areas above a finished ceiling or below the finished floor, attic spaces and
+mechanical
+equipment
+rooms.
+Plenums
+shall be limited to one fire area.
+Air
+systems shall be fully
+ducted from the boundary of the fire area served to the
+air
+-handling
+equipment
+or associated
+mechanical room serving as a
+return air
+plenum
+.
+Fuel-fired appliances
+shall not be installed within a
+plenum
+.
+Exception:
+In a fully sprinklered building,
+return air
+plenums
+may be separated by combination
+fire
+smoke dampers
+and a fully ducted return is not required. The requirements of
+Section 601.2.1
+shall apply.
+UpCodes Diagram (1)
+
+---
+
+Supply, return, exhaust, relief and
+ventilation air
+plenums
+shall be limited to
+uninhabited crawl spaces, areas above a finished ceiling or below the finished floor, attic spaces and
+mechanical
+equipment
+rooms.
+Plenums
+shall be limited to one fire area.
+Air
+systems shall be fully
+ducted from the boundary of the fire area served to the
+air
+-handling
+equipment
+or associated
+mechanical room serving as a
+return air
+plenum
+.
+Fuel-fired appliances
+shall not be installed within a
+plenum
+.
+Exception:
+In a fully sprinklered building,
+return air
+plenums
+may be separated by combination
+fire
+smoke dampers
+and a fully ducted return is not required. The requirements of
+Section 601.2.1
+shall apply.
+
+---
+
+## Section 602.2: Construction
+
+602.2 Construction
+Plenum
+enclosure construction materials that are exposed to the airflow shall comply with the requirements of
+Section 703.5
+of the
+New York City Building Code
+or such materials shall have a
+flame spread index
+of not more than 25 and a
+smoke-developed index
+of not more than 50 when tested in accordance with ASTM E 84 or UL 723. The temperature of
+air
+delivered to or through these
+plenums
+shall not exceed 250°F (121.1°C), except where used as part of an
+engineered smoke control system
+.
+The use of gypsum boards to form
+plenums
+shall be limited to systems where the
+air
+temperatures do not exceed 125°F (51.7°C) and the building and
+mechanical system
+design
+conditions are such that the gypsum board surface temperature will be maintained above the airstream dew-point temperature.
+Air
+plenums
+formed by gypsum boards shall not be incorporated in
+air
+-handling systems utilizing
+evaporative coolers
+.
+
+---
+
+Plenum
+enclosure construction materials that are exposed to the airflow shall comply with the requirements of
+Section 703.5
+of the
+New York City Building Code
+or such materials shall have a
+flame spread index
+of not more than 25 and a
+smoke-developed index
+of not more than 50 when tested in accordance with ASTM E 84 or UL 723. The temperature of
+air
+delivered to or through these
+plenums
+shall not exceed 250°F (121.1°C), except where used as part of an
+engineered smoke control system
+.
+The use of gypsum boards to form
+plenums
+shall be limited to systems where the
+air
+temperatures do not exceed 125°F (51.7°C) and the building and
+mechanical system
+design
+conditions are such that the gypsum board surface temperature will be maintained above the airstream dew-point temperature.
+Air
+plenums
+formed by gypsum boards shall not be incorporated in
+air
+-handling systems utilizing
+evaporative coolers
+.
+
+---
+
+## Section 602.2.1: Materials Within Plenums
+
+602.2.1 Materials Within Plenums
+Except as required by Sections
+602.2.1.1
+through
+602.2.1.7
+, materials within
+plenums
+shall be noncombustible or shall be
+listed and labeled
+as having a
+flame spread index
+of not more than 25 and a
+smoke-developed index
+of not more than 50 when tested in accordance with ASTM E 84 or UL 723.
+Exceptions:
+Rigid and flexible
+ducts
+and connectors shall conform to
+Section 603
+.
+Duct
+coverings, linings, tape and connectors shall conform to Sections
+603
+and
+604
+.
+This section shall not apply to materials exposed within
+plenums
+in one- and two-family
+dwellings
+.
+This section shall not apply to smoke detectors.
+Combustible materials
+fully enclosed within one of the following:
+Continuous noncombustible raceways or enclosures.
+Approved gypsum board assemblies.
+Materials
+listed and labeled
+for
+installation
+within a
+plenum
+.
+Materials in Group H-5 fabrication areas and the areas above and below the fabrication area that share a common air recirculation path with the fabrication area.
+
+---
+
+Except as required by Sections
+602.2.1.1
+through
+602.2.1.7
+, materials within
+plenums
+shall be noncombustible or shall be
+listed and labeled
+as having a
+flame spread index
+of not more than 25 and a
+smoke-developed index
+of not more than 50 when tested in accordance with ASTM E 84 or UL 723.
+Exceptions:
+Rigid and flexible
+ducts
+and connectors shall conform to
+Section 603
+.
+Duct
+coverings, linings, tape and connectors shall conform to Sections
+603
+and
+604
+.
+This section shall not apply to materials exposed within
+plenums
+in one- and two-family
+dwellings
+.
+This section shall not apply to smoke detectors.
+Combustible materials
+fully enclosed within one of the following:
+Continuous noncombustible raceways or enclosures.
+Approved gypsum board assemblies.
+Materials
+listed and labeled
+for
+installation
+within a
+plenum
+.
+Materials in Group H-5 fabrication areas and the areas above and below the fabrication area that share a common air recirculation path with the fabrication area.
+
+---
+
+## Section 602.2.1.1: Wiring
+
+602.2.1.1 Wiring
+Combustible
+electrical
+wires and cables and optical fiber cables exposed within a
+plenum
+shall be listed as having a maximum peak optical density of 0.50 or less, an average optical density of 0.15 or less, and a maximum flame spread distance of 5 feet (1524 mm) or less when tested in accordance with NFPA 262 or shall be installed in metal raceways or metal sheathed cable. Combustible optical fiber and communication raceways exposed within a
+plenum
+shall be listed as having a maximum peak optical density of 0.5 or less, an average optical density of 0.15 or less, and a maximum flame spread distance of 5 feet (1524 mm) or less when tested in accordance with UL 2024. Only
+plenum
+-rated wires and cables shall be installed in
+plenum
+-rated raceways.
+Electrical
+wires and cables, optical fiber cables and raceways addressed in this section shall be
+listed and labeled
+and shall be installed in accordance with
+New York City Electrical Code
+.
+
+---
+
+Combustible
+electrical
+wires and cables and optical fiber cables exposed within a
+plenum
+shall be listed as having a maximum peak optical density of 0.50 or less, an average optical density of 0.15 or less, and a maximum flame spread distance of 5 feet (1524 mm) or less when tested in accordance with NFPA 262 or shall be installed in metal raceways or metal sheathed cable. Combustible optical fiber and communication raceways exposed within a
+plenum
+shall be listed as having a maximum peak optical density of 0.5 or less, an average optical density of 0.15 or less, and a maximum flame spread distance of 5 feet (1524 mm) or less when tested in accordance with UL 2024. Only
+plenum
+-rated wires and cables shall be installed in
+plenum
+-rated raceways.
+Electrical
+wires and cables, optical fiber cables and raceways addressed in this section shall be
+listed and labeled
+and shall be installed in accordance with
+New York City Electrical Code
+.
+
+---
+
+## Section 602.2.1.2: Fire Sprinkler Piping
+
+602.2.1.2 Fire Sprinkler Piping
+Plastic fire sprinkler
+piping
+exposed within a
+plenum
+shall be used only in wet
+pipe
+systems and shall have a peak optical density of 0.50 or less, an average optical density of 0.15 or less, and a flame spread of 5 feet (1524 mm) or less when tested in accordance with UL 1887.
+Piping
+shall be
+listed and labeled
+.
+
+---
+
+Plastic fire sprinkler
+piping
+exposed within a
+plenum
+shall be used only in wet
+pipe
+systems and shall have a peak optical density of 0.50 or less, an average optical density of 0.15 or less, and a flame spread of 5 feet (1524 mm) or less when tested in accordance with UL 1887.
+Piping
+shall be
+listed and labeled
+.
+
+---
+
+## Section 602.2.1.3: Pneumatic Tubing
+
+602.2.1.3 Pneumatic Tubing
+Combustible pneumatic
+tubing
+exposed within a
+plenum
+shall have a peak optical density of 0.50 or less, an average optical density of 0.15 or less, and a flame spread of 5 feet (1524 mm) or less when tested in accordance with UL 1820. Combustible pneumatic
+tubing
+shall be
+listed and labeled
+.
+
+---
+
+Combustible pneumatic
+tubing
+exposed within a
+plenum
+shall have a peak optical density of 0.50 or less, an average optical density of 0.15 or less, and a flame spread of 5 feet (1524 mm) or less when tested in accordance with UL 1820. Combustible pneumatic
+tubing
+shall be
+listed and labeled
+.
+
+---
+
+## Section 602.2.1.4: Electrical Equipment in Plenums
+
+602.2.1.4 Electrical Equipment in Plenums
+Electrical
+equipment
+exposed within a
+plenum
+shall comply with Sections
+602.2.1.4.1
+and
+602.2.1.4.2
+.
+
+---
+
+Electrical
+equipment
+exposed within a
+plenum
+shall comply with Sections
+602.2.1.4.1
+and
+602.2.1.4.2
+.
+
+---
+
+## Section 602.2.1.4.1: Equipment in Metallic Enclosures
+
+602.2.1.4.1 Equipment in Metallic Enclosures
+Electrical
+equipment
+with metallic enclosures exposed within a
+plenum
+shall be permitted.
+
+---
+
+Electrical
+equipment
+with metallic enclosures exposed within a
+plenum
+shall be permitted.
+
+---
+
+## Section 602.2.1.4.2: Equipment in Combustible Enclosures
+
+602.2.1.4.2 Equipment in Combustible Enclosures
+Electrical
+equipment
+with combustible enclosures exposed within a
+plenum
+shall be
+listed and labeled
+for such use in accordance with UL 2043.
+
+---
+
+Electrical
+equipment
+with combustible enclosures exposed within a
+plenum
+shall be
+listed and labeled
+for such use in accordance with UL 2043.
+
+---
+
+## Section 602.2.1.5: Discrete Plumbing and Mechanical Products in Plenums
+
+602.2.1.5 Discrete Plumbing and Mechanical Products in Plenums
+Where discrete
+plumbing and mechanical products and appurtenances are located in a
+plenum
+and have
+exposed
+combustible material
+, they shall be
+listed and labeled
+for such use in accordance with
+UL 2043.
+
+---
+
+Where discrete
+plumbing and mechanical products and appurtenances are located in a
+plenum
+and have
+exposed
+combustible material
+, they shall be
+listed and labeled
+for such use in accordance with
+UL 2043.
+
+---
+
+## Section 602.2.1.6: Foam Plastic Insulation
+
+602.2.1.6 Foam Plastic Insulation
+Foam plastic insulation used in
+plenums
+as interior wall or ceiling finish or as interior trim shall exhibit a
+flame spread index
+of 75 or less and a
+smoke-developed index
+of 450 or less when tested in accordance with ASTM E 84 or UL 723 and shall also comply with one or more of Sections
+602.2.1.6.1
+,
+602.2.1.6.2
+and
+602.2.1.6.3
+.
+
+---
+
+Foam plastic insulation used in
+plenums
+as interior wall or ceiling finish or as interior trim shall exhibit a
+flame spread index
+of 75 or less and a
+smoke-developed index
+of 450 or less when tested in accordance with ASTM E 84 or UL 723 and shall also comply with one or more of Sections
+602.2.1.6.1
+,
+602.2.1.6.2
+and
+602.2.1.6.3
+.
+
+---
+
+## Section 602.2.1.6.1: Separation Required
+
+602.2.1.6.1 Separation Required
+The foam plastic insulation shall be separated from the
+plenum
+by a thermal barrier complying with
+Section 2603.4
+of the
+New York City Building Code
+and shall exhibit a
+flame spread index
+of 75 or less and a
+smoke-developed index
+of 450 or less when tested in accordance with ASTM E 84 or UL 723 at the thickness and density intended for use.
+
+---
+
+The foam plastic insulation shall be separated from the
+plenum
+by a thermal barrier complying with
+Section 2603.4
+of the
+New York City Building Code
+and shall exhibit a
+flame spread index
+of 75 or less and a
+smoke-developed index
+of 450 or less when tested in accordance with ASTM E 84 or UL 723 at the thickness and density intended for use.
+
+---
+
+## Section 602.2.1.6.2: Approval
+
+602.2.1.6.2 Approval
+The foam plastic insulation shall exhibit a
+flame spread index
+of 25 or less and a
+smoke-developed index
+of 50 or less when tested in accordance with ASTM E 84 or UL 723 at the thickness and density intended for use and shall meet the acceptance criteria of
+Section 803.1.2
+of the
+New York City Building Code
+when tested in accordance with NFPA 286.
+The foam plastic insulation shall be approved based on tests conducted in accordance with
+Section 2603.9
+of the
+New York City Building Code
+.
+
+---
+
+The foam plastic insulation shall exhibit a
+flame spread index
+of 25 or less and a
+smoke-developed index
+of 50 or less when tested in accordance with ASTM E 84 or UL 723 at the thickness and density intended for use and shall meet the acceptance criteria of
+Section 803.1.2
+of the
+New York City Building Code
+when tested in accordance with NFPA 286.
+The foam plastic insulation shall be approved based on tests conducted in accordance with
+Section 2603.9
+of the
+New York City Building Code
+.
+
+---
+
+## Section 602.2.1.6.3: Covering
+
+602.2.1.6.3 Covering
+The foam plastic insulation shall be covered by corrosion-resistant steel having a base metal thickness of not less than 0.0160 inch (0.4 mm) and shall exhibit a
+flame spread index
+of 75 or less and a
+smoke-developed index
+of
+450 or less when tested in accordance with ASTM E 84 or UL 723 at the thickness and
+density intended for use.
+
+---
+
+The foam plastic insulation shall be covered by corrosion-resistant steel having a base metal thickness of not less than 0.0160 inch (0.4 mm) and shall exhibit a
+flame spread index
+of 75 or less and a
+smoke-developed index
+of
+450 or less when tested in accordance with ASTM E 84 or UL 723 at the thickness and
+density intended for use.
+
+---
+
+## Section 602.2.1.7: Plastic Pipe and Tube
+
+602.2.1.7 Plastic Pipe and Tube
+Plastic
+piping
+and
+tubing
+shall be listed and shall exhibit a
+flame spread index
+of not more than 25 and a
+smoke-developed index
+of not more than 50
+when tested in accordance with ASTM E 84 or UL 723.
+
+---
+
+Plastic
+piping
+and
+tubing
+shall be listed and shall exhibit a
+flame spread index
+of not more than 25 and a
+smoke-developed index
+of not more than 50
+when tested in accordance with ASTM E 84 or UL 723.
+
+---
+
+## Section 602.3: Stud Cavity and Joist Space Plenums
+
+602.3 Stud Cavity and Joist Space Plenums
+Stud wall cavities and the spaces between solid floor joists to be utilized as
+air
+plenums
+shall comply with the following conditions:
+Such cavities or spaces shall not be utilized as a
+plenum
+for
+supply air
+.
+Such cavities or spaces shall not be part of a required fire-resistance-rated assembly.
+Stud wall cavities shall not convey
+air
+from more than one floor level.
+Stud wall cavities and joist space
+plenums
+shall comply with the floor penetration
+protection
+requirements of the
+New York City Building Code
+.
+Stud wall cavities and joist space
+plenums
+shall be isolated from adjacent concealed spaces by approved fireblocking as required in the
+New York City Building Code
+.
+Stud wall cavities in the outside walls of building envelope assemblies shall not be utilized as
+air
+plenums
+.
+
+---
+
+Stud wall cavities and the spaces between solid floor joists to be utilized as
+air
+plenums
+shall comply with the following conditions:
+Such cavities or spaces shall not be utilized as a
+plenum
+for
+supply air
+.
+Such cavities or spaces shall not be part of a required fire-resistance-rated assembly.
+Stud wall cavities shall not convey
+air
+from more than one floor level.
+Stud wall cavities and joist space
+plenums
+shall comply with the floor penetration
+protection
+requirements of the
+New York City Building Code
+.
+Stud wall cavities and joist space
+plenums
+shall be isolated from adjacent concealed spaces by approved fireblocking as required in the
+New York City Building Code
+.
+Stud wall cavities in the outside walls of building envelope assemblies shall not be utilized as
+air
+plenums
+.
+
+---
+
+## Section 602.4: Flood Hazard
+
+602.4 Flood Hazard
+For structures located in
+flood hazard
+areas,
+plenum
+spaces shall comply with the additional requirements of
+Appendix G
+of the
+New York City Building Code
+.
+
+---
+
+For structures located in
+flood hazard
+areas,
+plenum
+spaces shall comply with the additional requirements of
+Appendix G
+of the
+New York City Building Code
+.
+
+---
+
+## Section 602.5: Firestopping
+
+602.5 Firestopping
+Where required by the
+New York City Building Code
+,
+through penetrations shall be firestopped in accordance with Section 714 of the
+New York City Building Code
+.
+
+---
+
+Where required by the
+New York City Building Code
+,
+through penetrations shall be firestopped in accordance with Section 714 of the
+New York City Building Code
+.
+
+---
+
+## Section 602.6: Periodic Inspections to Prevent Contamination of Mechanical Systems
+
+602.6 Periodic Inspections to Prevent Contamination of Mechanical Systems
+Covered buildings, as described in Section 28-325.1 of the
+New York City Administrative Code
+, shall be subject to periodic inspections to prevent contamination of
+mechanical systems
+in accordance with Section 28-325.2 of the
+New York City Administrative Code
+.
+
+---
+
+Covered buildings, as described in Section 28-325.1 of the
+New York City Administrative Code
+, shall be subject to periodic inspections to prevent contamination of
+mechanical systems
+in accordance with Section 28-325.2 of the
+New York City Administrative Code
+.
+
+---
+
+Section 603 Duct Construction and Installation
+UpCodes Diagrams (3)
+
+---
+
+## Section 603.1: General
+
+603.1 General
+An
+air distribution system
+shall be designed and installed to supply the required distribution of
+air
+. The
+installation
+of an
+air distribution system
+shall not affect the fire
+protection
+requirements specified in the
+New York City Building Code
+.
+Ducts
+shall be constructed, braced, reinforced and installed to provide structural strength and durability.
+
+---
+
+An
+air distribution system
+shall be designed and installed to supply the required distribution of
+air
+. The
+installation
+of an
+air distribution system
+shall not affect the fire
+protection
+requirements specified in the
+New York City Building Code
+.
+Ducts
+shall be constructed, braced, reinforced and installed to provide structural strength and durability.
+
+---
+
+## Section 603.2: Duct Sizing
+
+603.2 Duct Sizing
+Ducts
+installed within a single
+dwelling unit
+shall be sized in accordance with ACCA Manual D, the
+appliance
+manufacturer's instructions or other approved methods.
+Ducts
+installed within all other buildings shall be sized in accordance with the ASHRAE
+Handbook of Fundamentals
+or other equivalent computation procedure.
+
+---
+
+Ducts
+installed within a single
+dwelling unit
+shall be sized in accordance with ACCA Manual D, the
+appliance
+manufacturer's instructions or other approved methods.
+Ducts
+installed within all other buildings shall be sized in accordance with the ASHRAE
+Handbook of Fundamentals
+or other equivalent computation procedure.
+
+---
+
+## Section 603.3: Duct Classification
+
+603.3 Duct Classification
+Ducts
+shall be classified based on the maximum operating pressure of the
+duct
+at pressures of positive or negative 0.5, 1.0, 2.0, 3.0, 4.0, 6.0 or 10.0 inches (1 inch w.c. = 248.7 Pa) of water column. The pressure classification of
+ducts
+shall equal or exceed the
+design
+pressure of the
+air
+distribution in which the
+ducts
+are utilized.
+
+---
+
+Ducts
+shall be classified based on the maximum operating pressure of the
+duct
+at pressures of positive or negative 0.5, 1.0, 2.0, 3.0, 4.0, 6.0 or 10.0 inches (1 inch w.c. = 248.7 Pa) of water column. The pressure classification of
+ducts
+shall equal or exceed the
+design
+pressure of the
+air
+distribution in which the
+ducts
+are utilized.
+
+---
+
+## Section 603.4: Metallic Ducts
+
+603.4 Metallic Ducts
+Metallic
+ducts
+shall be constructed as specified in the SMACNA/ANSI
+HVAC
+Duct
+Construction
+Standards
+—Metal and Flexible.
+Exception:
+Ducts
+installed within single
+dwelling units
+shall have a minimum thickness as specified in Table 603.4.
+TABLE 603.4
+DUCT
+CONSTRUCTION MINIMUM SHEET METAL THICKNESS FOR SINGLE
+DWELLING UNITS
+a
+ROUND
+DUCT
+DIAMETER
+(inches)
+STATIC PRESSURE
+1
+/
+2
+-inch water gage
+1-inch water gage
+Thickness (inches)
+Thickness (inches)
+Galvanized
+Aluminum
+Galvanized
+Aluminum
+< 12
+0.013
+0.018
+0.013
+0.018
+12 to 14
+0.013
+0.018
+0.016
+0.023
+15 to 17
+0.016
+0.023
+0.019
+0.027
+18
+0.016
+0.023
+0.024
+0.034
+19 to 20
+0.019
+0.027
+0.024
+0.034
+RECTANGULAR
+DUCT
+DIMENSION (inches)
+STATIC PRESSURE
+1
+/
+2
+-inch water gage
+1-inch water gage
+Thickness (inches)
+Thickness (inches)
+Galvanized
+Aluminum
+Galvanized
+Aluminum
+≤ 8
+0.013
+0.018
+0.013
+0.018
+9 to10
+0.013
+0.018
+0.016
+0.023
+11 to 12
+0.016
+0.023
+0.019
+0.027
+13 to 16
+0.019
+0.027
+0.019
+0.027
+17 to 18
+0.019
+0.027
+0.024
+0.034
+19 to 20
+0.024
+0.034
+0.024
+0.034
+For SI: 1 inch = 25.4 mm, 1-inch water gage = 249 Pa.
+Ductwork that exceeds 20 inches by dimension or exceeds a pressure of 1-inch water gage shall be constructed in accordance with SMACNA/ANSI HVAC
+Duct
+Construction
+Standards
+—Metal and Flexible.
+UpCodes Diagrams (3)
+
+---
+
+Metallic
+ducts
+shall be constructed as specified in the SMACNA/ANSI
+HVAC
+Duct
+Construction
+Standards
+—Metal and Flexible.
+Exception:
+Ducts
+installed within single
+dwelling units
+shall have a minimum thickness as specified in Table 603.4.
+TABLE 603.4
+DUCT
+CONSTRUCTION MINIMUM SHEET METAL THICKNESS FOR SINGLE
+DWELLING UNITS
+a
+ROUND
+DUCT
+DIAMETER
+(inches)
+STATIC PRESSURE
+1
+/
+2
+-inch water gage
+1-inch water gage
+Thickness (inches)
+Thickness (inches)
+Galvanized
+Aluminum
+Galvanized
+Aluminum
+< 12
+0.013
+0.018
+0.013
+0.018
+12 to 14
+0.013
+0.018
+0.016
+0.023
+15 to 17
+0.016
+0.023
+0.019
+0.027
+18
+0.016
+0.023
+0.024
+0.034
+19 to 20
+0.019
+0.027
+0.024
+0.034
+RECTANGULAR
+DUCT
+DIMENSION (inches)
+STATIC PRESSURE
+1
+/
+2
+-inch water gage
+1-inch water gage
+Thickness (inches)
+Thickness (inches)
+Galvanized
+Aluminum
+Galvanized
+Aluminum
+≤ 8
+0.013
+0.018
+0.013
+0.018
+9 to10
+0.013
+0.018
+0.016
+0.023
+11 to 12
+0.016
+0.023
+0.019
+0.027
+13 to 16
+0.019
+0.027
+0.019
+0.027
+17 to 18
+0.019
+0.027
+0.024
+0.034
+19 to 20
+0.024
+0.034
+0.024
+0.034
+For SI: 1 inch = 25.4 mm, 1-inch water gage = 249 Pa.
+Ductwork that exceeds 20 inches by dimension or exceeds a pressure of 1-inch water gage shall be constructed in accordance with SMACNA/ANSI HVAC
+Duct
+Construction
+Standards
+—Metal and Flexible.
+
+---
+
+## Section 603.4.1: Minimum Fasteners
+
+603.4.1 Minimum Fasteners
+Round metallic
+ducts
+shall be mechanically fastened by means of not less than three sheet metal screws or rivets spaced equally around the
+joint
+.
+Exception:
+Where a
+duct
+connection is made that is partially inaccessible, three screws or
+rivets shall be equally spaced on the exposed portion so as to prevent a hinge effect.
+
+---
+
+Round metallic
+ducts
+shall be mechanically fastened by means of not less than three sheet metal screws or rivets spaced equally around the
+joint
+.
+Exception:
+Where a
+duct
+connection is made that is partially inaccessible, three screws or
+rivets shall be equally spaced on the exposed portion so as to prevent a hinge effect.
+
+---
+
+## Section 603.4.2: Duct Lap
+
+603.4.2 Duct Lap
+Crimp joints for round and oval metal
+ducts
+shall be lapped not less than 1 inch
+(25.4 mm) and the male end of the
+duct
+shall extend into the adjoining
+duct
+in the direction of
+airflow.
+
+---
+
+Crimp joints for round and oval metal
+ducts
+shall be lapped not less than 1 inch
+(25.4 mm) and the male end of the
+duct
+shall extend into the adjoining
+duct
+in the direction of
+airflow.
+
+---
+
+## Section 603.5: Nonmetallic Ducts
+
+603.5 Nonmetallic Ducts
+Nonmetallic
+ducts
+shall be constructed with Class 0 or Class 1
+duct
+material and shall comply with UL 181. Fibrous
+duct
+construction shall conform to the SMACNA/ANSI
+Fibrous Glass
+Duct
+Construction
+Standards
+or NAIMA
+Fibrous Glass
+Duct
+Construction
+Standards
+. The
+air
+temperature within nonmetallic
+ducts
+shall not exceed 250°F (121.1°C).
+
+---
+
+Nonmetallic
+ducts
+shall be constructed with Class 0 or Class 1
+duct
+material and shall comply with UL 181. Fibrous
+duct
+construction shall conform to the SMACNA/ANSI
+Fibrous Glass
+Duct
+Construction
+Standards
+or NAIMA
+Fibrous Glass
+Duct
+Construction
+Standards
+. The
+air
+temperature within nonmetallic
+ducts
+shall not exceed 250°F (121.1°C).
+
+---
+
+## Section 603.6: Air Ducts and Air Connectors
+
+603.6 Air Ducts and Air Connectors
+Air
+ducts
+, both metallic and nonmetallic, shall comply with
+Section 603.6.1
+.
+Air
+connectors, both metallic and nonmetallic, shall comply with Sections
+603.6.2
+and
+603.6.3
+.
+
+---
+
+Air
+ducts
+, both metallic and nonmetallic, shall comply with
+Section 603.6.1
+.
+Air
+connectors, both metallic and nonmetallic, shall comply with Sections
+603.6.2
+and
+603.6.3
+.
+
+---
+
+## Section 603.6.1: Air Ducts
+
+603.6.1 Air Ducts
+Air
+ducts
+shall be permitted to be rigid or flexible and shall be constructed of materials that are reinforced and sealed to satisfy the requirements for the use of the
+air
+duct system
+, such as the
+supply air system
+, the return or
+exhaust air
+system, and the variable volume/
+pressure
+air
+system.
+
+---
+
+Air
+ducts
+shall be permitted to be rigid or flexible and shall be constructed of materials that are reinforced and sealed to satisfy the requirements for the use of the
+air
+duct system
+, such as the
+supply air system
+, the return or
+exhaust air
+system, and the variable volume/
+pressure
+air
+system.
+
+---
+
+## Section 603.6.1.1: Materials
+
+603.6.1.1 Materials
+All
+air
+duct
+materials shall be suitable for continuous exposure to the temperature and humidity conditions of the
+environmental air
+in the
+air
+duct
+.
+Air
+ducts
+shall be constructed of any of the following materials:
+Iron, steel, aluminum, copper, concrete, masonry or clay tile.
+Class 0 or Class 1 rigid or flexible
+air
+ducts
+tested in accordance with UL 181 and installed in conformance with the conditions of the listing.
+Exceptions:
+Class 0 or Class 1 rigid or flexible
+air
+duct
+shall not be used as a vertical
+air
+duct
+that is more than two
+stories
+in height.
+Class 0 or Class 1 rigid or flexible
+air
+ducts
+shall not be used for
+air
+ducts
+containing
+air
+at temperatures in excess of 250°F (121.1°C).
+Where the temperature of the conveyed
+air
+does not exceed 125°F (51.7°C) in normal service, negative pressure exhaust or
+return air
+ducts
+shall be permitted to be constructed of gypsum board having a maximum
+flame spread index
+/rating of 25 without evidence of continued progressive
+combustion
+and a maximum
+smoke-developed index
+/rating of 50.
+Air
+ducts
+formed by gypsum boards shall have a surface temperature maintained above the airstream dew-point temperature, and shall not be used in
+air
+-handling systems utilizing
+evaporative coolers
+.
+Exception:
+The maximum conveyed
+air
+temperature of 125°F (51.7°C) shall not apply to gypsum board material used for post-fire smoke
+purge
+.
+
+---
+
+All
+air
+duct
+materials shall be suitable for continuous exposure to the temperature and humidity conditions of the
+environmental air
+in the
+air
+duct
+.
+Air
+ducts
+shall be constructed of any of the following materials:
+Iron, steel, aluminum, copper, concrete, masonry or clay tile.
+Class 0 or Class 1 rigid or flexible
+air
+ducts
+tested in accordance with UL 181 and installed in conformance with the conditions of the listing.
+Exceptions:
+Class 0 or Class 1 rigid or flexible
+air
+duct
+shall not be used as a vertical
+air
+duct
+that is more than two
+stories
+in height.
+Class 0 or Class 1 rigid or flexible
+air
+ducts
+shall not be used for
+air
+ducts
+containing
+air
+at temperatures in excess of 250°F (121.1°C).
+Where the temperature of the conveyed
+air
+does not exceed 125°F (51.7°C) in normal service, negative pressure exhaust or
+return air
+ducts
+shall be permitted to be constructed of gypsum board having a maximum
+flame spread index
+/rating of 25 without evidence of continued progressive
+combustion
+and a maximum
+smoke-developed index
+/rating of 50.
+Air
+ducts
+formed by gypsum boards shall have a surface temperature maintained above the airstream dew-point temperature, and shall not be used in
+air
+-handling systems utilizing
+evaporative coolers
+.
+Exception:
+The maximum conveyed
+air
+temperature of 125°F (51.7°C) shall not apply to gypsum board material used for post-fire smoke
+purge
+.
+
+---
+
+## Section 603.6.1.2: Installation
+
+603.6.1.2 Installation
+The materials, thickness, construction, and
+installation
+of
+ducts
+shall provide structural strength and durability in conformance with recognized good practice.
+Air
+ducts
+shall be considered to be in compliance with this requirement where constructed and installed in accordance with the
+New York City Building Code
+. Where no standard exists for the construction of
+air
+ducts
+, they shall be constructed to withstand both the positive and negative pressures of the system.
+
+---
+
+The materials, thickness, construction, and
+installation
+of
+ducts
+shall provide structural strength and durability in conformance with recognized good practice.
+Air
+ducts
+shall be considered to be in compliance with this requirement where constructed and installed in accordance with the
+New York City Building Code
+. Where no standard exists for the construction of
+air
+ducts
+, they shall be constructed to withstand both the positive and negative pressures of the system.
+
+---
+
+## Section 603.6.2: Air Connectors
+
+603.6.2 Air Connectors
+Air
+connectors are limited-use, flexible
+air
+ducts
+that are required to conform to other provisions applicable to
+air
+ducts
+and shall meet the following requirements:
+Air
+connectors shall conform to the requirements for Class 0 or Class 1 connectors when tested and approved in accordance with UL 181.
+Class 0 or Class 1
+air
+connectors shall not be used for
+ducts
+containing
+air
+at temperatures in excess of 250°F (121.1°C).
+Air
+connector runs shall not exceed 14 feet (4267.2 mm) in length.
+Air
+connectors shall not penetrate any rated wall, partition, or
+shaft
+that is required to have a fire-resistance rating of 1 hour or more.
+Air
+connectors shall not pass through floors.
+
+---
+
+Air
+connectors are limited-use, flexible
+air
+ducts
+that are required to conform to other provisions applicable to
+air
+ducts
+and shall meet the following requirements:
+Air
+connectors shall conform to the requirements for Class 0 or Class 1 connectors when tested and approved in accordance with UL 181.
+Class 0 or Class 1
+air
+connectors shall not be used for
+ducts
+containing
+air
+at temperatures in excess of 250°F (121.1°C).
+Air
+connector runs shall not exceed 14 feet (4267.2 mm) in length.
+Air
+connectors shall not penetrate any rated wall, partition, or
+shaft
+that is required to have a fire-resistance rating of 1 hour or more.
+Air
+connectors shall not pass through floors.
+
+---
+
+## Section 603.6.3: Flexible Air Duct and Air Connector Clearance
+
+603.6.3 Flexible Air Duct and Air Connector Clearance
+Flexible
+air
+ducts
+and
+air
+connectors shall be installed with a minimum
+clearance
+to an
+appliance
+as specified in the
+appliance
+manufacturer's instructions.
+
+---
+
+Flexible
+air
+ducts
+and
+air
+connectors shall be installed with a minimum
+clearance
+to an
+appliance
+as specified in the
+appliance
+manufacturer's instructions.
+
+---
+
+## Section 603.7: Rigid Duct Penetrations
+
+603.7 Rigid Duct Penetrations
+Duct system
+penetrations of walls, floors, ceilings and roofs and
+air transfer openings
+in such building components shall be protected as required by
+Section 607
+.
+Ducts
+in a private garage that penetrate a wall or ceiling that separates a
+dwelling
+from a private garage shall be continuous, shall be constructed of sheet steel having a thickness of not less than 0.0187 inch (0.4712 mm) (No. 26 gage) and shall not have openings into the garage. Fire and
+smoke dampers
+are not required in such
+ducts
+passing through the wall or ceiling separating a
+dwelling
+from a private garage except where required by
+Chapter 7
+of the
+New York City Building Code
+.
+
+---
+
+Duct system
+penetrations of walls, floors, ceilings and roofs and
+air transfer openings
+in such building components shall be protected as required by
+Section 607
+.
+Ducts
+in a private garage that penetrate a wall or ceiling that separates a
+dwelling
+from a private garage shall be continuous, shall be constructed of sheet steel having a thickness of not less than 0.0187 inch (0.4712 mm) (No. 26 gage) and shall not have openings into the garage. Fire and
+smoke dampers
+are not required in such
+ducts
+passing through the wall or ceiling separating a
+dwelling
+from a private garage except where required by
+Chapter 7
+of the
+New York City Building Code
+.
+
+---
+
+## Section 603.8: Underground Ducts
+
+603.8 Underground Ducts
+Ducts
+shall be approved for underground
+installation
+. Metallic
+ducts
+not having an approved protective coating shall be completely encased in not less than 2 inches (50.8 mm) of concrete.
+
+---
+
+Ducts
+shall be approved for underground
+installation
+. Metallic
+ducts
+not having an approved protective coating shall be completely encased in not less than 2 inches (50.8 mm) of concrete.
+
+---
+
+## Section 603.8.1: Slope
+
+603.8.1 Slope
+Ducts
+shall have a minimum slope of
+1
+/
+8
+inch per foot (10.4 mm/m) to allow drainage to a point provided with
+access
+.
+
+---
+
+Ducts
+shall have a minimum slope of
+1
+/
+8
+inch per foot (10.4 mm/m) to allow drainage to a point provided with
+access
+.
+
+---
+
+## Section 603.8.2: Sealing
+
+603.8.2 Sealing
+Ducts
+shall be sealed and secured prior to pouring the concrete encasement.
+
+---
+
+Ducts
+shall be sealed and secured prior to pouring the concrete encasement.
+
+---
+
+## Section 603.8.3: Plastic Ducts and Fittings
+
+603.8.3 Plastic Ducts and Fittings
+Plastic
+ducts
+shall be constructed of PVC having a minimum
+pipe
+stiffness of 8 psi (55.1 kPa) at 5-percent deflection when tested in accordance with ASTM D 2412. Plastic
+duct
+fittings shall be constructed of either PVC or high-density polyethylene. Plastic
+duct
+and fittings shall be utilized in underground
+installations
+only. The maximum
+design
+temperature for systems utilizing
+plastic
+duct
+and fittings shall be 150°F (65.6°C).
+
+---
+
+Plastic
+ducts
+shall be constructed of PVC having a minimum
+pipe
+stiffness of 8 psi (55.1 kPa) at 5-percent deflection when tested in accordance with ASTM D 2412. Plastic
+duct
+fittings shall be constructed of either PVC or high-density polyethylene. Plastic
+duct
+and fittings shall be utilized in underground
+installations
+only. The maximum
+design
+temperature for systems utilizing
+plastic
+duct
+and fittings shall be 150°F (65.6°C).
+
+---
+
+## Section 603.9: Joints, Seams and Connections
+
+603.9 Joints, Seams and Connections
+All longitudinal and transverse joints, seams and connections in metallic and nonmetallic
+ducts
+shall be constructed as specified in SMACNA/ANSI
+HVAC
+Duct
+Construction
+Standards
+—Metal and Flexible
+and NAIMA
+Fibrous Glass
+Duct
+Construction
+Standards
+. All joints, longitudinal and transverse seams and connections in ductwork shall be securely fastened and sealed with welds, gaskets, mastics (adhesives), mastic-plus-embedded-fabric systems, liquid sealants or tapes. Tapes and mastics used to seal fibrous glass ductwork shall be
+listed and labeled
+in accordance with UL 181A and shall be marked "181 A-P" for pressure-sensitive tape, "181 A-M" for mastic or "181 A-H" for heat-sensitive tape. Tapes and mastics used to seal metallic and flexible
+air
+ducts
+and
+flexible air connectors
+shall comply with UL 181B and shall be marked "181B-FX" for pressure-sensitive tape or "181B-M" for mastic.
+Duct
+connections to flanges of
+air distribution system
+equipment
+shall be sealed and mechanically fastened. Mechanical fasteners for use with flexible nonmetallic
+air
+ducts
+shall comply with UL 181B and shall be marked "181B-C." Closure systems used to seal all ductwork shall be installed in accordance with the manufacturer's instructions.
+Exception:
+For
+ducts
+having a static pressure classification of less than 2 inch w.c. (497.7 Pa), additional closure systems shall not be required for continuously
+welded joints
+and seams and locking-type joints and seams of other than the snap-lock and buttonlock types.
+
+---
+
+All longitudinal and transverse joints, seams and connections in metallic and nonmetallic
+ducts
+shall be constructed as specified in SMACNA/ANSI
+HVAC
+Duct
+Construction
+Standards
+—Metal and Flexible
+and NAIMA
+Fibrous Glass
+Duct
+Construction
+Standards
+. All joints, longitudinal and transverse seams and connections in ductwork shall be securely fastened and sealed with welds, gaskets, mastics (adhesives), mastic-plus-embedded-fabric systems, liquid sealants or tapes. Tapes and mastics used to seal fibrous glass ductwork shall be
+listed and labeled
+in accordance with UL 181A and shall be marked "181 A-P" for pressure-sensitive tape, "181 A-M" for mastic or "181 A-H" for heat-sensitive tape. Tapes and mastics used to seal metallic and flexible
+air
+ducts
+and
+flexible air connectors
+shall comply with UL 181B and shall be marked "181B-FX" for pressure-sensitive tape or "181B-M" for mastic.
+Duct
+connections to flanges of
+air distribution system
+equipment
+shall be sealed and mechanically fastened. Mechanical fasteners for use with flexible nonmetallic
+air
+ducts
+shall comply with UL 181B and shall be marked "181B-C." Closure systems used to seal all ductwork shall be installed in accordance with the manufacturer's instructions.
+Exception:
+For
+ducts
+having a static pressure classification of less than 2 inch w.c. (497.7 Pa), additional closure systems shall not be required for continuously
+welded joints
+and seams and locking-type joints and seams of other than the snap-lock and buttonlock types.
+
+---
+
+## Section 603.10: Supports
+
+603.10 Supports
+Ducts
+shall be supported in accordance with SMACNA/ANSI HVAC
+Duct
+Construction
+Standards
+—Metal and Flexible. Flexible and other factory-made
+ducts
+shall be supported in accordance with the manufacturer's instructions.
+Ducts
+shall not be hung from or supported by suspended ceilings.
+UpCodes Diagrams (4)
+
+---
+
+Ducts
+shall be supported in accordance with SMACNA/ANSI HVAC
+Duct
+Construction
+Standards
+—Metal and Flexible. Flexible and other factory-made
+ducts
+shall be supported in accordance with the manufacturer's instructions.
+Ducts
+shall not be hung from or supported by suspended ceilings.
+
+---
+
+## Section 603.11: Furnace Connections
+
+603.11 Furnace Connections
+Ducts
+connecting to a
+furnace
+shall have a
+clearance
+to combustibles in accordance with the
+furnace
+manufacturer's instructions.
+
+---
+
+Ducts
+connecting to a
+furnace
+shall have a
+clearance
+to combustibles in accordance with the
+furnace
+manufacturer's instructions.
+
+---
+
+## Section 603.11.1: Air Duct at Heat Sources
+
+603.11.1 Air Duct at Heat Sources
+Where heat sources from
+electrical
+equipment
+, fossil fuel-burning
+equipment
+, or solar energy collection
+equipment
+are installed in
+air
+ducts
+, the
+installation
+shall avoid the creation of a fire hazard.
+Air
+ducts
+rated as Class 1 in accordance with UL 181,
+air
+duct
+coverings, and linings shall be interrupted at the immediate area of
+operation
+of such heat sources in order to meet the
+clearances
+specified in the
+equipment
+listing.
+Appliances
+listed for zero
+clearance
+from combustibles where installed with the conditions of their listings.
+Insulation specifically suitable for the maximum temperature that reasonably can be anticipated on the
+duct
+surface shall be permitted to be installed at the immediate area of
+operation
+of such
+appliances
+.
+
+---
+
+Where heat sources from
+electrical
+equipment
+, fossil fuel-burning
+equipment
+, or solar energy collection
+equipment
+are installed in
+air
+ducts
+, the
+installation
+shall avoid the creation of a fire hazard.
+Air
+ducts
+rated as Class 1 in accordance with UL 181,
+air
+duct
+coverings, and linings shall be interrupted at the immediate area of
+operation
+of such heat sources in order to meet the
+clearances
+specified in the
+equipment
+listing.
+Appliances
+listed for zero
+clearance
+from combustibles where installed with the conditions of their listings.
+Insulation specifically suitable for the maximum temperature that reasonably can be anticipated on the
+duct
+surface shall be permitted to be installed at the immediate area of
+operation
+of such
+appliances
+.
+
+---
+
+## Section 603.12: Condensation
+
+603.12 Condensation
+Provisions shall be made to prevent the formation of condensation on the exterior of any
+duct
+.
+
+---
+
+Provisions shall be made to prevent the formation of condensation on the exterior of any
+duct
+.
+
+---
+
+## Section 603.13: Flood Hazard Areas
+
+603.13 Flood Hazard Areas
+For structures in
+flood hazard
+areas,
+ducts
+shall comply with the additional requirements of
+Appendix G
+of the
+New York City Building Code
+.
+
+---
+
+For structures in
+flood hazard
+areas,
+ducts
+shall comply with the additional requirements of
+Appendix G
+of the
+New York City Building Code
+.
+
+---
+
+## Section 603.14: Location
+
+603.14 Location
+Ducts
+shall not be installed in or within 4 inches (101.6 mm) of the earth, except where such
+ducts
+comply with
+Section 603.8
+.
+
+---
+
+Ducts
+shall not be installed in or within 4 inches (101.6 mm) of the earth, except where such
+ducts
+comply with
+Section 603.8
+.
+
+---
+
+## Section 603.15: Mechanical Protection
+
+603.15 Mechanical Protection
+Ducts
+installed in locations where they are exposed to mechanical damage by vehicles or from other causes shall be protected by approved vehicle barriers as required by the
+New York City Building Code
+.
+UpCodes Diagram (1)
+
+---
+
+Ducts
+installed in locations where they are exposed to mechanical damage by vehicles or from other causes shall be protected by approved vehicle barriers as required by the
+New York City Building Code
+.
+
+---
+
+## Section 603.16: Weather Protection
+
+603.16 Weather Protection
+Ducts
+including linings, coverings and vibration isolation connectors installed on the exterior of the building shall be protected against the elements.
+UpCodes Diagram (1)
+
+---
+
+Ducts
+including linings, coverings and vibration isolation connectors installed on the exterior of the building shall be protected against the elements.
+
+---
+
+## Section 603.17: Air Dispersion Systems
+
+603.17 Air Dispersion Systems
+Air dispersion systems
+shall:
+Be installed entirely in exposed locations or in underfloor air supply
+plenums
+.
+Be utilized in systems under
+positive pressure
+.
+Not pass through or penetrate fire-resistant-rated construction.
+Be
+listed and labeled
+in compliance with UL 2518.
+
+---
+
+Air dispersion systems
+shall:
+Be installed entirely in exposed locations or in underfloor air supply
+plenums
+.
+Be utilized in systems under
+positive pressure
+.
+Not pass through or penetrate fire-resistant-rated construction.
+Be
+listed and labeled
+in compliance with UL 2518.
+
+---
+
+## Section 603.18: Registers, Grilles and Diffusers
+
+603.18 Registers, Grilles and Diffusers
+Duct
+registers, grilles and diffusers shall be installed in accordance with the manufacturer's instructions and securely fastened to the ductwork.
+Volume dampers
+or other means of
+supply air
+adjustment shall be provided in the branch
+ducts
+or at each individual
+duct
+register, grille or diffuser. Each
+volume damper
+or other means of
+supply air
+adjustment used in balancing shall be provided with
+access
+.
+
+---
+
+Duct
+registers, grilles and diffusers shall be installed in accordance with the manufacturer's instructions and securely fastened to the ductwork.
+Volume dampers
+or other means of
+supply air
+adjustment shall be provided in the branch
+ducts
+or at each individual
+duct
+register, grille or diffuser. Each
+volume damper
+or other means of
+supply air
+adjustment used in balancing shall be provided with
+access
+.
+
+---
+
+## Section 603.18.1: Floor Registers
+
+603.18.1 Floor Registers
+Floor registers shall resist, without structural failure, a 200-pound (90.8 kg) concentrated load on a 2-inch-diameter (50.8 mm) disc applied to the most critical area of the exposed face.
+
+---
+
+Floor registers shall resist, without structural failure, a 200-pound (90.8 kg) concentrated load on a 2-inch-diameter (50.8 mm) disc applied to the most critical area of the exposed face.
+
+---
+
+## Section 603.18.2: Prohibited Locations
+
+603.18.2 Prohibited Locations
+Diffusers, registers and grilles shall be prohibited in the floor or its upward extension within toilet and bathing rooms required by the
+New York City Building Code
+to have smooth, hard, nonabsorbent surfaces.
+Exception:
+In R-3 occupancies.
+
+---
+
+Diffusers, registers and grilles shall be prohibited in the floor or its upward extension within toilet and bathing rooms required by the
+New York City Building Code
+to have smooth, hard, nonabsorbent surfaces.
+Exception:
+In R-3 occupancies.
+
+---
+
+## Section 603.19: Vibration Isolation Connectors
+
+603.19 Vibration Isolation Connectors
+Vibration isolation connectors in
+duct systems
+shall be made of an approved flame-retardant fabric or shall consist of sleeve joints with packing of approved material, each having a maximum
+flame spread index
+/rating of 25 and a maximum smoke-developed rating of 50. The fabric shall have a maximum length of 10 inches (254 mm) in the direction of airflow.
+
+---
+
+Vibration isolation connectors in
+duct systems
+shall be made of an approved flame-retardant fabric or shall consist of sleeve joints with packing of approved material, each having a maximum
+flame spread index
+/rating of 25 and a maximum smoke-developed rating of 50. The fabric shall have a maximum length of 10 inches (254 mm) in the direction of airflow.
+
+---
+
+Section 604 Insulation
+UpCodes Diagrams (2)
+
+---
+
+## Section 604.1: General
+
+604.1 General
+Duct
+insulation shall conform to the requirements of Sections
+604.2
+through
+604.13
+and the
+New York City Energy Conservation Code
+.
+
+---
+
+Duct
+insulation shall conform to the requirements of Sections
+604.2
+through
+604.13
+and the
+New York City Energy Conservation Code
+.
+
+---
+
+## Section 604.2: Surface Temperature
+
+604.2 Surface Temperature
+Ducts
+that operate at temperatures exceeding 120°F (48.9°C) shall have sufficient thermal insulation to limit the exposed surface temperature to 120°F (48.9°C).
+
+---
+
+Ducts
+that operate at temperatures exceeding 120°F (48.9°C) shall have sufficient thermal insulation to limit the exposed surface temperature to 120°F (48.9°C).
+
+---
+
+## Section 604.3: Coverings and Linings
+
+604.3 Coverings and Linings
+Coverings and linings, including adhesives where used, shall have a
+flame spread index
+not more than 25 and a
+smoke-developed index
+not more than 50, when tested in accordance with ASTM E 84 or UL 723, using the specimen preparation and mounting procedures of ASTM E 2231.
+Duct
+coverings and linings shall not flame, glow, smolder or smoke when tested in accordance with ASTM C 411 at the temperature to which they are exposed in service. The test temperature shall not fall below 250°F (121.1°C). Coverings and linings shall be
+listed and labeled
+.
+
+---
+
+Coverings and linings, including adhesives where used, shall have a
+flame spread index
+not more than 25 and a
+smoke-developed index
+not more than 50, when tested in accordance with ASTM E 84 or UL 723, using the specimen preparation and mounting procedures of ASTM E 2231.
+Duct
+coverings and linings shall not flame, glow, smolder or smoke when tested in accordance with ASTM C 411 at the temperature to which they are exposed in service. The test temperature shall not fall below 250°F (121.1°C). Coverings and linings shall be
+listed and labeled
+.
+
+---
+
+## Section 604.4: Foam Plastic Insulation
+
+604.4 Foam Plastic Insulation
+Foam plastic used as
+duct
+coverings and linings shall conform to the requirements of
+Section 604
+.
+
+---
+
+Foam plastic used as
+duct
+coverings and linings shall conform to the requirements of
+Section 604
+.
+
+---
+
+## Section 604.5: Appliance Insulation
+
+604.5 Appliance Insulation
+Listed and labeled
+appliances
+that are internally insulated shall be considered as conforming to the requirements of
+Section 604
+.
+
+---
+
+Listed and labeled
+appliances
+that are internally insulated shall be considered as conforming to the requirements of
+Section 604
+.
+
+---
+
+## Section 604.6: Penetration of Assemblies
+
+604.6 Penetration of Assemblies
+Duct
+coverings shall not penetrate a wall or floor required to have a fire-resistance rating or required to be fireblocked.
+UpCodes Diagram (1)
+
+---
+
+Duct
+coverings shall not penetrate a wall or floor required to have a fire-resistance rating or required to be fireblocked.
+
+---
+
+## Section 604.7: Identification
+
+604.7 Identification
+External
+duct
+insulation, except spray polyurethane foam, and factory-insulated flexible
+duct
+shall be legibly printed or identified at intervals not greater than 36 inches (914.4 mm) with the name of the manufacturer, the thermal resistance
+R
+-value at the specified installed thickness and the flame spread and smoke-developed indexes of the composite materials.
+Duct
+insulation
+R
+-values shall be based on insulation only, excluding
+air
+films, vapor retarders or other
+duct
+components, and shall be based on tested
+C
+-values at 75°F (23.9°C) mean temperature at the installed thickness, in accordance with recognized industry procedures. The installed thickness of
+duct
+insulation used to determine its R-value shall be determined as follows:
+For
+duct
+board,
+duct
+liner and factory-made rigid
+ducts
+not normally subjected to compression, the nominal insulation thickness shall be used.
+For
+duct
+wrap, the installed thickness shall be 75 percent (25 percent compression) of nominal thickness.
+For factory-made flexible
+air
+ducts
+, the installed thickness shall be determined by dividing the difference between the actual outside diameter and nominal inside diameter by two.
+For spray polyurethane foam, the aged
+R
+-value per inch, measured in accordance with recognized industry
+standards
+, shall be provided to the customer in writing at the time of foam application.
+
+---
+
+External
+duct
+insulation, except spray polyurethane foam, and factory-insulated flexible
+duct
+shall be legibly printed or identified at intervals not greater than 36 inches (914.4 mm) with the name of the manufacturer, the thermal resistance
+R
+-value at the specified installed thickness and the flame spread and smoke-developed indexes of the composite materials.
+Duct
+insulation
+R
+-values shall be based on insulation only, excluding
+air
+films, vapor retarders or other
+duct
+components, and shall be based on tested
+C
+-values at 75°F (23.9°C) mean temperature at the installed thickness, in accordance with recognized industry procedures. The installed thickness of
+duct
+insulation used to determine its R-value shall be determined as follows:
+For
+duct
+board,
+duct
+liner and factory-made rigid
+ducts
+not normally subjected to compression, the nominal insulation thickness shall be used.
+For
+duct
+wrap, the installed thickness shall be 75 percent (25 percent compression) of nominal thickness.
+For factory-made flexible
+air
+ducts
+, the installed thickness shall be determined by dividing the difference between the actual outside diameter and nominal inside diameter by two.
+For spray polyurethane foam, the aged
+R
+-value per inch, measured in accordance with recognized industry
+standards
+, shall be provided to the customer in writing at the time of foam application.
+
+---
+
+## Section 604.8: Lining Installation
+
+604.8 Lining Installation
+Linings shall be interrupted at the area of
+operation
+of a
+fire damper
+and at not less than 6 inches (152.4 mm) upstream of and 6 inches (152.4 mm) downstream of electric-resistance and fuel-burning heaters in a
+duct system
+. Metal nosings or sleeves shall be installed over exposed
+duct
+liner edges that face opposite the direction of airflow, and
+all exposed edges, joints and seams shall be sealed.
+
+---
+
+Linings shall be interrupted at the area of
+operation
+of a
+fire damper
+and at not less than 6 inches (152.4 mm) upstream of and 6 inches (152.4 mm) downstream of electric-resistance and fuel-burning heaters in a
+duct system
+. Metal nosings or sleeves shall be installed over exposed
+duct
+liner edges that face opposite the direction of airflow, and
+all exposed edges, joints and seams shall be sealed.
+
+---
+
+## Section 604.9: Thermal Continuity
+
+604.9 Thermal Continuity
+Where a
+duct
+liner required for thermal insulation or condensation
+control
+has been interrupted, a
+duct
+covering of equal thermal performance shall be installed.
+
+---
+
+Where a
+duct
+liner required for thermal insulation or condensation
+control
+has been interrupted, a
+duct
+covering of equal thermal performance shall be installed.
+
+---
+
+## Section 604.10: Service Openings
+
+604.10 Service Openings
+Service openings shall not be concealed by
+duct
+coverings unless the exact location of the opening is properly identified.
+
+---
+
+Service openings shall not be concealed by
+duct
+coverings unless the exact location of the opening is properly identified.
+
+---
+
+## Section 604.11: Vapor Retarders
+
+604.11 Vapor Retarders
+Where
+ducts
+used for cooling are externally insulated, the insulation shall be covered with a vapor retarder having a maximum permeance of 0.05 perm (2.87 ng/(Pa • s • m
+2
+)) or aluminum foil having a minimum thickness of 2 mils (0.051 mm). Insulations having a permeance of 0.05 perm (2.87 ng/(Pa • s • m
+2
+)) or less shall not be required to be covered. All joints and seams shall be sealed to maintain the continuity of the vapor retarder.
+
+---
+
+Where
+ducts
+used for cooling are externally insulated, the insulation shall be covered with a vapor retarder having a maximum permeance of 0.05 perm (2.87 ng/(Pa • s • m
+2
+)) or aluminum foil having a minimum thickness of 2 mils (0.051 mm). Insulations having a permeance of 0.05 perm (2.87 ng/(Pa • s • m
+2
+)) or less shall not be required to be covered. All joints and seams shall be sealed to maintain the continuity of the vapor retarder.
+
+---
+
+## Section 604.12: Weatherproof Barriers
+
+604.12 Weatherproof Barriers
+Insulated exterior
+ducts
+shall be protected with an adequate weatherproof barrier.
+UpCodes Diagram (1)
+
+---
+
+Insulated exterior
+ducts
+shall be protected with an adequate weatherproof barrier.
+
+---
+
+## Section 604.13: Internal Insulation
+
+604.13 Internal Insulation
+Materials used as internal insulation and exposed to the airstream in
+ducts
+shall be shown to be durable when tested in accordance with UL 181. Exposed internal insulation that is not impermeable to water shall not be used to line
+ducts
+or
+plenums
+from the exit of a cooling coil to the downstream end of the drain pan.
+
+---
+
+Materials used as internal insulation and exposed to the airstream in
+ducts
+shall be shown to be durable when tested in accordance with UL 181. Exposed internal insulation that is not impermeable to water shall not be used to line
+ducts
+or
+plenums
+from the exit of a cooling coil to the downstream end of the drain pan.
+
+---
+
+Section 605 Air Filters
+
+---
+
+## Section 605.1: General
+
+605.1 General
+Heating and
+air-conditioning systems
+shall be provided with approved
+air
+filters. Filters shall be installed such that all return
+air, outdoor
+air
+and
+makeup air
+is filtered upstream from any
+heat exchanger
+or coil. Filters shall be installed in an accessible location. Liquid adhesive coatings used on filters shall have a
+flash point
+not lower than 325°F (162.8°C).
+
+---
+
+Heating and
+air-conditioning systems
+shall be provided with approved
+air
+filters. Filters shall be installed such that all return
+air, outdoor
+air
+and
+makeup air
+is filtered upstream from any
+heat exchanger
+or coil. Filters shall be installed in an accessible location. Liquid adhesive coatings used on filters shall have a
+flash point
+not lower than 325°F (162.8°C).
+
+---
+
+## Section 605.2: Standards
+
+605.2 Standards
+Media-type and electrostatic-type
+air
+filters shall be
+listed and labeled
+. Media-type
+air
+filters shall comply with UL 900. High efficiency particulate
+air
+filters shall comply with UL 586. Electrostatic-type
+air
+filters shall comply with UL 867.
+Air
+filters utilized within
+dwelling units
+shall be designed for the intended application and shall not be required to be
+listed and labeled
+.
+
+---
+
+Media-type and electrostatic-type
+air
+filters shall be
+listed and labeled
+. Media-type
+air
+filters shall comply with UL 900. High efficiency particulate
+air
+filters shall comply with UL 586. Electrostatic-type
+air
+filters shall comply with UL 867.
+Air
+filters utilized within
+dwelling units
+shall be designed for the intended application and shall not be required to be
+listed and labeled
+.
+
+---
+
+## Section 605.2.1: Standards for Air-Handling Units
+
+605.2.1 Standards for Air-Handling Units
+Air-handling units
+of mechanical
+ventilation
+systems, any portion of which provide
+outdoor air
+ventilation
+, shall be equipped with a particulate matter filtration system in accordance with ASHRAE 62.1 or ASHRAE 62.2 and shall have a minimum efficiency reporting value (MERV) of 11 or greater in accordance with ASHRAE 52.2.
+Exceptions:
+This section shall not apply to the alteration or
+repair
+of a mechanical
+ventilation
+system that was installed prior to January 1, 2013 unless such alteration or
+repair
+includes the replacement or addition of an
+air-handling unit
+in such system.
+This section shall not apply to any
+air-handling unit
+with a
+design
+capacity of less than 5,000 cfm (2.4 m
+3
+/s).
+This section shall not apply for
+combustion
+outside
+air
+, dilution
+air, ventilation
+air
+for mechanical room and spaces not intended for occupancy.
+
+---
+
+Air-handling units
+of mechanical
+ventilation
+systems, any portion of which provide
+outdoor air
+ventilation
+, shall be equipped with a particulate matter filtration system in accordance with ASHRAE 62.1 or ASHRAE 62.2 and shall have a minimum efficiency reporting value (MERV) of 11 or greater in accordance with ASHRAE 52.2.
+Exceptions:
+This section shall not apply to the alteration or
+repair
+of a mechanical
+ventilation
+system that was installed prior to January 1, 2013 unless such alteration or
+repair
+includes the replacement or addition of an
+air-handling unit
+in such system.
+This section shall not apply to any
+air-handling unit
+with a
+design
+capacity of less than 5,000 cfm (2.4 m
+3
+/s).
+This section shall not apply for
+combustion
+outside
+air
+, dilution
+air, ventilation
+air
+for mechanical room and spaces not intended for occupancy.
+
+---
+
+## Section 605.3: Airflow Over the Filter
+
+605.3 Airflow Over the Filter
+Ducts
+shall be constructed to allow an even distribution of air over the entire filter.
+
+---
+
+Ducts
+shall be constructed to allow an even distribution of air over the entire filter.
+
+---
+
+## Section 605.4: Liquid Adhesive Tanks
+
+605.4 Liquid Adhesive Tanks
+Tanks for liquid adhesives, into which removable filters are dipped, shall be prohibited.
+
+---
+
+Tanks for liquid adhesives, into which removable filters are dipped, shall be prohibited.
+
+---
+
+## Section 605.5: Filter Maintenance
+
+605.5 Filter Maintenance
+All
+air
+filters shall be kept free of excess dust and
+combustible material
+. Unit filters shall be renewed or cleaned when the resistance to airflow has increased to two times the original resistance or when the resistance has reached a value of recommended replacement by the manufacturer. A permanently installed
+draft
+gauge or differential pressure transmitter shall be provided for all systems equal to or greater than 4000 cfm (1.89 m
+3
+/s).
+
+---
+
+All
+air
+filters shall be kept free of excess dust and
+combustible material
+. Unit filters shall be renewed or cleaned when the resistance to airflow has increased to two times the original resistance or when the resistance has reached a value of recommended replacement by the manufacturer. A permanently installed
+draft
+gauge or differential pressure transmitter shall be provided for all systems equal to or greater than 4000 cfm (1.89 m
+3
+/s).
+
+---
+
+Section 606 Smoke Detection Systems Control
+UpCodes Diagrams (3)
+
+---
+
+## Section 606.1: Controls Required
+
+606.1 Controls Required
+Air distribution systems
+shall be equipped with smoke detectors
+listed and labeled
+for
+installation
+in
+air distribution systems
+, as required by this section.
+Duct
+smoke detectors shall comply with UL 268A. Other smoke detectors shall comply with UL 268.
+
+---
+
+Air distribution systems
+shall be equipped with smoke detectors
+listed and labeled
+for
+installation
+in
+air distribution systems
+, as required by this section.
+Duct
+smoke detectors shall comply with UL 268A. Other smoke detectors shall comply with UL 268.
+
+---
+
+## Section 606.2: Where Required
+
+606.2 Where Required
+Smoke detectors shall be installed where indicated in Sections
+606.2.1
+through
+606.2.4
+.
+
+---
+
+Smoke detectors shall be installed where indicated in Sections
+606.2.1
+through
+606.2.4
+.
+
+---
+
+## Section 606.2.1: Return Air Systems
+
+606.2.1 Return Air Systems
+Smoke detectors shall be installed in
+return air systems
+with a
+design
+capacity greater than 2,000 cfm (0.9 m
+3
+/s), in the
+return air
+duct
+or
+plenum
+upstream of any filters,
+exhaust air
+connections,
+outdoor air
+connections, or decontamination
+equipment
+and
+appliances
+.
+Exception:
+Smoke detectors are not required in the
+return air system
+where all portions of the building served by the
+air distribution system
+are protected by area smoke detectors connected to a fire alarm system in accordance with the
+New York City Building Code
+. The area smoke detection system shall comply with
+Section 606.4
+.
+UpCodes Diagrams (3)
+
+---
+
+Smoke detectors shall be installed in
+return air systems
+with a
+design
+capacity greater than 2,000 cfm (0.9 m
+3
+/s), in the
+return air
+duct
+or
+plenum
+upstream of any filters,
+exhaust air
+connections,
+outdoor air
+connections, or decontamination
+equipment
+and
+appliances
+.
+Exception:
+Smoke detectors are not required in the
+return air system
+where all portions of the building served by the
+air distribution system
+are protected by area smoke detectors connected to a fire alarm system in accordance with the
+New York City Building Code
+. The area smoke detection system shall comply with
+Section 606.4
+.
+
+---
+
+## Section 606.2.2: Common Supply and Return Air Systems
+
+606.2.2 Common Supply and Return Air Systems
+Where multiple air-handling systems share common supply or
+return air
+ducts
+or
+plenums
+with a combined
+design
+capacity greater than 2,000 cfm (0.9 m
+3
+/s), the
+return air system
+shall be provided with smoke detectors in accordance with
+Section 606.2.1
+.
+Exception:
+Individual smoke detectors shall not be required for each fan-powered terminal unit, provided that such units do not have an individual
+design
+capacity greater than 2,000 cfm (0.9 m
+3
+/s) and will be shut down by activation of one of the following:
+Smoke detectors required by Sections
+606.2.1
+and
+606.2.3
+.
+An approved area smoke detector system located in the
+return air
+plenum
+serving such units.
+An area smoke detector system as prescribed in the exception to
+Section 606.2.1
+.
+In all cases, the smoke detectors shall comply with Sections
+606.4
+and
+606.4.1
+.
+
+---
+
+Where multiple air-handling systems share common supply or
+return air
+ducts
+or
+plenums
+with a combined
+design
+capacity greater than 2,000 cfm (0.9 m
+3
+/s), the
+return air system
+shall be provided with smoke detectors in accordance with
+Section 606.2.1
+.
+Exception:
+Individual smoke detectors shall not be required for each fan-powered terminal unit, provided that such units do not have an individual
+design
+capacity greater than 2,000 cfm (0.9 m
+3
+/s) and will be shut down by activation of one of the following:
+Smoke detectors required by Sections
+606.2.1
+and
+606.2.3
+.
+An approved area smoke detector system located in the
+return air
+plenum
+serving such units.
+An area smoke detector system as prescribed in the exception to
+Section 606.2.1
+.
+In all cases, the smoke detectors shall comply with Sections
+606.4
+and
+606.4.1
+.
+
+---
+
+## Section 606.2.3: Return Air Risers
+
+606.2.3 Return Air Risers
+Where
+return air
+risers serve two or more
+stories
+and serve any portion of a
+return air system
+having a
+design
+capacity greater than 15,000 cfm (7.1 m
+3
+/s), smoke detectors shall be installed at each
+story
+. Such smoke detectors shall be located upstream of the connection between the
+return air
+riser and any
+air
+ducts
+or
+plenums
+.
+
+---
+
+Where
+return air
+risers serve two or more
+stories
+and serve any portion of a
+return air system
+having a
+design
+capacity greater than 15,000 cfm (7.1 m
+3
+/s), smoke detectors shall be installed at each
+story
+. Such smoke detectors shall be located upstream of the connection between the
+return air
+riser and any
+air
+ducts
+or
+plenums
+.
+
+---
+
+## Section 606.2.4: Supply Air Systems
+
+606.2.4 Supply Air Systems
+Smoke detectors listed for use in
+air distribution systems
+shall be installed downstream of the
+air
+filters and upstream of any branch connections in air supply systems having a capacity greater than 2,000 cfm (0.9 m
+3
+/s).
+
+---
+
+Smoke detectors listed for use in
+air distribution systems
+shall be installed downstream of the
+air
+filters and upstream of any branch connections in air supply systems having a capacity greater than 2,000 cfm (0.9 m
+3
+/s).
+
+---
+
+## Section 606.3: Installation
+
+606.3 Installation
+Smoke detectors required by this section shall be installed in accordance with the
+New York City Electrical Code
+. The required smoke detectors shall be installed to monitor the entire airflow conveyed by the system.
+Access
+shall be provided to smoke detectors for inspection and
+maintenance
+.
+
+---
+
+Smoke detectors required by this section shall be installed in accordance with the
+New York City Electrical Code
+. The required smoke detectors shall be installed to monitor the entire airflow conveyed by the system.
+Access
+shall be provided to smoke detectors for inspection and
+maintenance
+.
+
+---
+
+## Section 606.4: Controls Operation
+
+606.4 Controls Operation
+Upon activation, the smoke detectors shall shut down all operational capabilities of the
+air distribution systems
+serving the affected areas in accordance with the listing and labeling of
+appliances
+used in the system.
+Air distribution systems
+that are part of a smoke
+control
+system shall switch to the smoke
+control
+mode upon activation of a detector.
+
+---
+
+Upon activation, the smoke detectors shall shut down all operational capabilities of the
+air distribution systems
+serving the affected areas in accordance with the listing and labeling of
+appliances
+used in the system.
+Air distribution systems
+that are part of a smoke
+control
+system shall switch to the smoke
+control
+mode upon activation of a detector.
+
+---
+
+## Section 606.4.1: Supervision
+
+606.4.1 Supervision
+The
+duct
+smoke detectors shall be connected to a fire alarm system where a fire alarm system is required by
+Section 907.2
+of the
+New York City Building Code
+. The actuation of a
+duct
+smoke detector shall activate a visible and audible alarm signal at a constantly attended location.
+Exceptions:
+The alarm signal at a constantly attended location is not required where the
+duct
+smoke detector activates the building's alarm-indicating
+appliances
+.
+In occupancies not required to be equipped with a fire alarm system, actuation of either area or
+duct
+smoke detector shall activate a visible and an audible alarm signal in an approved location. Additionally,
+duct
+smoke detector trouble conditions shall activate a visible or audible alarm signal in an approved location and shall be identified as
+air
+duct
+detector trouble.
+
+---
+
+The
+duct
+smoke detectors shall be connected to a fire alarm system where a fire alarm system is required by
+Section 907.2
+of the
+New York City Building Code
+. The actuation of a
+duct
+smoke detector shall activate a visible and audible alarm signal at a constantly attended location.
+Exceptions:
+The alarm signal at a constantly attended location is not required where the
+duct
+smoke detector activates the building's alarm-indicating
+appliances
+.
+In occupancies not required to be equipped with a fire alarm system, actuation of either area or
+duct
+smoke detector shall activate a visible and an audible alarm signal in an approved location. Additionally,
+duct
+smoke detector trouble conditions shall activate a visible or audible alarm signal in an approved location and shall be identified as
+air
+duct
+detector trouble.
+
+---
+
+## Section 606.4.2: Fan Shutdown for Recirculating Air Systems
+
+606.4.2 Fan Shutdown for Recirculating Air Systems
+When any building or floor is provided with an
+air
+system designed to use
+recirculated air
+and is protected by an automatic sprinkler system or an automatic fire alarm system, the fans recirculating
+air
+serving the affected area shall automatically stop when sprinkler water flow or a fire condition is detected in the area. For the purposes of this section, 100 percent
+outdoor air
+systems shall not be considered recirculating systems.
+Exceptions:
+Activation of a manual pull station shall not be required to automatically stop the fans.
+Systems having a capacity of 2,000 cfm (0.9 m
+3
+/s) or less or serving not more than one floor.
+In Group R-2 and R-3 occupancies with energy recovery systems complying with
+Section 514.4
+and not serving public corridors.
+
+---
+
+When any building or floor is provided with an
+air
+system designed to use
+recirculated air
+and is protected by an automatic sprinkler system or an automatic fire alarm system, the fans recirculating
+air
+serving the affected area shall automatically stop when sprinkler water flow or a fire condition is detected in the area. For the purposes of this section, 100 percent
+outdoor air
+systems shall not be considered recirculating systems.
+Exceptions:
+Activation of a manual pull station shall not be required to automatically stop the fans.
+Systems having a capacity of 2,000 cfm (0.9 m
+3
+/s) or less or serving not more than one floor.
+In Group R-2 and R-3 occupancies with energy recovery systems complying with
+Section 514.4
+and not serving public corridors.
+
+---
+
+## Section 606.4.3: Manual Restart of Fans After Automatic Fire Detecting Device or Fire Alarm System Shut Down
+
+606.4.3 Manual Restart of Fans After Automatic Fire Detecting Device or Fire Alarm System Shut Down
+Fans or fan systems which have been automatically shut down on activation of an automatic fire detecting device or fire alarm system shall be arranged and equipped so that they do not automatically restart when either the automatic fire detecting device or fire alarm system is reset. The manual means of restarting the fans or fan system shall function independently from the manual resetting of either the automatic fire detecting device or fire alarm system.
+
+---
+
+Fans or fan systems which have been automatically shut down on activation of an automatic fire detecting device or fire alarm system shall be arranged and equipped so that they do not automatically restart when either the automatic fire detecting device or fire alarm system is reset. The manual means of restarting the fans or fan system shall function independently from the manual resetting of either the automatic fire detecting device or fire alarm system.
+
+---
+
+## Section 606.5: Manual Control
+
+606.5 Manual Control
+Manual
+controls
+of fans shall be provided in accordance with
+Section 405.2
+.
+
+---
+
+Manual
+controls
+of fans shall be provided in accordance with
+Section 405.2
+.
+
+---
+
+Section 607 Ducts and Air Transfer Openings
+UpCodes Diagram (1)
+
+---
+
+## Section 607.1: General
+
+607.1 General
+The provisions of this section shall govern the
+protection
+of
+duct
+penetrations and
+air transfer openings
+in fire-resistance-rated assemblies required to be protected.
+
+---
+
+The provisions of this section shall govern the
+protection
+of
+duct
+penetrations and
+air transfer openings
+in fire-resistance-rated assemblies required to be protected.
+
+---
+
+## Section 607.1.1: Ducts and Air Transfer Openings
+
+607.1.1 Ducts and Air Transfer Openings
+Ducts
+transitioning horizontally between
+shafts
+shall comply with one of the following:
+The horizontal enclosure between
+shafts
+shall match the required rating of the
+shafts
+.
+Fire-resistive
+duct
+assemblies shall be provided in accordance with
+Section 604
+. The
+duct
+assembly shall comply with all of the following:
+Ducts
+shall not be within the
+scope
+of Sections
+502.10
+,
+504
+,
+506.3
+,
+510
+, or
+511
+; and
+Ducts
+shall not be lined with nor convey
+combustible materials
+; and
+Ducts
+shall not be constructed of materials that are sensitive to thermal shock.
+The horizontal
+offset
+duct
+shall be provided with combination fire-
+smoke dampers
+at the penetration of each
+shaft
+. The
+duct system
+shall comply with all of the following:
+Ducts
+shall not be within the
+scope
+of Sections
+502.10
+,
+504
+,
+506.3
+,
+510
+, or
+511
+; and
+The
+duct system
+shall be a type permitted to include
+dampers
+; and
+Protection
+of penetrations of the
+shaft enclosure
+shall not utilize exceptions requiring continuous
+air
+movement.
+
+---
+
+Ducts
+transitioning horizontally between
+shafts
+shall comply with one of the following:
+The horizontal enclosure between
+shafts
+shall match the required rating of the
+shafts
+.
+Fire-resistive
+duct
+assemblies shall be provided in accordance with
+Section 604
+. The
+duct
+assembly shall comply with all of the following:
+Ducts
+shall not be within the
+scope
+of Sections
+502.10
+,
+504
+,
+506.3
+,
+510
+, or
+511
+; and
+Ducts
+shall not be lined with nor convey
+combustible materials
+; and
+Ducts
+shall not be constructed of materials that are sensitive to thermal shock.
+The horizontal
+offset
+duct
+shall be provided with combination fire-
+smoke dampers
+at the penetration of each
+shaft
+. The
+duct system
+shall comply with all of the following:
+Ducts
+shall not be within the
+scope
+of Sections
+502.10
+,
+504
+,
+506.3
+,
+510
+, or
+511
+; and
+The
+duct system
+shall be a type permitted to include
+dampers
+; and
+Protection
+of penetrations of the
+shaft enclosure
+shall not utilize exceptions requiring continuous
+air
+movement.
+
+---
+
+## Section 607.1.2: Ducts That Penetrate Fire-Resistance-Rated Assemblies Without Dampers
+
+607.1.2 Ducts That Penetrate Fire-Resistance-Rated Assemblies Without Dampers
+Ducts
+that penetrate fire-resistance-rated assemblies and are not required by this section to have
+dampers
+shall comply with the requirements of Sections
+714.2
+through
+714.3.3
+of the
+New York City Building Code
+.
+Ducts
+that penetrate horizontal assemblies not required to be contained within a
+shaft
+and not required by this section to have
+dampers
+shall comply with the requirements of Sections
+714.4
+of the
+New York City Building Code
+.
+
+---
+
+Ducts
+that penetrate fire-resistance-rated assemblies and are not required by this section to have
+dampers
+shall comply with the requirements of Sections
+714.2
+through
+714.3.3
+of the
+New York City Building Code
+.
+Ducts
+that penetrate horizontal assemblies not required to be contained within a
+shaft
+and not required by this section to have
+dampers
+shall comply with the requirements of Sections
+714.4
+of the
+New York City Building Code
+.
+
+---
+
+## Section 607.1.2.1: Ducts That Penetrate Nonfire-Resistance-Rated Assemblies
+
+607.1.2.1 Ducts That Penetrate Nonfire-Resistance-Rated Assemblies
+The space around a
+duct
+penetrating a nonfire-resistance-rated floor assembly shall comply with
+Section 717.6.3
+of the
+New York City Building Code
+.
+
+---
+
+The space around a
+duct
+penetrating a nonfire-resistance-rated floor assembly shall comply with
+Section 717.6.3
+of the
+New York City Building Code
+.
+
+---
+
+## Section 607.2: Installation
+
+607.2 Installation
+Fire dampers
+,
+smoke dampers
+,
+combination fire/smoke dampers
+and
+ceiling radiation dampers
+located within
+air
+distribution and smoke
+control
+systems shall be installed in accordance with the requirements of this section, and the manufacturer's instructions and listing.
+UpCodes Diagram (1)
+
+---
+
+Fire dampers
+,
+smoke dampers
+,
+combination fire/smoke dampers
+and
+ceiling radiation dampers
+located within
+air
+distribution and smoke
+control
+systems shall be installed in accordance with the requirements of this section, and the manufacturer's instructions and listing.
+
+---
+
+## Section 607.2.1: Smoke Control System
+
+607.2.1 Smoke Control System
+Where the
+installation
+of a
+fire damper
+will interfere with the
+operation
+of a required smoke
+control
+system in accordance with Section 909 of the
+New York City Building Code
+, approved alternative
+protection
+shall be used. Where
+mechanical systems
+including
+ducts
+and
+dampers
+used for normal building
+ventilation
+serve as part of the smoke
+control
+system, the expected performance of these systems in smoke
+control
+mode shall be addressed in the rational analysis required by
+Section 909.4
+of the
+New York City Building Code
+.
+
+---
+
+Where the
+installation
+of a
+fire damper
+will interfere with the
+operation
+of a required smoke
+control
+system in accordance with Section 909 of the
+New York City Building Code
+, approved alternative
+protection
+shall be used. Where
+mechanical systems
+including
+ducts
+and
+dampers
+used for normal building
+ventilation
+serve as part of the smoke
+control
+system, the expected performance of these systems in smoke
+control
+mode shall be addressed in the rational analysis required by
+Section 909.4
+of the
+New York City Building Code
+.
+
+---
+
+## Section 607.2.1.1: Remote Operation
+
+607.2.1.1 Remote Operation
+Combination fire and
+smoke dampers
+shall be operable by remote
+controls
+where necessary for smoke removal. Such
+dampers
+shall have provisions that allow them to reclose automatically upon reaching the
+damper
+'s maximum degradation test temperature in accordance with UL 555S.
+
+---
+
+Combination fire and
+smoke dampers
+shall be operable by remote
+controls
+where necessary for smoke removal. Such
+dampers
+shall have provisions that allow them to reclose automatically upon reaching the
+damper
+'s maximum degradation test temperature in accordance with UL 555S.
+
+---
+
+## Section 607.2.2: Hazardous Exhaust Ducts
+
+607.2.2 Hazardous Exhaust Ducts
+Fire dampers
+for
+hazardous exhaust
+duct systems
+shall comply with
+Section 510
+.
+
+---
+
+Fire dampers
+for
+hazardous exhaust
+duct systems
+shall comply with
+Section 510
+.
+
+---
+
+## Section 607.2.3: Supply Air Systems
+
+607.2.3 Supply Air Systems
+Smoke dampers
+listed for use in
+air distribution systems
+shall be installed both upstream and downstream of filters and ahead of any branch connections in
+supply air
+-handling apparatus and systems having a capacity equal to or greater than 15,000 cfm (7.1 m
+3
+/s).
+Exceptions:
+Where the
+air-handling unit
+is located on the floor that it serves and serves only that floor.
+Where the
+air-handling unit
+is located on the roof and serves only the floor immediately below the roof.
+
+---
+
+Smoke dampers
+listed for use in
+air distribution systems
+shall be installed both upstream and downstream of filters and ahead of any branch connections in
+supply air
+-handling apparatus and systems having a capacity equal to or greater than 15,000 cfm (7.1 m
+3
+/s).
+Exceptions:
+Where the
+air-handling unit
+is located on the floor that it serves and serves only that floor.
+Where the
+air-handling unit
+is located on the roof and serves only the floor immediately below the roof.
+
+---
+
+## Section 607.3: Damper Testing, Ratings and Actuation
+
+607.3 Damper Testing, Ratings and Actuation
+Damper
+testing, ratings and actuation shall be in accordance with Sections
+607.3.1
+through
+607.3.3
+.
+
+---
+
+Damper
+testing, ratings and actuation shall be in accordance with Sections
+607.3.1
+through
+607.3.3
+.
+
+---
+
+## Section 607.3.1: Damper Testing
+
+607.3.1 Damper Testing
+Dampers
+shall be listed and bear the label of an approved testing agency indicating compliance with the
+standards
+in this section.
+Fire dampers
+shall comply with the requirements of UL 555. Only
+fire dampers
+and
+ceiling radiation dampers
+labeled for use in dynamic systems shall be installed in heating, ventilating and
+air-conditioning systems
+designed to operate with fans on during a fire.
+Smoke dampers
+shall comply with the requirements of UL 555S.
+Combination fire/smoke dampers
+shall comply with the requirements of both UL 555 and UL 555S.
+Ceiling radiation dampers
+shall comply with the requirements of UL 555C-Ceiling
+Dampers
+.
+
+---
+
+Dampers
+shall be listed and bear the label of an approved testing agency indicating compliance with the
+standards
+in this section.
+Fire dampers
+shall comply with the requirements of UL 555. Only
+fire dampers
+and
+ceiling radiation dampers
+labeled for use in dynamic systems shall be installed in heating, ventilating and
+air-conditioning systems
+designed to operate with fans on during a fire.
+Smoke dampers
+shall comply with the requirements of UL 555S.
+Combination fire/smoke dampers
+shall comply with the requirements of both UL 555 and UL 555S.
+Ceiling radiation dampers
+shall comply with the requirements of UL 555C-Ceiling
+Dampers
+.
+
+---
+
+## Section 607.3.2: Damper Rating
+
+607.3.2 Damper Rating
+Damper
+ratings shall be in accordance with Sections
+607.3.2.1
+through
+607.3.2.3
+.
+
+---
+
+Damper
+ratings shall be in accordance with Sections
+607.3.2.1
+through
+607.3.2.3
+.
+
+---
+
+## Section 607.3.2.1: Fire Damper Ratings
+
+607.3.2.1 Fire Damper Ratings
+Fire dampers
+shall have the minimum fire
+protection
+rating specified in Table 607.3.2.1 for the type of penetration.
+TABLE 607.3.2.1
+FIRE DAMPER
+RATING
+TYPE OF PENETRATION
+MINIMUM
+DAMPER
+RATING
+(hour)
+Less than 3-hour fire-resistance-rated assemblies
+1
+1
+/
+2
+3-hour or greater fire-resistance-rated assemblies
+3
+
+---
+
+Fire dampers
+shall have the minimum fire
+protection
+rating specified in Table 607.3.2.1 for the type of penetration.
+TABLE 607.3.2.1
+FIRE DAMPER
+RATING
+TYPE OF PENETRATION
+MINIMUM
+DAMPER
+RATING
+(hour)
+Less than 3-hour fire-resistance-rated assemblies
+1
+1
+/
+2
+3-hour or greater fire-resistance-rated assemblies
+3
+
+---
+
+## Section 607.3.2.2: Smoke Damper Ratings
+
+607.3.2.2 Smoke Damper Ratings
+Smoke damper
+leakage ratings shall be Class I or II. Elevated temperature ratings shall be not less than 250°F (121.1°C).
+
+---
+
+Smoke damper
+leakage ratings shall be Class I or II. Elevated temperature ratings shall be not less than 250°F (121.1°C).
+
+---
+
+## Section 607.3.2.3: Combination Fire/Smoke Damper Ratings
+
+607.3.2.3 Combination Fire/Smoke Damper Ratings
+Combination fire/smoke dampers
+shall have the minimum fire
+protection
+rating specified for
+fire dampers
+in
+Table 607.3.2.1
+for the type of penetration and shall have a minimum
+smoke damper
+rating as specified in Section
+607.3.2.2
+.
+
+---
+
+Combination fire/smoke dampers
+shall have the minimum fire
+protection
+rating specified for
+fire dampers
+in
+Table 607.3.2.1
+for the type of penetration and shall have a minimum
+smoke damper
+rating as specified in Section
+607.3.2.2
+.
+
+---
+
+## Section 607.3.3: Damper Actuation
+
+607.3.3 Damper Actuation
+Damper
+actuation shall be in accordance with Sections
+607.3.3.1
+through
+607.3.3.4
+as applicable.
+
+---
+
+Damper
+actuation shall be in accordance with Sections
+607.3.3.1
+through
+607.3.3.4
+as applicable.
+
+---
+
+## Section 607.3.3.1: Fire Damper Actuation Device
+
+607.3.3.1 Fire Damper Actuation Device
+The
+fire damper
+actuation device shall meet one of the following requirements:
+The operating temperature shall be approximately 50°F (10°C) above the normal temperature within the
+duct system
+, but not less than 160°F (71.1°C).
+The operating temperature shall be not more than 350°F (176.7°C) where located in a smoke
+control
+system complying with Section 909 of the
+New York City Building Code
+.
+
+---
+
+The
+fire damper
+actuation device shall meet one of the following requirements:
+The operating temperature shall be approximately 50°F (10°C) above the normal temperature within the
+duct system
+, but not less than 160°F (71.1°C).
+The operating temperature shall be not more than 350°F (176.7°C) where located in a smoke
+control
+system complying with Section 909 of the
+New York City Building Code
+.
+
+---
+
+## Section 607.3.3.2: Smoke Damper Actuation
+
+607.3.3.2 Smoke Damper Actuation
+The
+smoke damper
+shall close upon actuation of a listed smoke detector or detectors installed in accordance with Section 606 of this code and
+Section 907.3
+of the
+New York City Building Code
+and one of the following methods, as applicable:
+Where a
+smoke damper
+is installed within a
+duct
+, a smoke detector shall be installed inside the
+duct
+or outside the
+duct
+with sampling tubes protruding into the
+duct
+. The detector or tubes within the
+duct
+shall be within 5 feet (1524 mm) of the
+damper
+.
+Air
+outlets
+and inlets shall not be located between the detector or tubes and the
+damper
+. The detector shall be listed for the
+air
+velocity, temperature and humidity anticipated at the point where it is installed. Other than in mechanical smoke
+control
+systems,
+dampers
+shall be closed upon fan shutdown where local smoke detectors require a minimum velocity to operate.
+Exception:
+Duct
+smoke detectors will not be required at each smoke or combination fire
+smoke damper
+provided:
+The supply fan shall shut down and all the smoke and
+combination fire
+smoke dampers
+associated with the supply system automatically close upon actuation of any automatic alarm initiating device on the floor(s).
+Nonducted
+return air systems
+shall have a smoke detector located within 5 feet (1.5 m) upstream of each
+return air
+or transfer opening in a fire barrier rated 2-hour or greater.
+Ducted
+return air systems
+shall have a
+duct
+smoke detector located within 5 feet (1.5 m) of a
+smoke damper
+; additional smoke detectors are not required at smoke and combination fire
+smoke dampers
+located downstream where there are no additional
+return air
+inlets.
+Where a
+smoke damper
+is installed above smoke barrier doors in a smoke barrier, a spot-type detector shall be installed on either side of the smoke barrier door opening. The detector shall be listed for releasing service if used for direct interface with the
+damper
+.
+Where a
+smoke damper
+is installed within an unducted opening in a wall, a spot-type detector shall be installed within 5 feet (1524 mm) horizontally of the
+damper
+. The detector shall be listed for releasing service if used for direct interface with the
+damper
+.
+Where a
+smoke damper
+is installed in a corridor wall or ceiling, the
+damper
+shall be permitted to be controlled by a smoke detection system installed in the corridor.
+Where a smoke detection system is installed in all areas served by the
+duct
+in which the
+damper
+will be located, the
+smoke dampers
+shall be permitted to be controlled by the smoke detection system.
+Smoke dampers
+that are part of an
+engineered smoke control system
+shall be capable of being positioned manually from a command station. Such positioning devices shall be provided for supply and return/exhaust
+dampers
+grouped by floor and by type.
+Damper
+switch positions shall indicate whether the related
+dampers
+are commanded to be either open or closed.
+Smoke damper
+positioning switches shall be located at the Fire Command Station, or in a Mechanical
+Control
+Center in buildings without a Fire Command Station.
+
+---
+
+The
+smoke damper
+shall close upon actuation of a listed smoke detector or detectors installed in accordance with Section 606 of this code and
+Section 907.3
+of the
+New York City Building Code
+and one of the following methods, as applicable:
+Where a
+smoke damper
+is installed within a
+duct
+, a smoke detector shall be installed inside the
+duct
+or outside the
+duct
+with sampling tubes protruding into the
+duct
+. The detector or tubes within the
+duct
+shall be within 5 feet (1524 mm) of the
+damper
+.
+Air
+outlets
+and inlets shall not be located between the detector or tubes and the
+damper
+. The detector shall be listed for the
+air
+velocity, temperature and humidity anticipated at the point where it is installed. Other than in mechanical smoke
+control
+systems,
+dampers
+shall be closed upon fan shutdown where local smoke detectors require a minimum velocity to operate.
+Exception:
+Duct
+smoke detectors will not be required at each smoke or combination fire
+smoke damper
+provided:
+The supply fan shall shut down and all the smoke and
+combination fire
+smoke dampers
+associated with the supply system automatically close upon actuation of any automatic alarm initiating device on the floor(s).
+Nonducted
+return air systems
+shall have a smoke detector located within 5 feet (1.5 m) upstream of each
+return air
+or transfer opening in a fire barrier rated 2-hour or greater.
+Ducted
+return air systems
+shall have a
+duct
+smoke detector located within 5 feet (1.5 m) of a
+smoke damper
+; additional smoke detectors are not required at smoke and combination fire
+smoke dampers
+located downstream where there are no additional
+return air
+inlets.
+Where a
+smoke damper
+is installed above smoke barrier doors in a smoke barrier, a spot-type detector shall be installed on either side of the smoke barrier door opening. The detector shall be listed for releasing service if used for direct interface with the
+damper
+.
+Where a
+smoke damper
+is installed within an unducted opening in a wall, a spot-type detector shall be installed within 5 feet (1524 mm) horizontally of the
+damper
+. The detector shall be listed for releasing service if used for direct interface with the
+damper
+.
+Where a
+smoke damper
+is installed in a corridor wall or ceiling, the
+damper
+shall be permitted to be controlled by a smoke detection system installed in the corridor.
+Where a smoke detection system is installed in all areas served by the
+duct
+in which the
+damper
+will be located, the
+smoke dampers
+shall be permitted to be controlled by the smoke detection system.
+Smoke dampers
+that are part of an
+engineered smoke control system
+shall be capable of being positioned manually from a command station. Such positioning devices shall be provided for supply and return/exhaust
+dampers
+grouped by floor and by type.
+Damper
+switch positions shall indicate whether the related
+dampers
+are commanded to be either open or closed.
+Smoke damper
+positioning switches shall be located at the Fire Command Station, or in a Mechanical
+Control
+Center in buildings without a Fire Command Station.
+
+---
+
+## Section 607.3.3.3: Combination Fire/Smoke Damper Actuation
+
+607.3.3.3 Combination Fire/Smoke Damper Actuation
+Combination fire/smoke damper
+actuation shall be in accordance with Sections
+607.3.3.1
+and
+607.3.3.2
+.
+Combination fire/smoke dampers
+installed in smoke
+control
+system
+shaft
+penetrations shall not be activated by local area smoke detection unless it is secondary to the smoke management system
+controls
+.
+
+---
+
+Combination fire/smoke damper
+actuation shall be in accordance with Sections
+607.3.3.1
+and
+607.3.3.2
+.
+Combination fire/smoke dampers
+installed in smoke
+control
+system
+shaft
+penetrations shall not be activated by local area smoke detection unless it is secondary to the smoke management system
+controls
+.
+
+---
+
+## Section 607.3.3.4: Ceiling Radiation Damper Actuation
+
+607.3.3.4 Ceiling Radiation Damper Actuation
+The operating temperature of a
+ceiling radiation damper
+actuation device shall be 50°F (10°C) above the normal temperature within the
+duct system
+, but not less than 160°F (71.1°C).
+
+---
+
+The operating temperature of a
+ceiling radiation damper
+actuation device shall be 50°F (10°C) above the normal temperature within the
+duct system
+, but not less than 160°F (71.1°C).
+
+---
+
+## Section 607.4: Access and Identification
+
+607.4 Access and Identification
+Fire and
+smoke dampers
+shall be provided with an approved means of
+access
+, large enough to permit inspection and
+maintenance
+of the
+damper
+and its operating parts. The
+access
+shall not affect the integrity of fire-resistance-rated assemblies. The
+access
+openings shall not reduce the fire-resistance rating of the assembly.
+Access
+points shall be permanently identified on the exterior by a label having letters not less than 0.5 inch (12.7 mm) in height reading: FIRE/SMOKE
+DAMPER, SMOKE
+DAMPER
+or
+FIRE DAMPER
+, followed by an
+identification
+marking that is individual and unique to the
+damper
+accessed.
+Access
+doors in
+ducts
+shall be tight fitting and suitable for the required
+duct
+construction.
+
+---
+
+Fire and
+smoke dampers
+shall be provided with an approved means of
+access
+, large enough to permit inspection and
+maintenance
+of the
+damper
+and its operating parts. The
+access
+shall not affect the integrity of fire-resistance-rated assemblies. The
+access
+openings shall not reduce the fire-resistance rating of the assembly.
+Access
+points shall be permanently identified on the exterior by a label having letters not less than 0.5 inch (12.7 mm) in height reading: FIRE/SMOKE
+DAMPER, SMOKE
+DAMPER
+or
+FIRE DAMPER
+, followed by an
+identification
+marking that is individual and unique to the
+damper
+accessed.
+Access
+doors in
+ducts
+shall be tight fitting and suitable for the required
+duct
+construction.
+
+---
+
+## Section 607.5: Where Required
+
+607.5 Where Required
+Fire dampers
+,
+smoke dampers
+, and
+combination fire/smoke dampers
+shall be provided at the locations prescribed in Sections
+607.5.1
+through
+607.5.7
+. Where an assembly is required to have both
+fire dampers
+and
+smoke dampers
+,
+combination fire/smoke dampers
+or a
+fire damper
+and
+smoke damper
+shall be provided.
+Exceptions:
+Ducts
+20 square inches (12 903 mm
+2
+) or less passing through fire-resistance-rated assemblies other than fire walls shall not require
+fire dampers
+or
+smoke dampers
+.
+Smoke dampers
+shall not be required to be located within a prescribed distance of a fire-rated enclosure and where isolation
+smoke dampers
+are used in
+air
+-handling
+equipment
+.
+
+---
+
+Fire dampers
+,
+smoke dampers
+, and
+combination fire/smoke dampers
+shall be provided at the locations prescribed in Sections
+607.5.1
+through
+607.5.7
+. Where an assembly is required to have both
+fire dampers
+and
+smoke dampers
+,
+combination fire/smoke dampers
+or a
+fire damper
+and
+smoke damper
+shall be provided.
+Exceptions:
+Ducts
+20 square inches (12 903 mm
+2
+) or less passing through fire-resistance-rated assemblies other than fire walls shall not require
+fire dampers
+or
+smoke dampers
+.
+Smoke dampers
+shall not be required to be located within a prescribed distance of a fire-rated enclosure and where isolation
+smoke dampers
+are used in
+air
+-handling
+equipment
+.
+
+---
+
+## Section 607.5.1: Fire Walls
+
+607.5.1 Fire Walls
+Ducts and air transfer openings
+permitted in firewalls in accordance with
+Section 706.11
+of the
+New York City Building Code
+shall be protected with listed
+fire dampers
+and
+smoke dampers
+installed in accordance with their listing.
+Exception:
+Smoke dampers
+shall not be required in
+ducts
+where the
+air
+continues to move and the
+air
+-handling system installed is arranged to prevent recirculation of exhaust or
+return air
+under fire emergency conditions or loss of normal power by provision of standby power in accordance with
+Chapter 27
+of the
+New York City Building Code
+.
+
+---
+
+Ducts and air transfer openings
+permitted in firewalls in accordance with
+Section 706.11
+of the
+New York City Building Code
+shall be protected with listed
+fire dampers
+and
+smoke dampers
+installed in accordance with their listing.
+Exception:
+Smoke dampers
+shall not be required in
+ducts
+where the
+air
+continues to move and the
+air
+-handling system installed is arranged to prevent recirculation of exhaust or
+return air
+under fire emergency conditions or loss of normal power by provision of standby power in accordance with
+Chapter 27
+of the
+New York City Building Code
+.
+
+---
+
+## Section 607.5.1.1: Horizontal Exits
+
+607.5.1.1 Horizontal Exits
+A listed
+smoke damper
+designed to resist the passage of smoke shall be provided at each point that a
+duct
+or
+air transfer opening
+penetrates a fire wall that serves as a horizontal exit.
+Exception:
+Smoke dampers
+shall not be required in
+ducts
+where the
+air
+continues to move and the
+air
+-handling system installed is arranged to prevent recirculation of exhaust or
+return air
+under fire emergency conditions or loss of normal power by provision of standby power in accordance with
+Chapter 27
+of the
+New York City Building Cod
+e.
+
+---
+
+A listed
+smoke damper
+designed to resist the passage of smoke shall be provided at each point that a
+duct
+or
+air transfer opening
+penetrates a fire wall that serves as a horizontal exit.
+Exception:
+Smoke dampers
+shall not be required in
+ducts
+where the
+air
+continues to move and the
+air
+-handling system installed is arranged to prevent recirculation of exhaust or
+return air
+under fire emergency conditions or loss of normal power by provision of standby power in accordance with
+Chapter 27
+of the
+New York City Building Cod
+e.
+
+---
+
+## Section 607.5.2: Fire Barriers
+
+607.5.2 Fire Barriers
+Ducts and air transfer openings
+that penetrate fire barriers shall be protected with listed
+fire dampers
+installed in accordance with their listing.
+Ducts and air transfer openings
+shall not penetrate enclosures for interior exit stairways and ramps and exit passageways except as permitted by Sections
+1023.5
+and
+1024.6
+, respectively, of the
+New York City Building Code
+. In addition,
+smoke dampers
+shall be installed in penetrations of public corridor and horizontal exit walls in accordance with
+Section 607.5.2.1
+.
+Exceptions:
+Fire dampers
+are not required at penetrations of fire barriers where any of the following apply:
+Penetrations are tested in accordance with ASTM E 119 or UL 263 as part of the fire-resistance-rated assembly.
+Ducts
+are used as part of an
+engineered smoke control system
+in accordance with Section 513 of this code and Section 909 of the
+New York City Building Code
+and where the
+fire damper
+would interfere with the
+operation
+of the smoke
+control
+system.
+Such walls are penetrated by ducted HVAC systems, have a required fire-resistance rating of 1 hour or less, are in areas other than Group H and are in buildings equipped throughout with an automatic sprinkler system in accordance with
+Section 903.3.1.1
+or
+903.3.1.2
+of the
+New York City Building Code
+. For the purposes of this exception, a ducted HVAC system shall be a
+duct system
+for the structure's HVAC system. Such a
+duct system
+shall be constructed of sheet metal not less than 26 gage (0.0217-inch) (0.55 mm) thickness and shall be continuous from the
+air
+-handling
+appliance
+or
+equipment
+to the
+air
+outlet
+and inlet terminals.
+UpCodes Diagram (1)
+
+---
+
+Ducts and air transfer openings
+that penetrate fire barriers shall be protected with listed
+fire dampers
+installed in accordance with their listing.
+Ducts and air transfer openings
+shall not penetrate enclosures for interior exit stairways and ramps and exit passageways except as permitted by Sections
+1023.5
+and
+1024.6
+, respectively, of the
+New York City Building Code
+. In addition,
+smoke dampers
+shall be installed in penetrations of public corridor and horizontal exit walls in accordance with
+Section 607.5.2.1
+.
+Exceptions:
+Fire dampers
+are not required at penetrations of fire barriers where any of the following apply:
+Penetrations are tested in accordance with ASTM E 119 or UL 263 as part of the fire-resistance-rated assembly.
+Ducts
+are used as part of an
+engineered smoke control system
+in accordance with Section 513 of this code and Section 909 of the
+New York City Building Code
+and where the
+fire damper
+would interfere with the
+operation
+of the smoke
+control
+system.
+Such walls are penetrated by ducted HVAC systems, have a required fire-resistance rating of 1 hour or less, are in areas other than Group H and are in buildings equipped throughout with an automatic sprinkler system in accordance with
+Section 903.3.1.1
+or
+903.3.1.2
+of the
+New York City Building Code
+. For the purposes of this exception, a ducted HVAC system shall be a
+duct system
+for the structure's HVAC system. Such a
+duct system
+shall be constructed of sheet metal not less than 26 gage (0.0217-inch) (0.55 mm) thickness and shall be continuous from the
+air
+-handling
+appliance
+or
+equipment
+to the
+air
+outlet
+and inlet terminals.
+
+---
+
+## Section 607.5.2.1: Horizontal Exits
+
+607.5.2.1 Horizontal Exits
+A listed
+smoke damper
+designed to resist the passage of smoke shall be provided at each point that a
+duct
+or
+air transfer opening
+penetrates a fire barrier that serves as a horizontal exit.
+Exception:
+Smoke dampers
+shall not be required in
+ducts
+where the
+air
+continues to move and the
+air
+-handling system installed is arranged to prevent recirculation of exhaust or
+return air
+under fire emergency conditions.
+
+---
+
+A listed
+smoke damper
+designed to resist the passage of smoke shall be provided at each point that a
+duct
+or
+air transfer opening
+penetrates a fire barrier that serves as a horizontal exit.
+Exception:
+Smoke dampers
+shall not be required in
+ducts
+where the
+air
+continues to move and the
+air
+-handling system installed is arranged to prevent recirculation of exhaust or
+return air
+under fire emergency conditions.
+
+---
+
+## Section 607.5.2.2: Public Corridors
+
+607.5.2.2 Public Corridors
+A listed
+smoke damper
+designed to resist the passage of smoke shall be provided at each point a
+duct
+or
+air transfer opening
+penetrates a public corridor wall constructed as a fire barrier.
+Exceptions:
+Smoke dampers
+are not required where the building is equipped throughout with an approved smoke
+control
+system in accordance with Section 909 of the
+New York City Building Code
+, and
+smoke dampers
+are not necessary for the
+operation
+and
+control
+of the system.
+Smoke dampers
+are not required in corridor penetrations where the
+duct
+is constructed of steel not less than 0.019-inch (0.48 mm) in thickness and there are no openings serving the corridor.
+Smoke dampers
+are not required in corridor penetrations in Group R-2 buildings and public corridors serving R-2 spaces in mixed use buildings.
+Smoke dampers
+shall not be required in
+ducts
+where the
+air
+continues to move and the
+air
+-handling system installed is arranged to prevent recirculation of exhaust or
+return air
+under fire emergency conditions or loss of normal power by provision of standby power in accordance with
+Chapter 27
+of the
+New York City Building Code
+.
+
+---
+
+A listed
+smoke damper
+designed to resist the passage of smoke shall be provided at each point a
+duct
+or
+air transfer opening
+penetrates a public corridor wall constructed as a fire barrier.
+Exceptions:
+Smoke dampers
+are not required where the building is equipped throughout with an approved smoke
+control
+system in accordance with Section 909 of the
+New York City Building Code
+, and
+smoke dampers
+are not necessary for the
+operation
+and
+control
+of the system.
+Smoke dampers
+are not required in corridor penetrations where the
+duct
+is constructed of steel not less than 0.019-inch (0.48 mm) in thickness and there are no openings serving the corridor.
+Smoke dampers
+are not required in corridor penetrations in Group R-2 buildings and public corridors serving R-2 spaces in mixed use buildings.
+Smoke dampers
+shall not be required in
+ducts
+where the
+air
+continues to move and the
+air
+-handling system installed is arranged to prevent recirculation of exhaust or
+return air
+under fire emergency conditions or loss of normal power by provision of standby power in accordance with
+Chapter 27
+of the
+New York City Building Code
+.
+
+---
+
+## Section 607.5.3: Fire Partitions
+
+607.5.3 Fire Partitions
+Ducts and air transfer openings
+that penetrate fire partitions shall be protected with listed
+fire dampers
+installed in accordance with their listing.
+Exceptions:
+In occupancies other than Group H,
+fire dampers
+are not required where any of the following apply:
+The partitions are tenant separation and corridor walls in buildings equipped throughout with an automatic sprinkler system in accordance with
+Section 903.3.1.1
+or
+903.3.1.2
+of the
+New York City Building Code
+and the
+duct
+is protected as a through penetration in accordance with Section 714 of the
+New York City Building Code
+.
+The partitions are tenant partitions in covered and open mall buildings where the walls are not required by provisions elsewhere in the
+New York City Building Code
+to extend to the underside of the floor or roof sheathing, slab or deck above.
+The
+duct system
+is constructed of approved materials in accordance with code and the
+duct
+penetrating the wall complies with all of the following requirements.
+The
+duct
+shall not exceed 100 square inches (0.06 m
+2
+).
+The
+duct
+shall be constructed of steel not less than 0.0217 inch (0.55 mm) in thickness.
+The
+duct
+shall not have openings that communicate the corridor with adjacent spaces or rooms.
+The
+duct
+shall be installed above a ceiling.
+The
+duct
+shall not terminate at a wall register in the fire-resistance-rated wall.
+A minimum 12-inch-long (305 mm) by 0.060-inch-thick (1.52 mm) steel sleeve shall be centered in each
+duct
+opening. The sleeve shall be secured to both sides of the wall and all four sides of the sleeve with minimum 1
+1
+/
+2
+-inch by 1
+1
+/
+2
+-inch by 0.060-inch (38.1 mm by 38.1 mm by 1.52 mm) steel retaining angles. The retaining angles shall be secured to the sleeve and the wall with No. 10 (M5) screws. The annular space between the steel sleeve and the wall opening shall be filled with rock (mineral) wool batting or approved equivalent on all sides.
+Such partitions are penetrated by ducted HVAC systems, have a required fire-resistance rating of 1 hour or less, and are in areas of other than Group H and are in buildings equipped throughout with an automatic sprinkler system in accordance with
+Section 903.3.1.1
+or
+903.3.1.2
+of the
+New York City Building Code
+. For the purposes of this exception, a ducted HVAC system shall be a
+duct system
+for conveying supply, return or
+exhaust air
+as part of the structure's HVAC system. Such a
+duct system
+shall be constructed of sheet steel not less than 26 gage in thickness and shall be continuous from the
+air
+-handling
+appliance
+or
+equipment
+to the
+air
+outlet
+and inlet terminals.
+UpCodes Diagrams (2)
+Building products (2)
+
+---
+
+Ducts and air transfer openings
+that penetrate fire partitions shall be protected with listed
+fire dampers
+installed in accordance with their listing.
+Exceptions:
+In occupancies other than Group H,
+fire dampers
+are not required where any of the following apply:
+The partitions are tenant separation and corridor walls in buildings equipped throughout with an automatic sprinkler system in accordance with
+Section 903.3.1.1
+or
+903.3.1.2
+of the
+New York City Building Code
+and the
+duct
+is protected as a through penetration in accordance with Section 714 of the
+New York City Building Code
+.
+The partitions are tenant partitions in covered and open mall buildings where the walls are not required by provisions elsewhere in the
+New York City Building Code
+to extend to the underside of the floor or roof sheathing, slab or deck above.
+The
+duct system
+is constructed of approved materials in accordance with code and the
+duct
+penetrating the wall complies with all of the following requirements.
+The
+duct
+shall not exceed 100 square inches (0.06 m
+2
+).
+The
+duct
+shall be constructed of steel not less than 0.0217 inch (0.55 mm) in thickness.
+The
+duct
+shall not have openings that communicate the corridor with adjacent spaces or rooms.
+The
+duct
+shall be installed above a ceiling.
+The
+duct
+shall not terminate at a wall register in the fire-resistance-rated wall.
+A minimum 12-inch-long (305 mm) by 0.060-inch-thick (1.52 mm) steel sleeve shall be centered in each
+duct
+opening. The sleeve shall be secured to both sides of the wall and all four sides of the sleeve with minimum 1
+1
+/
+2
+-inch by 1
+1
+/
+2
+-inch by 0.060-inch (38.1 mm by 38.1 mm by 1.52 mm) steel retaining angles. The retaining angles shall be secured to the sleeve and the wall with No. 10 (M5) screws. The annular space between the steel sleeve and the wall opening shall be filled with rock (mineral) wool batting or approved equivalent on all sides.
+Such partitions are penetrated by ducted HVAC systems, have a required fire-resistance rating of 1 hour or less, and are in areas of other than Group H and are in buildings equipped throughout with an automatic sprinkler system in accordance with
+Section 903.3.1.1
+or
+903.3.1.2
+of the
+New York City Building Code
+. For the purposes of this exception, a ducted HVAC system shall be a
+duct system
+for conveying supply, return or
+exhaust air
+as part of the structure's HVAC system. Such a
+duct system
+shall be constructed of sheet steel not less than 26 gage in thickness and shall be continuous from the
+air
+-handling
+appliance
+or
+equipment
+to the
+air
+outlet
+and inlet terminals.
+
+---
+
+## Section 607.5.4: Smoke Barriers
+
+607.5.4 Smoke Barriers
+A listed
+smoke damper
+designed to resist the passage of smoke shall be provided at each point where a
+duct
+or an
+air transfer opening
+penetrates a smoke barrier wall enclosure required to have smoke and
+draft
+control
+doors in accordance with the
+New York City Building Code
+.
+Smoke dampers
+and
+smoke damper
+actuation methods shall comply with
+Section 607.5.4.1
+.
+Exceptions:
+Smoke dampers
+are not required in smoke barrier penetrations where the openings in
+ducts
+are limited to a single smoke compartment and the
+ducts
+are constructed of steel.
+Smoke dampers
+are not required in
+ducts
+where the
+air
+continues to move and the
+air
+-handling system installed is arranged to prevent recirculation of exhaust or
+return air
+under fire emergency conditions.
+
+---
+
+A listed
+smoke damper
+designed to resist the passage of smoke shall be provided at each point where a
+duct
+or an
+air transfer opening
+penetrates a smoke barrier wall enclosure required to have smoke and
+draft
+control
+doors in accordance with the
+New York City Building Code
+.
+Smoke dampers
+and
+smoke damper
+actuation methods shall comply with
+Section 607.5.4.1
+.
+Exceptions:
+Smoke dampers
+are not required in smoke barrier penetrations where the openings in
+ducts
+are limited to a single smoke compartment and the
+ducts
+are constructed of steel.
+Smoke dampers
+are not required in
+ducts
+where the
+air
+continues to move and the
+air
+-handling system installed is arranged to prevent recirculation of exhaust or
+return air
+under fire emergency conditions.
+
+---
+
+## Section 607.5.4.1: Smoke Damper
+
+607.5.4.1 Smoke Damper
+The
+smoke damper
+shall close upon actuation of a listed smoke detector or detectors installed in accordance with the
+New York City Building Code
+and
+Section 607.3.3.2
+.
+
+---
+
+The
+smoke damper
+shall close upon actuation of a listed smoke detector or detectors installed in accordance with the
+New York City Building Code
+and
+Section 607.3.3.2
+.
+
+---
+
+## Section 607.5.5: Shaft Enclosures
+
+607.5.5 Shaft Enclosures
+Ducts and air transfer openings
+shall not penetrate a
+shaft
+serving as an exit enclosure except as permitted by Section 1022.4 of the
+New York City Building Code
+.
+Shaft enclosures
+that are permitted to be penetrated by
+ducts and air transfer openings
+shall be protected with approved fire and
+smoke dampers
+installed in accordance with their listing.
+Exceptions:
+Fire dampers
+are not required at penetrations of
+shafts
+where any of the following apply:
+In buildings equipped throughout with an automatic sprinkler system in accordance with
+Chapter 9
+of the
+New York City Building Code
+, where steel exhaust subducts have a minimum thickness of 0.0187 inch (0.4712 mm) (No. 26 gage) and extend not less than 22 inches (558.8 mm) vertically in exhaust
+shafts
+, provided that there is a continuous airflow upward to the outdoors whenever the building is occupied.
+Penetrations are tested in accordance with ASTM E 119 or UL 263 as part of the fire-resistance-rated assembly.
+Ducts
+are used as part of an
+engineered smoke control system
+designed and installed in accordance with Section 909 of the
+New York City Building Code
+, and where the
+fire damper
+will interfere with the
+operation
+of the smoke
+control
+system.
+The penetrations are in parking garage exhaust or supply
+shafts
+that are separated from other building
+shafts
+by not less than 2-hour fire-resistance-rated construction.
+Smoke dampers
+are not required in exhaust
+ducts
+or
+shafts
+where the exhaust fan is maintained in
+operation
+whenever the building is occupied, in
+bathrooms
+and
+toilet room
+exhausts.
+Smoke dampers
+are not required at penetrations of exhaust or supply
+shafts
+in parking garages that are separated from other building
+shafts
+by not less than 2-hour fire-resistance-rated construction.
+Smoke dampers
+are not required at penetrations of
+shafts
+where
+ducts
+are used as part of an engineered mechanical smoke
+control
+system designed in accordance with Section 909 of the
+New York City Building Code
+and where the
+smoke damper
+will interfere with the
+operation
+of the smoke
+control
+system.
+Fire dampers
+and/or
+smoke dampers
+are not required at a
+shaft
+where the
+shaft
+is acting as an extension of the mechanical
+equipment
+room that it serves and the
+shaft
+and mechanical
+equipment
+room maintain fire and smoke separation required by the greater of the two spaces from the occupied portions of the building and meet the requirements of Sections
+713.11
+and
+713.12
+of the
+New York City Building Code
+.
+Smoke dampers
+are not required to be located within a prescribed distance of a fire-rated enclosure within which the
+air
+handling
+equipment
+is located and where isolation
+smoke dampers
+are used in
+air
+-handling
+equipment
+. See
+Section 607.2.3
+for additional requirements.
+Smoke dampers
+are not required in
+ducts
+where the
+air
+continues to move and the
+air
+-handling system installed is arranged to prevent recirculation of exhaust or
+return air
+during a fire emergency condition. Such fans shall be provided with standby power in accordance with
+Chapter 27
+of the
+New York City Building Code
+.
+
+---
+
+Ducts and air transfer openings
+shall not penetrate a
+shaft
+serving as an exit enclosure except as permitted by Section 1022.4 of the
+New York City Building Code
+.
+Shaft enclosures
+that are permitted to be penetrated by
+ducts and air transfer openings
+shall be protected with approved fire and
+smoke dampers
+installed in accordance with their listing.
+Exceptions:
+Fire dampers
+are not required at penetrations of
+shafts
+where any of the following apply:
+In buildings equipped throughout with an automatic sprinkler system in accordance with
+Chapter 9
+of the
+New York City Building Code
+, where steel exhaust subducts have a minimum thickness of 0.0187 inch (0.4712 mm) (No. 26 gage) and extend not less than 22 inches (558.8 mm) vertically in exhaust
+shafts
+, provided that there is a continuous airflow upward to the outdoors whenever the building is occupied.
+Penetrations are tested in accordance with ASTM E 119 or UL 263 as part of the fire-resistance-rated assembly.
+Ducts
+are used as part of an
+engineered smoke control system
+designed and installed in accordance with Section 909 of the
+New York City Building Code
+, and where the
+fire damper
+will interfere with the
+operation
+of the smoke
+control
+system.
+The penetrations are in parking garage exhaust or supply
+shafts
+that are separated from other building
+shafts
+by not less than 2-hour fire-resistance-rated construction.
+Smoke dampers
+are not required in exhaust
+ducts
+or
+shafts
+where the exhaust fan is maintained in
+operation
+whenever the building is occupied, in
+bathrooms
+and
+toilet room
+exhausts.
+Smoke dampers
+are not required at penetrations of exhaust or supply
+shafts
+in parking garages that are separated from other building
+shafts
+by not less than 2-hour fire-resistance-rated construction.
+Smoke dampers
+are not required at penetrations of
+shafts
+where
+ducts
+are used as part of an engineered mechanical smoke
+control
+system designed in accordance with Section 909 of the
+New York City Building Code
+and where the
+smoke damper
+will interfere with the
+operation
+of the smoke
+control
+system.
+Fire dampers
+and/or
+smoke dampers
+are not required at a
+shaft
+where the
+shaft
+is acting as an extension of the mechanical
+equipment
+room that it serves and the
+shaft
+and mechanical
+equipment
+room maintain fire and smoke separation required by the greater of the two spaces from the occupied portions of the building and meet the requirements of Sections
+713.11
+and
+713.12
+of the
+New York City Building Code
+.
+Smoke dampers
+are not required to be located within a prescribed distance of a fire-rated enclosure within which the
+air
+handling
+equipment
+is located and where isolation
+smoke dampers
+are used in
+air
+-handling
+equipment
+. See
+Section 607.2.3
+for additional requirements.
+Smoke dampers
+are not required in
+ducts
+where the
+air
+continues to move and the
+air
+-handling system installed is arranged to prevent recirculation of exhaust or
+return air
+during a fire emergency condition. Such fans shall be provided with standby power in accordance with
+Chapter 27
+of the
+New York City Building Code
+.
+
+---
+
+## Section 607.5.5.1: Enclosure at the Bottom
+
+607.5.5.1 Enclosure at the Bottom
+Shaft enclosures
+that do not extend to the bottom of the building or structure shall be protected in accordance with
+Section 713.11
+of the
+New York City Building Code
+.
+UpCodes Diagram (1)
+
+---
+
+Shaft enclosures
+that do not extend to the bottom of the building or structure shall be protected in accordance with
+Section 713.11
+of the
+New York City Building Code
+.
+
+---
+
+## Section 607.5.5.2: Limitations
+
+607.5.5.2 Limitations
+Shafts
+that constitute
+air
+ducts
+or that enclose
+air
+ducts
+used for the movement of
+environmental air
+shall not enclose:
+Exhaust
+ducts
+used for the removal of smoke and grease-laden vapors from cooking
+equipment
+;
+Ducts
+used for removal of flammable vapors;
+Ducts
+used for moving, conveying, or transporting stock, vapor or dust;
+Ducts
+used for the removal of nonflammable corrosive fumes and vapors;
+Refuse and linen chutes; or
+Piping
+.
+Exception:
+Shafts
+that constitute
+air
+ducts
+or that enclose
+air
+ducts
+used for the movement of
+environmental air
+may enclose noncombustible
+piping
+conveying water or other nonhazardous or nontoxic materials.
+
+---
+
+Shafts
+that constitute
+air
+ducts
+or that enclose
+air
+ducts
+used for the movement of
+environmental air
+shall not enclose:
+Exhaust
+ducts
+used for the removal of smoke and grease-laden vapors from cooking
+equipment
+;
+Ducts
+used for removal of flammable vapors;
+Ducts
+used for moving, conveying, or transporting stock, vapor or dust;
+Ducts
+used for the removal of nonflammable corrosive fumes and vapors;
+Refuse and linen chutes; or
+Piping
+.
+Exception:
+Shafts
+that constitute
+air
+ducts
+or that enclose
+air
+ducts
+used for the movement of
+environmental air
+may enclose noncombustible
+piping
+conveying water or other nonhazardous or nontoxic materials.
+
+---
+
+## Section 607.5.6: Exterior Walls
+
+607.5.6 Exterior Walls
+Ducts and air transfer openings
+in fire-resistance-rated exterior walls required to have protected openings in accordance with
+Section 705.10
+of the
+New York City Building Code
+shall be protected with listed
+fire dampers
+installed in accordance with their listing.
+
+---
+
+Ducts and air transfer openings
+in fire-resistance-rated exterior walls required to have protected openings in accordance with
+Section 705.10
+of the
+New York City Building Code
+shall be protected with listed
+fire dampers
+installed in accordance with their listing.
+
+---
+
+## Section 607.5.6.1: Outdoor Air Intake Openings
+
+607.5.6.1 Outdoor Air Intake Openings
+An
+outdoor air
+intake opening with gross area of more than 144 square inches (92 903 mm
+2
+) shall be provided with
+fire dampers
+and
+smoke dampers
+, or combined fire and
+smoke dampers
+when such opening is located as follows (intake and exhaust separation requirements of Chapters
+4
+and
+5
+shall also be maintained):
+Less than 30 feet (9144 mm) above grade.
+Less than 30 feet (9144 mm) in any direction from any opening in another building.
+Less than 15 feet (4572 mm) from a lot line.
+Less than 50 feet (15 240 mm) above and less than 50 feet (15 240 mm) in any direction from a roof constructed of
+combustible material
+or a building in which the exterior walls are constructed wholly or partly of wood.
+Exceptions:
+Smoke dampers
+shall not be required for
+outdoor air
+intake openings of systems greater than 15,000 cfm (7.1 m3/s) which are provided with
+smoke dampers
+in accordance with
+Chapter 6
+and arranged so as to not introduce smoke into the building or space in which the
+equipment
+is located.
+A
+damper
+is not required where the
+combustion air
+intake
+duct
+,
+boiler room
+, and
+combustion air
+intake louver for such
+boiler room
+are enclosed with construction having a fire-resistance rating not less than the rating of the exterior wall,
+boiler room
+and any intervening space.
+
+---
+
+An
+outdoor air
+intake opening with gross area of more than 144 square inches (92 903 mm
+2
+) shall be provided with
+fire dampers
+and
+smoke dampers
+, or combined fire and
+smoke dampers
+when such opening is located as follows (intake and exhaust separation requirements of Chapters
+4
+and
+5
+shall also be maintained):
+Less than 30 feet (9144 mm) above grade.
+Less than 30 feet (9144 mm) in any direction from any opening in another building.
+Less than 15 feet (4572 mm) from a lot line.
+Less than 50 feet (15 240 mm) above and less than 50 feet (15 240 mm) in any direction from a roof constructed of
+combustible material
+or a building in which the exterior walls are constructed wholly or partly of wood.
+Exceptions:
+Smoke dampers
+shall not be required for
+outdoor air
+intake openings of systems greater than 15,000 cfm (7.1 m3/s) which are provided with
+smoke dampers
+in accordance with
+Chapter 6
+and arranged so as to not introduce smoke into the building or space in which the
+equipment
+is located.
+A
+damper
+is not required where the
+combustion air
+intake
+duct
+,
+boiler room
+, and
+combustion air
+intake louver for such
+boiler room
+are enclosed with construction having a fire-resistance rating not less than the rating of the exterior wall,
+boiler room
+and any intervening space.
+
+---
+
+## Section 607.5.7: Smoke Partitions
+
+607.5.7 Smoke Partitions
+A listed
+smoke damper
+designed to resist the passage of smoke shall be provided at each point where an
+air transfer opening
+penetrates a smoke partition.
+Smoke dampers
+and
+smoke damper
+actuation methods shall comply with
+Section 607.3.3.2
+.
+Exceptions:
+Where the
+installation
+of a
+smoke damper
+will interfere with the
+operation
+of a required smoke
+control
+system in accordance with
+Section 513
+, approved alternate
+protection
+shall be used.
+Smoke dampers
+shall not be required in
+ducts
+where the
+air
+continues to move and the
+air
+-handling system installed is arranged to prevent recirculation of exhaust or
+return air
+under fire emergency conditions.
+
+---
+
+A listed
+smoke damper
+designed to resist the passage of smoke shall be provided at each point where an
+air transfer opening
+penetrates a smoke partition.
+Smoke dampers
+and
+smoke damper
+actuation methods shall comply with
+Section 607.3.3.2
+.
+Exceptions:
+Where the
+installation
+of a
+smoke damper
+will interfere with the
+operation
+of a required smoke
+control
+system in accordance with
+Section 513
+, approved alternate
+protection
+shall be used.
+Smoke dampers
+shall not be required in
+ducts
+where the
+air
+continues to move and the
+air
+-handling system installed is arranged to prevent recirculation of exhaust or
+return air
+under fire emergency conditions.
+
+---
+
+## Section 607.6: Horizontal Assemblies
+
+607.6 Horizontal Assemblies
+Penetrations by
+air
+ducts
+of a floor, floor/ceiling assembly or the ceiling membrane of a roof/ceiling assembly shall be protected by a
+shaft enclosure
+that complies with the
+New York City Building Code
+or shall comply with this section.
+
+---
+
+Penetrations by
+air
+ducts
+of a floor, floor/ceiling assembly or the ceiling membrane of a roof/ceiling assembly shall be protected by a
+shaft enclosure
+that complies with the
+New York City Building Code
+or shall comply with this section.
+
+---
+
+## Section 607.6.1: Through Penetrations
+
+607.6.1 Through Penetrations
+In occupancies other than Groups I-2 and I-3, a
+duct
+and
+air transfer opening
+system constructed of approved materials in accordance with this code that penetrates a fire-resistance-rated floor/ceiling assembly that connects not more than two
+stories
+is permitted without
+shaft enclosure
+protection
+provided that a listed
+fire damper
+is installed at the floor line and the penetration is firestopped or the
+duct
+is protected in accordance with
+Section 714.4
+of the
+New York City Building Code
+.
+For
+air transfer openings
+, see Item 6,
+Section 712.1.9
+of the
+New York City Building Code
+.
+Exception:
+A
+duct
+serving a
+dwelling unit
+is permitted to penetrate three floors or less without a
+fire damper
+at each floor provided such
+duct
+meets all of the following requirements.
+The
+duct
+is contained and located within the cavity of a wall and is constructed of steel having a minimum thickness of 0.0187 inch (0.4712 mm) (No. 26 gage).
+The
+duct
+opens into only one
+dwelling
+or
+sleeping unit
+and the
+duct system
+is continuous from the unit to the exterior of the building.
+The
+duct
+does not exceed a 5-inch (127 mm) nominal diameter and the total area of such
+ducts
+does not exceed 100 square inches (64 516 mm
+2
+) for any 100 square feet (9.3 m
+2
+) of the floor area.
+The annular space around the
+duct
+is protected with materials that prevent the passage of flame and hot gases sufficient to ignite cotton waste where subjected to ASTM E 119 or UL 263 time-temperature conditions under a minimum
+positive pressure
+differential of 0.01 inch (2.49 Pa) of water at the location of the penetration for the time period equivalent to the fire-resistance rating of the construction penetrated.
+Grille openings located in a ceiling of a fire-resistance-rated floor/ceiling or roof/ceiling assembly are protected with a listed
+ceiling radiation damper
+installed in accordance with
+Section 607.6.2.1
+.
+
+---
+
+In occupancies other than Groups I-2 and I-3, a
+duct
+and
+air transfer opening
+system constructed of approved materials in accordance with this code that penetrates a fire-resistance-rated floor/ceiling assembly that connects not more than two
+stories
+is permitted without
+shaft enclosure
+protection
+provided that a listed
+fire damper
+is installed at the floor line and the penetration is firestopped or the
+duct
+is protected in accordance with
+Section 714.4
+of the
+New York City Building Code
+.
+For
+air transfer openings
+, see Item 6,
+Section 712.1.9
+of the
+New York City Building Code
+.
+Exception:
+A
+duct
+serving a
+dwelling unit
+is permitted to penetrate three floors or less without a
+fire damper
+at each floor provided such
+duct
+meets all of the following requirements.
+The
+duct
+is contained and located within the cavity of a wall and is constructed of steel having a minimum thickness of 0.0187 inch (0.4712 mm) (No. 26 gage).
+The
+duct
+opens into only one
+dwelling
+or
+sleeping unit
+and the
+duct system
+is continuous from the unit to the exterior of the building.
+The
+duct
+does not exceed a 5-inch (127 mm) nominal diameter and the total area of such
+ducts
+does not exceed 100 square inches (64 516 mm
+2
+) for any 100 square feet (9.3 m
+2
+) of the floor area.
+The annular space around the
+duct
+is protected with materials that prevent the passage of flame and hot gases sufficient to ignite cotton waste where subjected to ASTM E 119 or UL 263 time-temperature conditions under a minimum
+positive pressure
+differential of 0.01 inch (2.49 Pa) of water at the location of the penetration for the time period equivalent to the fire-resistance rating of the construction penetrated.
+Grille openings located in a ceiling of a fire-resistance-rated floor/ceiling or roof/ceiling assembly are protected with a listed
+ceiling radiation damper
+installed in accordance with
+Section 607.6.2.1
+.
+
+---
+
+## Section 607.6.2: Membrane Penetrations
+
+607.6.2 Membrane Penetrations
+Ducts and air transfer openings
+constructed of approved materials, in accordance with
+Section 603
+, that penetrate the ceiling membrane of a fire-resistance-rated floor/ceiling or roof/ceiling assembly shall be protected with one of the following:
+A
+shaft enclosure
+in accordance with Section 713 of the
+New York City Building Code
+.
+A listed
+ceiling radiation damper
+and firestopping installed at the ceiling line where a
+duct
+penetrates the ceiling of a fire-resistance-rated floor/ceiling or roof/ceiling assembly.
+A listed
+ceiling radiation damper
+and firestopping installed at the ceiling line where a diffuser with no
+duct
+attached penetrates the ceiling of a fire-resistance-rated floor/ceiling or roof/ceiling assembly.
+
+---
+
+Ducts and air transfer openings
+constructed of approved materials, in accordance with
+Section 603
+, that penetrate the ceiling membrane of a fire-resistance-rated floor/ceiling or roof/ceiling assembly shall be protected with one of the following:
+A
+shaft enclosure
+in accordance with Section 713 of the
+New York City Building Code
+.
+A listed
+ceiling radiation damper
+and firestopping installed at the ceiling line where a
+duct
+penetrates the ceiling of a fire-resistance-rated floor/ceiling or roof/ceiling assembly.
+A listed
+ceiling radiation damper
+and firestopping installed at the ceiling line where a diffuser with no
+duct
+attached penetrates the ceiling of a fire-resistance-rated floor/ceiling or roof/ceiling assembly.
+
+---
+
+## Section 607.6.2.1: Ceiling Radiation Dampers
+
+607.6.2.1 Ceiling Radiation Dampers
+Ceiling radiation dampers
+shall be tested in accordance with
+Section 607.3.1
+.
+Ceiling radiation dampers
+shall be installed in accordance with the details listed in the fire-resistance-rated assembly and the manufacturer's instructions and listing.
+Ceiling radiation dampers
+are not required where any of the following apply:
+Tests in accordance with ASTM E 119 or UL 263 have shown that
+ceiling radiation dampers
+are not necessary to maintain the fire-resistance rating of the assembly.
+Where exhaust
+duct
+penetrations are protected in accordance with
+Section 714.4.2
+of the
+New York City Building Code
+, are located within the cavity of a wall, and do not pass through another
+dwelling unit
+or tenant space.
+Where
+duct
+and
+air transfer openings
+are protected with a
+duct
+outlet
+protection
+system tested as part of a fire-resistance-rated assembly in accordance with ASTM E 119 or UL 263 and the building is protected throughout with an automatic sprinkler system in accordance with
+Chapter 9
+of the
+New York City Building Code
+.
+
+---
+
+Ceiling radiation dampers
+shall be tested in accordance with
+Section 607.3.1
+.
+Ceiling radiation dampers
+shall be installed in accordance with the details listed in the fire-resistance-rated assembly and the manufacturer's instructions and listing.
+Ceiling radiation dampers
+are not required where any of the following apply:
+Tests in accordance with ASTM E 119 or UL 263 have shown that
+ceiling radiation dampers
+are not necessary to maintain the fire-resistance rating of the assembly.
+Where exhaust
+duct
+penetrations are protected in accordance with
+Section 714.4.2
+of the
+New York City Building Code
+, are located within the cavity of a wall, and do not pass through another
+dwelling unit
+or tenant space.
+Where
+duct
+and
+air transfer openings
+are protected with a
+duct
+outlet
+protection
+system tested as part of a fire-resistance-rated assembly in accordance with ASTM E 119 or UL 263 and the building is protected throughout with an automatic sprinkler system in accordance with
+Chapter 9
+of the
+New York City Building Code
+.
+
+---
+
+## Section 607.6.3: Nonfire-Resistance-Rated Floor Assemblies
+
+607.6.3 Nonfire-Resistance-Rated Floor Assemblies
+Duct systems
+constructed of approved materials in accordance with
+Section 603
+that penetrate nonfire-resistance-rated floor assemblies shall be protected by any of the following methods:
+A
+shaft enclosure
+in accordance with Section 713 of the
+New York City Building Code
+.
+The
+duct
+connects not more than two
+stories
+, and the annular space around the penetrating
+duct
+is protected with an approved noncombustible material that resists the free passage of flame and the products of
+combustion
+.
+In floor assemblies composed of
+noncombustible materials
+, a
+shaft
+shall not be required where the
+duct
+connects not more than three
+stories
+, the annular space around the penetrating
+duct
+is protected with an approved noncombustible material that resists the free passage of flame and the products of
+combustion
+and a
+fire damper
+is installed at each floor line.
+Exception:
+Fire dampers
+are not required in
+ducts
+within individual residential
+dwelling units
+.
+
+---
+
+Duct systems
+constructed of approved materials in accordance with
+Section 603
+that penetrate nonfire-resistance-rated floor assemblies shall be protected by any of the following methods:
+A
+shaft enclosure
+in accordance with Section 713 of the
+New York City Building Code
+.
+The
+duct
+connects not more than two
+stories
+, and the annular space around the penetrating
+duct
+is protected with an approved noncombustible material that resists the free passage of flame and the products of
+combustion
+.
+In floor assemblies composed of
+noncombustible materials
+, a
+shaft
+shall not be required where the
+duct
+connects not more than three
+stories
+, the annular space around the penetrating
+duct
+is protected with an approved noncombustible material that resists the free passage of flame and the products of
+combustion
+and a
+fire damper
+is installed at each floor line.
+Exception:
+Fire dampers
+are not required in
+ducts
+within individual residential
+dwelling units
+.
+
+---
+
+## Section 607.7: Flexible Ducts and Air Connectors
+
+607.7 Flexible Ducts and Air Connectors
+Flexible
+ducts
+and
+air
+connectors shall not pass through any fire-resistance-rated assembly.
+Flexible air connectors
+shall not pass through any wall, floor or ceiling.
+
+---
+
+Flexible
+ducts
+and
+air
+connectors shall not pass through any fire-resistance-rated assembly.
+Flexible air connectors
+shall not pass through any wall, floor or ceiling.
+
+---
+
+Section 608 Air Outlets and Air Inlets
+
+---
+
+## Section 608.1: Air Outlets
+
+608.1 Air Outlets
+Air
+outlets
+shall comply with Sections
+608.1.1
+through
+608.1.3
+.
+
+---
+
+Air
+outlets
+shall comply with Sections
+608.1.1
+through
+608.1.3
+.
+
+---
+
+## Section 608.1.1: General
+
+608.1.1 General
+Air
+supplied to any space shall not contain flammable vapors, flyings, or dust in quantities and concentrations that would introduce a hazardous condition.
+
+---
+
+Air
+supplied to any space shall not contain flammable vapors, flyings, or dust in quantities and concentrations that would introduce a hazardous condition.
+
+---
+
+## Section 608.1.2: Construction of Air Outlets
+
+608.1.2 Construction of Air Outlets
+Air
+outlets
+shall be constructed of noncombustible material or a material that has a maximum
+smoke-developed index
+/rating of 50 and a maximum
+flame spread index
+/rating of 25.
+
+---
+
+Air
+outlets
+shall be constructed of noncombustible material or a material that has a maximum
+smoke-developed index
+/rating of 50 and a maximum
+flame spread index
+/rating of 25.
+
+---
+
+## Section 608.1.3: Location of Air Outlets
+
+608.1.3 Location of Air Outlets
+The location of
+air
+outlets
+shall comply with the following requirements:
+Air
+outlets
+shall be located at least 3 inches (76.2 mm) above the floor.
+Exception:
+Air
+outlets
+may be located less than 3 inches (76.2 mm) above the floor where provisions have been made to prevent dirt and dust accumulations from entering the system.
+Where located less than 7 feet (2133.6 mm) above the floor,
+outlet
+openings shall be protected by a grille or screen having openings through which a
+1
+/
+2
+-inch (12.7 mm) sphere cannot pass.
+Grilles may be located in floors provided they are installed so that they may be removed for
+cleaning
+purposes and provided they are constructed as follows:
+Grilles up to 3 square feet (0.2787 m
+2
+) in gross area shall be designed to
+support
+a concentrated live load of 250 pounds (113.4 kg) on any 4 square inches (2580.6 mm
+2
+) of surface.
+Grilles over 3 square feet (0.2787 m
+2
+) in gross area shall be designed to
+support
+the same loads as the floor in the area where used.
+If located where they may be walked upon, the opening in grilles shall reject a
+1
+/
+2
+-inch (12.7 mm) sphere.
+
+---
+
+The location of
+air
+outlets
+shall comply with the following requirements:
+Air
+outlets
+shall be located at least 3 inches (76.2 mm) above the floor.
+Exception:
+Air
+outlets
+may be located less than 3 inches (76.2 mm) above the floor where provisions have been made to prevent dirt and dust accumulations from entering the system.
+Where located less than 7 feet (2133.6 mm) above the floor,
+outlet
+openings shall be protected by a grille or screen having openings through which a
+1
+/
+2
+-inch (12.7 mm) sphere cannot pass.
+Grilles may be located in floors provided they are installed so that they may be removed for
+cleaning
+purposes and provided they are constructed as follows:
+Grilles up to 3 square feet (0.2787 m
+2
+) in gross area shall be designed to
+support
+a concentrated live load of 250 pounds (113.4 kg) on any 4 square inches (2580.6 mm
+2
+) of surface.
+Grilles over 3 square feet (0.2787 m
+2
+) in gross area shall be designed to
+support
+the same loads as the floor in the area where used.
+If located where they may be walked upon, the opening in grilles shall reject a
+1
+/
+2
+-inch (12.7 mm) sphere.
+
+---
+
+## Section 608.2: Air Inlets (Return or Exhaust or Return and Exhaust)
+
+608.2 Air Inlets (Return or Exhaust or Return and Exhaust)
+Air
+inlets shall be constructed in accordance with Sections
+608.2.1
+through
+608.2.3
+.
+
+---
+
+Air
+inlets shall be constructed in accordance with Sections
+608.2.1
+through
+608.2.3
+.
+
+---
+
+## Section 608.2.1: General
+
+608.2.1 General
+Air
+shall not be recirculated from any space in which flammable vapors, flyings, or dust is present in quantities and concentrations that would introduce a hazardous condition into the
+return air system
+.
+
+---
+
+Air
+shall not be recirculated from any space in which flammable vapors, flyings, or dust is present in quantities and concentrations that would introduce a hazardous condition into the
+return air system
+.
+
+---
+
+## Section 608.2.2: Construction of Air Inlets
+
+608.2.2 Construction of Air Inlets
+Air
+inlets shall be constructed of noncombustible material or a material that has a maximum
+flame spread index
+/rating of 25 and a maximum
+smoke-developed index
+/rating of 50.
+
+---
+
+Air
+inlets shall be constructed of noncombustible material or a material that has a maximum
+flame spread index
+/rating of 25 and a maximum
+smoke-developed index
+/rating of 50.
+
+---
+
+## Section 608.2.3: Location of Air Inlets
+
+608.2.3 Location of Air Inlets
+The location of
+air
+inlets shall comply with the following requirements.
+Air
+inlets shall be located at least 3 inches (76.2 mm) above the floor.
+Exception:
+Air inlets may be located less than 3 inches (76.2 mm) above the floor where provisions have been made to prevent dirt and dust accumulations from entering the system.
+Where located less than 7 feet (2133.6 mm) above the floor, inlet openings shall be protected by a grille or screens having openings through which a
+1
+/
+2
+-inch (12.7 mm) sphere cannot pass.
+Grilles may be located in floors provided they are installed so that they may be removed for
+cleaning
+purposes and provided they are constructed as follows:
+Grilles up to 3 square feet (0.2787 m
+2
+) in gross area shall be designed to
+support
+a concentrated live load of 250 pounds (113.4 kg) on any 4 square inches (2580.6 mm
+2
+) of surface.
+Grilles over 3 square feet (0.2787 m
+2
+) in gross area shall be designed to
+support
+the same loads as the floor in the area where used.
+If located where they may be walked upon, the opening in grilles shall reject a
+1
+/
+2
+-inch (12.7 mm) sphere.
+
+---
+
+The location of
+air
+inlets shall comply with the following requirements.
+Air
+inlets shall be located at least 3 inches (76.2 mm) above the floor.
+Exception:
+Air inlets may be located less than 3 inches (76.2 mm) above the floor where provisions have been made to prevent dirt and dust accumulations from entering the system.
+Where located less than 7 feet (2133.6 mm) above the floor, inlet openings shall be protected by a grille or screens having openings through which a
+1
+/
+2
+-inch (12.7 mm) sphere cannot pass.
+Grilles may be located in floors provided they are installed so that they may be removed for
+cleaning
+purposes and provided they are constructed as follows:
+Grilles up to 3 square feet (0.2787 m
+2
+) in gross area shall be designed to
+support
+a concentrated live load of 250 pounds (113.4 kg) on any 4 square inches (2580.6 mm
+2
+) of surface.
+Grilles over 3 square feet (0.2787 m
+2
+) in gross area shall be designed to
+support
+the same loads as the floor in the area where used.
+If located where they may be walked upon, the opening in grilles shall reject a
+1
+/
+2
+-inch (12.7 mm) sphere.
+
+---
+
+Section 609 Service Openings
+
+---
+
+## Section 609.1: General
+
+609.1 General
+Horizontal
+air
+ducts
+and
+plenums
+shall be provided with service openings to facilitate the removal of accumulations of dust and
+combustible materials
+. Service openings shall be located at approximately 20-foot (6096 mm) intervals along the air
+duct
+and at the base of each vertical riser.
+Exceptions:
+Removable
+air
+outlet
+or
+air
+inlet devices of adequate size shall be permitted in lieu of service openings.
+Service openings shall not be required in supply
+ducts
+where the
+supply air
+has previously passed through an
+air
+filter,
+air
+cleaner, or water spray. Such
+air
+filters and
+air
+cleaners shall be properly maintained and replaced when needed.
+Service openings shall not be required where all of the following conditions exist:
+The occupancy has no process producing
+combustible material
+such as dust, lint, or greasy vapors. Such occupancies include banks, office buildings, houses of worship, hotels, and health care facilities (but not kitchens, laundries, and manufacturing portions of such facilities).
+The air inlets are at least 7 feet (2133.6 mm) above the floor or are protected by corrosion-resistant metal screens of at least 14 mesh (0.07 inches) (1.8 mm) that are installed at the inlets so that they cannot draw papers, refuse, or other combustible solids into the
+return air
+duct
+.
+The minimum
+design
+velocity in the return
+duct
+for the particular occupancy is 1000 feet/minute (5.080 m/s).
+
+---
+
+Horizontal
+air
+ducts
+and
+plenums
+shall be provided with service openings to facilitate the removal of accumulations of dust and
+combustible materials
+. Service openings shall be located at approximately 20-foot (6096 mm) intervals along the air
+duct
+and at the base of each vertical riser.
+Exceptions:
+Removable
+air
+outlet
+or
+air
+inlet devices of adequate size shall be permitted in lieu of service openings.
+Service openings shall not be required in supply
+ducts
+where the
+supply air
+has previously passed through an
+air
+filter,
+air
+cleaner, or water spray. Such
+air
+filters and
+air
+cleaners shall be properly maintained and replaced when needed.
+Service openings shall not be required where all of the following conditions exist:
+The occupancy has no process producing
+combustible material
+such as dust, lint, or greasy vapors. Such occupancies include banks, office buildings, houses of worship, hotels, and health care facilities (but not kitchens, laundries, and manufacturing portions of such facilities).
+The air inlets are at least 7 feet (2133.6 mm) above the floor or are protected by corrosion-resistant metal screens of at least 14 mesh (0.07 inches) (1.8 mm) that are installed at the inlets so that they cannot draw papers, refuse, or other combustible solids into the
+return air
+duct
+.
+The minimum
+design
+velocity in the return
+duct
+for the particular occupancy is 1000 feet/minute (5.080 m/s).
+
+---
+

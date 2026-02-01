@@ -1,0 +1,5271 @@
+# NYC Building Code 2022 - Chapter 31
+
+New York City Building Code 2022
+
+---
+
+Dedications
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 Use and Occupancy Classification
+
+---
+
+Chapter 4 Special Detailed Requirements Based on Use and Occupancy
+
+---
+
+Chapter 5 General Building Heights and Areas; Separation of Occupancies
+
+---
+
+Chapter 6 Types of Construction
+
+---
+
+Chapter 7 Fire and Smoke Protection Features
+
+---
+
+Chapter 8 Interior Finishes
+
+---
+
+Chapter 9 Fire Protection Systems
+
+---
+
+Chapter 10 Means of Egress
+
+---
+
+Chapter 11 Accessibility
+
+---
+
+Chapter 12 Interior Environment
+
+---
+
+Chapter 13 Energy Efficiency
+
+---
+
+Chapter 14 Exterior Walls
+
+---
+
+Chapter 15 Roof Assemblies and Rooftop Structures
+
+---
+
+Chapter 16 Structural Design
+
+---
+
+Chapter 17 Special Inspections and Tests
+
+---
+
+Chapter 18 Soils and Foundations
+
+---
+
+Chapter 19 Concrete
+
+---
+
+Chapter 20 Aluminum
+
+---
+
+Chapter 21 Masonry
+
+---
+
+Chapter 22 Steel
+
+---
+
+Chapter 23 Wood
+
+---
+
+Chapter 24 Glass and Glazing
+
+---
+
+Chapter 25 Gypsum Board, Gypsum Panel Products and Plaster
+
+---
+
+Chapter 26 Plastic
+
+---
+
+Chapter 27 Electrical
+
+---
+
+Chapter 28 Mechanical Systems
+
+---
+
+Chapter 29 Plumbing Systems
+
+---
+
+Chapter 30 Elevators and Conveying Systems
+
+---
+
+Chapter 31 Special Construction
+
+---
+
+BC 3101 General
+
+---
+
+BC 3102 Membrane Structures
+
+---
+
+BC 3103 Temporary Structures
+
+---
+
+BC 3104 Pedestrian Walkways and Tunnels
+
+---
+
+BC 3105 Awnings, Canopies and Sun Control Devices
+
+---
+
+BC 3106 Marquees
+
+---
+
+BC 3107 Signs
+
+---
+
+BC 3108 Radio, Television, and Telecommunications Towers and Antennas
+
+---
+
+BC 3109 Swimming Pools, Swimming Pool Enclosures, and Safety Devices
+
+---
+
+BC 3110 Automatic Vehicular Gates
+
+---
+
+BC 3111 Sidewalk Cafés
+
+---
+
+BC 3112 Fences
+
+---
+
+BC 3113 Photovoltaic Panels and Modules
+
+---
+
+BC *3114 Large Wind Turbines
+
+---
+
+BC 3115 Small Wind Turbines
+
+---
+
+Chapter 32 Encroachments Into the Public Right-of-Way
+
+---
+
+Chapter 33 Safeguards During Construction or Demolition
+
+---
+
+Chapter 34 Reserved
+
+---
+
+Chapter 35 Referenced Standards
+
+---
+
+Appendix A Reserved
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Reserved
+
+---
+
+Appendix D Fire Districts
+
+---
+
+Appendix E Supplementary Accessibility Requirements
+
+---
+
+Appendix F Rodentproofing
+
+---
+
+Appendix G Flood-Resistant Construction
+
+---
+
+Appendix H Outdoor Signs
+
+---
+
+Appendix I Reserved
+
+---
+
+Appendix J Reserved
+
+---
+
+Appendix K Modified Industry Standards for Elevators and Conveying Systems
+
+---
+
+Appendix L Reserved
+
+---
+
+Appendix M Supplementary Requirements for One- And Two-Family Dwellings
+
+---
+
+Appendix N Assistive Listening Systems Performance Standards
+
+---
+
+Appendix O Reserved
+
+---
+
+Appendix P Reserved
+
+---
+
+Appendix Q Modified National Standards for Automatic Sprinkler, Standpipe, Fire Pump, Fire Alarm, and Smoke Control Systems
+
+---
+
+Appendix R Acoustical Tile and Lay-in Panel Ceiling Suspension Systems
+
+---
+
+Appendix S Supplementary Figures for Luminous Egress Path Markings
+
+---
+
+Appendix U Ancillary Dwelling Units
+
+---
+
+Chapter 31 Special Construction
+‡‡‡ Chapter 31 was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023
+
+---
+
+‡‡‡ Chapter 31 was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023
+
+---
+
+Section BC 3101 General
+
+---
+
+## Section 3101.1: Scope
+
+3101.1 Scope
+The provisions of this chapter shall govern special
+building
+construction
+including membrane
+structures, temporary
+structures,
+pedestrian walkways
+and tunnels,
+automatic
+vehicular gates
+,
+awnings
+,
+canopies
+, sun control devices,
+marquees
+,
+signs
+, telecommunications towers and antennas,
+swimming pools
+and enclosures, sidewalk cafés, and fences.
+
+---
+
+The provisions of this chapter shall govern special
+building
+construction
+including membrane
+structures, temporary
+structures,
+pedestrian walkways
+and tunnels,
+automatic
+vehicular gates
+,
+awnings
+,
+canopies
+, sun control devices,
+marquees
+,
+signs
+, telecommunications towers and antennas,
+swimming pools
+and enclosures, sidewalk cafés, and fences.
+
+---
+
+Section BC 3102 Membrane Structures
+
+---
+
+## Section 3102.1: General
+
+3102.1 General
+The provisions of Sections 3102.1 through
+3102.8
+shall apply to
+air-supported structures
+,
+air-inflated structures
+,
+membrane-covered cable structures
+,
+membrane-covered frame structures
+and
+tents
+, and
+tensile membrane structures
+, collectively known as membrane structures.
+
+---
+
+The provisions of Sections 3102.1 through
+3102.8
+shall apply to
+air-supported structures
+,
+air-inflated structures
+,
+membrane-covered cable structures
+,
+membrane-covered frame structures
+and
+tents
+, and
+tensile membrane structures
+, collectively known as membrane structures.
+
+---
+
+## Section 3102.1.1: Certificates of Occupancy
+
+3102.1.1 Certificates of Occupancy
+The duration of
+Certificates of Occupancy
+for
+air-inflated structures
+,
+air-supported structures
+, and
+tents
+shall be limited in accordance with the requirements of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+The duration of
+Certificates of Occupancy
+for
+air-inflated structures
+,
+air-supported structures
+, and
+tents
+shall be limited in accordance with the requirements of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+## Section 3102.1.2: Temporary Installations
+
+3102.1.2 Temporary Installations
+In addition to the requirements of Section 3102 of this code, temporary
+installations
+of
+air-supported structures
+,
+air-inflated structures
+,
+membrane-covered cable structures
+,
+tensile membrane structures
+,
+membrane-covered frame structures
+and
+tents
+, collectively known as membrane structures shall comply with the requirements of
+Article 111
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+In addition to the requirements of Section 3102 of this code, temporary
+installations
+of
+air-supported structures
+,
+air-inflated structures
+,
+membrane-covered cable structures
+,
+tensile membrane structures
+,
+membrane-covered frame structures
+and
+tents
+, collectively known as membrane structures shall comply with the requirements of
+Article 111
+of
+Chapter 1
+of
+Title
+28 of the
+Administrative Code
+.
+
+---
+
+## Section 3102.2: Definitions
+
+3102.2 Definitions
+The following terms are defined in
+Chapter 2
+:
+AIR-INFLATED STRUCTURE
+.
+AIR-SUPPORTED STRUCTURE
+.
+Double skin
+.
+Single skin
+.
+CABLE-RESTRAINED, AIR-SUPPORTED STRUCTURE
+.
+MEMBRANE-COVERED CABLE STRUCTURE
+.
+MEMBRANE-COVERED FRAME STRUCTURE
+.
+NONCOMBUSTIBLE MEMBRANE STRUCTURE
+.
+TENSILE MEMBRANE STRUCTURE
+.
+TENT
+.
+
+---
+
+The following terms are defined in
+Chapter 2
+:
+AIR-INFLATED STRUCTURE
+.
+AIR-SUPPORTED STRUCTURE
+.
+Double skin
+.
+Single skin
+.
+CABLE-RESTRAINED, AIR-SUPPORTED STRUCTURE
+.
+MEMBRANE-COVERED CABLE STRUCTURE
+.
+MEMBRANE-COVERED FRAME STRUCTURE
+.
+NONCOMBUSTIBLE MEMBRANE STRUCTURE
+.
+TENSILE MEMBRANE STRUCTURE
+.
+TENT
+.
+
+---
+
+## Section 3102.3: Type of Construction
+
+3102.3 Type of Construction
+Noncombustible membrane structures
+shall be classified as Type IIB
+construction
+. Noncombustible frame or cable-supported structures covered by an approved membrane in accordance with
+Section 3102.3.1
+shall be classified as Type IIB
+construction
+. Heavy timber frame-supported structures covered by an approved membrane in accordance with
+Section 3102.3.1
+shall be classified as Type IV
+construction
+. Other membrane structures shall be classified as Type
+V
+construction
+.
+
+---
+
+Noncombustible membrane structures
+shall be classified as Type IIB
+construction
+. Noncombustible frame or cable-supported structures covered by an approved membrane in accordance with
+Section 3102.3.1
+shall be classified as Type IIB
+construction
+. Heavy timber frame-supported structures covered by an approved membrane in accordance with
+Section 3102.3.1
+shall be classified as Type IV
+construction
+. Other membrane structures shall be classified as Type
+V
+construction
+.
+
+---
+
+## Section 3102.3.1: Membrane and Interior Liner Material
+
+3102.3.1 Membrane and Interior Liner Material
+Membranes and interior liners shall be either noncombustible as set forth in Section 703.5, or meet the fire propagation
+performance
+criteria
+of Test Method 1 or Test Method 2, as appropriate, of NFPA 701 and the manufacturer's test protocol.
+
+---
+
+Membranes and interior liners shall be either noncombustible as set forth in Section 703.5, or meet the fire propagation
+performance
+criteria
+of Test Method 1 or Test Method 2, as appropriate, of NFPA 701 and the manufacturer's test protocol.
+
+---
+
+## Section 3102.4: Allowable Floor Areas
+
+3102.4 Allowable Floor Areas
+The
+area
+of a membrane structure shall not exceed the
+limitations
+specified in Section 506.
+
+---
+
+The
+area
+of a membrane structure shall not exceed the
+limitations
+specified in Section 506.
+
+---
+
+## Section 3102.5: Maximum Height
+
+3102.5 Maximum Height
+Membrane structures shall not exceed one
+story
+nor shall such structures exceed the
+height
+limitations
+in feet specified in
+Section 504.3
+. Membrane structures may be erected above the roof of a
+building
+provided that such roof is of
+noncombustible construction
+required to have a
+fire-resistance rating
+.
+Exception:
+Noncombustible membrane structures
+serving as roofs only.
+
+---
+
+Membrane structures shall not exceed one
+story
+nor shall such structures exceed the
+height
+limitations
+in feet specified in
+Section 504.3
+. Membrane structures may be erected above the roof of a
+building
+provided that such roof is of
+noncombustible construction
+required to have a
+fire-resistance rating
+.
+Exception:
+Noncombustible membrane structures
+serving as roofs only.
+
+---
+
+## Section 3102.6: Mixed Construction
+
+3102.6 Mixed Construction
+Membrane structures shall be permitted to be utilized as specified in this section as a portion of buildings of other types of
+construction
+.
+Height
+and
+area
+limits shall be as specified for the type of
+construction
+and occupancy of the
+building
+.
+
+---
+
+Membrane structures shall be permitted to be utilized as specified in this section as a portion of buildings of other types of
+construction
+.
+Height
+and
+area
+limits shall be as specified for the type of
+construction
+and occupancy of the
+building
+.
+
+---
+
+## Section 3102.6.1: Noncombustible Membrane
+
+3102.6.1 Noncombustible Membrane
+A noncombustible membrane shall be permitted for use as the roof or as a
+skylight
+of any
+building
+or
+atrium
+of a
+building
+of any type of
+construction
+provided such membrane is not less than 20 feet (6096 mm) above any floor,
+balcony
+or gallery, and meets the fire classification requirements of Section 1505 for
+roof assemblies
+.
+
+---
+
+A noncombustible membrane shall be permitted for use as the roof or as a
+skylight
+of any
+building
+or
+atrium
+of a
+building
+of any type of
+construction
+provided such membrane is not less than 20 feet (6096 mm) above any floor,
+balcony
+or gallery, and meets the fire classification requirements of Section 1505 for
+roof assemblies
+.
+
+---
+
+## Section 3102.6.1.1: Membrane
+
+3102.6.1.1 Membrane
+A membrane meeting the fire propagation
+performance
+criteria
+of Test Method 1 or Test Method 2, as appropriate, of NFPA 701 shall be permitted to be used as the roof or as a
+skylight
+on buildings of Type IIB, III, IV and
+V
+construction
+, provided such membrane is not less than 20 feet (6096 mm) above any floor,
+balcony
+or gallery, and meets the fire classification requirements of Section 1505 for
+roof assemblies
+.
+
+---
+
+A membrane meeting the fire propagation
+performance
+criteria
+of Test Method 1 or Test Method 2, as appropriate, of NFPA 701 shall be permitted to be used as the roof or as a
+skylight
+on buildings of Type IIB, III, IV and
+V
+construction
+, provided such membrane is not less than 20 feet (6096 mm) above any floor,
+balcony
+or gallery, and meets the fire classification requirements of Section 1505 for
+roof assemblies
+.
+
+---
+
+## Section 3102.7: Engineering Design
+
+3102.7 Engineering Design
+Membrane structures, except
+tensile membrane structures
+, shall be designed and constructed to sustain dead
+loads
+;
+loads
+due to tension or inflation;
+live loads
+including wind, snow or flood and seismic
+loads
+and in accordance with
+Chapter 16
+and
+Appendix G
+.
+
+---
+
+Membrane structures, except
+tensile membrane structures
+, shall be designed and constructed to sustain dead
+loads
+;
+loads
+due to tension or inflation;
+live loads
+including wind, snow or flood and seismic
+loads
+and in accordance with
+Chapter 16
+and
+Appendix G
+.
+
+---
+
+## Section 3102.7.1: Lateral Restraint
+
+3102.7.1 Lateral Restraint
+For
+membrane-covered frame structures
+, the membrane shall not be considered to provide lateral restraint in the calculation of the capacities of the frame members.
+
+---
+
+For
+membrane-covered frame structures
+, the membrane shall not be considered to provide lateral restraint in the calculation of the capacities of the frame members.
+
+---
+
+## Section 3102.7.2: Design
+
+3102.7.2 Design
+Tents
+,
+air-inflated structures
+, and
+air-supported structures
+shall be designed by either an alternate engineering
+design
+approved by the commissioner or
+as follows
+:
+Tents
+.
+Tents
+shall be guyed, supported, and braced to withstand a wind pressure of 10 psf (478.8 Pa) of projected area of the
+tent
+. The poles and their supporting guys, stays, stakes, fastenings, etc., shall be of sufficient
+strength
+and attached so as to resist wind pressure of 20 psf (957.6 Pa) of projected area of the
+tent
+.
+Air-inflated structures
+and
+air-supported structures
+.
+Air-inflated structures
+and
+air-supported structures
+shall be anchored to the ground or supporting structure by either
+ballast
+or positive anchorage, sufficiently and evenly distributed, and adequate to resist the inflation lift
+load
+, the aerodynamic lift
+load
+, and the drag (shear)
+load
+due to wind impact. The latter factors shall be based on a fastest mile wind speed of 70 mph (112.65 km/hr), and an estimated stagnation of not less than 0.5 q for structures on grade whose
+height
+is equal to, or less than, the width of the structure. For greater
+heights
+, or for elevated structures, increased anchorage shall be provided, justified by analytical and/or experimental data subject to approval by the commissioner.
+The skin of the structure shall be of such
+strength
+, and the
+joints
+so constructed, as to provide a minimum dead load strip tensile
+strength
+at 70°F (21°C) of four times the 70 mph (121.65 km/hr)
+design
+load (inflation and aerodynamic loading). The
+joints
+shall provide a dead load strip tensile
+strength
+of 160°F (71°C) of twice the 70 mph (121.65 km/hr)
+design
+load (i.e., a factor of safety of 4 and 2, respectively). In addition, the material shall provide a trapezoidal tear
+strength
+of not less than 15 percent of the maximum
+design
+tensile load. Material and
+joint
+strengths
+shall be so certified by the manufacturer, justified by analytical and/or experimental data.
+
+---
+
+Tents
+,
+air-inflated structures
+, and
+air-supported structures
+shall be designed by either an alternate engineering
+design
+approved by the commissioner or
+as follows
+:
+Tents
+.
+Tents
+shall be guyed, supported, and braced to withstand a wind pressure of 10 psf (478.8 Pa) of projected area of the
+tent
+. The poles and their supporting guys, stays, stakes, fastenings, etc., shall be of sufficient
+strength
+and attached so as to resist wind pressure of 20 psf (957.6 Pa) of projected area of the
+tent
+.
+Air-inflated structures
+and
+air-supported structures
+.
+Air-inflated structures
+and
+air-supported structures
+shall be anchored to the ground or supporting structure by either
+ballast
+or positive anchorage, sufficiently and evenly distributed, and adequate to resist the inflation lift
+load
+, the aerodynamic lift
+load
+, and the drag (shear)
+load
+due to wind impact. The latter factors shall be based on a fastest mile wind speed of 70 mph (112.65 km/hr), and an estimated stagnation of not less than 0.5 q for structures on grade whose
+height
+is equal to, or less than, the width of the structure. For greater
+heights
+, or for elevated structures, increased anchorage shall be provided, justified by analytical and/or experimental data subject to approval by the commissioner.
+The skin of the structure shall be of such
+strength
+, and the
+joints
+so constructed, as to provide a minimum dead load strip tensile
+strength
+at 70°F (21°C) of four times the 70 mph (121.65 km/hr)
+design
+load (inflation and aerodynamic loading). The
+joints
+shall provide a dead load strip tensile
+strength
+of 160°F (71°C) of twice the 70 mph (121.65 km/hr)
+design
+load (i.e., a factor of safety of 4 and 2, respectively). In addition, the material shall provide a trapezoidal tear
+strength
+of not less than 15 percent of the maximum
+design
+tensile load. Material and
+joint
+strengths
+shall be so certified by the manufacturer, justified by analytical and/or experimental data.
+
+---
+
+## Section 3102.7.3: Tensile Membrane Structures
+
+3102.7.3 Tensile Membrane Structures
+The
+design
+and
+construction
+shall be in accordance with ASCE 55. The provisions of Sections
+3102.1
+through
+3102.6
+shall also apply.
+
+---
+
+The
+design
+and
+construction
+shall be in accordance with ASCE 55. The provisions of Sections
+3102.1
+through
+3102.6
+shall also apply.
+
+---
+
+## Section 3102.8: Inflation Systems
+
+3102.8 Inflation Systems
+Air-supported structures
+and
+air-inflated structures
+shall be provided with primary and auxiliary inflation systems to meet the
+minimum requirements
+of Sections
+3102.8.1
+through
+3102.8.3
+.
+
+---
+
+Air-supported structures
+and
+air-inflated structures
+shall be provided with primary and auxiliary inflation systems to meet the
+minimum requirements
+of Sections
+3102.8.1
+through
+3102.8.3
+.
+
+---
+
+## Section 3102.8.1: Equipment Requirements
+
+3102.8.1 Equipment Requirements
+The primary inflation system shall consist of one or more blowers and shall include provisions for
+automatic
+control to maintain the required inflation pressures. Such system shall be so designed as to prevent overpressurization of the system.
+
+---
+
+The primary inflation system shall consist of one or more blowers and shall include provisions for
+automatic
+control to maintain the required inflation pressures. Such system shall be so designed as to prevent overpressurization of the system.
+
+---
+
+## Section 3102.8.1.1: Auxiliary Inflation System
+
+3102.8.1.1 Auxiliary Inflation System
+In addition to the primary inflation system, in structures exceeding 1,500 square feet (140 m
+2
+) in
+area
+, an auxiliary inflation system shall be provided with sufficient capacity to maintain the inflation of the structure in case of primary system failure. The auxiliary inflation system shall operate automatically when there is a loss of internal pressure and when the primary blower system becomes inoperative. Initiation of auxiliary inflation system shall be indicated by an audible and visual alert at the entrance or a regularly attended location.
+
+---
+
+In addition to the primary inflation system, in structures exceeding 1,500 square feet (140 m
+2
+) in
+area
+, an auxiliary inflation system shall be provided with sufficient capacity to maintain the inflation of the structure in case of primary system failure. The auxiliary inflation system shall operate automatically when there is a loss of internal pressure and when the primary blower system becomes inoperative. Initiation of auxiliary inflation system shall be indicated by an audible and visual alert at the entrance or a regularly attended location.
+
+---
+
+## Section 3102.8.1.2: Blower Equipment
+
+3102.8.1.2 Blower Equipment
+Blower
+equipment
+shall meet all of the following requirements:
+Blowers shall be powered by continuous-rated motors at the maximum power required for any flow condition as required by the structural
+design
+.
+Blowers shall be provided with inlet screens, belt
+guards
+and other protective devices as required by the commissioner to provide protection from injury.
+Blowers shall be housed within a weather-protecting structure.
+Blowers shall be equipped with backdraft check dampers to minimize air loss when inoperative.
+Blower inlets shall be located to provide protection from air contamination. The location of inlets shall be approved.
+
+---
+
+Blower
+equipment
+shall meet all of the following requirements:
+Blowers shall be powered by continuous-rated motors at the maximum power required for any flow condition as required by the structural
+design
+.
+Blowers shall be provided with inlet screens, belt
+guards
+and other protective devices as required by the commissioner to provide protection from injury.
+Blowers shall be housed within a weather-protecting structure.
+Blowers shall be equipped with backdraft check dampers to minimize air loss when inoperative.
+Blower inlets shall be located to provide protection from air contamination. The location of inlets shall be approved.
+
+---
+
+## Section 3102.8.2: Standby Power
+
+3102.8.2 Standby Power
+Wherever an auxiliary inflation system is required, an approved standby power-generating system shall be provided. However, notwithstanding
+Section 2702.1
+, the standby power-generating system shall be equipped with a suitable means for automatically starting the generator set upon failure of the normal electrical service and for
+automatic
+transfer and
+operation
+of all of the required electrical functions at full power within 60 seconds of such service failure. Standby power shall be capable of operating independently for not less than 4 hours. Initiation of standby power shall be indicated by an audible and visual alert at the entrance or a regularly attended location.
+
+---
+
+Wherever an auxiliary inflation system is required, an approved standby power-generating system shall be provided. However, notwithstanding
+Section 2702.1
+, the standby power-generating system shall be equipped with a suitable means for automatically starting the generator set upon failure of the normal electrical service and for
+automatic
+transfer and
+operation
+of all of the required electrical functions at full power within 60 seconds of such service failure. Standby power shall be capable of operating independently for not less than 4 hours. Initiation of standby power shall be indicated by an audible and visual alert at the entrance or a regularly attended location.
+
+---
+
+## Section 3102.8.3: Support Provisions
+
+3102.8.3 Support Provisions
+A system capable of supporting the membrane in the event of deflation shall be provided for in
+air-supported structures
+and
+air-inflated structures
+having an
+occupant load
+of 50 or more or where covering a
+swimming pool
+regardless of
+occupant load
+. Such support system shall be capable of maintaining the membranes not less than 7 feet (2134 mm) above the floor, seating
+area
+or surface of the water. When
+air-supported structures
+or
+air-inflated structures
+are used as a roof on Type I or II
+construction
+buildings, such support system shall be capable of maintaining the membranes not less than 20 feet (6096 mm) above the floor or seating
+area
+.
+
+---
+
+A system capable of supporting the membrane in the event of deflation shall be provided for in
+air-supported structures
+and
+air-inflated structures
+having an
+occupant load
+of 50 or more or where covering a
+swimming pool
+regardless of
+occupant load
+. Such support system shall be capable of maintaining the membranes not less than 7 feet (2134 mm) above the floor, seating
+area
+or surface of the water. When
+air-supported structures
+or
+air-inflated structures
+are used as a roof on Type I or II
+construction
+buildings, such support system shall be capable of maintaining the membranes not less than 20 feet (6096 mm) above the floor or seating
+area
+.
+
+---
+
+## Section 3102.9: Separation
+
+3102.9 Separation
+No air-inflated
+structure, air-supported
+structure, or
+tent
+shall be erected closer than 20 feet (6096 mm) to any interior
+lot line
+nor closer than 30 feet (9144 mm) in any direction to an unprotected opening, required exterior
+stairway
+or
+corridor
+, or required
+exit
+door
+, on the same level or above the level of such structure. Such structure may abut another
+building
+on the same
+tax lot
+if the following conditions exist:
+No unprotected
+openings
+or
+exits
+are located above or within 30 feet (9144 mm) of such structure.
+No doors serving as a required
+exit
+are located between such structure and the abutted
+building
+.
+The
+exterior wall
+of the abutted
+building
+meets the requirements of Section 705 for
+fire walls
+.
+
+---
+
+No air-inflated
+structure, air-supported
+structure, or
+tent
+shall be erected closer than 20 feet (6096 mm) to any interior
+lot line
+nor closer than 30 feet (9144 mm) in any direction to an unprotected opening, required exterior
+stairway
+or
+corridor
+, or required
+exit
+door
+, on the same level or above the level of such structure. Such structure may abut another
+building
+on the same
+tax lot
+if the following conditions exist:
+No unprotected
+openings
+or
+exits
+are located above or within 30 feet (9144 mm) of such structure.
+No doors serving as a required
+exit
+are located between such structure and the abutted
+building
+.
+The
+exterior wall
+of the abutted
+building
+meets the requirements of Section 705 for
+fire walls
+.
+
+---
+
+## Section 3102.10: Exits
+
+3102.10 Exits
+In addition to the requirements of
+Chapter 10
+,
+travel
+distance to an
+exit
+from any point within a
+tent
+,
+air-supported structure
+, or
+air-inflated structure
+shall not exceed 75 feet (22 860 mm).
+
+---
+
+In addition to the requirements of
+Chapter 10
+,
+travel
+distance to an
+exit
+from any point within a
+tent
+,
+air-supported structure
+, or
+air-inflated structure
+shall not exceed 75 feet (22 860 mm).
+
+---
+
+## Section 3102.10.1: Exit Openings From Tents
+
+3102.10.1 Exit Openings From Tents
+Exit
+openings
+from
+tents
+shall remain open unless covered by a flame-resistant curtain of a contrasting color to the
+tent
+. Such curtain shall be supported not less than 80 inches (2032 mm) above the floor level at the
+exit
+and, when open, no part of the curtain shall obstruct the
+exit
+.
+
+---
+
+Exit
+openings
+from
+tents
+shall remain open unless covered by a flame-resistant curtain of a contrasting color to the
+tent
+. Such curtain shall be supported not less than 80 inches (2032 mm) above the floor level at the
+exit
+and, when open, no part of the curtain shall obstruct the
+exit
+.
+
+---
+
+## Section 3102.10.2: Exit Openings From Air-Supported Structures and Air-Inflated Structures
+
+3102.10.2 Exit Openings From Air-Supported Structures and Air-Inflated Structures
+Exit
+doors in
+air-supported structures
+and
+air-inflated structures
+shall close automatically against normal operational pressures. Opening force at the edge of such doors shall not exceed 15 pounds (6.80 kg), with the structure at operational pressure.
+Exit
+doors shall be located in frames constructed such that they will remain operative and support the weight of the pressurized membrane structure in a state of total collapse.
+
+---
+
+Exit
+doors in
+air-supported structures
+and
+air-inflated structures
+shall close automatically against normal operational pressures. Opening force at the edge of such doors shall not exceed 15 pounds (6.80 kg), with the structure at operational pressure.
+Exit
+doors shall be located in frames constructed such that they will remain operative and support the weight of the pressurized membrane structure in a state of total collapse.
+
+---
+
+Section BC 3103 Temporary Structures
+
+---
+
+## Section 3103.1: General
+
+3103.1 General
+The provisions of Sections 3103.1 through
+3103.4
+shall apply to temporary
+tents
+,
+grandstands
+,
+platforms
+, reviewing stands, outdoor bandstands,
+stages
+and similar miscellaneous structures erected for a period of 90 days or less. Such structures may be constructed of wood whether located inside or outside of the fire districts.
+
+---
+
+The provisions of Sections 3103.1 through
+3103.4
+shall apply to temporary
+tents
+,
+grandstands
+,
+platforms
+, reviewing stands, outdoor bandstands,
+stages
+and similar miscellaneous structures erected for a period of 90 days or less. Such structures may be constructed of wood whether located inside or outside of the fire districts.
+
+---
+
+## Section 3103.1.1: Permit Required
+
+3103.1.1 Permit Required
+Temporary structures
+shall not be erected, operated or maintained for any purpose without obtaining a permit from the department in accordance with Section 28-111.1.1 of the
+Administrative Code
+.
+Exception:
+No permit shall be required for:
+The
+erection
+and use of temporary
+tents
+of less than 400 gross square feet (37 m
+2
+), for not more than 30 days.
+The
+erection
+and use of temporary
+platforms
+, reviewing stands, outdoor bandstands, and similar miscellaneous structures that cover an area less than 120 square feet (11.16 m
+2
+), including connecting areas or spaces with a common
+means of egress
+or entrance, for not more than 30 days.
+
+---
+
+Temporary structures
+shall not be erected, operated or maintained for any purpose without obtaining a permit from the department in accordance with Section 28-111.1.1 of the
+Administrative Code
+.
+Exception:
+No permit shall be required for:
+The
+erection
+and use of temporary
+tents
+of less than 400 gross square feet (37 m
+2
+), for not more than 30 days.
+The
+erection
+and use of temporary
+platforms
+, reviewing stands, outdoor bandstands, and similar miscellaneous structures that cover an area less than 120 square feet (11.16 m
+2
+), including connecting areas or spaces with a common
+means of egress
+or entrance, for not more than 30 days.
+
+---
+
+## Section 3103.2: Construction Documents
+
+3103.2 Construction Documents
+A permit
+application
+and
+construction documents
+shall be submitted for each
+installation
+of a temporary structure. The
+construction documents
+shall include a
+site
+plan indicating the location of the temporary structure and information delineating the
+means of egress
+and the
+occupant load
+.
+
+---
+
+A permit
+application
+and
+construction documents
+shall be submitted for each
+installation
+of a temporary structure. The
+construction documents
+shall include a
+site
+plan indicating the location of the temporary structure and information delineating the
+means of egress
+and the
+occupant load
+.
+
+---
+
+## Section 3103.3: Location
+
+3103.3 Location
+Temporary structures
+shall be located in accordance with the requirements of
+Table 602
+based on the
+fire-resistance rating
+of the
+exterior walls
+for the proposed type of
+construction
+.
+
+---
+
+Temporary structures
+shall be located in accordance with the requirements of
+Table 602
+based on the
+fire-resistance rating
+of the
+exterior walls
+for the proposed type of
+construction
+.
+
+---
+
+## Section 3103.4: Means of Egress
+
+3103.4 Means of Egress
+Temporary structures
+shall conform to the
+means of egress
+requirements of
+Chapter 10
+and shall have an
+exit access
+travel
+distance of 100 feet (30 480 mm) or less.
+UpCodes Diagram (1)
+UpCodes Calculators
+Let us calculate the egress requirements for you.
+Calculate
+
+---
+
+Temporary structures
+shall conform to the
+means of egress
+requirements of
+Chapter 10
+and shall have an
+exit access
+travel
+distance of 100 feet (30 480 mm) or less.
+
+---
+
+Section BC 3104 Pedestrian Walkways and Tunnels
+
+---
+
+## Section 3104.1: General
+
+3104.1 General
+This section shall apply to connections between buildings such as
+pedestrian walkways
+or tunnels, located at, above or below grade level, that are used as a means of
+travel
+by persons. The
+pedestrian walkway
+shall not contribute to the
+building area
+or the number of
+stories
+or
+height
+of connected buildings.
+
+---
+
+This section shall apply to connections between buildings such as
+pedestrian walkways
+or tunnels, located at, above or below grade level, that are used as a means of
+travel
+by persons. The
+pedestrian walkway
+shall not contribute to the
+building area
+or the number of
+stories
+or
+height
+of connected buildings.
+
+---
+
+## Section 3104.1.1: Application
+
+3104.1.1 Application
+Pedestrian walkways
+shall be designed and constructed in accordance with Sections
+3104.2
+through
+3104.9
+. Tunnels shall be designed and constructed in accordance with Sections
+3104.2
+and
+3104.10
+.
+
+---
+
+Pedestrian walkways
+shall be designed and constructed in accordance with Sections
+3104.2
+through
+3104.9
+. Tunnels shall be designed and constructed in accordance with Sections
+3104.2
+and
+3104.10
+.
+
+---
+
+## Section 3104.2: Separate Structures
+
+3104.2 Separate Structures
+Buildings connected by
+pedestrian walkways
+or tunnels shall be considered to be separate structures.
+Exceptions:
+Buildings that are on the same
+tax lot
+and considered as portions of a single
+building
+in accordance with
+Section 503.1.2
+.
+For purposes of calculating the number of
+Type B units
+required by
+Chapter 11
+, structurally connected buildings and buildings with multiple wings shall be considered one structure.
+
+---
+
+Buildings connected by
+pedestrian walkways
+or tunnels shall be considered to be separate structures.
+Exceptions:
+Buildings that are on the same
+tax lot
+and considered as portions of a single
+building
+in accordance with
+Section 503.1.2
+.
+For purposes of calculating the number of
+Type B units
+required by
+Chapter 11
+, structurally connected buildings and buildings with multiple wings shall be considered one structure.
+
+---
+
+## Section 3104.3: Construction
+
+3104.3 Construction
+The
+pedestrian walkway
+shall be of a
+Construction
+Type that is at least equal to the higher type of the two buildings connected.
+Exception:
+Exterior
+pedestrian walkways
+serving as a required
+exit
+shall be constructed of noncombustible
+materials
+and comply with the
+fire-resistance rating
+requirements as set forth in
+Chapter 7
+.
+
+---
+
+The
+pedestrian walkway
+shall be of a
+Construction
+Type that is at least equal to the higher type of the two buildings connected.
+Exception:
+Exterior
+pedestrian walkways
+serving as a required
+exit
+shall be constructed of noncombustible
+materials
+and comply with the
+fire-resistance rating
+requirements as set forth in
+Chapter 7
+.
+
+---
+
+## Section 3104.4: Contents
+
+3104.4 Contents
+Only
+materials
+approved by the department shall be located in the
+pedestrian walkway
+. Decorations may be permitted in accordance with the
+New York City Fire Code
+.
+
+---
+
+Only
+materials
+approved by the department shall be located in the
+pedestrian walkway
+. Decorations may be permitted in accordance with the
+New York City Fire Code
+.
+
+---
+
+## Section 3104.5: Connections of Pedestrian Walkways to Buildings
+
+3104.5 Connections of Pedestrian Walkways to Buildings
+The connection of a
+pedestrian walkway
+to a
+building
+shall comply with
+Section 3104.5.1
+,
+3104.5.2
+,
+3104.5.3
+or
+3104.5.4
+.
+Exception:
+Buildings that are on the same
+tax lot
+and considered as portions of a single
+building
+in accordance with
+Section 503.1.2
+.
+
+---
+
+The connection of a
+pedestrian walkway
+to a
+building
+shall comply with
+Section 3104.5.1
+,
+3104.5.2
+,
+3104.5.3
+or
+3104.5.4
+.
+Exception:
+Buildings that are on the same
+tax lot
+and considered as portions of a single
+building
+in accordance with
+Section 503.1.2
+.
+
+---
+
+## Section 3104.5.1: Fire Barriers
+
+3104.5.1 Fire Barriers
+Pedestrian walkways
+shall be separated from the interior of the
+building
+by not less than 2-hour
+fire barriers
+constructed in accordance with Section 707 and Sections
+3104.5.1.1
+through
+3104.5.1.3
+.
+Assemblies (19)
+
+---
+
+Pedestrian walkways
+shall be separated from the interior of the
+building
+by not less than 2-hour
+fire barriers
+constructed in accordance with Section 707 and Sections
+3104.5.1.1
+through
+3104.5.1.3
+.
+
+---
+
+## Section 3104.5.1.1: Exterior Walls
+
+3104.5.1.1 Exterior Walls
+Exterior walls
+of buildings connected to
+pedestrian walkways
+shall be 2-hour
+fire-resistance
+-rated. This protection shall extend not less than 10 feet (3048 mm) in every direction surrounding the perimeter of the
+pedestrian walkway
+.
+
+---
+
+Exterior walls
+of buildings connected to
+pedestrian walkways
+shall be 2-hour
+fire-resistance
+-rated. This protection shall extend not less than 10 feet (3048 mm) in every direction surrounding the perimeter of the
+pedestrian walkway
+.
+
+---
+
+## Section 3104.5.1.2: Openings in Exterior Walls of Connected Buildings
+
+3104.5.1.2 Openings in Exterior Walls of Connected Buildings
+Openings
+in
+exterior walls
+required to be
+fire-resistance
+-rated in accordance with
+Section 3104.5.1.1
+shall be equipped with opening protectives providing a not less than
+3
+/
+4
+-hour
+fire protection rating
+in accordance with Section 716.
+
+---
+
+Openings
+in
+exterior walls
+required to be
+fire-resistance
+-rated in accordance with
+Section 3104.5.1.1
+shall be equipped with opening protectives providing a not less than
+3
+/
+4
+-hour
+fire protection rating
+in accordance with Section 716.
+
+---
+
+## Section 3104.5.1.3: Supporting Construction
+
+3104.5.1.3 Supporting Construction
+The
+fire barrier
+shall be supported by
+construction
+as required by
+Section 707.5.1
+.
+
+---
+
+The
+fire barrier
+shall be supported by
+construction
+as required by
+Section 707.5.1
+.
+
+---
+
+## Section 3104.5.2: Alternative Separation
+
+3104.5.2 Alternative Separation
+The
+wall
+separating the
+pedestrian walkway
+and the
+building
+shall comply with
+Section 3104.5.2.1
+or
+3104.5.2.2
+where:
+The distance between the connected buildings is more than 30 feet (9144 mm).
+The
+pedestrian walkway
+and connected buildings are equipped throughout with an
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+, and the roof of the walkway is not more than 55 feet (16 764 mm) above grade connecting to the fifth, or lower,
+story above grade plane
+, of each
+building
+.
+Exception:
+Pedestrian walkways
+accessory to
+open parking garages
+need not be equipped with an
+automatic sprinkler system
+.
+
+---
+
+The
+wall
+separating the
+pedestrian walkway
+and the
+building
+shall comply with
+Section 3104.5.2.1
+or
+3104.5.2.2
+where:
+The distance between the connected buildings is more than 30 feet (9144 mm).
+The
+pedestrian walkway
+and connected buildings are equipped throughout with an
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+, and the roof of the walkway is not more than 55 feet (16 764 mm) above grade connecting to the fifth, or lower,
+story above grade plane
+, of each
+building
+.
+Exception:
+Pedestrian walkways
+accessory to
+open parking garages
+need not be equipped with an
+automatic sprinkler system
+.
+
+---
+
+## Section 3104.5.2.1: Passage of Smoke
+
+3104.5.2.1 Passage of Smoke
+The
+wall
+shall be capable of resisting the passage of
+smoke
+.
+
+---
+
+The
+wall
+shall be capable of resisting the passage of
+smoke
+.
+
+---
+
+## Section 3104.5.2.2: Glass
+
+3104.5.2.2 Glass
+The
+wall
+shall be constructed of a tempered, wired or laminated glass
+wall
+and doors or glass separating the interior of the
+building
+from the
+pedestrian walkway
+. The glass shall be protected by an
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+that, when actuated, shall completely wet the entire surface of interior sides of the
+wall
+or glass. Obstructions shall not be installed between the sprinkler heads and the
+wall
+or glass. The glass shall be in a gasketed frame and installed in such a manner that the framing system will deflect without breaking (loading) the glass before the sprinkler operates.
+
+---
+
+The
+wall
+shall be constructed of a tempered, wired or laminated glass
+wall
+and doors or glass separating the interior of the
+building
+from the
+pedestrian walkway
+. The glass shall be protected by an
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+that, when actuated, shall completely wet the entire surface of interior sides of the
+wall
+or glass. Obstructions shall not be installed between the sprinkler heads and the
+wall
+or glass. The glass shall be in a gasketed frame and installed in such a manner that the framing system will deflect without breaking (loading) the glass before the sprinkler operates.
+
+---
+
+## Section 3104.5.3: Open Sides on Walkway
+
+3104.5.3 Open Sides on Walkway
+Where the distance between the connected buildings is more than 30 feet (9144 mm), the
+walls
+at the intersection of the
+pedestrian walkway
+and each
+building
+need not be
+fire-resistance
+-rated provided both sidewalls of the
+pedestrian walkway
+are not less than 50 percent open with the open area uniformly distributed to prevent the accumulation of
+smoke
+and toxic gases. The roof of the walkway shall be located not more than 40 feet (12 160 mm) above
+grade plane
+, and the walkway shall only be permitted to connect to the third or lower
+story
+of each
+building
+.
+Exception:
+Where the
+pedestrian walkway
+is protected with a sprinkler system in accordance with
+Section 903.3.1.1
+, the roof of the walkway shall be located not more than 55 feet (16 764 mm) above
+grade plane
+and the walkway shall only be permitted to connect to the fifth or lower
+story
+of each
+building
+.
+
+---
+
+Where the distance between the connected buildings is more than 30 feet (9144 mm), the
+walls
+at the intersection of the
+pedestrian walkway
+and each
+building
+need not be
+fire-resistance
+-rated provided both sidewalls of the
+pedestrian walkway
+are not less than 50 percent open with the open area uniformly distributed to prevent the accumulation of
+smoke
+and toxic gases. The roof of the walkway shall be located not more than 40 feet (12 160 mm) above
+grade plane
+, and the walkway shall only be permitted to connect to the third or lower
+story
+of each
+building
+.
+Exception:
+Where the
+pedestrian walkway
+is protected with a sprinkler system in accordance with
+Section 903.3.1.1
+, the roof of the walkway shall be located not more than 55 feet (16 764 mm) above
+grade plane
+and the walkway shall only be permitted to connect to the fifth or lower
+story
+of each
+building
+.
+
+---
+
+## Section 3104.5.4: Exterior Walls Greater Than 2 Hours
+
+3104.5.4 Exterior Walls Greater Than 2 Hours
+Where
+exterior walls
+of connected buildings are required by Section 705 to have a
+fire-resistance rating
+greater than 2 hours, the
+walls
+at the intersection of the
+pedestrian walkway
+and each
+building
+need not be
+fire-resistance
+-rated provided:
+The
+pedestrian walkway
+is equipped throughout with an
+automatic sprinkler system
+installed in accordance with
+Section 903.3.1.1
+.
+The roof of the walkway is not located more than 55 feet (16 764 mm) above
+grade plane
+and the walkway connects to the fifth, or lower,
+story above grade plane
+of each
+building
+.
+
+---
+
+Where
+exterior walls
+of connected buildings are required by Section 705 to have a
+fire-resistance rating
+greater than 2 hours, the
+walls
+at the intersection of the
+pedestrian walkway
+and each
+building
+need not be
+fire-resistance
+-rated provided:
+The
+pedestrian walkway
+is equipped throughout with an
+automatic sprinkler system
+installed in accordance with
+Section 903.3.1.1
+.
+The roof of the walkway is not located more than 55 feet (16 764 mm) above
+grade plane
+and the walkway connects to the fifth, or lower,
+story above grade plane
+of each
+building
+.
+
+---
+
+## Section 3104.6: Public Way
+
+3104.6 Public Way
+Pedestrian walkways
+over a
+public way
+shall comply with
+Chapter 32
+.
+
+---
+
+Pedestrian walkways
+over a
+public way
+shall comply with
+Chapter 32
+.
+
+---
+
+## Section 3104.7: Width
+
+3104.7 Width
+The unobstructed width of
+pedestrian walkways
+shall be not less than 36 inches (914 mm). The total width shall be not greater than 30 feet (9144 mm).
+
+---
+
+The unobstructed width of
+pedestrian walkways
+shall be not less than 36 inches (914 mm). The total width shall be not greater than 30 feet (9144 mm).
+
+---
+
+## Section 3104.8: Egress
+
+3104.8 Egress
+Access shall be provided at all times to a
+pedestrian walkway
+that serves as a required
+exit
+. Doors satisfying the requirements of
+Chapter 10
+shall enclose each end of such
+pedestrian walkway
+. The width of such
+pedestrian walkway
+shall be at least equal to the width of the doors opening onto such
+pedestrian walkway
+, but in no case less than 44 inches (1118 mm). The floor level at doors shall be the same as that of the connected
+building
+.
+Exception:
+The floor level at doors of open
+pedestrian walkways
+shall be not less than 7
+1
+/
+2
+inches (191 mm) below the level of the
+door
+. Where the requirements of
+Chapter 11
+are applicable, these differences in level shall be accommodated by means of
+ramps
+in compliance with the provisions of
+Chapter 11
+.
+
+---
+
+Access shall be provided at all times to a
+pedestrian walkway
+that serves as a required
+exit
+. Doors satisfying the requirements of
+Chapter 10
+shall enclose each end of such
+pedestrian walkway
+. The width of such
+pedestrian walkway
+shall be at least equal to the width of the doors opening onto such
+pedestrian walkway
+, but in no case less than 44 inches (1118 mm). The floor level at doors shall be the same as that of the connected
+building
+.
+Exception:
+The floor level at doors of open
+pedestrian walkways
+shall be not less than 7
+1
+/
+2
+inches (191 mm) below the level of the
+door
+. Where the requirements of
+Chapter 11
+are applicable, these differences in level shall be accommodated by means of
+ramps
+in compliance with the provisions of
+Chapter 11
+.
+
+---
+
+## Section 3104.9: Exit Access Travel
+
+3104.9 Exit Access Travel
+The length of
+exit access
+travel
+shall be 200 feet (60 960 mm) or less.
+Exceptions:
+Exit access
+travel
+distance on a
+pedestrian walkway
+equipped throughout with an
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+shall be 250 feet (76 200 mm) or less.
+Exit access
+travel
+distance on a
+pedestrian walkway
+constructed with both sides not less than 50 percent open shall be 300 feet (91 440 mm) or less.
+Exit access
+travel
+distance on a
+pedestrian walkway
+constructed with both sides not less than 50 percent open, and equipped throughout with an
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+, shall be 400 feet (122 m) or less.
+UpCodes Calculators
+Let us calculate the egress requirements for you.
+Calculate
+
+---
+
+The length of
+exit access
+travel
+shall be 200 feet (60 960 mm) or less.
+Exceptions:
+Exit access
+travel
+distance on a
+pedestrian walkway
+equipped throughout with an
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+shall be 250 feet (76 200 mm) or less.
+Exit access
+travel
+distance on a
+pedestrian walkway
+constructed with both sides not less than 50 percent open shall be 300 feet (91 440 mm) or less.
+Exit access
+travel
+distance on a
+pedestrian walkway
+constructed with both sides not less than 50 percent open, and equipped throughout with an
+automatic sprinkler system
+in accordance with
+Section 903.3.1.1
+, shall be 400 feet (122 m) or less.
+
+---
+
+## Section 3104.10: Tunneled Walkway
+
+3104.10 Tunneled Walkway
+Separation between the tunneled walkway and the
+building
+to which it is connected shall be not less than 2-hour fire-resistant
+construction
+and
+openings
+therein shall be protected in accordance with
+Table 716.5
+.
+
+---
+
+Separation between the tunneled walkway and the
+building
+to which it is connected shall be not less than 2-hour fire-resistant
+construction
+and
+openings
+therein shall be protected in accordance with
+Table 716.5
+.
+
+---
+
+Section BC 3105 Awnings, Canopies and Sun Control Devices
+
+---
+
+## Section 3105.1: General
+
+3105.1 General
+Awnings
+,
+canopies
+, and sun control devices shall comply with the requirements of this section, the requirements of
+Chapter 32
+for projections over
+public ways
+, and other applicable sections of this code.
+Exception:
+Canopies
+projecting over public rights-of-way governed by
+Title
+19 of the
+Administrative Code
+and rules of the
+New York City Department of Transportation
+.
+
+---
+
+Awnings
+,
+canopies
+, and sun control devices shall comply with the requirements of this section, the requirements of
+Chapter 32
+for projections over
+public ways
+, and other applicable sections of this code.
+Exception:
+Canopies
+projecting over public rights-of-way governed by
+Title
+19 of the
+Administrative Code
+and rules of the
+New York City Department of Transportation
+.
+
+---
+
+## Section 3105.2: Definitions
+
+3105.2 Definitions
+The following term is defined in
+Chapter 2
+:
+RETRACTABLE AWNING
+.
+SUN CONTROL DEVICE.
+
+---
+
+The following term is defined in
+Chapter 2
+:
+RETRACTABLE AWNING
+.
+SUN CONTROL DEVICE.
+
+---
+
+## Section 3105.3: Design and Construction
+
+3105.3 Design and Construction
+Awnings
+,
+canopies
+, and sun control devices shall be designed and constructed to withstand wind or other lateral
+loads
+and
+live loads
+as required by
+Chapter 16
+with due allowance for shape, open
+construction
+and similar features that relieve the pressures or
+loads
+. Structural members shall be protected to prevent deterioration.
+Awnings
+and
+canopies
+shall have frames of noncombustible material, covered with fabric that meets the fire propagation
+performance
+criteria
+of Test Method 1 or Test Method 2, as appropriate, of NFPA 701 or has a
+flame spread index
+not greater than 25 when tested in accordance with ASTM E 84 or UL 723, or covered in
+plastic
+in accordance with Section 2605, sheet metal, or other equivalent material, and shall be either fixed, retractable, folding or collapsible. Sun control devices shall be constructed of noncombustible
+materials
+.
+
+---
+
+Awnings
+,
+canopies
+, and sun control devices shall be designed and constructed to withstand wind or other lateral
+loads
+and
+live loads
+as required by
+Chapter 16
+with due allowance for shape, open
+construction
+and similar features that relieve the pressures or
+loads
+. Structural members shall be protected to prevent deterioration.
+Awnings
+and
+canopies
+shall have frames of noncombustible material, covered with fabric that meets the fire propagation
+performance
+criteria
+of Test Method 1 or Test Method 2, as appropriate, of NFPA 701 or has a
+flame spread index
+not greater than 25 when tested in accordance with ASTM E 84 or UL 723, or covered in
+plastic
+in accordance with Section 2605, sheet metal, or other equivalent material, and shall be either fixed, retractable, folding or collapsible. Sun control devices shall be constructed of noncombustible
+materials
+.
+
+---
+
+## Section 3105.4: Reserved
+
+3105.4 Reserved
+
+---
+
+Section BC 3106 Marquees
+
+---
+
+## Section 3106.1: General
+
+3106.1 General
+Marquees
+shall comply with this section and other applicable sections of this code.
+Marquees
+projecting beyond the
+street line
+shall also comply with the requirements of
+Chapter 32
+.
+Signs
+placed on
+marquees
+shall also comply with Section 3107
+.
+
+---
+
+Marquees
+shall comply with this section and other applicable sections of this code.
+Marquees
+projecting beyond the
+street line
+shall also comply with the requirements of
+Chapter 32
+.
+Signs
+placed on
+marquees
+shall also comply with Section 3107
+.
+
+---
+
+## Section 3106.2: Thickness
+
+3106.2 Thickness
+The maximum
+height
+or thickness of a
+marquee
+measured vertically from its lowest to its highest point shall not be limited.
+Exception:
+Marquees
+projecting beyond the
+street line
+shall meet the
+height
+and thickness requirements of
+Chapter 32
+.
+
+---
+
+The maximum
+height
+or thickness of a
+marquee
+measured vertically from its lowest to its highest point shall not be limited.
+Exception:
+Marquees
+projecting beyond the
+street line
+shall meet the
+height
+and thickness requirements of
+Chapter 32
+.
+
+---
+
+## Section 3106.3: Roof Construction
+
+3106.3 Roof Construction
+Where the roof or any part thereof is a
+skylight
+, the
+skylight
+shall comply with the requirements of
+Chapter 24
+. Every roof and
+skylight
+of a
+marquee
+shall be drained in accordance with the provisions of the
+New York City Plumbing Code
+.
+
+---
+
+Where the roof or any part thereof is a
+skylight
+, the
+skylight
+shall comply with the requirements of
+Chapter 24
+. Every roof and
+skylight
+of a
+marquee
+shall be drained in accordance with the provisions of the
+New York City Plumbing Code
+.
+
+---
+
+## Section 3106.4: Location Prohibited
+
+3106.4 Location Prohibited
+Every
+marquee
+shall be so located as not to interfere with the
+operation
+of any exterior standpipe, and such that the
+marquee
+does not obstruct the clear passage of
+stairways
+or
+exit discharge
+from the
+building
+or the
+installation
+or
+maintenance
+of
+street
+lighting.
+
+---
+
+Every
+marquee
+shall be so located as not to interfere with the
+operation
+of any exterior standpipe, and such that the
+marquee
+does not obstruct the clear passage of
+stairways
+or
+exit discharge
+from the
+building
+or the
+installation
+or
+maintenance
+of
+street
+lighting.
+
+---
+
+## Section 3106.5: Construction
+
+3106.5 Construction
+A
+marquee
+shall be supported entirely from the
+building
+and constructed of noncombustible
+materials
+.
+Marquees
+shall be designed as required in
+Chapter 16
+. Structural members shall be protected to prevent deterioration
+.
+
+---
+
+A
+marquee
+shall be supported entirely from the
+building
+and constructed of noncombustible
+materials
+.
+Marquees
+shall be designed as required in
+Chapter 16
+. Structural members shall be protected to prevent deterioration
+.
+
+---
+
+Section BC 3107 Signs
+
+---
+
+## Section 3107.1: General
+
+3107.1 General
+Signs
+shall be designed, constructed and maintained in accordance with
+Appendix H
+.
+
+---
+
+Signs
+shall be designed, constructed and maintained in accordance with
+Appendix H
+.
+
+---
+
+Section BC 3108 Radio, Television, and Telecommunications Towers and Antennas
+
+---
+
+## Section 3108.1: General
+
+3108.1 General
+Subject to the provisions of
+Chapter 16
+and the requirements of
+Chapter 15
+governing the
+fire-resistance ratings
+of buildings for the support of roof structures, radio, television, and telecommunications towers and antennas shall be designed and constructed as herein provided. All such towers and antennas shall be collectively referred to as "towers" for the purposes of this section. Towers shall be designed and constructed in accordance with the provisions of TIA-222.
+Exceptions:
+Exceptions related to
+seismic design
+in Section 2.7.3 of TIA-222 shall not apply;
+The specified
+values
+for seismic coefficients
+S
+s
+,
+S
+1
+and
+Site
+Factors
+F
+a
+and
+F
+v
+shall comply with
+Section 1613.3
+; and
+The horizontal extent of Topographic Category 2, escarpments, shall be 16 times the
+height
+of the escarpment.
+
+---
+
+Subject to the provisions of
+Chapter 16
+and the requirements of
+Chapter 15
+governing the
+fire-resistance ratings
+of buildings for the support of roof structures, radio, television, and telecommunications towers and antennas shall be designed and constructed as herein provided. All such towers and antennas shall be collectively referred to as "towers" for the purposes of this section. Towers shall be designed and constructed in accordance with the provisions of TIA-222.
+Exceptions:
+Exceptions related to
+seismic design
+in Section 2.7.3 of TIA-222 shall not apply;
+The specified
+values
+for seismic coefficients
+S
+s
+,
+S
+1
+and
+Site
+Factors
+F
+a
+and
+F
+v
+shall comply with
+Section 1613.3
+; and
+The horizontal extent of Topographic Category 2, escarpments, shall be 16 times the
+height
+of the escarpment.
+
+---
+
+## Section 3108.2: Location and Access
+
+3108.2 Location and Access
+Towers shall be located and equipped with step bolts and ladders so as to provide ready access for
+inspection
+purposes. Guy wires or other accessories shall not cross or encroach upon any
+street
+or other public space, or over above-ground electric utility lines, or encroach upon any privately owned property without written consent of the owner of the encroached-upon property, space or above-ground electric utility lines. Towers shall be equipped with climbing and working
+facilities
+in compliance with TIA-222. See applicable
+OSHA
+, FCC and EPA regulations relating to
+limitations
+on access to tower
+sites
+.
+
+---
+
+Towers shall be located and equipped with step bolts and ladders so as to provide ready access for
+inspection
+purposes. Guy wires or other accessories shall not cross or encroach upon any
+street
+or other public space, or over above-ground electric utility lines, or encroach upon any privately owned property without written consent of the owner of the encroached-upon property, space or above-ground electric utility lines. Towers shall be equipped with climbing and working
+facilities
+in compliance with TIA-222. See applicable
+OSHA
+, FCC and EPA regulations relating to
+limitations
+on access to tower
+sites
+.
+
+---
+
+## Section 3108.3: Construction
+
+3108.3 Construction
+Towers shall be constructed of approved corrosion-resistant noncombustible material. The minimum type of
+construction
+of isolated radio towers not more than 100 feet (30 480 mm) in
+height
+shall be Type IIB
+.
+
+---
+
+Towers shall be constructed of approved corrosion-resistant noncombustible material. The minimum type of
+construction
+of isolated radio towers not more than 100 feet (30 480 mm) in
+height
+shall be Type IIB
+.
+
+---
+
+## Section 3108.4: Loads
+
+3108.4 Loads
+Towers shall be designed to resist wind
+loads
+in accordance with TIA-222 and
+Chapter 16
+of this code. The
+design
+criteria
+shall not be less stringent than required by
+Chapter 16
+. Consideration shall be given to conditions involving wind load on ice-covered sections.
+
+---
+
+Towers shall be designed to resist wind
+loads
+in accordance with TIA-222 and
+Chapter 16
+of this code. The
+design
+criteria
+shall not be less stringent than required by
+Chapter 16
+. Consideration shall be given to conditions involving wind load on ice-covered sections.
+
+---
+
+## Section 3108.4.1: Dead Load
+
+3108.4.1 Dead Load
+Towers shall be designed for the dead
+load
+plus ice
+load
+.
+
+---
+
+Towers shall be designed for the dead
+load
+plus ice
+load
+.
+
+---
+
+## Section 3108.4.2: Wind Load
+
+3108.4.2 Wind Load
+Towers shall be provided with adequate foundations and anchorage designed to resist two times the calculated wind load.
+
+---
+
+Towers shall be provided with adequate foundations and anchorage designed to resist two times the calculated wind load.
+
+---
+
+## Section 3108.4.3: Earthquake Load
+
+3108.4.3 Earthquake Load
+Towers shall be provided with adequate foundations and anchorage designed to resist two times the calculated earthquake load.
+
+---
+
+Towers shall be provided with adequate foundations and anchorage designed to resist two times the calculated earthquake load.
+
+---
+
+## Section 3108.5: Grounding
+
+3108.5 Grounding
+Towers shall be permanently and effectively grounded in accordance with the
+New York City Electrical Code
+.
+
+---
+
+Towers shall be permanently and effectively grounded in accordance with the
+New York City Electrical Code
+.
+
+---
+
+Section BC 3109 Swimming Pools, Swimming Pool Enclosures, and Safety Devices
+
+---
+
+## Section 3109.1: General
+
+3109.1 General
+Swimming pools
+,
+swimming pool
+enclosures, and
+swimming pool
+safety devices shall comply with the requirements of this section and other applicable sections of this code.
+
+---
+
+Swimming pools
+,
+swimming pool
+enclosures, and
+swimming pool
+safety devices shall comply with the requirements of this section and other applicable sections of this code.
+
+---
+
+## Section 3109.2: Definitions
+
+3109.2 Definitions
+The following terms are defined in
+Chapter 2
+:
+BARRIER, TEMPORARY
+.
+SWIMMING POOL
+.
+SWIMMING POOL, PRIVATE
+.
+SWIMMING POOL, PUBLIC
+.
+
+---
+
+The following terms are defined in
+Chapter 2
+:
+BARRIER, TEMPORARY
+.
+SWIMMING POOL
+.
+SWIMMING POOL, PRIVATE
+.
+SWIMMING POOL, PUBLIC
+.
+
+---
+
+## Section 3109.3: Pool Safety and Accessibility
+
+3109.3 Pool Safety and Accessibility
+Public and
+private swimming pools
+shall comply with the requirements for safety and
+accessibility
+as provided in this section.
+
+---
+
+Public and
+private swimming pools
+shall comply with the requirements for safety and
+accessibility
+as provided in this section.
+
+---
+
+## Section 3109.3.1: Entrapment Protection
+
+3109.3.1 Entrapment Protection
+Entrapment protection shall be provided in compliance with this section.
+
+---
+
+Entrapment protection shall be provided in compliance with this section.
+
+---
+
+## Section 3109.3.1.1: Suction Entrapment Avoidance
+
+3109.3.1.1 Suction Entrapment Avoidance
+Suction outlets shall be designed and installed in accordance with ANSI/APSP-7.
+
+---
+
+Suction outlets shall be designed and installed in accordance with ANSI/APSP-7.
+
+---
+
+## Section 3109.3.2: Swimming Pool and Spa Alarms
+
+3109.3.2 Swimming Pool and Spa Alarms
+Swimming pool
+and spa alarms shall comply with Sections
+3109.3.2.1
+through
+3109.3.2.4
+.
+
+---
+
+Swimming pool
+and spa alarms shall comply with Sections
+3109.3.2.1
+through
+3109.3.2.4
+.
+
+---
+
+## Section 3109.3.2.1: Applicability
+
+3109.3.2.1 Applicability
+All
+swimming pools
+and spas shall be equipped with an approved pool alarm. Pool alarms shall comply with ASTM F 2208 and shall be installed, used and maintained in accordance with the manufacturer's instructions and this section.
+Exceptions:
+A hot tub or spa equipped with a safety cover that complies with ASTM F 1346.
+A
+swimming pool
+(other than a hot tub or spa) equipped with an
+automatic
+power safety cover that complies with ASTM F 1346.
+
+---
+
+All
+swimming pools
+and spas shall be equipped with an approved pool alarm. Pool alarms shall comply with ASTM F 2208 and shall be installed, used and maintained in accordance with the manufacturer's instructions and this section.
+Exceptions:
+A hot tub or spa equipped with a safety cover that complies with ASTM F 1346.
+A
+swimming pool
+(other than a hot tub or spa) equipped with an
+automatic
+power safety cover that complies with ASTM F 1346.
+
+---
+
+## Section 3109.3.2.2: Multiple Alarms
+
+3109.3.2.2 Multiple Alarms
+A pool alarm must be capable of detecting entry into the water at any point on the surface of the
+swimming pool
+. If necessary to provide detection capability at every point on the surface of the
+swimming pool
+, more than one pool alarm shall be provided.
+
+---
+
+A pool alarm must be capable of detecting entry into the water at any point on the surface of the
+swimming pool
+. If necessary to provide detection capability at every point on the surface of the
+swimming pool
+, more than one pool alarm shall be provided.
+
+---
+
+## Section 3109.3.2.3: Alarm Activation
+
+3109.3.2.3 Alarm Activation
+Pool alarms shall activate upon detecting entry into the water and shall sound poolside and inside the
+building
+.
+
+---
+
+Pool alarms shall activate upon detecting entry into the water and shall sound poolside and inside the
+building
+.
+
+---
+
+## Section 3109.3.2.4: Prohibited Alarms
+
+3109.3.2.4 Prohibited Alarms
+The use of personal immersion alarms shall not be construed as compliance with this section.
+
+---
+
+The use of personal immersion alarms shall not be construed as compliance with this section.
+
+---
+
+## Section 3109.3.3: Water Circulation, Water Treatment and Drainage
+
+3109.3.3 Water Circulation, Water Treatment and Drainage
+The supply, circulation, treatment, and
+drainage
+of water for
+swimming pools
+shall meet the requirements of the
+New York City Plumbing Code
+.
+
+---
+
+The supply, circulation, treatment, and
+drainage
+of water for
+swimming pools
+shall meet the requirements of the
+New York City Plumbing Code
+.
+
+---
+
+## Section 3109.3.4: Electrical Precautions
+
+3109.3.4 Electrical Precautions
+No overhead electrical conductors shall be installed within 15 feet (4572 mm) of any
+swimming pool
+. All metal fences, enclosures, or railings that might become electrically charged as a result of contact with broken overhead conductors or from any other cause near, or adjacent to, a
+swimming pool
+shall be grounded in accordance with the provisions of lightning protection in the
+New York City Electrical Code
+.
+
+---
+
+No overhead electrical conductors shall be installed within 15 feet (4572 mm) of any
+swimming pool
+. All metal fences, enclosures, or railings that might become electrically charged as a result of contact with broken overhead conductors or from any other cause near, or adjacent to, a
+swimming pool
+shall be grounded in accordance with the provisions of lightning protection in the
+New York City Electrical Code
+.
+
+---
+
+## Section 3109.3.5: Facilities for People With Disabilities
+
+3109.3.5 Facilities for People With Disabilities
+Facilities
+for people with physical disabilities shall be provided where required by
+Chapter 11
+of this code.
+
+---
+
+Facilities
+for people with physical disabilities shall be provided where required by
+Chapter 11
+of this code.
+
+---
+
+## Section 3109.4: Public Swimming Pools
+
+3109.4 Public Swimming Pools
+Public swimming pools
+shall comply with the requirements for safety and
+accessibility
+as provided in Sections
+3109.3
+and 3109.4.
+Exception:
+A
+swimming pool
+with a power safety cover or a spa with a safety cover complying with ASTM F 1346.
+
+---
+
+Public swimming pools
+shall comply with the requirements for safety and
+accessibility
+as provided in Sections
+3109.3
+and 3109.4.
+Exception:
+A
+swimming pool
+with a power safety cover or a spa with a safety cover complying with ASTM F 1346.
+
+---
+
+## Section 3109.4.1: Barrier Height and Clearances
+
+3109.4.1 Barrier Height and Clearances
+Public swimming pools
+shall be completely enclosed by a fence,
+wall
+,
+building
+, or other
+solid
+barrier
+, or any combination thereof, not less than 6 feet (1829 mm) in
+height
+.
+Openings
+in the enclosure and pedestrian access gates shall not permit the passage of a 4-inch-diameter (102 mm) sphere. The enclosure shall be equipped with
+self-closing
+and self-latching gates.
+Exception:
+Enclosures shall be not less than 4 feet (1219 mm) in
+height
+when surrounding wading pools with water less than 24 inches (610 mm) in depth.
+
+---
+
+Public swimming pools
+shall be completely enclosed by a fence,
+wall
+,
+building
+, or other
+solid
+barrier
+, or any combination thereof, not less than 6 feet (1829 mm) in
+height
+.
+Openings
+in the enclosure and pedestrian access gates shall not permit the passage of a 4-inch-diameter (102 mm) sphere. The enclosure shall be equipped with
+self-closing
+and self-latching gates.
+Exception:
+Enclosures shall be not less than 4 feet (1219 mm) in
+height
+when surrounding wading pools with water less than 24 inches (610 mm) in depth.
+
+---
+
+## Section 3109.4.2: Gates
+
+3109.4.2 Gates
+Gates shall comply with Sections
+3109.4.2.1
+through
+3109.4.2.3
+.
+
+---
+
+Gates shall comply with Sections
+3109.4.2.1
+through
+3109.4.2.3
+.
+
+---
+
+## Section 3109.4.2.1: Self-Closing; Opening Configuration
+
+3109.4.2.1 Self-Closing; Opening Configuration
+All gates shall be
+self-closing
+. In addition, if the gate is a pedestrian access gate, the gate shall open outward, away from the pool.
+
+---
+
+All gates shall be
+self-closing
+. In addition, if the gate is a pedestrian access gate, the gate shall open outward, away from the pool.
+
+---
+
+## Section 3109.4.2.2: Self-Latching; Location of Latch Handle
+
+3109.4.2.2 Self-Latching; Location of Latch Handle
+All gates shall be self-latching, with the latch handle located within the enclosure (i.e., on the pool side of the enclosure) and not less than 40 inches (1016 mm) above grade. If the latch handle is located less than 54 inches (1372 mm) from the bottom of the gate, the latch handle shall be located not less than 3 inches (76 mm) below the top of the gate, and neither the gate nor barrier shall have any opening greater than 0.5 inch (12.7 mm) within 18 inches (457 mm) of the latch handle.
+
+---
+
+All gates shall be self-latching, with the latch handle located within the enclosure (i.e., on the pool side of the enclosure) and not less than 40 inches (1016 mm) above grade. If the latch handle is located less than 54 inches (1372 mm) from the bottom of the gate, the latch handle shall be located not less than 3 inches (76 mm) below the top of the gate, and neither the gate nor barrier shall have any opening greater than 0.5 inch (12.7 mm) within 18 inches (457 mm) of the latch handle.
+
+---
+
+## Section 3109.4.2.3: Locking
+
+3109.4.2.3 Locking
+All gates shall be securely locked with a key, combination or other child proof lock sufficient to prevent access to the
+swimming pool
+through such gate when the
+swimming pool
+is not in use or supervised.
+
+---
+
+All gates shall be securely locked with a key, combination or other child proof lock sufficient to prevent access to the
+swimming pool
+through such gate when the
+swimming pool
+is not in use or supervised.
+
+---
+
+## Section 3109.4.3: Other Laws
+
+3109.4.3 Other Laws
+In addition to the requirements of this section, any other, more stringent requirements for the
+construction
+and
+design
+of
+swimming pool
+and barriers that may be provided for in Article 165 of the
+New York City Health Code,
+as administered by the New York City Department of Health and Mental Hygiene, shall also be applicable.
+
+---
+
+In addition to the requirements of this section, any other, more stringent requirements for the
+construction
+and
+design
+of
+swimming pool
+and barriers that may be provided for in Article 165 of the
+New York City Health Code,
+as administered by the New York City Department of Health and Mental Hygiene, shall also be applicable.
+
+---
+
+‡‡‡ 3109.5 Private Swimming Pools
+Private swimming pools
+shall comply with the requirements for safety and
+accessibility
+as provided in
+Section 3109.3
+and this section.
+Exception:
+An above-ground
+private swimming pool
+which has a maximum water depth of 4 feet (1219 mm) and an area not exceeding 500 square feet (46.45 m
+2
+) that is accessory to an
+R-3
+occupancy and is privately used for noncommercial purposes shall not be required to comply with Sections
+3109.3.1
+,
+3109.3.2
+,
+3109.5.2
+,
+3109.5.3
+and
+3109.5.4
+.
+‡‡‡
+Chapter 31
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Private swimming pools
+shall comply with the requirements for safety and
+accessibility
+as provided in
+Section 3109.3
+and this section.
+Exception:
+An above-ground
+private swimming pool
+which has a maximum water depth of 4 feet (1219 mm) and an area not exceeding 500 square feet (46.45 m
+2
+) that is accessory to an
+R-3
+occupancy and is privately used for noncommercial purposes shall not be required to comply with Sections
+3109.3.1
+,
+3109.3.2
+,
+3109.5.2
+,
+3109.5.3
+and
+3109.5.4
+.
+‡‡‡
+Chapter 31
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+## Section 3109.5.1: Barrier Height and Clearances
+
+3109.5.1 Barrier Height and Clearances
+The top of the
+barrier
+enclosing a
+private swimming pool
+shall be not less than 48 inches (1219 mm) above grade measured on the side of the
+barrier
+that faces away from the
+swimming pool
+. The vertical clearance between grade and the bottom of the barrier shall be not greater than 2 inches (51 mm) measured on the side of the
+barrier
+that faces away from the
+swimming pool
+. Where the top of the pool structure is above grade, the
+barrier
+is authorized to be erected at grade level or mounted on top of the pool structure, and the vertical clearance between the top of the pool structure and the bottom of the
+barrier
+shall be not greater than 4 inches (102 mm).
+
+---
+
+The top of the
+barrier
+enclosing a
+private swimming pool
+shall be not less than 48 inches (1219 mm) above grade measured on the side of the
+barrier
+that faces away from the
+swimming pool
+. The vertical clearance between grade and the bottom of the barrier shall be not greater than 2 inches (51 mm) measured on the side of the
+barrier
+that faces away from the
+swimming pool
+. Where the top of the pool structure is above grade, the
+barrier
+is authorized to be erected at grade level or mounted on top of the pool structure, and the vertical clearance between the top of the pool structure and the bottom of the
+barrier
+shall be not greater than 4 inches (102 mm).
+
+---
+
+## Section 3109.5.1.1: Openings
+
+3109.5.1.1 Openings
+Openings
+in the barrier shall not allow passage of a 4-inch-diameter (102 mm) sphere.
+
+---
+
+Openings
+in the barrier shall not allow passage of a 4-inch-diameter (102 mm) sphere.
+
+---
+
+## Section 3109.5.1.2: Solid Barrier Surfaces
+
+3109.5.1.2 Solid Barrier Surfaces
+Solid
+barriers which do not have
+openings
+shall not contain indentations or protrusions except for normal
+construction
+tolerances and tooled
+masonry
+joints
+.
+
+---
+
+Solid
+barriers which do not have
+openings
+shall not contain indentations or protrusions except for normal
+construction
+tolerances and tooled
+masonry
+joints
+.
+
+---
+
+## Section 3109.5.1.3: Closely Spaced Horizontal Members
+
+3109.5.1.3 Closely Spaced Horizontal Members
+Where the barrier is composed of horizontal and vertical members and the distance between the tops of the horizontal members is less than 45 inches (1143 mm), the horizontal members shall be located on the
+swimming pool
+side of the fence. Spacing between vertical members shall be not greater than 1
+3
+/
+4
+inches (44 mm) in width. Where there are decorative cutouts within vertical members, spacing within the cutouts shall be not greater than 1
+3
+/
+4
+inches (44 mm) in width.
+
+---
+
+Where the barrier is composed of horizontal and vertical members and the distance between the tops of the horizontal members is less than 45 inches (1143 mm), the horizontal members shall be located on the
+swimming pool
+side of the fence. Spacing between vertical members shall be not greater than 1
+3
+/
+4
+inches (44 mm) in width. Where there are decorative cutouts within vertical members, spacing within the cutouts shall be not greater than 1
+3
+/
+4
+inches (44 mm) in width.
+
+---
+
+## Section 3109.5.1.4: Widely Spaced Horizontal Members
+
+3109.5.1.4 Widely Spaced Horizontal Members
+Where the barrier is composed of horizontal and vertical members and the distance between the tops of the horizontal members is 45 inches (1143 mm) or more, spacing between vertical members shall be not greater than 4 inches (102 mm). Where there are decorative cutouts within vertical members, spacing within the cutouts shall be not greater than 1
+3
+/
+4
+inches (44 mm) in width.
+
+---
+
+Where the barrier is composed of horizontal and vertical members and the distance between the tops of the horizontal members is 45 inches (1143 mm) or more, spacing between vertical members shall be not greater than 4 inches (102 mm). Where there are decorative cutouts within vertical members, spacing within the cutouts shall be not greater than 1
+3
+/
+4
+inches (44 mm) in width.
+
+---
+
+## Section 3109.5.1.5: Chain Link Dimensions
+
+3109.5.1.5 Chain Link Dimensions
+Mesh size for chain link fences shall be not greater than a 2
+1
+/
+4
+inch square (57 mm square) unless the fence is provided with slats fastened at the top or the bottom that reduce the
+openings
+to not more than 1
+3
+/
+4
+inches (44 mm).
+
+---
+
+Mesh size for chain link fences shall be not greater than a 2
+1
+/
+4
+inch square (57 mm square) unless the fence is provided with slats fastened at the top or the bottom that reduce the
+openings
+to not more than 1
+3
+/
+4
+inches (44 mm).
+
+---
+
+## Section 3109.5.1.6: Diagonal Members
+
+3109.5.1.6 Diagonal Members
+Where the barrier is composed of diagonal members, the opening formed by the diagonal members shall be not greater than 1
+3
+/
+4
+inches (44 mm).
+
+---
+
+Where the barrier is composed of diagonal members, the opening formed by the diagonal members shall be not greater than 1
+3
+/
+4
+inches (44 mm).
+
+---
+
+## Section 3109.5.1.7: Gates
+
+3109.5.1.7 Gates
+Gates shall comply with Sections
+3109.5.1.1
+through
+3109.5.1.6
+and Sections
+3109.5.1.7.1
+through
+3109.5.1.7.3
+.
+
+---
+
+Gates shall comply with Sections
+3109.5.1.1
+through
+3109.5.1.6
+and Sections
+3109.5.1.7.1
+through
+3109.5.1.7.3
+.
+
+---
+
+## Section 3109.5.1.7.1: Self-Closing; Opening Configuration
+
+3109.5.1.7.1 Self-Closing; Opening Configuration
+All gates shall be
+self-closing
+. In addition, if the gate is a pedestrian access gate, the gate shall open outward, away from the pool.
+
+---
+
+All gates shall be
+self-closing
+. In addition, if the gate is a pedestrian access gate, the gate shall open outward, away from the pool.
+
+---
+
+## Section 3109.5.1.7.2: Self-Latching; Location of Latch Handle
+
+3109.5.1.7.2 Self-Latching; Location of Latch Handle
+All gates shall be self-latching, with the latch handle located within the enclosure (i.e., on the pool side of the enclosure) and not less than 40 inches (1016 mm) above grade. In addition, if the latch handle is located less than 54 inches (1372 mm) from the bottom of the gate, the latch handle shall be located not less than 3 inches (76 mm) below the top of the gate, and neither the gate nor barrier shall have any opening greater than 0.5 inch (12.7 mm) within 18 inches (457 mm) of the latch handle.
+
+---
+
+All gates shall be self-latching, with the latch handle located within the enclosure (i.e., on the pool side of the enclosure) and not less than 40 inches (1016 mm) above grade. In addition, if the latch handle is located less than 54 inches (1372 mm) from the bottom of the gate, the latch handle shall be located not less than 3 inches (76 mm) below the top of the gate, and neither the gate nor barrier shall have any opening greater than 0.5 inch (12.7 mm) within 18 inches (457 mm) of the latch handle.
+
+---
+
+## Section 3109.5.1.7.3: Locking
+
+3109.5.1.7.3 Locking
+All gates shall be securely locked with a key, combination or other child proof lock sufficient to prevent access to the
+swimming pool
+through such gate when the
+swimming pool
+is not in use or supervised.
+
+---
+
+All gates shall be securely locked with a key, combination or other child proof lock sufficient to prevent access to the
+swimming pool
+through such gate when the
+swimming pool
+is not in use or supervised.
+
+---
+
+## Section 3109.5.1.8: Dwelling Wall as a Barrier
+
+3109.5.1.8 Dwelling Wall as a Barrier
+Where a
+wall
+of a
+dwelling
+serves as part of the
+barrier
+, one of the following shall apply:
+Doors with direct access to the pool through that
+wall
+shall be equipped with an alarm that produces an audible warning when the door and/or its screen, if present are opened. The alarm shall be listed in accordance with UL 2017. The audible alarm shall activate within 7 seconds and sound continuously for a minimum of 30 seconds immediately after the door and/or its screen, if present, are opened and be capable of being heard throughout the house during normal household activities. The alarm shall automatically reset under all conditions. The alarm shall be equipped with a manual means, such as touchpad or switch, to temporarily deactivate the alarm for a single opening. Such deactivation shall last no more than 15 seconds. In
+dwellings
+not required to be accessible
+Type B units
+, the deactivation switch shall be located 54 inches (1372 mm) or more above the threshold of the door. In
+dwellings
+required to be accessible
+Type B units
+, the deactivation switch(es) shall be located at 48 inches (1219 mm) above the threshold of the door.
+The
+swimming pool
+shall be equipped with a power safety cover which complies with ASTM F 1346.
+The
+door
+providing access to the
+swimming pool
+from the
+dwelling
+shall open inward, away from the
+swimming pool
+, and shall be
+self-closing
+and have a self-latching device. The release mechanism of the self-latching device shall be located no less than 54 inches (1372 mm) from the bottom of the door. In
+dwellings
+required to be accessible
+Type B units
+, the release mechanism shall be located at 48 inches (1219 mm) above the threshold of the door.
+
+---
+
+Where a
+wall
+of a
+dwelling
+serves as part of the
+barrier
+, one of the following shall apply:
+Doors with direct access to the pool through that
+wall
+shall be equipped with an alarm that produces an audible warning when the door and/or its screen, if present are opened. The alarm shall be listed in accordance with UL 2017. The audible alarm shall activate within 7 seconds and sound continuously for a minimum of 30 seconds immediately after the door and/or its screen, if present, are opened and be capable of being heard throughout the house during normal household activities. The alarm shall automatically reset under all conditions. The alarm shall be equipped with a manual means, such as touchpad or switch, to temporarily deactivate the alarm for a single opening. Such deactivation shall last no more than 15 seconds. In
+dwellings
+not required to be accessible
+Type B units
+, the deactivation switch shall be located 54 inches (1372 mm) or more above the threshold of the door. In
+dwellings
+required to be accessible
+Type B units
+, the deactivation switch(es) shall be located at 48 inches (1219 mm) above the threshold of the door.
+The
+swimming pool
+shall be equipped with a power safety cover which complies with ASTM F 1346.
+The
+door
+providing access to the
+swimming pool
+from the
+dwelling
+shall open inward, away from the
+swimming pool
+, and shall be
+self-closing
+and have a self-latching device. The release mechanism of the self-latching device shall be located no less than 54 inches (1372 mm) from the bottom of the door. In
+dwellings
+required to be accessible
+Type B units
+, the release mechanism shall be located at 48 inches (1219 mm) above the threshold of the door.
+
+---
+
+## Section 3109.5.1.9: Pool Structure as Barrier
+
+3109.5.1.9 Pool Structure as Barrier
+Where an above-ground
+private swimming pool
+structure is used as a
+barrier
+or where the
+barrier
+is mounted on top of the pool structure, and the means of access is a ladder or steps, then the ladder or steps either shall be capable of being secured, locked or removed to prevent access, or the ladder or steps shall be surrounded by a barrier that meets the requirements of Sections
+3109.5.1.1
+through
+3109.5.1.8
+. Where the ladder or steps are secured, locked or removed, any opening created shall not allow the passage of a 4-inch-diameter (102 mm) sphere.
+
+---
+
+Where an above-ground
+private swimming pool
+structure is used as a
+barrier
+or where the
+barrier
+is mounted on top of the pool structure, and the means of access is a ladder or steps, then the ladder or steps either shall be capable of being secured, locked or removed to prevent access, or the ladder or steps shall be surrounded by a barrier that meets the requirements of Sections
+3109.5.1.1
+through
+3109.5.1.8
+. Where the ladder or steps are secured, locked or removed, any opening created shall not allow the passage of a 4-inch-diameter (102 mm) sphere.
+
+---
+
+## Section 3109.5.2: Indoor Swimming Pools
+
+3109.5.2 Indoor Swimming Pools
+Walls
+surrounding indoor
+private swimming pools
+shall not be required to comply with
+Section 3109.5.1.8
+.
+
+---
+
+Walls
+surrounding indoor
+private swimming pools
+shall not be required to comply with
+Section 3109.5.1.8
+.
+
+---
+
+## Section 3109.5.3: Prohibited Locations
+
+3109.5.3 Prohibited Locations
+Barriers shall be located so as to prohibit permanent structures,
+equipment
+or similar objects from being used to climb the barriers.
+
+---
+
+Barriers shall be located so as to prohibit permanent structures,
+equipment
+or similar objects from being used to climb the barriers.
+
+---
+
+## Section 3109.5.4: Construction Requirements
+
+3109.5.4 Construction Requirements
+Private swimming pools
+shall be constructed so as to be water tight and easily cleaned. They shall be built of nonabsorbent
+materials
+with smooth surfaces and shall be free of open cracks and open
+joints
+.
+
+---
+
+Private swimming pools
+shall be constructed so as to be water tight and easily cleaned. They shall be built of nonabsorbent
+materials
+with smooth surfaces and shall be free of open cracks and open
+joints
+.
+
+---
+
+## Section 3109.5.4.1: Walls
+
+3109.5.4.1 Walls
+The
+walls
+of
+swimming pools
+shall be vertical for not less than the top 30 inches (762 mm) below the normal water level. The junctions between the side
+walls
+and the bottom shall be coved. A
+swimming pool
+overflow shall be provided meeting the requirements of the
+New York City Plumbing Code
+.
+
+---
+
+The
+walls
+of
+swimming pools
+shall be vertical for not less than the top 30 inches (762 mm) below the normal water level. The junctions between the side
+walls
+and the bottom shall be coved. A
+swimming pool
+overflow shall be provided meeting the requirements of the
+New York City Plumbing Code
+.
+
+---
+
+## Section 3109.5.4.2: Bottom Slopes
+
+3109.5.4.2 Bottom Slopes
+The bottom of the
+swimming pool
+shall
+slope
+downward toward the main drains. The
+slope
+in shallow areas with depths less than 5 feet (1524 mm) shall not exceed 1 unit vertical in 12 units horizontal (8-percent
+slope
+). In portions of the
+swimming pool
+with depth greater than 5 feet (1524 mm), the
+slope
+shall not be steeper than 1 unit vertical in 3 units horizontal (33-percent
+slope
+)
+.
+
+---
+
+The bottom of the
+swimming pool
+shall
+slope
+downward toward the main drains. The
+slope
+in shallow areas with depths less than 5 feet (1524 mm) shall not exceed 1 unit vertical in 12 units horizontal (8-percent
+slope
+). In portions of the
+swimming pool
+with depth greater than 5 feet (1524 mm), the
+slope
+shall not be steeper than 1 unit vertical in 3 units horizontal (33-percent
+slope
+)
+.
+
+---
+
+## Section 3109.5.4.3: Ladders
+
+3109.5.4.3 Ladders
+There shall be a ladder or steps with
+handrails
+at the deep end and at the shallow end of every
+swimming pool
+. Ladders and steps shall have no-slip treads. All ladders shall be rigidly installed and shall be constructed of corrosion-resistant
+materials
+.
+
+---
+
+There shall be a ladder or steps with
+handrails
+at the deep end and at the shallow end of every
+swimming pool
+. Ladders and steps shall have no-slip treads. All ladders shall be rigidly installed and shall be constructed of corrosion-resistant
+materials
+.
+
+---
+
+## Section 3109.5.4.4: Walkways
+
+3109.5.4.4 Walkways
+Every
+swimming pool
+shall have a walkway not less than 5 feet (1524 mm) wide around its entire perimeter. The walkway shall have a nonslip surface and shall be constructed to drain away from the
+swimming pool
+.
+
+---
+
+Every
+swimming pool
+shall have a walkway not less than 5 feet (1524 mm) wide around its entire perimeter. The walkway shall have a nonslip surface and shall be constructed to drain away from the
+swimming pool
+.
+
+---
+
+## Section 3109.5.4.5: Handholds
+
+3109.5.4.5 Handholds
+Every
+swimming pool
+shall be constructed so that either the overflow gutter, if provided, or the tops of the side
+walls
+afford a continuous handhold for bathers.
+
+---
+
+Every
+swimming pool
+shall be constructed so that either the overflow gutter, if provided, or the tops of the side
+walls
+afford a continuous handhold for bathers.
+
+---
+
+## Section 3109.5.4.6: Markings
+
+3109.5.4.6 Markings
+Permanent markings showing the depth of the shallow end, break points, diving depth and deep end shall be provided so as to be visible from both inside and outside the
+swimming pool
+.
+
+---
+
+Permanent markings showing the depth of the shallow end, break points, diving depth and deep end shall be provided so as to be visible from both inside and outside the
+swimming pool
+.
+
+---
+
+## Section 3109.5.4.7: Diving Boards and Towers
+
+3109.5.4.7 Diving Boards and Towers
+Diving towers shall be rigidly constructed and permanently anchored. The depth of the water below a diving board shall be not less than 102 inches (2591 mm) for a board 39 inches (991 mm) or less above the water. For a diving board more than 39 inches (991 mm) and not more than 118 inches (2997 mm) above the water, the depth of the water below the board shall be not less than 144 inches (3658 mm). For a diving board or
+platform
+more than 118 inches (2997 mm) above the water, the depth of the water below the board shall be not less than 192 inches (4877 mm). Indoor
+swimming pools
+shall provide not less than 144 inches (3658 mm) overhead clearance above all diving boards.
+
+---
+
+Diving towers shall be rigidly constructed and permanently anchored. The depth of the water below a diving board shall be not less than 102 inches (2591 mm) for a board 39 inches (991 mm) or less above the water. For a diving board more than 39 inches (991 mm) and not more than 118 inches (2997 mm) above the water, the depth of the water below the board shall be not less than 144 inches (3658 mm). For a diving board or
+platform
+more than 118 inches (2997 mm) above the water, the depth of the water below the board shall be not less than 192 inches (4877 mm). Indoor
+swimming pools
+shall provide not less than 144 inches (3658 mm) overhead clearance above all diving boards.
+
+---
+
+## Section 3109.6: Temporary Barriers
+
+3109.6 Temporary Barriers
+An outdoor
+swimming pool
+, including an in-ground, above ground or on-ground pool, hot tub or spa shall be surrounded by a
+temporary barrier
+during
+installation
+or
+construction
+. Such
+barrier
+shall remain in place until a permanent fence in compliance with
+Section 3109.4
+is provided for
+public swimming pools
+, or a
+barrier
+in compliance with
+Section 3109.5
+is provided for residential private pools.
+Exceptions:
+Above-ground or on-ground
+residential
+swimming pools
+where the pool structure is the
+barrier
+in compliance with Section 3109.
+Spas or hot tubs with a safety cover which complies with ASTM F 1346, provided that such safety cover is in place during the period of
+installation
+or
+construction
+of such hot tub or spa. The temporary removal of a safety cover as required to facilitate the
+installation
+or
+construction
+of a hot tub or spa during periods when at least one person engaged in the
+installation
+or
+construction
+is present is permitted.
+
+---
+
+An outdoor
+swimming pool
+, including an in-ground, above ground or on-ground pool, hot tub or spa shall be surrounded by a
+temporary barrier
+during
+installation
+or
+construction
+. Such
+barrier
+shall remain in place until a permanent fence in compliance with
+Section 3109.4
+is provided for
+public swimming pools
+, or a
+barrier
+in compliance with
+Section 3109.5
+is provided for residential private pools.
+Exceptions:
+Above-ground or on-ground
+residential
+swimming pools
+where the pool structure is the
+barrier
+in compliance with Section 3109.
+Spas or hot tubs with a safety cover which complies with ASTM F 1346, provided that such safety cover is in place during the period of
+installation
+or
+construction
+of such hot tub or spa. The temporary removal of a safety cover as required to facilitate the
+installation
+or
+construction
+of a hot tub or spa during periods when at least one person engaged in the
+installation
+or
+construction
+is present is permitted.
+
+---
+
+## Section 3109.6.1: Height
+
+3109.6.1 Height
+The top of the
+temporary barrier
+shall be not less than 48 inches (1219 mm ) above grade measured on the side of the
+barrier
+which faces away from the
+swimming pool
+.
+
+---
+
+The top of the
+temporary barrier
+shall be not less than 48 inches (1219 mm ) above grade measured on the side of the
+barrier
+which faces away from the
+swimming pool
+.
+
+---
+
+## Section 3109.6.2: Replacement by a Permanent Barrier
+
+3109.6.2 Replacement by a Permanent Barrier
+A
+temporary barrier
+shall be replaced by a complying permanent
+barrier
+within either of the following periods:
+90 days of the date of issuance of the
+building
+permit for the
+installation
+or
+construction
+of the
+swimming pool
+; or
+90 days of the date of commencement of the
+installation
+or
+construction
+of the
+swimming pool
+.
+
+---
+
+A
+temporary barrier
+shall be replaced by a complying permanent
+barrier
+within either of the following periods:
+90 days of the date of issuance of the
+building
+permit for the
+installation
+or
+construction
+of the
+swimming pool
+; or
+90 days of the date of commencement of the
+installation
+or
+construction
+of the
+swimming pool
+.
+
+---
+
+## Section 3109.6.2.1: Replacement Extension
+
+3109.6.2.1 Replacement Extension
+Subject to the approval of the code enforcement official, the time period for completion of the permanent
+barrier
+may be extended for good cause, including, but not limited to, adverse weather conditions delaying
+construction
+.
+
+---
+
+Subject to the approval of the code enforcement official, the time period for completion of the permanent
+barrier
+may be extended for good cause, including, but not limited to, adverse weather conditions delaying
+construction
+.
+
+---
+
+Section BC 3110 Automatic Vehicular Gates
+
+---
+
+## Section 3110.1: General
+
+3110.1 General
+Automatic
+vehicular gates
+shall comply with the requirements of Sections
+3110.2
+through
+3110.4
+and other applicable sections of this code.
+
+---
+
+Automatic
+vehicular gates
+shall comply with the requirements of Sections
+3110.2
+through
+3110.4
+and other applicable sections of this code.
+
+---
+
+‡‡‡ 3110.2 Definition
+The following term is defined in
+Chapter 2
+:
+VEHICULAR GATE
+.
+‡‡‡
+Chapter 31
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+The following term is defined in
+Chapter 2
+:
+VEHICULAR GATE
+.
+‡‡‡
+Chapter 31
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+## Section 3110.3: Vehicular Gates Intended for Automation
+
+3110.3 Vehicular Gates Intended for Automation
+Vehicular gates
+intended for automation shall be designed, constructed and installed to comply with the class of gate in accordance with the requirements of ASTM F 2200.
+
+---
+
+Vehicular gates
+intended for automation shall be designed, constructed and installed to comply with the class of gate in accordance with the requirements of ASTM F 2200.
+
+---
+
+## Section 3110.3.1: Entrapment Protection
+
+3110.3.1 Entrapment Protection
+Defined classes of gates shall be subject to the entrapment protection provisions per UL 325.
+
+---
+
+Defined classes of gates shall be subject to the entrapment protection provisions per UL 325.
+
+---
+
+## Section 3110.4: Vehicular Gate Operators
+
+3110.4 Vehicular Gate Operators
+Vehicular gate
+operators, when provided, shall be listed in accordance with UL 325.
+
+---
+
+Vehicular gate
+operators, when provided, shall be listed in accordance with UL 325.
+
+---
+
+Section BC 3111 Sidewalk Cafés
+
+---
+
+## Section 3111.1: General
+
+3111.1 General
+Sidewalk cafés provided beyond the
+building line
+shall comply with the requirements of this section, the
+New York City Zoning Resolution
+, the Commissioners of the Department of Consumer Affairs and Department of Transportation, and with the projection
+limitations
+of
+Chapter 32
+of this code.
+
+---
+
+Sidewalk cafés provided beyond the
+building line
+shall comply with the requirements of this section, the
+New York City Zoning Resolution
+, the Commissioners of the Department of Consumer Affairs and Department of Transportation, and with the projection
+limitations
+of
+Chapter 32
+of this code.
+
+---
+
+## Section 3111.2: Enclosures
+
+3111.2 Enclosures
+Enclosed sidewalk cafés shall be constructed of noncombustible material. The
+walls
+of such enclosures shall not extend more than 8 feet (2438 mm) above the sidewalk. Light-transmitting
+plastic glazing
+complying with Section 2606 shall be permitted as glazing within such
+walls
+. Light-transmitting
+plastic
+skylight
+glazing complying with Section 2610 may be installed in the roofs of such enclosures.
+
+---
+
+Enclosed sidewalk cafés shall be constructed of noncombustible material. The
+walls
+of such enclosures shall not extend more than 8 feet (2438 mm) above the sidewalk. Light-transmitting
+plastic glazing
+complying with Section 2606 shall be permitted as glazing within such
+walls
+. Light-transmitting
+plastic
+skylight
+glazing complying with Section 2610 may be installed in the roofs of such enclosures.
+
+---
+
+## Section 3111.3: Awnings
+
+3111.3 Awnings
+Awnings
+supported entirely from the
+building
+may be placed over unenclosed sidewalk cafés provided they are not less than 8 feet (2438 mm) clear above the sidewalk and within the limits specified by the Commissioner of the Department of Consumer Affairs. Such
+awnings
+shall be in compliance with Section 3105 of this code.
+
+---
+
+Awnings
+supported entirely from the
+building
+may be placed over unenclosed sidewalk cafés provided they are not less than 8 feet (2438 mm) clear above the sidewalk and within the limits specified by the Commissioner of the Department of Consumer Affairs. Such
+awnings
+shall be in compliance with Section 3105 of this code.
+
+---
+
+## Section 3111.4: Obstructions Prohibited
+
+3111.4 Obstructions Prohibited
+No part of any
+awning
+, enclosure, fixture,
+equipment
+or removable
+platform
+of a sidewalk café shall be located:
+Beneath a fire escape so as to obstruct
+operation
+of fire escape drop ladders or counter-balanced
+stairs
+;
+So as to obstruct any
+exit
+from a
+building
+;
+So as to obstruct any
+cellar
+access hatch or
+areaway
+;
+So as to interfere with any vent or other mechanical
+ventilation
+outlet or inlet; or
+So as to interfere with or obscure any standpipe connections, hydrant or associated signage in any way that would hinder its use by the Fire Department.
+Exception:
+Upon special
+application
+, the commissioner may permit an easily removable, prominently designated
+platform
+, designed in accordance with
+Section 3111.5
+, to cover a
+cellar
+entrance or
+areaway
+that is not used as a required
+means of egress
+.
+
+---
+
+No part of any
+awning
+, enclosure, fixture,
+equipment
+or removable
+platform
+of a sidewalk café shall be located:
+Beneath a fire escape so as to obstruct
+operation
+of fire escape drop ladders or counter-balanced
+stairs
+;
+So as to obstruct any
+exit
+from a
+building
+;
+So as to obstruct any
+cellar
+access hatch or
+areaway
+;
+So as to interfere with any vent or other mechanical
+ventilation
+outlet or inlet; or
+So as to interfere with or obscure any standpipe connections, hydrant or associated signage in any way that would hinder its use by the Fire Department.
+Exception:
+Upon special
+application
+, the commissioner may permit an easily removable, prominently designated
+platform
+, designed in accordance with
+Section 3111.5
+, to cover a
+cellar
+entrance or
+areaway
+that is not used as a required
+means of egress
+.
+
+---
+
+## Section 3111.5: Removable Platforms
+
+3111.5 Removable Platforms
+Removable
+platforms
+of sidewalk cafés shall be constructed in accordance with the requirements of this section.
+
+---
+
+Removable
+platforms
+of sidewalk cafés shall be constructed in accordance with the requirements of this section.
+
+---
+
+## Section 3111.5.1: Continuity
+
+3111.5.1 Continuity
+Removable
+platforms
+shall be constructed to provide for a continuous unbroken and level floor without
+openings
+or cracks so as to prevent any material or
+liquid
+from falling through to the area beneath
+.
+
+---
+
+Removable
+platforms
+shall be constructed to provide for a continuous unbroken and level floor without
+openings
+or cracks so as to prevent any material or
+liquid
+from falling through to the area beneath
+.
+
+---
+
+## Section 3111.5.2: Maintenance
+
+3111.5.2 Maintenance
+No papers, trash or
+other materials
+may be permitted to accumulate in the
+area
+beneath the floor of any removable
+platform
+.
+
+---
+
+No papers, trash or
+other materials
+may be permitted to accumulate in the
+area
+beneath the floor of any removable
+platform
+.
+
+---
+
+## Section 3111.6: Accessibility
+
+3111.6 Accessibility
+Sidewalk cafés and access thereto shall comply with
+Chapter 11
+.
+
+---
+
+Sidewalk cafés and access thereto shall comply with
+Chapter 11
+.
+
+---
+
+## Section 3111.7: Assembly Seating
+
+3111.7 Assembly Seating
+Unless separated from seating inside the
+building
+by
+fire partitions
+complying with Section 713, the seating for enclosed sidewalk cafés shall be added to that inside the
+building
+in order to determine whether a
+place of assembly certificate of operation
+is required.
+
+---
+
+Unless separated from seating inside the
+building
+by
+fire partitions
+complying with Section 713, the seating for enclosed sidewalk cafés shall be added to that inside the
+building
+in order to determine whether a
+place of assembly certificate of operation
+is required.
+
+---
+
+## Section 3111.8: Rules
+
+3111.8 Rules
+In addition to the requirements specified herein, the commissioner may promulgate such additional rules necessary to secure safety.
+
+---
+
+In addition to the requirements specified herein, the commissioner may promulgate such additional rules necessary to secure safety.
+
+---
+
+Section BC 3112 Fences
+
+---
+
+## Section 3112.1: Permitted Heights
+
+3112.1 Permitted Heights
+Fences are permitted to be erected to a maximum
+height
+of 10 feet (3048 mm) above the ground.
+Exceptions:
+In residence districts, as established by the
+New York City
+Zoning Resolution
+, fences are permitted to be erected to a maximum
+height
+of 4 or 6 feet (1829 mm) above the ground, depending upon its location on the zoning lot.
+Fences in residence districts used in conjunction with nonresidential buildings and public playgrounds, excluding buildings accessory to
+dwellings
+, are permitted to be erected to a maximum
+height
+of 15 feet (4572 mm) above the ground.
+Higher fences may be permitted by the commissioner where required for the enclosure of public playgrounds, school
+yards
+, parks, and similar public
+facilities
+.
+
+---
+
+Fences are permitted to be erected to a maximum
+height
+of 10 feet (3048 mm) above the ground.
+Exceptions:
+In residence districts, as established by the
+New York City
+Zoning Resolution
+, fences are permitted to be erected to a maximum
+height
+of 4 or 6 feet (1829 mm) above the ground, depending upon its location on the zoning lot.
+Fences in residence districts used in conjunction with nonresidential buildings and public playgrounds, excluding buildings accessory to
+dwellings
+, are permitted to be erected to a maximum
+height
+of 15 feet (4572 mm) above the ground.
+Higher fences may be permitted by the commissioner where required for the enclosure of public playgrounds, school
+yards
+, parks, and similar public
+facilities
+.
+
+---
+
+Section BC 3113 Photovoltaic Panels and Modules
+
+---
+
+## Section 3113.1: General
+
+3113.1 General
+Photovoltaic panels
+and modules shall comply with the requirements of this code, the
+New York City Electrical Code
+, the
+Zoning Resolution
+and the
+New York City Fire Code
+.
+
+---
+
+Photovoltaic panels
+and modules shall comply with the requirements of this code, the
+New York City Electrical Code
+, the
+Zoning Resolution
+and the
+New York City Fire Code
+.
+
+---
+
+## Section 3113.1.1: Rooftop-Mounted Photovoltaic Panels and Modules
+
+3113.1.1 Rooftop-Mounted Photovoltaic Panels and Modules
+Photovoltaic panels
+and modules installed on a roof or as an integral part of a
+roof assembly
+shall comply with the requirements of the
+New York City Fire Code
+and
+Chapter 15
+of this code.
+
+---
+
+Photovoltaic panels
+and modules installed on a roof or as an integral part of a
+roof assembly
+shall comply with the requirements of the
+New York City Fire Code
+and
+Chapter 15
+of this code.
+
+---
+
+Section BC *3114 Large Wind Turbines
+*Section 3114 was added by
+Local Law 98 of 2019
+. This law has an effective date of November 15, 2019.
+
+---
+
+*Section 3114 was added by
+Local Law 98 of 2019
+. This law has an effective date of November 15, 2019.
+
+---
+
+*3114.1 General
+Large wind turbines
+shall be designed and constructed in accordance with this section.
+*Section 3114.1 was added by
+Local Law 98 of 2019
+. This law has an effective date of November 15, 2019.
+
+---
+
+Large wind turbines
+shall be designed and constructed in accordance with this section.
+*Section 3114.1 was added by
+Local Law 98 of 2019
+. This law has an effective date of November 15, 2019.
+
+---
+
+*3114.2 Definitions
+The following terms are defined in
+Chapter 2
+:
+LARGE WIND TURBINE
+.
+LARGE WIND TURBINE TOWER
+.
+*Section 3114.2 was added by
+Local Law 98 of 2019
+. This law has an effective date of November 15, 2019.
+
+---
+
+The following terms are defined in
+Chapter 2
+:
+LARGE WIND TURBINE
+.
+LARGE WIND TURBINE TOWER
+.
+*Section 3114.2 was added by
+Local Law 98 of 2019
+. This law has an effective date of November 15, 2019.
+
+---
+
+*3114.3 Design Standards
+A
+large wind turbine
+shall be designed in accordance with standards adopted by rules of the commissioner. Such standards shall include but need not be limited to standards relating to the
+design
+of
+large wind turbines
+that are developed by the American Wind Energy Association, the New York State Energy Research and
+Development
+Authority, the California Energy Commission, the European Wind Turbine Certification, the British Wind Energy Association, the International Electrotechnical Commission, the National Renewable Energy Laboratory, or the Underwriters Laboratory.
+*Section 3114.3 was added by
+Local Law 98 of 2019
+. This law has an effective date of November 15, 2019.
+
+---
+
+A
+large wind turbine
+shall be designed in accordance with standards adopted by rules of the commissioner. Such standards shall include but need not be limited to standards relating to the
+design
+of
+large wind turbines
+that are developed by the American Wind Energy Association, the New York State Energy Research and
+Development
+Authority, the California Energy Commission, the European Wind Turbine Certification, the British Wind Energy Association, the International Electrotechnical Commission, the National Renewable Energy Laboratory, or the Underwriters Laboratory.
+*Section 3114.3 was added by
+Local Law 98 of 2019
+. This law has an effective date of November 15, 2019.
+
+---
+
+*3114.4 Wind Speed
+A
+large wind turbine
+shall be designed to withstand winds of up to and including 130 mph (58.1 m/s) or such higher wind
+load
+as may be specified in this code or the
+design
+standard for such turbine pursuant to
+Section 3114.3
+.
+*Section 3114.4 was added by
+Local Law 98 of 2019
+. This law has an effective date of November 15, 2019.
+
+---
+
+A
+large wind turbine
+shall be designed to withstand winds of up to and including 130 mph (58.1 m/s) or such higher wind
+load
+as may be specified in this code or the
+design
+standard for such turbine pursuant to
+Section 3114.3
+.
+*Section 3114.4 was added by
+Local Law 98 of 2019
+. This law has an effective date of November 15, 2019.
+
+---
+
+*3114.5 Brakes and Locks
+Where necessary for public safety, the commissioner may require that a
+large wind turbine
+shall be equipped with a redundant braking system and a passive lock, including aerodynamic overspeed controls and mechanical
+brakes
+.
+*Section 3114.5 was added by
+Local Law 98 of 2019
+. This law has an effective date of November 15, 2019.
+
+---
+
+Where necessary for public safety, the commissioner may require that a
+large wind turbine
+shall be equipped with a redundant braking system and a passive lock, including aerodynamic overspeed controls and mechanical
+brakes
+.
+*Section 3114.5 was added by
+Local Law 98 of 2019
+. This law has an effective date of November 15, 2019.
+
+---
+
+*3114.6 Visual Appearance
+A
+large wind turbine
+shall be white, off-white, grey, or another non-obtrusive color specified by the commissioner.
+*Section 3114.6 was added by
+Local Law 98 of 2019
+. This law has an effective date of November 15, 2019.
+
+---
+
+A
+large wind turbine
+shall be white, off-white, grey, or another non-obtrusive color specified by the commissioner.
+*Section 3114.6 was added by
+Local Law 98 of 2019
+. This law has an effective date of November 15, 2019.
+
+---
+
+‡‡‡ 3114.7 Access
+Access to a
+large wind turbine
+shall be limited
+as follows
+:
+Access to electrical components of a
+large wind turbine
+shall be prevented by a lock.
+A
+large wind turbine tower
+shall not be climbable, except by authorized personnel, up to a
+height
+of 10 feet (3048 mm) measured from the
+base
+of such tower.
+‡‡‡
+Chapter 31
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Access to a
+large wind turbine
+shall be limited
+as follows
+:
+Access to electrical components of a
+large wind turbine
+shall be prevented by a lock.
+A
+large wind turbine tower
+shall not be climbable, except by authorized personnel, up to a
+height
+of 10 feet (3048 mm) measured from the
+base
+of such tower.
+‡‡‡
+Chapter 31
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+‡‡‡ 3114.8 Noise
+A
+large wind turbine
+shall be designed to comply with the sound level limit of Section 24-232.1 of the
+Administrative Code
+.
+‡‡‡
+Chapter 31
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+A
+large wind turbine
+shall be designed to comply with the sound level limit of Section 24-232.1 of the
+Administrative Code
+.
+‡‡‡
+Chapter 31
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+‡‡‡ 3114.9 Shadow Flicker
+The commissioner shall by rule establish shadow flicker
+limitations
+for
+large wind turbines
+for the purpose of limiting, to the extent practicable, such flicker on buildings adjacent to such turbines.
+‡‡‡
+Chapter 31
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+The commissioner shall by rule establish shadow flicker
+limitations
+for
+large wind turbines
+for the purpose of limiting, to the extent practicable, such flicker on buildings adjacent to such turbines.
+‡‡‡
+Chapter 31
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+‡‡‡ 3114.10 Signal Interference
+The commissioner shall establish rules governing
+large wind turbines
+for purpose of minimizing, to the extent practicable, interference by such turbines with radio, telephone, television,
+cellular
+or other similar signals.
+‡‡‡
+Chapter 31
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+The commissioner shall establish rules governing
+large wind turbines
+for purpose of minimizing, to the extent practicable, interference by such turbines with radio, telephone, television,
+cellular
+or other similar signals.
+‡‡‡
+Chapter 31
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+‡‡‡ 3114.11 Setback
+No part of a
+large wind turbine
+or
+large wind turbine tower
+shall be located within a horizontal distance of a property line that is equal or less than one-half the
+height
+of such turbine, including such tower, measured from the base of such tower or, if there is no such tower, the base of such turbine.
+Exception:
+A turbine or tower for which each owner of property adjacent to such property line has entered into a written agreement providing that such turbine or tower or a part thereof may be located closer to such property line than this section allows.
+‡‡‡
+Chapter 31
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+No part of a
+large wind turbine
+or
+large wind turbine tower
+shall be located within a horizontal distance of a property line that is equal or less than one-half the
+height
+of such turbine, including such tower, measured from the base of such tower or, if there is no such tower, the base of such turbine.
+Exception:
+A turbine or tower for which each owner of property adjacent to such property line has entered into a written agreement providing that such turbine or tower or a part thereof may be located closer to such property line than this section allows.
+‡‡‡
+Chapter 31
+was amended by Local Law 77 of 2023. This law has an effective date of June 10, 2023.
+
+---
+
+Section BC 3115 Small Wind Turbines
+*Section 3115 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+*Section 3115 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+## Section 3115.1: General
+
+3115.1 General
+In addition to other applicable requirements in this code, other law or rule, and established by the commissioner,
+small wind turbines
+shall be designed and constructed in accordance with this section.
+*Section 3115.1 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+In addition to other applicable requirements in this code, other law or rule, and established by the commissioner,
+small wind turbines
+shall be designed and constructed in accordance with this section.
+*Section 3115.1 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+## Section 3115.2: Definitions
+
+3115.2 Definitions
+The following terms are defined in
+Chapter 2
+:
+SMALL WIND TURBINE
+.
+SMALL WIND TURBINE TOWER
+.
+*Section 3115.2 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+The following terms are defined in
+Chapter 2
+:
+SMALL WIND TURBINE
+.
+SMALL WIND TURBINE TOWER
+.
+*Section 3115.2 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+*3115.3 Design Standards
+A
+small wind turbine
+shall be designed in accordance with standards adopted by rules of the commissioner. Such standards shall include but need not be limited to standards relating to the
+design
+of
+small wind turbines
+that are developed by the American Wind Energy Association, the New York State Energy Research and
+Development
+Authority, the California Energy Commission, the Small Wind Certification Council, the British Wind Energy Association, the International Electrotechnical Commission, the National Renewable Energy Laboratory, or the Underwriters Laboratory.
+*Section 3115.3 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+A
+small wind turbine
+shall be designed in accordance with standards adopted by rules of the commissioner. Such standards shall include but need not be limited to standards relating to the
+design
+of
+small wind turbines
+that are developed by the American Wind Energy Association, the New York State Energy Research and
+Development
+Authority, the California Energy Commission, the Small Wind Certification Council, the British Wind Energy Association, the International Electrotechnical Commission, the National Renewable Energy Laboratory, or the Underwriters Laboratory.
+*Section 3115.3 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+*3115.4 Wind Speed
+A
+small wind turbine
+shall be designed to withstand winds of up to and including 130 mph (58.1 m/s) or such higher wind
+load
+as may be specified in this code or the
+design
+standard for such turbine pursuant to Section 3113.3.
+*Section 3115.4 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+A
+small wind turbine
+shall be designed to withstand winds of up to and including 130 mph (58.1 m/s) or such higher wind
+load
+as may be specified in this code or the
+design
+standard for such turbine pursuant to Section 3113.3.
+*Section 3115.4 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+*3115.5 Brakes and Locks
+Where deemed necessary by the commissioner, a
+small wind turbine
+shall be equipped with a redundant braking system and a passive lock, including aerodynamic overspeed controls and mechanical
+brakes
+.
+*Section 3115.5 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+Where deemed necessary by the commissioner, a
+small wind turbine
+shall be equipped with a redundant braking system and a passive lock, including aerodynamic overspeed controls and mechanical
+brakes
+.
+*Section 3115.5 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+## Section 3115.5.1: Locking Before Hurricane or Strong Wind Conditions
+
+3115.5.1 Locking Before Hurricane or Strong Wind Conditions
+If a hurricane or strong wind conditions are expected, the commissioner may order that small turbines equipped with passive locks be stopped and locked.
+*Section 3115.5.1 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+If a hurricane or strong wind conditions are expected, the commissioner may order that small turbines equipped with passive locks be stopped and locked.
+*Section 3115.5.1 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+*3115.6 Visual Appearance
+A
+small wind turbine
+shall be white, off-white, grey, or another non-obtrusive color specified by the commissioner.
+*Section 3115.6 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+A
+small wind turbine
+shall be white, off-white, grey, or another non-obtrusive color specified by the commissioner.
+*Section 3115.6 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+*3115.7 Lighting
+A
+small wind turbine
+shall not be artificially lighted.
+Exception:
+Lighting that is required by this code or other applicable laws or rules, provided that such lighting is shielded in accordance with rules promulgated by the commissioner.
+*Section 3115.7 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+A
+small wind turbine
+shall not be artificially lighted.
+Exception:
+Lighting that is required by this code or other applicable laws or rules, provided that such lighting is shielded in accordance with rules promulgated by the commissioner.
+*Section 3115.7 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+*3115.8 Access
+Access to a
+small wind turbine
+shall be limited
+as follows
+:
+Access to electrical components of a
+small wind turbine
+shall be prevented by a lock.
+A
+small wind turbine tower
+shall not be climbable, except by authorized personnel, up to a
+height
+of 10 feet (3048 mm) measured from the
+base
+of such tower.
+*Section 3115.8 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+Access to a
+small wind turbine
+shall be limited
+as follows
+:
+Access to electrical components of a
+small wind turbine
+shall be prevented by a lock.
+A
+small wind turbine tower
+shall not be climbable, except by authorized personnel, up to a
+height
+of 10 feet (3048 mm) measured from the
+base
+of such tower.
+*Section 3115.8 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+*3115.9 Noise
+A
+small wind turbine
+shall be designed in accordance with applicable sections of the
+New York City Noise Control Code
+.
+*Section 3115.9 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+A
+small wind turbine
+shall be designed in accordance with applicable sections of the
+New York City Noise Control Code
+.
+*Section 3115.9 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+*3115.10 Shadow Flicker
+The commissioner shall by rule establish shadow flicker
+limitations
+for
+small wind turbines
+for the purpose of limiting, to the extent practicable, such flicker on buildings adjacent to such turbines.
+*Section 3115.10 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+The commissioner shall by rule establish shadow flicker
+limitations
+for
+small wind turbines
+for the purpose of limiting, to the extent practicable, such flicker on buildings adjacent to such turbines.
+*Section 3115.10 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+*3115.11 Signal Interference
+The commissioner shall establish rules governing
+small wind turbines
+for purpose of minimizing, to the extent practicable, interference by such turbines with radio, telephone, television,
+cellular
+or other similar signals.
+*Section 3115.11 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+The commissioner shall establish rules governing
+small wind turbines
+for purpose of minimizing, to the extent practicable, interference by such turbines with radio, telephone, television,
+cellular
+or other similar signals.
+*Section 3115.11 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+*3115.12 Setback
+No part of a
+small wind turbine
+or
+small wind turbine tower
+shall be located within a horizontal distance of a property line that is equal or less than one-half the
+height
+of such turbine, including such tower, measured from the base of such tower or, if there is no such tower, the base of such turbine.
+Exception:
+Turbines or towers for which each owner of property adjacent to such property line has entered into a written agreement providing that such turbine or tower or a part thereof may be located closer to such property line than this section allows.
+*Section 3115.12 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+
+No part of a
+small wind turbine
+or
+small wind turbine tower
+shall be located within a horizontal distance of a property line that is equal or less than one-half the
+height
+of such turbine, including such tower, measured from the base of such tower or, if there is no such tower, the base of such turbine.
+Exception:
+Turbines or towers for which each owner of property adjacent to such property line has entered into a written agreement providing that such turbine or tower or a part thereof may be located closer to such property line than this section allows.
+*Section 3115.12 was added by
+Local Law 105 of 2018
+. This law has an effective date of November 25, 2018.
+
+---
+

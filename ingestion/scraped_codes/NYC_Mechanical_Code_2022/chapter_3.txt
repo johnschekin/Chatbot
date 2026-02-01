@@ -1,0 +1,4808 @@
+# NYC Mechanical Code 2022 - Chapter 3
+
+New York City Mechanical Code 2022
+
+---
+
+Dedication
+
+---
+
+Chapter 1 Administration
+
+---
+
+Chapter 2 Definitions
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+301 General
+
+---
+
+302 Structural Safety
+
+---
+
+303 Equipment and Appliance Location
+
+---
+
+304 Installation
+
+---
+
+305 Piping Support
+
+---
+
+306 Access and Service Space
+
+---
+
+307 Condensate Disposal
+
+---
+
+308 Clearance Reduction
+
+---
+
+309 Temperature Control
+
+---
+
+310 Explosion Control
+
+---
+
+311 Smoke and Heat Vents
+
+---
+
+312 Heating and Cooling Load Calculations
+
+---
+
+313 Noise Control and Vibration Isolation Requirements
+
+---
+
+Chapter 4 Ventilation
+
+---
+
+Chapter 5 Exhaust Systems
+
+---
+
+Chapter 6 Duct Systems
+
+---
+
+Chapter 7 Combustion, Ventilation, and Dilution Air
+
+---
+
+Chapter 8 Chimneys and Vents
+
+---
+
+Chapter 9 Specific Appliances and Equipment
+
+---
+
+Chapter 10 Boilers, Water Heaters and Pressure Vessels
+
+---
+
+Chapter 11 Refrigeration
+
+---
+
+Chapter 12 Hydronic Piping
+
+---
+
+Chapter 13 Fuel-Oil Piping and Storage
+
+---
+
+Chapter 14 Solar Systems
+
+---
+
+Chapter 15 Referenced Standards
+
+---
+
+Appendix A Chimney Connector Pass-Throughs
+
+---
+
+Appendix B Reserved
+
+---
+
+Appendix C Fuel Oil Storage Tank Venting Options
+
+---
+
+Chapter 3 General Regulations
+
+---
+
+Section 301 General
+
+---
+
+## Section 301.1: Scope
+
+301.1 Scope
+This chapter shall govern the approval and
+installation
+of all
+equipment
+and
+appliances
+that comprise parts of the building
+mechanical systems
+regulated by this code in accordance with
+Section 101.2
+.
+
+---
+
+This chapter shall govern the approval and
+installation
+of all
+equipment
+and
+appliances
+that comprise parts of the building
+mechanical systems
+regulated by this code in accordance with
+Section 101.2
+.
+
+---
+
+## Section 301.2: Energy Utilization
+
+301.2 Energy Utilization
+Heating, ventilating,
+air-conditioning
+, and refrigeration systems of all structures shall be designed and installed for efficient utilization of energy in accordance with the
+New York City Energy Conservation Code
+.
+
+---
+
+Heating, ventilating,
+air-conditioning
+, and refrigeration systems of all structures shall be designed and installed for efficient utilization of energy in accordance with the
+New York City Energy Conservation Code
+.
+
+---
+
+## Section 301.3: Identification
+
+301.3 Identification
+All
+pipe
+and
+tubing
+and each
+pipe
+fitting utilized in a
+mechanical system
+shall
+bear the identification of the manufacturer.
+
+---
+
+All
+pipe
+and
+tubing
+and each
+pipe
+fitting utilized in a
+mechanical system
+shall
+bear the identification of the manufacturer.
+
+---
+
+## Section 301.4: Plastic Pipe, Fittings and Components
+
+301.4 Plastic Pipe, Fittings and Components
+Plastic
+pipe
+, fittings and components shall be
+third-party certified
+.
+
+---
+
+Plastic
+pipe
+, fittings and components shall be
+third-party certified
+.
+
+---
+
+## Section 301.5: Third-Party Testing and Certification
+
+301.5 Third-Party Testing and Certification
+Piping
+,
+tubing
+and fittings shall comply with the
+applicable referenced
+standards
+, specifications and performance criteria of this code and shall be
+identified in accordance with
+Section 301.3
+.
+Piping
+,
+tubing
+and fittings shall either be tested by an
+approved third-party testing agency or certified by an approved
+third-party certification agency
+.
+
+---
+
+Piping
+,
+tubing
+and fittings shall comply with the
+applicable referenced
+standards
+, specifications and performance criteria of this code and shall be
+identified in accordance with
+Section 301.3
+.
+Piping
+,
+tubing
+and fittings shall either be tested by an
+approved third-party testing agency or certified by an approved
+third-party certification agency
+.
+
+---
+
+## Section 301.6: Fuel Gas Appliances and Equipment
+
+301.6 Fuel Gas Appliances and Equipment
+The approval and
+installation
+of
+fuel gas
+distribution
+piping
+and
+equipment
+, fuel
+gas-fired appliances
+and
+fuel gas
+-fired
+appliance
+venting systems
+shall be in accordance with the
+New York City Fuel Gas Code
+.
+
+---
+
+The approval and
+installation
+of
+fuel gas
+distribution
+piping
+and
+equipment
+, fuel
+gas-fired appliances
+and
+fuel gas
+-fired
+appliance
+venting systems
+shall be in accordance with the
+New York City Fuel Gas Code
+.
+
+---
+
+## Section 301.7: Listed and Labeled
+
+301.7 Listed and Labeled
+Appliances
+regulated by this code shall be listed and labeled for the application in which they are installed.
+Exception:
+Listing and labeling of
+equipment
+and
+appliances
+used for refrigeration shall be in accordance with
+Section 1101.2
+.
+
+---
+
+Appliances
+regulated by this code shall be listed and labeled for the application in which they are installed.
+Exception:
+Listing and labeling of
+equipment
+and
+appliances
+used for refrigeration shall be in accordance with
+Section 1101.2
+.
+
+---
+
+## Section 301.8: Testing of Materials
+
+301.8 Testing of Materials
+Refer to Section 28-113 of the
+Administrative Code
+.
+
+---
+
+Refer to Section 28-113 of the
+Administrative Code
+.
+
+---
+
+## Section 301.9: Label Information
+
+301.9 Label Information
+A permanent factory-applied name-plate(s) shall be affixed to
+appliances
+on which shall appear in legible lettering, the manufacturer's name or trademark, the model number, serial number and the seal or mark of the approved agency. A label shall also include the following:
+Electrical
+equipment
+and
+appliances
+:
+Electrical
+rating in volts, amperes and motor phase;
+identification
+of individual
+electrical
+components in volts, amperes or watts, motor phase; Btu/h (W) output; and required
+clearances
+.
+Absorption units: Hourly rating in Btu/h (W); minimum hourly rating for units having step or automatic modulating
+controls
+; type of fuel; type of
+refrigerant
+; cooling capacity in Btu/h (W); and required
+clearances
+.
+Fuel-burning units: Hourly rating in Btu/h (W); type of fuel approved for use with the
+appliance
+; and required
+clearances
+.
+Electric comfort heating
+appliances
+: Electric rating in volts, amperes and phase; Btu/h (W) output rating; individual marking for each
+electrical
+component in amperes or watts, volts and phase; and required
+clearances
+from combustibles.
+
+---
+
+A permanent factory-applied name-plate(s) shall be affixed to
+appliances
+on which shall appear in legible lettering, the manufacturer's name or trademark, the model number, serial number and the seal or mark of the approved agency. A label shall also include the following:
+Electrical
+equipment
+and
+appliances
+:
+Electrical
+rating in volts, amperes and motor phase;
+identification
+of individual
+electrical
+components in volts, amperes or watts, motor phase; Btu/h (W) output; and required
+clearances
+.
+Absorption units: Hourly rating in Btu/h (W); minimum hourly rating for units having step or automatic modulating
+controls
+; type of fuel; type of
+refrigerant
+; cooling capacity in Btu/h (W); and required
+clearances
+.
+Fuel-burning units: Hourly rating in Btu/h (W); type of fuel approved for use with the
+appliance
+; and required
+clearances
+.
+Electric comfort heating
+appliances
+: Electric rating in volts, amperes and phase; Btu/h (W) output rating; individual marking for each
+electrical
+component in amperes or watts, volts and phase; and required
+clearances
+from combustibles.
+
+---
+
+## Section 301.10: Electrical
+
+301.10 Electrical
+Electrical wiring,
+controls
+and connections to
+equipment
+and
+appliances
+regulated by this code shall be in accordance with the
+New York City Electrical Code
+.
+UpCodes Diagram (1)
+
+---
+
+Electrical wiring,
+controls
+and connections to
+equipment
+and
+appliances
+regulated by this code shall be in accordance with the
+New York City Electrical Code
+.
+
+---
+
+## Section 301.11: Plumbing Connections
+
+301.11 Plumbing Connections
+Potable water supply
+and building drainage system connections to
+equipment
+and
+appliances
+regulated by this code shall be in accordance with the
+New York City Plumbing Code
+.
+
+---
+
+Potable water supply
+and building drainage system connections to
+equipment
+and
+appliances
+regulated by this code shall be in accordance with the
+New York City Plumbing Code
+.
+
+---
+
+## Section 301.12: Fuel Types
+
+301.12 Fuel Types
+Fuel-fired appliances
+shall be designed for use with the type of fuel to which they will be connected and the altitude at which they are installed.
+Appliances
+that comprise parts of the building
+mechanical system
+shall not be converted for the usage of a different fuel, except where approved and converted in accordance with the manufacturer's instructions. The fuel input rate shall not be increased or decreased beyond the limit rating for the altitude at which the
+appliance
+is installed.
+
+---
+
+Fuel-fired appliances
+shall be designed for use with the type of fuel to which they will be connected and the altitude at which they are installed.
+Appliances
+that comprise parts of the building
+mechanical system
+shall not be converted for the usage of a different fuel, except where approved and converted in accordance with the manufacturer's instructions. The fuel input rate shall not be increased or decreased beyond the limit rating for the altitude at which the
+appliance
+is installed.
+
+---
+
+## Section 301.13: Reserved
+
+301.13 Reserved
+
+---
+
+## Section 301.14: Repair
+
+301.14 Repair
+Defective material or parts shall be replaced or repaired in such a manner so as to preserve the original approval or listing.
+
+---
+
+Defective material or parts shall be replaced or repaired in such a manner so as to preserve the original approval or listing.
+
+---
+
+## Section 301.15: Wind Resistance
+
+301.15 Wind Resistance
+Mechanical
+equipment
+,
+appliances
+and
+supports
+that are exposed to wind shall be designed and installed to resist the wind pressures determined in accordance with the
+New York City Building Code
+.
+
+---
+
+Mechanical
+equipment
+,
+appliances
+and
+supports
+that are exposed to wind shall be designed and installed to resist the wind pressures determined in accordance with the
+New York City Building Code
+.
+
+---
+
+## Section 301.16: Flood Hazard
+
+301.16 Flood Hazard
+For structures located in flood hazard areas,
+mechanical systems
+,
+equipment
+and
+appliances
+shall comply with the additional requirements of
+Appendix G
+of the
+New York City Building Code
+.
+
+---
+
+For structures located in flood hazard areas,
+mechanical systems
+,
+equipment
+and
+appliances
+shall comply with the additional requirements of
+Appendix G
+of the
+New York City Building Code
+.
+
+---
+
+## Section 301.16.1: High-Velocity Wave Action
+
+301.16.1 High-Velocity Wave Action
+For buildings in coastal high-hazard areas and coastal A-
+zones
+as established in Section G102 of the
+New York City Building Code
+,
+mechanical systems
+and
+equipment
+shall not be mounted on or penetrate through breakaway walls.
+
+---
+
+For buildings in coastal high-hazard areas and coastal A-
+zones
+as established in Section G102 of the
+New York City Building Code
+,
+mechanical systems
+and
+equipment
+shall not be mounted on or penetrate through breakaway walls.
+
+---
+
+## Section 301.17: Rodentproofing
+
+301.17 Rodentproofing
+Buildings or structures and the walls enclosing habitable or occupiable rooms and spaces in which persons live, sleep or work, or in which feed, food or foodstuffs are stored, prepared, processed, served or sold, shall be constructed to protect against the entrance of rodents in accordance with
+Appendix F
+of the
+New York City Building Code
+.
+
+---
+
+Buildings or structures and the walls enclosing habitable or occupiable rooms and spaces in which persons live, sleep or work, or in which feed, food or foodstuffs are stored, prepared, processed, served or sold, shall be constructed to protect against the entrance of rodents in accordance with
+Appendix F
+of the
+New York City Building Code
+.
+
+---
+
+## Section 301.18: Seismic Resistance
+
+301.18 Seismic Resistance
+Where earthquake loads are applicable in accordance with the
+New York City Building Code
+,
+mechanical system
+supports
+shall be designed and installed for the seismic forces in accordance with the
+New York City Building Code
+.
+UpCodes Diagram (1)
+
+---
+
+Where earthquake loads are applicable in accordance with the
+New York City Building Code
+,
+mechanical system
+supports
+shall be designed and installed for the seismic forces in accordance with the
+New York City Building Code
+.
+
+---
+
+Section 302 Structural Safety
+
+---
+
+## Section 302.1: Structural Safety
+
+302.1 Structural Safety
+The building or structure shall not be weakened by the
+installation
+of
+mechanical systems
+. Where floors, walls, ceilings or any other portion of the building or structure are required to be altered or replaced in the process of installing or repairing any system, the building or structure shall be left in a safe structural condition in accordance with the
+New York City Building Code
+.
+UpCodes Diagram (1)
+
+---
+
+The building or structure shall not be weakened by the
+installation
+of
+mechanical systems
+. Where floors, walls, ceilings or any other portion of the building or structure are required to be altered or replaced in the process of installing or repairing any system, the building or structure shall be left in a safe structural condition in accordance with the
+New York City Building Code
+.
+
+---
+
+## Section 302.1.1: Loading
+
+302.1.1 Loading
+Alterations resulting in the addition of loads to any member, such as HVAC
+equipment
+and
+water heaters
+, shall not be permitted without verification that the members are
+capable of supporting such additional loading.
+
+---
+
+Alterations resulting in the addition of loads to any member, such as HVAC
+equipment
+and
+water heaters
+, shall not be permitted without verification that the members are
+capable of supporting such additional loading.
+
+---
+
+## Section 302.2: Penetrations of Floor/Ceiling Assemblies and Fire-Resistance-Rated Assemblies
+
+302.2 Penetrations of Floor/Ceiling Assemblies and Fire-Resistance-Rated Assemblies
+Penetrations of floor/ceiling assemblies and assemblies required to have a fire-resistance rating shall be protected in accordance with
+Chapter 7
+of the
+New York City Building Code
+and
+Chapter 6
+of this code.
+UpCodes Diagram (1)
+
+---
+
+Penetrations of floor/ceiling assemblies and assemblies required to have a fire-resistance rating shall be protected in accordance with
+Chapter 7
+of the
+New York City Building Code
+and
+Chapter 6
+of this code.
+
+---
+
+## Section 302.3: Cutting, Notching and Boring in Wood Framing
+
+302.3 Cutting, Notching and Boring in Wood Framing
+The cutting, notching and boring of wood framing members shall comply with Sections
+302.3.1
+through
+302.3.5
+.
+
+---
+
+The cutting, notching and boring of wood framing members shall comply with Sections
+302.3.1
+through
+302.3.5
+.
+
+---
+
+## Section 302.3.1: Solid Non-Engineered Joist Notches and Holes
+
+302.3.1 Solid Non-Engineered Joist Notches and Holes
+Notches on the ends of the solid, non-engineered joists shall not exceed one-fourth the joist depth. Notches in the top or bottom of joists shall not exceed one-sixth the depth, shall not be longer than one-third the depth and shall not be located in the middle third of the span. Holes bored in joists shall not be within 2 inches (50.8 mm) of the top or bottom of the joist, and the diameter of any such hole shall not exceed one-third the depth of the joist. Holes bored in the middle third of the span shall be located at the center of the joist depth. Clear distance between holes and notches shall be a minimum of 2 inches (50.8 mm). See Figure 2308.5.8 of the
+New York City Building Code
+.
+
+---
+
+Notches on the ends of the solid, non-engineered joists shall not exceed one-fourth the joist depth. Notches in the top or bottom of joists shall not exceed one-sixth the depth, shall not be longer than one-third the depth and shall not be located in the middle third of the span. Holes bored in joists shall not be within 2 inches (50.8 mm) of the top or bottom of the joist, and the diameter of any such hole shall not exceed one-third the depth of the joist. Holes bored in the middle third of the span shall be located at the center of the joist depth. Clear distance between holes and notches shall be a minimum of 2 inches (50.8 mm). See Figure 2308.5.8 of the
+New York City Building Code
+.
+
+---
+
+## Section 302.3.2: Stud Cutting and Notching
+
+302.3.2 Stud Cutting and Notching
+In exterior walls and bearing partitions, wood studs are permitted to be cut or notched to a depth not exceeding 25 percent of the width of the stud. Cutting or notching of studs to a depth not greater than 40 percent of the width of the stud is permitted in nonbearing partitions supporting no loads other than the weight of the partition. See Figure 2308.5.8 of the
+New York City Building Code
+.
+
+---
+
+In exterior walls and bearing partitions, wood studs are permitted to be cut or notched to a depth not exceeding 25 percent of the width of the stud. Cutting or notching of studs to a depth not greater than 40 percent of the width of the stud is permitted in nonbearing partitions supporting no loads other than the weight of the partition. See Figure 2308.5.8 of the
+New York City Building Code
+.
+
+---
+
+## Section 302.3.3: Bored Holes in Studs
+
+302.3.3 Bored Holes in Studs
+Bored holes not greater than 40 percent of the stud width are permitted to be bored in any wood stud. Bored holes not greater than 60 percent of the stud width are permitted in nonbearing partitions or in any wall where each bored stud is doubled, provided not more than two such successive doubled studs are so bored. In no case shall the edge of the bored hole be nearer than
+5
+/
+8
+inch (15.9 mm) to the edge of the stud. Bored holes shall not be located at the same section of stud as a cut or notch. See Figure 2308.5.8 of the
+New York City Building Code
+.
+
+---
+
+Bored holes not greater than 40 percent of the stud width are permitted to be bored in any wood stud. Bored holes not greater than 60 percent of the stud width are permitted in nonbearing partitions or in any wall where each bored stud is doubled, provided not more than two such successive doubled studs are so bored. In no case shall the edge of the bored hole be nearer than
+5
+/
+8
+inch (15.9 mm) to the edge of the stud. Bored holes shall not be located at the same section of stud as a cut or notch. See Figure 2308.5.8 of the
+New York City Building Code
+.
+
+---
+
+## Section 302.3.4: Engineered Wood Products
+
+302.3.4 Engineered Wood Products
+Cuts, notches and holes bored in trusses, structural composite lumber, structural glue-laminated members or I-joists are prohibited except where permitted by the manufacturer's recommendations or where the effects of such alterations are specifically considered in the
+design
+of the member by a registered
+design
+professional.
+
+---
+
+Cuts, notches and holes bored in trusses, structural composite lumber, structural glue-laminated members or I-joists are prohibited except where permitted by the manufacturer's recommendations or where the effects of such alterations are specifically considered in the
+design
+of the member by a registered
+design
+professional.
+
+---
+
+## Section 302.3.5: Drilling and Notching of Top Plate
+
+302.3.5 Drilling and Notching of Top Plate
+When
+piping
+or ductwork is placed in or partly in an exterior wall or interior load-bearing wall, necessitating cutting, drilling or notching of the top plate by more than 50 percent of its width, a galvanized metal tie not less than 0.054 inch thick (1.37 mm) (16 ga) and 1
+1
+/
+2
+inches (38.1 mm) wide shall be fastened across and to the plate at each side of the opening with not less than eight 10d (0.148 inch diameter) nails having a minimum length of 1
+1
+/
+2
+inches (38.1 mm) at each side or equivalent. The metal tie must extend a minimum of 6 inches (152.4 mm) past the opening. See Figure 2308.5.8 of the
+New York City Building Code
+.
+Exception:
+When the entire side of the wall with the notch or cut is covered by wood structural panel sheathing additional fastening is not required.
+
+---
+
+When
+piping
+or ductwork is placed in or partly in an exterior wall or interior load-bearing wall, necessitating cutting, drilling or notching of the top plate by more than 50 percent of its width, a galvanized metal tie not less than 0.054 inch thick (1.37 mm) (16 ga) and 1
+1
+/
+2
+inches (38.1 mm) wide shall be fastened across and to the plate at each side of the opening with not less than eight 10d (0.148 inch diameter) nails having a minimum length of 1
+1
+/
+2
+inches (38.1 mm) at each side or equivalent. The metal tie must extend a minimum of 6 inches (152.4 mm) past the opening. See Figure 2308.5.8 of the
+New York City Building Code
+.
+Exception:
+When the entire side of the wall with the notch or cut is covered by wood structural panel sheathing additional fastening is not required.
+
+---
+
+## Section 302.4: Trusses
+
+302.4 Trusses
+Truss members of any material and components shall not be
+cut, drilled, notched, spliced or otherwise altered in any way without written concurrence and
+approval of a registered
+design
+professional.
+
+---
+
+Truss members of any material and components shall not be
+cut, drilled, notched, spliced or otherwise altered in any way without written concurrence and
+approval of a registered
+design
+professional.
+
+---
+
+## Section 302.5: Cutting, Notching and Boring in Steel Framing
+
+302.5 Cutting, Notching and Boring in Steel Framing
+The cutting, notching and boring of steel framing members shall comply with Sections
+302.5.1
+through
+302.5.4
+.
+UpCodes Diagram (1)
+
+---
+
+The cutting, notching and boring of steel framing members shall comply with Sections
+302.5.1
+through
+302.5.4
+.
+
+---
+
+## Section 302.5.1: Structural Steel Framing
+
+302.5.1 Structural Steel Framing
+The cutting, notching and boring of holes in structural steel framing members shall be as prescribed by the registered
+design
+professional.
+
+---
+
+The cutting, notching and boring of holes in structural steel framing members shall be as prescribed by the registered
+design
+professional.
+
+---
+
+## Section 302.5.2: Cold-Formed Steel Framing
+
+302.5.2 Cold-Formed Steel Framing
+Flanges and lips of load-bearing, cold-formed steel framing members shall not be cut or notched. Holes in webs of load-bearing, cold-formed steel framing members shall be permitted along the centerline of the web of the framing member and shall not exceed the dimensional limitations, penetration spacing or minimum hole edge distance as prescribed by the registered
+design
+professional.
+
+---
+
+Flanges and lips of load-bearing, cold-formed steel framing members shall not be cut or notched. Holes in webs of load-bearing, cold-formed steel framing members shall be permitted along the centerline of the web of the framing member and shall not exceed the dimensional limitations, penetration spacing or minimum hole edge distance as prescribed by the registered
+design
+professional.
+
+---
+
+## Section 302.5.3: Nonstructural Cold-Formed Steel Wall Framing
+
+302.5.3 Nonstructural Cold-Formed Steel Wall Framing
+Flanges and lips of nonstructural cold-formed steel wall studs shall be permitted along the centerline of the web of the framing member, shall not exceed 1
+1
+/
+2
+inches (38.1 mm) in width or 4 inches (101.6 mm) in length, and the holes shall not be spaced less than 24 inches (609.6 mm) center to center from another hole or less than 10 inches (254 mm) from the bearing end.
+UpCodes Diagram (1)
+
+---
+
+Flanges and lips of nonstructural cold-formed steel wall studs shall be permitted along the centerline of the web of the framing member, shall not exceed 1
+1
+/
+2
+inches (38.1 mm) in width or 4 inches (101.6 mm) in length, and the holes shall not be spaced less than 24 inches (609.6 mm) center to center from another hole or less than 10 inches (254 mm) from the bearing end.
+
+---
+
+## Section 302.5.4: Steel Floor and Roof Decking
+
+302.5.4 Steel Floor and Roof Decking
+Cutting, notching and boring holes in steel floor and roof
+decking shall be as prescribed by the registered
+design
+professional.
+
+---
+
+Cutting, notching and boring holes in steel floor and roof
+decking shall be as prescribed by the registered
+design
+professional.
+
+---
+
+## Section 302.6: Cutting, Notching and Coring Into Concrete
+
+302.6 Cutting, Notching and Coring Into Concrete
+The cutting, notching or coring of concrete must
+comply with provisions of
+Chapter 19
+of the
+New York City Building Code
+and is not permitted
+without prior approval of the registered
+design
+professional.
+
+---
+
+The cutting, notching or coring of concrete must
+comply with provisions of
+Chapter 19
+of the
+New York City Building Code
+and is not permitted
+without prior approval of the registered
+design
+professional.
+
+---
+
+## Section 302.7: Protection of Footings
+
+302.7 Protection of Footings
+Trenching installed parallel to footings and walls shall not extend into
+the bearing plane of a footing or wall. The upper boundary of the bearing plane is a line that extends
+downward, at an angle of 34 degrees (1:1.5 slope) from horizontal, from the outside bottom edge of
+the footing or wall.
+
+---
+
+Trenching installed parallel to footings and walls shall not extend into
+the bearing plane of a footing or wall. The upper boundary of the bearing plane is a line that extends
+downward, at an angle of 34 degrees (1:1.5 slope) from horizontal, from the outside bottom edge of
+the footing or wall.
+
+---
+
+## Section 302.8: Piping Materials Exposed Within Plenums
+
+302.8 Piping Materials Exposed Within Plenums
+Piping
+materials exposed within
+plenums
+shall
+comply with this code.
+
+---
+
+Piping
+materials exposed within
+plenums
+shall
+comply with this code.
+
+---
+
+Section 303 Equipment and Appliance Location
+
+---
+
+## Section 303.1: General
+
+303.1 General
+Equipment
+and
+appliances
+shall be located as required by this section, specific requirements elsewhere in this code and the conditions of the
+equipment
+and
+appliance
+listing.
+
+---
+
+Equipment
+and
+appliances
+shall be located as required by this section, specific requirements elsewhere in this code and the conditions of the
+equipment
+and
+appliance
+listing.
+
+---
+
+## Section 303.2: Hazardous Locations
+
+303.2 Hazardous Locations
+Appliances
+shall not be located in a
+hazardous location
+unless listed and approved for the specific
+installation
+.
+
+---
+
+Appliances
+shall not be located in a
+hazardous location
+unless listed and approved for the specific
+installation
+.
+
+---
+
+## Section 303.3: Prohibited Locations
+
+303.3 Prohibited Locations
+Appliances
+shall not be located in sleeping rooms,
+bathrooms
+,
+toilet rooms
+, storage closets or surgical rooms, or in a space that opens only into such rooms or spaces, except where the
+installation
+complies with one of the following exceptions:
+Exceptions:
+This section shall not apply to the following
+appliances
+:
+In rooms other than those used for sleeping purposes,
+direct-vent appliances
+that obtain all
+combustion air
+directly from the outdoors and are installed in accordance with the conditions of the listing and manufacturer's instructions.
+In rooms other than those used for sleeping purposes,
+vented room heaters
+, wall
+furnaces
+, vented decorative
+appliances
+, vented gas
+fireplaces
+, vented gas
+fireplace
+heaters and decorative
+appliances
+for
+installation
+in vented solid fuel-burning
+fireplaces
+that are installed in rooms that meet the required volume criteria of
+Section 702
+.
+In rooms other than those used for sleeping purposes,
+appliances
+installed in a dedicated enclosure in which all
+combustion air
+is taken directly from the outdoors, in accordance with
+Section 703
+.
+Access to
+such enclosure shall be through a solid door, weather-stripped in accordance with the exterior door air leakage requirements of the
+New York City Energy Conservation Code
+and equipped with an approved self-closing device.
+
+---
+
+Appliances
+shall not be located in sleeping rooms,
+bathrooms
+,
+toilet rooms
+, storage closets or surgical rooms, or in a space that opens only into such rooms or spaces, except where the
+installation
+complies with one of the following exceptions:
+Exceptions:
+This section shall not apply to the following
+appliances
+:
+In rooms other than those used for sleeping purposes,
+direct-vent appliances
+that obtain all
+combustion air
+directly from the outdoors and are installed in accordance with the conditions of the listing and manufacturer's instructions.
+In rooms other than those used for sleeping purposes,
+vented room heaters
+, wall
+furnaces
+, vented decorative
+appliances
+, vented gas
+fireplaces
+, vented gas
+fireplace
+heaters and decorative
+appliances
+for
+installation
+in vented solid fuel-burning
+fireplaces
+that are installed in rooms that meet the required volume criteria of
+Section 702
+.
+In rooms other than those used for sleeping purposes,
+appliances
+installed in a dedicated enclosure in which all
+combustion air
+is taken directly from the outdoors, in accordance with
+Section 703
+.
+Access to
+such enclosure shall be through a solid door, weather-stripped in accordance with the exterior door air leakage requirements of the
+New York City Energy Conservation Code
+and equipped with an approved self-closing device.
+
+---
+
+## Section 303.4: Protection From Physical Damage
+
+303.4 Protection From Physical Damage
+Appliances
+shall not be installed in a location where subject to physical damage, including vehicular impact, unless protected by approved barriers meeting the requirements of the
+New York City Fire Code
+.
+
+---
+
+Appliances
+shall not be installed in a location where subject to physical damage, including vehicular impact, unless protected by approved barriers meeting the requirements of the
+New York City Fire Code
+.
+
+---
+
+## Section 303.5: Indoor Locations
+
+303.5 Indoor Locations
+Furnaces
+and boilers installed in closets and alcoves shall be listed for such
+installation
+.
+
+---
+
+Furnaces
+and boilers installed in closets and alcoves shall be listed for such
+installation
+.
+
+---
+
+## Section 303.6: Outdoor Locations
+
+303.6 Outdoor Locations
+Appliances
+installed in other than indoor locations shall be
+listed and labeled
+for outdoor
+installation
+.
+
+---
+
+Appliances
+installed in other than indoor locations shall be
+listed and labeled
+for outdoor
+installation
+.
+
+---
+
+## Section 303.7: Pit Locations
+
+303.7 Pit Locations
+Appliances
+installed in pits or excavations shall not come in direct contact with the surrounding soil. The sides of the pit or excavation shall be held back not less than 12 inches (304.8 mm) from the
+appliance
+. Where the depth exceeds 12 inches (304.8 mm) below adjoining grade, the walls of the pit or excavation shall be lined with concrete or masonry. Such concrete or masonry shall extend not less than 4 inches (101.6 mm) above adjoining grade and shall have sufficient lateral load-bearing capacity to resist collapse. The
+appliance
+shall be protected from flooding.
+
+---
+
+Appliances
+installed in pits or excavations shall not come in direct contact with the surrounding soil. The sides of the pit or excavation shall be held back not less than 12 inches (304.8 mm) from the
+appliance
+. Where the depth exceeds 12 inches (304.8 mm) below adjoining grade, the walls of the pit or excavation shall be lined with concrete or masonry. Such concrete or masonry shall extend not less than 4 inches (101.6 mm) above adjoining grade and shall have sufficient lateral load-bearing capacity to resist collapse. The
+appliance
+shall be protected from flooding.
+
+---
+
+## Section 303.8: Elevator Shafts
+
+303.8 Elevator Shafts
+Mechanical systems
+shall not be located in an elevator
+shaft
+.
+
+---
+
+Mechanical systems
+shall not be located in an elevator
+shaft
+.
+
+---
+
+Section 304 Installation
+UpCodes Diagram (1)
+
+---
+
+## Section 304.1: General
+
+304.1 General
+Equipment
+and
+appliances
+shall be installed as required by the terms of their approval, in accordance with the conditions of the listing, the manufacturer's instructions and this code. Manufacturer's instructions shall be available on the job site at the time of inspection.
+UpCodes Diagrams (3)
+
+---
+
+Equipment
+and
+appliances
+shall be installed as required by the terms of their approval, in accordance with the conditions of the listing, the manufacturer's instructions and this code. Manufacturer's instructions shall be available on the job site at the time of inspection.
+
+---
+
+## Section 304.2: Conflicts
+
+304.2 Conflicts
+Where conflicts between this code and the conditions of listing or the manufacturer's instructions occur, the provisions of this code shall apply.
+Exception:
+Where a code provision is less restrictive than the conditions of the listing of the
+equipment
+or
+appliance
+or the manufacturer's instructions, the conditions of the listing and the manufacturer's instructions shall apply.
+
+---
+
+Where conflicts between this code and the conditions of listing or the manufacturer's instructions occur, the provisions of this code shall apply.
+Exception:
+Where a code provision is less restrictive than the conditions of the listing of the
+equipment
+or
+appliance
+or the manufacturer's instructions, the conditions of the listing and the manufacturer's instructions shall apply.
+
+---
+
+## Section 304.3: Elevation of Ignition Source
+
+304.3 Elevation of Ignition Source
+Equipment
+and
+appliances
+having an
+ignition source
+and located in
+hazardous locations
+and public garages, private garages,
+repair
+garages, automotive motor fuel-dispensing facilities and parking garages shall be elevated such that the source of ignition is not less than 18 inches (457.2 mm) above the floor surface on which the
+equipment
+or
+appliance
+rests. For the purpose of this section, rooms or spaces that are not part of the
+living space
+of a
+dwelling unit
+and that communicate directly with a private garage through openings shall be considered to be part of the private garage.
+Exception:
+Elevation of the
+ignition source
+is not required for
+appliances
+that are listed as
+flammable vapor ignition resistant.
+UpCodes Diagram (1)
+
+---
+
+Equipment
+and
+appliances
+having an
+ignition source
+and located in
+hazardous locations
+and public garages, private garages,
+repair
+garages, automotive motor fuel-dispensing facilities and parking garages shall be elevated such that the source of ignition is not less than 18 inches (457.2 mm) above the floor surface on which the
+equipment
+or
+appliance
+rests. For the purpose of this section, rooms or spaces that are not part of the
+living space
+of a
+dwelling unit
+and that communicate directly with a private garage through openings shall be considered to be part of the private garage.
+Exception:
+Elevation of the
+ignition source
+is not required for
+appliances
+that are listed as
+flammable vapor ignition resistant.
+
+---
+
+## Section 304.3.1: Parking Garages
+
+304.3.1 Parking Garages
+Connection of a parking garage with any room in which there is a
+fuel-fired appliance
+shall be by means of a vestibule providing a two-doorway separation, except that a single door is permitted where the sources of ignition in the
+appliance
+are elevated in accordance with
+Section 304.3
+.
+Exception:
+This section shall not apply to
+appliance
+installations
+complying with
+Section 304.6
+.
+UpCodes Diagrams (2)
+Building products (2)
+
+---
+
+Connection of a parking garage with any room in which there is a
+fuel-fired appliance
+shall be by means of a vestibule providing a two-doorway separation, except that a single door is permitted where the sources of ignition in the
+appliance
+are elevated in accordance with
+Section 304.3
+.
+Exception:
+This section shall not apply to
+appliance
+installations
+complying with
+Section 304.6
+.
+
+---
+
+## Section 304.4: Prohibited Equipment and Appliance Location
+
+304.4 Prohibited Equipment and Appliance Location
+Equipment
+and
+appliances
+having an
+ignition source
+shall not be installed in Group H occupancies or
+control
+areas where open use, handling or dispensing of combustible, flammable or explosive materials occurs.
+UpCodes Diagram (1)
+
+---
+
+Equipment
+and
+appliances
+having an
+ignition source
+shall not be installed in Group H occupancies or
+control
+areas where open use, handling or dispensing of combustible, flammable or explosive materials occurs.
+
+---
+
+## Section 304.5: Hydrogen Generating and Refueling Operations
+
+304.5 Hydrogen Generating and Refueling Operations
+Hydrogen generating and refueling
+operations
+shall be prohibited except as permitted by the Commissioner of the Fire Department.
+
+---
+
+Hydrogen generating and refueling
+operations
+shall be prohibited except as permitted by the Commissioner of the Fire Department.
+
+---
+
+## Section 304.6: Public Garages
+
+304.6 Public Garages
+Appliances
+located in public garages, motor fueling-dispensing facilities,
+repair
+garages or other areas frequented by motor vehicles, shall be installed not less than 8 feet (2438.4 mm) above the floor. Where motor vehicles are capable of passing under an
+appliance
+, the
+appliance
+shall be installed at the
+clearances
+required by the
+appliance
+manufacturer and not less than 1 foot (304.8 mm) higher than the tallest vehicle garage door opening.
+Exception:
+The requirements of this section shall not apply where the
+appliances
+are protected
+from motor vehicle impact and installed in accordance with NFPA 30A and
+Section 304.3
+of this
+code.
+
+---
+
+Appliances
+located in public garages, motor fueling-dispensing facilities,
+repair
+garages or other areas frequented by motor vehicles, shall be installed not less than 8 feet (2438.4 mm) above the floor. Where motor vehicles are capable of passing under an
+appliance
+, the
+appliance
+shall be installed at the
+clearances
+required by the
+appliance
+manufacturer and not less than 1 foot (304.8 mm) higher than the tallest vehicle garage door opening.
+Exception:
+The requirements of this section shall not apply where the
+appliances
+are protected
+from motor vehicle impact and installed in accordance with NFPA 30A and
+Section 304.3
+of this
+code.
+
+---
+
+## Section 304.7: Private Garages
+
+304.7 Private Garages
+Appliances
+located in private garages and carports shall be installed with a minimum
+clearance
+of 6 feet (1828.8 mm) above the floor.
+Exception:
+The requirements of this section shall not apply where the
+appliances
+are protected
+from motor vehicle impact and installed in accordance with
+Section 304.3
+.
+
+---
+
+Appliances
+located in private garages and carports shall be installed with a minimum
+clearance
+of 6 feet (1828.8 mm) above the floor.
+Exception:
+The requirements of this section shall not apply where the
+appliances
+are protected
+from motor vehicle impact and installed in accordance with
+Section 304.3
+.
+
+---
+
+## Section 304.8: Construction and Protection
+
+304.8 Construction and Protection
+Boiler rooms
+and
+furnace rooms
+shall be protected as required by the
+New York City Building Code
+.
+
+---
+
+Boiler rooms
+and
+furnace rooms
+shall be protected as required by the
+New York City Building Code
+.
+
+---
+
+## Section 304.9: Clearances to Combustible Construction
+
+304.9 Clearances to Combustible Construction
+Heat-producing
+equipment
+and
+appliances
+shall be installed to maintain the required
+clearances
+to combustible construction as specified in the listing and manufacturer's instructions. Such
+clearances
+shall be reduced only in accordance with
+Section 308
+.
+Clearances
+to combustibles shall include such considerations as door swing, drawer pull, overhead projections or shelving and window swing, shutters, coverings and drapes. Devices such as doorstops or limits, closers, drapery ties or guards shall not be used to provide the required
+clearances
+.
+
+---
+
+Heat-producing
+equipment
+and
+appliances
+shall be installed to maintain the required
+clearances
+to combustible construction as specified in the listing and manufacturer's instructions. Such
+clearances
+shall be reduced only in accordance with
+Section 308
+.
+Clearances
+to combustibles shall include such considerations as door swing, drawer pull, overhead projections or shelving and window swing, shutters, coverings and drapes. Devices such as doorstops or limits, closers, drapery ties or guards shall not be used to provide the required
+clearances
+.
+
+---
+
+## Section 304.10: Clearances From Grade
+
+304.10 Clearances From Grade
+Equipment
+and
+appliances
+installed at grade level shall be supported on a level concrete slab or other approved material extending not less than 3 inches (76.2 mm) above adjoining grade or shall be suspended not less than 6 inches (152.4 mm) above adjoining grade. Such
+support
+shall be in accordance with the manufacturer's instructions.
+
+---
+
+Equipment
+and
+appliances
+installed at grade level shall be supported on a level concrete slab or other approved material extending not less than 3 inches (76.2 mm) above adjoining grade or shall be suspended not less than 6 inches (152.4 mm) above adjoining grade. Such
+support
+shall be in accordance with the manufacturer's instructions.
+
+---
+
+## Section 304.11: Guards
+
+304.11 Guards
+Guards shall be provided where
+appliances
+,
+equipment
+, fans or other components that require service and roof hatch openings are located within 10 feet (3048 mm) of a roof edge or open side of a walking surface and such edge or open side is located more than 30 inches (762 mm) above the floor, roof, or grade below. The guard shall extend not less than 30 inches (762 mm) beyond each end of such
+appliances
+,
+equipment
+, fans, components and roof hatch openings and the top of the guard shall be located not less than 42 inches (1066.8 mm) above the elevated surface adjacent to the guard. The guard shall be constructed so as to prevent the passage of a 21-inch-diameter (533.4 mm) sphere and shall comply with the loading requirements for guards specified in the
+New York City Building Code
+.
+UpCodes Diagram (1)
+
+---
+
+Guards shall be provided where
+appliances
+,
+equipment
+, fans or other components that require service and roof hatch openings are located within 10 feet (3048 mm) of a roof edge or open side of a walking surface and such edge or open side is located more than 30 inches (762 mm) above the floor, roof, or grade below. The guard shall extend not less than 30 inches (762 mm) beyond each end of such
+appliances
+,
+equipment
+, fans, components and roof hatch openings and the top of the guard shall be located not less than 42 inches (1066.8 mm) above the elevated surface adjacent to the guard. The guard shall be constructed so as to prevent the passage of a 21-inch-diameter (533.4 mm) sphere and shall comply with the loading requirements for guards specified in the
+New York City Building Code
+.
+
+---
+
+## Section 304.12: Area Served
+
+304.12 Area Served
+Appliances
+serving different areas of a building other than where they are installed shall be permanently marked in an approved manner that uniquely identifies the
+appliance
+and the area it serves.
+
+---
+
+Appliances
+serving different areas of a building other than where they are installed shall be permanently marked in an approved manner that uniquely identifies the
+appliance
+and the area it serves.
+
+---
+
+## Section 304.13: Rooftop Access and Obstructions
+
+304.13 Rooftop Access and Obstructions
+Equipment
+and
+appliances
+installed on rooftops of buildings shall be installed in accordance with the requirements of the
+New York City Fire Code
+regarding rooftop
+access
+and
+obstructions
+, and shall not obstruct or interfere with firefighting
+operations
+or the
+operation
+of any doors, windows, fire escapes, or other means of egress or other building components requiring
+operation
+or
+access
+.
+
+---
+
+Equipment
+and
+appliances
+installed on rooftops of buildings shall be installed in accordance with the requirements of the
+New York City Fire Code
+regarding rooftop
+access
+and
+obstructions
+, and shall not obstruct or interfere with firefighting
+operations
+or the
+operation
+of any doors, windows, fire escapes, or other means of egress or other building components requiring
+operation
+or
+access
+.
+
+---
+
+Section 305 Piping Support
+UpCodes Diagrams (2)
+
+---
+
+## Section 305.1: General
+
+305.1 General
+Mechanical system
+piping
+shall be supported in accordance with this section.
+
+---
+
+Mechanical system
+piping
+shall be supported in accordance with this section.
+
+---
+
+## Section 305.2: Materials
+
+305.2 Materials
+Pipe
+hangers and
+supports
+shall have sufficient strength to withstand all anticipated static and specified dynamic loading conditions associated with the intended use.
+Pipe
+hangers and
+supports
+that are in direct contact with
+piping
+shall be of materials that are compatible with the
+piping
+and that will not promote galvanic action.
+
+---
+
+Pipe
+hangers and
+supports
+shall have sufficient strength to withstand all anticipated static and specified dynamic loading conditions associated with the intended use.
+Pipe
+hangers and
+supports
+that are in direct contact with
+piping
+shall be of materials that are compatible with the
+piping
+and that will not promote galvanic action.
+
+---
+
+## Section 305.3: Structural Attachment
+
+305.3 Structural Attachment
+Hangers and anchors shall be attached to the building structure. Post-installed anchors shall be subject to special inspection in accordance with Section 1705.37 of the
+New
+York City Building Code
+.
+
+---
+
+Hangers and anchors shall be attached to the building structure. Post-installed anchors shall be subject to special inspection in accordance with Section 1705.37 of the
+New
+York City Building Code
+.
+
+---
+
+## Section 305.4: Interval of Support
+
+305.4 Interval of Support
+Piping
+shall be supported at distances not exceeding the spacing specified in Table 305.4, or in accordance with ANSI/MSS SP-58.
+TABLE 305.4
+PIPING
+SUPPORT
+SPACING
+a
+PIPING
+MATERIAL
+MAXIMUM
+HORIZONTAL
+SPACING
+(feet)
+MAXIMUM
+VERTICAL
+SPACING
+(feet)
+ABS
+pipe
+4
+10
+c
+Aluminum
+pipe
+and
+tubing
+10
+15
+Brass
+pipe
+10
+10
+Brass
+tubing
+, 1
+1
+/
+4
+-inch diameter and smaller
+6
+10
+Brass
+tubing
+, 1
+1
+/
+2
+-inch diameter and larger
+10
+10
+Cast-iron
+pipe
+b
+5
+15
+Copper or copper-alloy
+pipe
+12
+10
+Copper or copper-alloy
+tubing
+, 1
+1
+/
+4
+-inch diameter and smaller
+6
+10
+Copper or copper-alloy
+tubing
+, 1
+1
+/
+2
+-inch diameter and larger
+10
+10
+CPVC
+pipe
+or
+tubing
+, 1 inch and smaller
+3
+10
+c
+CPVC
+pipe
+or
+tubing
+, 1
+1
+/
+4
+-inch and larger
+4
+10
+c
+Lead
+pipe
+Continuous
+4
+PB
+pipe
+or
+tubing
+2
+2
+/
+3
+(32 inches)
+4
+PE-RT < 1 inches
+2
+2
+/
+3
+(32 inches)
+10
+c
+PE-RT > 1
+1
+/
+4
+inches
+4
+10
+c
+PEX
+tubing
+2
+2
+/
+3
+(32 inches)
+10
+c
+Polypropylene (PP)
+pipe
+or
+tubing
+, 1 inch or smaller
+2
+2
+/
+3
+(32 inches)
+10
+c
+Polypropylene (PP)
+pipe
+or
+tubing
+1
+1
+/
+4
+inches or larger
+4
+10
+c
+PVC
+pipe
+4
+10
+c
+Steel
+tubing
+8
+10
+Steel
+pipe
+12
+15
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
+See
+Section 301.18
+.
+The maximum horizontal spacing of cast-iron
+pipe
+hangers shall be increased.
+Mid-
+story
+guide.
+
+---
+
+Piping
+shall be supported at distances not exceeding the spacing specified in Table 305.4, or in accordance with ANSI/MSS SP-58.
+TABLE 305.4
+PIPING
+SUPPORT
+SPACING
+a
+PIPING
+MATERIAL
+MAXIMUM
+HORIZONTAL
+SPACING
+(feet)
+MAXIMUM
+VERTICAL
+SPACING
+(feet)
+ABS
+pipe
+4
+10
+c
+Aluminum
+pipe
+and
+tubing
+10
+15
+Brass
+pipe
+10
+10
+Brass
+tubing
+, 1
+1
+/
+4
+-inch diameter and smaller
+6
+10
+Brass
+tubing
+, 1
+1
+/
+2
+-inch diameter and larger
+10
+10
+Cast-iron
+pipe
+b
+5
+15
+Copper or copper-alloy
+pipe
+12
+10
+Copper or copper-alloy
+tubing
+, 1
+1
+/
+4
+-inch diameter and smaller
+6
+10
+Copper or copper-alloy
+tubing
+, 1
+1
+/
+2
+-inch diameter and larger
+10
+10
+CPVC
+pipe
+or
+tubing
+, 1 inch and smaller
+3
+10
+c
+CPVC
+pipe
+or
+tubing
+, 1
+1
+/
+4
+-inch and larger
+4
+10
+c
+Lead
+pipe
+Continuous
+4
+PB
+pipe
+or
+tubing
+2
+2
+/
+3
+(32 inches)
+4
+PE-RT < 1 inches
+2
+2
+/
+3
+(32 inches)
+10
+c
+PE-RT > 1
+1
+/
+4
+inches
+4
+10
+c
+PEX
+tubing
+2
+2
+/
+3
+(32 inches)
+10
+c
+Polypropylene (PP)
+pipe
+or
+tubing
+, 1 inch or smaller
+2
+2
+/
+3
+(32 inches)
+10
+c
+Polypropylene (PP)
+pipe
+or
+tubing
+1
+1
+/
+4
+inches or larger
+4
+10
+c
+PVC
+pipe
+4
+10
+c
+Steel
+tubing
+8
+10
+Steel
+pipe
+12
+15
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
+See
+Section 301.18
+.
+The maximum horizontal spacing of cast-iron
+pipe
+hangers shall be increased.
+Mid-
+story
+guide.
+
+---
+
+## Section 305.5: Protection Against Physical Damage
+
+305.5 Protection Against Physical Damage
+In
+concealed locations
+where
+piping
+, other than cast-iron or steel, is installed through holes or notches in studs, joists, rafters or similar members less than 1
+1
+/
+2
+inches (38.1 mm) from the nearest edge of the member, the
+pipe
+shall be protected by shield plates. Protective steel shield plates having a minimum thickness of 0.0575 inch (1.463 mm) (No. 16 gage) shall cover the area of the
+pipe
+where the member is notched or bored, and shall extend not less than 2 inches (50.8 mm) above sole plates and below top plates.
+UpCodes Diagram (1)
+
+---
+
+In
+concealed locations
+where
+piping
+, other than cast-iron or steel, is installed through holes or notches in studs, joists, rafters or similar members less than 1
+1
+/
+2
+inches (38.1 mm) from the nearest edge of the member, the
+pipe
+shall be protected by shield plates. Protective steel shield plates having a minimum thickness of 0.0575 inch (1.463 mm) (No. 16 gage) shall cover the area of the
+pipe
+where the member is notched or bored, and shall extend not less than 2 inches (50.8 mm) above sole plates and below top plates.
+
+---
+
+Section 306 Access and Service Space
+
+---
+
+## Section 306.1: Access
+
+306.1 Access
+Appliances
+,
+control
+devices,
+heat exchangers
+and HVAC system components that require
+maintenance
+shall be accessible for inspection, service,
+repair
+and replacement without disabling the function of a fire-resistance-rated assembly or removing permanent construction, other
+appliances
+,
+venting systems
+or any other
+piping
+or
+ducts
+not connected to the
+appliance
+being inspected, serviced, repaired or replaced. A level working space not less than 30 inches deep and 30 inches wide (762 mm by 762 mm) shall be provided in front of the
+control
+side to service an
+appliance
+.
+Clearance
+shall also be provided as required by the
+New York City Electrical Code
+.
+UpCodes Diagram (1)
+
+---
+
+Appliances
+,
+control
+devices,
+heat exchangers
+and HVAC system components that require
+maintenance
+shall be accessible for inspection, service,
+repair
+and replacement without disabling the function of a fire-resistance-rated assembly or removing permanent construction, other
+appliances
+,
+venting systems
+or any other
+piping
+or
+ducts
+not connected to the
+appliance
+being inspected, serviced, repaired or replaced. A level working space not less than 30 inches deep and 30 inches wide (762 mm by 762 mm) shall be provided in front of the
+control
+side to service an
+appliance
+.
+Clearance
+shall also be provided as required by the
+New York City Electrical Code
+.
+
+---
+
+## Section 306.1.1: Central Furnaces
+
+306.1.1 Central Furnaces
+Central
+furnaces
+within compartments or alcoves shall have a minimum working space
+clearance
+of 3 inches (76.2 mm) along the sides, back and top with a total width of the enclosing space being not less than 12 inches (304.8 mm) wider than the
+furnace
+.
+Furnaces
+having a firebox open to the atmosphere shall have not less than 6 inches (152.4 mm) working space along the front
+combustion chamber
+side.
+Combustion air
+openings at the rear or side of the compartment shall comply with the requirements of
+Chapter 7
+.
+Exception:
+This section shall not apply to replacement
+appliances
+installed in existing compartments and alcoves where the working space
+clearances
+are in accordance with the
+equipment
+or
+appliance
+manufacturer's instructions.
+
+---
+
+Central
+furnaces
+within compartments or alcoves shall have a minimum working space
+clearance
+of 3 inches (76.2 mm) along the sides, back and top with a total width of the enclosing space being not less than 12 inches (304.8 mm) wider than the
+furnace
+.
+Furnaces
+having a firebox open to the atmosphere shall have not less than 6 inches (152.4 mm) working space along the front
+combustion chamber
+side.
+Combustion air
+openings at the rear or side of the compartment shall comply with the requirements of
+Chapter 7
+.
+Exception:
+This section shall not apply to replacement
+appliances
+installed in existing compartments and alcoves where the working space
+clearances
+are in accordance with the
+equipment
+or
+appliance
+manufacturer's instructions.
+
+---
+
+## Section 306.2: Appliances in Rooms
+
+306.2 Appliances in Rooms
+Rooms containing
+appliances
+shall be provided with a door and an unobstructed passageway measuring not less than 36 inches (914.4 mm) wide and 80 inches (2032 mm) high.
+Exception:
+Within a
+dwelling unit
+,
+appliances
+installed in a compartment, alcove, basement or similar space shall be accessed by an opening or door and an unobstructed passageway measuring not less than 24 inches (609.6 mm) wide and large enough to allow removal of the largest
+appliance
+in the space, provided that a level service space of not less than 30 inches (762 mm) deep and the height of the
+appliance
+, but not less than 30 inches (762 mm), is present at the front or service side of the
+appliance
+with the door open.
+UpCodes Diagram (1)
+
+---
+
+Rooms containing
+appliances
+shall be provided with a door and an unobstructed passageway measuring not less than 36 inches (914.4 mm) wide and 80 inches (2032 mm) high.
+Exception:
+Within a
+dwelling unit
+,
+appliances
+installed in a compartment, alcove, basement or similar space shall be accessed by an opening or door and an unobstructed passageway measuring not less than 24 inches (609.6 mm) wide and large enough to allow removal of the largest
+appliance
+in the space, provided that a level service space of not less than 30 inches (762 mm) deep and the height of the
+appliance
+, but not less than 30 inches (762 mm), is present at the front or service side of the
+appliance
+with the door open.
+
+---
+
+## Section 306.3: Appliances in Attics
+
+306.3 Appliances in Attics
+Attics containing
+appliances
+shall be provided with an opening and unobstructed passageway large enough to allow removal of the largest
+appliance
+. The passageway shall be not less than 30 inches (762 mm) high and 22 inches (558.8 mm) wide and not more than 20 feet (6096 mm) in length measured along the centerline of the passageway from the opening to the
+appliance
+. The passageway shall have continuous solid flooring not less than 24 inches (609.6 mm) wide. A level service space not less than 30 inches (762 mm) deep and 30 inches (762 mm) wide shall be present at the front or service side of the
+appliance
+. The clear
+access
+opening dimensions shall be not less than 20 inches by 30 inches (508 mm by 762 mm), and large enough to allow removal of the largest
+appliance
+.
+Exceptions:
+The passageway and level service space are not required where the
+appliance
+is capable of being serviced and removed through the required opening.
+Where the passageway is unobstructed and not less than 6 feet (1828.8 mm) high and 24 inches (609.6 mm) wide for its entire length, the passageway shall be not greater than 50 feet (15 250 mm) in length.
+
+---
+
+Attics containing
+appliances
+shall be provided with an opening and unobstructed passageway large enough to allow removal of the largest
+appliance
+. The passageway shall be not less than 30 inches (762 mm) high and 22 inches (558.8 mm) wide and not more than 20 feet (6096 mm) in length measured along the centerline of the passageway from the opening to the
+appliance
+. The passageway shall have continuous solid flooring not less than 24 inches (609.6 mm) wide. A level service space not less than 30 inches (762 mm) deep and 30 inches (762 mm) wide shall be present at the front or service side of the
+appliance
+. The clear
+access
+opening dimensions shall be not less than 20 inches by 30 inches (508 mm by 762 mm), and large enough to allow removal of the largest
+appliance
+.
+Exceptions:
+The passageway and level service space are not required where the
+appliance
+is capable of being serviced and removed through the required opening.
+Where the passageway is unobstructed and not less than 6 feet (1828.8 mm) high and 24 inches (609.6 mm) wide for its entire length, the passageway shall be not greater than 50 feet (15 250 mm) in length.
+
+---
+
+## Section 306.3.1: Electrical Requirements
+
+306.3.1 Electrical Requirements
+A luminaire controlled by a switch located at the required passageway opening and a receptacle
+outlet
+shall be provided at or near the
+appliance
+location in accordance with the
+New York City Electrical Code
+.
+UpCodes Diagram (1)
+
+---
+
+A luminaire controlled by a switch located at the required passageway opening and a receptacle
+outlet
+shall be provided at or near the
+appliance
+location in accordance with the
+New York City Electrical Code
+.
+
+---
+
+## Section 306.4: Appliances Under Floors
+
+306.4 Appliances Under Floors
+Under-floor spaces containing
+appliances
+shall be provided with an
+access
+opening and unobstructed passageway large enough to remove the largest
+appliance
+. The passageway shall be not less than 30 inches (762 mm) high and 22 inches (558.8 mm) wide, nor more than 20 feet (6096 mm) in length measured along the centerline of the passageway from the opening to the
+appliance
+. A level service space not less than 30 inches (762 mm) deep and 30 inches (762 mm) wide shall be present at the front or service side of the
+appliance
+. If the depth of the passageway or the service space exceeds 12 inches (304.8 mm) below the adjoining grade, the walls of the passageway shall be lined with concrete or masonry. Such concrete or masonry shall extend not less than 4 inches (101.6 mm) above the adjoining grade and shall have sufficient lateral-bearing capacity to resist collapse. The clear
+access
+opening dimensions shall be not less than 22 inches by 30 inches (558.8 mm by 762 mm), and large enough to allow removal of the largest
+appliance
+.
+Exceptions:
+The passageway is not required where the level service space is present when the
+access
+is open and the
+appliance
+is capable of being serviced and removed through the required opening.
+Where the passageway is unobstructed and not less than 6 feet (1828.8 mm) high and 22 inches (558.8 mm) wide for its entire length, the passageway shall not be limited in length.
+UpCodes Diagram (1)
+
+---
+
+Under-floor spaces containing
+appliances
+shall be provided with an
+access
+opening and unobstructed passageway large enough to remove the largest
+appliance
+. The passageway shall be not less than 30 inches (762 mm) high and 22 inches (558.8 mm) wide, nor more than 20 feet (6096 mm) in length measured along the centerline of the passageway from the opening to the
+appliance
+. A level service space not less than 30 inches (762 mm) deep and 30 inches (762 mm) wide shall be present at the front or service side of the
+appliance
+. If the depth of the passageway or the service space exceeds 12 inches (304.8 mm) below the adjoining grade, the walls of the passageway shall be lined with concrete or masonry. Such concrete or masonry shall extend not less than 4 inches (101.6 mm) above the adjoining grade and shall have sufficient lateral-bearing capacity to resist collapse. The clear
+access
+opening dimensions shall be not less than 22 inches by 30 inches (558.8 mm by 762 mm), and large enough to allow removal of the largest
+appliance
+.
+Exceptions:
+The passageway is not required where the level service space is present when the
+access
+is open and the
+appliance
+is capable of being serviced and removed through the required opening.
+Where the passageway is unobstructed and not less than 6 feet (1828.8 mm) high and 22 inches (558.8 mm) wide for its entire length, the passageway shall not be limited in length.
+
+---
+
+## Section 306.4.1: Electrical Requirements
+
+306.4.1 Electrical Requirements
+A luminaire controlled by a switch located at the required passageway opening and a receptacle
+outlet
+shall be provided at or near the
+appliance
+location in accordance with the
+New York City Electrical Code
+.
+
+---
+
+A luminaire controlled by a switch located at the required passageway opening and a receptacle
+outlet
+shall be provided at or near the
+appliance
+location in accordance with the
+New York City Electrical Code
+.
+
+---
+
+## Section 306.5: Equipment and Appliances on Roofs or Elevated Structures
+
+306.5 Equipment and Appliances on Roofs or Elevated Structures
+Where
+equipment
+or
+appliances
+requiring
+access
+are located on an elevated structure or the roof of a building such that personnel will have to climb higher than 16 feet (4876.8 mm) above grade, roof or floor level
+to access
+such
+equipment
+or
+appliances
+, an interior or exterior means of
+access
+shall be provided. Such
+access
+shall not require climbing over
+obstructions
+greater than 30 inches (762 mm) in height or walking on roofs having a slope greater than 4 units vertical in 12 units horizontal (33-percent slope). Such
+access to
+the roof or elevated structure and
+access
+from the roof or elevated structure to
+equipment
+requiring
+maintenance
+shall not require the use of portable ladders. Where
+access
+involves climbing over parapet walls, the height shall be measured to the top of the parapet wall.
+Permanent ladders installed to provide the required
+access
+shall comply with the following minimum
+design
+criteria:
+The side railing shall extend above the parapet or roof edge not less than 30 inches (762 mm).
+Ladders shall have rung spacing not to exceed 12 inches (304.8 mm) on center. The uppermost rung shall be not more than 24 inches (609.6 mm) below the upper edge of the roof hatch, roof or parapet, or
+equipment
+access
+platform, as applicable.
+Ladders shall have a toe spacing not less than 7 inches (177.8 mm) deep.
+There shall be not less than 18 inches (457.2 mm) between rails.
+Rungs shall have a diameter not less than 0.75-inch (19 mm) and be capable of withstanding a 300-pound (136.1 kg) load.
+Where a cage, well or ladder safety device is prohibited, ladders over 20 feet (6096 mm) in height shall be provided with landing platforms for each 30 feet (9144 mm) of height. Where a cage, well or ladder safety device is not provided, ladders over 20 feet (6096 mm) in height shall be provided with landing platforms for each 20 feet (6096 mm) of height. Landings shall be capable of withstanding 100 pounds (488.2 kg/m
+2
+) per square foot. A guard rail and toeboard shall be provided on all open sides of the landing.
+Climbing
+clearance
+. The distance from the centerline of the rungs to the nearest permanent object on the climbing side of the ladder shall be not less than 30 inches (762 mm) measured perpendicular to the rungs. This distance shall be maintained from the point of ladder
+access to
+the bottom of the roof hatch. A minimum clear width of 15 inches (381 mm) shall be provided on both sides of the ladder measured from the midpoint of and parallel with the rungs
+except where cages or wells are installed.
+Landing required. The ladder shall be provided with a clear and unobstructed bottom landing area having a minimum dimension of 30 inches by 30 inches (762 mm by 762 mm) centered in front of the ladder.
+Ladders shall be protected against corrosion by approved means.
+Service personnel shall have
+access to
+ladders at all times.
+Where ladder extensions are installed, the side rails of through or side-step ladder extensions shall extend 3
+1
+/
+2
+feet (1066.8 mm) above the parapets and landings. For through ladder extensions, the rungs shall be omitted from the extensions and shall have not less than 18 inches (457.2 mm) nor more than 24 inches (609.6 mm) of
+clearance
+between rails. For side-step or offset fixed ladder sections, at landings, the side rails and rungs shall be carried to the next regular rung beyond or above the 3
+1
+/
+2
+feet (1066.8 mm) minimum.
+Catwalks installed to provide the required
+access
+shall be not less than 24 inches (609.6 mm) wide and shall have railings as required for service platforms.
+Exception:
+This section shall not apply to Group R-3 occupancies.
+UpCodes Diagram (1)
+Building products (19)
+
+---
+
+Where
+equipment
+or
+appliances
+requiring
+access
+are located on an elevated structure or the roof of a building such that personnel will have to climb higher than 16 feet (4876.8 mm) above grade, roof or floor level
+to access
+such
+equipment
+or
+appliances
+, an interior or exterior means of
+access
+shall be provided. Such
+access
+shall not require climbing over
+obstructions
+greater than 30 inches (762 mm) in height or walking on roofs having a slope greater than 4 units vertical in 12 units horizontal (33-percent slope). Such
+access to
+the roof or elevated structure and
+access
+from the roof or elevated structure to
+equipment
+requiring
+maintenance
+shall not require the use of portable ladders. Where
+access
+involves climbing over parapet walls, the height shall be measured to the top of the parapet wall.
+Permanent ladders installed to provide the required
+access
+shall comply with the following minimum
+design
+criteria:
+The side railing shall extend above the parapet or roof edge not less than 30 inches (762 mm).
+Ladders shall have rung spacing not to exceed 12 inches (304.8 mm) on center. The uppermost rung shall be not more than 24 inches (609.6 mm) below the upper edge of the roof hatch, roof or parapet, or
+equipment
+access
+platform, as applicable.
+Ladders shall have a toe spacing not less than 7 inches (177.8 mm) deep.
+There shall be not less than 18 inches (457.2 mm) between rails.
+Rungs shall have a diameter not less than 0.75-inch (19 mm) and be capable of withstanding a 300-pound (136.1 kg) load.
+Where a cage, well or ladder safety device is prohibited, ladders over 20 feet (6096 mm) in height shall be provided with landing platforms for each 30 feet (9144 mm) of height. Where a cage, well or ladder safety device is not provided, ladders over 20 feet (6096 mm) in height shall be provided with landing platforms for each 20 feet (6096 mm) of height. Landings shall be capable of withstanding 100 pounds (488.2 kg/m
+2
+) per square foot. A guard rail and toeboard shall be provided on all open sides of the landing.
+Climbing
+clearance
+. The distance from the centerline of the rungs to the nearest permanent object on the climbing side of the ladder shall be not less than 30 inches (762 mm) measured perpendicular to the rungs. This distance shall be maintained from the point of ladder
+access to
+the bottom of the roof hatch. A minimum clear width of 15 inches (381 mm) shall be provided on both sides of the ladder measured from the midpoint of and parallel with the rungs
+except where cages or wells are installed.
+Landing required. The ladder shall be provided with a clear and unobstructed bottom landing area having a minimum dimension of 30 inches by 30 inches (762 mm by 762 mm) centered in front of the ladder.
+Ladders shall be protected against corrosion by approved means.
+Service personnel shall have
+access to
+ladders at all times.
+Where ladder extensions are installed, the side rails of through or side-step ladder extensions shall extend 3
+1
+/
+2
+feet (1066.8 mm) above the parapets and landings. For through ladder extensions, the rungs shall be omitted from the extensions and shall have not less than 18 inches (457.2 mm) nor more than 24 inches (609.6 mm) of
+clearance
+between rails. For side-step or offset fixed ladder sections, at landings, the side rails and rungs shall be carried to the next regular rung beyond or above the 3
+1
+/
+2
+feet (1066.8 mm) minimum.
+Catwalks installed to provide the required
+access
+shall be not less than 24 inches (609.6 mm) wide and shall have railings as required for service platforms.
+Exception:
+This section shall not apply to Group R-3 occupancies.
+
+---
+
+## Section 306.5.1: Sloped Roofs
+
+306.5.1 Sloped Roofs
+Where
+appliances
+,
+equipment
+, fans or other components that require service are installed on a roof having a slope of three units vertical in 12 units horizontal (25-percent slope) or greater and having an edge more than 30 inches (762 mm) above grade at such edge, a level platform shall be provided on each side of the
+appliance
+or
+equipment
+to which
+access
+is required for service,
+repair
+or
+maintenance
+. The platform shall be not less than 30 inches (762 mm) in any dimension and shall be provided with guards. The guards shall extend not less than 42 inches (1066.8 mm) above the platform, shall be constructed so as to prevent the passage of a 21-inch (533.4 mm) diameter sphere and shall comply with the loading requirements for guards specified in the
+New York City Building Code
+.
+Access
+shall not require walking on roofs having a slope greater than four units vertical in 12 units horizontal (33-percent slope). Where
+access
+involves
+obstructions
+greater than 30 inches (762 mm) in height, such
+obstructions
+shall be provided with ladders installed in accordance with
+Section 306.5
+or stairways installed in accordance with the requirements specified in the
+New York City Building Code
+in the path of travel to and from
+appliances
+, fans or
+equipment
+requiring service.
+Building products (11)
+
+---
+
+Where
+appliances
+,
+equipment
+, fans or other components that require service are installed on a roof having a slope of three units vertical in 12 units horizontal (25-percent slope) or greater and having an edge more than 30 inches (762 mm) above grade at such edge, a level platform shall be provided on each side of the
+appliance
+or
+equipment
+to which
+access
+is required for service,
+repair
+or
+maintenance
+. The platform shall be not less than 30 inches (762 mm) in any dimension and shall be provided with guards. The guards shall extend not less than 42 inches (1066.8 mm) above the platform, shall be constructed so as to prevent the passage of a 21-inch (533.4 mm) diameter sphere and shall comply with the loading requirements for guards specified in the
+New York City Building Code
+.
+Access
+shall not require walking on roofs having a slope greater than four units vertical in 12 units horizontal (33-percent slope). Where
+access
+involves
+obstructions
+greater than 30 inches (762 mm) in height, such
+obstructions
+shall be provided with ladders installed in accordance with
+Section 306.5
+or stairways installed in accordance with the requirements specified in the
+New York City Building Code
+in the path of travel to and from
+appliances
+, fans or
+equipment
+requiring service.
+
+---
+
+## Section 306.5.2: Electrical Requirements
+
+306.5.2 Electrical Requirements
+A receptacle
+outlet
+shall be provided at or near the
+equipment
+location in accordance with the
+New York City Electrical Code
+.
+
+---
+
+A receptacle
+outlet
+shall be provided at or near the
+equipment
+location in accordance with the
+New York City Electrical Code
+.
+
+---
+
+Section 307 Condensate Disposal
+
+---
+
+## Section 307.1: Fuel-Burning Appliances
+
+307.1 Fuel-Burning Appliances
+Liquid
+combustion
+by-products of condensing
+appliances
+shall be collected and discharged to an approved plumbing fixture or disposal area in accordance with the manufacturer's instructions.
+Condensate
+piping
+shall be of approved corrosion-resistant material in accordance with
+Section 803
+of the
+New York City Plumbing Code
+and shall not be smaller than the drain connection on the
+appliance
+. Such
+piping
+shall maintain a minimum horizontal slope in the direction of discharge of not less than one-eighth unit vertical in 12 units horizontal (1-percent slope).
+Piping
+shall be configured to permit clearing of blockages and performance of
+maintenance
+without requiring the drain line to be cut.
+
+---
+
+Liquid
+combustion
+by-products of condensing
+appliances
+shall be collected and discharged to an approved plumbing fixture or disposal area in accordance with the manufacturer's instructions.
+Condensate
+piping
+shall be of approved corrosion-resistant material in accordance with
+Section 803
+of the
+New York City Plumbing Code
+and shall not be smaller than the drain connection on the
+appliance
+. Such
+piping
+shall maintain a minimum horizontal slope in the direction of discharge of not less than one-eighth unit vertical in 12 units horizontal (1-percent slope).
+Piping
+shall be configured to permit clearing of blockages and performance of
+maintenance
+without requiring the drain line to be cut.
+
+---
+
+## Section 307.1.1: Condensate Disposal
+
+307.1.1 Condensate Disposal
+Condensate
+from all
+fuel-burning appliances
+and associated
+flues
+shall be neutralized to a pH of at least 6 and no more than 8 prior to disposal to a sanitary system.
+
+---
+
+Condensate
+from all
+fuel-burning appliances
+and associated
+flues
+shall be neutralized to a pH of at least 6 and no more than 8 prior to disposal to a sanitary system.
+
+---
+
+## Section 307.2: Evaporators and Cooling Coils
+
+307.2 Evaporators and Cooling Coils
+Condensate
+drain systems shall be provided for
+equipment
+and
+appliances
+containing
+evaporators
+or cooling coils.
+Condensate
+drain systems shall be designed, constructed and installed in accordance with Sections
+307.2.1
+through
+307.2.6
+.
+Exception:
+Evaporators
+and cooling coils that are designed to operate in sensible cooling only
+and not
+support
+condensation shall not be required to meet the requirements of this section.
+
+---
+
+Condensate
+drain systems shall be provided for
+equipment
+and
+appliances
+containing
+evaporators
+or cooling coils.
+Condensate
+drain systems shall be designed, constructed and installed in accordance with Sections
+307.2.1
+through
+307.2.6
+.
+Exception:
+Evaporators
+and cooling coils that are designed to operate in sensible cooling only
+and not
+support
+condensation shall not be required to meet the requirements of this section.
+
+---
+
+## Section 307.2.1: Condensate Disposal
+
+307.2.1 Condensate Disposal
+Condensate
+from all cooling coils and
+evaporators
+shall be conveyed from the drain pan
+outlet
+to an approved place of disposal. Such
+piping
+shall maintain a minimum horizontal slope in the direction of discharge of not less than one-eighth unit vertical in 12 units horizontal (1-percent slope).
+Condensate
+shall not discharge into a street, alley or other areas so as to cause a nuisance.
+
+---
+
+Condensate
+from all cooling coils and
+evaporators
+shall be conveyed from the drain pan
+outlet
+to an approved place of disposal. Such
+piping
+shall maintain a minimum horizontal slope in the direction of discharge of not less than one-eighth unit vertical in 12 units horizontal (1-percent slope).
+Condensate
+shall not discharge into a street, alley or other areas so as to cause a nuisance.
+
+---
+
+## Section 307.2.2: Drain Pipe Materials and Sizes
+
+307.2.2 Drain Pipe Materials and Sizes
+Components of the
+condensate
+disposal system shall be cast iron, galvanized steel, copper, cross-linked polyethylene, polyethylene, ABS, CPVC, or PVC
+pipe
+or
+tubing
+. Polypropylene
+tubing
+may be used in lengths that do not exceed 12 inches (304.8 mm) for an individual drain application. Components shall be selected for the pressure and temperature rating of the
+installation
+. Joints and connections shall be made in accordance with the applicable provisions of
+Chapter 7
+of the
+New York City Plumbing Code
+relative to the material type.
+Condensate
+waste and drain line size shall be not less than
+3
+/
+4
+-inch (19.1 mm) internal diameter and shall not decrease in size from the drain pan connection to the place of
+condensate
+disposal. Where the drain
+pipes
+from more than one unit are manifolded together for
+condensate
+drainage, the
+pipe
+or
+tubing
+shall be sized in accordance with Table 307.2.2.
+TABLE 307.2.2
+CONDENSATE
+DRAIN
+SIZING
+EQUIPMENT
+CAPACITY
+MINIMUM
+CONDENSATE
+PIPE
+DIAMETER
+Up to 20 tons of refrigeration
+3
+/
+4
+inch
+Over 20 tons to 40 tons of refrigeration
+1 inch
+Over 40 tons to 90 tons of refrigeration
+1
+1
+/
+4
+inches
+Over 90 tons to 125 tons of refrigeration
+1
+1
+/
+2
+inches
+Over 125 tons to 250 tons of refrigeration
+2 inches
+For SI: 1 inch = 25.4 mm, 1 ton = 3.517 kW.
+UpCodes Diagram (1)
+
+---
+
+Components of the
+condensate
+disposal system shall be cast iron, galvanized steel, copper, cross-linked polyethylene, polyethylene, ABS, CPVC, or PVC
+pipe
+or
+tubing
+. Polypropylene
+tubing
+may be used in lengths that do not exceed 12 inches (304.8 mm) for an individual drain application. Components shall be selected for the pressure and temperature rating of the
+installation
+. Joints and connections shall be made in accordance with the applicable provisions of
+Chapter 7
+of the
+New York City Plumbing Code
+relative to the material type.
+Condensate
+waste and drain line size shall be not less than
+3
+/
+4
+-inch (19.1 mm) internal diameter and shall not decrease in size from the drain pan connection to the place of
+condensate
+disposal. Where the drain
+pipes
+from more than one unit are manifolded together for
+condensate
+drainage, the
+pipe
+or
+tubing
+shall be sized in accordance with Table 307.2.2.
+TABLE 307.2.2
+CONDENSATE
+DRAIN
+SIZING
+EQUIPMENT
+CAPACITY
+MINIMUM
+CONDENSATE
+PIPE
+DIAMETER
+Up to 20 tons of refrigeration
+3
+/
+4
+inch
+Over 20 tons to 40 tons of refrigeration
+1 inch
+Over 40 tons to 90 tons of refrigeration
+1
+1
+/
+4
+inches
+Over 90 tons to 125 tons of refrigeration
+1
+1
+/
+2
+inches
+Over 125 tons to 250 tons of refrigeration
+2 inches
+For SI: 1 inch = 25.4 mm, 1 ton = 3.517 kW.
+
+---
+
+## Section 307.2.3: Auxiliary and Secondary Drain Systems
+
+307.2.3 Auxiliary and Secondary Drain Systems
+In addition to the requirements of
+Section 307.2.1
+, where damage to any building components could occur as a result of overflow from the
+equipment
+primary
+condensate
+removal system, one of the following auxiliary
+protection
+methods shall be provided for each cooling coil or
+fuel-fired appliance
+that produces
+condensate
+:
+An auxiliary drain pan with a separate drain shall be provided under the coils on which condensation will occur. The auxiliary pan drain shall discharge to a conspicuous point of disposal to alert occupants in the event of a stoppage of the primary drain. The pan shall have a depth of not less than 1
+1
+/
+2
+inches (38.1 mm), shall be not less than 3 inches (76.2 mm) larger than the unit, or the coil dimensions in width and length and shall be constructed of corrosion-resistant material. Metallic pans shall have a thickness of not less than 0.0236 inch (0.6010 mm) (No. 24 gage) for galvanized sheet metal pans, 0.0179 inch (0.4546 mm) (No. 26 gage) for stainless steel pans, or 0.0320 inch (0.8128 mm) (No. 20 gage) for aluminum pans. Nonmetallic pans shall have a thickness of not less than 0.0625 inch (1.6 mm).
+A separate overflow drain line shall be connected to the drain pan provided with the
+equipment
+. Such overflow drain shall discharge to a conspicuous point of disposal to alert occupants in the event of a stoppage of the primary drain. The overflow drain line shall connect to the drain pan at a higher level than the primary drain connection.
+An auxiliary drain pan without a separate drain line shall be provided under the coils on which
+condensate
+will occur. Such pan shall be equipped with a listed water-level detection device that will shut off the
+equipment
+served prior to overflow of the pan. The auxiliary drain pan shall be constructed in accordance with Item 1 of this section.
+A listed water-level detection device shall be provided that will shut off the
+equipment
+served in the event that the primary drain is blocked. The device shall be installed in the primary drain line, the overflow drain line, or in the
+equipment
+-supplied drain pan, located at a point higher than the primary drain line connection and below the overflow rim of such pan.
+Exceptions:
+An auxiliary drain
+protection
+method shall not be required for
+fuel-fired appliances
+that automatically shut down
+operation
+in the event of a stoppage in the
+condensate
+drainage system.
+An auxiliary drain
+protection
+method shall not be required where a suitably sized and located floor drain is provided.
+
+---
+
+In addition to the requirements of
+Section 307.2.1
+, where damage to any building components could occur as a result of overflow from the
+equipment
+primary
+condensate
+removal system, one of the following auxiliary
+protection
+methods shall be provided for each cooling coil or
+fuel-fired appliance
+that produces
+condensate
+:
+An auxiliary drain pan with a separate drain shall be provided under the coils on which condensation will occur. The auxiliary pan drain shall discharge to a conspicuous point of disposal to alert occupants in the event of a stoppage of the primary drain. The pan shall have a depth of not less than 1
+1
+/
+2
+inches (38.1 mm), shall be not less than 3 inches (76.2 mm) larger than the unit, or the coil dimensions in width and length and shall be constructed of corrosion-resistant material. Metallic pans shall have a thickness of not less than 0.0236 inch (0.6010 mm) (No. 24 gage) for galvanized sheet metal pans, 0.0179 inch (0.4546 mm) (No. 26 gage) for stainless steel pans, or 0.0320 inch (0.8128 mm) (No. 20 gage) for aluminum pans. Nonmetallic pans shall have a thickness of not less than 0.0625 inch (1.6 mm).
+A separate overflow drain line shall be connected to the drain pan provided with the
+equipment
+. Such overflow drain shall discharge to a conspicuous point of disposal to alert occupants in the event of a stoppage of the primary drain. The overflow drain line shall connect to the drain pan at a higher level than the primary drain connection.
+An auxiliary drain pan without a separate drain line shall be provided under the coils on which
+condensate
+will occur. Such pan shall be equipped with a listed water-level detection device that will shut off the
+equipment
+served prior to overflow of the pan. The auxiliary drain pan shall be constructed in accordance with Item 1 of this section.
+A listed water-level detection device shall be provided that will shut off the
+equipment
+served in the event that the primary drain is blocked. The device shall be installed in the primary drain line, the overflow drain line, or in the
+equipment
+-supplied drain pan, located at a point higher than the primary drain line connection and below the overflow rim of such pan.
+Exceptions:
+An auxiliary drain
+protection
+method shall not be required for
+fuel-fired appliances
+that automatically shut down
+operation
+in the event of a stoppage in the
+condensate
+drainage system.
+An auxiliary drain
+protection
+method shall not be required where a suitably sized and located floor drain is provided.
+
+---
+
+## Section 307.2.3.1: Water-Level Monitoring Devices
+
+307.2.3.1 Water-Level Monitoring Devices
+On down-flow units and all other coils that do not have a secondary drain or provisions to install a secondary or auxiliary drain pan, a water-level monitoring device shall be installed inside the primary drain pan. This device shall shut off the
+equipment
+served in the event that the primary drain becomes restricted. Devices installed in the drain line shall not be permitted.
+
+---
+
+On down-flow units and all other coils that do not have a secondary drain or provisions to install a secondary or auxiliary drain pan, a water-level monitoring device shall be installed inside the primary drain pan. This device shall shut off the
+equipment
+served in the event that the primary drain becomes restricted. Devices installed in the drain line shall not be permitted.
+
+---
+
+## Section 307.2.3.2: Appliance, Equipment or Insulation in Pans
+
+307.2.3.2 Appliance, Equipment or Insulation in Pans
+Where an
+appliance
+,
+equipment
+or insulation is subject to water damage when auxiliary drain pans fill, that portion of the
+appliance
+,
+equipment
+or insulation shall be installed above the rim of the pans.
+Supports
+located inside of the pans to
+support
+the
+appliance
+or
+equipment
+or insulation shall be water resistant and approved.
+
+---
+
+Where an
+appliance
+,
+equipment
+or insulation is subject to water damage when auxiliary drain pans fill, that portion of the
+appliance
+,
+equipment
+or insulation shall be installed above the rim of the pans.
+Supports
+located inside of the pans to
+support
+the
+appliance
+or
+equipment
+or insulation shall be water resistant and approved.
+
+---
+
+## Section 307.2.4: Traps
+
+307.2.4 Traps
+Condensate
+drains
+shall be trapped as required by the
+equipment
+or
+appliance
+manufacturer.
+
+---
+
+Condensate
+drains
+shall be trapped as required by the
+equipment
+or
+appliance
+manufacturer.
+
+---
+
+## Section 307.2.5: Drain Line Maintenance
+
+307.2.5 Drain Line Maintenance
+Condensate
+drain lines shall be configured to permit the
+clearing of blockages and performance of
+maintenance
+without requiring the drain line to be cut.
+
+---
+
+Condensate
+drain lines shall be configured to permit the
+clearing of blockages and performance of
+maintenance
+without requiring the drain line to be cut.
+
+---
+
+## Section 307.2.6: Condensate Discharge
+
+307.2.6 Condensate Discharge
+Where multiple
+evaporators
+and/or
+condensate
+pumps discharge
+into the same
+piping
+system, it shall be piped to prevent the discharge of
+condensate
+from one
+appliance
+to another.
+
+---
+
+Where multiple
+evaporators
+and/or
+condensate
+pumps discharge
+into the same
+piping
+system, it shall be piped to prevent the discharge of
+condensate
+from one
+appliance
+to another.
+
+---
+
+## Section 307.3: Exceptions
+
+307.3 Exceptions
+This section applies to permanently installed
+equipment
+. Window units and through-the-wall
+air-conditioning
+units are exempt from the requirements of this section.
+
+---
+
+This section applies to permanently installed
+equipment
+. Window units and through-the-wall
+air-conditioning
+units are exempt from the requirements of this section.
+
+---
+
+Section 308 Clearance Reduction
+
+---
+
+## Section 308.1: Scope
+
+308.1 Scope
+This section shall govern the reduction in required
+clearances
+to gypsum board,
+combustible materials
+and
+combustible assemblies
+for
+chimneys
+,
+vents
+, kitchen exhaust
+equipment
+, mechanical
+appliances
+, and mechanical devices and
+equipment
+.
+
+---
+
+This section shall govern the reduction in required
+clearances
+to gypsum board,
+combustible materials
+and
+combustible assemblies
+for
+chimneys
+,
+vents
+, kitchen exhaust
+equipment
+, mechanical
+appliances
+, and mechanical devices and
+equipment
+.
+
+---
+
+## Section 308.2: Listed Appliances and Equipment
+
+308.2 Listed Appliances and Equipment
+The reduction of the required
+clearances
+to combustibles for
+listed and labeled
+appliances
+and
+equipment
+shall be in accordance with the requirements of this section except that such
+clearances
+shall not be reduced where reduction is specifically prohibited by the terms of the
+appliance
+or
+equipment
+listing.
+
+---
+
+The reduction of the required
+clearances
+to combustibles for
+listed and labeled
+appliances
+and
+equipment
+shall be in accordance with the requirements of this section except that such
+clearances
+shall not be reduced where reduction is specifically prohibited by the terms of the
+appliance
+or
+equipment
+listing.
+
+---
+
+## Section 308.3: Protective Assembly Construction and Installation
+
+308.3 Protective Assembly Construction and Installation
+Reduced
+clearance
+protective assemblies
+, including structural and
+support
+elements, shall be constructed of
+noncombustible materials
+. Spacers utilized to maintain an airspace between the
+protective assembly
+and the protected material or assembly shall be noncombustible. Where a space between the
+protective assembly
+and protected
+combustible material
+or assembly is specified, the same space shall be provided around the edges of the
+protective assembly
+and the spacers shall be placed so as to allow
+air
+circulation by convection in such space.
+Protective assemblies
+shall not be placed less than 1 inch (25.4 mm) from the mechanical
+appliances
+, devices or
+equipment
+, regardless of the allowable reduced
+clearance
+.
+
+---
+
+Reduced
+clearance
+protective assemblies
+, including structural and
+support
+elements, shall be constructed of
+noncombustible materials
+. Spacers utilized to maintain an airspace between the
+protective assembly
+and the protected material or assembly shall be noncombustible. Where a space between the
+protective assembly
+and protected
+combustible material
+or assembly is specified, the same space shall be provided around the edges of the
+protective assembly
+and the spacers shall be placed so as to allow
+air
+circulation by convection in such space.
+Protective assemblies
+shall not be placed less than 1 inch (25.4 mm) from the mechanical
+appliances
+, devices or
+equipment
+, regardless of the allowable reduced
+clearance
+.
+
+---
+
+## Section 308.4: Allowable Reduction
+
+308.4 Allowable Reduction
+The reduction of required
+clearances
+to
+combustible assemblies
+or
+combustible materials
+shall be based on the utilization of a
+reduced clearance protective assembly
+in accordance with
+Section 308.4.1
+or
+308.4.2
+.
+Building products (2)
+
+---
+
+The reduction of required
+clearances
+to
+combustible assemblies
+or
+combustible materials
+shall be based on the utilization of a
+reduced clearance protective assembly
+in accordance with
+Section 308.4.1
+or
+308.4.2
+.
+
+---
+
+## Section 308.4.1: Labeled Assemblies
+
+308.4.1 Labeled Assemblies
+The allowable
+clearance
+reduction shall be based on a
+reduced clearance protective assembly
+that has been tested and bears the label of an approved agency.
+
+---
+
+The allowable
+clearance
+reduction shall be based on a
+reduced clearance protective assembly
+that has been tested and bears the label of an approved agency.
+
+---
+
+## Section 308.4.2: Reduction Table
+
+308.4.2 Reduction Table
+The allowable
+clearance
+reduction shall be based on one of the methods specified in Table 308.4.2. Where required
+clearances
+are not listed in Table 308.4.2, the reduced
+clearances
+shall be determined by linear interpolation between the distances listed in the table. Reduced
+clearances
+shall not be derived by extrapolation below the range of the table.
+TABLE 308.4.2
+CLEARANCE
+REDUCTION METHODS
+b
+TYPE OF PROTECTIVE ASSEMBLY
+a
+REDUCED
+CLEARANCE
+WITH
+PROTECTION
+(inches)
+a
+Horizontal combustible
+assemblies located above
+the heat source
+Horizontal
+combustible assemblies
+located beneath the heat source and all vertical
+combustible assemblies
+Required
+clearance
+to combustibles without
+protection
+(inches)
+a
+Required
+clearance
+to combustible
+without
+protection
+(inches)
+a
+36
+18
+9
+6
+36
+18
+9
+6
+Galvanized sheet metal, minimum nominal thickness of
+0.0296 inch (No. 22 Gage), mounted on 1-inch glass fiber
+or mineral wool batt reinforced with wire on the back, 1
+inch off the
+combustible assembly
+18
+9
+5
+3
+12
+6
+3
+3
+Two layers of galvanized sheet metal, minimum nominal
+thickness of 0.0240 inch (No. 24 Gage), having a 1-inch
+airspace between layers, spaced 1 inch off the combustible
+assembly
+18
+9
+5
+3
+12
+6
+3
+3
+Two layers of galvanized sheet metal, minimum nominal
+thickness of 0.0240 inch (No. 24 Gage), having 1 inch of
+fiberglass insulation between layers, spaced 1 inch off the
+combustible assembly
+18
+9
+5
+3
+12
+6
+3
+3
+0.5-inch inorganic insulating board, over 1 inch of
+fiberglass or mineral wool batt, against the combustible
+assembly
+24
+12
+6
+4
+18
+9
+5
+3
+3.5-inch brick wall, spaced 1 inch off the combustible wall
+—
+—
+—
+—
+12
+6
+6
+6
+3.5-inch brick wall, against the combustible wall
+—
+—
+—
+—
+24
+12
+6
+5
+For SI: 1 inch = 25.4 mm, °C = ((°F)-32)/1.8, 1 pound per cubic foot = 16.02 kg/m
+3
+, 1.0 Btu • in/(ft
+2
+• h • °F) = 0.144 W/m
+2
+• K.
+Mineral wool and glass fiber batts (blanket or board) shall have a minimum density of 8 pounds per cubic foot and a minimum melting point of 1,500°F. Insulation material utilized as part of a
+clearance
+reduction system shall have a thermal conductivity of 1.0 Btu • in./(ft
+2
+• h • °F) or less. Insulation board shall be formed of noncombustible material.
+For limitations on
+clearance
+reduction for solid
+fuel-burning appliances
+,
+masonry chimneys
+, connector pass-throughs,
+masonry fireplaces
+and kitchen
+ducts
+, see Sections
+308.4.2.1
+through
+308.4.2.5
+.
+
+---
+
+The allowable
+clearance
+reduction shall be based on one of the methods specified in Table 308.4.2. Where required
+clearances
+are not listed in Table 308.4.2, the reduced
+clearances
+shall be determined by linear interpolation between the distances listed in the table. Reduced
+clearances
+shall not be derived by extrapolation below the range of the table.
+TABLE 308.4.2
+CLEARANCE
+REDUCTION METHODS
+b
+TYPE OF PROTECTIVE ASSEMBLY
+a
+REDUCED
+CLEARANCE
+WITH
+PROTECTION
+(inches)
+a
+Horizontal combustible
+assemblies located above
+the heat source
+Horizontal
+combustible assemblies
+located beneath the heat source and all vertical
+combustible assemblies
+Required
+clearance
+to combustibles without
+protection
+(inches)
+a
+Required
+clearance
+to combustible
+without
+protection
+(inches)
+a
+36
+18
+9
+6
+36
+18
+9
+6
+Galvanized sheet metal, minimum nominal thickness of
+0.0296 inch (No. 22 Gage), mounted on 1-inch glass fiber
+or mineral wool batt reinforced with wire on the back, 1
+inch off the
+combustible assembly
+18
+9
+5
+3
+12
+6
+3
+3
+Two layers of galvanized sheet metal, minimum nominal
+thickness of 0.0240 inch (No. 24 Gage), having a 1-inch
+airspace between layers, spaced 1 inch off the combustible
+assembly
+18
+9
+5
+3
+12
+6
+3
+3
+Two layers of galvanized sheet metal, minimum nominal
+thickness of 0.0240 inch (No. 24 Gage), having 1 inch of
+fiberglass insulation between layers, spaced 1 inch off the
+combustible assembly
+18
+9
+5
+3
+12
+6
+3
+3
+0.5-inch inorganic insulating board, over 1 inch of
+fiberglass or mineral wool batt, against the combustible
+assembly
+24
+12
+6
+4
+18
+9
+5
+3
+3.5-inch brick wall, spaced 1 inch off the combustible wall
+—
+—
+—
+—
+12
+6
+6
+6
+3.5-inch brick wall, against the combustible wall
+—
+—
+—
+—
+24
+12
+6
+5
+For SI: 1 inch = 25.4 mm, °C = ((°F)-32)/1.8, 1 pound per cubic foot = 16.02 kg/m
+3
+, 1.0 Btu • in/(ft
+2
+• h • °F) = 0.144 W/m
+2
+• K.
+Mineral wool and glass fiber batts (blanket or board) shall have a minimum density of 8 pounds per cubic foot and a minimum melting point of 1,500°F. Insulation material utilized as part of a
+clearance
+reduction system shall have a thermal conductivity of 1.0 Btu • in./(ft
+2
+• h • °F) or less. Insulation board shall be formed of noncombustible material.
+For limitations on
+clearance
+reduction for solid
+fuel-burning appliances
+,
+masonry chimneys
+, connector pass-throughs,
+masonry fireplaces
+and kitchen
+ducts
+, see Sections
+308.4.2.1
+through
+308.4.2.5
+.
+
+---
+
+## Section 308.4.2.1: Solid Fuel-Burning Appliances
+
+308.4.2.1 Solid Fuel-Burning Appliances
+The
+clearance
+reduction methods specified in
+Table 308.4.2
+shall not be utilized to reduce the
+clearance
+required for solid
+fuel-burning appliances
+that are labeled for
+installation
+with
+clearances
+of 12 inches (304.8 mm) or less. Where
+appliances
+are labeled for
+installation
+with
+clearances
+of greater than 12 inches (304.8 mm), the
+clearance
+reduction methods of
+Table 308.4.2
+shall not reduce the
+clearance
+to less than 12 inches (304.8 mm).
+
+---
+
+The
+clearance
+reduction methods specified in
+Table 308.4.2
+shall not be utilized to reduce the
+clearance
+required for solid
+fuel-burning appliances
+that are labeled for
+installation
+with
+clearances
+of 12 inches (304.8 mm) or less. Where
+appliances
+are labeled for
+installation
+with
+clearances
+of greater than 12 inches (304.8 mm), the
+clearance
+reduction methods of
+Table 308.4.2
+shall not reduce the
+clearance
+to less than 12 inches (304.8 mm).
+
+---
+
+## Section 308.4.2.2: Masonry Chimneys
+
+308.4.2.2 Masonry Chimneys
+The
+clearance
+reduction methods specified in
+Table 308.4.2
+shall not be utilized to reduce the
+clearances
+required for
+masonry chimneys
+as specified in the
+New York City Building Code
+and
+Chapter 8
+of this code.
+
+---
+
+The
+clearance
+reduction methods specified in
+Table 308.4.2
+shall not be utilized to reduce the
+clearances
+required for
+masonry chimneys
+as specified in the
+New York City Building Code
+and
+Chapter 8
+of this code.
+
+---
+
+## Section 308.4.2.3: Chimney Connector Pass-Throughs
+
+308.4.2.3 Chimney Connector Pass-Throughs
+The
+clearance
+reduction methods specified in
+Table 308.4.2
+shall not be utilized to reduce the
+clearances
+required for
+chimney connector
+pass-throughs as specified in
+Section 803.10.4
+.
+
+---
+
+The
+clearance
+reduction methods specified in
+Table 308.4.2
+shall not be utilized to reduce the
+clearances
+required for
+chimney connector
+pass-throughs as specified in
+Section 803.10.4
+.
+
+---
+
+## Section 308.4.2.4: Masonry Fireplaces
+
+308.4.2.4 Masonry Fireplaces
+The
+clearance
+reduction methods specified in
+Table 308.4.2
+shall not be utilized to reduce the
+clearances
+required for
+masonry fireplaces
+as specified in the
+New York City Building Code
+and
+Chapter 8
+of this code.
+
+---
+
+The
+clearance
+reduction methods specified in
+Table 308.4.2
+shall not be utilized to reduce the
+clearances
+required for
+masonry fireplaces
+as specified in the
+New York City Building Code
+and
+Chapter 8
+of this code.
+
+---
+
+## Section 308.4.2.5: Kitchen Exhaust Ducts
+
+308.4.2.5 Kitchen Exhaust Ducts
+The
+clearance
+reduction methods specified in
+Table 308.4.2
+shall not be utilized to reduce the minimum
+clearances
+required by
+Section 506.3.11
+for kitchen exhaust
+ducts
+enclosed in a
+shaft
+.
+
+---
+
+The
+clearance
+reduction methods specified in
+Table 308.4.2
+shall not be utilized to reduce the minimum
+clearances
+required by
+Section 506.3.11
+for kitchen exhaust
+ducts
+enclosed in a
+shaft
+.
+
+---
+
+Section 309 Temperature Control
+
+---
+
+## Section 309.1: Space-Heating Systems
+
+309.1 Space-Heating Systems
+Interior spaces intended for human occupancy shall be provided with active or passive space-heating systems capable of maintaining an indoor temperature of not less than 68°F (20°C) at a point 3 feet (914.4 mm) above floor on the
+design
+heating day. The
+installation
+of portable space heaters shall not be used to achieve compliance with this section. Refer to Section 1204 of the
+New York City Building Code
+.
+Exception:
+Interior spaces where the primary purpose is not associated with human comfort.
+
+---
+
+Interior spaces intended for human occupancy shall be provided with active or passive space-heating systems capable of maintaining an indoor temperature of not less than 68°F (20°C) at a point 3 feet (914.4 mm) above floor on the
+design
+heating day. The
+installation
+of portable space heaters shall not be used to achieve compliance with this section. Refer to Section 1204 of the
+New York City Building Code
+.
+Exception:
+Interior spaces where the primary purpose is not associated with human comfort.
+
+---
+
+Section 310 Explosion Control
+
+---
+
+## Section 310.1: Required
+
+310.1 Required
+Structures occupied for purposes involving explosion hazards shall be provided with explosion
+control
+in compliance with rules of the Commissioner of the Fire Department. Explosion
+control
+systems shall be designed and installed in accordance with the
+New York City Fire Code
+.
+
+---
+
+Structures occupied for purposes involving explosion hazards shall be provided with explosion
+control
+in compliance with rules of the Commissioner of the Fire Department. Explosion
+control
+systems shall be designed and installed in accordance with the
+New York City Fire Code
+.
+
+---
+
+Section 311 Smoke and Heat Vents
+
+---
+
+## Section 311.1: Required
+
+311.1 Required
+Approved smoke and heat
+vents
+shall be installed in the roofs of one-
+story
+buildings where required by the
+New York City Fire Code
+. Smoke and heat
+vents
+shall be designed and installed in accordance with the
+New York City Fire Code
+.
+UpCodes Diagram (1)
+
+---
+
+Approved smoke and heat
+vents
+shall be installed in the roofs of one-
+story
+buildings where required by the
+New York City Fire Code
+. Smoke and heat
+vents
+shall be designed and installed in accordance with the
+New York City Fire Code
+.
+
+---
+
+Section 312 Heating and Cooling Load Calculations
+
+---
+
+## Section 312.1: Load Calculations
+
+312.1 Load Calculations
+Heating and cooling system
+design
+loads for the purpose of
+sizing
+systems,
+appliances
+and
+equipment
+shall be determined in accordance with the procedures described in the ASHRAE ACCA Standard 183. Alternatively,
+design
+loads shall be determined by an approved equivalent computation procedure, using the
+design
+parameters specified in the
+New York City Energy Conservation Code
+. Heating and cooling system
+design
+loads for the purpose of
+sizing
+systems,
+appliances
+and
+equipment
+shall also comply with the requirements of Section 1204 of the
+New York City Building Code
+.
+
+---
+
+Heating and cooling system
+design
+loads for the purpose of
+sizing
+systems,
+appliances
+and
+equipment
+shall be determined in accordance with the procedures described in the ASHRAE ACCA Standard 183. Alternatively,
+design
+loads shall be determined by an approved equivalent computation procedure, using the
+design
+parameters specified in the
+New York City Energy Conservation Code
+. Heating and cooling system
+design
+loads for the purpose of
+sizing
+systems,
+appliances
+and
+equipment
+shall also comply with the requirements of Section 1204 of the
+New York City Building Code
+.
+
+---
+
+Section 313 Noise Control and Vibration Isolation Requirements
+
+---
+
+## Section 313.1: General
+
+313.1 General
+Interior and exterior mechanical
+equipment
+and systems shall comply with the
+provisions of this section.
+
+---
+
+Interior and exterior mechanical
+equipment
+and systems shall comply with the
+provisions of this section.
+
+---
+
+## Section 313.2: Noise From Exterior Mechanical Equipment
+
+313.2 Noise From Exterior Mechanical Equipment
+Mechanical
+equipment
+located outside of the
+building in a yard or court or on a roof, or located inside a building but open to the exterior of the
+building, shall comply with the requirements of Sections
+313.2.1
+and
+313.2.2
+.
+
+---
+
+Mechanical
+equipment
+located outside of the
+building in a yard or court or on a roof, or located inside a building but open to the exterior of the
+building, shall comply with the requirements of Sections
+313.2.1
+and
+313.2.2
+.
+
+---
+
+## Section 313.2.1: Design and Installation
+
+313.2.1 Design and Installation
+The applicant shall select and
+design
+any such exterior
+mechanical
+equipment
+in order to achieve compliance with the applicable requirements of
+Sections 24-218, 24-227, 24-228 and 24-232 of the
+Administrative Code
+, also known as the
+New
+York City Noise
+Control
+Code
+, in accordance with generally acceptable engineering practices.
+
+---
+
+The applicant shall select and
+design
+any such exterior
+mechanical
+equipment
+in order to achieve compliance with the applicable requirements of
+Sections 24-218, 24-227, 24-228 and 24-232 of the
+Administrative Code
+, also known as the
+New
+York City Noise
+Control
+Code
+, in accordance with generally acceptable engineering practices.
+
+---
+
+## Section 313.2.2: Operation
+
+313.2.2 Operation
+The
+operation
+of such exterior mechanical
+equipment
+shall comply with
+any applicable requirements of Sections 24-218, 24-227, 24-228 and 24-232 of the
+New York
+City Noise
+Control
+Code
+, as enforced by the Department of Environmental
+Protection
+.
+
+---
+
+The
+operation
+of such exterior mechanical
+equipment
+shall comply with
+any applicable requirements of Sections 24-218, 24-227, 24-228 and 24-232 of the
+New York
+City Noise
+Control
+Code
+, as enforced by the Department of Environmental
+Protection
+.
+
+---
+
+## Section 313.3: Minimum Structure-Borne Noise and Vibration Isolation Requirements
+
+313.3 Minimum Structure-Borne Noise and Vibration Isolation Requirements
+All isolators shall
+comply with the requirements of Sections
+313.3.1
+through
+313.3.10
+. Where vibration isolation of
+equipment
+and
+appliances
+is employed, supplemental restraint shall be used to accomplish the
+support
+and restraint.
+Exception:
+When specified by the registered
+design
+professional, the requirements of Sections
+313.3.1
+through
+313.3.10
+may be modified provided that the
+equipment
+,
+appliances
+, and
+supports
+shall be designed and installed so that continuous or intermittent vibration transmitted to
+structural slabs shall not exceed the following values between 8 Hz and 80 Hz on the structural
+slab in the affected occupancy space:
+Group E, I or R occupancies: 5,600 microinches (142.4 um) per second.
+All other occupancies: 16,000 microinches (406.4 um) per second.
+For the purposes of this exception, transmitted vibration shall be in accordance with the
+following parameters:
+The peak third-octave band RMS velocity measurements.
+The method shall be in accordance with ANSI/ASA S2.71.
+
+---
+
+All isolators shall
+comply with the requirements of Sections
+313.3.1
+through
+313.3.10
+. Where vibration isolation of
+equipment
+and
+appliances
+is employed, supplemental restraint shall be used to accomplish the
+support
+and restraint.
+Exception:
+When specified by the registered
+design
+professional, the requirements of Sections
+313.3.1
+through
+313.3.10
+may be modified provided that the
+equipment
+,
+appliances
+, and
+supports
+shall be designed and installed so that continuous or intermittent vibration transmitted to
+structural slabs shall not exceed the following values between 8 Hz and 80 Hz on the structural
+slab in the affected occupancy space:
+Group E, I or R occupancies: 5,600 microinches (142.4 um) per second.
+All other occupancies: 16,000 microinches (406.4 um) per second.
+For the purposes of this exception, transmitted vibration shall be in accordance with the
+following parameters:
+The peak third-octave band RMS velocity measurements.
+The method shall be in accordance with ANSI/ASA S2.71.
+
+---
+
+## Section 313.3.1: Boiler Rooms
+
+313.3.1 Boiler Rooms
+Boilers,
+boiler
+breeching, and
+boiler
+piping
+shall be isolated in accordance
+with the applicable requirements of Sections
+313.3.1.1
+and
+313.3.1.2
+.
+
+---
+
+Boilers,
+boiler
+breeching, and
+boiler
+piping
+shall be isolated in accordance
+with the applicable requirements of Sections
+313.3.1.1
+and
+313.3.1.2
+.
+
+---
+
+## Section 313.3.1.1: Boilers
+
+313.3.1.1 Boilers
+All boilers supported on floors directly above a
+story
+having
+dwelling units
+shall be supported on resilient isolators having a minimum static deflection of 1 inch (25.4
+mm). The isolators shall be installed directly under the structural frame of the boiler.
+
+---
+
+All boilers supported on floors directly above a
+story
+having
+dwelling units
+shall be supported on resilient isolators having a minimum static deflection of 1 inch (25.4
+mm). The isolators shall be installed directly under the structural frame of the boiler.
+
+---
+
+## Section 313.3.1.2: Boiler Breeching and Piping
+
+313.3.1.2 Boiler Breeching and Piping
+When boilers are equipped with mechanical
+draft
+fans, the boiler breeching and
+piping
+that are supported from or on slabs, floors or walls that
+are contiguous to the
+dwelling unit
+shall be supported for a distance of 50
+pipe
+diameters on
+or from resilient isolators. Each isolator shall have a minimum static deflection of 1 inch
+(25.4 mm).
+
+---
+
+When boilers are equipped with mechanical
+draft
+fans, the boiler breeching and
+piping
+that are supported from or on slabs, floors or walls that
+are contiguous to the
+dwelling unit
+shall be supported for a distance of 50
+pipe
+diameters on
+or from resilient isolators. Each isolator shall have a minimum static deflection of 1 inch
+(25.4 mm).
+
+---
+
+## Section 313.3.2: Refuse Charging Chutes
+
+313.3.2 Refuse Charging Chutes
+Metal chutes, chute
+supports
+, and chute bracing shall be
+installed in accordance with
+Section 313.3.2.1
+. Masonry chutes must comply with Section
+313.3.2.2
+.
+
+---
+
+Metal chutes, chute
+supports
+, and chute bracing shall be
+installed in accordance with
+Section 313.3.2.1
+. Masonry chutes must comply with Section
+313.3.2.2
+.
+
+---
+
+## Section 313.3.2.1: Metal Chutes
+
+313.3.2.1 Metal Chutes
+Metal chutes, metal chute
+supports
+, and/or metal chute bracing shall
+be free of direct contact with the
+shaft enclosure
+and the openings provided in the floor
+construction. Metal chutes shall be resiliently supported at each structural
+support
+location.
+Isolators shall provide a minimum static deflection of 0.30 inches (7.62 mm). All chutes shall
+be plumb.
+
+---
+
+Metal chutes, metal chute
+supports
+, and/or metal chute bracing shall
+be free of direct contact with the
+shaft enclosure
+and the openings provided in the floor
+construction. Metal chutes shall be resiliently supported at each structural
+support
+location.
+Isolators shall provide a minimum static deflection of 0.30 inches (7.62 mm). All chutes shall
+be plumb.
+
+---
+
+## Section 313.3.2.2: Masonry Chutes
+
+313.3.2.2 Masonry Chutes
+The interior chute wall shall be plumb and without
+obstructions
+for the full height of the
+shaft
+and shall have a smooth interior finish.
+
+---
+
+The interior chute wall shall be plumb and without
+obstructions
+for the full height of the
+shaft
+and shall have a smooth interior finish.
+
+---
+
+## Section 313.3.3: Piping
+
+313.3.3 Piping
+Equipment
+piping
+shall be installed as follows:
+Metal
+piping
+connected to power driven
+equipment
+shall be resiliently supported from or on the building structure for a distance of 50
+pipe
+diameters from the power driven
+equipment
+. The resilient isolators shall have a minimum static deflection of 1 inch (25.4 mm) for all
+piping
+with a 4 inch (101.6 mm) or larger in actual outside diameter and
+1
+/
+2
+inch (12.7 mm) for
+piping
+with less than 4 inches (101.6 mm) in actual outside diameter.
+Piping
+connected to fluid pressure-reducing valves shall be resiliently isolated for a distance of 50
+pipe
+diameters from pressure-reducing valves and isolators shall provide a minimum static deflection of
+1
+/
+2
+inch (12.7 mm).
+Equipment
+such as
+heat exchangers
+, absorption refrigeration machines, or similar
+equipment
+, that is located on any floor or roof other than a floor on grade, and that is not power driven but is connected by metal
+piping
+to power driven
+equipment
+, shall be resiliently supported from or on the building structure, for a distance of 50
+pipe
+diameters from the power driven
+equipment
+. The resilient
+supports
+shall be vibration isolators having a minimum static deflection of 1 inch (25.4 mm) and shall incorporate approved resilient pads having a minimum thickness of
+1
+/
+4
+inch (6.4 mm).
+
+---
+
+Equipment
+piping
+shall be installed as follows:
+Metal
+piping
+connected to power driven
+equipment
+shall be resiliently supported from or on the building structure for a distance of 50
+pipe
+diameters from the power driven
+equipment
+. The resilient isolators shall have a minimum static deflection of 1 inch (25.4 mm) for all
+piping
+with a 4 inch (101.6 mm) or larger in actual outside diameter and
+1
+/
+2
+inch (12.7 mm) for
+piping
+with less than 4 inches (101.6 mm) in actual outside diameter.
+Piping
+connected to fluid pressure-reducing valves shall be resiliently isolated for a distance of 50
+pipe
+diameters from pressure-reducing valves and isolators shall provide a minimum static deflection of
+1
+/
+2
+inch (12.7 mm).
+Equipment
+such as
+heat exchangers
+, absorption refrigeration machines, or similar
+equipment
+, that is located on any floor or roof other than a floor on grade, and that is not power driven but is connected by metal
+piping
+to power driven
+equipment
+, shall be resiliently supported from or on the building structure, for a distance of 50
+pipe
+diameters from the power driven
+equipment
+. The resilient
+supports
+shall be vibration isolators having a minimum static deflection of 1 inch (25.4 mm) and shall incorporate approved resilient pads having a minimum thickness of
+1
+/
+4
+inch (6.4 mm).
+
+---
+
+## Section 313.3.4: Fans
+
+313.3.4 Fans
+All fan
+equipment
+with motors in excess of
+1
+/
+2
+horsepower (0.37 kW), located on any roof or floor other than a floor on grade shall be mounted on or from vibration isolators. Fan
+equipment
+with motor drives separated from the fan
+equipment
+shall be supported on an isolated integral rigid structural base supporting both the fan and motor. Fan
+equipment
+with motor drives supported from the fan
+equipment
+shall be mounted directly on vibration isolators. Each isolator shall have provision for leveling. Isolators shall incorporate resilient pads having a minimum thickness of
+1
+/
+4
+inch (6.4 mm). The vibration isolators shall provide a minimum isolation efficiency of 90 percent at fan rotor rpm with a maximum deflection of 2 inches (50.8 mm). Fans and
+compressors
+assembled in unitary containers may meet this requirement with isolators internal to the container providing the isolators meet the above minimum isolator efficiencies.
+
+---
+
+All fan
+equipment
+with motors in excess of
+1
+/
+2
+horsepower (0.37 kW), located on any roof or floor other than a floor on grade shall be mounted on or from vibration isolators. Fan
+equipment
+with motor drives separated from the fan
+equipment
+shall be supported on an isolated integral rigid structural base supporting both the fan and motor. Fan
+equipment
+with motor drives supported from the fan
+equipment
+shall be mounted directly on vibration isolators. Each isolator shall have provision for leveling. Isolators shall incorporate resilient pads having a minimum thickness of
+1
+/
+4
+inch (6.4 mm). The vibration isolators shall provide a minimum isolation efficiency of 90 percent at fan rotor rpm with a maximum deflection of 2 inches (50.8 mm). Fans and
+compressors
+assembled in unitary containers may meet this requirement with isolators internal to the container providing the isolators meet the above minimum isolator efficiencies.
+
+---
+
+## Section 313.3.5: Pumps
+
+313.3.5 Pumps
+All pumps of 3 horsepower (2.24 kW) or more located on any floor other than a floor on grade shall be supported on vibration isolators having a minimum isolation efficiency of 90 percent at the lowest disturbing frequency. Each isolator shall incorporate a leveling device and a resilient pad having a minimum thickness of
+1
+/
+4
+inch (6.4 mm).
+
+---
+
+All pumps of 3 horsepower (2.24 kW) or more located on any floor other than a floor on grade shall be supported on vibration isolators having a minimum isolation efficiency of 90 percent at the lowest disturbing frequency. Each isolator shall incorporate a leveling device and a resilient pad having a minimum thickness of
+1
+/
+4
+inch (6.4 mm).
+
+---
+
+## Section 313.3.6: Compressors
+
+313.3.6 Compressors
+Compressors
+and drives located on a floor other than a floor on grade shall be mounted on vibration isolators having a minimum isolation efficiency of 90 percent at the lowest disturbing frequency. Each isolator shall incorporate a leveling device and a resilient pad having a minimum thickness of
+1
+/
+4
+inch (6.4 mm).
+
+---
+
+Compressors
+and drives located on a floor other than a floor on grade shall be mounted on vibration isolators having a minimum isolation efficiency of 90 percent at the lowest disturbing frequency. Each isolator shall incorporate a leveling device and a resilient pad having a minimum thickness of
+1
+/
+4
+inch (6.4 mm).
+
+---
+
+## Section 313.3.7: Cooling Towers and Fluid Coolers
+
+313.3.7 Cooling Towers and Fluid Coolers
+All moving parts of cooling towers located on a roof or floor other than a floor on grade shall be installed on vibration isolators providing a minimum isolation efficiency of 90 percent at fan rotor rpm with a maximum static deflection of 4 inches (101.6 mm). Each isolator shall incorporate a leveling device and a resilient pad having a minimum thickness of
+1
+/
+4
+inch (6.4 mm). Vibration cutoff switches shall be provided.
+
+---
+
+All moving parts of cooling towers located on a roof or floor other than a floor on grade shall be installed on vibration isolators providing a minimum isolation efficiency of 90 percent at fan rotor rpm with a maximum static deflection of 4 inches (101.6 mm). Each isolator shall incorporate a leveling device and a resilient pad having a minimum thickness of
+1
+/
+4
+inch (6.4 mm). Vibration cutoff switches shall be provided.
+
+---
+
+## Section 313.3.8: Evaporative Condensers
+
+313.3.8 Evaporative Condensers
+Evaporative and air-cooled
+condensers
+located on a roof or floor other than a floor on grade shall be mounted on vibration isolators providing a minimum isolation efficiency of 90 percent at fan rotor rpm with a maximum static deflection of 4 inches (101.6 mm). Each isolator shall incorporate a leveling device and a resilient pad having a minimum thickness of
+1
+/
+4
+inch (6.4 mm). Vibration cutoff switches shall be provided on evaporative
+condensers
+.
+
+---
+
+Evaporative and air-cooled
+condensers
+located on a roof or floor other than a floor on grade shall be mounted on vibration isolators providing a minimum isolation efficiency of 90 percent at fan rotor rpm with a maximum static deflection of 4 inches (101.6 mm). Each isolator shall incorporate a leveling device and a resilient pad having a minimum thickness of
+1
+/
+4
+inch (6.4 mm). Vibration cutoff switches shall be provided on evaporative
+condensers
+.
+
+---
+
+## Section 313.3.9: Duct Connections to Fans
+
+313.3.9 Duct Connections to Fans
+Flexible connections shall be installed between fan
+equipment
+and connecting ductwork.
+
+---
+
+Flexible connections shall be installed between fan
+equipment
+and connecting ductwork.
+
+---
+
+## Section 313.3.10: Ceiling Suspended Packaged HVAC Units With Compressors
+
+313.3.10 Ceiling Suspended Packaged HVAC Units With Compressors
+Equipment
+such as heat
+pumps,
+air-conditioning
+units, or similar
+equipment
+, that is suspended from a structure shall be
+resiliently supported from or on the building structure. Vibration isolators shall have a minimum
+isolation efficiency of 90 percent at the lowest disturbing frequency.
+
+---
+
+Equipment
+such as heat
+pumps,
+air-conditioning
+units, or similar
+equipment
+, that is suspended from a structure shall be
+resiliently supported from or on the building structure. Vibration isolators shall have a minimum
+isolation efficiency of 90 percent at the lowest disturbing frequency.
+
+---
+
