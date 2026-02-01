@@ -59,7 +59,7 @@ function CitationTooltip({
   const [showTooltip, setShowTooltip] = useState(false);
 
   if (!source) {
-    return <span className="text-blue-600 font-medium">[{number}]</span>;
+    return <span className="text-green-700 font-medium">[{number}]</span>;
   }
 
   const shortName = formatCodeName(source.code_name);
@@ -69,7 +69,7 @@ function CitationTooltip({
     <span className="relative inline-block">
       <span
         className={`font-medium cursor-pointer hover:underline ${
-          isSelected ? 'text-blue-800 bg-blue-100 px-1 rounded' : 'text-blue-600 hover:text-blue-800'
+          isSelected ? 'text-green-800 bg-green-100 px-1 rounded' : 'text-green-700 hover:text-green-800'
         }`}
         onMouseEnter={() => setShowTooltip(true)}
         onMouseLeave={() => setShowTooltip(false)}
@@ -80,7 +80,7 @@ function CitationTooltip({
       {showTooltip && !isSelected && (
         <div className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 z-50 pointer-events-none">
           <div className="bg-gray-900 text-white text-xs rounded-lg px-3 py-2 shadow-lg whitespace-nowrap">
-            <span className="font-semibold text-blue-300">{shortName}{sectionRef}</span>
+            <span className="font-semibold text-green-300">{shortName}{sectionRef}</span>
             {source.section_title && (
               <span className="text-gray-300 ml-1">{source.section_title}</span>
             )}
@@ -107,23 +107,23 @@ function SourceQuotePanel({
   const sectionRef = source.section ? ` ${source.section}` : '';
 
   return (
-    <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mt-4">
+    <div className="bg-green-50 border border-green-200 rounded-lg p-4 mt-4">
       <div className="flex justify-between items-start mb-3">
         <div>
-          <h4 className="font-semibold text-blue-800">
+          <h4 className="font-semibold text-green-800">
             {shortName}{sectionRef}
             {source.section_title && ` ${source.section_title}`}
           </h4>
-          <p className="text-xs text-blue-600">{source.code_name}</p>
+          <p className="text-xs text-green-700">{source.code_name}</p>
         </div>
         <button
           onClick={onClose}
-          className="text-blue-400 hover:text-blue-600 text-xl leading-none"
+          className="text-green-400 hover:text-green-700 text-xl leading-none"
         >
           ×
         </button>
       </div>
-      <div className="bg-white rounded border border-blue-100 p-3 text-sm text-gray-700 max-h-48 overflow-y-auto">
+      <div className="bg-white rounded border border-green-100 p-3 text-sm text-gray-700 max-h-48 overflow-y-auto">
         {source.content}
       </div>
     </div>
@@ -300,9 +300,9 @@ export default function Home() {
   return (
     <div className="flex flex-col h-screen bg-gray-50">
       {/* Header */}
-      <header className="bg-blue-600 text-white p-4 shadow-md">
+      <header className="bg-green-700 text-white p-4 shadow-md">
         <h1 className="text-xl font-bold">NYC Building Code Assistant</h1>
-        <p className="text-sm text-blue-100">Click on citation numbers to view source quotes</p>
+        <p className="text-sm text-green-100">Click on citation numbers to view source quotes</p>
       </header>
 
       {/* Main Content */}
@@ -344,7 +344,7 @@ export default function Home() {
               <div
                 className={`max-w-3xl rounded-lg p-4 ${
                   message.role === 'user'
-                    ? 'bg-blue-600 text-white'
+                    ? 'bg-green-700 text-white'
                     : 'bg-white border border-gray-200 text-gray-800'
                 }`}
               >
@@ -406,12 +406,12 @@ export default function Home() {
                       onClick={() => handleSelectSource(isSelected ? null : source)}
                       className={`w-full text-left p-2 rounded text-sm transition-colors ${
                         isSelected
-                          ? 'bg-blue-100 border border-blue-300'
+                          ? 'bg-green-100 border border-green-300'
                           : 'bg-gray-50 hover:bg-gray-100 border border-transparent'
                       }`}
                     >
-                      <span className="text-blue-600 font-medium mr-2">{i + 1}</span>
-                      <span className={isSelected ? 'text-blue-800' : 'text-gray-700'}>
+                      <span className="text-green-700 font-medium mr-2">{i + 1}</span>
+                      <span className={isSelected ? 'text-green-800' : 'text-gray-700'}>
                         {shortName} {source.section}
                         {source.section_title && ` ${source.section_title}`}
                       </span>
@@ -420,7 +420,7 @@ export default function Home() {
                 })}
                 {lastAssistantMessage.sources.length > 5 && (
                   <details className="text-sm">
-                    <summary className="text-blue-600 cursor-pointer hover:underline">
+                    <summary className="text-green-700 cursor-pointer hover:underline">
                       +{lastAssistantMessage.sources.length - 5} more
                     </summary>
                     <div className="mt-2 space-y-2">
@@ -434,12 +434,12 @@ export default function Home() {
                             onClick={() => handleSelectSource(isSelected ? null : source)}
                             className={`w-full text-left p-2 rounded text-sm transition-colors ${
                               isSelected
-                                ? 'bg-blue-100 border border-blue-300'
+                                ? 'bg-green-100 border border-green-300'
                                 : 'bg-gray-50 hover:bg-gray-100 border border-transparent'
                             }`}
                           >
-                            <span className="text-blue-600 font-medium mr-2">{actualIndex + 1}</span>
-                            <span className={isSelected ? 'text-blue-800' : 'text-gray-700'}>
+                            <span className="text-green-700 font-medium mr-2">{actualIndex + 1}</span>
+                            <span className={isSelected ? 'text-green-800' : 'text-gray-700'}>
                               {shortName} {source.section}
                             </span>
                           </button>
@@ -452,8 +452,8 @@ export default function Home() {
 
               {/* Selected source quote display */}
               {selectedSource && (
-                <div className="mt-4 p-3 bg-blue-50 rounded-lg border border-blue-200">
-                  <h4 className="font-semibold text-blue-800 text-sm mb-2">
+                <div className="mt-4 p-3 bg-green-50 rounded-lg border border-green-200">
+                  <h4 className="font-semibold text-green-800 text-sm mb-2">
                     {formatCodeName(selectedSource.code_name)} {selectedSource.section}
                     {selectedSource.section_title && ` ${selectedSource.section_title}`}
                   </h4>
@@ -476,13 +476,13 @@ export default function Home() {
             value={input}
             onChange={(e) => setInput(e.target.value)}
             placeholder="Ask a question about NYC building codes..."
-            className="flex-1 px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-black"
+            className="flex-1 px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-600 focus:border-transparent text-black"
             disabled={isLoading}
           />
           <button
             type="submit"
             disabled={isLoading || !input.trim()}
-            className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+            className="px-6 py-3 bg-green-700 text-white rounded-lg hover:bg-green-800 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
           >
             Send
           </button>
